@@ -2,8 +2,6 @@
 title: Contact Information
 ---
 
-<h1>Contact Information</h1>
-
 ### For Media Contact, or general questions about the website.
 Email: <mailto:yadda.yadda@now.org>
 
