@@ -1,5 +1,4 @@
 ---
-permalink: /about/overview.html
 layout: default
 title: Overview
 ---
