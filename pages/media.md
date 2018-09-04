@@ -1,4 +1,5 @@
 ---
+permalink: /media.html
 layout: default
 title: Media, Press Releases and Press Mentions
 ---
