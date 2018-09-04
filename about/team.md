@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Team
 ---
 
 Coming soon...
