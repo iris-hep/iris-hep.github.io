@@ -77,6 +77,6 @@ and HEP communities to address the complex issues at the intersection of
 Exascale high-throughput computing and Exabyte-scale datasets in big
 science.
 
-This project advances the objectives of the [National Strategic Computing Initiative (NSCI)](https://www.nsf.gov/cise/nsci/) and the objectives of "Harnessing the Data Revolution", one of the 10 Big Ideas for Future NSF Investments. 
+This project advances the objectives of the [National Strategic Computing Initiative (NSCI)](https://www.nsf.gov/cise/nsci/) and the objectives of ["Harnessing the Data Revolution"](https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp), one of the [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/) for Future NSF Investments. 
 
 
