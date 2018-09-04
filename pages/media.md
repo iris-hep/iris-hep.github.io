@@ -12,4 +12,5 @@ title: Media, Press Releases and Press Mentions
   * 4 Sep 2018 - ["IU cybersecurity experts to help protect Large Hadron Collider data"](https://itnews.iu.edu/articles/2018/IU%20cybersecurity%20experts%20to%20help%20protect%20Large%20Hadron%20Collider%20data.php), Indiana University
   * 4 Sep 2018 - ["UChicago computational researchers join quest to search beyond the Higgs boson"](https://news.uchicago.edu/story/computational-researchers-join-quest-search-beyond-higgs-boson), University of Chicago
   * 4 Sep 2018 - ["NSF to fund new $25M software institute to enable discoveries in high-energy physics"](http://www.washington.edu/news/2018/09/04/nsf-lhc-25m-software-institute/), University of Washington
+  * 4 Sep 2018 - ["Cornell part of $25M NSF effort to untangle future physics data"](http://news.cornell.edu/stories/2018/09/cornell-part-25m-nsf-effort-untangle-future-physics-data), Cornell University
 
