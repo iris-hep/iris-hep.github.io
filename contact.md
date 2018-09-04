@@ -4,11 +4,10 @@ title: Contact Information
 ---
 
 ### For Media Contact, or general questions about the website. 
-Email: <mailto:yadda.yadda@now.org>
+Email: <mailto:coming.soon@coming.soon>
 
 ### To get started using things, for support, operational issues
 
-* [User support](https://iris-hep.github.io)
-* Email: <mailto:help@iris-hep.org>
+* Email: <mailto:coming.soon@coming.soon>
 
 ### For everything else
