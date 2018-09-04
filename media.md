@@ -8,4 +8,5 @@ title: Media, Press Releases and Press Mentions
   * 4 Sep 2018 - ["UC awarded part of $25 million science grant"](https://www.uc.edu/news/articles/2018/09/n201067.html), University of Cincinnati
   * 4 Sep 2018 - ["University of Illinois part of $25 Million Software Institute to Enable Discoveries in High-Energy Physics"](https://physics.illinois.edu/news/article/27401), University of Illinois at Urbana-Champaign
   * 4 Sep 2018 - ["NYU Scientists Part of New Software Institute Aimed at Making Discoveries in High-Energy Physics"](https://www.nyu.edu/about/news-publications/news/2018/september/nyu-scientists-part-of-new-software-institute-aimed-at-making-di.html), New York University
+  * 4 Sep 2018 - ["IU cybersecurity experts to help protect Large Hadron Collider data"](https://itnews.iu.edu/articles/2018/IU%20cybersecurity%20experts%20to%20help%20protect%20Large%20Hadron%20Collider%20data.php), Indiana University
 
