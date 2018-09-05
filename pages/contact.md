@@ -1,4 +1,5 @@
 ---
+permalink: /contact.html
 layout: default
 title: Contact Information
 ---
@@ -10,4 +11,6 @@ title: Contact Information
 
   * Email: <mailto:coming.soon@coming.soon>
 
-### For everything else
+### Various mailing lists
+
+  * [iris-hep-pi-team@googlegroups.com](https://groups.google.com/forum/#!forum/iris-hep-pi-team] - list of IRIS-HEP PIs
