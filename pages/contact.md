@@ -13,4 +13,4 @@ title: Contact Information
 
 ### Various mailing lists
 
-  * [iris-hep-pi-team@googlegroups.com](https://groups.google.com/forum/#!forum/iris-hep-pi-team] - list of IRIS-HEP PIs
+  * [iris-hep-pi-team@googlegroups.com](https://groups.google.com/forum/#!forum/iris-hep-pi-team) - mailing list for IRIS-HEP PIs
