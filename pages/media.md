@@ -13,4 +13,7 @@ title: Media, Press Releases and Press Mentions
   * 4 Sep 2018 - ["UChicago computational researchers join quest to search beyond the Higgs boson"](https://news.uchicago.edu/story/computational-researchers-join-quest-search-beyond-higgs-boson), University of Chicago
   * 4 Sep 2018 - ["NSF to fund new $25M software institute to enable discoveries in high-energy physics"](http://www.washington.edu/news/2018/09/04/nsf-lhc-25m-software-institute/), University of Washington
   * 4 Sep 2018 - ["Cornell part of $25M NSF effort to untangle future physics data"](http://news.cornell.edu/stories/2018/09/cornell-part-25m-nsf-effort-untangle-future-physics-data), Cornell University
+  * 5 Sep 2018 - ["NSF Institute to Include Lab Physicists in Big Data R&D"](http://today.lbl.gov/2018/09/05/nsf-institute-to-include-lab-physicists-in-big-data-rd/), University of California - Berkeley
+  * 5 Sep 2018 - ["UC Santa Cruz helps address massive data demands from Large Hadron Collider as part of $25 million NSF project "](https://news.ucsc.edu/2018/09/iris-hep-grant.html), University of California - Santa Cruz
+
 
