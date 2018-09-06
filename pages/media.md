@@ -4,6 +4,8 @@ layout: default
 title: Media, Press Releases and Press Mentions
 ---
 
+## Media, Press Releases and Press Mentions
+
   * 4 Sep 2018 - ["New institute to address massive data demands from upgraded Large Hadron Collider"](https://www.nsf.gov/news/news_summ.jsp?cntn_id=296456&org=NSF&from=news), National Science Foundation 
   * 4 Sep 2018 - ["Princeton to lead new software institute to enable discoveries in high-energy physics"](https://www.princeton.edu/news/2018/09/04/princeton-lead-new-software-institute-enable-discoveries-high-energy-physics), Princeton University 
   * 4 Sep 2018 - ["UC awarded part of $25 million science grant"](https://www.uc.edu/news/articles/2018/09/n201067.html), University of Cincinnati
@@ -15,5 +17,6 @@ title: Media, Press Releases and Press Mentions
   * 4 Sep 2018 - ["Cornell part of $25M NSF effort to untangle future physics data"](http://news.cornell.edu/stories/2018/09/cornell-part-25m-nsf-effort-untangle-future-physics-data), Cornell University
   * 5 Sep 2018 - ["NSF Institute to Include Lab Physicists in Big Data R&D"](http://today.lbl.gov/2018/09/05/nsf-institute-to-include-lab-physicists-in-big-data-rd/), University of California, Berkeley
   * 5 Sep 2018 - ["UC Santa Cruz helps address massive data demands from Large Hadron Collider as part of $25 million NSF project "](https://news.ucsc.edu/2018/09/iris-hep-grant.html), University of California, Santa Cruz
+  * 5 Sep 2018 - ["Stanford part of $25 million NSF project to prepare for data deluge from Large Hadron Collider"](https://humsci.stanford.edu/feature/stanford-part-25-million-nsf-project-prepare-data-deluge-large-hadron-collider), Stanford University 
 
 
