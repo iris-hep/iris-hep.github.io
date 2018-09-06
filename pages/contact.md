@@ -14,3 +14,4 @@ title: Contact Information
 ### Various mailing lists
 
   * [iris-hep-pi-team@googlegroups.com](https://groups.google.com/forum/#!forum/iris-hep-pi-team) - mailing list for IRIS-HEP PIs
+  * [iris-hep-doma@googlegroups.com](https://groups.google.com/forum/#!forum/iris-hep-doma) - mailing list for IRIS-HEP Data Organization, Management, and Access (DOMA) activities.
