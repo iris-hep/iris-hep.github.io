@@ -18,5 +18,6 @@ title: Media, Press Releases and Press Mentions
   * 5 Sep 2018 - ["NSF Institute to Include Lab Physicists in Big Data R&D"](http://today.lbl.gov/2018/09/05/nsf-institute-to-include-lab-physicists-in-big-data-rd/), University of California, Berkeley
   * 5 Sep 2018 - ["UC Santa Cruz helps address massive data demands from Large Hadron Collider as part of $25 million NSF project "](https://news.ucsc.edu/2018/09/iris-hep-grant.html), University of California, Santa Cruz
   * 5 Sep 2018 - ["Stanford part of $25 million NSF project to prepare for data deluge from Large Hadron Collider"](https://humsci.stanford.edu/feature/stanford-part-25-million-nsf-project-prepare-data-deluge-large-hadron-collider), Stanford University 
+  * 6 Sep 2018 - ["NSF-Funded Institute Lays Groundwork for Future High-Energy Physics Discoveries"](https://www.hpcwire.com/2018/09/06/nsf-invests-25m-high-energy-physics/), HPCwire 
 
 
