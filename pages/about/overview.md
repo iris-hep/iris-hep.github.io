@@ -20,6 +20,7 @@ and implications.  During the HL-LHC era, the ATLAS and CMS experiments
 will record ~10 times as much data from ~100 times as
 many collisions as were used to discover the Higgs boson
 (and at twice the energy).
+<img class="float:right" src="/assets/images/Fig4-ZZMass_7Plus8TeV_70-180_3GeV-small.png">
 <!-- The NSF and the DOE are planning large
 investments in detector upgrades so the HL-LHC can operate in this
 high-rate environment.  A commensurate investment in R\&D for the
