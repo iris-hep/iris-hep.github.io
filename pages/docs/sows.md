@@ -1,7 +1,7 @@
 ---
-permalink: /webdev.html
+permalink: /docs/sows.html
 layout: default
-title: Information for developing the website
+title: Information for preparing annual SOWs
 ---
 
 ### SRI hashes
