@@ -16,7 +16,7 @@ are the WBS cost breakdown table and the summary of costs.
 | Name | Job Type  | 12-month Salary | Fraction | (Sum to 1.0) | Notes |
 | ---- | --------- | --------------- | -------- | -------------| ----- |
 | Jane Doe | Postdoc | $123456| 0.5 | 1.0 OSG-LHC | |
-| John Doe | Staff | $99999 | 1.0 | 0.5 DOMA, 0.5 MGMT | |
+| John Doe | Staff | $99999 | 1.0 | 0.75 AS, 0.25 MGMT | |
 | TBN      | Grad Student | $76543 | 1.0  |    0.25 DOMA, 0.75 MGMT | |
 
 Notes:
