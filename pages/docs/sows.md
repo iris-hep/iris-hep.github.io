@@ -62,18 +62,19 @@ example:
 
 ---
 
-
-|      ||||           ||||  Fully Loaded   |||| IRIS-HEP |||| WBS Fractions||||       |
-| Name |||| Job Type  |||| 12-month Salary |||| Fraction |||| (Sum to 1.0) |||| Notes |
-| ---- |||| --------- |||| --------------- |||| -------- |||| -------------|||| ----- |
-| Jane Doe |||| Postdoc |||| $123456|||| 0.5 |||| 1.0 OSG-LHC |||| Fringe 33% |
-| John Doe |||| Staff |||| $99999 |||| 1.0 |||| 0.75 AS, 0.25 MGMT |||| Fringe 33% |
-| TBN      |||| Grad Student |||| $76543 |||| 1.0  ||||    0.25 DOMA, 0.75 MGMT |||| Fringe 20% |
+|      ||||           ||||  Fully Loaded   |||| IRIS-HEP |||| Extra |||| WBS Fractions||||       |
+| Name |||| Job Type  |||| 12-month Salary |||| Fraction |||| Cost |||| (Sum to 1.0) |||| Notes |
+| ---- |||| --------- |||| --------------- |||| -------- |||| |||| -------------|||| ----- |
+| Jane Doe |||| Postdoc |||| $123456|||| 0.5 |||| $0 |||| 1.0 OSG-LHC |||| Fringe 33% |
+| John Doe |||| Staff |||| $99999 |||| 1.0 |||| $0 |||| 0.75 AS, 0.25 MGMT |||| Fringe 33% |
+| TBN      |||| Grad Student |||| $76543 |||| 1.0  |||| $1234 ||||   0.25 AS, 0.75 MGMT |||| Fringe 20%, Starts 1 Jan 2019 |
+|          |||| Travel ||||        |||| 1.0  |||| $12345 ||||   0.5 AS, 0.50 MGMT |||| |
+|          |||| M&S ||||        |||| 1.0  |||| $1234 ||||   0.5 AS, 0.5 OSG-LHC|||| |
 
 General Notes:
-  * Indirect costs of 58% are included
+  * On-campus indirect costs of 58% are included
   * Fringe rates vary by job category as noted above
-  *
+  * Grad student tuition of $1234 is included, no indirect cost is charged
 
 ---
 
@@ -82,8 +83,10 @@ General Notes:
 
   * Specify fringe and indirect cost values used in the Notes column or in a general list of "General Notes" after the table.
   * The "12-month fully loaded salary" is the equivalent annual salary cost, **including** the fringe and indirect costs, it is not the actual salary or the specific cost to IRIS-HEP. 
-  * For special cases where grad student is included, please include that cost summed together with the salary and make a note about how it was calculated in the Notes
-  * The cost to the IRIS-HEP project will be calcualted by multiplying the "12-month fully loaded salary" by the IRIS-HEP fraction.
+  * For special "add-on" cost cases such as grad student tuition, or the "per head computing fees" sometimes charged by universities, please include that extra cost (fully loaded, including indirect costs) for each relevant person in the "Extra Cost" column. Make a note about how it was calculated in the "General Notes" and/or specific person "Notes".
+  * The cost to the IRIS-HEP project will be calculated by multiplying the "12-month fully loaded salary" by the IRIS-HEP fraction, and adding the extra cost.
+  * Note any known start or end dates of personnel in the individual "Notes"
+  * Include also any Travel or M&S budget as rows in the table as "Extra Costs", along with an estimate of how it breaks down by WBS area. The details of the cost should be described outside of the table in the preceding "standard" budget justification.
 
 The labels to use for the WBS areas are:
 
@@ -97,5 +100,7 @@ The labels to use for the WBS areas are:
 
 ### Summary of Costs
 
-### Example
+  Please include also a line at the very end of the document which specifies
+the total net sum of all budget costs. This number is the total budget being
+requested.
 
