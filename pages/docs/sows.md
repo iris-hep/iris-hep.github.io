@@ -12,7 +12,7 @@ participating institutions. Funds will be released to subaward
 institutions through an annual Statement of Work (SOW) process
 which will define institutional budgets, tasks and deliverables for the
 specific (upcoming) one year time period. For example Year 1 of the IRIS-HEP 
-project is from 1 September, 2018 through 30 August, 2019.
+project is from 1 September, 2018 through 31 August, 2019.
 
   This annual process requires several steps and documents:
 
@@ -39,7 +39,7 @@ The justification should contain the information normally expected from
 [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to 
 funds required for a _single_ year and the defined time period, which should 
 be noted explicitly in the justification. For example, "IRIS-HEP Year 1: 
-1 September, 2018 - 30 August, 2019" or similar should appear near the top 
+1 September, 2018 - 31 August, 2019" or similar should appear near the top 
 of the document.
 
   In addition to the standard budget justification information, additional
@@ -67,7 +67,7 @@ example:
 | ---- |||| --------- |||| --------------- |||| -------- |||| |||| -------------|||| ----- |
 | Jane Doe |||| Postdoc |||| $123456|||| 0.5 |||| $0 |||| 1.0 OSG-LHC |||| Fringe 33% |
 | John Doe |||| Staff |||| $99999 |||| 1.0 |||| $0 |||| 0.75 AS, 0.25 MGMT |||| Fringe 33% |
-| TBN      |||| Grad Student |||| $76543 |||| 1.0  |||| $1234 ||||   0.25 AS, 0.75 MGMT |||| Fringe 20%, Starts 1 Jan 2019 |
+| TBN      |||| Grad Student |||| $76543 |||| 0.67  |||| $1234 ||||   0.25 AS, 0.75 MGMT |||| Fringe 20%, Starts 1 Jan 2019 |
 |          |||| Travel ||||        |||| 1.0  |||| $12345 ||||   0.5 AS, 0.50 MGMT |||| |
 |          |||| M&S ||||        |||| 1.0  |||| $1234 ||||   0.5 AS, 0.5 OSG-LHC|||| |
 
