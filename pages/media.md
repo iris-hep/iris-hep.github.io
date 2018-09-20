@@ -20,5 +20,6 @@ title: Media, Press Releases and Press Mentions
   * 5 Sep 2018 - ["Stanford part of $25 million NSF project to prepare for data deluge from Large Hadron Collider"](https://humsci.stanford.edu/feature/stanford-part-25-million-nsf-project-prepare-data-deluge-large-hadron-collider), Stanford University 
   * 6 Sep 2018 - ["NSF-Funded Institute Lays Groundwork for Future High-Energy Physics Discoveries"](https://www.hpcwire.com/2018/09/06/nsf-invests-25m-high-energy-physics/), HPCwire 
   * 14 Sep 2018 - ["UW-Madison Center for High Throughput Computing awarded grant to develop software to process data from High-Luminosity Large Hadron Collider"](https://www.cs.wisc.edu/features/2018-09-14-uw-madison-center-high-throughput-computing-awarded-grant-develop-software), University of Wisconsin - Madison
+  * 19 Sep 2018 - ["Next generation Large Hadron Collider relies on UW–Madison computing"](https://news.wisc.edu/next-generation-large-hadron-collider-relies-on-uw-madison-computing/), University of Wisconsin - Madison
 
 
