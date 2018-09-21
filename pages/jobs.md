@@ -15,6 +15,6 @@ title: Available Positions
 
 ## Princeton University
 
-  * coming soon
+  * Postdoctoral Researcher(s) in Computational High Energy Physics - coming soon
 
 
