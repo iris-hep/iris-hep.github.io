@@ -17,4 +17,9 @@ title: Available Positions
 
   * Postdoctoral Researcher(s) in Computational High Energy Physics - coming soon
 
+## New York University
+
+   * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon.
+
+   * Application Developer in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. 
 
