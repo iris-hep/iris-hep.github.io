@@ -4,13 +4,21 @@ layout: default
 title: Reimbursement for travel sponsored by IRIS-HEP
 ---
 
-  **Page still to adapt for IRIS-HEP, the page below is the CoDaS-HEP one**
+  This page documents the guidelines for reimbursement of participant travel 
+expenses which are being covered by the IRIS-HEP project. Please read
+carefully the entire document, including both the general guidelines and
+any event or workshop specific instructions described at the end of this 
+page. Additional instructions or limitations for reimbursement may also have 
+been included in any email you received informing you that your travel is
+eligible for reimbursement from the IRIS-HEP project.
 
-### Guidelines for Reimbursement of Travel Expenses
+  **Page still to adapt for IRIS-HEP, the page below is in the process of being adapted from the [CoDaS-HEP](http://codas-hep.org) one**
 
-  Reimbursement will be provided for travel expenses for some school participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply: 
+### General Guidelines for Reimbursement of Travel Expenses
 
-  * Participants should plan on traveling to Princeton on Sunday, 22 July, 2018, and traveling home on Friday, 27 July, 2018
+  Reimbursement will be provided for travel expenses for participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply: 
+
+  * Participants should plan on traveling on dates agreed with the IRIS-HEP project for a particular event. These will be documented in "Notes for specific events and workshops" section of this webpage **or** specified in email from a designated representative of the IRIS-HEP project.
   * Participants should pay for their travel themselves and will be reimbursed up to the specified limits after the school has finished 
   * The reimbursement can be done by check or bank transfer, typically within 5-10 business days from submission and approval of the required documentation.
   * Only the participant can be directly reimbursed (not the participant's research group)
@@ -62,4 +70,4 @@ Please note the following:
   * Send the single pdf as an attachment in email to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) with an email subject line including your name and the word "reimbursement".
 
 
-
+### Notes for specific events and workshops
