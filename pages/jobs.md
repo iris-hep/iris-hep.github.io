@@ -21,11 +21,10 @@ title: Available Positions
 
    * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon.
 
-   * Application Developer in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. 
+   * Application Developer in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science.
 
 ## National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign (UIUC)
 
   * [Assistant Research Programmer/Research Programmer/Senior Research Programmer(s)](https://jobs.illinois.edu/academic-job-board/job-details?jobID=93366)
 
-
-
+  * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon.
