@@ -31,5 +31,5 @@ title: Available Positions
 
 ## San Diego Supercomputer Center (SDSC)
 
-  [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=95847) - deadline 9 Oct, 2018
+  * [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=95847) - deadline 9 Oct, 2018
 
