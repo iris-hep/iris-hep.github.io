@@ -28,3 +28,8 @@ title: Available Positions
   * [Assistant Research Programmer/Research Programmer/Senior Research Programmer(s)](https://jobs.illinois.edu/academic-job-board/job-details?jobID=93366)
 
   * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon.
+
+## San Diego Supercomputer Center (SDSC)
+
+  [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=95847) - deadline 9 Oct, 2018
+
