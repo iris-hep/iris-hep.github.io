@@ -87,6 +87,10 @@ General Notes:
   * The cost to the IRIS-HEP project will be calculated by multiplying the "12-month fully loaded salary" by the IRIS-HEP fraction, and adding the extra cost.
   * Note any known start or end dates of personnel in the individual "Notes"
   * Include also any Travel or M&S budget as rows in the table as "Extra Costs", along with an estimate of how it breaks down by WBS area. The details of the cost should be described outside of the table in the preceding "standard" budget justification.
+  * For graduate students, please specify an FTE fraction relative to a 
+    standard graduate student working for 12 months a year. You should
+    *not* include the usual weight that grad students "research fraction"
+    is usually weighted as half of the calendar-month time that they work.
 
 The labels to use for the WBS areas are:
 
