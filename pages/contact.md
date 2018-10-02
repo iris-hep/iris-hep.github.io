@@ -4,14 +4,19 @@ layout: default
 title: Contact Information
 ---
 
-### For Media Contact, or general questions about the website. 
-  * Email: <mailto:coming.soon@coming.soon>
+### For media contact and general questions about the website. 
+  * Email: <mailto:owner@iris-hep.org>
 
-### To get started using things, for support, operational issues
+### Public mailing lists
 
-  * Email: <mailto:coming.soon@coming.soon>
+  * [announcements@iris-hep.org](https://groups.google.com/a/iris-hep.org/forum/#!forum/announcements) - General public announcement mailing list for IRIS-HEP events, talks, meetings, workshops, opportunities for training and job opportunities.
 
-### Various mailing lists
+### Internal project mailing lists
+
+  * [full-team@iris-hep.org](mailto:full-team@iris-hep.org) - mailing list for the full IRIS-HEP project team
+  * [pi-team@iris-hep.org](mailto:pi-team@iris-hep.org) - mailing list for IRIS-HEP PIs
+
+### Old and deprecated mailing lists
 
   * [iris-hep-pi-team@googlegroups.com](https://groups.google.com/forum/#!forum/iris-hep-pi-team) - mailing list for IRIS-HEP PIs
   * [iris-hep-doma@googlegroups.com](https://groups.google.com/forum/#!forum/iris-hep-innovative-algorithms) - mailing list for IRIS-HEP Innovative Algorithms
