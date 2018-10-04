@@ -15,6 +15,9 @@ title: Contact Information
 
   * [full-team@iris-hep.org](mailto:full-team@iris-hep.org) - mailing list for the full IRIS-HEP project team
   * [pi-team@iris-hep.org](mailto:pi-team@iris-hep.org) - mailing list for IRIS-HEP PIs
+  * [exec-board@iris-hep.org](mailto:exec-board@iris-hep.org) - mailing list for IRIS-HEP Executive Board
+  * [steering-board@iris-hep.org](mailto:steering-board@iris-hep.org) - mailing list for IRIS-HEP Steering Board
+  * [advisory-panel@iris-hep.org](mailto:advisory-panel@iris-hep.org) - mailing list for IRIS-HEP Advisory Panel
 
 ### Old and deprecated mailing lists
 
