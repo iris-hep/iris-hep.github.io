@@ -4,7 +4,7 @@ layout: default
 title: Available Positions
 ---
 
- A number of employment opportunities exist with the universities collaborating on or with IRIS-HEP. If you have a strong interest in challenging computational and data science problems in a research environment, please consider applying!
+ A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in a research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
 ## UC Berkeley
   * [Postdoc - Development of Innovative Track Reconstruction Algorithms for Experimental Particle Physics](http://inspirehep.net/record/1694661)
