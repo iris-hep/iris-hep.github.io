@@ -15,7 +15,9 @@ title: Available Positions
 
 ## Princeton University
 
-  * Postdoctoral Researcher(s) in Computational High Energy Physics - coming soon
+  * [Postdoctoral Researcher(s) in Computational High Energy Physics](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=9181) 
+
+  * Associate Professional Specialists(s)/Professional Specialist(s): Computational Physicist and/or Scientific Application Developer - coming soon
 
 ## New York University
 
