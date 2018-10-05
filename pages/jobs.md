@@ -39,4 +39,9 @@ title: Available Positions
 
   * Postdoctoral Researcher -- coming soon.
 
+## University of Chicago
+
+  * [Computational Scientist / Senior Computational Scientist](http://bit.ly/uc-comp-sci)
+
+  * Postdoctoral Researcher -- coming soon.
 
