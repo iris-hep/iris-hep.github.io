@@ -43,3 +43,7 @@ title: Available Positions
 
   * [Computational Scientist / Senior Computational Scientist](http://bit.ly/uc-comp-sci)
 
+## Rice University 
+
+  * [Computational Astroparticle Postdoctoral Researcher](http://astroparticle.web.rice.edu/ad.html)
+
