@@ -43,5 +43,3 @@ title: Available Positions
 
   * [Computational Scientist / Senior Computational Scientist](http://bit.ly/uc-comp-sci)
 
-  * Postdoctoral Researcher -- coming soon.
-
