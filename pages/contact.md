@@ -17,6 +17,8 @@ title: Contact Information
   * [pi-team@iris-hep.org](mailto:pi-team@iris-hep.org) - mailing list for IRIS-HEP PIs
   * [analysis-systems-team@iris-hep.org](mailto:analysis-systems-team@iris-hep.org) - mailing list for the IRIS-HEP analysis systems team
   * [innovative-algorithms-team@iris-hep.org](mailto:innovative-algorithms-team@iris-hep.org) - mailing list for the IRIS-HEP innovative algorithms team
+  * [doma-team@iris-hep.org](mailto:doma-team@iris-hep.org) - mailing list for the IRIS-HEP Data Organization, Management and Access (DOMA) team
+  * [ssl-team@iris-hep.org](mailto:ssl-team@iris-hep.org) - mailing list for the IRIS-HEP Scalable Systems Laboratory (SSL) team
   * [osg-lhc-team@iris-hep.org](mailto:osg-lhc-team@iris-hep.org) - mailing list for the IRIS-HEP OSG LHC team
   * [exec-board@iris-hep.org](mailto:exec-board@iris-hep.org) - mailing list for IRIS-HEP Executive Board
   * [steering-board@iris-hep.org](mailto:steering-board@iris-hep.org) - mailing list for IRIS-HEP Steering Board
