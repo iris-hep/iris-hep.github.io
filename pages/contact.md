@@ -24,6 +24,3 @@ title: Contact Information
   * [steering-board@iris-hep.org](mailto:steering-board@iris-hep.org) - mailing list for IRIS-HEP Steering Board
   * [advisory-panel@iris-hep.org](mailto:advisory-panel@iris-hep.org) - mailing list for IRIS-HEP Advisory Panel
 
-### Old and deprecated mailing lists
-
-  * [iris-hep-doma@googlegroups.com](https://groups.google.com/forum/#!forum/iris-hep-doma) - mailing list for IRIS-HEP Data Organization, Management, and Access (DOMA) activities.
