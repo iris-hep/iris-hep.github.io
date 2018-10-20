@@ -47,7 +47,7 @@ title: Available Positions
 
 ## Rice University 
 
-  * [Computational Astroparticle Postdoctoral Researcher](http://astroparticle.web.rice.edu/ad.html)
+  * [Computational Astroparticle Postdoctoral Researcher](http://jobs.rice.edu/postings/17084)
 
 ## University of Cincinnati
 
