@@ -4,9 +4,6 @@ layout: default
 title: Institute Team
 ---
 
-{% assign orderedlist = "exec-board", "cornell", "indiana", "mit", "nyu", "princeton", "stanford", "chicago", "cincinnati", "uiuc", "michigan", "nebraska", "berkeley", "ucsc", "ucsd", "uprm", "washington", "wisconsin"] %}
- 
-
 <div class="container-fluid">
   <h1>Executive Board</h1><br>
   <div class="row">
