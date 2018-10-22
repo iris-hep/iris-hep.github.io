@@ -1,0 +1,21 @@
+name: David Lange
+shortname: davidlange6
+title: Innovative Algorithms Area co-Lead
+active: green
+institution: Princeton University
+website: https://dlange.web.cern.ch
+photo: /assets/images/team/David-Lange.png
+presentations:
+  - title: CMS in ROOT
+    date: 13 Sep 2018
+    url: http://root.cern.ch/
+    meeting: ROOT 2018 Users Workshop
+    meetingurl: http://cnn.com
+    location: Sarajevo
+  - title: Random Churning
+    date: 12 Sep 2018
+    url: http://iris-hep.org/
+    meeting: CHEP 2018 
+    meetingurl: http://diana-hep.org
+
+

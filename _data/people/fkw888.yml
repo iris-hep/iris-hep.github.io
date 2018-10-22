@@ -1,0 +1,21 @@
+name: Frank Wuerthwein
+shortname: fkw888
+title: OSG-LHC Area Lead and OSG Executive Director
+active: green
+institution: University of California, San Diego
+website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
+photo: /assets/images/team/Frank-Wuerthwein.jpg
+presentations:
+  - title: How to make green eggs and ham
+    date: 13 Sep 2018
+    url: http://cern.ch/
+    meeting: ROOT 2018 Users Workshop
+    meetingurl: http://cnn.com
+    location: Sarajevo
+  - title: Random Churning
+    date: 12 Sep 2018
+    url: http://iris-hep.org/
+    meeting: CHEP 2018 
+    meetingurl: http://diana-hep.org
+
+
