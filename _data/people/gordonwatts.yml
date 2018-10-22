@@ -1,0 +1,16 @@
+name: Gordon Watts
+shortname: gordonwatts
+title: Institute co-PI and Deputy Executive Director
+active: green
+institution: University of Washington
+website: https://phys.washington.edu/people/gordon-watts
+photo: /assets/images/team/Gordon-Watts.jpg
+presentations:
+  - title: Windows, Windows Everywhere
+    date: 3 Sep 2015
+    url: http://microsoft.com/
+    meeting: SciPy 2017
+    meetingurl: http://cnn.com
+    location: Seattle
+
+

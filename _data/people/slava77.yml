@@ -1,0 +1,21 @@
+name: Slava Krutelyov
+shortname: slava77
+title: Tracking PIF Collaborator
+active: green
+institution: University of California, San Diego
+website:
+photo: /assets/images/team/Slava-Krutelyov.jpg
+presentations:
+  - title: How to make green eggs and ham
+    date: 13 Sep 2018
+    url: http://cern.ch/
+    meeting: ROOT 2018 Users Workshop
+    meetingurl: http://cnn.com
+    location: Sarajevo
+  - title: Random Churning
+    date: 12 Sep 2018
+    url: http://iris-hep.org/
+    meeting: CHEP 2018 
+    meetingurl: http://diana-hep.org
+
+

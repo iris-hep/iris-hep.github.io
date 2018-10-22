@@ -1,0 +1,21 @@
+name: Sudhir Malik
+shortname: fatala22
+title: Training, Education and Outreach Coordinator
+active: green
+institution: University of Puerto Rico at Mayaguez
+website: http://charma.uprm.edu/~malik/
+photo: /assets/images/team/Sudhir-Malik.png
+presentations:
+  - title: How to make green eggs and ham
+    date: 13 Sep 2018
+    url: http://cern.ch/
+    meeting: ROOT 2018 Users Workshop
+    meetingurl: http://cnn.com
+    location: Sarajevo
+  - title: Random Churning
+    date: 12 Sep 2018
+    url: http://iris-hep.org/
+    meeting: CHEP 2018 
+    meetingurl: http://diana-hep.org
+
+

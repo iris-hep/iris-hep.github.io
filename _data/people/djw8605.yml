@@ -1,0 +1,21 @@
+name: Derek Weitzel
+shortname: djw8605
+title: 
+active: green
+institution: University of Nebraska - Lincoln
+website: https://github.com/djw8605
+photo: /assets/images/team/Derek-Weitzel.jpg
+presentations:
+  - title: How to make green eggs and ham
+    date: 13 Sep 2018
+    url: http://cern.ch/
+    meeting: ROOT 2018 Users Workshop
+    meetingurl: http://cnn.com
+    location: Sarajevo
+  - title: Random Churning
+    date: 12 Sep 2018
+    url: http://iris-hep.org/
+    meeting: CHEP 2018 
+    meetingurl: http://diana-hep.org
+
+

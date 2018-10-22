@@ -1,0 +1,21 @@
+name: Tim Cartwright
+shortname: osg-cat
+title: 
+active: green
+institution: University of Wisconsin-Madison
+website: http://pages.cs.wisc.edu/~cat/
+photo: /assets/images/team/atom.png
+presentations:
+  - title: How to make green eggs and ham
+    date: 13 Sep 2018
+    url: http://cern.ch/
+    meeting: ROOT 2018 Users Workshop
+    meetingurl: http://cnn.com
+    location: Sarajevo
+  - title: Random Churning
+    date: 12 Sep 2018
+    url: http://iris-hep.org/
+    meeting: CHEP 2018 
+    meetingurl: http://diana-hep.org
+
+
