@@ -127,7 +127,7 @@
 // Card image caps
 .card-img-top {
   width: 100%; // Required because we use flexbox and this inherently applies align-self: stretch
-  height: 20vw;
+  height: 15rem;
   object-fit: cover;
   @include border-top-radius($card-inner-border-radius);
 
