@@ -31,10 +31,6 @@ title: Available Positions
 
   * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon.
 
-## San Diego Supercomputer Center (SDSC)
-
-  * [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=95847) - deadline 9 Oct, 2018
-
 ## University of Washington
 
   * Postdoctoral Researcher -- coming soon.
