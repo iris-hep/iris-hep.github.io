@@ -13,12 +13,12 @@ title: Institute Team
        {% if person.shortname == member %}
        <div class="card" style="width: 12rem;">
          <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
-         <div class="card-body">
-         <p class="card-text">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text">
          <b><a href="{{person.website}}">{{person.name}}</a></b><br>
          <small>{{person.institution}}</small><br><br>
-         <i>{{person.title}}</i><br>
-         </p>
+         </div>
+         <div class="card-text mt-auto"><i>{{person.title}}</i><br></div>
          </div>
        </div>
        {% endif %}
@@ -40,12 +40,12 @@ title: Institute Team
        {% if person.shortname == member %}
        <div class="card" style="width: 12rem;">
          <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
-         <div class="card-body">
-         <p class="card-text">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text">
          <b><a href="{{person.website}}">{{person.name}}</a></b><br>
          <small>{{person.institution}}</small><br><br>
-         <i>{{person.title}}</i><br>
-         </p>
+         </div>
+         <div class="card-text mt-auto"><i>{{person.title}}</i><br></div>
          </div>
        </div>
        {% endif %}
