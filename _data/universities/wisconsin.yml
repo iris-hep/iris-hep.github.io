@@ -1,7 +1,8 @@
 name: University of Wisconsin–Madison
 personnel:
+  - osg-cat
   - brianhlin
+  - timtheisen
   - matyasselmeci
   - edquist
   - aaronmoate
-  - osg-cat
