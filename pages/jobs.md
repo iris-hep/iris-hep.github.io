@@ -29,8 +29,7 @@ title: Available Positions
 
   * [Assistant Research Programmer/Research Programmer/Senior Research Programmer(s)](https://jobs.illinois.edu/academic-job-board/job-details?jobID=93366) - deadline: **28 Nov, 2018**
 
-  * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf)
-  - deadline for full consideration: **30 Nov, 2018**
+  * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf) - deadline for full consideration: **30 Nov, 2018**
 
 ## University of Washington
 
