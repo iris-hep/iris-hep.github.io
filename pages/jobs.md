@@ -17,7 +17,7 @@ title: Available Positions
 
   * [Postdoctoral Researcher(s) in Computational High Energy Physics](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=9181)
 
-  * Associate Professional Specialists(s)/Professional Specialist(s): Computational Physicist and/or Scientific Application Developer - coming soon
+  * [Associate Professional Specialists(s)/Professional Specialist(s): Computational Physicist and/or Research Software Engineer](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=9681)
 
 ## New York University
 
