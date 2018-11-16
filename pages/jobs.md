@@ -33,7 +33,7 @@ title: Available Positions
 
 ## University of Washington
 
-  * Postdoctoral Researcher -- coming soon.
+  * Postdoctoral Researcher in Experimental High Energy Physics, working on Analysis Systems -- coming soon. Please contact gwatts@uw.edu for more information.
 
 ## University of Chicago
 
