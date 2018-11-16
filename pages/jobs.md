@@ -21,9 +21,13 @@ title: Available Positions
 
 ## New York University
 
-   * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon.
+   * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon, please contact kyle.cranmer@nyu.edu for more information.
 
-   * Application Developer in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science.
+   * Application Developer in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. --coming soon , please contact kyle.cranmer@nyu.edu for more information.
+   
+   * [Postdoctoral Researcher](https://apply.interfolio.com/50856): pre-existing postdoctoral opening on ATLAS that can be split with IRIS-HEP. Deadline **31 Dec, 2018**
+   
+   * [Faculty Fellow](https://cds.nyu.edu/facultyfellows/) Center for Data Science and Moore-Sloan Data Science Environment.
 
 ## National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign (UIUC)
 
