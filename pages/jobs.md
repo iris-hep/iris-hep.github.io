@@ -73,8 +73,6 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
 
-  * [Research Software & Programming Analyst](https://main-princeton.icims.com/jobs/8972/research-software-programming-analyst/job)
 
-  * [Departmental Computing Systems Analyst](https://main-princeton.icims.com/jobs/9584/departmental-computing-systems-analyst/job)
 
 
