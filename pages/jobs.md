@@ -56,3 +56,12 @@ title: Available Positions
 ## University of Cincinnati
 
   * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181019-Cincinnati-postdoc.pdf)
+
+
+# Other positions of interest for HEP people
+
+We also list some number of job positions that might be of interest for people
+with an HEP background, but which are not directly related to IRIS-HEP.
+
+## Coming Soon
+
