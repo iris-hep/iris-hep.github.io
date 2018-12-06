@@ -4,6 +4,8 @@ layout: default
 title: Available Positions
 ---
 
+# IRIS-HEP and Collaborating Projects
+
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
 ## UC Berkeley
