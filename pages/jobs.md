@@ -63,5 +63,18 @@ title: Available Positions
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
-## Coming Soon
+### Princeton University
+
+  * [Director of Princeton Research Data Service (PRDS)(https://main-princeton.icims.com/jobs/9583/director-of-princeton-research-data-service/job?hub=15)
+
+  * [Research Software Engineer](https://main-princeton.icims.com/jobs/9275/research-software-engineer/job) to work with Department of Molecular Biology
+
+  * [Research Software Engineer](https://main-princeton.icims.com/jobs/9378/research-software-engineer/job) to work with the Department of Politics and the Department of Sociology
+
+  * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
+
+  * [Research Software & Programming Analyst](https://main-princeton.icims.com/jobs/8972/research-software-programming-analyst/job)
+
+  * [Departmental Computing Systems Analyst](https://main-princeton.icims.com/jobs/9584/departmental-computing-systems-analyst/job)
+
 
