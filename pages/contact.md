@@ -9,7 +9,7 @@ title: Contact Information
 
 ### Public mailing lists
 
-  * [announcements@iris-hep.org](https://groups.google.com/a/iris-hep.org/forum/#!forum/announcements) - General public announcement mailing list for IRIS-HEP events, talks, meetings, workshops, opportunities for training and job opportunities. - [[Subscribe](https://groups.google.com/a/iris-hep.org/forum/#!forum/announcements)]
+  * [announcements@iris-hep.org](mailto:announcements@iris-hep.org) - General public announcement mailing list for IRIS-HEP events, talks, meetings, workshops, opportunities for training and job opportunities. - [[Subscribe](https://groups.google.com/a/iris-hep.org/forum/#!forum/announcements)]
 
 ### Internal project mailing lists
 
