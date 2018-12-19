@@ -9,11 +9,11 @@ title: Contact Information
 
 ### Public mailing lists
 
-  * [announcements@iris-hep.org](https://groups.google.com/a/iris-hep.org/forum/#!forum/announcements) - General public announcement mailing list for IRIS-HEP events, talks, meetings, workshops, opportunities for training and job opportunities.
+  * [announcements@iris-hep.org](https://groups.google.com/a/iris-hep.org/forum/#!forum/announcements) - General public announcement mailing list for IRIS-HEP events, talks, meetings, workshops, opportunities for training and job opportunities. - [[Subscribe](https://groups.google.com/a/iris-hep.org/forum/#!forum/announcements)]
 
 ### Internal project mailing lists
 
-  * [full-team@iris-hep.org](mailto:full-team@iris-hep.org) - mailing list for the full IRIS-HEP project team
+  * [full-team@iris-hep.org](mailto:full-team@iris-hep.org) - mailing list for the full IRIS-HEP project team - [[Subscribe](https://groups.google.com/a/iris-hep.org/forum/#!forum/full-team)]
   * [pi-team@iris-hep.org](mailto:pi-team@iris-hep.org) - mailing list for IRIS-HEP PIs
   * [as-team@iris-hep.org](mailto:as-team@iris-hep.org) - mailing list for the IRIS-HEP analysis systems team
   * [ia-team@iris-hep.org](mailto:ia-team@iris-hep.org) - mailing list for the IRIS-HEP innovative algorithms team
