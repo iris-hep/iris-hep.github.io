@@ -33,10 +33,6 @@ title: Available Positions
 
   * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf) - deadline for full consideration: **30 Nov, 2018**
 
-### University of Washington
-
-  * Postdoctoral Researcher in Experimental High Energy Physics, working on Analysis Systems -- coming soon. Please contact gwatts@uw.edu for more information.
-
 ### University of Chicago
 
   * [Computational Scientist](https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Hyde-Park-Campus/Computational-Scientist_JR03087)
