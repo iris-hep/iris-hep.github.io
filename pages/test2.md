@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+permalink: /test2.html
 layout: main
 title: Institute for Research and Innovation in Software
 bgimage: assets/images/Tprime-200pu-PhaseII-black-arctic-main-image.jpg
@@ -17,6 +17,22 @@ IRIS-HEP team members are involved in organizing the following events:
 <ul>
 {% for event_hash in site.data.events  %}
   {% assign event = event_hash[1] %}
+  <li> {{event.dates}} - {{event.name}} </li>
+  <ul>
+      <li> <i>{{event.location}}</i> </li>
+      <li> <a href="{{event.website}}">Website</a> </li>
+  </ul>
+{% endfor %}
+</ul>
+<br>
+
+<br>
+<h4>Upcoming Events 2:</h4>
+<br>
+IRIS-HEP team members are involved in organizing the following events:
+<ul>
+{% assign event_items = site.data.events %}
+{% for event in event_items  %}
   <li> {{event.dates}} - {{event.name}} </li>
   <ul>
       <li> <i>{{event.location}}</i> </li>
