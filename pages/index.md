@@ -17,8 +17,8 @@ The IRIS-HEP project was funded on 1 September, 2018, and is ramping up its acti
     {% assign event = event_hash[1] %}
     <li> {{event.dates}} - {{event.name}} </li>
     <ul>
-        <li> *{{event.location}}* </li>
-        <li> [Website]({{event.website}}) </li>
+        <li> <i>{{event.location}}</i> </li>
+        <li> <a href="{{event.website}}">Website</a> </li>
     </ul>
   {% endfor %}
   </ul>
