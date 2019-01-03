@@ -27,7 +27,7 @@ IRIS-HEP team members are involved in organizing the following events:
 <br>
 
 <br>
-<h4>Upcoming Events 2:</h4>
+<h4>Upcoming Events 22:</h4>
 <br>
 IRIS-HEP team members are involved in organizing the following events:
 <ul>
