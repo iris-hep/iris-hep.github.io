@@ -13,6 +13,7 @@ The IRIS-HEP project was funded on 1 September, 2018, and is ramping up its acti
 <br>
 <h4>Upcoming Events:</h4>
 <br>
+IRIS-HEP team members are involved in organizing the following events:
 <ul>
 {% for event_hash in site.data.events  %}
   {% assign event = event_hash[1] %}
