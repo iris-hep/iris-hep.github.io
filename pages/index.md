@@ -11,13 +11,14 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
 The IRIS-HEP project was funded on 1 September, 2018, and is ramping up its activities. 
 
 <div class="container-fluid">
-  <h2>Upcoming Events:</h2><br>
+  <h4>Upcoming Events:</h4><br>
   <ul>
-  {% for event in site.data.events  %}
-    <li> {{event.dates}} - {{event.name}}
+  {% for event_hash in site.data.events  %}
+    {% assign event = event_hash[1] %}
+    <li> {{event.dates}} - {{event.name}} </li>
     <ul>
-        <li> *{{event.location}}*
-        <li> [Website]({{event.website}})
+        <li> *{{event.location}}* </li>
+        <li> [Website]({{event.website}}) </li>
     </ul>
   {% endfor %}
   </ul>
