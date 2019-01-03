@@ -27,11 +27,11 @@ IRIS-HEP team members are involved in organizing the following events:
 <br>
 
 <br>
-<h4>Upcoming Events 22:</h4>
+<h4>Upcoming Events 23:</h4>
 <br>
 IRIS-HEP team members are involved in organizing the following events:
 <ul>
-{% assign event_items = site.data.events | sort: 'dates' %}
+{% assign event_items = site.data.events %}
 {% for event_hash in event_items  %}
   {% assign event = event_hash[1] %}
   <li> {{event.dates}} - {{event.name}} </li>
