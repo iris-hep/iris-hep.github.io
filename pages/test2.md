@@ -34,11 +34,13 @@ IRIS-HEP team members are involved in organizing the following events:
 {% assign event_items = site.data.events %}
 {% for event_hash in event_items  %}
   {% assign event = event_hash[1] %}
+  {% if event.status == 'current' %}
   <li> {{event.dates}} - {{event.name}} </li>
   <ul>
       <li> <i>{{event.location}}</i> </li>
       <li> <a href="{{event.website}}">Website</a> </li>
   </ul>
+  {% endif %}
 {% endfor %}
 </ul>
 <br>
