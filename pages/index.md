@@ -15,14 +15,18 @@ The IRIS-HEP project was funded on 1 September, 2018, and is ramping up its acti
 <br>
 IRIS-HEP team members are involved in organizing the following events:
 <ul>
-{% for event_hash in site.data.events  %}
+{% assign event_items = site.data.events %}
+{% for event_hash in event_items  %}
   {% assign event = event_hash[1] %}
+  {% if event.status == 'current' %}
   <li> {{event.dates}} - {{event.name}} </li>
   <ul>
       <li> <i>{{event.location}}</i> </li>
       <li> <a href="{{event.website}}">Website</a> </li>
   </ul>
+  {% endif %}
 {% endfor %}
 </ul>
 <br>
+
 
