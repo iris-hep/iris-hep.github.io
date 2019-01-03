@@ -32,7 +32,8 @@ IRIS-HEP team members are involved in organizing the following events:
 IRIS-HEP team members are involved in organizing the following events:
 <ul>
 {% assign event_items = site.data.events %}
-{% for event in event_items  %}
+{% for event_hash in event_items  %}
+  {% assign event = event_hash[1] %}
   <li> {{event.dates}} - {{event.name}} </li>
   <ul>
       <li> <i>{{event.location}}</i> </li>
