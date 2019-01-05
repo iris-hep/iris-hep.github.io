@@ -42,11 +42,6 @@ title: Available Positions
 
   * [Computational Astroparticle Postdoctoral Researcher](http://jobs.rice.edu/postings/17084)
 
-### University of Cincinnati
-
-  * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181019-Cincinnati-postdoc.pdf)
-
-
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
