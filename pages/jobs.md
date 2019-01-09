@@ -16,7 +16,7 @@ title: Available Positions
 
 ### New York University
 
-   * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon, please contact kyle.cranmer@nyu.edu for more information.
+   * [Postdoctoral Researcher](http://apply.interfolio.com/59315) in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- contact kyle.cranmer@nyu.edu for more information.
 
    * Application Developer in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. --coming soon , please contact kyle.cranmer@nyu.edu for more information.
    
