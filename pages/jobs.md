@@ -34,8 +34,6 @@ title: Available Positions
 
   * [Computational Scientist](https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Hyde-Park-Campus/Computational-Scientist_JR03087)
 
-  * [Senior Computational Scientist](https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Hyde-Park-Campus/Senior-Computational-Scientist_JR03135)
-  
   * [Scientific Software Engineer](https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Hyde-Park-Campus/Scientific-Software-Engineer_JR03232)
 
 ### Rice University
