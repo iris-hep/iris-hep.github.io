@@ -16,9 +16,9 @@ title: Available Positions
 
 ### New York University
 
-   * [Postdoctoral Researcher](http://apply.interfolio.com/59315) in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- contact kyle.cranmer@nyu.edu for more information.
+   * [Postdoctoral Researcher](http://apply.interfolio.com/59315) in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. Deadline **1 Feb, 2019** -- contact kyle.cranmer@nyu.edu for more information.
 
-   * Application Developer in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. --coming soon , please contact kyle.cranmer@nyu.edu for more information.
+   * [Application Developer](https://apply.interfolio.com/59839) in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. Deadline **15 Feb, 2019** -- please contact kyle.cranmer@nyu.edu for more information.
    
    * [Postdoctoral Researcher](https://apply.interfolio.com/50856): pre-existing postdoctoral opening on ATLAS that can be split with IRIS-HEP. Deadline **31 Dec, 2018**
    
