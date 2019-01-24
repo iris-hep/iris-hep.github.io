@@ -20,7 +20,7 @@ title: Available Positions
 
    * [Application Developer](https://apply.interfolio.com/59839) in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. Deadline **15 Feb, 2019** -- please contact kyle.cranmer@nyu.edu for more information.
    
-   * [Postdoctoral Researcher](https://apply.interfolio.com/50856): pre-existing postdoctoral opening on ATLAS that can be split with IRIS-HEP. Deadline **31 Dec, 2018**
+   * [Postdoctoral Researcher](https://apply.interfolio.com/50856): pre-existing postdoctoral opening on ATLAS that can be split with IRIS-HEP. Deadline **1 Feb, 2019**
    
    * [Faculty Fellow](https://cds.nyu.edu/facultyfellows/) Center for Data Science and Moore-Sloan Data Science Environment.
 
