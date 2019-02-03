@@ -1,5 +1,5 @@
 ---
-permalink: /about/code_of_conduct
+permalink: /about/code-of-conduct
 layout: default
 title: Code of Conduct
 ---
