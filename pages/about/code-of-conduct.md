@@ -31,17 +31,15 @@ things. However, sometimes these informal processes may be inadequate: they fail
 to work, there is urgency or risk to someone, nobody is intervening publicly and
 you don't feel comfortable speaking in public, etc. For these or other reasons,
 structured follow-up may be necessary and here we provide the means for that: we
-welcome reports by emailing [conduct@iris-hep.org](mailto:conduct@iris-hep.org)
-or contacting any member of the
-Executive Board of IRIS-HEP. This code of conduct applies equally to all
+welcome reports by contacting [any member of the IRIS-HEP Executive Board](http://iris-hep.org/about/team). This code of conduct applies equally to all
 community members in all Institute situations online and offline, including
 conferences, mailing lists, forums, GitHub organizations, chat rooms, social
 media, social events associated with conferences, and one-to-one interactions.
 
 By embracing the following principles, guidelines and actions to follow or
 avoid, you will help us make IRIS-HEP a welcoming and productive community. Feel
-free to contact the Code of Conduct Committee
-at [conduct@iris-hep.org](mailto:conduct@iris-hep.org) with any questions.
+free to contact 
+[any member of the IRIS-HEP Executive Board](http://iris-hep.org/about/team).
 
 1. **Be friendly and patient**.
 
@@ -98,8 +96,7 @@ timely manner. Code of conduct violations reduce the value of the community for
 everyone and we take them seriously.
 
 You can file a report by emailing
-[conduct@iris-hep.org](mailto:conduct@iris-hep.org) or by contacting a member of
-the Executive Board of IRIS-HEP
+[any member of the IRIS-HEP Executive Board](http://iris-hep.org/about/team).
 
 This code was adapted from the Project JupyterHub code of conduct and
 is licenced
