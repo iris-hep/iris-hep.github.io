@@ -76,8 +76,7 @@ behavior are not acceptable. This includes, but is not limited to:
 * Personal insults, especially those using racist or sexist terms
 * Unwelcome sexual attention
 * Advocating for, or encouraging, any of the above behavior
-* Repeated harassment of others. In general, if someone asks you to stop, then stop
-
+* Repeated harassment of others. In general, if someone asks you to stop, then stop.
 
 6. **When we disagree, try to understand why**. Disagreements, both social
 and technical, happen all the time and the IRIS-HEP community is no exception.
