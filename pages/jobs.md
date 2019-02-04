@@ -30,12 +30,6 @@ title: Available Positions
 
   * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf) - deadline for full consideration: **30 Nov, 2018**
 
-### University of Chicago
-
-  * [Computational Scientist](https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Hyde-Park-Campus/Computational-Scientist_JR03087)
-
-  * [Scientific Software Engineer](https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Hyde-Park-Campus/Scientific-Software-Engineer_JR03232)
-
 ### Rice University
 
   * [Computational Astroparticle Postdoctoral Researcher](http://jobs.rice.edu/postings/17084)
