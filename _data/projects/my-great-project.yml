@@ -1,0 +1,16 @@
+Homepage: /MyGreatIdea
+short_name: my-great-project
+name: My Great Project
+Image: CMS.jpg
+Blurb: A short story behind my great idea.
+focus-area: IA
+
+Team:
+ - David Lange
+
+Publications:
+ - title: My fantastic publication
+   link: https://www.cern.ch
+   date: Dec 10, 2018
+   citation: D. Lange et. al., Nature *10* 100 (2018).
+ 
