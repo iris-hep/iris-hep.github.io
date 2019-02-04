@@ -1,0 +1,153 @@
+
+<head>
+<style>
+.boxed {
+  background-color: rgb(242, 244, 244) ;
+  border: 2px solid black ;
+  padding: 5px;
+  height: 200px;
+  overflow: scroll;
+}
+<style>
+.boxedInf {
+  background-color: rgb(242, 244, 244) ;
+  border: 2px solid black ;
+  padding: 5px;
+}
+</style>
+</head>
+
+{% assign page_info_list = site.data.focus-areas | where: "name", page.focus-area-name %}
+{% assign page_info = page_info_list | first %}
+{% assign page_title = page_info.title %}
+{% assign page_short_title = page_info.short_title %}
+{% assign page_blurb = page_info.blurb %}
+
+{% capture my_include3 %}{% include fa_instructions.md %}{% endcapture %}
+{{ my_include3 | markdownify }}
+<br>
+
+<div>
+<br>
+<center><h1>{{ page_title }}</h1></center>
+
+{% capture my_include3 %}{% include {{page_blurb}} %}{% endcapture %}
+{{ my_include3 | markdownify }}
+</div>
+
+<div class="container-fluid">
+  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page_short_title }} Projects</h2><br>
+  <div class="row">
+  {% for project_hash in site.data.projects  %}
+     {% assign project = project_hash[1] %}
+     {% if project.focus-area == page_info.short_title %}
+       <div class="card" style="width: 18rem;">
+         <img class="card-img-top" src="/assets/images/{{project.Image}}" alt="Card image cap">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text">
+         <b><p>{{project.name}}</p></b>
+	 {{project.Blurb}}<br>
+         <a href=/projects{{project.Details}}> More information</a><br>
+         </div>
+       </div>
+       </div>
+     {% endif %}
+  {% endfor %}
+  </div>
+  <br>
+</div>
+
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page_short_title }} Publications</h2>
+
+We collect time ordered lists of publications in a news-feed style (one small markdown file per publication). The box is a fixed
+size, but will scroll to show older publications. To add a publication, make a new file in _posts directory following one of
+the examples (look for pub_kind: Publication in the header. The same information can be used to create the list of publications
+for the entire project.
+
+{% capture list %}
+  {% for project_hash in site.data.projects  %}
+    {% assign project = project_hash[1] %}
+    {% if project.focus-area == page_info.short_title %}
+      {% for pub in project.Publications  %}
+        ^{{pub.date | date: "%Y-%m-%d"}}|{{ pub.title }}|{{ pub.citation }}|{{ pub.link}}|{{project.name}}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+
+{% assign sorted_pubs = list | split: "^" | sort | reverse %}
+
+<div class="boxed">
+<ul>
+  {% for pub_item in sorted_pubs %}
+    {% if pub_item.size  > 20 %}
+      {% assign pub = pub_item | split: "|" %}
+      <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] }}).</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
+</div>
+
+</section>
+
+<section class="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page_short_title }} Presentations</h2>
+
+We collect presentations from the yaml file for each team member. This box is a
+size, but will scroll to show older presentations. 
+
+{% capture list %}
+  {% for univ_hash in site.data.universities %}
+    {% assign univ = univ_hash[1] %}
+    {% for member in univ.personnel  %}
+      {% for person_hash in site.data.people %}
+        {% assign person = person_hash[1] %}
+        {% if person.shortname == member %}
+           {% for presentation in person.presentations %}
+             ^{{presentation.date | date: "%Y-%m-%d"}}|{{ person.name }}|{{ presentation.title }}|{{ presentation.url}}|{{ presentation.meeting }}|{{ presentation.meetingurl }}|{{ presentation.project}}|{{presentation.area}}
+           {% endfor %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endfor %}
+{% endcapture %}
+
+{% assign sorted_pres = list | split: "^"  | sort | reverse %}
+<div class="boxed">
+<ul>
+{% for presentation in sorted_pres %}
+  {% if presentation.size  > 20 %}
+    {% assign item = presentation | split: "|" %}
+    {% assign t1 = item[7] | strip %}
+    {% assign t2 = page_short_title | strip %}
+    {% if t1  == t2 | strip %}
+      <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+</div>
+</div>
+</section>
+
+<section class="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="join-us">Join us</h2>
+    <p class="alt-lead text-gray text-center col-md-10 mx-auto">We collaborate with groups around the world on code, data, and more. [below is meant to be a list of logos for our collaborators.. (driven by yaml input)</p>
+  </div>
+  <div style="overflow: hidden;">
+    <div class="featured-orgs text-center p-2">
+      {% for org_list in page_info.Collaborators   %}
+        {% assign org_hash = org_list | first  %}
+        {% assign org = org_hash[1] %}
+        <a href="{{org.Link}}"><img src="/assets/images/{{org.Image}}" height="100"> </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+
+
