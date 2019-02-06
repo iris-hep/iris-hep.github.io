@@ -41,8 +41,6 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
 ### Princeton University
 
-  * [Director of Princeton Research Data Service (PRDS)](https://main-princeton.icims.com/jobs/9583/director-of-princeton-research-data-service/job?hub=15)
-
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/9275/research-software-engineer/job) to work with Department of Molecular Biology
 
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/9378/research-software-engineer/job) to work with the Department of Politics and the Department of Sociology
