@@ -30,10 +30,6 @@ title: Available Positions
 
   * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf) - deadline for full consideration: **30 Nov, 2018**
 
-### Rice University
-
-  * [Computational Astroparticle Postdoctoral Researcher](http://jobs.rice.edu/postings/17084)
-
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
