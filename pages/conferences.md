@@ -15,6 +15,7 @@ the conference itself as these sometimes change.**
   * 20-22 Mar 2019 - ["Connecting The Dots / Intelligent Trackers 2019 (CTD/WIT 2019)"](https://indico.cern.ch/event/742793/), Valencia, Spain - extended abstract deadline 18 Nov 2018
   * 31 Mar-5 Apr 2019 - ["International Symposium on Grids & Clouds 2019 (ISGC 2019) (ISGC 2019)"](https://indico4.twgrid.org/indico/event/8/), Taipei, Taiwan - extended abstract deadline 19 Nov 2018
   * 12-14 Jun 2018 - ["Platform for Advanced Scientific Computing (PASC19)"](https://pasc19.pasc-conference.org), Zurich, Switzerland - abstract deadline 15 Nov 2018 (papers, rolling???), 13 Jan 2019 (posters???)
+  * 23 Jul - 25 Jul - ["31st International Conference on Scientific & Statistical Database Management (SSDBM 2019)"](https://www.soe.ucsc.edu/ssdbm19), Santa Cruz, CA, USA - submission deadline 4 March 2019
   * 28 Jul - 1 Aug 2019 - ["Practice and Experience in Advanced Research Computing (PEARC19)"](https://www.pearc19.pearc.org), Chicago - extended abstract deadline 13 Feb 2019, poster deadline 24 Apr 2019
 
 ## Past Conferences
