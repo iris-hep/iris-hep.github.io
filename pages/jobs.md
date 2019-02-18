@@ -43,6 +43,8 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
 
+### AWS
 
+  * [Principal Research Scientist for AWS Research](https://www.amazon.jobs/en/jobs/792926/principal-research-scientist-for-aws-research)
 
 
