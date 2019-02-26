@@ -1,16 +1,13 @@
 ---
-permalink: /about/team.html
+permalink: /about/executive-board.html
 layout: default
 title: Institute Team
 ---
 
-<h1>Full Team</h1><br>
-
 <div class="container-fluid">
-<div class="row">
-{% for univ_hash in site.data.universities %}
-{% assign univ = univ_hash[1] %}
-  {% for member in univ.personnel  %}
+  <h1>Executive Board</h1><br>
+  <div class="row">
+  {% for member in site.data.orgs.exec-board.personnel  %}
      {% for person_hash in site.data.people %}
        {% assign person = person_hash[1] %}
        {% if person.shortname == member %}
@@ -20,6 +17,11 @@ title: Institute Team
          <div class="card-text">
          <b><a href="{{person.website}}">{{person.name}}</a></b><br>
          <small>{{person.institution}}</small><br><br>
+		 <small>
+			<a href="mailto:{{person.e-mail}}">
+				<em>{{person.e-mail}}</em>
+			</a>
+		 </small><br><br>
          </div>
          <div class="card-text mt-auto"><i>{{person.title}}</i><br></div>
          </div>
@@ -27,8 +29,6 @@ title: Institute Team
        {% endif %}
        {% endfor %}
   {% endfor %}
+  </div>
   <br>
-{% endfor %}
 </div>
-</div>
-
