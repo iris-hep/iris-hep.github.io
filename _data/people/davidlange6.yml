@@ -5,6 +5,7 @@ active: green
 institution: Princeton University
 website: https://dlange.web.cern.ch
 photo: /assets/images/team/David-Lange.png
+e-mail: David.Lange@cern.ch
 presentations:
   - title: CMS in ROOT
     date: 13 Sep 2018
