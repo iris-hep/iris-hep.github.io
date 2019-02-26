@@ -17,6 +17,11 @@ title: Institute Team
          <div class="card-text">
          <b><a href="{{person.website}}">{{person.name}}</a></b><br>
          <small>{{person.institution}}</small><br><br>
+		 <small>
+			<a href="mailto:{{person.e-mail}}">
+				<em>{{person.e-mail}}</em>
+			</a>
+		 </small><br><br>
          </div>
          <div class="card-text mt-auto"><i>{{person.title}}</i><br></div>
          </div>
