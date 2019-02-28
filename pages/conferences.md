@@ -17,7 +17,7 @@ the conference itself as these sometimes change.**
   * 12-14 Jun 2019 - ["Platform for Advanced Scientific Computing (PASC19)"](https://pasc19.pasc-conference.org), Zurich, Switzerland - abstract deadline 15 Nov 2018 (papers, rolling???), 13 Jan 2019 (posters???)
   * 23 Jul - 25 Jul 2019 - ["31st International Conference on Scientific & Statistical Database Management (SSDBM 2019)"](https://www.soe.ucsc.edu/ssdbm19), Santa Cruz, CA, USA - submission deadline 4 March 2019
   * 28 Jul - 1 Aug 2019 - ["Practice and Experience in Advanced Research Computing (PEARC19)"](https://www.pearc19.pearc.org), Chicago - extended abstract deadline 13 Feb 2019, poster deadline 24 Apr 2019
-  * 29 Jul - 2 Aug 2019 - [2019 Meeting of the Division of Particles & Fields of the American Physical Society (DPF2019)](https://indico.cern.ch/event/782953/), Northeastern University, Boston - abstract submission deadline 18 May 2019
+  * 29 Jul - 2 Aug 2019 - ["2019 Meeting of the Division of Particles & Fields of the American Physical Society (DPF2019)"](https://indico.cern.ch/event/782953/), Northeastern University, Boston - abstract submission deadline 18 May 2019
   * 23-25 Sep 2019 - [Gateways 2019](https://sciencegateways.org/web/gateways2019/welcome), San Diego - abstracts due 6 May 2019 (full submission due 6 May 2019)
   * 24-27 Sep 2019 - [eScience 2019](https://escience2019.sdsc.edu/), San Diego - paper abstract deadline 29 April 2019
 
