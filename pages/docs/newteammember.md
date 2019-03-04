@@ -4,7 +4,7 @@ layout: default
 title: Information for new IRIS-HEP team members
 ---
 
-### For everything else
+### Things new IRIS-HEP team members need to do
 
   New IRIS-HEP team members need to do some number of things to get connected.
 This webpage documents the things that need to be done. (Under construction,
