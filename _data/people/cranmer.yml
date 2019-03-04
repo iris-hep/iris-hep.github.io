@@ -6,7 +6,7 @@ institution: New York University
 website: http://theoryandpractice.org
 photo: /assets/images/team/Kyle-Cranmer.jpg
 presentations:
-  - title: Inverting simulation: experiences with inverse problems in particle physics
+  - title: "Inverting simulation: experiences with inverse problems in particle physics"
     date: 25 Jan 2019
     url: https://earthscience.rice.edu/mathx2019/
     meeting: MATH + X Symposium on Inverse Problems and Deep Learning in Space Exploration
