@@ -17,15 +17,18 @@ title: Steering Board
          <div class="card-text">
          <b><a href="{{person.website}}">{{person.name}}</a></b><br>
          <small>{{person.institution}}</small><br><br>
-		 <small>
+		 <!-- <small>
 			<a href="mailto:{{person.e-mail}}">
 				<em>{{person.e-mail}}</em>
 			</a>
-		 </small><br><br>
+		 </small><br><br>  -->
          </div>
+		 {% if person.title %}
          <div class="card-text mt-auto"><i>{{person.title}}</i><br></div>
-		 <div class="card-text mt-auto"><i>{{person.project}}</i><br></div>
-         </div>
+		 {% elsif person.project %}
+		 <div class="card-text mt-auto"><i>{{person.project}}</i><br></div>  
+         {% endif %}
+		 </div>
        </div>
        {% endif %}
        {% endfor %}
