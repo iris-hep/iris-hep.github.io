@@ -22,7 +22,7 @@ presentations:
     meeting: IRIS-HEP Topical Meeting on Analysis Description Languages
     meetingurl: https://indico.cern.ch/event/799590/
     location: Vidyo
-  - title: Aligning the MATHUSA Test Stand Detector: Using Tensorflow
+  - title: "Aligning the MATHUSA Test Stand Detector: Using Tensorflow"
     date: 11 March 2019
     url: https://indico.cern.ch/event/708041/contributions/3272137/
     meeting: ACAT 2019
