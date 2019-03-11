@@ -6,6 +6,7 @@ title: Institute Team
 
 <div class="container-fluid">
   <h1>Executive Board</h1><br>
+  <p><b>The IRIS-HEP Executive Board manages the day to day activities of the Institute.</b></p>
   <div class="row">
   {% for member in site.data.orgs.exec-board.personnel  %}
      {% for person_hash in site.data.people %}
