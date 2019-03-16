@@ -8,17 +8,18 @@ photo: /assets/images/team/Gordon-Watts.jpg
 presentations:
   - title: "IRIS-HEP Steering Board Meeting #1"
     date: 06 Feb 2019
-    url: https://indico.cern.ch/event/790759/
+    url: https://indico.cern.ch/event/790759/contributions/3284632/attachments/1791853/2919742/2019-02-06_-_Steering_Board_Intro.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/ 
     location: Vidyo
   - title: "LINQ To ROOT"
     date: 13 Feb 2019
-    url: https://indico.cern.ch/event/789007/
+    url: https://indico.cern.ch/event/789007/contributions/3317126/attachments/1795120/2927037/2019-02-13_-_Analysis_Languages.pdf
     meeting: 1st DAWG Technology and Innovation Survey (HSF)
     meetingurl: https://indico.cern.ch/event/789007/
   - title: "The C# LINQ Analysis Language"
     date: 25 Feb 2019
+    url: https://indico.cern.ch/event/799590/contributions/3322885/attachments/1801294/2938216/2019-02-25_-_The_C_LINQ_Analysis_Language.pdf
     meeting: IRIS-HEP Topical Meeting on Analysis Description Languages
     meetingurl: https://indico.cern.ch/event/799590/
     location: Vidyo
@@ -27,8 +28,8 @@ presentations:
     url: https://indico.cern.ch/event/708041/contributions/3272137/
     meeting: ACAT 2019
     meetingurl: https://indico.cern.ch/event/708041
-  - title: IRIS-HEP and modern HEP Software Developement (working-title)
+  - title: Beyond the Roadmap: HL-LHC HEP Software
     date: 14 March 2019
-    url: https://indico.cern.ch/event/708041/contributions/3308813/
+    url: https://indico.cern.ch/event/708041/contributions/3308813/attachments/1811660/2959141/ACAT_Plenary.pdf
     meeting: ACAT 2019
     meetingurl: https://indico.cern.ch/event/708041
