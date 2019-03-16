@@ -26,10 +26,10 @@ website: <Optional, your website>
 photo: /assets/images/team/<First name>-<Last name>.jpg
 presentations:
   - title: How to make green eggs and ham
-    date: 13 Sep 2018
-    url: http://cern.ch/
+    date: 10 Sep 2018
+    url: https://indico.cern.ch/event/697389/contributions/3062046/attachments/1712602/2761531/ROOT2018-Union.pdf
     meeting: ROOT 2018 Users Workshop
-    meetingurl: http://cnn.com
+    meetingurl: https://cern.ch/root2018
     location: Sarajevo
 ```
 
@@ -51,3 +51,27 @@ presentations:
 [university file]:              https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/universities
 [IRIS-HEP Slack]:               https://iris-hep.slack.com
 [Google mailing lists]:         https://groups.google.com/a/iris-hep.org
+
+#### Presentations
+
+There is a section for presentations in the file you created above. We would
+like to keep track of the presentations made by IRIS-HEP team members, with
+the following criteria:
+
+  * Only presentations related to IRIS-HEP itself should be included.
+  * Any presentation in a "public" meeting should be included. This includes
+    presentations within an experiment, even if they are protected such
+    that the presentation and meeting links are not world visible.
+  * Presentations in the IRIS-HEP topical meetings should be included.
+  * Minor presentations in internal "working" meetings of IRIS-HEP do not
+    need to be added.
+
+The meaning of the fields is the following:
+
+  * title - the title of the talk
+  * date - the date on which the presentation was made, in the format "10 Sep 2018"
+  * url - this should be a direct URL to the presentation file (e.g. pdf)
+  * meeting - the name of the meeting
+  * meetingurl - the URL for the meeting in which the presentation was made 
+  * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can just omit this.
+
