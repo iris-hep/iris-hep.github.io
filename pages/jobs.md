@@ -35,8 +35,6 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/9275/research-software-engineer/job) to work with Department of Molecular Biology
 
-  * [Research Software Engineer](https://main-princeton.icims.com/jobs/9378/research-software-engineer/job) to work with the Department of Politics and the Department of Sociology
-
   * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
 
 ### AWS
