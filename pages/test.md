@@ -15,7 +15,7 @@ title: Institute for Research and Innovation in Software Test Page
      {% for person_hash in site.data.people %}
        {% assign person = person_hash[1] %}
        {% if person.shortname == member %}
-         <h4>{{person.name}}</h4>
+         {{person.name}}<br>
          <ul>
          {% for talk in person.presentations %}
          <li> {{talk.date}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{person.name}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
