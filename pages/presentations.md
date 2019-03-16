@@ -1,7 +1,7 @@
 ---
-permalink: /test.html
+permalink: /presentations.html
 layout: default
-title: Institute for Research and Innovation in Software Test Page
+title: Presentations
 ---
 
 {% assign orderedlist = "exec-board", "cornell", "indiana", "mit", "nyu", "princeton", "stanford", "chicago", "cincinnati", "uiuc", "michigan", "nebraska", "berkeley", "ucsc", "ucsd", "uprm", "washington", "wisconsin"] %}
