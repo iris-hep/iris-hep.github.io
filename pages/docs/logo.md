@@ -1,6 +1,6 @@
 ---
 permalink: /docs/logo.html
-layout: default
+layout: defaultgray
 title: Information regarding the IRIS-HEP logo
 ---
 
