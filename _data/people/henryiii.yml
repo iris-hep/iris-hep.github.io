@@ -33,6 +33,5 @@ presentations:
   - title: "boost-histogram and hist"
     date: 15 April 2019
     url: https://indico.cern.ch/event/803122/
-    meeting: IRIS-HEP Topical Meetings
+    meeting: IRIS-HEP Topical Meeting
     meetingurl: https://indico.cern.ch/event/803122/
-    location: CERN
