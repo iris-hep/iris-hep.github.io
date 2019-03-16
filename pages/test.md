@@ -29,25 +29,6 @@ title: Institute for Research and Innovation in Software Test Page
 
 <hr>
 
-<h2>Accumulate Gallery</h2>
-
-{% for org_hash in site.data.orgs %}
-{% assign org = org_hash[1] %}
-  <h4>{{org.name}}</h4>
-  <ul>
-  {% for member in org.personnel  %}
-     {% for person_hash in site.data.people %}
-       {% assign person = person_hash[1] %}
-         <li> Person: {{person.name}} </li>
-         {% for talk_hash in site.data.presentations.person %}
-           {% assign talk = talk_hash[1] %}
-           <li> Talk: {{talk.date}} - {{talk.title}} </li>
-         {% endfor %}
-       {% endfor %}
-  {% endfor %}
-  </ul>
-{% endfor %}
-
 <h2>Sorted Drill Down Gallery</h2>
 
 {% for org_hash in site.data.orgs %}
