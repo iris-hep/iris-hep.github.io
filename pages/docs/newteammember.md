@@ -65,6 +65,7 @@ the following criteria:
   * Presentations in the IRIS-HEP topical meetings should be included.
   * Minor presentations in internal "working" meetings of IRIS-HEP do not
     need to be added.
+  * Presentations, lectures, etc. as part of training events should be included.
 
 The meaning of the fields is the following:
 
