@@ -14,7 +14,7 @@ not mentioned here, or missing/unclear information, please [contribute an improv
 
 * Request membership in the [IRIS-HEP GitHub organization][].
 * Add a photo named `First-Last.jpg` or `.png` to the [assets/team folder][]. It should be 320x240 pixels.
-* Add a "`<your github username>.md`" file to the [people folder in the website repository][people]. Here is an example:
+* Add a "`<your github username>.yml`" file to the [people folder in the website repository][people]. Here is an example:
 
 ```yml
 name: <Your name>
