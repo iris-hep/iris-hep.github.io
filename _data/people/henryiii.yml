@@ -6,32 +6,32 @@ institution: Princeton University
 website: https://iscinumpy.gitlab.io
 photo: /assets/images/team/Henry-Schreiner.jpg
 presentations:
+  - title: "boost-histogram and hist"
+    date: 15 April 2019
+    url: https://indico.cern.ch/event/803122/
+    meeting: IRIS-HEP Topical Meeting
+    meetingurl: https://indico.cern.ch/event/803122/
   - title: "A hybrid deep learning approach to vertexing"
-    date: 11 Mar 2019
-    url: https://indico.cern.ch/event/708041/contributions/3269692/
-    meeting: 19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research
-    meetingurl: https://indico.cern.ch/event/708041/contributions/3269692/
-    location: Saas Fee, Switzerland
-  - title: "Machine Learning for the Primary Vertex reconstruction"
-    date: 20 Mar 2019
-    url: https://indico.cern.ch/event/759388/contributions/3303404/
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/contributions/3303404/
-    location: Jefferson Lab
+    date: 2-5 Apr 2019
+    url: https://indico.cern.ch/event/742793/contributions/3298730/
+    meeting: Connecting The Dots / Intelligent Trackers 2019
+    meetingurl: https://indico.cern.ch/event/742793/
+    location: Valencia, Spain
   - title: "Conda: a complete reproducible ROOT environment in under 5 minutes"
     date: 21 Mar 2019
     url: https://indico.cern.ch/event/759388/contributions/3306849/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/contributions/3306849/
     location: Jefferson Lab
+  - title: "Machine Learning for the Primary Vertex reconstruction"
+    date: 20 Mar 2019
+    url: https://indico.cern.ch/event/759388/contributions/3303404/
+    meeting: 2019 Joint HSF/OSG/WLCG Workshop
+    meetingurl: https://indico.cern.ch/event/759388/contributions/3303404/
+    location: Jefferson Lab
   - title: "A hybrid deep learning approach to vertexing"
-    date: 2-5 Apr 2019
-    url: https://indico.cern.ch/event/742793/contributions/3298730/
-    meeting: Connecting The Dots / Intelligent Trackers 2019
-    meetingurl: https://indico.cern.ch/event/742793/contributions/3298730/
-    location: Valencia, Spain
-  - title: "boost-histogram and hist"
-    date: 15 April 2019
-    url: https://indico.cern.ch/event/803122/
-    meeting: IRIS-HEP Topical Meeting
-    meetingurl: https://indico.cern.ch/event/803122/
+    date: 11 Mar 2019
+    url: https://indico.cern.ch/event/708041/contributions/3269692/attachments/1809272/2954230/PvFinder_ACAT2019.pdf
+    meeting: 19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+    meetingurl: https://indico.cern.ch/event/708041/overview
+    location: Saas Fee, Switzerland
