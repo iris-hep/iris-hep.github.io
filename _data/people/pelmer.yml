@@ -7,8 +7,20 @@ website: https://scholar.princeton.edu/elmer/home
 photo: /assets/images/team/Peter-Elmer.jpg
 e-mail: Peter.Elmer@cern.ch
 presentations:
+  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
+    date: 23 Oct 2018
+    url: https://indico.cern.ch/event/765782/contributions/3178944/attachments/1739581/2814524/20181023-iris-hep-cms-offline-computing.pdf
+    meeting: CMS ECOM2X WG7
+    meetingurl: https://indico.cern.ch/event/765782/overview
   - title:  Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)
     date: 20 Sep 2018
     url: https://indico.cern.ch/event/713888/contributions/2933014/attachments/1719328/2775216/20180920-iris-hep-cern-scf.pdf
     meeting: 5th Scientific Computing Forum
     meetingurl: https://indico.cern.ch/event/713888/
+  - title: "The HEP S&C Roadmap & the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)" 
+    date: 30 Jul 2018
+    url: https://indico.cern.ch/event/732285/contributions/3021320/
+    meeting: US ATLAS Workshop 2018
+    meetingurl: https://indico.cern.ch/event/732285/
+    location: Pittsburgh
+
