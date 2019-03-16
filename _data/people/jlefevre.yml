@@ -8,7 +8,7 @@ photo: /assets/images/team/Jeff-LeFevre.jpg
 presentations:
   - title: SkyhookDB - Leveraging object storage toward database elasticity in the cloud
     date: 16 Nov 2017
-    url: http://s2i2-hep.org/downloads/doma-workshop-flatiron-institute-nov2017-participants.pdf
+    url: https://indico.cern.ch/event/669506/contributions/2782611/attachments/1560226/2455903/jlefevre-skyhookdb-20171116-flatiron.pdf
     meeting: DOMA Workshop 2017 (Flatiron Institute)
     meetingurl: https://indico.cern.ch/event/669506/
     
