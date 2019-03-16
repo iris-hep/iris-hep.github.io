@@ -1,7 +1,6 @@
 ---
 permalink: /test.html
-layout: main
-bgimage: assets/images/Tprime-200pu-PhaseII-black-arctic-main-image.png
+layout: default
 title: Institute for Research and Innovation in Software Test Page
 ---
 
