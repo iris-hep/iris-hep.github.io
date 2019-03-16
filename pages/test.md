@@ -10,11 +10,11 @@ title: Institute for Research and Innovation in Software Test Page
 <hr>
 <h2>Drill Down Gallery 2</h2>
 
-{% for org_hash in site.data.orgs %}
-{% assign org = org_hash[1] %}
-  <h4>{{org.name}}</h4>
+{% for uni_hash in site.data.universities %}
+{% assign uni = uni_hash[1] %}
+  <h4>{{uni.name}}</h4>
   <ul>
-  {% for member in org.personnel  %}
+  {% for member in uni.personnel  %}
      {% for person_hash in site.data.people %}
        {% assign person = person_hash[1] %}
        {% if person.shortname == member %}
