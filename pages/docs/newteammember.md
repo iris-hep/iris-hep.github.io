@@ -66,6 +66,7 @@ the following criteria:
   * Minor presentations in internal "working" meetings of IRIS-HEP do not
     need to be added.
   * Presentations, lectures, etc. as part of training events should be included.
+  * Posters at workshops and conferences can also be included. You can add "(poster)" at the end of the title. Include a link to a pdf of the poster. 
 
 The meaning of the fields is the following:
 
