@@ -8,7 +8,7 @@ title: Institute for Research and Innovation in Software Test Page
 {% assign orderedlist = "exec-board", "cornell", "indiana", "mit", "nyu", "princeton", "stanford", "chicago", "cincinnati", "uiuc", "michigan", "nebraska", "berkeley", "ucsc", "ucsd", "uprm", "washington", "wisconsin"] %}
 
 <hr>
-<h2>Drill Down Gallery 2</h2>
+<h2>Presentations by the IRIS-HEP team</h2>
 
 {% for uni_hash in site.data.universities %}
 {% assign uni = uni_hash[1] %}
