@@ -12,6 +12,11 @@ presentations:
     meeting: MATH + X Symposium on Inverse Problems and Deep Learning in Space Exploration
     meetingurl: https://earthscience.rice.edu/mathx2019/
     location: Rice University
+  - title: "IRIS-HEP Analysis Systems"
+    date: 06 Feb 2019
+    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271527/attachments/1791896/2919641/AS_overview_for_Steering_Board-2.pdf
+    meeting: IRIS-HEP Steering Board Meeting #1
+    meetingurl: https://indico.cern.ch/event/790759/
   - title: Panel Discussion on Machine Learning and Physics
     date: 12 Feb 2019
     url: https://www.kitp.ucsb.edu/activities/machine-c19

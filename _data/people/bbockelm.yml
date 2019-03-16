@@ -6,5 +6,8 @@ institution: Morgridge Institute
 website: http://iris-hep.org
 photo: /assets/images/team/Brian-Bockelman.jpg
 presentations:
-
-
+  - title: "IRIS-HEP DOMA"
+    date: 06 Feb 2019
+    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271528/attachments/1790472/2919593/DOMA-SB-1.pdf
+    meeting: IRIS-HEP Steering Board Meeting #1
+    meetingurl: https://indico.cern.ch/event/790759/
