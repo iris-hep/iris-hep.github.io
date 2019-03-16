@@ -27,24 +27,5 @@ title: Institute for Research and Innovation in Software Test Page
   </ul>
 {% endfor %}
 
-<hr>
 
-<h2>Sorted Drill Down Gallery</h2>
-
-{% for org_hash in site.data.orgs %}
-{% assign org = org_hash[1] %}
-  <h4>{{org.name}}</h4>
-  <ul>
-  {% for member in org.personnel  %}
-     {% for person_hash in site.data.people %}
-       {% assign person = person_hash[1] %}
-       {% if person.shortname == member %}
-         {% for talk in person.presentations %}
-         <li> {{talk.date}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{person.name}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
-         {% endfor %}
-       {% endif %}
-       {% endfor %}
-  {% endfor %}
-  </ul>
-{% endfor %}
 
