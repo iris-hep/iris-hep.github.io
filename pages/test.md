@@ -11,19 +11,18 @@ title: Institute for Research and Innovation in Software Test Page
 {% for uni_hash in site.data.universities %}
 {% assign uni = uni_hash[1] %}
   <h4>{{uni.name}}</h4>
+  <ul>
   {% for member in uni.personnel  %}
      {% for person_hash in site.data.people %}
        {% assign person = person_hash[1] %}
        {% if person.shortname == member %}
-         {{person.name}}<br>
-         <ul>
          {% for talk in person.presentations %}
          <li> {{talk.date}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{person.name}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
          {% endfor %}
-         </ul>
        {% endif %}
        {% endfor %}
   {% endfor %}
+  </ul>
 {% endfor %}
 
 
