@@ -60,7 +60,7 @@ the following criteria:
 
   * Only presentations related to IRIS-HEP itself should be included.
   * Any presentation in a "public" meeting should be included. This includes
-    presentations within an experiment, even if they are protected such
+    presentations made in experiment meetings, even if they are protected such
     that the presentation and meeting links are not world visible.
   * Presentations in the IRIS-HEP topical meetings should be included.
   * Minor presentations in internal "working" meetings of IRIS-HEP do not
