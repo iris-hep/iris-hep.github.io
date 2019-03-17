@@ -47,6 +47,12 @@ presentations:
     meeting: National Academy of Science, Sackler Colloquia 
     meetingurl: http://www.cvent.com/events/the-science-of-deep-learning/agenda-a96a8734ffa841ea8d5439e081b50f54.aspx?i=1937316e-9f98-4398-b6a2-d84b0a49311c
     location: Washington DC
+  - title: Overview of Likelihood-Free Inference for Physics
+    date: 18 Mar 2019
+    url: https://lfitaskforce.github.io/FlatironMeeting/
+    meeting: Likelihood-Free Inference Workshop
+    meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
+    location: Flatiron Institute, NYC
   - title: Future areas of focus for ML in particle physics
     date: 15 Apr 2019
     url: https://indico.cern.ch/event/766872/timetable/#20190415.detailed
