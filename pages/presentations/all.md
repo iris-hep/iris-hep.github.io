@@ -1,7 +1,8 @@
 ---
-permalink: /presentations.html
+permalink: /presentations/all.html
 layout: default
 title: Presentations
+redirect_from: "/presentations"
 ---
 
 {% assign orderedlist = "cornell, indiana, mit, morgridge, nyu, princeton, stanford, chicago, cincinnati, uiuc, michigan, nebraska, berkeley, ucsc, ucsd, uprm, washington, wisconsin" | split: ", " %}
