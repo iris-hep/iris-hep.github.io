@@ -4,12 +4,14 @@ layout: default
 title: Institute Team
 ---
 
+{% assign orderedlist = "cornell, indiana, mit, morgridge, nyu, princeton, stanford, chicago, cincinnati, uiuc, michigan, nebraska, berkeley, ucsc, ucsd, uprm, washington, wisconsin" | split: ", " %}
+
 <h1>Full Team</h1><br>
 
 <div class="container-fluid">
 <div class="row">
-{% for univ_hash in site.data.universities %}
-{% assign univ = univ_hash[1] %}
+{% for uniindex in orderedlist %}
+{% assign univ = site.data.universities[uniindex] %}
   {% for member in univ.personnel  %}
      {% for person_hash in site.data.people %}
        {% assign person = person_hash[1] %}
