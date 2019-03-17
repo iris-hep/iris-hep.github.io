@@ -21,7 +21,7 @@ IRIS-HEP team members are involved in organizing the following events:
   <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - {{event.name}} </li>
   <ul>
       <li> <i>{{event.location}}</i> </li>
-      <li> <a href="{{event.website}}">Website</a> </li>
+      <li> <a href="{{event.meetingurl}}">Website</a> </li>
   </ul>
   {% endif %}
 {% endfor %}
@@ -36,7 +36,7 @@ IRIS-HEP team members are involved in organizing the following events:
   <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - {{event.name}} </li>
   <ul>
       <li> <i>{{event.location}}</i> </li>
-      <li> <a href="{{event.website}}">Website</a> </li>
+      <li> <a href="{{event.meetingurl}}">Website</a> </li>
   </ul>
   {% endif %}
 {% endfor %}
