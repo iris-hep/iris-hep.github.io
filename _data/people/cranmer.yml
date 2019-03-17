@@ -6,6 +6,18 @@ institution: New York University
 website: http://theoryandpractice.org
 photo: /assets/images/team/Kyle-Cranmer.jpg
 presentations:
+  - title: What does the Revolution in Artificial Intelligence Mean for Physics?
+    date: 7 Sep 2018
+    url: http://media.physics.harvard.edu/video/html5/?id=COLLOQ_CRANMER_091018
+    meeting: Harvard Physics Colloquium
+    meetingurl: http://media.physics.harvard.edu/video/html5/?id=COLLOQ_CRANMER_091018
+    location: Harvard University
+  - title: What does the Revolution in Artificial Intelligence Mean for Physics?
+    date: 19 Sep 2018
+    url: https://www.jlab.org/colloquium-kyle-cranmer-nyu
+    meeting: Jefferson Lab Colloquium
+    meetingurl: https://www.jlab.org/colloquium-kyle-cranmer-nyu
+    location: Jefferson Lab
   - title: "Inverting simulation: experiences with inverse problems in particle physics"
     date: 25 Jan 2019
     url: https://earthscience.rice.edu/mathx2019/
@@ -29,24 +41,18 @@ presentations:
     meeting: UC Riverside Physics Colloquium
     meetingurl: https://physics.ucr.edu/previous-colloquium-and-videos
     location: UC-Riverside
-  - title: What does the Revolution in Artificial Intelligence Mean for Physics?
-    date: 7 Sep 2019
-    url: http://media.physics.harvard.edu/video/html5/?id=COLLOQ_CRANMER_091018
-    meeting: Harvard Physics Colloquium
-    meetingurl: http://media.physics.harvard.edu/video/html5/?id=COLLOQ_CRANMER_091018
-    location: Harvard University
-  - title: What does the Revolution in Artificial Intelligence Mean for Physics?
-    date: 19 Sep 2019
-    url: https://www.jlab.org/colloquium-kyle-cranmer-nyu
-    meeting: Jefferson Lab Colloquium
-    meetingurl: https://www.jlab.org/colloquium-kyle-cranmer-nyu
-    location: Jefferson Lab
   - title: Deep Learning in Science
     date: 13 Mar 2019
     url: http://www.nasonline.org/programs/sackler-colloquia/upcoming-colloquia/
     meeting: National Academy of Science, Sackler Colloquia 
     meetingurl: http://www.cvent.com/events/the-science-of-deep-learning/agenda-a96a8734ffa841ea8d5439e081b50f54.aspx?i=1937316e-9f98-4398-b6a2-d84b0a49311c
     location: Washington DC
+  - title: Overview of Likelihood-Free Inference for Physics
+    date: 18 Mar 2019
+    url: https://lfitaskforce.github.io/FlatironMeeting/
+    meeting: Likelihood-Free Inference Workshop
+    meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
+    location: Flatiron Institute, NYC
   - title: Future areas of focus for ML in particle physics
     date: 15 Apr 2019
     url: https://indico.cern.ch/event/766872/timetable/#20190415.detailed
