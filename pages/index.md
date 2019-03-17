@@ -18,7 +18,7 @@ IRIS-HEP team members are involved in organizing the following events:
 {% for event_hash in event_items  %}
   {% assign event = event_hash[1] %}
   {% if event.status == 'current' %}
-  <li> {{event.dates}} - {{event.name}} </li>
+  <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - {{event.name}} </li>
   <ul>
       <li> <i>{{event.location}}</i> </li>
       <li> <a href="{{event.website}}">Website</a> </li>
@@ -33,7 +33,7 @@ IRIS-HEP team members are involved in organizing the following events:
 {% for event_hash in event_items  %}
   {% assign event = event_hash[1] %}
   {% if event.status == 'past' %}
-  <li> {{event.dates}} - {{event.name}} </li>
+  <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - {{event.name}} </li>
   <ul>
       <li> <i>{{event.location}}</i> </li>
       <li> <a href="{{event.website}}">Website</a> </li>
