@@ -10,35 +10,40 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
 <br><br>
 The IRIS-HEP project was funded on 1 September, 2018, and is currently ramping up its activities. 
 
+{% comment %}
+Go through the list and produce a list of upcoming events as well as a 
+list of events in the past 90 days. Treat 6 days ago as "now" so that
+ongoing events don't get prematurely flagged as recent.
+{% endcomment %}
+{% assign currentdatecmp = 'now' | date: "%s" %}
+{% assign sixdaysago = 'now' | date: "%s" | minus: 518400 | date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
+{% assign ninetydaysago = 'now' | date: "%s" | minus: 7776000| date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
+<br>
+
+
 <br>
 <h4>Upcoming Events:</h4>
 IRIS-HEP team members are involved in organizing the following events:
 <ul>
-{% assign event_items = site.data.events %}
-{% for event_hash in event_items  %}
+{% for event_hash in site.data.events %}
   {% assign event = event_hash[1] %}
-  {% if event.status == 'current' %}
-  <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - {{event.name}} </li>
-  <ul>
-      <li> <i>{{event.location}}</i> </li>
-      <li> <a href="{{event.meetingurl}}">Website</a> </li>
-  </ul>
+  {% assign startdatecmp = event.startdate | date: "%s" %}
+  {% if startdatecmp >= sixdaysago %} 
+  <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
   {% endif %}
 {% endfor %}
 </ul>
 
 <h4>Past Events:</h4>
 <ul>
-{% assign event_items = site.data.events %}
-{% for event_hash in event_items  %}
+{% for event_hash in site.data.events  %}
   {% assign event = event_hash[1] %}
-  {% if event.status == 'past' %}
-  <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - {{event.name}} </li>
-  <ul>
-      <li> <i>{{event.location}}</i> </li>
-      <li> <a href="{{event.meetingurl}}">Website</a> </li>
-  </ul>
+  {% assign startdatecmp = event.startdate | date: "%s" %}
+  {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
+  <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
   {% endif %}
 {% endfor %}
 </ul>
+
+<br><br>
 
