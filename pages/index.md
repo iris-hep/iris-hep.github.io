@@ -34,7 +34,7 @@ IRIS-HEP team members are involved in organizing the following events:
 {% endfor %}
 </ul>
 
-<h4>Past Events:</h4>
+<h4>Recent Events:</h4>
 <ul>
 {% for event_hash in site.data.events  %}
   {% assign event = event_hash[1] %}
@@ -45,5 +45,6 @@ IRIS-HEP team members are involved in organizing the following events:
 {% endfor %}
 </ul>
 
+<a href="/events.html">View all past events</a>
 <br><br>
 
