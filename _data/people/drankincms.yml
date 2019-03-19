@@ -1,0 +1,14 @@
+name: Dylan Rankin
+shortname: drankincms
+title: 
+active: green
+institution: Massachusetts Institute of Technology
+website: 
+photo: /assets/images/team/Dylan-Rankin.jpg
+presentations:
+  - title: Using ML on FPGAs to enhance reconstruction output
+    date: 13 Feb 2019
+    url: https://indico.cern.ch/event/797510/contributions/3313676/attachments/1795772/2927344/irishep_dsr_hls4ml_13feb2019.pdf
+    meeting: IRIS-HEP Topical Meeting
+    meetingurl: https://indico.cern.ch/event/797510/
+    location: 
