@@ -70,7 +70,7 @@ the following criteria:
 
 The meaning of the fields is the following:
 
-  * title - the title of the talk
+  * title - the title of the talk: you made need to place it in double quotes, if certain characters like a colon (":") are included in the title
   * date - the date on which the presentation was made, in the format "10 Sep 2018"
   * url - this should be a direct URL to the presentation file (e.g. pdf)
   * meeting - the name of the meeting
