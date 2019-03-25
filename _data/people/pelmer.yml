@@ -8,6 +8,12 @@ photo: /assets/images/team/Peter-Elmer.jpg
 e-mail: Peter.Elmer@cern.ch
 presentations:
   - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
+    date: 22 Mar 2019
+    url: https://indico.cern.ch/event/759388/contributions/3302394/attachments/1816794/2969628/IRIS-HEP-HOW2019.pdf
+    meeting: 2019 Joint HSF/OSG/WLCG Workshop
+    meetingurl: https://indico.cern.ch/event/759388/overview
+    location: Jefferson Lab
+  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
     date: 23 Oct 2018
     url: https://indico.cern.ch/event/765782/contributions/3178944/attachments/1739581/2814524/20181023-iris-hep-cms-offline-computing.pdf
     meeting: CMS ECOM2X WG7
