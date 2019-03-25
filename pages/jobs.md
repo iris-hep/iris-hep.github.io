@@ -39,9 +39,12 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
 ### AWS
 
-  * [Principal Research Scientist for AWS Research](https://www.amazon.jobs/en/jobs/792926/principal-research-scientist-for-aws-research)
+  * [Principal Research Scientist for AWS Research](https://www.amazon.jobs/en/jobs/792926/principal-research-scientist-for-aws-research).
 
 ### Argonne National Lab
 
   * [Assistant Computational Scientist](http://inspirehep.net/record/1722455)
 
+### ATLAS
+
+  * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
