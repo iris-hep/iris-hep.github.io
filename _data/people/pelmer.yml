@@ -14,6 +14,12 @@ presentations:
     meetingurl: https://indico.cern.ch/event/759388/overview
     location: Jefferson Lab
   - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
+    date: 21 Mar 2019
+    url: https://indico.cern.ch/event/759388/contributions/3364938/attachments/1816067/2968165/IRIS-HEP-OSG-Council-HOW2019-Elmer.pdf
+    meeting: OSG Council Meeting at HOW2019
+    meetingurl: https://indico.cern.ch/event/759388/overview
+    location: Jefferson Lab
+  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
     date: 23 Oct 2018
     url: https://indico.cern.ch/event/765782/contributions/3178944/attachments/1739581/2814524/20181023-iris-hep-cms-offline-computing.pdf
     meeting: CMS ECOM2X WG7
