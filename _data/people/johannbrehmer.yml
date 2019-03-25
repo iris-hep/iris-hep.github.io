@@ -6,25 +6,25 @@ institution: New York University
 website: https://johannbrehmer.github.io
 photo: /assets/images/team/Johann-Brehmer.jpg
 presentations:
-  - title: "Mining gold" from simulators to improve likelihood-free inference
+  - title: "'Mining gold' from simulators to improve likelihood-free inference"
     date: 18 Mar 2019
     url: https://lfitaskforce.github.io/FlatironMeeting/
     meeting: Likelihood-free inference workshop
     meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
     location: New York, USA
-  - title: Keynote: Constraining effective field theories with machine learning
+  - title: "Keynote: Constraining effective field theories with machine learning"
     date: 14 Mar 2019
     url: https://indico.cern.ch/event/708041/contributions/3308812/
     meeting: International Workshop on Advanced Computing and Analysis Techniques in Physics Research
     meetingurl: https://indico.cern.ch/event/708041/
     location: Saas-Fee, Switzerland
-  - title: Bringing together simulations, physics insight, and machine learning to constrain new physics
+  - title: "Bringing together simulations, physics insight, and machine learning to constrain new physics"
     date: 28 Feb 2019
     url: https://www.brandeis.edu/departments/physics/events/darkuniverse.html
     meeting: Dark universe seminar
     meetingurl: https://www.brandeis.edu/departments/physics/events/darkuniverse.html
     location: Brandeis University, Boston, USA
-  - title: Meticulous measurements with matrix elements and machine learning
+  - title: "Meticulous measurements with matrix elements and machine learning"
     date: 14 Jan 2018
     url: https://pages.uoregon.edu/its/seminars/
     meeting: ITS/CHEP joint seminar
