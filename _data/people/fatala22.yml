@@ -6,6 +6,12 @@ institution: University of Puerto Rico at Mayaguez
 website: http://charma.uprm.edu/~malik/
 photo: /assets/images/team/Sudhir-Malik.png
 presentations:
+  - title: "FIRST-HEP Training Program"
+    date: 21 Mar 2019
+    url: https://indico.cern.ch/event/759388/contributions/3315849/attachments/1816168/2968373/FIRST-HEP-JLAB-HOW2019.pdf
+    meeting: 2019 Joint HSF/OSG/WLCG Workshop
+    meetingurl: https://indico.cern.ch/event/759388/overview
+    location: Jefferson Lab
   - title: "IRIS-HEP Software Sustainability Core"
     date: 06 Feb 2019
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271531/attachments/1791306/2919793/IRIS_steering_update_6Feb2019.pdf
