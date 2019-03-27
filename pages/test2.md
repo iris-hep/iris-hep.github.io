@@ -1,7 +1,7 @@
 ---
 permalink: /test2.html
 layout: default
-title: Institute for Research and Innovation in Software
+title: Test Page
 ---
 <h3>Computational and data science research to enable discoveries in fundamental physics</h3>
 <br>
@@ -9,6 +9,24 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
 <br><br>
 The IRIS-HEP project was funded on 1 September, 2018, and is ramping up its activities. 
 
+
+
+<hr>
+
+{% comment %}
+Go through the list of documentation pages and create an index of them.
+{% endcomment %}
+<br>
+<b>Documentation pages:</b>
+<ul>
+{% for mypage in site.pages %}
+  {% if mypage.pagetype == 'doc' %} 
+  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<hr>
 
 {% comment %}
 Go through the list and produce a list of upcoming events as well as a 
