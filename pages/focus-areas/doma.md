@@ -1,7 +1,7 @@
 ---
 permalink: /doma.html
 layout: focus-area
-title: IRIS-HEP Data Organization, Management and Access (DOMA)
+title: Data Organization, Management and Access (DOMA)
 short_title: doma
 ---
 

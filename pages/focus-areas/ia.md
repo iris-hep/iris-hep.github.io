@@ -1,7 +1,7 @@
 ---
 permalink: /ia.html
 layout: focus-area
-title: IRIS-HEP Innovative Algorithms
+title: Innovative Algorithms
 short_title: ia
 ---
 

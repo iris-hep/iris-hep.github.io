@@ -1,7 +1,7 @@
 ---
 permalink: /ssl.html
 layout: focus-area
-title: IRIS-HEP Scalable Systems Laboratory
+title: Scalable Systems Laboratory
 short_title: ssl
 ---
 
