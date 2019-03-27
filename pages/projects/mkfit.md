@@ -1,7 +1,7 @@
 ---
 permalink: /projects/mkfit.html
 layout: project
-title: IRIS-HEP MKFit project
+title: MKFit project
 short-name: mkfit
 pagetype: project
 ---

@@ -1,7 +1,7 @@
 ---
 permalink: /projects/acts.html
 layout: project
-title: IRIS-HEP ACTS project
+title: ACTS project
 short-name: acts
 pagetype: project
 ---
