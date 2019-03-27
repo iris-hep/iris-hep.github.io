@@ -3,7 +3,7 @@ short_name: my-great-project3
 name: My Great Project
 Image: CMS.jpg
 Blurb: A short story behind my great idea three times.
-focus-area: IA
+focus-area: ia
 
 Team:
  - David Lange

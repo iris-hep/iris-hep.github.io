@@ -22,30 +22,20 @@
 
       <div class="container">
         <main role="main">
-{% assign page_info_list = site.data.focus-areas | where: "name", page.focus-area-name %}
-{% assign page_info = page_info_list | first %}
-{% assign page_title = page_info.title %}
-{% assign page_short_title = page_info.short_title %}
-{% assign page_blurb = page_info.blurb %}
-
-{% capture my_include3 %}{% include fa_instructions.md %}{% endcapture %}
-{{ my_include3 | markdownify }}
-<br>
 
 <div>
 <br>
-<center><h1>{{ page_title }}</h1></center>
+<center><h1>{{ page.title }}</h1></center>
 
-{% capture my_include3 %}{% include {{page_blurb}} %}{% endcapture %}
-{{ my_include3 | markdownify }}
+{{page.purpose | markdownify }}
 </div>
 
 <div class="container-fluid">
-  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page_short_title }} Projects</h2><br>
+  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
   <div class="row">
   {% for project_hash in site.data.projects  %}
      {% assign project = project_hash[1] %}
-     {% if project.focus-area == page_info.short_title %}
+     {% if project.focus-area == page.short_title %}
        <div class="card" style="width: 18rem;">
          <img class="card-img-top" src="/assets/images/{{project.Image}}" alt="Card image cap">
          <div class="card-body d-flex flex-column">
@@ -63,17 +53,12 @@
 </div>
 
   <div class="container-lg p-responsive py-5 py-md-6 ">
-    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page_short_title }} Publications</h2>
-
-We collect time ordered lists of publications in a news-feed style (one small markdown file per publication). The box is a fixed
-size, but will scroll to show older publications. To add a publication, make a new file in _posts directory following one of
-the examples (look for pub_kind: Publication in the header. The same information can be used to create the list of publications
-for the entire project.
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
 
 {% capture list %}
   {% for project_hash in site.data.projects  %}
     {% assign project = project_hash[1] %}
-    {% if project.focus-area == page_info.short_title %}
+    {% if project.focus-area == page.short_title %}
       {% for pub in project.Publications  %}
         ^{{pub.date | date: "%Y-%m-%d"}}|{{ pub.title }}|{{ pub.citation }}|{{ pub.link}}|{{project.name}}
       {% endfor %}
@@ -99,10 +84,7 @@ for the entire project.
 
 <section class="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
-    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page_short_title }} Presentations</h2>
-
-We collect presentations from the yaml file for each team member. This box is a
-size, but will scroll to show older presentations. 
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
 
 {% capture list %}
   {% for univ_hash in site.data.universities %}
@@ -127,7 +109,7 @@ size, but will scroll to show older presentations.
   {% if presentation.size  > 20 %}
     {% assign item = presentation | split: "|" %}
     {% assign t1 = item[7] | strip %}
-    {% assign t2 = page_short_title | strip %}
+    {% assign t2 = page.short_title | strip %}
     {% if t1  == t2 %} <!-- might need a | strip??? -->
       <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
     {% endif %}
@@ -141,11 +123,11 @@ size, but will scroll to show older presentations.
 <section class="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="join-us">Join us</h2>
-    <p class="alt-lead text-gray text-center col-md-10 mx-auto">We collaborate with groups around the world on code, data, and more. [below is meant to be a list of logos for our collaborators.. (driven by yaml input)</p>
+    <p class="alt-lead text-gray text-center col-md-10 mx-auto">We collaborate with groups around the world on code, data, and more. </p>
   </div>
   <div style="overflow: hidden;">
     <div class="featured-orgs text-center p-2">
-      {% for org_list in page_info.Collaborators   %}
+      {% for org_list in page.Collaborators   %}
         {% assign org_hash = org_list | first  %}
         {% assign org = org_hash[1] %}
         <a href="{{org.Link}}"><img src="/assets/images/{{org.Image}}" height="100"> </a>
