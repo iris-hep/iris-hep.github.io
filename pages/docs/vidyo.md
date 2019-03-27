@@ -1,7 +1,7 @@
 ---
 permalink: /docs/vidyo.html
 layout: default
-title: Information regarding Vidyo 
+title: Vidyo Information
 pagetype: doc
 ---
 
