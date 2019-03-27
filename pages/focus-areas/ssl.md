@@ -1,14 +1,8 @@
 ---
-
 permalink: /ssl.html
 layout: focus-area
-focus-area-name: scalable-systems-laboratory
 title: IRIS-HEP Scalable Systems Laboratory
 short_title: ssl
-Collaborators:
-  - USCMS:
-      Image: CMS.jpg
-      Link: http://cern.ch
 ---
 
   SSL is an important area within IRIS-HEP
