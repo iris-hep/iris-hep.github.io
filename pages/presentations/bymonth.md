@@ -1,7 +1,8 @@
 ---
 permalink: /presentations/bymonth.html
 layout: default
-title: Presentations
+title: Presentations by Month
+redirect_from: "/presentations/all"
 ---
 
 {% assign orderedlist = "cornell, indiana, mit, morgridge, nyu, princeton, stanford, chicago, cincinnati, uiuc, michigan, nebraska, berkeley, ucsc, ucsd, uprm, washington, wisconsin" | split: ", " %}
