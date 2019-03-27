@@ -14,8 +14,20 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>Documentation pages:</b>
 <ul>
-{% for mypage in site.pages %}
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
   {% if mypage.pagetype == 'doc' %} 
+  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<br>
+<b>Focus Area pages:</b>
+<ul>
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
+  {% if mypage.pagetype == 'focus-area' %} 
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}
@@ -24,7 +36,8 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>Project pages:</b>
 <ul>
-{% for mypage in site.pages %}
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
   {% if mypage.pagetype == 'project' %} 
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
@@ -35,9 +48,10 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>Other pages:</b>
 <ul>
-{% for mypage in site.pages %}
-  {% if mypage.pagetype != 'doc' %} 
-  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
+  {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.title %} 
+  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a> - {{mypage.url}}</li>
   {% endif %}
 {% endfor %}
 </ul>
