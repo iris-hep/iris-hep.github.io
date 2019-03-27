@@ -2,6 +2,7 @@
 permalink: /projects/MyGreatIdea
 layout: default
 title: My Great Idea
+pagetype: project
 ---
 
 Welcome. Filling this page is up to the team behind the great idea. Things you could include on this page
