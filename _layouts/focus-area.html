@@ -60,7 +60,7 @@
     {% assign project = project_hash[1] %}
     {% if project.focus-area == page.short_title %}
       {% for pub in project.Publications  %}
-        ^{{pub.date | date: "%Y-%m-%d"}}|{{ pub.title }}|{{ pub.citation }}|{{ pub.link}}|{{project.name}}
+        ^{{pub.date }}|{{ pub.title }}|{{ pub.citation }}|{{ pub.link}}|{{project.name}}
       {% endfor %}
     {% endif %}
   {% endfor %}
@@ -73,7 +73,9 @@
   {% for pub_item in sorted_pubs %}
     {% if pub_item.size  > 20 %}
       {% assign pub = pub_item | split: "|" %}
-      <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] }}).</li>
+      {% if pub[0] contains '2' %}
+        <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] }}).</li>
+      {% endif %}
     {% endif %}
   {% endfor %}
 </ul>
@@ -94,7 +96,47 @@
         {% assign person = person_hash[1] %}
         {% if person.shortname == member %}
            {% for presentation in person.presentations %}
-             ^{{presentation.date | date: "%Y-%m-%d"}}|{{ person.name }}|{{ presentation.title }}|{{ presentation.url}}|{{ presentation.meeting }}|{{ presentation.meetingurl }}|{{ presentation.project}}|{{presentation.area}}
+             {% assign pres_date = "Unknown" %}
+             {% if presentation.date contains "2" %}
+               {% assign pres_date = presentation.date | date: "%Y-%m-%d" %}
+             {% endif %}
+
+             {% assign pres_name = "Unknown" %}
+             {% if person.name %}
+               {% assign pres_name = person.name %}
+             {% endif %}
+                
+             {% assign pres_title = "Unknown" %}
+             {% if presentation.title %}
+             {% assign pres_title = presentation.title %}
+             {% endif %}
+
+             {% assign pres_url = "Unknown" %}
+             {% if presentation.url %}
+             {% assign pres_url = presentation.url %}
+             {% endif %}
+
+             {% assign pres_meeting = "Unknown" %}
+             {% if presentation.meeting %}
+             {% assign pres_meeting = presentation.meeting %}
+             {% endif %}
+
+             {% assign pres_meetingurl = "Unknown" %}
+             {% if presentation.meetingurl %}
+             {% assign pres_meetingurl = presentation.meetingurl %} 
+             {% endif %}
+
+             {% assign pres_project = "Unknown" %}
+             {% if presentation.project %}
+             {% assign pres_project = presentation.project %}
+             {% endif %}
+
+             {% assign pres_focus_area = "Unknown" %}
+             {% if presentation.focus_area %}
+             {% assign pres_focus_area = presentation.focus_area %}
+             {% endif %}
+
+             ^{{pres_date}}|{{pres_name}}|{{pres_title}}|{{pres_url}}|{{pres_meeting}}|{{pres_meetingurl}}|{{pres_project}}|{{pres_focus_area}}  
            {% endfor %}
         {% endif %}
       {% endfor %}
@@ -110,8 +152,10 @@
     {% assign item = presentation | split: "|" %}
     {% assign t1 = item[7] | strip %}
     {% assign t2 = page.short_title | strip %}
-    {% if t1  == t2 %} <!-- might need a | strip??? -->
-      <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
+    {% if t1  == t2 %} {% comment %}  might need a | strip??? {% endcomment %}
+      {% if item[0] contains '2' %}
+        <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}},{{item[7]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}

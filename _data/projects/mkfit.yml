@@ -1,0 +1,21 @@
+Homepage: /mkfit
+short_name: mkfit
+name: MKFit
+Image: CMS.jpg
+Blurb: Please fill in
+focus-area: ia
+
+Team:
+ - Avi Yagil
+ - Peter Wittich
+ - Steve Lantz
+ - Dan Riley
+ - Matevz Tadel
+ - Slava Krutelyov
+ - Mario Masciovecchio
+
+Publications:
+ - title: My fantastic publication
+   link: https://www.cern.ch
+   date: Dec 10, 2018
+   citation: D. Lange et. al., Nature *10* 100 (2018).
