@@ -4,7 +4,6 @@ layout: default
 title: Sitemap
 ---
 <h3>IRIS-HEP Website Sitemap</h3>
-<br>
 
 {% comment %}
 Go through the list of pages and create an index of them, separating by
