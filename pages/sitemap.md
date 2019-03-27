@@ -50,7 +50,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 {% assign sorted = site.pages | sort: 'title' %}
 {% for mypage in sorted %}
   {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.title %} 
-  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a> - {{mypage.url}}</li>
+  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
