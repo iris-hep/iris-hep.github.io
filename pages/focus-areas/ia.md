@@ -3,6 +3,7 @@ permalink: /ia.html
 layout: focus-area
 title: Innovative Algorithms
 short_title: ia
+pagetype: focus-area
 ---
 
 Algorithms to perform the real-time processing in the trigger and
