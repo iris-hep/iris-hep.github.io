@@ -1,7 +1,7 @@
 ---
 permalink: /about/executive-board.html
 layout: default
-title: Institute Team
+title: Executive Board
 ---
 
 <div class="container-fluid">
