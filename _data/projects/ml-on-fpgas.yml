@@ -1,8 +1,8 @@
-Homepage: /ml-on-fpgas
+homepage: /ml-on-fpgas.html
 short_name: mlfgas
 name: ML on FPGAs
-Image: CMS.jpg
-Blurb: Please fill in
+image: logos/Iris-hep-5-just-graphic.png
+blurb: Please fill in
 focus-area: ia
 
 Team:
