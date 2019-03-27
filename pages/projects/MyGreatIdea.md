@@ -1,6 +1,6 @@
 ---
 permalink: /projects/MyGreatIdea
-layout: default
+layout: project
 title: My Great Idea
 pagetype: project
 ---

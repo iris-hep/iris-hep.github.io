@@ -1,6 +1,6 @@
 ---
 permalink: /projects/ml-on-fpgas.html
-layout: projects
+layout: project
 title: IRIS-HEP ML on FPGAs project
 short-name: ml-on-fpgas
 pagetype: project
