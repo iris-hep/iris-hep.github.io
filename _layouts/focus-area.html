@@ -179,7 +179,7 @@
     {% assign t2 = page.short_title | strip %}
     {% if t1  == t2 %} {% comment %}  might need a | strip??? {% endcomment %}
       {% if item[0] contains '2' %}
-        <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}},{{item[7]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
+        <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
       {% endif %}
     {% endif %}
   {% endif %}
