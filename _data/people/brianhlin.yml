@@ -36,3 +36,15 @@ presentations:
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
+  - title: "OSG-LHC and XCache"
+    date: 12 Dec 2018
+    url: https://indico.cern.ch/event/770941/contributions/3230458/
+    meeting: ATLAS Software & Computing Week \#61
+    meetingurl: https://indico.cern.ch/event/646947/
+    location: CERN
+  - title: "OSG-LHC and ATLAS"
+    date: 03 Dec 2018
+    url: https://indico.cern.ch/event/766802/contributions/3223347/
+    meeting: US-ATLAS Facilities Meeting
+    meetingurl: https://indico.cern.ch/event/766802/
+    location: Argonne National Lab
