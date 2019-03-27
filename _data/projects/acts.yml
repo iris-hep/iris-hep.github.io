@@ -1,8 +1,8 @@
-Homepage: /acts
+homepage: /acts.html
 short_name: acts
 name: ACTS
-Image: logos/Iris-hep-5-just-graphic.png
-Blurb: Please fill in
+image: logos/Iris-hep-5-just-graphic.png
+blurb: Please fill in
 focus-area: ia
 
 Team:
