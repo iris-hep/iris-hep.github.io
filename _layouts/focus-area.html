@@ -60,7 +60,32 @@
     {% assign project = project_hash[1] %}
     {% if project.focus-area == page.short_title %}
       {% for pub in project.Publications  %}
-        ^{{pub.date }}|{{ pub.title }}|{{ pub.citation }}|{{ pub.link}}|{{project.name}}
+         {% assign pub_date = "Unknown" %}
+         {% if pub.date contains '2' %}
+           {% assign pub_date = pub.date | date: "%Y-%m-%d" %}
+         {% endif %}
+
+         {% assign pub_title = "Unknown" %}
+         {% if pub.title %}
+           {% assign pub_title = pub.title %}
+         {% endif %}
+
+         {% assign pub_citation = "Unknown" %}
+         {% if pub.citation %}
+           {% assign pub_citation = pub.citation %}
+         {% endif %}
+
+         {% assign pub_link = "Unknown" %}
+         {% if pub.link %}
+           {% assign pub_link = pub.link %}
+         {% endif %}
+
+         {% assign project_name = "Unknown" %}
+         {% if project.link %}
+           {% assign project_name = project.name %}
+         {% endif %}
+
+        ^{{pub_date }}|{{ pub_title }}|{{ pub_citation }}|{{ pub_link}}|{{project_name}}
       {% endfor %}
     {% endif %}
   {% endfor %}
@@ -74,7 +99,7 @@
     {% if pub_item.size  > 20 %}
       {% assign pub = pub_item | split: "|" %}
       {% if pub[0] contains '2' %}
-        <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] }}).</li>
+        <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] | date_to_string }}).</li>
       {% endif %}
     {% endif %}
   {% endfor %}
