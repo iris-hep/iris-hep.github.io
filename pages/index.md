@@ -18,10 +18,7 @@ ongoing events don't get prematurely flagged as recent.
 {% assign currentdatecmp = 'now' | date: "%s" %}
 {% assign sixdaysago = 'now' | date: "%s" | minus: 518400 | date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
 {% assign ninetydaysago = 'now' | date: "%s" | minus: 7776000| date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
-<br>
 
-
-<br>
 <h4>Upcoming Events:</h4>
 IRIS-HEP team members are involved in organizing the following events:
 <ul>
