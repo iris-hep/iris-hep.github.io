@@ -3,6 +3,7 @@ permalink: /projects/acts.html
 layout: projects
 title: IRIS-HEP ACTS project
 short-name: acts
+pagetype: project
 ---
 
 Welcome. Filling this page is up to the team behind the great idea. Things you could include on this page

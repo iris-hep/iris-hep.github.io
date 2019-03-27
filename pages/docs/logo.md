@@ -2,6 +2,7 @@
 permalink: /docs/logo.html
 layout: defaultgray
 title: Information regarding the IRIS-HEP logo
+pagetype: doc
 ---
 
 ### Full Version for light background

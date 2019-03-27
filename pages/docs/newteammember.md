@@ -2,6 +2,7 @@
 permalink: /docs/newteammember.html
 layout: default
 title: Information for new IRIS-HEP team members
+pagetype: doc
 ---
 
 ### Things new IRIS-HEP team members need to do

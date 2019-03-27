@@ -2,6 +2,7 @@
 permalink: /docs/webdev.html
 layout: default
 title: Information for developing the website
+pagetype: doc
 ---
 
 ### SRI hashes

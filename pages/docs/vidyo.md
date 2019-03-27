@@ -2,6 +2,7 @@
 permalink: /docs/vidyo.html
 layout: default
 title: Information regarding Vidyo 
+pagetype: doc
 ---
 
   Vidyo is a videoconferencing system used by CERN and the LHC experiments.
