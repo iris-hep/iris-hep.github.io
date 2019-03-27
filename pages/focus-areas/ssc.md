@@ -1,7 +1,7 @@
 ---
 permalink: /ssc.html
 layout: focus-area
-title: IRIS-HEP Sustainable Software Core
+title: Sustainable Software Core
 short_title: ssc
 ---
 

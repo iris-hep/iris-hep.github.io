@@ -1,7 +1,7 @@
 ---
 permalink: /osglhc.html
 layout: focus-area
-title: IRIS-HEP Open Science Grid (OSG-LHC)
+title: Open Science Grid (OSG-LHC)
 short_title: osglhc
 ---
 

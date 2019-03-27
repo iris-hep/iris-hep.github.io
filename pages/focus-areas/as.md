@@ -1,7 +1,7 @@
 ---
 permalink: /as.html
 layout: focus-area
-title: IRIS-HEP Analysis Systems
+title: Analysis Systems
 short_title: as
 ---
 
