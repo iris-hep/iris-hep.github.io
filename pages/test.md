@@ -1,5 +1,5 @@
 ---
-permalink: /test2.html
+permalink: /test.html
 layout: default
 title: Test Page
 ---
