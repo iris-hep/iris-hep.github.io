@@ -6,7 +6,7 @@ institution: University of California, Santa Cruz
 website: https://users.soe.ucsc.edu/~jlefevre/
 photo: /assets/images/team/Jeff-LeFevre.jpg
 presentations:
-  - title: Skyhook: programmable storage for databases
+  - title: "Skyhook: programmable storage for databases"
     date: 26 Feb 2019
     url: https://users.soe.ucsc.edu/~jlefevre/skyhookdb/Skyhook-JeffNoah-Vault19.pdf
     meeting: Vault'19 
