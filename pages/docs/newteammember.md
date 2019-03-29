@@ -14,7 +14,7 @@ not mentioned here, or missing/unclear information, please [contribute an improv
 #### IRIS-HEP website
 
 * Request membership in the [IRIS-HEP GitHub organization][].
-* Add a photo named `First-Last.jpg` or `.png` to the [assets/team folder][]. It should be 320x240 pixels.
+* Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team folder][]. It should be 320x240 pixels.
 * Add a "`<your github username>.yml`" file to the [people folder in the website repository][people]. Here is an example:
 
 ```yml
@@ -47,7 +47,7 @@ presentations:
 
 [contribute an improvement]:    https://github.com/iris-hep/iris-hep.github.io/pulls
 [IRIS-HEP GitHub organization]: https://github.com/iris-hep
-[assets/team folder]:           https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team
+[assets/images/team folder]:    https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team
 [people]:                       https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/people
 [university file]:              https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/universities
 [IRIS-HEP Slack]:               https://iris-hep.slack.com
