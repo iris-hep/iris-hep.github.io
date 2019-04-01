@@ -1,21 +1,28 @@
 name: Shawn McKee
 shortname: smckee
-title: 
+title: OSG Networking Area Coordinator
 active: green
 institution: University of Michigan-Ann Arbor
 website: https://lsa.umich.edu/physics/people/research-scientists/smckee.html
 photo: /assets/images/team/Shawn-McKee.jpg
 presentations:
-  - title: How to make green eggs and ham
-    date: 13 Sep 2018
-    url: http://cern.ch/
-    meeting: ROOT 2018 Users Workshop
-    meetingurl: http://cnn.com
-    location: Sarajevo
-  - title: Random Churning
-    date: 12 Sep 2018
-    url: http://iris-hep.org/
-    meeting: CHEP 2018 
-    meetingurl: http://diana-hep.org
+  - title: WLCG/OSG Network Activities, Status and Plans
+    date: 26 Mar 2019
+    url: https://indico.cern.ch/event/765497/contributions/3351215/attachments/1818575/2973383/HEPiX_Spring_2019_OSG_WLCG_Networking_Update.pdf
+    meeting: HEPiX Spring 2019 
+    meetingurl: https://indico.cern.ch/event/765497
+    location: San Diego, CA, US
+  - title: OSG Networking: Status, Collaborations and Plans
+    date: 20 Mar 2019
+    url: https://indico.cern.ch/event/759388/contributions/3352523/attachments/1815087/2966245/OSG_Networking__Status_Collaborations_and_Plans.pdf
+    meeting: Joint HSF/OSG/WLCG Workshop (HOW2019)
+    meetingurl: https://indico.cern.ch/event/759388
+    location: Newport News, VA, US
+  - title: Scientific Data Lifecycle: Perspectives from an LHC Physicist
+    date: 06 Mar 2019
+    url: https://www.nitrd.gov/nitrdgroups/images/9/98/Scientific-Data-Lifecycle-Shawn-McKee.pdf
+    meeting: MAGIC Meeting
+    meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC-Meetings-2019
+    location: Videoconference
 
 
