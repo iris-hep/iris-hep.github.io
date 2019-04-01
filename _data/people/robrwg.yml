@@ -6,16 +6,8 @@ institution: University of Chicago
 website: https://www.ci.uchicago.edu/profile/195
 photo: /assets/images/team/Rob-Gardner.png
 presentations:
-  - title: How to make green eggs and ham
-    date: 13 Sep 2018
-    url: http://cern.ch/
-    meeting: ROOT 2018 Users Workshop
-    meetingurl: http://cnn.com
-    location: Sarajevo
-  - title: Random Churning
-    date: 12 Sep 2018
-    url: http://iris-hep.org/
-    meeting: CHEP 2018 
-    meetingurl: http://diana-hep.org
-
-
+  - title: "IRIS-HEP Scalable Systems Laboratory for Innovation & Integration"
+    date: 06 Feb 2019
+    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271530/attachments/1791890/2919772/2019.02.06_SSL_for_IRIS-HEP_SB_2.pdf
+    meeting: IRIS-HEP Steering Board Meeting #1
+    meetingurl: https://indico.cern.ch/event/790759/

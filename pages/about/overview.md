@@ -28,17 +28,6 @@ software for acquiring, managing, processing and analyzing HL-LHC
 data is critical to maximize the return-on-investment in the
 upgraded accelerator and detectors. -->
 
-The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has been established to meet the software and computing challenges of the HL-LHC, through R&D for the software for acquiring, managing, processing and analyzing HL-LHC data.
-IRIS-HEP will address key elements of the
-["Roadmap for HEP Software and Computing R&D for the 2020s"](https://arxiv.org/abs/1712.06982)
-and will implement the ["Strategic Plan for a Scientific Software
-Innovation Institute (S2I2) for High Energy Physics"](https://arxiv.org/abs/1712.06592)
-submitted to the NSF in December 2017.
-These two documents represent, respectively, the outcome of international 
-and U.S. HEP community planning processes; these were driven in part
-by the NSF-funded [S2I2-HEP Institute Conceptualization Project](http://s2i2-hep.org).
-<!-- Over the course of a dozen workshops during 2016 and 2017, more than 260
-scientists and engineers from around the world were involved in building this community vision. -->
 
 IRIS-HEP will serve as an
 active center for software R&D, function as an intellectual hub for the larger
@@ -78,6 +67,17 @@ and HEP communities to address the complex issues at the intersection of
 Exascale high-throughput computing and Exabyte-scale datasets in big
 science.
 
+The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has been established to meet the software and computing challenges of the HL-LHC, through R&D for the software for acquiring, managing, processing and analyzing HL-LHC data.
+IRIS-HEP will address key elements of the
+["Roadmap for HEP Software and Computing R&D for the 2020s"](https://arxiv.org/abs/1712.06982)
+and will implement the ["Strategic Plan for a Scientific Software
+Innovation Institute (S2I2) for High Energy Physics"](https://arxiv.org/abs/1712.06592)
+submitted to the NSF in December 2017.
+These two documents represent, respectively, the outcome of international 
+and U.S. HEP community planning processes; these were driven in part
+by the NSF-funded [S2I2-HEP Institute Conceptualization Project](http://s2i2-hep.org).
+<!-- Over the course of a dozen workshops during 2016 and 2017, more than 260
+scientists and engineers from around the world were involved in building this community vision. -->
 This project advances the objectives of the [National Strategic Computing Initiative (NSCI)](https://www.nsf.gov/cise/nsci/) and the objectives of ["Harnessing the Data Revolution"](https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp), one of the [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/) for Future NSF Investments. 
 
 

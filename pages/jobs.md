@@ -4,52 +4,41 @@ layout: default
 title: Available Positions
 ---
 
+# IRIS-HEP and Collaborating Projects
+
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
-## UC Berkeley
-  * [Postdoc - Development of Innovative Track Reconstruction Algorithms for Experimental Particle Physics](http://inspirehep.net/record/1694661)
+### Princeton University
 
-## Stanford University
+  * [Associate Professional Specialists(s)/Professional Specialist(s): Computational Physicist and/or Research Software Engineer](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=9681)
 
-  * [Postdoc - Data Analysis & Innovative Algorithm Development in Experimental Particle Physics](https://academicjobsonline.org/ajo/jobs/12036)
+### New York University
 
-## Princeton University
+   * [Application Developer](https://apply.interfolio.com/59839) in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. Deadline **15 Feb, 2019** -- please contact kyle.cranmer@nyu.edu for more information.
 
-  * [Postdoctoral Researcher(s) in Computational High Energy Physics](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=9181) 
+### National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign (UIUC)
 
-  * Associate Professional Specialists(s)/Professional Specialist(s): Computational Physicist and/or Scientific Application Developer - coming soon
+  * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf) - deadline for full consideration: **30 Nov, 2018**
 
-## New York University
+# Other positions of interest for HEP people
 
-   * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon.
+We also list some number of job positions that might be of interest for people
+with an HEP background, but which are not directly related to IRIS-HEP.
 
-   * Application Developer in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science.
+### Princeton University
 
-## National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign (UIUC)
+  * [Research Software Engineer](https://main-princeton.icims.com/jobs/9275/research-software-engineer/job) to work with Department of Molecular Biology
 
-  * [Assistant Research Programmer/Research Programmer/Senior Research Programmer(s)](https://jobs.illinois.edu/academic-job-board/job-details?jobID=93366) - deadline 28 Nov, 2018
+  * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
 
-  * Postdoctoral Researcher in Analysis Systems and Innovative Algorithms, with an emphasis on machine learning. -- coming soon.
+### AWS
 
-## San Diego Supercomputer Center (SDSC)
+  * [Principal Research Scientist for AWS Research](https://www.amazon.jobs/en/jobs/792926/principal-research-scientist-for-aws-research).
 
-  * [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=95847) - deadline 9 Oct, 2018
+### Argonne National Lab
 
-## University of Washington
+  * [Assistant Computational Scientist](http://inspirehep.net/record/1722455)
 
-  * Postdoctoral Researcher -- coming soon.
+### ATLAS
 
-## University of Chicago
-
-  * [Computational Scientist](https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Hyde-Park-Campus/Computational-Scientist_JR03087?source=JobTarget&utm_source=JobTarget&utm_medium=Inside+Higher+Ed&utm_campaign=Computational+Scientist+(JR03087)&_jtochash=XlQGPnizKrLLsqmEt52lA&_jtocprof=4z7cZ9jq5JKKGnm55fE6krJqAiZYLAC8)
-  
-  * [Senior Computational Scientist](https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Hyde-Park-Campus/Senior-Computational-Scientist_JR03135?source=JobTarget&utm_source=JobTarget&utm_medium=Inside+Higher+Ed&utm_campaign=Computational+Scientist+(JR03087)&_jtochash=XlQGPnizKrLLsqmEt52lA&_jtocprof=4z7cZ9jq5JKKGnm55fE6krJqAiZYLAC8)
-
-## Rice University 
-
-  * [Computational Astroparticle Postdoctoral Researcher](http://jobs.rice.edu/postings/17084)
-
-## University of Cincinnati
-
-  * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181019-Cincinnati-postdoc.pdf)
-
+  * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.

@@ -21,6 +21,7 @@ title: Media, Press Releases and Press Mentions
   * 6 Sep 2018 - ["NSF-Funded Institute Lays Groundwork for Future High-Energy Physics Discoveries"](https://www.hpcwire.com/2018/09/06/nsf-invests-25m-high-energy-physics/), HPCwire 
   * 14 Sep 2018 - ["UW-Madison Center for High Throughput Computing awarded grant to develop software to process data from High-Luminosity Large Hadron Collider"](https://www.cs.wisc.edu/features/2018-09-14-uw-madison-center-high-throughput-computing-awarded-grant-develop-software), University of Wisconsin - Madison
   * 19 Sep 2018 - ["Next generation Large Hadron Collider relies on UW–Madison computing"](https://news.wisc.edu/next-generation-large-hadron-collider-relies-on-uw-madison-computing/), University of Wisconsin - Madison
+  * 26 Sep 2018 - ["Holland Computing Center helps meet massive data demands from upgraded Large Hadron Collider project"](https://newsroom.unl.edu/announce/cse/8549/49029), University of Nebraska - Lincoln 
   * 1 Oct 2018 - "US initiative to tackle data demands of HL-LHC" ([article direct link](https://cerncourier.com/us-initiative-to-tackle-data-demands-of-hl-lhc/), [pdf full issue](http://iopp.fileburst.com/ccr/archive/CERNCourier2018Oct-digitaledition.pdf)), CERN Courier
 
 

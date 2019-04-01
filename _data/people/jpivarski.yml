@@ -6,16 +6,8 @@ institution: Princeton University
 website: https://github.com/jpivarski
 photo: /assets/images/team/Jim-Pivarski.jpg
 presentations:
-  - title: How to make green eggs and ham
-    date: 13 Sep 2018
-    url: http://cern.ch/
-    meeting: ROOT 2018 Users Workshop
-    meetingurl: http://cnn.com
-    location: Sarajevo
-  - title: Random Churning
-    date: 12 Sep 2018
-    url: http://iris-hep.org/
-    meeting: CHEP 2018 
-    meetingurl: http://diana-hep.org
-
-
+  - title: "Nested data structures in array and SIMD frameworks"
+    date: 14 Mar 2019
+    url: https://indico.cern.ch/event/708041/contributions/3276200/attachments/1810057/2955674/pivarski-acat2019.pdf
+    meeting: ACAT 2019
+    meetingurl: https://indico.cern.ch/event/708041/
