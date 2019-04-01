@@ -2,9 +2,22 @@ name: Brian Bockelman
 shortname: bbockelm
 title: Institute co-PI and DOMA R&D Area Lead
 active: green
-institution: University of Nebraska - Lincoln
+institution: Morgridge Institute
 website: http://iris-hep.org
 photo: /assets/images/team/Brian-Bockelman.jpg
 presentations:
-
-
+  - title: "IRIS-HEP DOMA"
+    date: 06 Feb 2019
+    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271528/attachments/1790472/2919593/DOMA-SB-1.pdf
+    meeting: IRIS-HEP Steering Board Meeting #1
+    meetingurl: https://indico.cern.ch/event/790759/
+  - title: "WLCG DOMA TPC Updates"
+    date: 20 Mar 2019
+    url: https://indico.cern.ch/event/759388/contributions/3312485/attachments/1815438/2968872/DOMA-TPC-HOW2019-v4.pdf
+    meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
+    meetingurl: https://indico.cern.ch/event/759388
+  - title: "OSG Technoogy Updates for 2019"
+    date: 20 Mar 2019
+    url: https://indico.cern.ch/event/759388/contributions/3353317/attachments/1815443/2966874/OSG-AHM-2019.pdf
+    meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
+    meetingurl: https://indico.cern.ch/event/759388

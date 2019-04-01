@@ -1,0 +1,68 @@
+name: Johann Brehmer
+shortname: johannbrehmer
+title: 
+active: green
+institution: New York University
+website: https://johannbrehmer.github.io
+photo: /assets/images/team/Johann-Brehmer.jpg
+presentations:
+  - title: "'Mining gold' from simulators to improve likelihood-free inference"
+    date: 18 Mar 2019
+    url: https://lfitaskforce.github.io/FlatironMeeting/
+    meeting: Likelihood-free inference workshop
+    meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
+    location: New York, USA
+  - title: "Keynote: Constraining effective field theories with machine learning"
+    date: 14 Mar 2019
+    url: https://indico.cern.ch/event/708041/contributions/3308812/
+    meeting: International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+    meetingurl: https://indico.cern.ch/event/708041/
+    location: Saas-Fee, Switzerland
+  - title: "Bringing together simulations, physics insight, and machine learning to constrain new physics"
+    date: 28 Feb 2019
+    url: https://www.brandeis.edu/departments/physics/events/darkuniverse.html
+    meeting: Dark universe seminar
+    meetingurl: https://www.brandeis.edu/departments/physics/events/darkuniverse.html
+    location: Brandeis University, Boston, USA
+  - title: "Meticulous measurements with matrix elements and machine learning"
+    date: 14 Jan 2018
+    url: https://pages.uoregon.edu/its/seminars/
+    meeting: ITS/CHEP joint seminar
+    meetingurl: https://pages.uoregon.edu/its/seminars/
+    location: U Oregon, Eugene, USA
+  - title: Improving inference with matrix elements and machine learning
+    date: 11 Jan 2019
+    url: http://ias.ust.hk/program/shared_doc/2019/201901hep/program/20190111_4042_pm_Johann_Brehmer.pdf
+    meeting: HK IAS Program on High Energy Physics
+    meetingurl: http://iasprogram.ust.hk/hep/2019/
+    location: Hong Kong
+  - title: Learning to constrain new physics
+    date: 20 Sep 2018
+    url: https://conference.ippp.dur.ac.uk/event/738/
+    meeting: IPPP seminar
+    meetingurl: https://phy.princeton.edu/events
+    location: Durham, UK
+  - title: Learning to constrain new physics
+    date: 13 Sep 2018
+    url: https://phy.princeton.edu/events/pheno-vino-seminar-johann-brehmer-nyu-learning-constrain-new-physics-jadwin-111
+    meeting: Pheno & Vino Seminar
+    meetingurl: http://wpsist.lal.in2p3.fr/higgshunting2018/
+    location: Princeton University, USA
+  - title: Learning to constrain new physics
+    date: 27 Aug 2018
+    url: https://mcfp.physics.umd.edu/images/EPTSeminarSlides/Johann_Brehmer_Aug2018.pdf
+    meeting: Elementary particle seminar
+    meetingurl: http://www.physics.umd.edu/ep/seminars/
+    location: University of Maryland, USA
+  - title: Machine Learning to Probe a BSM Higgs Sector
+    date: 23 Jul 2018
+    url: https://indico.lal.in2p3.fr/event/4754/#sc-19-8-machine-learning-to-pr
+    meeting: Higgs Hunting
+    meetingurl: http://wpsist.lal.in2p3.fr/higgshunting2018/
+    location: Paris, France
+  - title: Constraining EEffective Theories with Machine Learning
+    date: 27 Jun 2018
+    url:  https://www.bnl.gov/physics/HET/events/
+    meeting: Theory seminar
+    meetingurl: https://www.bnl.gov/physics/HET/events/
+    location: Brookhaven National Lab, USA
