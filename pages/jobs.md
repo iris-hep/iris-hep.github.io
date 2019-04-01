@@ -20,6 +20,10 @@ title: Available Positions
 
   * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf) - deadline for full consideration: **30 Nov, 2018**
 
+### University of Texas, Austin
+
+  * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
+
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
@@ -30,10 +34,6 @@ with an HEP background, but which are not directly related to IRIS-HEP.
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/9275/research-software-engineer/job) to work with Department of Molecular Biology
 
   * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
-
-### University of Texas, Austin
-
-  * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
 
 ### AWS
 
