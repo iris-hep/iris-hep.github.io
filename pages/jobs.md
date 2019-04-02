@@ -8,10 +8,6 @@ title: Available Positions
 
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
-### Princeton University
-
-  * [Associate Professional Specialists(s)/Professional Specialist(s): Computational Physicist and/or Research Software Engineer](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=9681)
-
 ### New York University
 
    * [Application Developer](https://apply.interfolio.com/59839) in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. Deadline **15 Feb, 2019** -- please contact kyle.cranmer@nyu.edu for more information.
