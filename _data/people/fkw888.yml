@@ -6,6 +6,13 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: "State of OSG"
+    date: 19 Mar 2019
+    url: https://indico.cern.ch/event/759388/contributions/3353296/attachments/1814351/2964744/osgahm19-20190319-am11-fkw-a.pdf
+    meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focusarea: osglhc
   - title: "OSG-LHC"
     date: 06 Feb 2019
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532/attachments/1791923/2919651/irishep-steeringBoard2-6-19.pdf
