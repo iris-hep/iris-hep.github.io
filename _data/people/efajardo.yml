@@ -1,0 +1,20 @@
+name: Edgar Fajardo
+shortname: efajardo
+title: OSG Software Team Developer
+active: green
+institution: University of California, San Diego
+website: 
+photo: /assets/images/team/Edgar-Fajardo.jpg
+presentations:
+- title: Current production use of caching for CMS in Southern California
+  date: 2 Oct 2018
+  url: https://indico.cern.ch/event/760850/contributions/3156949/attachments/1724585/2785286/SoCalCache.pdf
+  meeting: DOMA / ACCESS Meeting
+  meetingurl: https://indico.cern.ch/event/760850/
+  location: CERN
+- title: OSG Cache on Internet Backbone developments
+  date: 16 Jan 2019
+  url: https://indico.cern.ch/event/739874/contributions/3278170/attachments/1779441/2894250/OSG-Caches-Backbone.pdf
+  meeting: GDB Jan 2019
+  meetingurl: https://indico.cern.ch/event/739874/
+  location: CERN
