@@ -27,5 +27,7 @@ and presentations will be added in a standard way from the
 the [publications](https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/publications)
 and [presentations listed for each team member](https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/people).
 
+Want to test locally before making a pull request? [This should work](https://jekyllrb.com/docs/)
+
 Get help: Reach out on the Slack website channel or contact David Lange
 

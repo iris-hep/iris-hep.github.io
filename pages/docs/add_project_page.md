@@ -29,5 +29,7 @@ All of this information is driven by the people files and publication files. So 
 from the list of presentations or publications it is most likely because the project field is missing
 from the corresponding presentation or publication entry.
 
+Want to test locally before making a pull request? [This should work](https://jekyllrb.com/docs/)
+
 Get help: Reach out on the Slack website channel or contact David Lange
 
