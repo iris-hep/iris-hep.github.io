@@ -1,7 +1,7 @@
 ---
 permalink: /docs/add_project_page.html
 layout: defaultgray
-title: The IRIS-HEP logo
+title: Adding a project page
 pagetype: doc
 ---
 
