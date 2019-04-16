@@ -33,21 +33,23 @@
 <div class="container-fluid">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
   <div class="row">
-  {% for project_hash in site.data.projects  %}
-     {% assign project = project_hash[1] %}
-     {% if project.focus-area == page.short_title %}
-       <div class="card" style="width: 18rem;">
-         <img class="card-img-top" src="/assets/{{project.image}}" alt="Card image cap">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text">
-         <b><p>{{project.name}}</p></b>
-	 {{project.blurb}}<br>
-         <a href=/projects/{{project.short_name}}.html> More information</a><br>
-         </div>
-       </div>
-       </div>
-     {% endif %}
-  {% endfor %}
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
+{% if mypage.pagetype == 'project' %} 
+{% if mypage.focus-area == page.short_title %}
+<div class="card" style="width: 18rem;">
+<img class="card-img-top" src="/assets/{{mypage.image}}" alt="Card image cap">
+<div class="card-body d-flex flex-column">
+<div class="card-text">
+<b><p>{{mypage.title}}</p></b>
+{{mypage.blurb}}<br>
+<a href=/projects/{{mypage.shortname}}.html> More information</a><br>
+</div>
+</div>
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
   </div>
   <br>
 </div>
