@@ -1,12 +1,12 @@
-short_name: acts
+shortname: acts
 name: ACTS
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Please fill in
 focus-area: ia
 
 Team:
- - Heather Gray
- - Xiaocong Ai
- - Lauren Tompkins
+ - heather-gray
+ - xiaocong-ai
+ - latompkins
 
 

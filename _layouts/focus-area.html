@@ -62,9 +62,9 @@
 {% for presentation in sorted_pres %}
   {% if presentation.size  > 20 %}
     {% assign item = presentation | split: "|" %}
-    {% assign t1 = item[7] | strip %}
-    {% assign t2 = page.short_title | strip %}
-    {% if t1  == t2 %} {% comment %}  might need a | strip??? {% endcomment %}
+    {% assign pres_st = item[7] | strip %}
+    {% assign page_st = page.short_title | strip %}
+    {% if pres_st  == page_st %} {% comment %}  might need a | strip??? {% endcomment %}
       {% if item[0] contains '2' %}
         <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
       {% endif %}
