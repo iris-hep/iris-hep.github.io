@@ -1,10 +1,10 @@
 ---
 permalink: /projects/acts.html
 layout: project
-title: ACTS project
+title: ACTS
 shortname: acts
 pagetype: project
-image: logos/Iris-hep-5-just-graphic.png
+image: logos/ACTSlogo.gif
 blurb: Please fill in
 focus-area: ia
 team:
