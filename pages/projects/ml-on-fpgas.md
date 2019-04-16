@@ -2,7 +2,7 @@
 permalink: /projects/ml-on-fpgas.html
 layout: project
 title: ML on FPGAs project
-short-name: ml-on-fpgas
+shortname: ml-on-fpgas
 pagetype: project
 ---
 

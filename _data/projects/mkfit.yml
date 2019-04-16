@@ -1,15 +1,15 @@
-short_name: mkfit
+shortname: mkfit
 name: MKFit
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Please fill in
 focus-area: ia
 
 Team:
- - Avi Yagil
- - Peter Wittich
- - Steve Lantz
- - Dan Riley
- - Matevz Tadel
- - Slava Krutelyov
- - Mario Masciovecchio
+ - IHateLinus
+ - pwittich
+ - srlantz
+ - dan131riley
+ - osschar
+ - slava77
+ - mmasciov
 
