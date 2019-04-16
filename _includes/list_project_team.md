@@ -1,10 +1,6 @@
 ### Team
 
-{% for project_hash in site.data.projects %}
-{% assign project = project_hash[1] %}
-{% if project.shortname == include.shortname %}
-{% assign team = project.Team %}
-{% for member in team %}
+{% for member in include.team %}
 {% for person_hash in site.data.people %}
 {% assign person = person_hash[1] %}
 {% if person.shortname == member %}
@@ -15,6 +11,4 @@
 {%endif%}
 {%endif%}
 {%endfor%}
-{%endfor%}
-{%endif%}
 {%endfor%}

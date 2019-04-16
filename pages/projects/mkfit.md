@@ -4,6 +4,18 @@ layout: project
 title: MKFit project
 shortname: mkfit
 pagetype: project
+image: logos/Iris-hep-5-just-graphic.png
+blurb: Please fill in
+team:
+ - IHateLinus
+ - pwittich
+ - srlantz
+ - dan131riley
+ - osschar
+ - slava77
+ - mmasciov
+focus-area: ia
+
 ---
 
 We started with some helper functions for team members and publications. Filling this page is up to you. Other things you could include on this page
@@ -18,7 +30,7 @@ MkFit aims to develop tracking algorithms based on the Kalman Filter for use in 
 
 
 
-{% include list_project_team.md shortname=page.shortname %}
+{% include list_project_team.md team=page.team%}
 
 {% include list_project_presentations.md shortname=page.shortname %}
 
