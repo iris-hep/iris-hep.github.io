@@ -87,7 +87,10 @@
     {% if pub_item.size  > 20 %}
       {% assign pub = pub_item | split: "|" %}
       {% if pub[0] contains '2' %}
-        <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] | date_to_string }}).</li>
+	{% assign pub_fa = pub[5] | strip %}
+        {% if pub_fa  == page.short_title  %}
+          <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] | date_to_string }}).</li>
+        {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
