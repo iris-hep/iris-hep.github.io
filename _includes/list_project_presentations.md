@@ -6,7 +6,7 @@
 {% if pres[0] contains '2' %}
 {% assign pres_project = pres[6] | strip %}
 {% if pres_project  == include.shortname  %}
-* [{{item[2]}}]({{item[2]}}) ({{item[1]}}, {{item[0] | date_to_string}}) at [{{item[5]}}]({{item[4]}})
+* [{{pres[2]}}]({{pres[2]}}) ({{pres[1]}}, {{pres[0] | date_to_string}}) at [{{pres[4]}}]({{pres[5]}})
 {% endif %}
 {% endif %}
 {% endif %}
