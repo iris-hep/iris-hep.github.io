@@ -19,7 +19,7 @@ The required elements of the top matter are:
   * layout: Use 'focus-area'
   * pagetype: Use 'focus-area'
   * title: The area title 
-  * shortname: A more concise title
+  * shortname: A more concise title (this is the key to use to label projects, publications and presentations)
 
 Then the body of the page should be a paragraph or two about the area. Projects, publications
 and presentations will be added in a standard way from the 
