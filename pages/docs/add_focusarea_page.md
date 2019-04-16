@@ -1,7 +1,7 @@
 ---
 permalink: /docs/add_focusarea_page.html
 layout: defaultgray
-title: The IRIS-HEP logo
+title: Adding a focus-area page
 pagetype: doc
 ---
 
