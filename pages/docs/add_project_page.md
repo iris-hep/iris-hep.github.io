@@ -17,7 +17,7 @@ The required elements of the top matter are:
   * layout: Use 'project'
   * pagetype: Use 'project'
   * title: The project title 
-  * shortname: A more concise title
+  * shortname: A more concise title (this is the key to use to label publications and presentations)
   * image: The location of an image to used on the focus area page for your project (should be roughly square)
   * blurb: A summary of your project in a few words to be used on the focus area page
   * focus-area: the shortname of the subarea in IRIS-HEP (examples are ia, doma, ssl)
