@@ -6,6 +6,11 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: "Advancing Open Science through distributed High Throughput Computing"
+    date: 12 Apr 2019
+    url: https://drive.google.com/file/d/1M8w5ndUURkrsDDomhPFpGco4e0efHCVq/view?usp=sharing
+    meeting: "UCSD CI Engineering Brown Bag"
+    location: UCSD, San Diego, CA
   - title: "Data Access at HPC: ATLAS/CMS Perspective"
     date: 20 Mar 2019
     url: https://indico.cern.ch/event/759388/contributions/3312490/
