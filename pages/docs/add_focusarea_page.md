@@ -26,6 +26,8 @@ and presentations will be added in a standard way from the
 [project pages](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/projects),
 the [publications](https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/publications)
 and [presentations listed for each team member](https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/people).
+Note that each of these sections (projects, publications, presentations) will only appear if there is at least one 
+item to be listed.
 
 Want to test locally before making a pull request? [This should work](https://jekyllrb.com/docs/)
 
