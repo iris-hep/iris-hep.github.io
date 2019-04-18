@@ -35,10 +35,6 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Data Scientists in the Center for Information Technology Policy (CITP)](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10641)
 
-### AWS
-
-  * [Principal Research Scientist for AWS Research](https://www.amazon.jobs/en/jobs/792926/principal-research-scientist-for-aws-research).
-
 ### Argonne National Lab
 
   * [Assistant Computational Scientist](http://inspirehep.net/record/1722455)
