@@ -29,6 +29,12 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
 
+  * [Data Scientists for the Princeton Catalysis Initiative](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10662)
+
+  * [Data Scientists in Biomedical Data Science](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10661)
+
+  * [Data Scientists in the Center for Information Technology Policy (CITP)](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10641)
+
 ### AWS
 
   * [Principal Research Scientist for AWS Research](https://www.amazon.jobs/en/jobs/792926/principal-research-scientist-for-aws-research).
