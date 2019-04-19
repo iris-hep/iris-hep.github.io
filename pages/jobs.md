@@ -12,10 +12,6 @@ title: Available Positions
 
    * [Application Developer](https://apply.interfolio.com/59839) in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. Deadline **15 Feb, 2019** -- please contact kyle.cranmer@nyu.edu for more information.
 
-### National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign (UIUC)
-
-  * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf) - deadline for full consideration: **30 Nov, 2018**
-
 ### University of Texas, Austin
 
   * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
