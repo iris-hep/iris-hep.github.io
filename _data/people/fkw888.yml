@@ -30,6 +30,12 @@ presentations:
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
     focusarea: osglhc
+  - title: "The OSG Data Federation"
+    date: 7 Mar 2019
+    url: https://meetings.internet2.edu/2019-global-summit/speakers/6556/
+    meeting: "Internet2 Global Summit 2019"
+    meetingurl: https://meetings.internet2.edu/2019-global-summit/detail/10005368/
+    location: Washington, DC
   - title: "OSG-LHC"
     date: 06 Feb 2019
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532
