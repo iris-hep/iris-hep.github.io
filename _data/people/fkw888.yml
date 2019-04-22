@@ -17,12 +17,14 @@ presentations:
     meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
+    focusarea: doma
   - title: "Data Access in DOMA"
     date: 20 Mar 2019
     url: https://indico.cern.ch/event/759388/contributions/3312487/
     meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
+    focusarea: doma
   - title: "State of OSG"
     date: 19 Mar 2019
     url: https://indico.cern.ch/event/759388/contributions/3353296/
@@ -36,8 +38,10 @@ presentations:
     meeting: "Internet2 Global Summit 2019"
     meetingurl: https://meetings.internet2.edu/2019-global-summit/detail/10005368/
     location: Washington, DC
+    focusarea: osglhc
   - title: "OSG-LHC"
     date: 06 Feb 2019
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532
     meeting: IRIS-HEP Steering Board Meeting #1
+    focusarea: osglhc
     meetingurl: https://indico.cern.ch/event/790759/
