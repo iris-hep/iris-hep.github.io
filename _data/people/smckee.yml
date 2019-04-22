@@ -12,15 +12,18 @@ presentations:
     meeting: HEPiX Spring 2019 
     meetingurl: https://indico.cern.ch/event/765497
     location: San Diego, CA, US
+    focusarea: osglhc
   - title: "OSG Networking: Status, Collaborations and Plans"
     date: 20 Mar 2019
     url: https://indico.cern.ch/event/759388/contributions/3352523/attachments/1815087/2966245/OSG_Networking__Status_Collaborations_and_Plans.pdf
     meeting: Joint HSF/OSG/WLCG Workshop (HOW2019)
     meetingurl: https://indico.cern.ch/event/759388
     location: Newport News, VA, US
+    focusarea: osglhc
   - title: "Scientific Data Lifecycle: Perspectives from an LHC Physicist"
     date: 06 Mar 2019
     url: https://www.nitrd.gov/nitrdgroups/images/9/98/Scientific-Data-Lifecycle-Shawn-McKee.pdf
     meeting: MAGIC Meeting
     meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC-Meetings-2019
     location: Videoconference
+    focusarea: doma

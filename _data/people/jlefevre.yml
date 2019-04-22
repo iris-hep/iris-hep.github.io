@@ -11,9 +11,10 @@ presentations:
     url: https://users.soe.ucsc.edu/~jlefevre/skyhookdb/Skyhook-JeffNoah-Vault19.pdf
     meeting: Vault'19 
     meetingurl: https://www.usenix.org/conference/vault19
+    focusarea: doma
   - title: SkyhookDB - Leveraging object storage toward database elasticity in the cloud
     date: 16 Nov 2017
     url: https://indico.cern.ch/event/669506/contributions/2782611/attachments/1560226/2455903/jlefevre-skyhookdb-20171116-flatiron.pdf
     meeting: DOMA Workshop 2017 (Flatiron Institute)
     meetingurl: https://indico.cern.ch/event/669506/
-    
+    focusarea: doma
