@@ -11,12 +11,17 @@ team:
  - bbockelm
 ---
 
-We started with some helper functions for team members and publications. Filling this page is up to you. Other things you could include on this page
-  * Graphics and text explaining the idea, and results
-  * Collaborators
-  * links
-  * related work 
-  * etc
+LHC data is constantly beign moved between computing and storage sites
+to support analysis, processing, and simluation; this is done at a scale
+that is currently unique within the science community.  For example, the
+CMS experiment on the LHC manages approximately 200PB of data and, on a
+daily basis, moves 1PB between sites.
+
+Historically, this has been done with the GridFTP protocol; as we look
+to the increased data volumes of HL-LHC and GridFTP becomes increasingly
+niche, the LHC community is looking for alternate mechanisms and protocols
+to move data.  The IRIS-HEP DOMA area - in collaboration with the WLCG DOMA
+activity - is investigating the use of HTTP for bulk data transfer.
 
 {% include list_project_team.md team=page.team%}
 
