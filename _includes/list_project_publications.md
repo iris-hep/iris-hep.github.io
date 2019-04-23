@@ -6,7 +6,7 @@
     {% assign pub = pub_item | split: "|" %}
     {% if pub[0] contains '2' %}
       {% assign pub_project = pub[4] | strip %}
-      {% if pub_project  == include.shortname  %}
+      {% if pub_project contains include.shortname  %}
         {% assign has_pub = true %}
         {% break %}
       {% endif %}
@@ -21,7 +21,7 @@
 {% assign pub = pub_item | split: "|" %}
 {% if pub[0] contains '2' %}
 {% assign pub_project = pub[4] | strip %}
-{% if pub_project  == include.shortname  %}
+{% if pub_project contains include.shortname  %}
 * {{ pub[1] }}, [{{pub[2]}}]({{pub[3]}}) ({{ pub[0] | date_to_string }}). 
 {% endif %}
 {% endif %}
