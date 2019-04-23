@@ -3,6 +3,7 @@ permalink: /doma.html
 layout: focus-area
 title: Data Organization, Management and Access (DOMA)
 short_title: doma
+draft: false
 pagetype: focus-area
 ---
 
