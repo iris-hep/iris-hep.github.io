@@ -12,12 +12,14 @@ presentations:
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/
     focusarea: doma
+    project: idds
   - title: "WLCG DOMA TPC Updates"
     date: 20 Mar 2019
     url: https://indico.cern.ch/event/759388/contributions/3312485/attachments/1815438/2968872/DOMA-TPC-HOW2019-v4.pdf
     meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
     meetingurl: https://indico.cern.ch/event/759388
     focusarea: doma
+    project: tpc
   - title: "OSG Technoogy Updates for 2019"
     date: 20 Mar 2019
     url: https://indico.cern.ch/event/759388/contributions/3353317/attachments/1815443/2966874/OSG-AHM-2019.pdf
