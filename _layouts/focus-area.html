@@ -31,7 +31,9 @@
 {% if mypage.pagetype == 'project' %} 
 {% if mypage.focus-area contains page.short_title %}
 <div class="card" style="width: 18rem;">
+<a href=/projects/{{mypage.shortname}}.html>
 <img class="card-img-top" src="/assets/{{mypage.image}}" alt="Card image cap">
+</a>
 <div class="card-body d-flex flex-column">
 <div class="card-text">
 <b><p><font size="+1">{{mypage.title}}</font></p></b>
