@@ -50,7 +50,7 @@ As an intellectual hub, IRIS-HEP will lead efforts to:
 
 IRIS-HEP will also sustain investments in distributed high-throughput
 computing (DHTC) for the LHC through the [Open Science Grid](https://opensciencegrid.org) and build an 
-integration path ([the Scalable Systems Laboratory](/)) to deliver its R&D activities into the distributed and scientific production infrastructures.
+integration path ([the Scalable Systems Laboratory](/)) to deliver the output of its R&D activities into the distributed and scientific production infrastructures.
 
 HEP is a global, complex, scientific endeavor.
 These activities will help ensure that the software developed and
