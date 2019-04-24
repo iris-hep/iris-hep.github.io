@@ -27,7 +27,7 @@ activity - is investigating the use of HTTP for bulk data transfer.
 One of the first results of this project is a sustained 1-1 transfer over HTTPS
 at 24Gbit/sec. As seen on
 
-![TPC over HTTPS](/assets/images/team/tpc-over-http.png)
+![TPC over HTTPS](/assets/images/tpc-over-http.png)
 
 {% include list_project_team.md team=page.team%}
 
