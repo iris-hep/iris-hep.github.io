@@ -1,3 +1,9 @@
 _site/
 .sass-cache/
 *~
+assets/.DS_Store
+Gemfile.lock
+.DS_Store
+Gemfile.lock
+Gemfile.lock
+*.lock
