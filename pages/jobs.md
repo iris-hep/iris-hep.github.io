@@ -26,6 +26,10 @@ title: Available Positions
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
+### Jefferson Lab
+
+  * [Scientific Computing Staff Scientist I](https://careers.peopleclick.com/careerscp/client_jeffersonlab/external/jobDetails.do?functionName=getJobDetail&jobPostId=1264&localeCode=en-us)
+
 ### Princeton University
 
   * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
