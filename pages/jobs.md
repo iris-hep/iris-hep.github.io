@@ -16,6 +16,11 @@ title: Available Positions
 
   * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
 
+### Stanford University
+
+  * [Postdoctoral Fellow in Experimental High Energy Physics](https://academicjobsonline.org/ajo/jobs/13618) - deadline 1 June, 2019
+
+
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
