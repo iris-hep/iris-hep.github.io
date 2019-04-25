@@ -1,11 +1,11 @@
 ---
 permalink: /projects/caching.html
 layout: project
-title: Caching
+title: Caching Analysis Data
 shortname: caching
 pagetype: project
 image: logos/xcache.png
-blurb: CMS caching the most used datasets for final analysis
+blurb: Cached-based placement of analysis datasets.
 focus-area: doma,osglhc
 team:
  - bbockelm
@@ -15,19 +15,17 @@ team:
  - osschar
 ---
 
-A great portion of CMS analysys use the same datasets (miniAOD and miniAODSim). Moreover
-they run over each dataset several times hence caching becomes an opportunity to do a better
-use of CPU (reduce latency) and network (reduce traffic and placing of data). These regional caches
-store on demand certain datasets so only files that are accessed are stored. UCSD Tier 2 and Caltech Tier 2
-joined forces to create and mantain a regional cache that has benefited all CMS SoCal researches (including
-ones on University of California Riverside). 
+Significant portions of LHC analysis use the same datasets, running
+over each dataset several times.  Hence, we can utilize cache-based approaches
+as an opportunity to efficiency of CPU use (via reduced latency) and network
+(reduce WAN traffic). We are investigating the use of regional caches to
+store, on-demand, certain datasets.   For example, the UCSD CMS Tier-2 and Caltech CMS Tier-2
+joined forces to create and mantain a regional cache that benefits all southern California CMS
+researchers.
 
-Production caches have shown to save up to three times the bandwidth. Serving to clients a combined 30Gbps while
-only consuming 10Gbps from the WAN.
+These [in-production caches](https://indico.cern.ch/event/760850/contributions/3156949/attachments/1724585/2785286/SoCalCache.pdf) have shown to save up to a factor of three of WAN bandwidth compared with
+traditional data management techniques.
 
-See for example this [presentation](https://indico.cern.ch/event/760850/contributions/3156949/attachments/1724585/2785286/SoCalCache.pdf)
-
-![TPC over HTTPS](/assets/images/tpc-over-http.png)
 
 {% include list_project_team.md team=page.team%}
 
