@@ -33,9 +33,18 @@ body {
   display: block;
 }
 
-/* DIANA/HEP color scheme -style links */
+/* a:hover,a:focus{color:#2C3E50;text-decoration:underline;} */
 
-a{color:#2200AA;text-decoration:none;}
-a:hover,a:focus{color:#2C3E50;text-decoration:underline;}
-
+.boxed {
+    background-color: rgb(242, 244, 244) ;
+    border: 2px solid black ;
+    padding: 5px;
+    height: 200px;
+    overflow: scroll;
+}
+.boxedInf {
+    background-color: rgb(242, 244, 244) ;
+    border: 2px solid black ;
+    padding: 5px;
+}
 

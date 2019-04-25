@@ -1,0 +1,38 @@
+{% capture list %}
+  {% for pub_hash in site.data.publications  %}
+    {% assign pub = pub_hash[1] %}
+    {% assign pub_date = "Unknown" %}
+    {% if pub.date contains '2' %}
+      {% assign pub_date = pub.date | date: "%Y-%m-%d" %}
+    {% endif %}
+
+    {% assign pub_title = "Unknown" %}
+    {% if pub.title %}
+      {% assign pub_title = pub.title %}
+    {% endif %}
+
+    {% assign pub_citation = "Unknown" %}
+    {% if pub.citation %}
+      {% assign pub_citation = pub.citation %}
+    {% endif %}
+
+    {% assign pub_link = "Unknown" %}
+    {% if pub.link %}
+      {% assign pub_link = pub.link %}
+    {% endif %}
+
+    {% assign project_name = "Unknown" %}
+    {% if pub.project %}
+      {% assign project_name = pub.project %}
+    {% endif %}
+
+    {% assign fa_name = "Unknown" %}
+    {% if pub.focus-area %}
+      {% assign fa_name = pub.focus-area %}
+    {% endif %}
+
+    ^{{pub_date }}|{{ pub_title }}|{{ pub_citation }}|{{ pub_link}}|{{project_name}}|{{fa_name}}
+  {% endfor %}
+{% endcapture %}
+
+{% assign sorted_pubs = list | split: "^" | sort | reverse %}

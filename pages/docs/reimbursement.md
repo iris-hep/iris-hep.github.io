@@ -2,6 +2,7 @@
 permalink: /docs/reimbursement.html
 layout: default
 title: Reimbursement for travel sponsored by IRIS-HEP
+pagetype: doc
 ---
 
   This page documents the guidelines for reimbursement of participant travel 

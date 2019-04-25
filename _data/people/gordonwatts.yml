@@ -25,7 +25,7 @@ presentations:
     location: Vidyo
   - title: "Aligning the MATHUSA Test Stand Detector: Using Tensorflow"
     date: 11 March 2019
-    url: https://indico.cern.ch/event/708041/contributions/3272137/
+    url: https://indico.cern.ch/event/708041/contributions/3272137/attachments/1813161/2962373/2019-03-11_-_ACAT_TF_and_Alignment.pdf
     meeting: ACAT 2019
     meetingurl: https://indico.cern.ch/event/708041
   - title: "Beyond the Roadmap: HL-LHC HEP Software"
@@ -33,3 +33,8 @@ presentations:
     url: https://indico.cern.ch/event/708041/contributions/3308813/attachments/1811660/2959141/ACAT_Plenary.pdf
     meeting: ACAT 2019
     meetingurl: https://indico.cern.ch/event/708041
+  - title: IRIS-HEP and ATLAS
+    date: 20 Feb 2019
+    url: https://indico.cern.ch/event/799375/contributions/3321753/attachments/1799577/2934794/2019-02-20_-_US_ATLAS_IB_Meeting.pdf
+    meeting: US ATLAS IB Meeting
+    meetingurl: https://indico.cern.ch/event/799375/

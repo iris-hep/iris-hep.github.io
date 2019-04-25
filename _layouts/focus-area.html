@@ -1,0 +1,165 @@
+<!doctype html>
+  
+{% include layout_header_navbar.html %}
+
+      <div class="container">
+        <main role="main">
+
+<div>
+<br>
+<center><h1>{{ page.title }}</h1></center>
+
+{{content}}
+</div>
+
+{% assign doProjects = 0 %}
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
+{% if mypage.pagetype == 'project' %} 
+{% if mypage.focus-area contains page.short_title %}
+{% assign doProjects = 1 %}
+{% break %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+{% if doProjects ==1 %}
+<div class="container-fluid">
+  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
+  <div class="row">
+{% for mypage in sorted %}
+{% if mypage.pagetype == 'project' %} 
+{% if mypage.focus-area contains page.short_title %}
+<div class="card" style="width: 18rem;">
+<a href=/projects/{{mypage.shortname}}.html>
+<img class="card-img-top" src="/assets/{{mypage.image}}" alt="Card image cap">
+</a>
+<div class="card-body d-flex flex-column">
+<div class="card-text">
+<b><p><font size="+1">{{mypage.title}}</font></p></b>
+{{mypage.blurb}}<br>
+<a href=/projects/{{mypage.shortname}}.html> More information</a><br>
+</div>
+</div>
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+  </div>
+  <br>
+</div>
+{% endif %}
+
+{% assign doPresentations = 0 %}
+{% include get_pres_list.html %}
+{% for presentation in sorted_pres %}
+{% if presentation.size  > 20 %}
+{% assign item = presentation | split: "|" %}
+{% assign pres_st = item[7] | strip %}
+{% assign page_st = page.short_title | strip %}
+{% if pres_st  == page_st %} {% comment %}  might need a | strip??? {% endcomment %}
+{% if item[0] contains '2' %}
+{% assign doPresentations = 1 %}
+{% break %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+
+{% if doPresentations == 1 %}
+<section class="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
+
+<div class="boxed">
+<ul>
+{% for presentation in sorted_pres %}
+  {% if presentation.size  > 20 %}
+    {% assign item = presentation | split: "|" %}
+    {% assign pres_st = item[7] | strip %}
+    {% assign page_st = page.short_title | strip %}
+    {% if pres_st  == page_st %} {% comment %}  might need a | strip??? {% endcomment %}
+      {% if item[0] contains '2' %}
+        <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+</div>
+</div>
+</section>
+{% endif %}
+
+{% assign doPublications = 0 %}
+{% include get_pub_list.html %}
+
+{% for pub_item in sorted_pubs %}
+{% if pub_item.size  > 20 %}
+{% assign pub = pub_item | split: "|" %}
+{% if pub[0] contains '2' %}
+{% assign pub_fa = pub[5] | strip %}
+{% if pub_fa  == page.short_title  %}
+{% assign doPublications = 1 %}
+{% break %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+{% if doPublications == 1 %}
+
+
+<div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
+
+
+<div class="boxed">
+<ul>
+  {% for pub_item in sorted_pubs %}
+    {% if pub_item.size  > 20 %}
+      {% assign pub = pub_item | split: "|" %}
+      {% if pub[0] contains '2' %}
+	{% assign pub_fa = pub[5] | strip %}
+        {% if pub_fa  == page.short_title  %}
+          <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] | date_to_string }}).</li>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
+</div>
+
+</section>
+
+{% endif %}
+
+
+<section class="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="join-us">Join us</h2>
+    <p class="alt-lead text-gray text-center col-md-10 mx-auto">We collaborate with groups around the world on code, data, and more. See our project pages for more.</p>
+  </div>
+  <div style="overflow: hidden;">
+    <div class="featured-orgs text-center p-2">
+      {% for org_list in page.Collaborators   %}
+        {% assign org_hash = org_list | first  %}
+        {% assign org = org_hash[1] %}
+        <a href="{{org.Link}}"><img src="/assets/images/{{org.Image}}" height="100"> </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+
+        </main>
+    {% include footer.html %}
+      </div>
+
+  {% include layout_analytics.html %}
+  </body>
+</html>
+
+
