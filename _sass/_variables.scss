@@ -49,6 +49,18 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
+$iris-100: #8A84D6 !default;
+$iris-200: #0082CA !default;
+$iris-300: #270089 !default;
+$iris-400: #575195 !default;
+$iris-gray: #9a9b9d !default;   // 154,155,157
+
+$iris-accent-100: #dfdc7e !default;  // 223, 220, 126
+$iris-accent-200: #d2dc2f !default;  // 210, 220, 47
+$iris-accent-300: #c8d339 !default;  // 200, 211, 57
+$iris-accent-400: #66bcad !default;  // 102, 188, 173
+
+
 $colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
 $colors: map-merge(
@@ -70,14 +82,16 @@ $colors: map-merge(
   $colors
 );
 
-$primary:       $blue !default;
-$secondary:     $gray-600 !default;
+$primary:       $iris-200 !default;
+$secondary:     $iris-100 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
-$dark:          $gray-800 !default;
+//$dark:          $gray-800 !default;  // this affects navbar via bg-dark
+//$dark:          $gray-300 !default;  // this affects navbar via bg-dark
+$dark:          $iris-gray !default;  // this affects navbar via bg-dark
 
 $theme-colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -590,7 +604,7 @@ $dropdown-border-width:             $border-width !default;
 $dropdown-divider-bg:               $gray-200 !default;
 $dropdown-box-shadow:               0 .5rem 1rem rgba($black, .175) !default;
 
-$dropdown-link-color:               $gray-900 !default;
+$dropdown-link-color:               $iris-200 !default;
 $dropdown-link-hover-color:         darken($gray-900, 5%) !default;
 $dropdown-link-hover-bg:            $gray-100 !default;
 
@@ -666,7 +680,9 @@ $navbar-dark-toggler-border-color:  rgba($white, .1) !default;
 
 $navbar-light-color:                rgba($black, .5) !default;
 $navbar-light-hover-color:          rgba($black, .7) !default;
-$navbar-light-active-color:         rgba($black, .9) !default;
+// The next covers text in navbar itself
+//$navbar-light-active-color:         rgba($black, .9) !default;
+$navbar-light-active-color:         $primary !default;
 $navbar-light-disabled-color:       rgba($black, .3) !default;
 $navbar-light-toggler-icon-bg:      str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#{$navbar-light-color}' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"), "#", "%23") !default;
 $navbar-light-toggler-border-color: rgba($black, .1) !default;
