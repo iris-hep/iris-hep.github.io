@@ -24,10 +24,17 @@ niche, the LHC community is looking for alternate mechanisms and protocols
 to move data.  The IRIS-HEP DOMA area - in collaboration with the WLCG DOMA
 activity - is investigating the use of HTTP for bulk data transfer.
 
-One of the first results of this project is a sustained 1-1 transfer over HTTPS
-at 24Gbit/sec. As seen on
+<div class="card" style="width: 40rem;">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-over-http.png" alt="TPC rates from testing">
+  <div class="card-body">
+   <h5 class="card-title">Bandwidth achieved from standalone testing</h5>
+   <p class="card-text">The above graph shows data movement rates (up to 24Gbps) for a single host, achieved during
+   standalone tests; a typical LHC site will load-balance across multiple hosts in order to saturate
+   available network links.
+   </p>
+  </div>
+</div>
 
-![TPC over HTTPS](/assets/images/tpc-over-http.png)
 
 {% include list_project_team.md team=page.team%}
 

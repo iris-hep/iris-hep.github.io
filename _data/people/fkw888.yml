@@ -25,6 +25,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
     focusarea: doma
+    project: caching
   - title: "State of OSG"
     date: 19 Mar 2019
     url: https://indico.cern.ch/event/759388/contributions/3353296/
@@ -39,6 +40,7 @@ presentations:
     meetingurl: https://meetings.internet2.edu/2019-global-summit/detail/10005368/
     location: Washington, DC
     focusarea: osglhc
+    project: caching
   - title: "OSG-LHC"
     date: 06 Feb 2019
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532
