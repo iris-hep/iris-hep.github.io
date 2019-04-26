@@ -7,11 +7,14 @@ draft: false
 pagetype: focus-area
 ---
 
+The goal of the Analysis Systems focus area is to develop sustainable
+analysis tools to extend the physics reach of the HL-LHC experiments
+by creating greater functionality, reducing time-to-insight, lowering
+the barriers for smaller teams, and streamlining analysis preservation,
+reproducibility, and reuse.
 
 <img src="/assets/images/analysis-systems-scope.png" width="75%"  align="middle" />
 
-  The goal of the Analysis Systems focus area is to develop sustainable analysis tools to extend the physics reach of the HL-LHC experiments by creating greater functionality, reducing time-to-insight, lowering the barriers for smaller teams, and streamlining analysis preservation, reproducibility, and reuse.
- 
  Focus Area Strategies:
 
    * Establish declarative specifications for analysis tasks and workflows that will enable the technical development of analysis systems to be decoupled from the user- facing semantics of physics analysis.
