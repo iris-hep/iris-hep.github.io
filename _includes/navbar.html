@@ -37,7 +37,7 @@
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 {% assign activities = site.pages | where: "layout", "focus-area" | where: "draft", "false" | sort: 'title' %}
 {% for mypage in activities %}
-                  <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.short_title | upcase}}</a>
+                  <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
 {% endfor %}
                 </div>
               </li>
