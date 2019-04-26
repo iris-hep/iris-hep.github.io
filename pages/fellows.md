@@ -18,11 +18,11 @@ potential impact on the community.
 IRIS-HEP Fellows will spend 2-3 months working closely with a mentor on an
 R&D topic relevant to the Institute. Possible software R&D areas include:
 
-  * Analysis Systems
-  * Innovative Algorithms
-  * Data Organization, Management and Access
-  * Scalable Systems
-  * Tools and Material to support Training activities
+  * [Analysis Systems](/as.html)
+  * [Innovative Algorithms](/ia.html)
+  * [Data Organization, Management and Access](/doma.html)
+  * [Scalable Systems](/ssl.html)
+  * [Tools and Material to support Training activities](/ssc.html)
 
 It is *not* required that the mentors are IRIS-HEP team members, any 
 appropriate mentor from the larger community working in one of these areas
