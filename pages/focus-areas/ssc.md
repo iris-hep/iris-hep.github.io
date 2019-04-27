@@ -13,8 +13,8 @@ will be relevant through at least the 2030s. The IRIS-HEP Software
 Sustainability Core (SSC) focuses on activities which promote the long term 
 sustainability of the software. In the initial phase of the Institute,
 the SSC focuses primarily on **Training, Education and Outreach**. 
-Dissemination of best practices for software to the HEP community, as well as 
-engagement with the wider scientific, cyberinfrastructure and data science 
+The dissemination of best practices for software to the HEP community, as well 
+as engagement with the wider scientific, cyberinfrastructure and data science 
 communities is also an integral part of our activities. After the initial 
 phase of the Institute, the SSC activities will also include collaborative 
 efforts within the HEP community to enable transitions to more sustainable 
