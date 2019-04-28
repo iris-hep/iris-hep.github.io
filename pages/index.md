@@ -18,7 +18,7 @@ ongoing events don't get prematurely flagged as recent.
 {% assign ninetydaysago = 'now' | date: "%s" | minus: 7776000| date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
 
 
-{% assign my_array = "" | split: ',' %}
+{% assign selected_array = "" | split: ',' %}
 <h4>Upcoming Events:</h4>
 IRIS-HEP team members are involved in organizing the following events:
 {% for event_hash in site.data.events %}
@@ -26,13 +26,13 @@ IRIS-HEP team members are involved in organizing the following events:
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp >= sixdaysago %} 
      {% assign selectedevent = event %}
-     {% assign my_array = my_array | push: selectedevent %}
+     {% assign selected_array = selected_array | push: selectedevent %}
   {% endif %}
 {% endfor %}
 
 <ul>
-{% assign my_array = my_array | sort: 'startdate'  %}
-{% for event in my_array %}
+{% assign selected_array = selected_array | sort: 'startdate' %}
+{% for event in selected_array %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
 {% endfor %}
