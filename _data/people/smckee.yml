@@ -7,21 +7,21 @@ website: https://lsa.umich.edu/physics/people/research-scientists/smckee.html
 photo: /assets/images/team/Shawn-McKee.jpg
 presentations:
   - title: WLCG/OSG Network Activities, Status and Plans
-    date: 26 Mar 2019
+    date: 2019-03-26
     url: https://indico.cern.ch/event/765497/contributions/3351215/attachments/1818575/2973383/HEPiX_Spring_2019_OSG_WLCG_Networking_Update.pdf
     meeting: HEPiX Spring 2019 
     meetingurl: https://indico.cern.ch/event/765497
     location: San Diego, CA, US
     focusarea: osglhc
   - title: "OSG Networking: Status, Collaborations and Plans"
-    date: 20 Mar 2019
+    date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3352523/attachments/1815087/2966245/OSG_Networking__Status_Collaborations_and_Plans.pdf
     meeting: Joint HSF/OSG/WLCG Workshop (HOW2019)
     meetingurl: https://indico.cern.ch/event/759388
     location: Newport News, VA, US
     focusarea: osglhc
   - title: "Scientific Data Lifecycle: Perspectives from an LHC Physicist"
-    date: 06 Mar 2019
+    date: 2019-03-06
     url: https://www.nitrd.gov/nitrdgroups/images/9/98/Scientific-Data-Lifecycle-Shawn-McKee.pdf
     meeting: MAGIC Meeting
     meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC-Meetings-2019

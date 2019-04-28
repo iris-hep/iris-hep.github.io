@@ -7,28 +7,28 @@ website: http://charma.uprm.edu/~malik/
 photo: /assets/images/team/Sudhir-Malik.png
 presentations:
   - title: "FIRST-HEP Training Program"
-    date: 21 Mar 2019
+    date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3315849/attachments/1816168/2968373/FIRST-HEP-JLAB-HOW2019.pdf
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/overview
     location: Jefferson Lab
   - title: "IRIS-HEP Software Sustainability Core"
-    date: 06 Feb 2019
+    date: 2019-02-06
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271531/attachments/1791306/2919793/IRIS_steering_update_6Feb2019.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/
   - title: "Training Activities - FIRST-HEP and IRIS-HEP"
-    date: 04 Feb 2019
+    date: 2019-02-04
     url: https://indico.cern.ch/event/794278/contributions/3299576/attachments/1790342/2916570/IRIS_TopicalMeeting_TrainingforSoftwareCoDASHEP.pdf
     meeting: IRIS-HEP Topical Meeting
     meetingurl: https://indico.cern.ch/event/794278/
   - title: "A Framework for Integrated Research Software Training in HEP"
-    date: 11 Dec 2018
+    date: 2018-12-11
     url: https://indico.fnal.gov/event/18104/session/23/contribution/19/material/0/0.pdf
     meeting: 2018 CPAD Instrumentation Frontier Workshop
     meetingurl: https://indico.fnal.gov/event/18104/
   - title: "Training Working Group Update"
-    date: 25 Apr 2019
+    date: 2019-04-25
     url: https://indico.cern.ch/event/785576/contributions/3266720/attachments/1776008/3004837/HSF_TEO_WG_update_25April2019.pdf
     meeting: HEP Software Foundation Weekly Meeting
     meetingurl: https://indico.cern.ch/event/785576/
