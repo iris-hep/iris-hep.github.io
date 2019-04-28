@@ -7,49 +7,49 @@ website:
 photo: /assets/images/team/Brian-Lin.jpg
 presentations:
   - title: "OSG Software: The Year in Review"
-    date: 19 Mar 2019
+    date: 2019-03-19
     url: https://indico.cern.ch/event/759388/contributions/3353297/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
     focusarea: osglhc
   - title: "OSG Site Installation Overview"
-    date: 21 Mar 2019
+    date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364839/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
     focusarea: osglhc
   - title: "HTCondor-CE Overview"
-    date: 21 Mar 2019
+    date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364839/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
     focusarea: osglhc
   - title: "Container Basics"
-    date: 21 Mar 2019
+    date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364840/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
     focusarea: osglhc
   - title: "OSG Software Containers"
-    date: 21 Mar 2019
+    date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364840/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
     focusarea: osglhc
   - title: "OSG-LHC and XCache"
-    date: 12 Dec 2018
+    date: 2018-12-12
     url: https://indico.cern.ch/event/770941/contributions/3230458/
     meeting: ATLAS Software & Computing Week \#61
     meetingurl: https://indico.cern.ch/event/646947/
     location: CERN
     focusarea: osglhc
   - title: "OSG-LHC and ATLAS"
-    date: 03 Dec 2018
+    date: 2018-12-03
     url: https://indico.cern.ch/event/766802/contributions/3223347/
     meeting: US-ATLAS Facilities Meeting
     meetingurl: https://indico.cern.ch/event/766802/
