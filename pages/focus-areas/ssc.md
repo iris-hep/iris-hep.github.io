@@ -31,6 +31,6 @@ We organize and run the annual [Computational and Data Science for High Energy P
 
 
 
-  **Contact us**: [xyz-team@iris-hep.org](mailto:xyz-team@iris-hep.org)
+<!--  **Contact us**: [xyz-team@iris-hep.org](mailto:xyz-team@iris-hep.org) -->
 
 <br>
