@@ -27,7 +27,7 @@ website: <Optional, your website>
 photo: /assets/images/team/<First name>-<Last name>.jpg
 presentations:
   - title: How to make green eggs and ham
-    date: 10 Sep 2018
+    date: 2018-09-10
     url: https://indico.cern.ch/event/697389/contributions/3062046/attachments/1712602/2761531/ROOT2018-Union.pdf
     meeting: ROOT 2018 Users Workshop
     meetingurl: https://cern.ch/root2018
@@ -72,7 +72,7 @@ the following criteria:
 The meaning of the fields is the following:
 
   * title - the title of the talk: you made need to place it in double quotes, if certain characters like a colon (":") are included in the title
-  * date - the date on which the presentation was made, in the format "10 Sep 2018"
+  * date - the date on which the presentation was made, in the numeric format "YYYY-MM-DD"
   * url - this should be a direct URL to the presentation file (e.g. pdf)
   * meeting - the name of the meeting
   * meetingurl - the URL for the meeting in which the presentation was made 
