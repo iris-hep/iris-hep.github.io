@@ -8,29 +8,29 @@ photo: /assets/images/team/Peter-Elmer.jpg
 e-mail: Peter.Elmer@cern.ch
 presentations:
   - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 22 Mar 2019
+    date: 2019-03-22
     url: https://indico.cern.ch/event/759388/contributions/3302394/attachments/1816794/2969628/IRIS-HEP-HOW2019.pdf
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/overview
     location: Jefferson Lab
   - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 21 Mar 2019
+    date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364938/attachments/1816067/2968165/IRIS-HEP-OSG-Council-HOW2019-Elmer.pdf
     meeting: OSG Council Meeting at HOW2019
     meetingurl: https://indico.cern.ch/event/759388/overview
     location: Jefferson Lab
   - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 23 Oct 2018
+    date: 2018-10-23
     url: https://indico.cern.ch/event/765782/contributions/3178944/attachments/1739581/2814524/20181023-iris-hep-cms-offline-computing.pdf
     meeting: CMS ECOM2X WG7
     meetingurl: https://indico.cern.ch/event/765782/overview
   - title:  Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)
-    date: 20 Sep 2018
+    date: 2018-09-20
     url: https://indico.cern.ch/event/713888/contributions/2933014/attachments/1719328/2775216/20180920-iris-hep-cern-scf.pdf
     meeting: 5th Scientific Computing Forum
     meetingurl: https://indico.cern.ch/event/713888/
   - title: "The HEP S&C Roadmap & the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)" 
-    date: 30 Jul 2018
+    date: 2018-07-30
     url: https://indico.cern.ch/event/732285/contributions/3021320/
     meeting: US ATLAS Workshop 2018
     meetingurl: https://indico.cern.ch/event/732285/
