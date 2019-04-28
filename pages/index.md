@@ -18,38 +18,46 @@ ongoing events don't get prematurely flagged as recent.
 {% assign ninetydaysago = 'now' | date: "%s" | minus: 7776000| date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
 
 
-{% assign selected_array = "" | split: ',' %}
+{% assign selected_events = "" | split: ',' %}
 <h4>Upcoming Events:</h4>
 IRIS-HEP team members are involved in organizing the following events:
 {% for event_hash in site.data.events %}
   {% assign event = event_hash[1] %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp >= sixdaysago %} 
-     {% assign selectedevent = event %}
-     {% assign selected_array = selected_array | push: selectedevent %}
+     {% assign selected_events = selected_events | push: event %}
   {% endif %}
 {% endfor %}
 
 <ul>
-{% assign selected_array = selected_array | sort: 'startdate' %}
-{% for event in selected_array %}
+{% assign selected_events = selected_events | sort: 'startdate' %}
+{% for event in selected_events %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
 {% endfor %}
 </ul>
 
 
-
+{% assign selected_events = "" | split: ',' %}
 <h4>Recent Events:</h4>
-<ul>
 {% for event_hash in site.data.events  %}
   {% assign event = event_hash[1] %}
+  {% assign startdatecmp = event.startdate | date: "%s" %}
+  {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
+     {% assign selected_events = selected_events | push: event %}
+  {% endif %}
+{% endfor %}
+
+<ul>
+{% assign selected_events = selected_events | sort: 'startdate' | reverse %}
+{% for event in selected_events  %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
   <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
   {% endif %}
 {% endfor %}
 </ul>
+
 
 <a href="/events.html">View all past events</a>
 <br><br>
