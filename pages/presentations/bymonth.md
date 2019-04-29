@@ -28,7 +28,8 @@ redirect_from: "/presentations/all"
     <br><h5>{{talk.date | date: "%B, %Y"}}</h5>
     {% assign hdrprint = false %}
   {% endif %}
-         <li> {{talk.date}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{site.data.people[member].name}} ({{site.data.people[member].institution}}), <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+  {% assign prettydate = talk.date | date: "%-d %b %Y" %}
+   <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{site.data.people[member].name}} ({{site.data.people[member].institution}}), <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
   {% endif %}
      {% endfor %}
 </ul>
