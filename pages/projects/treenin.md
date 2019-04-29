@@ -22,7 +22,7 @@ At [ML4Jets 2018](https://indico.cern.ch/event/745718/) a top-tagging comparison
 
 <img src="/assets/images/top-tagging.png" width="50%" alt="top tagging table" />
 
-The QCD-aware recursive neural networks devleoped as part of DIANA/HEP ([Louppe et al. 2017](https://arxiv.org/abs/1702.00748)) which leverage an analogy to natural language processing were extended to include a network-in-network. The TreeNiN method (in the table above), acheives excellent performance with orders of magnitude fewer parameters than the other top performing techniques. This pytorch implementation can be found in [this repository](https://github.com/diana-hep/TreeNiN) 
+The QCD-aware recursive neural networks devleoped as part of DIANA/HEP ([Louppe et al. 2017](https://arxiv.org/abs/1702.00748)) which leverage an analogy to natural language processing were extended to include a network-in-network. The TreeNiN method (in the table above), achieves excellent performance with orders of magnitude fewer parameters than the other top performing techniques. This pytorch implementation can be found in [this repository](https://github.com/diana-hep/TreeNiN) 
 
 Irina Espejo, Sebastian Macaluso, and Heiko Mueller are using docker containers, yadage workflows, and [REANA](http://www.reana.io) to automate and streamline such benchmark studies. 
 
