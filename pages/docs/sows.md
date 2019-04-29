@@ -1,7 +1,8 @@
 ---
 permalink: /docs/sows.html
 layout: default
-title: Information for preparing annual SOWs
+title: Preparing the annual IRIS-HEP SOWs
+pagetype: doc
 ---
 
 ## Annual Subaward Statement of Work and Budgets

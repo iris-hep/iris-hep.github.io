@@ -1,7 +1,8 @@
 ---
 permalink: /presentations/bymonth.html
 layout: default
-title: Presentations
+title: Presentations by Month
+redirect_from: "/presentations/all"
 ---
 
 {% assign orderedlist = "cornell, indiana, mit, morgridge, nyu, princeton, stanford, chicago, cincinnati, uiuc, michigan, nebraska, berkeley, ucsc, ucsd, uprm, washington, wisconsin" | split: ", " %}
@@ -27,7 +28,8 @@ title: Presentations
     <br><h5>{{talk.date | date: "%B, %Y"}}</h5>
     {% assign hdrprint = false %}
   {% endif %}
-         <li> {{talk.date}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{site.data.people[member].name}} ({{site.data.people[member].institution}}), <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+  {% assign prettydate = talk.date | date: "%-d %b %Y" %}
+   <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{site.data.people[member].name}} ({{site.data.people[member].institution}}), <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
   {% endif %}
      {% endfor %}
 </ul>

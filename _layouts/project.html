@@ -1,0 +1,20 @@
+<!doctype html>
+
+{% include layout_header_navbar.html %}
+
+      <div class="container">
+        <main role="main">
+
+            <div class="container-fluid">
+              <h1 class="alt-h2 text-center mb-3 mt-lg-6">{{page.title}}</h1><br>
+            </div>
+
+          {{ content }}
+        </main>
+    {% include footer.html %}
+      </div>
+
+  {% include layout_analytics.html %}
+
+  </body>
+</html>

@@ -18,11 +18,11 @@ potential impact on the community.
 IRIS-HEP Fellows will spend 2-3 months working closely with a mentor on an
 R&D topic relevant to the Institute. Possible software R&D areas include:
 
-  * Analysis Systems
-  * Innovative Algorithms
-  * Data Organization, Management and Access
-  * Scalable Systems
-  * Tools and Material to support Training activities
+  * [Analysis Systems](/as.html)
+  * [Innovative Algorithms](/ia.html)
+  * [Data Organization, Management and Access](/doma.html)
+  * [Scalable Systems](/ssl.html)
+  * [Tools and Material to support Training activities](/ssc.html)
 
 It is *not* required that the mentors are IRIS-HEP team members, any 
 appropriate mentor from the larger community working in one of these areas
@@ -43,3 +43,27 @@ Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing
  * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. Note also the intended software project or person with whom you will collaborate and the location where you would need to travel for that collaboration. The proposal should be short, typically no more one page to describe the project and then a short timeline with deliverables (see also examples from previous fellows. 
 
 IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals.
+
+# Current IRIS-HEP Fellows 
+
+<div class="container-fluid">
+  <div class="row">
+  {% for member in site.data.orgs.fellows.personnel  %}
+     {% assign person = site.data.fellows[member] %}
+     <div class="card" style="width: 12rem;">
+        <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
+        <div class="card-body d-flex flex-column">
+          <div class="card-text">
+             <b><a href="{{person.website}}">{{person.name}}</a></b><br>
+             <small>{{person.institution}}</small><br><br>
+          </div>
+          <div class="card-text mt-auto"><i>{{person.title}}</i><br></div>
+          <div class="card-text mt-auto"><i>{{person.dates}}</i><br></div>
+        </div>
+     </div>
+  {% endfor %}
+  </div>
+  <br>
+</div>
+
+
