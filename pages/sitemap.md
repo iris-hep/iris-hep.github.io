@@ -11,17 +11,6 @@ different page categories (using our custom frontmatter tag "pagetype").
 {% endcomment %}
 
 <br>
-<b>Documentation pages:</b>
-<ul>
-{% assign sorted = site.pages | sort: 'title' %}
-{% for mypage in sorted %}
-  {% if mypage.pagetype == 'doc' %} 
-  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
-
-<br>
 <b>Focus Area pages:</b>
 <ul>
 {% assign sorted = site.pages | sort: 'title' %}
@@ -43,6 +32,16 @@ different page categories (using our custom frontmatter tag "pagetype").
 {% endfor %}
 </ul>
 
+<br>
+<b>Documentation pages:</b>
+<ul>
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
+  {% if mypage.pagetype == 'doc' %} 
+  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 <br>
 <b>Other pages:</b>
