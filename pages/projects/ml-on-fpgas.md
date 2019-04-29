@@ -5,21 +5,29 @@ title: ML on FPGAs
 shortname: ml-on-fpgas
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
-blurb: Please fill in
+blurb: Fast inference of deep neural networks on FPGAs
 focus-area: ia
 team:
  - dcraik
  - msneubauer
- - Philip Harris
+ - pharris
+ - drankincms
 
 ---
 
-We started with some helper functions for team members and publications. Filling this page is up to you. Other things you could include on this page
-  * Graphics and text explaining the idea, and results
-  * Collaborators
-  * links
-  * related work 
-  * etc
+Machine learning has become an extremely popular solution for a broad range of problems in high energy physics, from jet-tagging to signal extraction.
+While the application of machine learning can offer unrivaled performance, its use can also be expensive from both a latency and a computation perspective.
+While accelerating inference on GPUs can offer some improvements, another specialized architecture, field-programmable gate arrays (FPGAs), can further improve inference speeds.
+Performing inference on FPGAs allows for sophisticated algorithm usage at the earliest stages of triggering and data acquisition, and has the potential to greatly reduce the computational resources required at large HEP experiments.
+
+This work consists of both the further develoment of the [hls4ml](https://hls-fpga-machine-learning.github.io/hls4ml/) tool ([J.M. Duarte et al. 2018](https://arxiv.org/abs/1804.00748)) as well as the study of applications for fast inference on FPGAs.
+Ongoing developments of the hls4ml tool itself include wider support for neural network layer architectures and machine learning libraries, and improvments to the performance of the tools for large networks.
+Ongoing studies on the applications of machine learning on FPGAs include their use for particle tracking, calorimeter reconstruction, and particle identification. 
+We also studying the general capabilities and limitations of large-scale heterogeneous computing.
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/hls-fpga-machine-learning/hls4ml). 
+[![DOI](https://zenodo.org/badge/160135404.svg)](https://zenodo.org/badge/latestdoi/108329371) 
 
 {% include list_project_team.md team=page.team%}
 
