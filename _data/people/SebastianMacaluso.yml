@@ -1,0 +1,15 @@
+name: Sebastian Macaluso
+shortname: SebastianMacaluso
+title: 
+active: green
+institution: New York University
+website: 
+photo: /assets/images/team/Sebastian-Macaluso.jpg
+presentations:
+  - title: "Pulling Out All the Tops with Computer Vision and Deep Learning"
+    date: 2018-11-15
+    url: https://indico.cern.ch/event/745718/contributions/3174400/attachments/1754069/2843182/ML4Jets_2018_Macaluso.pdf
+    meeting: Machine Learning for Jet Physics
+    meetingurl: https://indico.cern.ch/event/745718/
+    location: Fermilab, Illinois, USA
+
