@@ -312,7 +312,9 @@ $text-muted:                  $gray-600 !default;
 $blockquote-small-color:      $gray-600 !default;
 $blockquote-font-size:        ($font-size-base * 1.25) !default;
 
-$hr-border-color:             rgba($black, .1) !default;
+// Use IRIS-HEP color for horizontal rule
+// $hr-border-color:             rgba($black, .1) !default;
+$hr-border-color:             rgba($iris-100, 1) !default;
 $hr-border-width:             $border-width !default;
 
 $mark-padding:                .2em !default;
