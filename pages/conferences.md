@@ -16,8 +16,9 @@ the conference itself as these sometimes change.**
   * 28 Jul - 1 Aug 2019 - ["Practice and Experience in Advanced Research Computing (PEARC19)"](https://www.pearc19.pearc.org), Chicago - extended abstract deadline 13 Feb 2019, poster deadline 24 Apr 2019
   * 29 Jul - 2 Aug 2019 - ["2019 Meeting of the Division of Particles & Fields of the American Physical Society (DPF2019)"](https://indico.cern.ch/event/782953/), Northeastern University, Boston - abstract submission deadline 18 May 2019
   * 23-25 Sep 2019 - [Gateways 2019](https://sciencegateways.org/web/gateways2019/welcome), San Diego - abstracts due 6 May 2019 (full submission due 6 May 2019)
-  * 24-27 Sep 2019 - [eScience 2019](https://escience2019.sdsc.edu/), San Diego - paper abstract deadline 29 April 2019
+  * 24-27 Sep 2019 - [eScience 2019](https://escience2019.sdsc.edu/), San Diego - paper abstract deadline 13 May 2019
   * 26 Oct - 2 Nov 2019 - [IEEE Nuclear Science Symposium (NSS) and Medical Imaging Conference (MIC)](https://nssmic.ieee.org/2019/), Manchester - abstract deadline 8 May, 2019
+  * 4-8 Nov 2019 - [24th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2019)](http://chep2019.org/), Adelaide - abstract deadline 13 May, 2019
 
 ## Past Conferences
   * 31 Mar-5 Apr 2019 - ["International Symposium on Grids & Clouds 2019 (ISGC 2019) (ISGC 2019)"](https://indico4.twgrid.org/indico/event/8/), Taipei, Taiwan - extended abstract deadline 19 Nov 2018
