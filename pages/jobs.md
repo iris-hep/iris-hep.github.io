@@ -40,6 +40,10 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Data Scientists in the Center for Information Technology Policy (CITP)](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10641)
 
+### Notre Dame
+
+  * [Professional Research Programmer (Scientific Workflows)](https://jobs.nd.edu/postings/15810) - contact Kevin Lannon (klannon@nd.edu) for more infromation
+
 ### Argonne National Lab
 
   * [Assistant Computational Scientist](http://inspirehep.net/record/1722455)
