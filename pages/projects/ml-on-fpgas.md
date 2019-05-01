@@ -28,8 +28,7 @@ This work also involves studies of large-scale heterogeneous computing using Bra
 Brainwave and GCP have both been used in studying the capabilities of cloud-based heterogeneous computing ([J. Duarte et al. 2019](https://arxiv.org/abs/1904.08986)), which appears extremely promising as an option for low-cost and low-latency inference acceleration (see table below).
 AWS has been used extensively for prototyping applications in heterogeneous environments, and will also be used to investigate alternative models for cloud-based heterogeneous computing.
 
-<img src="/assets/images/sonic_summary_table.png" width="70%" alt="SONIC summary table" />
-
+![SONIC summary table](/assets/images/sonic_summary_table.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/hls-fpga-machine-learning/hls4ml). 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1204445.svg)](https://zenodo.org/badge/latestdoi/108329371) 
