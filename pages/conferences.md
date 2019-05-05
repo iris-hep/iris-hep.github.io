@@ -37,9 +37,12 @@ the conference itself as these sometimes change.**
 It is important that funding support from IRIS-HEP is acknowledged in all 
 publications and conference proceedings which result from that funding.
 The following text should be used:
-<br>
+
+---
+
 *This work was supported by the National Science Foundation under Cooperative Agreement OAC-1836650.*
-<br>
+
+---
 
 Suitable variations to also acknowledge other sources of support are of
 course acceptable.
