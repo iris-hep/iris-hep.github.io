@@ -20,5 +20,5 @@ website data files:
   * [FIRST-HEP](http://first-hep.org/)
   * [CoDaS-HEP](http://codas-hep.org/)https://uscms.org/index.shtml)
   * [DASPOS](http://daspos.org/)
-  * [US-RSE)(http://us-rse.org)
+  * [US-RSE](http://us-rse.org)
   * [Scikit-HEP](http://scikit-hep.org)
