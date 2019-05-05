@@ -47,9 +47,9 @@ course acceptable.
 ## Use of arXiv for conference proceedings
 
 When publications intended for inclusion in conference proceedings are
-submitted to the conference, they should **also** be submitted to the
-[arXiv](https://arxiv.org). Given the typically very long latencies for 
-official proceedings to appear, publishing them early on the arXiv allows 
+submitted to the conference, they should **also** be submitted as a preprint
+to the [arXiv](https://arxiv.org). Given the typically very long latencies for 
+official proceedings to appear, publishing a preprint early on the arXiv allows 
 them to be referenced and read soon after the conference. Subsequent 
 revisions due (for example) to feedback from referees of the conference
 proceedings should **also** be uploaded to the [arXiv](https://arxiv.org) as
