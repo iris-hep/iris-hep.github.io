@@ -32,3 +32,28 @@ the conference itself as these sometimes change.**
 
   * 14-18 Jan 2019 -- ["Berkeley Tracking/ACTS Workshop"](https://indico.physics.lbl.gov/indico/event/712/), Berkeley, California
 
+## Acknowledgement of IRIS-HEP support in publications and conference proceedings
+
+It is important that funding support from IRIS-HEP is acknowledged in all 
+publications and conference proceedings which result from that funding.
+The following text should be used:
+<br>
+*This work was supported by the National Science Foundation under Cooperative Agreement OAC-1836650.*
+<br>
+
+Suitable variations to also acknowledge other sources of support are of
+course acceptable.
+
+## Use of arXiv for conference proceedings
+
+When publications intended for inclusion in conference proceedings are
+submitted to the conference, they should **also** be submitted to the
+[arXiv](https://arxiv.org). Given the typically very long latencies for 
+official proceedings to appear, publishing them early on the arXiv allows 
+them to be referenced and read soon after the conference. Subsequent 
+revisions due (for example) to feedback from referees of the conference
+proceedings should **also** be uploaded to the [arXiv](https://arxiv.org) as
+new versions of the original submission.
+
+
+
