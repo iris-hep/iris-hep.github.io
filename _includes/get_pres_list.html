@@ -7,7 +7,7 @@
         {% if person.shortname == member %}
            {% for presentation in person.presentations %}
              {% assign pres_date = "Unknown" %}
-             {% if presentation.date contains "2" %}
+             {% if presentation.date  %}
                {% assign pres_date = presentation.date | date: "%Y-%m-%d" %}
              {% endif %}
 
@@ -46,7 +46,7 @@
              {% assign pres_focus_area = presentation.focusarea %}
              {% endif %}
 
-             ^{{pres_date}}|{{pres_name}}|{{pres_title}}|{{pres_url}}|{{pres_meeting}}|{{pres_meetingurl}}|{{pres_project}}|{{pres_focus_area}}  
+             ^{{pres_date}}|{{pres_name}}|{{pres_title}}|{{pres_url}}|{{pres_meeting}}|{{pres_meetingurl}}|{{pres_project}}|{{pres_focus_area}} 
            {% endfor %}
         {% endif %}
       {% endfor %}
