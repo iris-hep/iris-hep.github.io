@@ -61,4 +61,11 @@ presentations:
     meeting: 3rd IML Machine Learning Workshop
     meetingurl: https://indico.cern.ch/event/766872/timetable/#20190415.detailed
     location: CERN
-    focusarea: as 
+    focusarea: as, ia 
+  - title: Future areas of focus for ML in particle physics
+    date: 2019-05-01
+    url: https://sites.google.com/view/physicsxml/schedule?authuser=0
+    meeting: Gotham City Physics X ML
+    meetingurl: https://sites.google.com/view/physicsxml/schedule
+    location: Flatiron Institute
+    focusarea: as, ia
