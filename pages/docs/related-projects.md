@@ -22,3 +22,6 @@ website data files:
   * [DASPOS](http://daspos.org/)
   * [US-RSE](http://us-rse.org)
   * [Scikit-HEP](http://scikit-hep.org)
+  * [HEP Software Foundation (HSF)](https://hepsoftwarefoundation.org)
+  * [PyHEP](https://hepsoftwarefoundation.org/workinggroups/pyhep.html)
+
