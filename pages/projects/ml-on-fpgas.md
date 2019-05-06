@@ -4,7 +4,7 @@ layout: project
 title: ML on FPGAs
 shortname: ml-on-fpgas
 pagetype: project
-image: logos/Iris-hep-5-just-graphic.png
+image: logos/fpga_ml_results.png
 blurb: Fast inference of deep neural networks on FPGAs
 focus-area: ia
 team:
