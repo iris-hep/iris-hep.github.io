@@ -6,10 +6,35 @@ institution: Princeton University
 website: https://github.com/jpivarski
 photo: /assets/images/team/Jim-Pivarski.jpg
 presentations:
-  - title: "Nested data structures in array and SIMD frameworks"
+  - title: "Nested data structures in array and SIMD frameworks (conference)"
     date: 2019-03-14
     url: https://indico.cern.ch/event/708041/contributions/3276200/attachments/1810057/2955674/pivarski-acat2019.pdf
     meeting: ACAT 2019
     meetingurl: https://indico.cern.ch/event/708041/
     focusarea: as 
     project: scikit-hep
+  - title: "Software Carpentry at Fermilab (tutorial)"
+    date: 2019-04-01
+    url: https://github.com/jpivarski/2019-04-01-fermilab-carpentries
+    meetingurl: https://davidyakobovitch.github.io/2019-04-01_fnal/
+    focusarea: as
+  - title: "High-Performance Python and Interoperability with Compiled Code (tutorial)"
+    date: 2019-04-08
+    url: https://github.com/jpivarski/2019-04-08-picscie-numpy
+    meetingurl: https://researchcomputing.princeton.edu/events/high-performance-python-and-interoperability-compiled-code-48-410
+    focusarea: as
+  - title: "How to build your own language (hands-on demo)"
+    date: 2019-05-06
+    url: https://github.com/jpivarski/2019-05-06-adl-language-tools
+    meetingurl: https://indico.cern.ch/event/769263/timetable/
+    focusarea: as
+  - title: "Programming languages and particle physics (colloquium)"
+    date: 2019-05-08
+    url: https://www.overleaf.com/project/5cc4afa749256e24ec7af2cc/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-07xm&popupDownload=true
+    meetingurl: https://events.fnal.gov/colloquium/events/event/pivarski-colloq-2019/
+    focusarea: as
+  - title: "Summary of the 'Analysis Description Languages for the LHC' workshop (LPC Physics Forum)"
+    date: 2019-05-09
+    meetingurl: https://indico.cern.ch/event/806811/
+    focusarea: as
+ 
