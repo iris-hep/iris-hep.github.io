@@ -11,6 +11,7 @@ website data files:
   * [US ATLAS Collaboration](https://po.usatlas.bnl.gov/)
   * [US ATLAS Operations Program](https://po.usatlas.bnl.gov/programoffice/op.php)
   * [US CMS Collaboration](https://uscms.org/index.shtml)
+  * [US CMS Operations Program](https://uscms.org/uscms_at_work/rpo/index.shtml)
   * [Open Science Grid](https://opensciencegrid.org/)
   * [SCAILFIN](https://scailfin.github.io/)
   * [DIANA/HEP](http://diana-hep.org/)
