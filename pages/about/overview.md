@@ -88,7 +88,6 @@ to bringing the HL-LHC to fruition, feed into the design of IRIS-HEP.  These
 include:
 
 - [DIANA/HEP](http://diana-hep.org/)
-- [SCAILFIN](https://scailfin.github.io/)
 - [Parallel Kalman Filter Tracking](http://trackreco.github.io/)
 - [DASPOS](http://daspos.org/)
 - [CoDaS-HEP](http://codas-hep.org/)
