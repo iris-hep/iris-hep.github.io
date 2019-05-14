@@ -11,10 +11,6 @@ title: Available Positions
 ### Princeton University
   * [Associate Project Manager](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=11761) 
 
-### New York University
-
-   * [Application Developer](https://apply.interfolio.com/59839) in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. Deadline **15 Feb, 2019** -- please contact kyle.cranmer@nyu.edu for more information.
-
 ### University of Texas, Austin
 
   * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
