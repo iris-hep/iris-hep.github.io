@@ -4,3 +4,11 @@ title: PhD student
 active: green
 institution: University of Washington
 photo: /assets/images/team/Mason-Proffitt.jpg
+presentations:
+  - title: "IRIS-HEP: A new software institute to prepare for the data from the High Luminosity Large Hadron Collider in the exabyte era"
+    date: 2019-05-08
+    url: https://indico.cern.ch/event/821258/contributions/3433444/attachments/1844402/3025513/Northwest_Data_Science_Summit_Poster_Final.pdf
+    meeting: Northwest Data Science Summit
+    meetingurl: https://www.eventbrite.com/e/northwest-data-science-summit-tickets-55037447487
+    location: University of Washington
+    focusarea: as
