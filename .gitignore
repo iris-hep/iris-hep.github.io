@@ -1,9 +1,9 @@
-_site/
-.sass-cache/
-*~
-assets/.DS_Store
-Gemfile.lock
-.DS_Store
-Gemfile.lock
-Gemfile.lock
 *.lock
+*~
+.DS_Store
+.sass-cache/
+Gemfile.lock
+_site/
+assets/.DS_Store
+.bundle/
+vendor/
