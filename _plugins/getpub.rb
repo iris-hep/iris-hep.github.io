@@ -17,8 +17,13 @@ module Publications
       net.use_ssl = true
 
       for _, pub in site.data["publications"]
-        # Make sure the projects are in a list (Not supported yet)
+        # TODO: Make sure the projects are in a list (Not supported yet)
         # pub["project"] = [pub["project"]] if not pub["project"].kind_of? Array
+        # TODO: focus-area as well
+
+        # Highlighted publications?
+
+        # Add caching to reduce requests to INSPIRE
 
         if pub.key? "inspire-id"
           recid = pub["inspire-id"]
@@ -38,8 +43,8 @@ module Publications
 
           # Build the author string
           # TODO: Does not respect manual author list
-          mini_authors = authors[0..4].map{ |a| a["name"].initials }.join ", "
-          mini_authors += ' et. al.' if authors.length > authors[0..5].length
+          mini_authors = authors[0...5].map{ |a| a["name"].initials }.join ", "
+          mini_authors += ' et. al.' if authors.length > authors[0...5].length
 
           # Build the citation string (non-author part)
           if data.key? "publication_info"
