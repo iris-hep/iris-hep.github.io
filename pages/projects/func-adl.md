@@ -13,19 +13,12 @@ team:
  - masonproffitt
 ---
 
-
-
-<img src="/assets/logos/Iris-hep-5-just-graphic" width="25%" />
-
 `func-adl` is an implementation of a functional analysis description language that is declarative. The project is exploring several different aspects of this:
 
 - The separation between a query language and a complete analysis
 - Can a query be reduced to a single abstract syntax tree or DAG computational graph
 - Can multiple user-interface languages use the same backend?
 - Can the user analysis be written in such a way that the user thinks only about single event quantities?
-
-As a side-product we are also exploring the following:
-
 - Can a common query language be used to run on different data formats (binary experimental format, flat ROOT TTree's, and awkward array columnar analysis)
 
 Repositories connected with this work:
@@ -35,8 +28,8 @@ Repositories connected with this work:
 
 This work is based on the original work done with LINQ in the C# programming language (prior to the start or IRIS-HEP):
 
-- LINQ Talk
-- LINQ Talk
+- [Developing a Declarative Analysis Language: LINQToROOT](https://indico.cern.ch/event/587955/contributions/2952520/) - Given CHEP 2018
+- [Experiments Toward a Modern Analysis Environment: Using TMVA and other tools in a functional world with continuous integration for analysis](https://indico.cern.ch/event/505613/contributions/2259550/) - Given CHEP 2017
 
 {% include list_project_team.md team=page.team%}
 
