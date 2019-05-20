@@ -1,6 +1,6 @@
 ---
 permalink: /docs/add_focusarea_page.html
-layout: defaultgray
+layout: default
 title: Adding a focus-area page to the website
 pagetype: doc
 ---
