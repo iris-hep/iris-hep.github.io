@@ -26,6 +26,7 @@
 {% if doProjects ==1 %}
 <div class="container-fluid">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
+<center>
   <div class="row">
 {% for mypage in sorted %}
 {% if mypage.pagetype == 'project' %} 
@@ -46,9 +47,38 @@
 {% endif %}
 {% endfor %}
   </div>
+</center>
   <br>
 </div>
 {% endif %}
+
+
+
+{% if doProjects ==2 %}
+<div class="container-fluid">
+  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
+
+
+<table style="width:100%">
+{% for mypage in sorted %}
+{% if mypage.pagetype == 'project' %} 
+{% if mypage.focus-area == page.short_title %}
+<tr>
+<th><img width="40rem" src="/assets/{{mypage.image}}" alt="Card image cap"></th>
+<th>
+<b><font size="+1">{{mypage.title}}</font></b>
+<a href=/projects/{{mypage.shortname}}.html>{{mypage.blurb}}</a><br>
+</th> 
+</tr>
+{% endif %}
+{% endif %}
+{% endfor %}
+</table>
+<br>
+</div>
+{% endif %}
+
+
 
 {% assign doPresentations = 0 %}
 {% include get_pres_list.html %}
@@ -72,8 +102,9 @@
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
 
-<div class="boxed">
 <ul>
+{% assign max_disp = 15 %}
+{% assign counter = 0 %}
 {% for presentation in sorted_pres %}
   {% if presentation.size  > 20 %}
     {% assign item = presentation | split: "|" %}
@@ -81,13 +112,21 @@
     {% assign page_st = page.short_title | strip %}
     {% if pres_st  == page_st %} {% comment %}  might need a | strip??? {% endcomment %}
       {% if item[0] contains '2' %}
+        {% assign counter = counter | plus: 1 %}
         <li> <a href="{{item[3]}}">{{item[2]}}</a> ({{item[1]}}, {{item[0] | date_to_string}}) at <a href="{{item[5]}}">{{item[4]}}</a> </li>
+        {% if counter == max_disp %}
+        </ul>
+        <p>[expand]</p>
+        <ul>
+        {% endif %}
       {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}
 </ul>
-</div>
+{% if counter >= max_disp %}
+<p>[/expand]</p>
+{% endif %}
 </div>
 </section>
 {% endif %}
@@ -115,22 +154,32 @@
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
 
 
-<div class="boxed">
 <ul>
+{% assign max_disp = 15 %}
+{% assign counter = 0 %}
   {% for pub_item in sorted_pubs %}
     {% if pub_item.size  > 20 %}
       {% assign pub = pub_item | split: "|" %}
       {% if pub[0] contains '2' %}
 	{% assign pub_fa = pub[5] | strip %}
         {% if pub_fa  == page.short_title  %}
+          {% assign counter = counter | plus: 1 %}
           <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] | date_to_string }}).</li>
+          {% if counter == max_disp %}
+          </ul>
+          <p>[expand]</p>
+          <ul>
+          {% endif %}
         {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
 </ul>
 </div>
-</div>
+
+{% if counter >= max_disp %}
+<p>[/expand]</p>
+{% endif %}
 
 </section>
 
