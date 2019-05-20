@@ -1,6 +1,6 @@
 ---
 permalink: /docs/add_project_page.html
-layout: defaultgray
+layout: default
 title: Adding a project page to the website
 pagetype: doc
 ---
