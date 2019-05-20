@@ -18,7 +18,7 @@ team:
 - The separation between a query language and a complete analysis
 - Can a query be reduced to a single abstract syntax tree or DAG computational graph
 - Can multiple user-interface languages use the same backend?
-- Can the user analysis be written in such a way that the user thinks only about single event quantities?
+- Given that physics is usually to be evaluated in a per event basis, can the user analysis be written in such a way that the user thinks only about single event quantities even though the manipulation is done in a columnar way?
 - Can a common query language be used to run on different data formats (binary experimental format, flat ROOT TTree's, and awkward array columnar analysis)
 
 Repositories connected with this work:
