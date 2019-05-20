@@ -15,6 +15,11 @@
              {% if person.name %}
                {% assign pres_name = person.name %}
              {% endif %}
+
+             {% assign pres_institution = "Unknown" %}
+             {% if person.institution %}
+               {% assign pres_institution = person.institution %}
+             {% endif %}
                 
              {% assign pres_title = "Unknown" %}
              {% if presentation.title %}
@@ -46,7 +51,7 @@
              {% assign pres_focus_area = presentation.focusarea %}
              {% endif %}
 
-             ^{{pres_date}}|{{pres_name}}|{{pres_title}}|{{pres_url}}|{{pres_meeting}}|{{pres_meetingurl}}|{{pres_project}}|{{pres_focus_area}} 
+             ^{{pres_date}}|{{pres_name}}|{{pres_title}}|{{pres_url}}|{{pres_meeting}}|{{pres_meetingurl}}|{{pres_project}}|{{pres_focus_area}}|{{pres_institution}} 
            {% endfor %}
         {% endif %}
       {% endfor %}
