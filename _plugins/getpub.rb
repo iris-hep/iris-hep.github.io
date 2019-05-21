@@ -18,7 +18,7 @@ end
 module Publications
   # This is a Jekyll Generator
   class Generator < Jekyll::Generator
-    # Main entry point for Jeckyll
+    # Main entry point for Jekyll
     def generate(site)
       @net = Net::HTTP.new 'labs.inspirehep.net', 443
       @net.use_ssl = true
@@ -62,11 +62,26 @@ module Publications
       pub['focus-area'] = []
       pub['project'].each do |p|
         pg = @site.pages.detect { |page| page.data['shortname'] == p }
-        msg = "Warning: #{pub['project']} does not exist! Cannot find focus-area."
+        msg = "Project #{pub['project']} missing! Cannot find focus-area."
         raise StandardError, msg unless pg
-        
+
         # Add this area if it does not already exist
-        pub['focus-area'] << pg.data['focus-area'] unless pub['focus-area'].include? pg.data['focus-area']
+        has_focus_area = pub['focus-area'].include? pg.data['focus-area']
+        pub['focus-area'] << pg.data['focus-area'] unless has_focus_area
+      end
+    end
+
+    # Join the first N names, add et. all. if truncated
+    def join_names(names, len: 5)
+      return names[0] if names.length == 1
+
+      mini = names[0...len].map(&:initials)
+      truncated = names.length > mini.length
+
+      if truncated
+        "#{mini.join(', ')} et. al."
+      else
+        "#{mini[0..-2].join(', ')} and #{mini[-1]}"
       end
     end
 
@@ -90,19 +105,18 @@ module Publications
       pub['authors'] ||= authors
 
       # Build the author string
-      # TODO: Does not respect manual author list
-      mini_authors = authors[0...5].map { |a| a['name'].initials }.join ', '
-      mini_authors += ' et. al.' if authors.length > authors[0...5].length
+      mini_authors = join_names(pub['authors'].map { |a| a['name'] }, len: 5)
 
       # Build the citation string (non-author part)
-      if data.key? 'publication_info'
-        j = data['publication_info'][0]
-        journal = "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
-      elsif data.key? 'arxiv_eprints'
-        journal = "arXiv #{data['arxiv_eprints'][0]['value']}"
-      else
-        journal = 'Unknown'
-      end
+      journal =
+        if data.key? 'publication_info'
+          j = data['publication_info'][0]
+          "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
+        elsif data.key? 'arxiv_eprints'
+          "arXiv #{data['arxiv_eprints'][0]['value']}"
+        else
+          'Unknown'
+        end
       pub['citation'] ||= "#{mini_authors}, #{journal}"
     end
 
