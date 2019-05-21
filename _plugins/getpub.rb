@@ -65,10 +65,11 @@ module Publications
         msg = "Project #{pub['project']} missing! Cannot find focus-area."
         raise StandardError, msg unless pg
 
-        # Add this area if it does not already exist
-        has_focus_area = pub['focus-area'].include? pg.data['focus-area']
-        pub['focus-area'] << pg.data['focus-area'] unless has_focus_area
+        pub['focus-area'] << pg.data['focus-area']
       end
+
+      # Don't list the same focus area multiple times
+      pub['focus-area'].uniq!
     end
 
     # Join the first N names, add et. all. if truncated
