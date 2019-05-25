@@ -8,7 +8,7 @@ pagetype: doc
   This page documents the guidelines for reimbursement of participant travel 
 expenses which are being covered by the IRIS-HEP project. Please read
 carefully the entire document, including both the general guidelines and
-any event or workshop specific instructions described at the end of this 
+any event- or workshop-specific instructions described at the end of this 
 page. Additional instructions or limitations for reimbursement may also have 
 been included in any email you received informing you that your travel is
 eligible for reimbursement from the IRIS-HEP project.
@@ -31,11 +31,7 @@ eligible for reimbursement from the IRIS-HEP project.
   * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file. 
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 3 August, 2018) and submitted along with the electronic copy of the receipts described above.
 
-  When planning your travel, please remember to take into account not only
-any relevant flight to the NJ/NYC area, but also train or other travel to 
-arrive at the Princeton campus. Please see the [Travel to Princeton webpage](http://codas-hep.org/pages/travel-princeton.html) for more information.
-
-  If you have any questions or doubts about travel reimbursement please send an email with your travel plan to [codas-hep@googlegroups.com](codas-hep@googlegroups.com) before booking to get confirmation on reimbursement.
+  If you have any questions or doubts about travel reimbursement please send an email with your travel plan to [participant-reimbursement@iris-hep.org](participant-reimbursement@iris-hep.org) before booking to get confirmation on reimbursement.
 
 ### Forms for reimbursement 
 
@@ -70,3 +66,12 @@ Please note the following:
 
 
 ### Notes for specific events and workshops
+
+#### Blueprint Workshop on Analysis Systems R&D on Scalable Platforms
+  * Meeting URL: [https://indico.cern.ch/event/820946/timetable/][https://indico.cern.ch/event/820946/timetable/]
+  * Location: New York University, New York, NY
+  * Meeting Dates: 21-22 June, 2019
+
+#### Software Carpentry Workshops
+
+
