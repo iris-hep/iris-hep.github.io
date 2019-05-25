@@ -57,11 +57,15 @@ Please note the following:
     * If you paid an expense in something other than U.S. Dollars, look up the exchange rate (corresponding to the date of the expense!) on some online service and make a screenshot of the rate (including the date). Include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
   * Make a readable scan or clear photo of all relevant receipts for the expenses to be reimbursed.
-  * Combine the forms and scanned receipt images into a single pdf in the following order:
+  * Combine the forms and scanned receipt images into a **single pdf** in the following order:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
-  * Please name the file YYYYMMDD-yourfirstname-yourlastname.pdf
+  * Please name the file using this convention: 
+    * shorteventname-YYYYMMDD-yourfirstname-yourlastname.pdf
+    * see below for the "shorteventname" to use
+    * replace "YYYYMMDD" with the numeric values for the year, month and day of the month on which you are submitting the reimbursement claim
+    * replace "yourfirstname" and "yourlastname" as appropriate
   * Send the single pdf as an attachment in email to [participant-reimbursement@iris-hep.org](participant-reimbursement@iris-hep.org) with an email subject line including your name and the word "reimbursement".
 
 
@@ -73,5 +77,10 @@ Please note the following:
   * Meeting Dates: 21-22 June, 2019
 
 #### Software Carpentry Workshops
+  * In naming the reimbursement pdf file, use the following the "shorteventname":
+    * August, 2019 event at LBNL: swclbnl2019
+    * June, 2019 event at ANL: swcanl2019
+    * April, 2019 event at FNAL: swcfnal2019
 
+#### Other Training Workshops:
 
