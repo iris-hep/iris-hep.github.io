@@ -18,13 +18,13 @@ presentations:
     meeting: Jefferson Lab Colloquium
     meetingurl: https://www.jlab.org/colloquium-kyle-cranmer-nyu
     location: Jefferson Lab
-  - title: "Inverting simulation: experiences with inverse problems in particle physics"
+  - title: Inverting simulation: experiences with inverse problems in particle physics
     date: 2019-01-25
     url: https://earthscience.rice.edu/mathx2019/
     meeting: MATH + X Symposium on Inverse Problems and Deep Learning in Space Exploration
     meetingurl: https://earthscience.rice.edu/mathx2019/
     location: Rice University
-  - title: "IRIS-HEP Analysis Systems"
+  - title: IRIS-HEP Analysis Systems
     date: 2019-02-06
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271527/attachments/1791896/2919641/AS_overview_for_Steering_Board-2.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
@@ -69,3 +69,25 @@ presentations:
     meetingurl: https://sites.google.com/view/physicsxml/schedule
     location: Flatiron Institute
     focusarea: as, ia
+  - title: The Primacy of Experiment
+    date: 2019-05-29
+    url: https://video.ias.edu/universe/2019/0529-KyleCranmer
+    meeting: The Universe Speaks in Numbers
+    meetingurl: https://www.ias.edu/events/universe-speaks
+    location: Intitute for Advanced Study 
+    focusarea: as, ia
+  - title: Advances in Deep Learning motivated by Physics Problems
+    date: 2019-06-14
+    url:  https://sites.google.com/view/icml2019phys4dl
+    meeting: Theoretical Physics for Deep Learning
+    meetingurl:  https://sites.google.com/view/icml2019phys4dl
+    location: Long Beach, CA
+    focusarea: as, ia
+  - title: The Interplay of Data Science and Particle Physics
+    date: 2019-10-05
+    url: http://dsaa2019.dsaa.co
+    meeting: The 6th IEEE International Conference on Data Science and Advanced Analytics
+    meetingurl: http://dsaa2019.dsaa.co
+    location: Washington, DC
+    focusarea: as, ia
+
