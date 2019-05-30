@@ -42,12 +42,12 @@ presentations:
     meeting: UC Riverside Physics Colloquium
     meetingurl: https://physics.ucr.edu/previous-colloquium-and-videos
     location: UC-Riverside
-  - title: Deep Learning in Science
+  - title: Experiences with deep learning in particle physics
     date: 2019-03-13
-    url: http://www.nasonline.org/programs/sackler-colloquia/upcoming-colloquia/
-    meeting: National Academy of Science, Sackler Colloquia 
-    meetingurl: http://www.cvent.com/events/the-science-of-deep-learning/agenda-a96a8734ffa841ea8d5439e081b50f54.aspx?i=1937316e-9f98-4398-b6a2-d84b0a49311c
-    location: Washington DC
+    url: https://youtu.be/SrILXzFbr0M
+    meeting: Sackler Colloquia on Deep Learning and Science
+    meetingurl: http://www.nasonline.org/programs/nas-colloquia/completed_colloquia/science-of-deep-learning.html
+    location: National Academy of Science, Washington DC
   - title: Overview of Likelihood-Free Inference for Physics
     date: 2019-03-18
     url: https://lfitaskforce.github.io/FlatironMeeting/
