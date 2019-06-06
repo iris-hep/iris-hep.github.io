@@ -24,7 +24,7 @@ presentations:
     meeting: MATH + X Symposium on Inverse Problems and Deep Learning in Space Exploration
     meetingurl: https://earthscience.rice.edu/mathx2019/
     location: Rice University
-  - title: "IRIS-HEP Analysis Systems"
+  - title: IRIS-HEP Analysis Systems
     date: 2019-02-06
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271527/attachments/1791896/2919641/AS_overview_for_Steering_Board-2.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
@@ -42,12 +42,12 @@ presentations:
     meeting: UC Riverside Physics Colloquium
     meetingurl: https://physics.ucr.edu/previous-colloquium-and-videos
     location: UC-Riverside
-  - title: Deep Learning in Science
+  - title: Experiences with deep learning in particle physics
     date: 2019-03-13
-    url: http://www.nasonline.org/programs/sackler-colloquia/upcoming-colloquia/
-    meeting: National Academy of Science, Sackler Colloquia 
-    meetingurl: http://www.cvent.com/events/the-science-of-deep-learning/agenda-a96a8734ffa841ea8d5439e081b50f54.aspx?i=1937316e-9f98-4398-b6a2-d84b0a49311c
-    location: Washington DC
+    url: https://youtu.be/SrILXzFbr0M
+    meeting: Sackler Colloquia on Deep Learning and Science
+    meetingurl: http://www.nasonline.org/programs/nas-colloquia/completed_colloquia/science-of-deep-learning.html
+    location: National Academy of Science, Washington DC
   - title: Overview of Likelihood-Free Inference for Physics
     date: 2019-03-18
     url: https://lfitaskforce.github.io/FlatironMeeting/
@@ -69,3 +69,25 @@ presentations:
     meetingurl: https://sites.google.com/view/physicsxml/schedule
     location: Flatiron Institute
     focusarea: as, ia
+  - title: The Primacy of Experiment
+    date: 2019-05-29
+    url: https://video.ias.edu/universe/2019/0529-KyleCranmer
+    meeting: The Universe Speaks in Numbers
+    meetingurl: https://www.ias.edu/events/universe-speaks
+    location: Intitute for Advanced Study 
+    focusarea: as, ia
+  - title: Advances in Deep Learning motivated by Physics Problems
+    date: 2019-06-14
+    url:  https://sites.google.com/view/icml2019phys4dl
+    meeting: Theoretical Physics for Deep Learning
+    meetingurl:  https://sites.google.com/view/icml2019phys4dl
+    location: Long Beach, CA
+    focusarea: as, ia
+  - title: The Interplay of Data Science and Particle Physics
+    date: 2019-10-05
+    url: http://dsaa2019.dsaa.co
+    meeting: The 6th IEEE International Conference on Data Science and Advanced Analytics
+    meetingurl: http://dsaa2019.dsaa.co
+    location: Washington, DC
+    focusarea: as, ia
+

@@ -25,6 +25,9 @@ title: Available Positions
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
+### Lawrence Berkeley Lab
+  * [Postdoc in Pattern Recognition on Quantum Computers](https://academicjobsonline.org/ajo/jobs/13801)
+
 ### Jefferson Lab
 
   * [Scientific Computing Staff Scientist I](https://careers.peopleclick.com/careerscp/client_jeffersonlab/external/jobDetails.do?functionName=getJobDetail&jobPostId=1264&localeCode=en-us)
