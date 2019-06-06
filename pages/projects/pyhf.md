@@ -4,7 +4,7 @@ layout: project
 title: pyhf
 shortname: pyhf
 pagetype: project
-image: logos/pyhf-logo.png
+image: logos/pyhf-logo-square.png
 blurb: Differentiable likelihoods
 focus-area: as
 team:

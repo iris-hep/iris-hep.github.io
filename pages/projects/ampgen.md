@@ -4,7 +4,7 @@ layout: project
 title: AmpGen
 shortname: ampgen
 pagetype: project
-image: logos/ampgen-logo.png
+image: logos/ampgen-logo-square.png
 blurb: Generation and fitting for multibody hadron decays
 focus-area: as
 team:
