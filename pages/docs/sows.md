@@ -27,7 +27,7 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
 ## Preparation of budget and budget justifications 
 
-  As part of the annual SOW process, each institution should produce a *one year* budget and budget justification. This should be described in a single 
+  As part of the annual SOW process, each institution should produce a **one year** budget and budget justification. This should be described in a single 
 document, which will be submitted as a pdf. This will likely differ from that 
 submitted with the original IRIS-HEP proposal for the following reasons: 
 
@@ -36,11 +36,14 @@ submitted with the original IRIS-HEP proposal for the following reasons:
   * evolution due to available funds, project goals, updates to tasks & 
     deliverables by and successful delivery in previous years
 
-The justification should contain the information normally expected from 
-[an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to 
+Please prepare both a standard budget sheet as in an NSF proposal (i.e. the "form 1030", your grant admin may need to make a temporary proposal in 
+Fastlane/Research.gov to do this) covering the 1 year budget.
+
+In addition you should write a budget justification which contains the 
+information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to 
 funds required for a _single_ year and the defined time period, which should 
-be noted explicitly in the justification. For example, "IRIS-HEP Year 1: 
-1 September, 2018 - 31 August, 2019" or similar should appear near the top 
+be noted explicitly in the justification. For example, "IRIS-HEP Year 2: 
+1 September, 2019 - 31 August, 2020" or similar should appear near the top 
 of the document.
 
   In addition to the standard budget justification information, additional
