@@ -23,7 +23,19 @@ project is from 1 September, 2018 through 31 August, 2019.
 
 Some iteration between steps 1 and 2 will likely be required based on available funds, the discussions described above, as well as interactions with the project Steering Board and Advisory Board.
 
-  This combined multi-step process is what is meant by the "annual SOW process".
+  This combined multi-step process is what is meant by the "annual budget and SOW process".
+
+### Dates for IRIS-HEP annual budget and SOW process for Y2 (2019 - 2020)
+
+---
+
+| Date |||| Goal |
+| ---- |||| ---- |
+| Monday, 17 June, 2019 |||| Draft Y2 budgets and justifations sent to Maureen, Floe and Peter |
+| Monday, 1 July, 2019 |||| Final budgets ready for Y2 SOWs |
+| Thursday, 1 August, 2019 |||| Y2 subaward updates done |
+
+---
 
 ## Preparation of budget and budget justifications 
 
@@ -36,8 +48,8 @@ submitted with the original IRIS-HEP proposal for the following reasons:
   * evolution due to available funds, project goals, updates to tasks & 
     deliverables by and successful delivery in previous years
 
-Please prepare both a standard budget sheet as in an NSF proposal (i.e. the "form 1030", your grant admin may need to make a temporary proposal in 
-Fastlane/Research.gov to do this) covering the 1 year budget.
+Please prepare a standard budget sheet as in an NSF proposal (i.e. the "Form 1030", your grant admin may need to make a temporary proposal in Fastlane/Research.gov to do this) covering the 1 year budget. Submitting a 1-year Form 1030 
+budget is required.
 
 In addition you should write a budget justification which contains the 
 information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to 
@@ -81,7 +93,6 @@ General Notes:
   * Grad student tuition of $1234 is included, no indirect cost is charged
 
 ---
-
 
   Some notes on this:
 
