@@ -71,16 +71,17 @@ Please note the following:
 
 ### Notes for specific events and workshops
 
-#### Blueprint Workshop on Analysis Systems R&D on Scalable Platforms
-  * Meeting URL: [https://indico.cern.ch/event/820946/timetable/][https://indico.cern.ch/event/820946/timetable/]
+#### [Blueprint Workshop on Analysis Systems R&D on Scalable Platforms](https://indico.cern.ch/event/820946/timetable/)
   * Location: New York University, New York, NY
   * Meeting Dates: 21-22 June, 2019
+  * Business purpose: Participation in Blueprint Workshop on Analysis Systems R&D on Scalable Platforms
+  * "event-prefix" for pdf file naming: ASNYU
 
 #### Software Carpentry Workshops
-  * In naming the reimbursement pdf file, use the following the "shorteventname":
-    * August, 2019 event at LBNL: swclbnl2019
-    * June, 2019 event at ANL: swcanl2019
-    * April, 2019 event at FNAL: swcfnal2019
+  * "event-prefix" for pdf file naming: ASNYU
+    * August, 2019 event at LBNL: LBNL2019
+    * June, 2019 event at ANL: ANL2019
+    * April, 2019 event at FNAL: FNAL2019
 
 #### Other Training Workshops:
 
