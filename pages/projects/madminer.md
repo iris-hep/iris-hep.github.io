@@ -21,7 +21,7 @@ team:
 Particle physics processes are usually modelled with complex Monte-Carlo simulations of the hard process, parton shower,
 and detector interactions. These simulators typically do not admit a tractable likelihood function: given a (potentially
 high-dimensional) set of observables, it is usually not possible to calculate the probability of these observables
-for some model parameters. Particle physicisists usually tackle this problem of "likelihood-free inference" by
+for some model parameters. Particle physicists usually tackle this problem of "likelihood-free inference" by
 hand-picking a few "good" observables or summary statistics and filling histograms of them. But this conventional
 approach discards the information in all other observables and often does not scale well to high-dimensional problems.
 
