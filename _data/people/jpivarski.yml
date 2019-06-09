@@ -58,4 +58,23 @@ presentations:
     meeting: "LPC Physics Forum"
     meetingurl: https://indico.cern.ch/event/806811/
     focusarea: as
- 
+  - title: "Pattern matching for decay trees"
+    date: 2019-05-22
+    meeting: "IRIS-HEP Topical Meetings"
+    meetingurl: https://indico.cern.ch/event/820598/
+    focusarea: as
+  - title: "Scientific Python and Uproot HATS"
+    date: 2019-05-28
+    meeting: "LPC HATS: Hands-on Training for CMS"
+    meetingurl: https://indico.cern.ch/event/814895/
+    focusarea: as
+  - title: "Columnar Analysis Tools HATS"
+    date: 2019-05-29
+    meeting: "LPC HATS: Hands-on Training for CMS"
+    meetingurl: https://indico.cern.ch/event/814100/
+    focusarea: as
+  - title: "Numpy, Pandas, PyROOT, and Uproot"
+    date: 2019-06-10
+    meeting: "U.S. ATLAS Software Training at Argonne National Lab"
+    meetingurl: https://indico.cern.ch/event/811577/
+    focusarea: as
