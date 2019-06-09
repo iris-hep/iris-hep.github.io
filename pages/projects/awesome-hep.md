@@ -9,6 +9,7 @@ blurb: A curated list of awesome high energy and particle physics software
 focus-area: as
 team:
  - cranmer
+ - jpivarski
 ---
 
 
