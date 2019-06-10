@@ -1,18 +1,34 @@
 name: Johann Brehmer
 shortname: johannbrehmer
-title: 
+title:
 active: green
 institution: New York University
 website: https://johannbrehmer.github.io
 photo: /assets/images/team/Johann-Brehmer.jpg
 presentations:
+  - title: "Constraining effective field theories with machine learning"
+    date: 2019-06-06
+    url: 
+    meeting: INFN Padova seminar
+    meetingurl:
+    location: Padova, Italy
+    focusarea: as
+    project: madminer
+  - title: "Constraining effective field theories with machine learning"
+    date: 2019-04-18
+    url: https://agenda.irmp.ucl.ac.be/event/3283/contributions/3930/
+    meeting: Higgs and Effective Field Theory 2019
+    meetingurl: https://agenda.irmp.ucl.ac.be/event/3283/
+    location: Louvain-la-Neuve, Belgium
+    focusarea: as
+    project: madminer
   - title: "'Mining gold' from simulators to improve likelihood-free inference"
     date: 2019-03-18
     url: https://lfitaskforce.github.io/FlatironMeeting/
     meeting: Likelihood-free inference workshop
     meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
     location: New York, USA
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: "Keynote: Constraining effective field theories with machine learning"
     date: 2019-03-14
@@ -20,7 +36,7 @@ presentations:
     meeting: International Workshop on Advanced Computing and Analysis Techniques in Physics Research
     meetingurl: https://indico.cern.ch/event/708041/
     location: Saas-Fee, Switzerland
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: "Bringing together simulations, physics insight, and machine learning to constrain new physics"
     date: 2019-02-28
@@ -28,7 +44,7 @@ presentations:
     meeting: Dark universe seminar
     meetingurl: https://www.brandeis.edu/departments/physics/events/darkuniverse.html
     location: Brandeis University, Boston, USA
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: "Meticulous measurements with matrix elements and machine learning"
     date: 2019-01-14
@@ -36,7 +52,7 @@ presentations:
     meeting: ITS/CHEP joint seminar
     meetingurl: https://pages.uoregon.edu/its/seminars/
     location: U Oregon, Eugene, USA
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: Improving inference with matrix elements and machine learning
     date: 2019-01-11
@@ -44,7 +60,7 @@ presentations:
     meeting: HK IAS Program on High Energy Physics
     meetingurl: http://iasprogram.ust.hk/hep/2019/
     location: Hong Kong
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: Learning to constrain new physics
     date: 2018-09-20
@@ -52,7 +68,7 @@ presentations:
     meeting: IPPP seminar
     meetingurl: https://phy.princeton.edu/events
     location: Durham, UK
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: Learning to constrain new physics
     date: 2018-09-13
@@ -60,7 +76,7 @@ presentations:
     meeting: Pheno & Vino Seminar
     meetingurl: https://phy.princeton.edu/events/pheno-vino-seminar-johann-brehmer-nyu-learning-constrain-new-physics-jadwin-111
     location: Princeton University, USA
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: Learning to constrain new physics
     date: 2018-08-27
@@ -68,7 +84,7 @@ presentations:
     meeting: Elementary particle seminar
     meetingurl: http://www.physics.umd.edu/ep/seminars/
     location: University of Maryland, USA
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: Machine Learning to Probe a BSM Higgs Sector
     date: 2018-07-23
@@ -76,7 +92,7 @@ presentations:
     meeting: Higgs Hunting
     meetingurl: http://wpsist.lal.in2p3.fr/higgshunting2018/
     location: Paris, France
-    focusarea: as 
+    focusarea: as
     project: madminer
   - title: Constraining Effective Theories with Machine Learning
     date: 2018-06-27
@@ -84,5 +100,5 @@ presentations:
     meeting: Theory seminar
     meetingurl: https://www.bnl.gov/physics/HET/events/
     location: Brookhaven National Lab, USA
-    focusarea: as 
+    focusarea: as
     project: madminer
