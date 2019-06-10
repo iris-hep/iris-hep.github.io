@@ -6,10 +6,35 @@ institution: University of California, Berkeley
 website: https://atlas.cern/authors/heather-gray
 photo: /assets/images/team/Heather-Gray.png
 presentations:
+  - title: "Machine learning in high-energy particle physics experiments, from simulation, through reconstruction to physics analysis"
+    date: 2019-05-29
+    meeting: Physics in Machine Learning Workshop
+    meetingurl: https://www.ml4science.org/agenda-physics-in-ml
+    focusarea: ia
   - title: "IRIS-HEP Innovative Algorithms"
     date: 2019-02-06
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271529/attachments/1791453/2919650/Innovative_Algorithms_3.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/
+    focusarea: ia
+    project: acts
+  - title: "Selected recent ideas in computing and their impact on high-energy physics"
+    date: 2019-02-17
+    url: http://www.icepp.s.u-tokyo.ac.jp/symposium/25/download/sympo25-special_gray.pdf
+    meeting: 25th ICEPP Symposium
+    meetingurl: http://www.icepp.s.u-tokyo.ac.jp/symposium/25/timetable.html
+    focusarea: ia
+  - title: "Ambiguity Resolution Studies with ACTS"
+    date: 2019-01-13
+    url: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/attachments/1761/2138/go
+    meeting: Berkeley Tracking Workshop
+    meetingurl: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/
+    focusarea: ia
+    project: acts
+  - title: "Workshop introduction"
+    date: 2019-01-13
+    url: https://indico.physics.lbl.gov/indico/event/712/contributions/3017/attachments/1753/2124/TrackingWorkshopIntro.pdf
+    meeting: Berkeley Tracking Workshop
+    meetingurl: https://indico.physics.lbl.gov/indico/event/712/timetable/#20190114
     focusarea: ia
     project: acts
