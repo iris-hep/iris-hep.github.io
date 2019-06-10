@@ -27,3 +27,10 @@ presentations:
     meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC-Meetings-2019
     location: Videoconference
     focusarea: doma
+  - title: "LHCOPN/LHCONE perfSONAR Update"
+    date: 2019-06-04
+    url: https://indico.cern.ch/event/772031/contributions/3360614/attachments/1855592/3047650/LHCOPN_LHCONE_perfSONAR_Update_2019spring.pdf
+    meeting: LHCONE/LHCOPN Meeting
+    meetingurl: https://indico.cern.ch/event/772031/9
+    location: Umea, Sweden
+    focusarea: osglhc
