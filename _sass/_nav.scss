@@ -17,6 +17,7 @@
 
   @include hover-focus {
     text-decoration: none;
+    // background-color: $white; // color link background on hover
   }
 
   // Disabled state lightens text

@@ -9,31 +9,42 @@ title: Available Positions
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
 ### Princeton University
+  * [Associate Project Manager](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=11761) 
 
-  * [Associate Professional Specialists(s)/Professional Specialist(s): Computational Physicist and/or Research Software Engineer](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=9681)
+### University of Texas, Austin
 
-### New York University
+  * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
 
-   * [Application Developer](https://apply.interfolio.com/59839) in Analysis Systems, with an emphasis on web and cloud technologies, reproducibility, and open science. Deadline **15 Feb, 2019** -- please contact kyle.cranmer@nyu.edu for more information.
+### Stanford University
 
-### National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign (UIUC)
+  * [Postdoctoral Fellow in Experimental High Energy Physics](https://academicjobsonline.org/ajo/jobs/13618) - deadline 1 June, 2019
 
-  * [Postdoctoral Position in Experimental High Energy Physics](/assets/pdf/20181025_Illinois_postdoc_ad.pdf) - deadline for full consideration: **30 Nov, 2018**
 
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
-### Princeton University
+### Lawrence Berkeley Lab
+  * [Postdoc in Pattern Recognition on Quantum Computers](https://academicjobsonline.org/ajo/jobs/13801)
 
-  * [Research Software Engineer](https://main-princeton.icims.com/jobs/9275/research-software-engineer/job) to work with Department of Molecular Biology
+### Jefferson Lab
+
+  * [Scientific Computing Staff Scientist I](https://careers.peopleclick.com/careerscp/client_jeffersonlab/external/jobDetails.do?functionName=getJobDetail&jobPostId=1264&localeCode=en-us)
+
+### Princeton University
 
   * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
 
-### AWS
+  * [Data Scientists for the Princeton Catalysis Initiative](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10662)
 
-  * [Principal Research Scientist for AWS Research](https://www.amazon.jobs/en/jobs/792926/principal-research-scientist-for-aws-research).
+  * [Data Scientists in Biomedical Data Science](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10661)
+
+  * [Data Scientists in the Center for Information Technology Policy (CITP)](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10641)
+
+### Notre Dame
+
+  * [Professional Research Programmer (Scientific Workflows)](https://jobs.nd.edu/postings/15810) - contact Kevin Lannon (klannon@nd.edu) for more infromation
 
 ### Argonne National Lab
 

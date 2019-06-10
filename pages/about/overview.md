@@ -4,6 +4,8 @@ layout: default
 title: Overview
 ---
 
+<h1>Overview</h1>
+
 The quest to understand the fundamental building blocks of nature
 and their interactions is one of the oldest and most ambitious of
 human scientific endeavors. Facilities such as CERN's Large Hadron
@@ -48,7 +50,7 @@ As an intellectual hub, IRIS-HEP will lead efforts to:
 
 IRIS-HEP will also sustain investments in distributed high-throughput
 computing (DHTC) for the LHC through the [Open Science Grid](https://opensciencegrid.org) and build an 
-integration path ([the Scalable Systems Laboratory](/)) to deliver its R&D activities into the distributed and scientific production infrastructures.
+integration path ([the Scalable Systems Laboratory](/)) to deliver the output of its R&D activities into the distributed and scientific production infrastructures.
 
 HEP is a global, complex, scientific endeavor.
 These activities will help ensure that the software developed and
@@ -80,4 +82,15 @@ by the NSF-funded [S2I2-HEP Institute Conceptualization Project](http://s2i2-hep
 scientists and engineers from around the world were involved in building this community vision. -->
 This project advances the objectives of the [National Strategic Computing Initiative (NSCI)](https://www.nsf.gov/cise/nsci/) and the objectives of ["Harnessing the Data Revolution"](https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp), one of the [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/) for Future NSF Investments. 
 
+Several technical projects served as precursors to IRIS-HEP; these all had
+independent programs of work but their outputs, particularly those important
+to bringing the HL-LHC to fruition, feed into the design of IRIS-HEP.  These
+include:
+
+- [DIANA/HEP](http://diana-hep.org/)
+- [Parallel Kalman Filter Tracking](http://trackreco.github.io/)
+- [DASPOS](http://daspos.org/)
+- [CoDaS-HEP](http://codas-hep.org/)
+- [Open Science Grid](https://opensciencegrid.org/)
+- The [US ATLAS](https://po.usatlas.bnl.gov/programoffice/op.php) and [US CMS](https://uscms.org/uscms_at_work/rpo/index.shtml) operations programs.
 
