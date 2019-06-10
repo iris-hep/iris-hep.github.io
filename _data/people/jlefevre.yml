@@ -6,6 +6,12 @@ institution: University of California, Santa Cruz
 website: https://users.soe.ucsc.edu/~jlefevre/
 photo: /assets/images/team/Jeff-LeFevre.jpg
 presentations:
+ - title: "Skyhook: Programmable Object Storage for Analysis"
+    date: 2019-04-24
+    url: https://indico.cern.ch/event/813447/contributions/3392127/attachments/1834797/3005672/skyhook-iris-hep-topical-meeting-20190424.pdf
+    meeting: "IRIS-HEP Topical Meetings"
+    meetingurl: https://indico.cern.ch/event/813447/
+    focusarea: doma
   - title: "Skyhook: programmable storage for databases"
     date: 2019-02-26
     url: https://users.soe.ucsc.edu/~jlefevre/skyhookdb/Skyhook-JeffNoah-Vault19.pdf
@@ -18,3 +24,4 @@ presentations:
     meeting: DOMA Workshop 2017 (Flatiron Institute)
     meetingurl: https://indico.cern.ch/event/669506/
     focusarea: doma
+
