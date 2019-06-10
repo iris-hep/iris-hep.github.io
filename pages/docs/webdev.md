@@ -1,22 +1,35 @@
 ---
 permalink: /docs/webdev.html
 layout: default
-title: Information for developing the website
+title: Developing the IRIS-HEP website
+pagetype: doc
 ---
 
-### SRI hashes
+### Running locally
 
-  As described [here](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity), one can generate the hash with:
+The site is built with Jekyll, and is easy to run locally if you have Ruby.
+Visit [this page](https://jekyllrb.com/docs/installation/) for information about installing Ruby if your current version is too old.
 
-  * shasum -b -a 384 thefile.css  \| xxd -r -p \| base64
+To set up a "bundle" (local virtual environment in Python terms):
 
-The output from this command should be used as the integrity parameters,
-with "sha384-" as a prefix.
+```bash
+bundle install
+```
 
-### Information on bootstrap
+Now, you can use `bundle exec` to run a command in the new environment you just created, such as:
 
-  * [Website](https://getbootstrap.com/)
+```bash
+bundle exec jekyll serve
+```
 
-### For everything else
 
-  * Note that github pages will give you a "Page Build Error", with no useful information, if you push changes which have dead or broken URL links. This appears to be a github-pages-specific error, and will not appear when just running jekyll locally.
+### Updating javascript files
+
+If you add or change a javascript file, you need to edit the page `/includes/head.html` and add the new hash in the identity part of the script include. You can generate the hash for a file, like `assets/js/myfile.js`,  using:
+
+```bash
+cat assets/js/myfile.js | openssl dgst -sha384 -binary | openssl base64 -A
+```
+
+Run the site locally and verify no warnings appear in your terminal. Also turn on your browser's debugger and make sure no warnings are emitted.
+

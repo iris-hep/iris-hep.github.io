@@ -3,6 +3,27 @@ shortname: msneubauer
 title: Blueprint Coordinator
 active: green
 institution: University of Illinois at Urbana-Champaign
-website: https://physics.illinois.edu/people/directory/profile/msn
+website: http://msneubauer.github.io
 photo: /assets/images/team/Mark-Neubauer.png
 presentations:
+  - title: Design Roadmap for Future Collaborations
+    date: 2018-10-19
+    url: http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST/agenda.html
+    meeting: Deep Learning for Multimessenger Astrophysics Real-time Discovery at Scale
+    meetingurl: http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST
+    location: NCSA
+    focusarea: as, ia
+  - title: Scalable Cyberinfrastructure for Artificial Intelligence and Likelihood-Free Inference
+    date: 2019-04-05
+    url: http://www.largefacilitiesworkshop.com/agenda-3/
+    meeting: NSF Large Facilities Workshop
+    meetingurl: https://www.largefacilitiesworkshop.com/19workshop/
+    location: TACC
+    focusarea: as, ia
+  - title: Deep Learning for Higgs Boson Identification and Searches for New Physics at the Large Hadron Collider
+    date: 2019-06-04
+    url: http://bluewaterssymposium2019.sched.com/event/NRlw/physics-mark-neubauer-university-of-illinois-at-urbana-champaign-deep-learning-for-higgs-boson-identification-and-searches-for-new-physics-at-the-large-hadron-collider
+    meeting: Blue Waters Symposium for Petascale Science and Beyond
+    meetingurl: http://bluewaters.ncsa.illinois.edu/blue-waters-symposium-2019
+    location: Sunriver, OR
+    focusarea: as, ia

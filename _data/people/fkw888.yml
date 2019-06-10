@@ -6,8 +6,44 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: "Advancing Open Science through distributed High Throughput Computing"
+    date: 2019-04-12
+    url: https://drive.google.com/file/d/1M8w5ndUURkrsDDomhPFpGco4e0efHCVq/view?usp=sharing
+    meeting: "CI Engineering Brown Bag"
+    location: webinar
+  - title: "Data Access at HPC: ATLAS/CMS Perspective"
+    date: 2019-03-20
+    url: https://indico.cern.ch/event/759388/contributions/3312490/
+    meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focusarea: doma
+  - title: "Data Access in DOMA"
+    date: 2019-03-20
+    url: https://indico.cern.ch/event/759388/contributions/3312487/
+    meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focusarea: doma
+    project: caching
+  - title: "State of OSG"
+    date: 2019-03-19
+    url: https://indico.cern.ch/event/759388/contributions/3353296/
+    meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focusarea: osglhc
+  - title: "The OSG Data Federation"
+    date: 2019-03-07
+    url: https://meetings.internet2.edu/2019-global-summit/speakers/6556/
+    meeting: "Internet2 Global Summit 2019"
+    meetingurl: https://meetings.internet2.edu/2019-global-summit/detail/10005368/
+    location: Washington, DC
+    focusarea: osglhc
+    project: caching
   - title: "OSG-LHC"
-    date: 06 Feb 2019
-    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532/attachments/1791923/2919651/irishep-steeringBoard2-6-19.pdf
+    date: 2019-02-06
+    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532
     meeting: IRIS-HEP Steering Board Meeting #1
+    focusarea: osglhc
     meetingurl: https://indico.cern.ch/event/790759/
