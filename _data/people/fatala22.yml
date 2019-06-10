@@ -6,7 +6,7 @@ institution: University of Puerto Rico at Mayaguez
 website: http://charma.uprm.edu/~malik/
 photo: /assets/images/team/Sudhir-Malik.png
 presentations:
-- title: "Training and Outreach"
+  - title: "Training and Outreach"
     date: 2019-03-21
     url: https://indico.cern.ch/event/755573/contributions/3175492/attachments/1745033/2827577/TEO_IRIS_HEP_KickOff_31Oct2018.pdf
     meeting: IRIS-HEP Kickoff Workshop
