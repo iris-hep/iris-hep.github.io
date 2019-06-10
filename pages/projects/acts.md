@@ -11,6 +11,7 @@ team:
  - heather-gray
  - xiaocong-ai
  - latompkins
+ - nickcinko
 ---
 
 <img src="/assets/logos/ACTSlogo.gif" width="20%" align="right"/>
