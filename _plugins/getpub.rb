@@ -26,7 +26,7 @@ module Publications
       @site = site
 
       @site.data['publications'].each do |name, pub|
-        prepare pub
+        prepare(pub, name)
 
         # Add caching to reduce requests to INSPIRE
         caching(name, pub) do |p|
@@ -40,9 +40,9 @@ module Publications
     private
 
     # Setup a publication - adds/fixes focus-area and project
-    def prepare(pub)
+    def prepare(pub, name)
       force_array pub, 'project' if pub.key? 'project'
-      prepare_focus_area pub unless pub.key? 'focus-area'
+      prepare_focus_area(pub, name) unless pub.key? 'focus-area'
 
       msg = 'You must have a project or focus-area in every publication'
       raise StandardError, msg unless pub.key? 'focus-area'
@@ -58,11 +58,11 @@ module Publications
     end
 
     # Add focus areas based on projects
-    def prepare_focus_area(pub)
+    def prepare_focus_area(pub, name)
       pub['focus-area'] = []
       pub['project'].each do |p|
         pg = @site.pages.detect { |page| page.data['shortname'] == p }
-        msg = "Project #{pub['project']} missing! Cannot find focus-area."
+        msg = "Project #{pub['project']} missing! Cannot find focus-area for #{name}."
         raise StandardError, msg unless pg
 
         pub['focus-area'] << pg.data['focus-area']
