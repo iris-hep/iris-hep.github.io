@@ -1,0 +1,15 @@
+name: Diego Davila
+shortname: ddavila0
+title: Scientific Software Developer and Researcher
+active: green
+institution: University of California, San Diego
+website: 
+photo: /assets/images/team/Diego-Davila.jpg
+presentations:
+- title: Current production use of caching for CMS in Southern California
+  date: 2019-06-04
+  url: https://indico.cern.ch/event/769508/contributions/3197792/attachments/1856188/3048855/proposal_data_share_wlcg.pdf
+  meeting: DOMA / ACCESS Meeting
+  meetingurl: https://indico.cern.ch/event/769508/
+  location: CERN
+  focusarea: doma
