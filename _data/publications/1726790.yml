@@ -1,2 +1,4 @@
 inspire-id: 1726790
-focus-area: ia, as
+focus-area:
+  - ia
+  - as
