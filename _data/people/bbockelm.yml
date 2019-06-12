@@ -26,3 +26,9 @@ presentations:
     meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
     meetingurl: https://indico.cern.ch/event/759388
     focusarea: osglhc
+  - title: "WLCG DOMA TPC Working Group"
+    date: 2019-05-28
+    meeting: US CMS Tier-2 Facilities May 2019 Meeting
+    url: https://indico.cern.ch/event/823168/contributions/3442076/attachments/1852590/3041829/WLCG-DOMA-USCMS-T2.pdf
+    focusarea: doma
+    project: tpc
