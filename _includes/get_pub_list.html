@@ -28,7 +28,7 @@
 
     {% assign fa_name = "Unknown" %}
     {% if pub.focus-area %}
-      {% assign fa_name = pub.focus-area %}
+      {% assign fa_name = pub.focus-area | join ' ' %}
     {% endif %}
 
     ^{{pub_date }}|{{ pub_title }}|{{ pub_citation }}|{{ pub_link}}|{{project_name}}|{{fa_name}}
