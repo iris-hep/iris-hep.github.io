@@ -28,9 +28,6 @@ the conference itself as these sometimes change.**
   * 29 Oct-1 Nov 2018 - ["IEEE eScience Conference 2018"](https://www.escience2018.com), Amsterdam, The Netherlands
   * 9-13 Jul 2018 - ["23rd International Conference on Computing in High Energy and Nuclar Physics (CHEP 2018)"](http://chep2018.org), Sofia, Bulgaria
 
-## Upcoming Workshops
-
-  * 14-18 Jan 2019 -- ["Berkeley Tracking/ACTS Workshop"](https://indico.physics.lbl.gov/indico/event/712/), Berkeley, California
 
 
 
