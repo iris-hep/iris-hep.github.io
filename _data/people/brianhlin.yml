@@ -6,6 +6,12 @@ institution: University of Wisconsin–Madison
 website: 
 photo: /assets/images/team/Brian-Lin.jpg
 presentations:
+  - title: "XCache Packaging"
+    date: 2019-06-11
+    url: https://indico.cern.ch/event/727208/contributions/3444631/
+    meetingurl: https://indico.cern.ch/event/727208
+    location: CC-IN2P3
+    focusarea: osglhc
   - title: "OSG Software: The Year in Review"
     date: 2019-03-19
     url: https://indico.cern.ch/event/759388/contributions/3353297/
