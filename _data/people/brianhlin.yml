@@ -9,6 +9,7 @@ presentations:
   - title: "XCache Packaging"
     date: 2019-06-11
     url: https://indico.cern.ch/event/727208/contributions/3444631/
+    meeting: XRootD Workshop
     meetingurl: https://indico.cern.ch/event/727208
     location: CC-IN2P3
     focusarea: osglhc
