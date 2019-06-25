@@ -7,7 +7,11 @@ module Checks
       @data = data
     end
 
-    def key(key, optional: false, nonempty: false)
+    def key(key, *args)
+      optional = nil != args.delete(:optional)
+      nonempty = nil != args.delete(:nonempty)
+      raise ArgumentError, 'Extra arguments passed to key' unless args.empty?
+
       keyword = optional ? 'should' : 'must'
       msg =  "#{@name}.yml #{keyword} contain #{key}"
       send_msg(optional, msg) unless @data.key? key
@@ -38,11 +42,11 @@ module Checks
       @site.data['people'].each do |name, person_hash|
         person = PersonRecord.new(name, person_hash)
 
-        person.key 'name', nonempty: true 
-        person.key 'shortname', nonempty: true
+        person.key 'name', :nonempty
+        person.key 'shortname', :nonempty
         person.key 'title'
-        person.key 'institution', nonempty: true
-        person.key 'photo', optional: true
+        person.key 'institution', :nonempty
+        person.key 'photo', :optional
       end
     end
   end
