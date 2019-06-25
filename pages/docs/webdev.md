@@ -5,6 +5,34 @@ title: Developing the IRIS-HEP website
 pagetype: doc
 ---
 
+### Installing Ruby
+
+You should have Ruby 2.4+ for Jekyll. Since the latest macOS comes with 2.3 (and Apple is dropping scripting language from macOS in the future), you'll want a newer version even on a mac. You can use rbenv to manage multiple ruby versions. On macOS with homebrew, you'll want:
+
+```bash
+brew install rbenv
+```
+
+
+You'll need to run `rbenv init` and follow the instructions for your current shell. After you've installed rbenv on your system, use:
+
+```bash
+rbenv install 2.6.3
+```
+
+to get a current version of ruby. Then, inside the main iris-hep website directory, run:
+
+```bash
+rbenv local 2.6.3
+```
+
+This will run the Ruby you just built whenever you enter this directory. You'll want to install bundler too:
+
+```bash
+gem bundle
+```
+
+
 ### Running locally
 
 The site is built with Jekyll, and is easy to run locally if you have Ruby.
