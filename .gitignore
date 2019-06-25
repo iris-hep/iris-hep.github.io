@@ -8,3 +8,4 @@ assets/.DS_Store
 .bundle/
 vendor/
 _cache/
+.ruby-version

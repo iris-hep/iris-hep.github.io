@@ -98,6 +98,8 @@ module Publications
       pub['title'] ||= data.dig('titles', 0, 'title')
       pub['link'] ||= "http://inspirehep.net/record/#{recid}"
       pub['date'] ||= data['preprint_date']
+
+      # This *only* sets data if the previous line is nil
       pub['date'] ||= data.dig('imprints', 0, 'date')
 
       # Make the author list, for eventual linking to author pages
@@ -110,7 +112,7 @@ module Publications
       mini_authors = join_names(pub['authors'].map { |a| a['name'] }, len: 5)
 
       # Build the citation string (non-author part)
-      j = data.dig('publication_info', 0)
+      j = data.dig('publication_info', 0) # This may be nil
       journal =
         if j && j.key?('journal_title') && j.key?('year')
           "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
