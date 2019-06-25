@@ -7,24 +7,24 @@ module Checks
       @data = data
     end
 
-    def key(key, required: true, nonempty: false)
-      keyword = required ? 'must' : 'should'
+    def key(key, optional: false, nonempty: false)
+      keyword = optional ? 'should' : 'must'
       msg =  "#{@name}.yml #{keyword} contain #{key}"
-      send_msg(required, msg) unless @data.key? key
+      send_msg(optional, msg) unless @data.key? key
 
       if nonempty
         msg =  "#{@name}.yml contains #{key} which #{keyword} not be empty"
-        send_msg(required, msg) if @data[key].empty?
+        send_msg(optional, msg) if @data[key].empty?
       end
     end
 
     private
 
-    def send_msg(required, msg)
-      if required
-        raise StandardError, msg
-      else
+    def send_msg(optional, msg)
+      if optional
         puts msg
+      else
+        raise StandardError, msg
       end
     end
   end
@@ -42,7 +42,7 @@ module Checks
         person.key 'shortname', nonempty: true
         person.key 'title'
         person.key 'institution', nonempty: true
-        person.key 'photo', required: false
+        person.key 'photo', optional: true
       end
     end
   end
