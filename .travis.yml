@@ -12,6 +12,10 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
     - JEKYLL_ENV=production
 
+# Travis shouldn't have to have this...
+before_install:
+  - gem install bundler
+
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --assume-extension || true
