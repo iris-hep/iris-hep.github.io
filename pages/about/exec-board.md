@@ -16,11 +16,13 @@ title: Executive Board
          <div class="card-text">
          <b><a href="{{person.website}}">{{person.name}}</a></b><br>
          <small>{{person.institution}}</small><br><br>
+         {% if person.e-mail %}
 		 <small>
 			<a href="mailto:{{person.e-mail}}">
 				<em>{{person.e-mail}}</em>
 			</a>
 		 </small><br><br>
+         {% endif %}
          </div>
          <div class="card-text mt-auto"><i>{{person.title}}</i><br></div>
          </div>
