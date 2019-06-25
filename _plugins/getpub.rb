@@ -29,9 +29,10 @@ module Publications
         prepare(pub, name)
 
         # Add caching to reduce requests to INSPIRE
-        caching(name, pub) do |p|
-          inspire p
-        end
+        caching(pub, name) { |p| inspire(p) }
+
+        # Submitted-to field and check
+        # submitted_to(pub, name)
 
         # Highlighted publications?
       end
@@ -126,7 +127,7 @@ module Publications
 
     # Load a yaml file from the cache
     # Return a bool if an update is needed
-    def load_from_cache(fname, pub)
+    def load_from_cache(pub, fname)
       return false unless fname.exist?
 
       f = YAML.load_file fname
@@ -143,23 +144,23 @@ module Publications
     end
 
     # Save a publication to the cache dir
-    def save_to_cache(fname, pub)
+    def save_to_cache(pub, fname)
       FileUtils.mkdir_p fname.parent
       File.write fname, pub.to_yaml
     end
 
     # Cache publications
-    def caching(name, pub)
+    def caching(pub, name)
       source = Pathname @site.source
       cache = source / '_cache'
       cname = cache / 'publications' / "#{name}.yml"
 
-      if cname.exist? && load_from_cache(cname, pub)
+      if cname.exist? && load_from_cache(pub, cname)
         puts "Reading #{cname} from cache"
       else
         yield pub
         puts "Saving #{cname}"
-        save_to_cache cname, pub
+        save_to_cache(pub, cname)
       end
     end
   end

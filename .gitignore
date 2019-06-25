@@ -1,5 +1,6 @@
 *.lock
 *~
+*.swp
 .DS_Store
 .sass-cache/
 Gemfile.lock
