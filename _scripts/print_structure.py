@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+'''
+Prints the structure for an entry
+
+Usage:
+./print_structure.py 1740667
+'''
+
 import requests
 
 from functools import singledispatch
@@ -7,9 +14,9 @@ from functools import singledispatch
 import yaml
 import sys
 
-recid = 811388
-recid = 1726790
-recid = 1730403
+#recid = 811388
+#recid = 1726790
+#recid = 1730403
 recid = sys.argv[1]
 
 url = 'https://labs.inspirehep.net/api/literature/'+str(recid)
