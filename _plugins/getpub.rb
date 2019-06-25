@@ -166,8 +166,12 @@ module Publications
       source = Pathname @site.source
       cache = source / '_cache'
       cname = cache / 'publications' / "#{name}.yml"
+      plugin = source / '_plugins' / 'getpub.rb'
 
-      if cname.exist? && load_from_cache(pub, cname)
+      if cname.exist? &&                 # Cache file must exist
+         plugin.mtime <= cname.mtime &&  # This plugin must be older than the cache
+         load_from_cache(pub, cname)     # Loading must work
+
         puts "Reading #{cname} from cache"
       else
         yield pub
