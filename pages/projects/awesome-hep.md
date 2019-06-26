@@ -14,7 +14,7 @@ team:
 
 
 <a href="https://github.com/iris-hep/awesome-hep">
-<img src="/assets/logos/awesome-hep.png" width="50%" />
+<img alt="Awesome HEP logo" src="/assets/logos/awesome-hep.png" width="50%" />
 </a>
 
 A curated list of awesome high energy and particle physics software.
