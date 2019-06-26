@@ -31,7 +31,7 @@ eligible for reimbursement from the IRIS-HEP project.
   * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file. 
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 3 August, 2018) and submitted along with the electronic copy of the receipts described above.
 
-  If you have any questions or doubts about travel reimbursement please send an email with your travel plan to [participant-reimbursement@iris-hep.org](participant-reimbursement@iris-hep.org) before booking to get confirmation on reimbursement.
+  If you have any questions or doubts about travel reimbursement please send an email with your travel plan to [participant-reimbursement@iris-hep.org](mailto:participant-reimbursement@iris-hep.org) before booking to get confirmation on reimbursement.
 
 ### Forms for reimbursement 
 
@@ -66,7 +66,7 @@ Please note the following:
     * see below for the "shorteventname" to use
     * replace "YYYYMMDD" with the numeric values for the year, month and day of the month on which you are submitting the reimbursement claim
     * replace "yourfirstname" and "yourlastname" as appropriate
-  * Send the single pdf as an attachment in email to [participant-reimbursement@iris-hep.org](participant-reimbursement@iris-hep.org) with an email subject line including your name and the word "reimbursement".
+  * Send the single pdf as an attachment in email to [participant-reimbursement@iris-hep.org](mailto:participant-reimbursement@iris-hep.org) with an email subject line including your name and the word "reimbursement".
 
 
 ### Notes for specific events and workshops
