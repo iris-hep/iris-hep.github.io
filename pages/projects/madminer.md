@@ -15,7 +15,7 @@ team:
 
 
 
-<img src="/assets/logos/madminer.png" width="100%" />
+<img alt="MadMiner logo" src="/assets/logos/madminer.png" width="100%" />
 
 
 Particle physics processes are usually modelled with complex Monte-Carlo simulations of the hard process, parton shower,

@@ -14,7 +14,7 @@ team:
  - marianstahl
 ---
 
-<img style="display: block; margin-left: auto; margin-right: auto; width: 60%;" src="/assets/logos/pv_finder_logo_1.png" />
+<img alt="PV-Finder logo" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" src="/assets/logos/pv_finder_logo_1.png" />
 
 
 The upcoming upgrades at the LHC have fueled increasing interest in alternative highly-parallel and GPU friendly algorithms for tracking and reconstruction. The PV-Finder project is developing a novel prototype algorithm for vertexing in high density collisions using a Convolutional Neural Network (CNN).
