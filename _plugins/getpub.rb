@@ -20,7 +20,7 @@ module Publications
   class Generator < Jekyll::Generator
     # Main entry point for Jekyll
     def generate(site)
-      @net = Net::HTTP.new 'labs.inspirehep.net', 443
+      @net = Net::HTTP.new('labs.inspirehep.net', 443)
       @net.use_ssl = true
 
       @site = site
@@ -29,9 +29,10 @@ module Publications
         prepare(pub, name)
 
         # Add caching to reduce requests to INSPIRE
-        caching(name, pub) do |p|
-          inspire p
-        end
+        caching(pub, name) { |p| inspire(p) }
+
+        # Submitted-to field and check
+        submitted_to(pub, name)
 
         # Highlighted publications?
       end
@@ -39,16 +40,28 @@ module Publications
 
     private
 
+    # Check for and add submitted_to information
+    def submitted_to(pub, name)
+      submitted_to = pub['submitted-to']
+      return unless submitted_to
+
+      if pub['citation'].include? 'arXiv'
+        pub['citation'] += " (Submitted to #{submitted_to})"
+      else
+        puts "Warning: #{name} is published but has a submitted-to key"
+      end
+    end
+
     # Setup a publication - adds/fixes focus-area and project
     def prepare(pub, name)
-      force_array pub, 'project' if pub.key? 'project'
+      force_array(pub, 'project') if pub.key? 'project'
       prepare_focus_area(pub, name) unless pub.key? 'focus-area'
 
       msg = 'You must have a project or focus-area in every publication'
       raise StandardError, msg unless pub.key? 'focus-area'
 
       # Make sure the focus-area is a list
-      force_array pub, 'focus-area'
+      force_array(pub, 'focus-area')
     end
 
     # Verify that an item is an Array
@@ -126,7 +139,7 @@ module Publications
 
     # Load a yaml file from the cache
     # Return a bool if an update is needed
-    def load_from_cache(fname, pub)
+    def load_from_cache(pub, fname)
       return false unless fname.exist?
 
       f = YAML.load_file fname
@@ -143,23 +156,27 @@ module Publications
     end
 
     # Save a publication to the cache dir
-    def save_to_cache(fname, pub)
+    def save_to_cache(pub, fname)
       FileUtils.mkdir_p fname.parent
-      File.write fname, pub.to_yaml
+      File.write(fname, pub.to_yaml)
     end
 
     # Cache publications
-    def caching(name, pub)
+    def caching(pub, name)
       source = Pathname @site.source
       cache = source / '_cache'
       cname = cache / 'publications' / "#{name}.yml"
+      plugin = source / '_plugins' / 'getpub.rb'
 
-      if cname.exist? && load_from_cache(cname, pub)
+      if cname.exist? &&                 # Cache file must exist
+         plugin.mtime <= cname.mtime &&  # This plugin must be older than the cache
+         load_from_cache(pub, cname)     # Loading must work
+
         puts "Reading #{cname} from cache"
       else
         yield pub
         puts "Saving #{cname}"
-        save_to_cache cname, pub
+        save_to_cache(pub, cname)
       end
     end
   end
