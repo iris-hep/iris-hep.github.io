@@ -1,0 +1,33 @@
+dist: xenial
+language: ruby
+rvm:
+  - 2.5.3
+cache: bundler
+branches:
+  only:
+  - henryiii-travis-prep
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+    - JEKYLL_ENV=production
+
+# Travis shouldn't have to have this...
+before_install:
+  - gem install bundler
+
+script:
+  - bundle exec jekyll build
+  - bundle exec htmlproofer ./_site --assume-extension || true
+
+#deploy:
+#  provider: pages
+#  local-dir: ./_site
+#  target-branch: master
+#  email: deploy@travis-ci.org
+#  name: Deployment Bot
+#  skip-cleanup: true
+#  github-token: $GITHUB_TOKEN
+#  keep-history: true
+#  on:
+#    branch: henryiii-travis-prep
