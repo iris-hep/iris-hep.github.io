@@ -10,7 +10,13 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.5"
 
-gem "html-proofer"
+group :development do
+  # Check resulting HTML for dead links and other issues
+  gem "html-proofer"
+
+  # Verify good coding practices in Ruby files
+  gem "rubocop", require: false
+end
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
