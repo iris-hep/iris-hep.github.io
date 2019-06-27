@@ -194,10 +194,10 @@
   </div>
   <div style="overflow: hidden;">
     <div class="featured-orgs text-center p-2">
-      {% for org_list in page.Collaborators   %}
+      {% for org_list in page.collaborators   %}
         {% assign org_hash = org_list | first  %}
         {% assign org = org_hash[1] %}
-        <a href="{{org.Link}}"><img src="/assets/images/{{org.Image}}" height="100"> </a>
+        <a href="{{org.link}}"><img src="/assets/images/{{org.image}}" height="100" alt="{{org_hash[0]}}"> </a>
       {% endfor %}
     </div>
   </div>

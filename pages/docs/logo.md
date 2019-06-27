@@ -16,7 +16,7 @@ Formats: [png](/assets/logos/Iris-hep-3-regular-complete.png), [jpg](/assets/log
 
 <img style="background-color:black" src="/assets/logos/Iris-hep-6-WHITE-complete.png" alt="alt text" title="Logo Title Text 1">
 
-Formats: [png](/assets/logos/Iris-hep-6-WHITE-complete.png), [jpg](/assets/logos/Iris-hep-6-WHITE-complete.jpg), [pdf](/assets/logos/Iris-hep-6-WHITE-complete.pdf), [eps](/assets/logos/Iris-hep-6-WHITE-complete.eps), [svg](/assets/logos/Iris-hep-6-WHITE-complete.svg)
+Formats: [png](/assets/logos/Iris-hep-6-WHITE-complete.png), [jpg](/assets/logos/Iris-hep-4-no-long-name.jpg), [pdf](/assets/logos/Iris-hep-6-WHITE-complete.pdf), [eps](/assets/logos/Iris-hep-6-WHITE-complete.eps), [svg](/assets/logos/Iris-hep-6-WHITE-complete.svg)
 
 
 
