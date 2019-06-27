@@ -13,7 +13,7 @@ team:
 
 
 
-<img src="/assets/logos/pyhf-logo.png" width="50%" />
+<img alt="pyhf logo" src="/assets/logos/pyhf-logo.png" width="50%" />
 
 `pyhf` is a pure-python implementation of the widely-used HistFactory p.d.f. template described in [[CERN-OPEN-2012-016](https://cds.cern.ch/record/1456844)]. It also includes interval estimation is based on the asymptotic formulas of "Asymptotic formulae for likelihood-based tests of new physics" [[arxiv:1007.1727](https://arxiv.org/abs/1007.1727)]. The aim is also to support modern computational graph libraries such as PyTorch and TensorFlow in order to make use of features such as autodifferentiation and GPU acceleration.
 

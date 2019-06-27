@@ -14,7 +14,7 @@ team:
  - nickcinko
 ---
 
-<img src="/assets/logos/ACTSlogo.gif" width="20%" align="right"/>
+<img alt="ACTS logo" src="/assets/logos/ACTSlogo.gif" width="20%" align="right"/>
 
 This project contains an experiment-independent set of track reconstruction tools. The main philosophy is to provide high-level track reconstruction modules that can be used for any tracking detector. The description of the tracking detector's geometry is optimized for efficient navigation and quick extrapolation of tracks. Converters for several common geometry description languages exist. Having a highly performant, yet largely customizable implementation of track reconstruction algorithms was a primary objective for the design of this toolset. Additionally, the applicability to real-life HEP experiments plays major role in the development process. Apart from algorithmic code, this project also provides an event data model for the description of track parameters and measurements.
 
@@ -22,7 +22,7 @@ Key features of this project include: tracking geometry description which can be
 
 See [ACTS webpage](http://acts.web.cern.ch/ACTS/) for further details.
 
-We held a [tracking workshop](https://indico.physics.lbl.gov/indico/event/712/tracking) for HEP in Berkeley in January 2019.
+We held a [tracking workshop](https://indico.physics.lbl.gov/indico/event/712) for HEP in Berkeley in January 2019.
 
 {% include list_project_team.md team=page.team%}
 

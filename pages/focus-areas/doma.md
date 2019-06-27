@@ -5,16 +5,16 @@ title: Data Organization, Management and Access (DOMA)
 short_title: doma
 draft: false
 pagetype: focus-area
-Collaborators:
+collaborators:
   - UCSD:
-      Link: https://www.sdsc.edu/
-      Image: ucsd.png
+      link: https://www.sdsc.edu/
+      image: ucsd.png
   - UCSC:
-      Link: https://cross.ucsc.edu/
-      Image: cross-ucsc.png
+      link: https://cross.ucsc.edu/
+      image: cross-ucsc.png
   - Morgridge:
-      Link: https://morgridge.org/
-      Image: morgridge.png
+      link: https://morgridge.org/
+      image: morgridge.png
 ---
 
   The HL-LHC era will provide enormous challenges in the area of Data Organization,

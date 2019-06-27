@@ -13,7 +13,7 @@ team:
  - irinaespejo
 ---
 
-<!-- <img src="/assets/logos/ml4jets-logo.png" width="50%" /> -->
+<!-- <img alt=ML4Jets logo" src="/assets/logos/ml4jets-logo.png" width="50%" /> -->
 
 Machine Learning is having a major impact in jet physics. It is empowering powerful taggers for boosted (W, Z, H, top) jets as well as flavor tagging. 
 NYU will host [ML4Jets 2020](https://indico.cern.ch/event/809820/) focusing on this topic. This will be the third in the series of workshops, following [ML4Jets 2018](https://indico.cern.ch/event/745718/) at FermiLab and [ML4Jets 2017](https://indico.physics.lbl.gov/indico/event/546/) at Berkeley. 
