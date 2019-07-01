@@ -24,16 +24,16 @@
 {% endfor %}
 
 {% if doProjects ==1 %}
-<div class="container-fluid">
+<div class="container-fluid projects">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
 <center>
   <div class="row">
 {% for mypage in sorted %}
 {% if mypage.pagetype == 'project' %} 
 {% if mypage.focus-area contains page.short_title %}
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 17rem;">
 <a href=/projects/{{mypage.shortname}}.html>
-<img class="card-img-top card-img-logo" src="/assets/{{mypage.image}}" alt="Card image cap">
+<img class="card-img-top" src="/assets/{{mypage.image}}" alt="Card image cap">
 </a>
 <div class="card-body d-flex flex-column">
 <div class="card-text">

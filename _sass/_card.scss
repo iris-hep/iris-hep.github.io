@@ -139,8 +139,9 @@
 }
 
 // Logos should not be chopped off in cards
-.card-img-logo {
-    object-fit: contain;
+.projects .card-img-top {
+  object-fit: contain;
+  height: 8rem;
 }
 
 // Card deck
