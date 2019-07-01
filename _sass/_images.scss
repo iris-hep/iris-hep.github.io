@@ -9,6 +9,12 @@
   @include img-fluid;
 }
 
+.header-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 // Image thumbnails
 .img-thumbnail {
