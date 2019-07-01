@@ -11,26 +11,26 @@ presentations:
     url: https://indico.cern.ch/event/708041/contributions/3276200/attachments/1810057/2955674/pivarski-acat2019.pdf
     meeting: "ACAT 2019"
     meetingurl: https://indico.cern.ch/event/708041/
-    focusarea: as 
+    focus-area: as 
     project: scikit-hep
   - title: "PyROOT, uproot, and awkward-arrays"
     date: 2019-04-01
     url: https://github.com/jpivarski/2019-04-01-fermilab-carpentries
     meeting: "Software Carpentry at Fermilab"
     meetingurl: https://davidyakobovitch.github.io/2019-04-01_fnal/
-    focusarea: as
+    focus-area: as
   - title: "High-Performance Python and Interoperability with Compiled Code"
     date: 2019-04-08
     url: https://github.com/jpivarski/2019-04-08-picscie-numpy
     meeting: "Princeton PICSciE mini-courses"
     meetingurl: https://researchcomputing.princeton.edu/events/high-performance-python-and-interoperability-compiled-code-48-410
-    focusarea: as
+    focus-area: as
   - title: "Aghast"
     date: 2019-04-15
     url: https://indico.cern.ch/event/803122/contributions/3339215/attachments/1830076/2996786/pivarski-2019-04-15-irishep-aghast.pdf
     meeting: "IRIS-HEP Topical Meetings"
     meetingurl: https://indico.cern.ch/event/803122/
-    focusarea: as
+    focus-area: as
   - title: "Awkward Array: Numba"
     date: 2019-04-17
     url: https://indico.cern.ch/event/808630/contributions/3367657/attachments/1830385/2997458/pivarski-2019-04-17-irishep-awkwardnumba.pdf
@@ -46,35 +46,35 @@ presentations:
     url: https://github.com/jpivarski/2019-05-06-adl-language-tools
     meeting: "Analysis Description Languages Workshop"
     meetingurl: https://indico.cern.ch/event/769263/timetable/
-    focusarea: as
+    focus-area: as
   - title: "Programming languages and particle physics"
     date: 2019-05-08
     url: https://indico.cern.ch/event/769263/contributions/3420926/attachments/1841297/3020540/pivarski-colloquium-languages.pdf
     meeting: "Fermilab Colloquium"
     meetingurl: https://events.fnal.gov/colloquium/events/event/pivarski-colloq-2019/
-    focusarea: as
+    focus-area: as
   - title: "Summary of the 'Analysis Description Languages for the LHC' workshop"
     date: 2019-05-09
     meeting: "LPC Physics Forum"
     meetingurl: https://indico.cern.ch/event/806811/
-    focusarea: as
+    focus-area: as
   - title: "Pattern matching for decay trees"
     date: 2019-05-22
     meeting: "IRIS-HEP Topical Meetings"
     meetingurl: https://indico.cern.ch/event/820598/
-    focusarea: as
+    focus-area: as
   - title: "Scientific Python and Uproot HATS"
     date: 2019-05-28
     meeting: "LPC HATS: Hands-on Training for CMS"
     meetingurl: https://indico.cern.ch/event/814895/
-    focusarea: as
+    focus-area: as
   - title: "Columnar Analysis Tools HATS"
     date: 2019-05-29
     meeting: "LPC HATS: Hands-on Training for CMS"
     meetingurl: https://indico.cern.ch/event/814100/
-    focusarea: as
+    focus-area: as
   - title: "Numpy, Pandas, PyROOT, and Uproot"
     date: 2019-06-10
     meeting: "U.S. ATLAS Software Training at Argonne National Lab"
     meetingurl: https://indico.cern.ch/event/811577/
-    focusarea: as
+    focus-area: as
