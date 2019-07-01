@@ -29,7 +29,7 @@ presentations:
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271527/attachments/1791896/2919641/AS_overview_for_Steering_Board-2.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/
-    focusarea: as 
+    focus-area: as 
   - title: Panel Discussion on Machine Learning and Physics
     date: 2019-02-12
     url: https://www.kitp.ucsb.edu/activities/machine-c19
@@ -54,40 +54,40 @@ presentations:
     meeting: Likelihood-Free Inference Workshop
     meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
     location: Flatiron Institute, NYC
-    focusarea: as 
+    focus-area: as 
   - title: Future areas of focus for ML in particle physics
     date: 2019-04-15
     url: https://indico.cern.ch/event/766872/timetable/#20190415.detailed
     meeting: 3rd IML Machine Learning Workshop
     meetingurl: https://indico.cern.ch/event/766872/timetable/#20190415.detailed
     location: CERN
-    focusarea: as, ia 
+    focus-area: as, ia 
   - title: Future areas of focus for ML in particle physics
     date: 2019-05-01
     url: https://sites.google.com/view/physicsxml/schedule?authuser=0
     meeting: Gotham City Physics X ML
     meetingurl: https://sites.google.com/view/physicsxml/schedule
     location: Flatiron Institute
-    focusarea: as, ia
+    focus-area: as, ia
   - title: The Primacy of Experiment
     date: 2019-05-29
     url: https://video.ias.edu/universe/2019/0529-KyleCranmer
     meeting: The Universe Speaks in Numbers
     meetingurl: https://www.ias.edu/events/universe-speaks
     location: Intitute for Advanced Study 
-    focusarea: as, ia
+    focus-area: as, ia
   - title: Advances in Deep Learning motivated by Physics Problems
     date: 2019-06-14
     url:  https://sites.google.com/view/icml2019phys4dl
     meeting: Theoretical Physics for Deep Learning
     meetingurl:  https://sites.google.com/view/icml2019phys4dl
     location: Long Beach, CA
-    focusarea: as, ia
+    focus-area: as, ia
   - title: The Interplay of Data Science and Particle Physics
     date: 2019-10-05
     url: http://dsaa2019.dsaa.co
     meeting: The 6th IEEE International Conference on Data Science and Advanced Analytics
     meetingurl: http://dsaa2019.dsaa.co
     location: Washington, DC
-    focusarea: as, ia
+    focus-area: as, ia
 
