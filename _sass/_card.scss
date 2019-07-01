@@ -138,6 +138,10 @@
   @include border-bottom-radius($card-inner-border-radius);
 }
 
+// Logos should not be chopped off in cards
+.card-img-logo {
+    object-fit: contain;
+}
 
 // Card deck
 
