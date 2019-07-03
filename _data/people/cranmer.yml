@@ -83,6 +83,13 @@ presentations:
     meetingurl:  https://sites.google.com/view/icml2019phys4dl
     location: Long Beach, CA
     focusarea: as, ia
+  - title: Future areas of focus for ML in particle physics
+    date: 2019-06-24
+    url: https://indico.cern.ch/event/765245/contributions/3417214/attachments/1868012/3072530/ATLAS-SnC-future-ML.pdf
+    meeting: ATLAS Software and Computing Week
+    meetingurl: https://indico.cern.ch/event/765245/
+    location: NYU
+    focusarea: as, ia     
   - title: The Interplay of Data Science and Particle Physics
     date: 2019-10-05
     url: http://dsaa2019.dsaa.co
