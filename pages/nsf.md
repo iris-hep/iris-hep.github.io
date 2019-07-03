@@ -17,8 +17,7 @@ Not all of the below information is available without a password.
 * High-Level Overview Slides (date of last update in slides)
 
 #### IRIS-HEP Areas
-
-IRIS-HEP is composed of the following three areas. The first three are the main research areas.
+IRIS-HEP is composed of the following areas. The first three are the main development areas.
 
 | Area | Links | Last NSF Deep Dive Talk |
 | ---- | ----- | -----                   | 
