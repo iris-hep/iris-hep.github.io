@@ -6,6 +6,13 @@ institution: University of Wisconsin–Madison
 website: 
 photo: /assets/images/team/Brian-Lin.jpg
 presentations:
+  - title: "Security Model for Containerized Grid Services"
+    date: 2019-06-27
+    url: https://indico.cern.ch/event/765245/timetable/#111-security-model-for-contain
+    meeting: Atlas Software & Computing Week \#62
+    meetingurl: https://indico.cern.ch/event/765245
+    location: New York University
+    focus-area: osglhc
   - title: "XCache Packaging"
     date: 2019-06-11
     url: https://indico.cern.ch/event/727208/contributions/3444631/
