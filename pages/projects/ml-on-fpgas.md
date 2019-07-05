@@ -32,8 +32,3 @@ AWS has been used extensively for prototyping applications in heterogeneous envi
 [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/hls-fpga-machine-learning/hls4ml). 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1204445.svg)](https://zenodo.org/badge/latestdoi/108329371) 
 
-{% include list_project_team.md team=page.team%}
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}
