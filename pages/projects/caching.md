@@ -15,6 +15,7 @@ team:
  - osschar
 ---
 
+
 Significant portions of LHC analysis use the same datasets, running
 over each dataset several times.  Hence, we can utilize cache-based approaches
 as an opportunity to efficiency of CPU use (via reduced latency) and network
@@ -26,9 +27,3 @@ researchers.
 These [in-production caches](https://indico.cern.ch/event/760850/contributions/3156949/attachments/1724585/2785286/SoCalCache.pdf) have shown to save up to a factor of three of WAN bandwidth compared with
 traditional data management techniques.
 
-
-{% include list_project_team.md team=page.team%}
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}

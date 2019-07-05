@@ -35,9 +35,3 @@ activity - is investigating the use of HTTP for bulk data transfer.
   </div>
 </div>
 
-
-{% include list_project_team.md team=page.team%}
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}
