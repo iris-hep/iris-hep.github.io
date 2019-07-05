@@ -29,8 +29,3 @@ The IDDS work is an ongoing project within IRIS-HEP in the DOMA and
 Analysis Systems area, as well as within the HEP Software Foundation
 event delivery group.
 
-{% include list_project_team.md team=page.team%}
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}

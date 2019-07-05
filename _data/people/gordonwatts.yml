@@ -50,3 +50,10 @@ presentations:
     meeting: Analysis Description Languages
     meetingurl: https://indico.cern.ch/event/769263
     focus-area: as
+  - title: Analysis in Run 4
+    date: 2019-06-27
+    url: https://indico.cern.ch/event/765245/contributions/3442554/
+    meeting: ATLAS Software and Computing Week #62
+    meetingurl: https://indico.cern.ch/event/765245
+    focus-area: as
+

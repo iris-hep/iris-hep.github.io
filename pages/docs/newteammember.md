@@ -41,10 +41,6 @@ presentations:
 * Have an existing team member add your email address to the [IRIS-HEP Slack][] team.
 * Subscribe to the relevant [Google mailing lists][], at the very least "IRIS-HEP Full Team" and "IRIS-HEP Announcements".
 
-#### Meetings
-
-* The schedule for the meetings is a google doc, request that link from a team member.
-
 [contribute an improvement]:    https://github.com/iris-hep/iris-hep.github.io/pulls
 [IRIS-HEP GitHub organization]: https://github.com/iris-hep
 [assets/images/team folder]:    https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team
