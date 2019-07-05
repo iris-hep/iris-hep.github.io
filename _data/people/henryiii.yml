@@ -13,21 +13,21 @@ presentations:
     meeting: 3rd IML Machine Learning Workshop
     meetingurl: https://indico.cern.ch/event/766872/
     location: CERN
-    focusarea: ia
+    focus-area: ia
     project: pv-finder
   - title: "boost-histogram and hist"
     date: 2019-04-15
     url: https://indico.cern.ch/event/803122/
     meeting: IRIS-HEP Topical Meeting
     meetingurl: https://indico.cern.ch/event/803122/
-    focusarea: as
+    focus-area: as
   - title: "A hybrid deep learning approach to vertexing"
     date: 2019-04-03
     url: https://indico.cern.ch/event/742793/contributions/3298730/
     meeting: Connecting The Dots and Workshop on Intelligent Trackers 2019
     meetingurl: https://indico.cern.ch/event/742793/
     location: Valencia, Spain
-    focusarea: ia
+    focus-area: ia
     project: pv-finder
   - title: "Conda: a complete reproducible ROOT environment in under 5 minutes"
     date: 2019-03-21
@@ -35,14 +35,14 @@ presentations:
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/contributions/3306849/
     location: Jefferson Lab
-    focusarea: as
+    focus-area: as
   - title: "Machine Learning for the Primary Vertex reconstruction"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3303404/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/contributions/3303404/
     location: Jefferson Lab
-    focusarea: ia
+    focus-area: ia
     project: pv-finder
   - title: "A hybrid deep learning approach to vertexing"
     date: 2019-03-11
@@ -50,5 +50,5 @@ presentations:
     meeting: 19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research
     meetingurl: https://indico.cern.ch/event/708041/overview
     location: Saas Fee, Switzerland
-    focusarea: ia
+    focus-area: ia
     project: pv-finder
