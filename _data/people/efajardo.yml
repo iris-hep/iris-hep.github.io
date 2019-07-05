@@ -12,11 +12,11 @@ presentations:
   meeting: DOMA / ACCESS Meeting
   meetingurl: https://indico.cern.ch/event/760850/
   location: CERN
-  focusarea: doma
+  focus-area: doma
 - title: OSG Cache on Internet Backbone developments
   date: 2019-01-16
   url: https://indico.cern.ch/event/739874/contributions/3278170/attachments/1779441/2894250/OSG-Caches-Backbone.pdf
   meeting: GDB Jan 2019
   meetingurl: https://indico.cern.ch/event/739874/
   location: CERN
-  focusarea: osglhc
+  focus-area: osglhc
