@@ -78,3 +78,9 @@ presentations:
     meeting: "U.S. ATLAS Software Training at Argonne National Lab"
     meetingurl: https://indico.cern.ch/event/811577/
     focusarea: as
+  - title: "Uproot: accessing ROOT data in the scientific Python ecosystem"
+    date: 2019-06-18
+    meeting: "3rd CMS Machine Learning Workshop"
+    url: https://indico.cern.ch/event/798721/contributions/3461343/
+    meetingurl: https://indico.cern.ch/event/798721/
+    focusarea: as
