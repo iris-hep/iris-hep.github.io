@@ -9,7 +9,7 @@ presentations:
   - title: "Security Model for Containerized Grid Services"
     date: 2019-06-27
     url: https://indico.cern.ch/event/765245/timetable/#111-security-model-for-contain
-    meeting: Atlas Software & Computing Week \#62
+    meeting: "Atlas Software & Computing Week #62"
     meetingurl: https://indico.cern.ch/event/765245
     location: New York University
     focus-area: osglhc
