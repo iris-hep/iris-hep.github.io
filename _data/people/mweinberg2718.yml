@@ -9,6 +9,6 @@ presentations:
   - title: Delivery of columnar data to analysis systems
     date: 2019-06-24
     url: https://indico.cern.ch/event/765245/contributions/3470867/attachments/1869892/3076485/weinbergServiceX190626.pdf
-    meeting: ATLAS Software & Computing Week #62
+    meeting: "ATLAS Software & Computing Week #62"
     meetingurl: https://indico.cern.ch/event/765245/
     location: New York City, New York
