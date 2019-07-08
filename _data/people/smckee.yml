@@ -34,3 +34,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/772031
     location: Umea, Sweden
     focus-area: osglhc
+  - title: "The Service Analysis and Network Diagnostic (SAND) Project"
+    date: 2019-07-02
+    url: https://wiki.geant.org/download/attachments/123774072/SIG-PMV-DUblin-SAND-McKee-02-Jul-2019.pdf?version=2&modificationDate=1562073472330&api=v2
+    meeting: The 6th Special Interest Group on Performance Monitoring and Verification Meeting
+    meetingurl: https://wiki.geant.org/display/PMV/6th+SIG-PMV+Meeting+@+Dublin
+    location: Dublin, Ireland
+    focus-area: osglhc
