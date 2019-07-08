@@ -3,11 +3,21 @@ permalink: /ssl.html
 layout: focus-area
 title: Scalable Systems Laboratory
 short_title: ssl
+draft: false
 pagetype: focus-area
+collaborators:
+  - UCSD:
+      link: https://www.sdsc.edu/
+      image: ucsd.png
+  - UChicago:
+      link: https://cross.ucsc.edu/
+      image: 1200px-University_of_Chicago_shield.svg.png
 ---
 
-  SSL is an important area within IRIS-HEP
+	Together with the OSG-LHC, the Scalable Systems Laboratory (SSL) is designed to be the primary integration path to deliver the output of IRIS-HEP R&D activities into the distributed and scientific production infrastructure of the experiments.
 
-  **Contact us**: [xyz-team@iris-hep.org](mailto:xyz-team@iris-hep.org)
+![SSL](/assets/images/ssl.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
+  
+  **Contact us**: [ssl-team@iris-hep.org](mailto:ssl-team@iris-hep.org)
 
