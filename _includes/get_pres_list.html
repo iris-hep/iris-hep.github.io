@@ -1,5 +1,13 @@
 {% capture list %}
+  {% assign start = true %}
   {% for univ_hash in site.data.universities %}
+    {% if start %}
+      {% assign sep = "" %}
+    {% else %}
+      {% assign sep = "^" %}
+    {% endif %}
+    {% assign start = false %}
+
     {% assign univ = univ_hash[1] %}
     {% for member in univ.personnel  %}
       {% for person_hash in site.data.people %}
@@ -51,7 +59,7 @@
              {% assign pres_focus_area = presentation.focus-area %}
              {% endif %}
 
-             ^{{pres_date}}|{{pres_name}}|{{pres_title}}|{{pres_url}}|{{pres_meeting}}|{{pres_meetingurl}}|{{pres_project}}|{{pres_focus_area}}|{{pres_institution}} 
+             {{sep}}{{pres_date}}|{{pres_name}}|{{pres_title}}|{{pres_url}}|{{pres_meeting}}|{{pres_meetingurl}}|{{pres_project}}|{{pres_focus_area}}|{{pres_institution}} 
            {% endfor %}
         {% endif %}
       {% endfor %}
@@ -60,3 +68,4 @@
 {% endcapture %}
 
 {% assign sorted_pres = list | split: "^"  | sort | reverse %}
+
