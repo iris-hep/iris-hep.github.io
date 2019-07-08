@@ -10,11 +10,12 @@ collaborators:
       link: https://www.sdsc.edu/
       image: ucsd.png
   - UChicago:
-      link: https://cross.ucsc.edu/
+      link: https://uchicago.edu/
       image: 1200px-University_of_Chicago_shield.svg.png
 ---
 
-	Together with the OSG-LHC, the Scalable Systems Laboratory (SSL) is designed to be the primary integration path to deliver the output of IRIS-HEP R&D activities into the distributed and scientific production infrastructure of the experiments.
+  Together with the OSG-LHC, the Scalable Systems Laboratory (SSL) is designed to be the primary integration path to deliver the output of IRIS-HEP R&D activities into the distributed and scientific production infrastructure of the experiments.
+
 
 ![SSL](/assets/images/ssl.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
