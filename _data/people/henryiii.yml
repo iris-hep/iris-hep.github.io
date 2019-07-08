@@ -52,3 +52,15 @@ presentations:
     location: Saas Fee, Switzerland
     focus-area: ia
     project: pv-finder
+  - title: "Histograms"
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471456/
+    meeting: IRIS-HEP Analysis Systems Topical Workshop
+    meetingurl: https://indico.cern.ch/event/822074/
+    focus-area: as
+  - title: "AmpGen & Particle/DecayLanguage"
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471460/
+    meeting: IRIS-HEP Analysis Systems Topical Workshop
+    meetingurl: https://indico.cern.ch/event/822074/
+    focus-area: as
