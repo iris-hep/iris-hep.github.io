@@ -19,8 +19,8 @@ Not all of the below information is available without a password.
 #### IRIS-HEP Areas
 IRIS-HEP is composed of the following areas. The first three are the main development areas.
 
-| Area | Links | Last NSF Deep Dive Talk |
-| ---- | ----- | -----                   | 
+| Area | &nbsp; &nbsp; &nbsp; Links &nbsp; &nbsp; &nbsp;| Last NSF Deep Dive Talk |
+| ---- | ------------- | :-----: | 
 | Innovative Algorithms | [Info](as) | [May 2019](https://indico.cern.ch/event/818460/contributions/3418066/attachments/1840620/3022159/InnovativeAlgorithms_May_2019_3.pdf) |
 | Analysis Systems | [Info](ia) | [April, 2019](https://indico.cern.ch/event/809187/contributions/3371163/attachments/1827920/2992539/IRIS_AS_overview_for_NSF-5.pdf) |
 | Data Organization, Management, and Acess (DOMA) | [Info](doma) | Scheduled |
