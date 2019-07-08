@@ -2,17 +2,17 @@
 permalink: /osglhc.html
 layout: focus-area
 title: Open Science Grid (OSG-LHC)
+draft: false
 short_title: osglhc
 pagetype: focus-area
 ---
 
-  The Open Science Grid (OSG) provides common service and support for resource providers
-  and scientific institutions using a distributed fabric of high throughput computing services.
-  The OSG does not own resources but provides software and services to users
-  and resource providers alike to enable the opportunistic usage and sharing of resources.
-
-  OSG brings together many experiments for contracted and/or opportunistic
-  sharing of resources in a grid environment, allowing for more effective use of their collective resources.
+  The Open Science Grid (OSG) facilitates access to distributed high throughput computing
+  for research in the U.S. and worldwide.
+  The resources accessible through the OSG are contributed by the community,
+  organized by the OSG, and governed by the OSG Consortium.
+  The OSG-LHC part of the IRIS-HEP project contains those aspects of the overall OSG program of work 
+  that are specific to the U.S. LHC projects.
   
   U.S. ATLAS (contributing to ATLAS as a whole) relies extensively on services and software provided by OSG,
   as well as on processes and support systems that have been developed and implemented by OSG.
