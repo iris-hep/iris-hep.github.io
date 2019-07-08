@@ -1,9 +1,9 @@
 ---
 permalink: /nsf.html
 layout: default
-title: NSF Review Information
+title: NSF Monthly Status Meetings and Review Information
 ---
-### IRIS-HEP Reviews
+### IRIS-HEP Monthly Meetings and Reviews
 
 Not all of the below information is available without a password.
 
@@ -13,7 +13,7 @@ Not all of the below information is available without a password.
 * [NSF Monthly Meetings](https://indico.cern.ch/category/11204/) - Includes minutes, slides, etc.
 * [Milestone Registry](https://docs.google.com/spreadsheets/d/1VKpHlQWXu_p8AUv5E5H_BzqF_i7hh2Z-Id0XPwNHu8o/edit#gid=0)
 * [Risk Registry](https://docs.google.com/spreadsheets/d/11oyGUEew_UT4M67QkQtOJqwvXdjVV_FreDX3qaJJKD8/edit#gid=0)
-* [History of the award](overview)
+* [History of the award](about/overview)
 * High-Level Overview Slides (date of last update in slides) - In preparation
 
 #### IRIS-HEP Areas
