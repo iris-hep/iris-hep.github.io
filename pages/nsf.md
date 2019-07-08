@@ -26,4 +26,4 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 | Data Organization, Management, and Acess (DOMA) | [Info](doma) | Scheduled |
 | Software Sustainability Core | [Info](ssc) | Scheduled |
 | Scalable Systems Laboratory | Info | Scheduled |
-| Open Science Grid (OSG) | Info | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
+| Open Science Grid (OSG-LHC) | Info | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
