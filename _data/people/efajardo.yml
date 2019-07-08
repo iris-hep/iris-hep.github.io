@@ -20,3 +20,9 @@ presentations:
   meetingurl: https://indico.cern.ch/event/739874/
   location: CERN
   focus-area: osglhc
+- title: XRootD and HTTP performance studies
+  date: 2019-06-12
+  url: https://indico.cern.ch/event/727208/contributions/3444623/
+  meeting: XrootD Workshop@CC-IN2P3
+  location: IN2P3
+  focus-area: doma
