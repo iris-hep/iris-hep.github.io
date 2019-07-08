@@ -2,7 +2,6 @@
 permalink: /osglhc.html
 layout: focus-area
 title: Open Science Grid (OSG-LHC)
-draft: false
 short_title: osglhc
 pagetype: focus-area
 ---

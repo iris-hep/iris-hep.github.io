@@ -3,7 +3,6 @@ permalink: /ssl.html
 layout: focus-area
 title: Scalable Systems Laboratory
 short_title: ssl
-draft: false
 pagetype: focus-area
 collaborators:
   - UChicago:
