@@ -27,3 +27,10 @@ presentations:
     meetingurl: https://bluewaters.ncsa.illinois.edu/blue-waters-symposium-2019
     location: Sunriver, OR
     focus-area: as, ia
+  - title: IRIS-HEP Blueprint Concepts and Process
+    date: 2019-06-21
+    url: https://indico.cern.ch/event/820946/contributions/3461588/attachments/1866577/3069573/IRIS-HEP_BluePrint_AS_SSL.pdf
+    meeting: Blueprint Meeting on Analysis Systems on Scalable Platforms
+    meetingurl: https://indico.cern.ch/event/820946/
+    location: NYU
+    focus-area: as, ssl
