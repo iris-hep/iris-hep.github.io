@@ -56,4 +56,9 @@ presentations:
     meeting: ATLAS Software and Computing Week #62
     meetingurl: https://indico.cern.ch/event/765245
     focus-area: as
-
+  - title: Functional/Declarative Selection Languages
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471457/
+    meeting: Analysis Systems Topical Workshop
+    meetingurl: https://indico.cern.ch/event/822074/
+    focus-area: as
