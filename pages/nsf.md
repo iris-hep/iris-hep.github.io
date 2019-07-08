@@ -10,11 +10,11 @@ Not all of the below information is available without a password.
 #### General Information
 
 * National Science Foundation - Cooperative Agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650)
-* [NSF Monthly Reports](https://indico.cern.ch/category/11204/) - Includes minutes, slides, etc.
+* [NSF Monthly Meetings](https://indico.cern.ch/category/11204/) - Includes minutes, slides, etc.
 * [Milestone Registry](https://docs.google.com/spreadsheets/d/1VKpHlQWXu_p8AUv5E5H_BzqF_i7hh2Z-Id0XPwNHu8o/edit#gid=0)
 * [Risk Registry](https://docs.google.com/spreadsheets/d/11oyGUEew_UT4M67QkQtOJqwvXdjVV_FreDX3qaJJKD8/edit#gid=0)
 * [History of the award](overview)
-* High-Level Overview Slides (date of last update in slides)
+* High-Level Overview Slides (date of last update in slides) - In preparation
 
 #### IRIS-HEP Areas
 IRIS-HEP is composed of the following areas. The first three are the main development areas.
