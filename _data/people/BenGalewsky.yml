@@ -6,3 +6,10 @@ institution: National Center for Supercomputing Applications
 website: https://github.com/BenGalewsky
 photo: /assets/images/team/Ben-Galewsky.jpg
 presentations:
+  - title: ServiceX
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471452/attachments/1865411/3067262/ServiceX_For_AS_Workshop.pdf
+    meeting: Analysis Systems Topical Workshop
+    meetingurl: https://indico.cern.ch/event/822074
+    location: NYU
+    focus-area: as, doma
