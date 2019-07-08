@@ -13,7 +13,7 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
 
 <h2>Presentations by the IRIS-HEP team</h2>
 
-{% assign activities = site.pages | where: "layout", "focus-area" | where: "draft", "false" | sort: 'title' %}
+{% assign activities = site.pages | where: "layout", "focus-area" | where_exp: "item", "item.draft != true" | sort: 'title' %}
 
 {% for focus-area-page in activities %}
   {% assign focus-area-title = focus-area-page.title %}
