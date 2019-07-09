@@ -93,7 +93,7 @@ presentations:
   - title: Analysis Systems Perspectives and Goals
     date: 2019-06-21
     url: https://indico.cern.ch/event/820946/contributions/3461589/
-    meeting: Analysis Systems R&D on Scalable Platforms Blueprint meeting
+    meeting: "Analysis Systems R&D on Scalable Platforms Blueprint meeting"
     meetingurl: https://indico.cern.ch/event/820946/
     location: NYU
     focus-area: as
