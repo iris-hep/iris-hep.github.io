@@ -6,6 +6,13 @@ institution: New York University
 website: https://johannbrehmer.github.io
 photo: /assets/images/team/Johann-Brehmer.jpg
 presentations:
+  - title: MadMiner Update
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471461/
+    meeting: Analysis Systems Topical Meeting
+    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+    location: NYU
+    focus-area: as
   - title: "Constraining effective field theories with machine learning"
     date: 2019-06-06
     url: 
