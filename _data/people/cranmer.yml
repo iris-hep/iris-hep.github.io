@@ -89,14 +89,14 @@ presentations:
     meeting: Analysis Systems Topical Meeting
     meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
     location: NYU
-    focus-area: as, ia     
+    focus-area: as
   - title: Analysis Systems Perspectives and Goals
     date: 2019-06-21
     url: https://indico.cern.ch/event/820946/contributions/3461589/
     meeting: Analysis Systems R&D on Scalable Platforms Blueprint meeting
     meetingurl: https://indico.cern.ch/event/820946/
     location: NYU
-    focus-area: as, ia     
+    focus-area: as
   - title: Future areas of focus for ML in particle physics
     date: 2019-06-24
     url: https://indico.cern.ch/event/765245/contributions/3417214/attachments/1868012/3072530/ATLAS-SnC-future-ML.pdf
