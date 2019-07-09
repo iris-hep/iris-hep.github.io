@@ -12,7 +12,7 @@ presentations:
     meeting: Machine Learning for Jet Physics
     meetingurl: https://indico.cern.ch/event/745718/
     location: Fermilab, Illinois, USA
-  - title: SCAILFIN: Reproducible Open Benchmarks
+  - title: "SCAILFIN: Reproducible Open Benchmarks"
     date: 2019-06-19
     url: https://indico.cern.ch/event/822074/contributions/3471463/
     meeting: Analysis Systems Topical Meeting
