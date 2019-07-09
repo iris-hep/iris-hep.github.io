@@ -6,4 +6,10 @@ institution: New York University
 website:  https://github.com/alexander-held
 photo: /assets/images/team/alexander-held.jpeg
 presentations:
-
+  - title: Template Fits: HistFitter / TRexFitter
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471458/
+    meeting: Analysis Systems Topical Meeting
+    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+    location: NYU
+    focus-area: as, ia  
