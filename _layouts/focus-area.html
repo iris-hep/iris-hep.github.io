@@ -87,7 +87,7 @@
 {% assign item = presentation | split: "|" %}
 {% assign pres_st = item[7] | strip %}
 {% assign page_st = page.short_title | strip %}
-{% if pres_st  == page_st %} {% comment %}  might need a | strip??? {% endcomment %}
+{% if pres_st contains page_st %}
 {% if item[0] contains '2' %}
 {% assign doPresentations = 1 %}
 {% break %}
@@ -111,7 +111,7 @@
     {% assign pres_st = item[7] | strip %}
     {% assign pres_institute = item[8] | strip %}
     {% assign page_st = page.short_title | strip %}
-    {% if pres_st  == page_st %} {% comment %}  might need a | strip??? {% endcomment %}
+    {% if pres_st contains page_st %}
       {% if item[0] contains '2' %}
         {% assign counter = counter | plus: 1 %}
         <li> {{item[0] | date_to_string}} - <a href="{{item[3]}}">{{item[2]}}</a>, {{item[1]}} ({{pres_institute}}), <a href="{{item[5]}}">{{item[4]}}</a> </li>
