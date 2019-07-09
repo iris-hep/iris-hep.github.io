@@ -5,3 +5,12 @@ active: green
 institution: New York University
 website: 
 photo: /assets/images/team/irinaespejo.jpeg
+presentations:
+  - title: SCAILFIN: Madminer deployment using REANA
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471463/
+    meeting: Analysis Systems Topical Meeting
+    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+    location: NYU
+    focus-area: as
+
