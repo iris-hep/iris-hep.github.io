@@ -3,9 +3,6 @@ language: ruby
 rvm:
   - 2.5.3
 cache: bundler
-branches:
-  only:
-  - henryiii-travis-prep
 
 env:
   global:
