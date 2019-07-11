@@ -1,6 +1,8 @@
 # iris-hep.github.io
 GitHub pages for IRIS-HEP website
 
+Do not make a PR to the output repository directly! Instead, use iris-hep.github.io-source.
+
 Color schemes:
 
 // DIANA dark blue: 2c3e50; DIANA light blue: 3b97d3
