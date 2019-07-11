@@ -1,7 +1,7 @@
 ---
 permalink: /publications/all.html
 layout: presentations
-title: All Publications
+title: Publications
 draft: false
 ---
 
