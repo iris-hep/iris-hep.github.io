@@ -2,7 +2,10 @@ dist: xenial
 language: ruby
 rvm:
   - 2.5.3
-cache: bundler
+cache:
+  bundler: true
+  directories:
+    - _cache
 branches:
   only:
     - master
