@@ -3,6 +3,9 @@ language: ruby
 rvm:
   - 2.5.3
 cache: bundler
+branches:
+  only:
+    - master
 
 env:
   global:
@@ -25,6 +28,6 @@ deploy:
   target-branch: master
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
-  keep-history: true
+  keep-history: false
   on:
     branch: master

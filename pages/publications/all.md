@@ -1,11 +1,11 @@
 ---
 permalink: /publications/all.html
-layout: default
+layout: presentations
 title: All Publications
 draft: false
 ---
 
-# All Publications
+## Publications by the IRIS-HEP team
 
 {% assign doPublications = 0 %}
 {% include get_pub_list.html %}
