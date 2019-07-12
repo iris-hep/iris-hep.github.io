@@ -59,13 +59,13 @@ bundle exec rake serve
 This will incrementally rebuild if anything changes in your directory. Exit with Control-C. If you want to build the site including all basic link checks (this should pass on master):
 
 ```bash
-bundle exec rake
+bundle exec rake check
 ```
 
 If you want to also perform the full link checking without exclusions, you can run:
 
 ```bash
-bundle exec rake check
+bundle exec rake checkall
 ```
 
 If you are not familiar with it, `rake` is short for "Ruby make". The `clean` and `clobber` targets are available (the later removes the Inspire-HEP cache as well). You can also run `bundle exec jekyll ...` directly.

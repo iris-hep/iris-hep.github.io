@@ -3,8 +3,8 @@
 require 'rake/clean'
 
 
-# If no task given, build and check
-task :default => :test
+# If no task given, build
+task :default => :build
 
 # Support clean and clobber tasks
 CLEAN << '_site'
@@ -29,7 +29,7 @@ COMMON_OPTIONS = {
   url_swap: { %r{https://localhost:4000/} => '' }
 }
 
-TEST_OPTIONS = {
+LIGHT_OPTIONS = {
   url_ignore: [
     'Unknown',
     'http://vassil.vassilev.info',
@@ -39,12 +39,12 @@ TEST_OPTIONS = {
 
 
 desc 'Check links and things'
-task :test => :build do
-  html_proofer COMMON_OPTIONS, TEST_OPTIONS
+task :check => :build do
+  html_proofer COMMON_OPTIONS, LIGHT_OPTIONS
 end
 
 desc 'Stronger check for missing options - will show up as warnings on Travis'
-task :check => :build do
+task :checkall => :build do
   html_proofer COMMON_OPTIONS
 end
 
