@@ -14,6 +14,9 @@ group :development do
   # Check resulting HTML for dead links and other issues
   gem "html-proofer"
 
+  # Allow running this with rake (especially for rake check)
+  gem 'rake', require: false
+
   # Verify good coding practices in Ruby files
   gem "rubocop", require: false
 end

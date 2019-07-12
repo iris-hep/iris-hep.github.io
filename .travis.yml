@@ -19,10 +19,6 @@ env:
 before_install:
   - gem install bundler
 
-script:
-  - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --assume-extension || true
-
 deploy:
   provider: pages
   local-dir: ./_site
