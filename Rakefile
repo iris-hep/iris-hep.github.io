@@ -33,6 +33,7 @@ TEST_OPTIONS = {
   url_ignore: [
     'Unknown',
     'http://vassil.vassilev.info',
+    'https://indico.lal.in2p3.fr/event/4754/#sc-19-8-machine-learning-to-pr', # Fix
     %r{https://www.ci.uchicago.edu/profile/.*}]
 }
 
