@@ -5,6 +5,12 @@ title: Developing the IRIS-HEP website
 pagetype: doc
 ---
 
+### Getting the source
+
+The webite source is available at <https://github.com/iris-hep/iris-hep.github.io-source>.
+
+You can always click the edit button to make small edits to the website source, but if you want to test locally or make larger edits, you'll want to clone the source for the website and build it with Ruby.
+
 ### Installing Ruby
 
 You should have Ruby 2.4+ for Jekyll. Since the latest macOS comes with 2.3 (and Apple is dropping scripting language from macOS in the future), you'll want a newer version even on a mac. You can use rbenv to manage multiple ruby versions. On macOS with homebrew, you'll want:
@@ -47,9 +53,22 @@ bundle install
 Now, you can use `bundle exec` to run a command in the new environment you just created, such as:
 
 ```bash
-bundle exec jekyll serve
+bundle exec rake serve
 ```
 
+This will incrementally rebuild if anything changes in your directory. Exit with Control-C. If you want to build the site including all basic link checks (this should pass on master):
+
+```bash
+bundle exec rake check
+```
+
+If you want to also perform the full link checking without exclusions, you can run:
+
+```bash
+bundle exec rake checkall
+```
+
+If you are not familiar with it, `rake` is short for "Ruby make". The `clean` and `clobber` targets are available (the later removes the Inspire-HEP cache as well). You can also run `bundle exec jekyll ...` directly.
 
 ### Updating javascript files
 
