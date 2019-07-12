@@ -19,6 +19,10 @@ env:
 before_install:
   - gem install bundler
 
+# It's okay if this one fails - these are harder checks
+after_script:
+  - bundle exec rake check
+
 deploy:
   provider: pages
   local-dir: ./_site
