@@ -54,7 +54,6 @@ project: some-project
 
 ---
 
-Want to test locally before making a pull request? [This should work](https://jekyllrb.com/docs/)
+Want to test locally before making a pull request? [This should work](/docs/webdev).
 
-Get help: Reach out on the Slack website channel or contact David Lange or Henry Schreiner
-
+Get help: Reach out on the [Slack website channel](https://iris-hep.slack.com/messages/website/) or contact David Lange.

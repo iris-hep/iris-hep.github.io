@@ -29,7 +29,7 @@ and [presentations listed for each team member](https://github.com/iris-hep/iris
 Note that each of these sections (projects, publications, presentations) will only appear if there is at least one 
 item to be listed.
 
-Want to test locally before making a pull request? [This should work](https://jekyllrb.com/docs/)
+Want to test locally before making a pull request? [This should work](/docs/webdev).
 
-Get help: Reach out on the Slack website channel or contact David Lange
+Get help: Reach out on the [Slack website channel](https://iris-hep.slack.com/messages/website/) or contact David Lange.
 
