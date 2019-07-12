@@ -19,9 +19,9 @@ env:
 before_install:
   - gem install bundler
 
-script:
-  - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --assume-extension || true
+# It's okay if this one fails - these are harder checks
+after_script:
+  - bundle exec rake check
 
 deploy:
   provider: pages

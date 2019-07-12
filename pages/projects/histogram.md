@@ -15,6 +15,6 @@ team:
 
 Members of the IRIS-HEP team are working on histogramming technology for Python. The projects are:
 
-* [boost-histogram](https:github.com/scikit-hep/boost-histogram): High performance filling using Boost.Histogram from the Boost C++ libraries.
-* [Aghast](https:github.com/scikit-hep/aghast): Conversions between Histogram formats.
+* [boost-histogram](https://github.com/scikit-hep/boost-histogram): High performance filling using Boost.Histogram from the Boost C++ libraries.
+* [Aghast](https://github.com/scikit-hep/aghast): Conversions between Histogram formats.
 
