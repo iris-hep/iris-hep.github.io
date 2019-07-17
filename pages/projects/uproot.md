@@ -6,10 +6,11 @@ shortname: uproot
 pagetype: project
 image: logos/uproot.svg
 logowidth: 70%
-blurb: Read ROOT files in Python
+blurb: Read and write ROOT files in Python
 focus-area: as
 team:
 - jpivarski
+- Pratyush Das
 ---
 
 [uproot](https://github.com/scikit-hep/uproot)
