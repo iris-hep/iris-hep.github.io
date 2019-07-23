@@ -62,3 +62,9 @@ presentations:
     meeting: Analysis Systems Topical Workshop
     meetingurl: https://indico.cern.ch/event/822074/
     focus-area: as
+  - title: IRIS-HEP View
+    date: 2019-07-22
+    url: https://indico.cern.ch/event/835581/contributions/3508561
+    meeting: Computing infrastructures for future data analysis
+    meetingurl: https://indico.cern.ch/event/835581
+    focus-area: as doma
