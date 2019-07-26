@@ -104,6 +104,20 @@ presentations:
     meetingurl: https://indico.cern.ch/event/765245/
     location: NYU
     focus-area: as, ia     
+  - title: Overview and Future directions for ML in particle and astro physics
+    date: 2019-07-31
+    url: http://www.weizmann.ac.il/conferences/SRitp/Aug2019/program
+    meeting: "Hammers & Nails 2019"
+    meetingurl: http://www.weizmann.ac.il/conferences/SRitp/Aug2019/program
+    location: Weizmann Institute
+    focus-area: as, ia     
+  - title: The interplay between physically motivated simulations and machine learning
+    date: 2019-09-09
+    url: http://www.ipam.ucla.edu/programs/workshops/machine-learning-for-physics-and-the-physics-of-learning-tutorials/?tab=speaker-list
+    meeting: Machine Learning for Physics and the Physics of Learning Long Program at IPAM
+    meetingurl: http://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/
+    location: IPAM
+    focus-area: as, ia     
   - title: The Interplay of Data Science and Particle Physics
     date: 2019-10-05
     url: http://dsaa2019.dsaa.co
