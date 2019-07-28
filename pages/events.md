@@ -7,7 +7,7 @@ title: IRIS-HEP Events
 <br>
 IRIS-HEP team members are, or have been, involved in organizing the following events:
 <ul>
-{% assign yearlist = "2019, 2018, 2017, 2016" | split: ", " %}
+{% assign yearlist = "2020, 2019, 2018, 2017, 2016" | split: ", " %}
 {% assign monthlist= "12, 11, 10, 09, 08, 07, 06, 05, 04, 03, 02, 01" | split: ", " %}
 
 {% comment %}
