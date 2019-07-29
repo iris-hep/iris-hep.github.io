@@ -58,6 +58,7 @@ presentations:
   - title: "Big Science with Big Instruments"
     date: 2019-05-15
     meeting: "AWS Seminar talk"
+    url: https://d1.awsstatic.com/WWPS/pdf/Science_at_the_Petascale.pdf
   - title: "Advancing Open Science through distributed High Throughput Computing"
     date: 2019-04-12
     url: https://drive.google.com/file/d/1M8w5ndUURkrsDDomhPFpGco4e0efHCVq/view?usp=sharing
