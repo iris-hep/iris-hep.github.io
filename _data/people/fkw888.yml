@@ -6,6 +6,54 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: "XCache Initiatives and Experiences"
+    date: 2019-07-08
+    meeting: "pre-GDB meeting on XCache"
+    url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune8th2019.pptx
+  - title: "Reducing Disk Needs with a Data Lake Concept"
+    date: 2019-07-05
+    meeting: "ECoM2x meeting CMS"
+    url: http://uaf-8.t2.ucsd.edu/~fkw/ecom2xJuly5th2019.pptx
+  - title: "Advancing Open Science through distributed High Throughput Computing"
+    date: 2019-06-25
+    meeting: "NERSC Seminar talk"
+    url: http://uaf-8.t2.ucsd.edu/~fkw/nerscJune25th2019.pptx
+  - title: "OSG Accounting Task Force"
+    date: 2019-06-12
+    meeting: "OSG Area Coordinators Meeting"
+    location: virtual
+    url: http://uaf-8.t2.ucsd.edu/~fkw/osgAccountingTaskForceJune122019.pptx
+  - title: "OSG-LHC"
+    date: 2019-06-12
+    meeting: "NSF IRIS-HEP meeting"
+  - title: "UCSD in IRIS-HEP DOMA"
+    date: 2019-06-07
+    meeting: "DOMA IRIS-HEP meeting"
+  - title: "Advancing Science through distributed High Throughput Computing"
+    date: 2019-06-05
+    meeting: "SDX Workshop at Qualcom Institute"
+    meetingurl: https://www.eventbrite.com/e/integrating-open-science-grid-osg-with-sdx-projects-workshop-june-5-6-2019-tickets-58800356449
+    location: San Diego, CA
+    url: http://uaf-8.t2.ucsd.edu/~fkw/sdxJune5th2019.pptx
+  - title: "Data Lake — A site perspective"
+    date: 2019-06-04
+    meeting: "DOMA Access Meeting WLCG"
+    url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune4th2019.pptx
+  - title: "OSG Value Proposition for Campuses"
+    date: 2019-05-21
+    url: https://drive.google.com/file/d/1WgaZMtm_DNB2qt8_-GJkVs66mlI4cORE/view?usp=drive_web
+    meeting: "Great Plains Network Annual Meeting"
+    meetingurl: https://conferences.k-state.edu/gpn/
+    location: Kansas City, MO
+  - title: "Advancing Open Science through distributed High Throughput Computing"
+    date: 2019-05-21
+    url: https://drive.google.com/file/d/1qZStE92CfkdN3i0zjboF-vl3Llgx4r1D/view?usp=drive_web
+    meeting: "Great Plains Network Annual Meeting"
+    meetingurl: https://conferences.k-state.edu/gpn/
+    location: Kansas City, MO
+  - title: "Big Science with Big Instruments"
+    date: 2019-05-15
+    meeting: "AWS Seminar talk"
   - title: "Advancing Open Science through distributed High Throughput Computing"
     date: 2019-04-12
     url: https://drive.google.com/file/d/1M8w5ndUURkrsDDomhPFpGco4e0efHCVq/view?usp=sharing
