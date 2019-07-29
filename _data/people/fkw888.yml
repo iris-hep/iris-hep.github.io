@@ -26,9 +26,13 @@ presentations:
   - title: "OSG-LHC"
     date: 2019-06-12
     meeting: "NSF IRIS-HEP meeting"
+    url: https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf
+    meetingurl: https://indico.cern.ch/event/820235/
   - title: "UCSD in IRIS-HEP DOMA"
     date: 2019-06-07
     meeting: "DOMA IRIS-HEP meeting"
+    meetingurl: https://indico.cern.ch/event/818793/
+    url: https://indico.cern.ch/event/818793/contributions/3420719/attachments/1859017/3054548/iris-hep-domaJune7th2019.pdf
   - title: "Advancing Science through distributed High Throughput Computing"
     date: 2019-06-05
     meeting: "SDX Workshop at Qualcom Institute"
