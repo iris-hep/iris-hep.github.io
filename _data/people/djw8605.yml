@@ -6,6 +6,12 @@ institution: University of Nebraska - Lincoln
 website: https://github.com/djw8605
 photo: /assets/images/team/Derek-Weitzel.jpg
 presentations:
+  - title: "StashCache: A Distributed Caching Federation for the Open Science Grid"
+    date: 2019-7-30
+    url: https://drive.google.com/file/d/1689yCyAdYI2jggzLXHNvE3h8qtYLk2-5/view?usp=sharing
+    meeting: Practice and Experience in Advanced Research Computing
+    meetingurl: https://www.pearc19.pearc.org/
+    focus-area: osglhc, doma
   - title: "OSG Data Federation"
     date: 2019-06-11
     url: https://indico.cern.ch/event/727208/contributions/3444610/attachments/1860176/3057002/OSG-StashCache.pdf
