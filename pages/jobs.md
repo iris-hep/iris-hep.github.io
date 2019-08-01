@@ -25,8 +25,6 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
 ### Princeton University
 
-  * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
-
   * [Data Scientists for the Princeton Catalysis Initiative](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10662)
 
   * [Data Scientists in Biomedical Data Science](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10661)
