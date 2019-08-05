@@ -7,7 +7,7 @@ website: https://github.com/djw8605
 photo: /assets/images/team/Derek-Weitzel.jpg
 presentations:
   - title: "StashCache: A Distributed Caching Federation for the Open Science Grid"
-    date: 2019-7-30
+    date: 2019-07-30
     url: https://drive.google.com/file/d/1689yCyAdYI2jggzLXHNvE3h8qtYLk2-5/view?usp=sharing
     meeting: Practice and Experience in Advanced Research Computing
     meetingurl: https://www.pearc19.pearc.org/

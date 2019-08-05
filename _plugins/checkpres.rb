@@ -17,13 +17,14 @@ module Checks
           presentation = Record.new(msg, pres_array)
 
           presentation.key 'title', :nonempty
-          presentation.key 'date', :nonempty
+          presentation.key 'date', :nonempty, :date
           presentation.key 'meeting', :nonempty
           presentation.key 'url'
           presentation.key 'meetingurl', :optional
           presentation.key 'location', :optional
           presentation.key 'focus-area', :optional
           presentation.key 'project', :optional
+
         end
       end
     end
