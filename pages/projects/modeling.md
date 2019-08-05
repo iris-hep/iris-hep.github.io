@@ -31,9 +31,3 @@ caching strategies" to "global replication strategies", and the management
 of network and storage assets to support processing. It thus provides the
 analytical underpinning of other DOMA projects.
 
-
-{% include list_project_team.md team=page.team%}
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}

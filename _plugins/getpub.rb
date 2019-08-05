@@ -127,7 +127,7 @@ module Publications
       # Build the citation string (non-author part)
       j = data.dig('publication_info', 0) # This may be nil
       journal =
-        if j && j.key?('journal_title') && j.key?('year')
+        if j&.key?('journal_title') && j&.key?('year')
           "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
         elsif data.key? 'arxiv_eprints'
           "arXiv #{data['arxiv_eprints'][0]['value']}"

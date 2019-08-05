@@ -4,20 +4,21 @@ layout: project
 title: pyhf
 shortname: pyhf
 pagetype: project
-image: logos/pyhf-logo-square.png
+image: logos/pyhf-logo.png
+logowidth: 50%
 blurb: Differentiable likelihoods
 focus-area: as
 team:
  - cranmer
+ - Lukas Heinrich
+ - Matthew Feickert
+ - Giordon Stark
 ---
 
 
-
-<img alt="pyhf logo" src="/assets/logos/pyhf-logo.png" width="50%" />
-
 `pyhf` is a pure-python implementation of the widely-used HistFactory p.d.f. template described in [[CERN-OPEN-2012-016](https://cds.cern.ch/record/1456844)]. It also includes interval estimation is based on the asymptotic formulas of "Asymptotic formulae for likelihood-based tests of new physics" [[arxiv:1007.1727](https://arxiv.org/abs/1007.1727)]. The aim is also to support modern computational graph libraries such as PyTorch and TensorFlow in order to make use of features such as autodifferentiation and GPU acceleration.
 
-[A talk on pyhf by Matthew Feickert](https://matthewfeickert.github.io/talk-DIANA-HEP-pyhf-2018/index.html?p=talk.md#1)
+[A talk on pyhf by Matthew Feickert](http://matthewfeickert.github.io/talk-DIANA-HEP-pyhf-2018/index.html?p=talk.md#1)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/diana-hep/pyhf/)
@@ -37,13 +38,3 @@ team:
 [![Docker Stars](https://img.shields.io/docker/stars/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
 
-
-{% include list_project_team.md team=page.team%}
- - Lukas Heinrich
- - Matthew Feickert
- - Giordon Stark
-
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}

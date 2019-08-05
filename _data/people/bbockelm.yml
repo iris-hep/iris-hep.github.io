@@ -11,24 +11,24 @@ presentations:
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271528/attachments/1790472/2919593/DOMA-SB-1.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/
-    focusarea: doma
+    focus-area: doma
     project: idds,tpc
   - title: "WLCG DOMA TPC Updates"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3312485/attachments/1815438/2968872/DOMA-TPC-HOW2019-v4.pdf
     meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
     meetingurl: https://indico.cern.ch/event/759388
-    focusarea: doma
+    focus-area: doma
     project: idds
   - title: "OSG Technology Updates for 2019"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3353317/attachments/1815443/2966874/OSG-AHM-2019.pdf
     meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
     meetingurl: https://indico.cern.ch/event/759388
-    focusarea: osglhc
+    focus-area: osglhc
   - title: "WLCG DOMA TPC Working Group"
     date: 2019-05-28
     meeting: US CMS Tier-2 Facilities May 2019 Meeting
     url: https://indico.cern.ch/event/823168/contributions/3442076/attachments/1852590/3041829/WLCG-DOMA-USCMS-T2.pdf
-    focusarea: doma
+    focus-area: doma
     project: tpc

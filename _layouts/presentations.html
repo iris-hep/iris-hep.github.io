@@ -1,0 +1,32 @@
+<!doctype html>
+
+{% include layout_header_navbar.html %}
+
+      <div class="container">
+        <main role="main">
+          <div class="presentation toppagelinks">
+            <div class="inner">
+              Presentations:
+              <a href="/presentations/byarea.html">by area</a>
+              &#8226;
+              <a href="/presentations/byinstitution.html">by institution</a>
+              &#8226;
+              <a href="/presentations/bymonth.html">by date</a>
+              &#8226;
+              <a href="/presentations/byperson.html">by person</a>.
+            </div>
+            <div class="inner">
+              Publications:
+              <a href="/publications/all.html">by date</a>.
+            </div>
+          </div>
+          
+          {{ content }}
+        </main>
+    {% include footer.html %}
+      </div>
+
+  {% include layout_analytics.html %}
+
+  </body>
+</html>

@@ -1,6 +1,6 @@
 ---
 permalink: /presentations/byperson.html
-layout: default
+layout: presentations
 title: Presentations by Person
 ---
 

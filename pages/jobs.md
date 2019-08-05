@@ -15,11 +15,6 @@ title: Available Positions
 
   * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
 
-### Stanford University
-
-  * [Postdoctoral Fellow in Experimental High Energy Physics](https://academicjobsonline.org/ajo/jobs/13618) - deadline 1 June, 2019
-
-
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
@@ -28,13 +23,7 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 ### Lawrence Berkeley Lab
   * [Postdoc in Pattern Recognition on Quantum Computers](https://academicjobsonline.org/ajo/jobs/13801)
 
-### Jefferson Lab
-
-  * [Scientific Computing Staff Scientist I](https://careers.peopleclick.com/careerscp/client_jeffersonlab/external/jobDetails.do?functionName=getJobDetail&jobPostId=1264&localeCode=en-us)
-
 ### Princeton University
-
-  * [Research Computing Cloud Architect](https://main-princeton.icims.com/jobs/8933/research-computing-cloud-architect/job)
 
   * [Data Scientists for the Princeton Catalysis Initiative](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10662)
 
@@ -42,13 +31,9 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Data Scientists in the Center for Information Technology Policy (CITP)](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10641)
 
-### Notre Dame
-
-  * [Professional Research Programmer (Scientific Workflows)](https://jobs.nd.edu/postings/15810) - contact Kevin Lannon (klannon@nd.edu) for more infromation
-
 ### Argonne National Lab
 
-  * [Assistant Computational Scientist](http://inspirehep.net/record/1722455)
+  * [Postdoc - Algorithm Optimization at the Exascale](https://careers.peopleclick.com/careerscp/client_argonnelab/post_doc/en_US/gateway.do?functionName=viewFromLink&localeCode=en-us&jobPostId=7071)
 
 ### ATLAS
 
