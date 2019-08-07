@@ -6,3 +6,9 @@ institution: Cornell University
 website: https://github.com/dan131riley
 photo: /assets/images/team/Dan-Riley.JPG
 presentations:
+  - title: Use and Abuse of Random Numbers
+    date: 2019-07-24
+    url: https://indico.cern.ch/event/814979/contributions/3401176/attachments/1831472/3107702/RandomAbuse2019.pdf
+    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+    meetingurl: https://indico.cern.ch/event/814979
+    location: Princeton University
