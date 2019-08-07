@@ -89,4 +89,27 @@ presentations:
     url: https://indico.cern.ch/event/798721/contributions/3461343/
     meetingurl: https://indico.cern.ch/event/798721/
     focus-area: as
+  - title: "Update on awkward-array, uproot, and related projects"
+    date: 2019-06-19
+    meeting: "Analysis Systems Topical Workshop"
+    url: https://indico.cern.ch/event/822074/contributions/3471451/
+    meetingurl: https://indico.cern.ch/event/822074/overview
+    focus-area: as
+  - title: "Motivation and requirements for awkward 1.0"
+    date: 2019-07-10
+    meeting: "Analysis Systems Biweekly Meeting"
+    url: https://indico.cern.ch/event/815512/
+    focus-area: as
+  - title: "Scientific Python Ecosystem; Columnar Data Analysis; Accelerating Python"
+    date: 2019-07-23
+    meeting: "Third Computational and Data Science for High Energy Physics (CoDaS-HEP) School"
+    url: https://github.com/jpivarski/2019-07-23-codas-hep#readme
+    meetingurl: http://codas-hep.org/
+    focus-area: as
+  - title: "IRIS-HEP Tutorial: Fast columnar data analysis with data science tools"
+    date: 2019-07-29
+    meeting: "Division of Particles and Fields (DPF) of the American Physical Society (APS)"
+    url: https://indico.cern.ch/event/782953/sessions/302485/#20190729
+    meetingurl: https://indico.cern.ch/event/782953/overview
+    focus-area: as
 
