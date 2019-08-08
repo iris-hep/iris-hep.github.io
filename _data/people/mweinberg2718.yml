@@ -3,7 +3,7 @@ shortname: mweinberg2718
 title:
 active: green
 institution: University of Chicago
-website:
+website: https://efi.uchicago.edu/people/profile/marc-weinberg/
 photo: /assets/images/team/Marc-Weinberg.jpg
 presentations:
   - title: Delivery of columnar data to analysis systems
