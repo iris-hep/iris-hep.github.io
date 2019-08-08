@@ -2,6 +2,7 @@ name: Nicholas Cinko
 shortname: nickcinko
 title: Graduate Student
 active: green
+photo: /assets/images/atom.png
 institution: University of California, Berkeley
 presentations:
   - title: "Ambiguity Resolution: Using Machine Learning"
