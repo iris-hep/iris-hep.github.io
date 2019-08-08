@@ -12,5 +12,5 @@ presentations:
     meeting: "ATLAS Software & Computing Week #62"
     meetingurl: https://indico.cern.ch/event/765245/
     location: New York City, New York
-    focus-area: doma, as
+    focus-area: doma, as, ssl
     project: idds
