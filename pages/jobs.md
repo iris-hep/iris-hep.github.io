@@ -11,6 +11,9 @@ title: Available Positions
 ### Princeton University
   * [Associate Project Manager](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=11761) 
 
+### University of Nebraska-Lincoln
+  * [Postdoctoral Research Fellow](http://inspirehep.net/record/1748258) - deadline 15 September 2019
+
 ### University of Texas, Austin
 
   * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
