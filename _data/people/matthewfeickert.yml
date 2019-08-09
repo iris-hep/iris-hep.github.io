@@ -6,3 +6,16 @@ institution: University of Illinois at Urbana-Champaign
 website: https://www.matthewfeickert.com
 photo: /assets/images/team/matthewfeickert.jpeg
 presentations:
+  - title: "pyhf: a pure Python implementation of HistFactory with tensors and autograd"
+    date: 2018-10-29
+    url: https://indico.cern.ch/event/759480/contributions/3149836/
+    meeting: DIANA/HEP Meeting
+    meetingurl: https://indico.cern.ch/event/759480/
+    focus-area: as
+  - title: "pyhf: a pure Python statistical fitting library for High Energy Physics with tensors and autograd"
+    date: 2019-07-09
+    url: https://doi.org/10.25080/Majora-7ddc1dd1-019
+    meeting: 18th annual Scientific Computing with Python conference (SciPy 2019)
+    meetingurl: http://conference.scipy.org/proceedings/scipy2019/
+    location: University of Texas at Austin
+    focus-area: as
