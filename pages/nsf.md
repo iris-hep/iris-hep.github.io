@@ -23,7 +23,7 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 | ---- | :-------------: | :-----: | 
 | Innovative Algorithms | [Info](as) | [May 2019](https://indico.cern.ch/event/818460/contributions/3418066/attachments/1840620/3022159/InnovativeAlgorithms_May_2019_3.pdf) |
 | Analysis Systems | [Info](ia) | [April, 2019](https://indico.cern.ch/event/809187/contributions/3371163/attachments/1827920/2992539/IRIS_AS_overview_for_NSF-5.pdf) |
-| Data Organization, Management, and Acess (DOMA) | [Info](doma) | Scheduled |
+| Data Organization, Management, and Acess (DOMA) | [Info](doma) | [July, 2019](https://indico.cern.ch/event/834056/contributions/3495279/attachments/1877464/3092137/IRIS-HEP-DOMA-NSF.pdf)|
 | Software Sustainability Core | [Info](ssc) | Scheduled |
-| Scalable Systems Laboratory | Info | Scheduled |
-| Open Science Grid (OSG-LHC) | Info | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
+| Scalable Systems Laboratory | [Info](ssl) | Scheduled |
+| Open Science Grid (OSG-LHC) | [Info](osglhc) | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
