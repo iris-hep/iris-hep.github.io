@@ -15,6 +15,7 @@
                         <a class="dropdown-item" href="/about/steering-board">Steering Board</a>
                         <a class="dropdown-item" href="/about/advisory-panel">Advisory Panel</a>
                         <a class="dropdown-item" href="/about/code-of-conduct">Code of Conduct</a>
+                        <a class="dropdown-item" href="/docs">Docs</a>
                         <a class="dropdown-item" href="/sitemap">Sitemap</a>
                     </div>
                 </li>
@@ -35,6 +36,9 @@
                         {% for mypage in activities %}
                         <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
                         {% endfor %}
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/presentations/bymonth">Presentations</a>
+                        <a class="dropdown-item" href="/publications/all">Publications</a>
                     </div>
                 </li>
                 <!--  Nav to news items disabled until there are news items; BB 2019-04-23
