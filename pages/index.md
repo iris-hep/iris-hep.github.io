@@ -60,5 +60,31 @@ IRIS-HEP team members are involved in organizing the following events:
 
 
 <a href="/events.html">View all past events</a>
-<br><br>
+<br>
 
+<h4>Current IRIS-HEP fellows:</h4>
+
+<div class="container-fluid">
+  <div class="row">
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
+  {% if mypage.pagetype == 'fellow' %} 
+     {% assign person = mypage %}
+     <div class="card" style="width: 12rem;">
+        <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
+        <div class="card-body d-flex flex-column">
+          <div class="card-text">
+             <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
+             <small>{{person.institution}}</small><br><br>
+          </div>
+          <div class="card-text mt-auto"><i>{{person.dates}}</i><br></div>
+        </div>
+     </div>
+  {% endif %}
+{% endfor %}
+  </div>
+  <br>
+</div>
+Find out more about the IRIS-HEP <a href="/fellows.html">fellows program</a>
+<br>
+<br>
