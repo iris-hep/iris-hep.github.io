@@ -6,3 +6,15 @@ institution: Princeton University
 website:
 photo: /assets/images/team/Bei-Wang.jpg
 presentations:
+  - title: Floating Point Arithmetic Is Not Real
+    date: 2019-07-24
+    url: https://indico.cern.ch/event/814979/contributions/3401175/attachments/1831476/3107964/FloatingPointArithmetic.pdf
+    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+    meetingurl: https://indico.cern.ch/event/814979
+    location: Princeton University
+  - title: Introduction to Performance Tuning & Optimization Tools
+    date: 2019-07-25
+    url: https://indico.cern.ch/event/814979/contributions/3401196/attachments/1831466/3109819/PerformanceTools.pdf
+    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+    meetingurl: https://indico.cern.ch/event/814979
+    location: Princeton University
