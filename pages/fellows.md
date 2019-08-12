@@ -59,7 +59,6 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
              <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
              <small>{{person.institution}}</small><br><br>
           </div>
-          <div class="card-text mt-auto"><i>{{person.title}}</i><br></div>
           <div class="card-text mt-auto"><i>{{person.dates}}</i><br></div>
         </div>
      </div>
