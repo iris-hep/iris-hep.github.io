@@ -44,11 +44,22 @@ different page categories (using our custom frontmatter tag "pagetype").
 </ul>
 
 <br>
+<b>IRIS-HEP Fellow pages:</b>
+<ul>
+{% assign sorted = site.pages | sort: 'title' %}
+{% for mypage in sorted %}
+  {% if mypage.pagetype == 'fellow' %} 
+  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<br>
 <b>Other pages:</b>
 <ul>
 {% assign sorted = site.pages | sort: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.title %} 
+  {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.pagetype != 'fellow' and mypage.title %} 
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}
