@@ -62,7 +62,10 @@ IRIS-HEP team members are involved in organizing the following events:
 <a href="/events.html">View all past events</a>
 <br>
 
-<h4>Current IRIS-HEP fellows:</h4>
+<h4>IRIS-HEP fellowship program:</h4>
+IRIS-HEP Fellows spend several months working closely with a mentor on 
+a HEP software R&D topic relevant to the Institute. 
+<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP fellows program.</a>
 
 <div class="container-fluid">
   <div class="row">
@@ -85,6 +88,5 @@ IRIS-HEP team members are involved in organizing the following events:
   </div>
   <br>
 </div>
-Find out more about the IRIS-HEP <a href="/fellows.html">fellows program</a>
 <br>
 <br>
