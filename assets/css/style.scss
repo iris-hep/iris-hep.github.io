@@ -56,30 +56,55 @@ body {
 /* Custom footer */
 
 .footer-dark {
-  @include gradient-x($navbar-dark-active-color, $primary, 0%, 100%);
-  border-top-color: $iris-100;
+    @include gradient-x($navbar-dark-active-color, $primary, 0%, 100%);
+    border-top-color: $iris-100;
 
-  border-top-style: solid;
-  border-top-width: 3px;
-  padding-top: 0.5rem;
-  padding-left: 1.0rem;
-  padding-right: 0.5rem;
-  padding-bottom: 1.5rem;
+    border-top-style: solid;
+    border-top-width: 3px;
+    padding-top: 0.5rem;
+    padding-left: 1.0rem;
+    padding-right: 0.5rem;
+    padding-bottom: 1.5rem;
 
-  a {
-    color: $navbar-dark-active-color;
+    a {
+        color: $navbar-dark-active-color;
 
-    @include hover-focus {
-      color: $navbar-dark-hover-color;
+        @include hover-focus {
+            color: $navbar-dark-hover-color;
+        }
     }
-  }
 
-  .footer-text {
-    color: $navbar-dark-active-color;
-  }
-}
+    .footer-text {
+        color: $navbar-dark-active-color;
+    }
 
-.footer-dark .footer-logo {
-    margin-right: 0.5rem;
-    justify-content: center;
+    .footer-logos {
+        display: flex;
+        flex-direction: column;
+        @media only screen and (min-width: 768px) {
+            flex-direction: row;
+        }
+
+        .footer-logo {
+            margin-right: 0.5rem;
+            margin-top: 0.5rem;
+            margin-bottom: 0.5rem;
+            justify-content: center;
+        }
+    }
+
+    .footer-vertical-center {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+    }
+
+    .footer-buttons {
+        width:33px;
+        @media only screen and (min-width: 991px) {
+            width:66px;
+        }
+    }
+
 }
