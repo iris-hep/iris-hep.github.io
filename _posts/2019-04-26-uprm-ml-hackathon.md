@@ -1,6 +1,6 @@
 ---
 layout: irispost
-title: ML Hackathon at University of Puerto Rico at Mayaguez
+title: ML Hackathon at the University of Puerto Rico at Mayaguez
 postimage: https://indico.cern.ch/event/809812/attachments/1835302/3006693/thumb_IMG_2745_1024.jpg
 ---
 
@@ -18,18 +18,19 @@ to automatically apply complex mathematical calculations to big
 data repeatedly and ever faster is a recent development. Learning
 these skill would make it possible to quickly and automatically
 produce models that can analyze bigger, more complex data and deliver
-faster, more accurate results. ML techniques encompasses all STEM
-fields. It is very essential that UPRM students learn these tools
-early on to make good careers in future.  
+faster, more accurate results. The potential for using ML techniques 
+encompasses all STEM fields. Learning ML tools early on can be
+very useful in a number of career paths and thus there is a great demand
+for opportunities such as this hackathon.
 
 The hackathon [agenda](https://indico.cern.ch/event/809812/timetable/) 
 included talks by UPRM researchers and faculty from the Mathematics, Physics
-and CS&E departments. The topics included covered Statistics, ML
-techniques and use cases from UPRM research activities. Dr. Sergei
-Gleyzer, who is a physicist from University of Florida and expert
-and convener of ML group at CMS Experiment. The participants will
-be students from UPRM and will be given challenging problem to solve
-during Hackathon.
+and CS&E departments. Topics included covered Statistics, ML
+techniques and use cases from research activities at UPRM. Dr. Sergei
+Gleyzer, a physicist from University of Florida and convener of ML group at 
+the CMS Experiment at CERN, also participated as a lecturer and facilitator. 
+The participants were be students from UPRM which were given challenging 
+problem to solve during Hackathon.
 
 
 
