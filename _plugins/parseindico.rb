@@ -6,24 +6,16 @@ require 'json'
 require 'yaml'
 require 'date'
 
-
 module Indico
-
   # Look for topical meetings
   class Meetings
     attr_accessor :dict
 
     # ID for IRIS-HEP: 10570
     def initialize(indico_id)
-      uri = URI.parse("https://indico.cern.ch/export/categ/#{indico_id}.json?pretty=no") # from=today&
-      response = Net::HTTP.get_response(uri)
-
-      string = response.body
-      parsed = JSON.parse(string) # returns a hash
-
       @dict = {}
 
-      parsed['results'].each do |i|
+      download_and_iterate indico_id do |i|
         # Skip if protected
         next if i['hasAnyProtection']
 
@@ -34,11 +26,16 @@ module Indico
 
         start_date = Date.parse i['startDate']['date']
         fname = "#{start_date.strftime '%Y%m%d'}.yml"
+
+        youtube = d.match %r{youtube\.com/watch\?v=(\w+)/}
+        youtube = youtube[1] unless youtube.nil?
+
         @dict[fname] = {
+          'name' => i['title'],
           'startdate' => start_date,
           'meetingurl' => i['url'],
-          'name' => i['title'],
           'location' => i['location'],
+          'youtube' => youtube,
           'description' => d
         }
       end
@@ -51,6 +48,19 @@ module Indico
 
         File.write(folder / d_key, d_val.to_yaml)
       end
+    end
+
+    private
+
+    # Run a block over each item in the downloaded results
+    def download_and_iterate(indico_id)
+      uri = URI.parse "https://indico.cern.ch/export/categ/#{indico_id}.json?pretty=no" # from=today&
+      response = Net::HTTP.get_response uri
+
+      string = response.body
+      parsed = JSON.parse string # returns a hash
+
+      parsed['results'].each { |i| yield i }
     end
   end
 end
