@@ -15,12 +15,17 @@ layout: default
       {%- endif -%}</p>
   </header>
   {%- if page.postimage -%}
-  <a href="{{page.postimage}}"><img src="{{page.postimage}}" style="float:right; margin-left: auto; margin-right: auto; width: 25%"></a>
+  <p> <a href="{{page.postimage}}"><img src="{{page.postimage}}" style="float:right; margin-left: auto; margin-right: auto; width: 25%"></a></p>
   {%- endif -%}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+<br>
+<hr>
+<em>IRIS-HEP is pleased to see our news stories reposted on the websites of other organizations. The stories should be reposted with credits to the IRIS-HEP website and the original authors, as well as a link to the original posting. Any alterations to the text or images for the reposting should be agreed by the IRIS-HEP Communications team.  Please email <mailto:xyz@iris-hep.org>.</em>
+<br><br>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
