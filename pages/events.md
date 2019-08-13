@@ -23,12 +23,10 @@ chronological order, grouped by months
 {% assign selected_array = "" | split: ',' %}
 {% for event_hash in site.data.events  %}
   {% assign event = event_hash[1] %}
-  {% if event.type != 'topical meeting' %}
   {% assign eventyear = event.startdate | date: "%Y" %}
   {% assign eventmonth = event.startdate | date: "%m" %}
   {% if eventyear == yearidx and eventmonth == monthidx %}
      {% assign selected_array = selected_array | push: event %}
-  {% endif %}
   {% endif %}
 {% endfor %}
 
