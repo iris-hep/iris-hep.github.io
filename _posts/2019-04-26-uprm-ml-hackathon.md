@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: irispost
 title: ML Hackathon at University of Puerto Rico at Mayaguez
 postimage: https://indico.cern.ch/event/809812/attachments/1835302/3006693/thumb_IMG_2745_1024.jpg
 ---
@@ -8,8 +8,6 @@ The very first Machine Learning Hackathon at the Physics Department
 of the University of Puerto Rico at Mayaguez took place on 24-26
 April, 2019, organized by IRIS-HEP Training, Education and Outreach
 coordinator (and UPRM physics professor) Sudhir Malik. 
-
-[![ML Group Photo]({{page.postimage}}){:style="float:right; margin-left: auto; margin-right: auto; width: 25%"}]({{page.postimage}})
 
 Machine learning is a method of data analysis that automates analytical
 model building. It is a branch of artificial intelligence based on
@@ -22,9 +20,10 @@ these skill would make it possible to quickly and automatically
 produce models that can analyze bigger, more complex data and deliver
 faster, more accurate results. ML techniques encompasses all STEM
 fields. It is very essential that UPRM students learn these tools
-early on to make good careers in future.  The
-[agenda](https://indico.cern.ch/event/809812/timetable/) included
-talks by UPRM researchers and faculty from the Mathematics, Physics
+early on to make good careers in future.  
+
+The hackathon [agenda](https://indico.cern.ch/event/809812/timetable/) 
+included talks by UPRM researchers and faculty from the Mathematics, Physics
 and CS&E departments. The topics included covered Statistics, ML
 techniques and use cases from UPRM research activities. Dr. Sergei
 Gleyzer, who is a physicist from University of Florida and expert
