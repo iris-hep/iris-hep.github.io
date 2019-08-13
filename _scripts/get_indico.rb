@@ -28,10 +28,10 @@ OptionParser.new do |parser|
   end
 end.parse!
 
-parent = options[:folder].parent
-parent.mkdir unless parent.directory?
+folder = options[:folder]
+folder.mkdir unless folder.directory?
 
 iris_meeting = Indico::Meetings.new options[:number]
-iris_meeting.to_files options[:folder] do |key|
-  puts "Making #{options[:folder] / key}\n"
+iris_meeting.to_files folder do |key|
+  puts "Making #{folder / key}\n"
 end
