@@ -23,11 +23,9 @@ ongoing events don't get prematurely flagged as recent.
 IRIS-HEP team members are involved in organizing the following events:
 {% for event_hash in site.data.events %}
   {% assign event = event_hash[1] %}
-  {% if event.type != 'topical meeting' %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp >= sixdaysago %} 
      {% assign selected_events = selected_events | push: event %}
-  {% endif %}
   {% endif %}
 {% endfor %}
 
@@ -44,11 +42,9 @@ IRIS-HEP team members are involved in organizing the following events:
 <h4>Recent Events:</h4>
 {% for event_hash in site.data.events  %}
   {% assign event = event_hash[1] %}
-  {% if event.type != 'topical meeting' %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
      {% assign selected_events = selected_events | push: event %}
-  {% endif %}
   {% endif %}
 {% endfor %}
 
