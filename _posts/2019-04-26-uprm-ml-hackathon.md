@@ -38,7 +38,7 @@ and CS&E departments. Topics included covered Statistics, ML
 techniques and use cases from research activities at UPRM. [Dr. Sergei
 Gleyzer](http://sergeigleyzer.com), a physicist from University of Florida and convener of ML group at 
 the CMS Experiment at CERN, also participated as a lecturer and facilitator. 
-The participants were be students from UPRM which were given challenging 
+The participants were students from UPRM who were given challenging 
 problem to solve during Hackathon.
 
 
