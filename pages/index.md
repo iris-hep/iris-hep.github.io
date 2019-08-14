@@ -8,6 +8,32 @@ bgimage: assets/images/Tprime-200pu-PhaseII-black-arctic-main-image.jpg
 <br>
 IRIS-HEP is a software institute funded by the National Science Foundation. It aims to develop the state-of-the-art software cyberinfrastructure required for the challenges of data intensive scientific research at the High Luminosity Large Hadron Collider (HL-LHC) at CERN, and other planned HEP experiments of the 2020's. These facilities are discovery machines which aim to understand the fundamental building blocks of nature and their interactions. [Full Overview](/about/overview.html)
 
+
+
+<h4>News:</h4>
+
+<div class="container-fluid">
+  <div class="row">
+    {% for post in site.posts %}
+       <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="{{post.postimage}}" alt="Card image cap">
+          <div class="card-body d-flex flex-column">
+            <div class="card-text">
+               <b><a href="{{post.url}}">{{post.title}}</a></b>
+            </div>
+            <div class="card-text">{{post.excerpt}} <a href="{{post.url}}">Read more</a></div>
+          </div>
+       </div>
+    {% endfor %}
+  </div>
+  <br>
+</div>
+
+<a href="/news.html">View all past news items</a>
+<br>
+
+
+
 {% comment %}
 Go through the list and produce a list of upcoming events as well as a 
 list of events in the past 90 days. Treat 6 days ago as "now" so that
