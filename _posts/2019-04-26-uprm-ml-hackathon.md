@@ -7,7 +7,7 @@ postimage: https://indico.cern.ch/event/809812/attachments/1835302/3006693/thumb
 The very first Machine Learning Hackathon at the Physics Department
 of the University of Puerto Rico at Mayaguez took place on 24-26
 April, 2019, organized by IRIS-HEP Training, Education and Outreach
-coordinator (and UPRM physics professor) Sudhir Malik. 
+coordinator (and UPRM physics professor) [Sudhir Malik](http://charma.uprm.edu/~malik/). 
 
 Machine learning is a method of data analysis that automates analytical
 model building. It is a branch of artificial intelligence based on
@@ -23,14 +23,27 @@ encompasses all STEM fields. Learning ML tools early on can be
 very useful in a number of career paths and thus there is a great demand
 for opportunities such as this hackathon.
 
+Diyaselis Delgado López, a UPRM physics undergraduate student who 
+participated, was surprised and excited about what she learned: "Thanks to 
+this experience, I definitely want to investigate further and use these 
+techniques in everything I can." Ricardo González, another physics undergrad 
+at UPRM, also participated in the Hackathon. He felt that attending the 
+Hackaton was extremely valuable "because it opened my eyes to a powerful tool 
+that physicists have within our reach. Soon I will become a graduate student, 
+and I am now looking for ways to incorporate what I have learned here."
+
 The hackathon [agenda](https://indico.cern.ch/event/809812/timetable/) 
 included talks by UPRM researchers and faculty from the Mathematics, Physics
 and CS&E departments. Topics included covered Statistics, ML
-techniques and use cases from research activities at UPRM. Dr. Sergei
-Gleyzer, a physicist from University of Florida and convener of ML group at 
+techniques and use cases from research activities at UPRM. [Dr. Sergei
+Gleyzer](http://sergeigleyzer.com), a physicist from University of Florida and convener of ML group at 
 the CMS Experiment at CERN, also participated as a lecturer and facilitator. 
 The participants were be students from UPRM which were given challenging 
 problem to solve during Hackathon.
+
+
+
+
 
 
 
