@@ -21,5 +21,5 @@ by the NSF-funded [S2I2-HEP Institute Conceptualization Project](http://s2i2-hep
 Over the course of a dozen workshops during 2016 and 2017, more than 260
 scientists and engineers from around the world were involved in building this community vision.
 
-For information see the [overview](/about/overview) on the [IRIS-HEP website](/).
+For more information see the [overview](/about/overview) on the [IRIS-HEP website](/).
 
