@@ -20,20 +20,20 @@ HEP Experiments
 
 U.S. Collaborations
 
-  * [US ATLAS Collaboration](https://po.usatlas.bnl.gov/)
-  * [US ATLAS Operations Program](https://po.usatlas.bnl.gov/programoffice/op.php)
-  * [US CMS Collaboration](https://uscms.org/index.shtml)
-  * [US CMS Operations Program](https://uscms.org/uscms_at_work/rpo/index.shtml)
+  * [U.S. ATLAS Collaboration](https://po.usatlas.bnl.gov/)
+  * [U.S. ATLAS Operations Program](https://po.usatlas.bnl.gov/programoffice/op.php) - This is a joint NSF/DOE project to support operations and computing facilities needed for the U.S. participation in the ATLAS experiment at CERN. -- [[NSF PHY-1624739](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1624739)]
+  * [U.S. CMS Collaboration](https://uscms.org/index.shtml)
+  * [U.S. CMS Operations Program](https://uscms.org/uscms_at_work/rpo/index.shtml) - This is a joint NSF/DOE project to support operations and computing facilities needed for the U.S. participation in the CMS experiment at CERN. -- [[NSF PHY-1624356](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1624356&HistoricalAwards=false)]
 
 Distributed High Throughput Computing
 
-  * [Open Science Grid](https://opensciencegrid.org/)
+  * [Open Science Grid](https://opensciencegrid.org/) -- [[NSF OAC-0621704](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0621704&HistoricalAwards=false),[NSF OAC-1148698](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1148698&HistoricalAwards=false)]
 
 Scientific Software
 
-  * [SCAILFIN](https://scailfin.github.io/)
-  * [SLATE](https://slateci.io) -- [NSF OAC-1724821](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1724821&HistoricalAwards=false)
-  * [VC3](https://www.virtualclusters.org)
+  * [SCAILFIN](https://scailfin.github.io/) -- [[NSF OAC-1841471](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1841471&HistoricalAwards=false), [NSF OAC-1841456](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1841456&HistoricalAwards=false), [NSF OAC-1841448](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1841448&HistoricalAwards=false)]
+  * [SLATE](https://slateci.io) -- [[NSF OAC-1724821](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1724821&HistoricalAwards=false)]
+  * [VC3](https://www.virtualclusters.org) -- 
   * [DIANA/HEP](http://diana-hep.org/) -- [[NSF OAC-1450377](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450377&HistoricalAwards=false), [NSF OAC-1450310](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450310&HistoricalAwards=false), [NSF OAC-1450323](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450323&HistoricalAwards=false), [NSF OAC-1450319](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450319&HistoricalAwards=false)]
   * [Parallel Kalman Filter Tracking](http://trackreco.github.io/) --[[NSF PHY-1521042](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1521042&HistoricalAwards=false), [NSF PHY-1520942](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1520942&HistoricalAwards=false), [NSF PHY-1520969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1520969&HistoricalAwards=false), [NSF PHY-1624356](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1624356&HistoricalAwards=false), [NSF OAC-1836650/IRIS-HEP](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650&HistoricalAwards=false)] 
   * [ACTS](https://gitlab.cern.ch/acts)
@@ -44,7 +44,7 @@ Scientific Software
 
 Training
 
-  * [FIRST-HEP](http://first-hep.org/) - 
+  * [FIRST-HEP](http://first-hep.org/) -- [[NSF OAC-1829707](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829707&HistoricalAwards=false), [NSF OAC-1829729](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1829729&HistoricalAwards=false)]
   * [CoDaS-HEP](http://codas-hep.org/) 
 
 Older Projects
