@@ -27,8 +27,13 @@ module Indico
         start_date = Date.parse i['startDate']['date']
         fname = "#{start_date.strftime '%Y%m%d'}.yml"
 
-        youtube = d.match %r{youtube\.com/watch\?v=(\w+)/}
-        youtube = youtube[1] unless youtube.nil?
+	youtube=''
+	urllist = URI.extract(d)
+	urllist.each do |url|
+	   if url.include? "youtube"
+  	     youtube=url
+	   end
+        end
 
         @dict[fname] = {
           'name' => i['title'],
