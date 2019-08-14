@@ -17,7 +17,7 @@ ongoing events don't get prematurely flagged as recent.
 {% assign sixdaysago = 'now' | date: "%s" | minus: 518400 | date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
 {% assign ninetydaysago = 'now' | date: "%s" | minus: 7776000| date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
 
-<hr style="border: 5px solid green; border-radius: 2px;">
+<hr style="border: 2px solid rgb(136,134,208); border-radius: 1px;">
 {% assign selected_events = "" | split: ',' %}
 <h4>Upcoming Events:</h4>
 IRIS-HEP team members are involved in organizing the following events:
@@ -36,7 +36,6 @@ IRIS-HEP team members are involved in organizing the following events:
   <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
 {% endfor %}
 </ul>
-
 
 {% assign selected_events = "" | split: ',' %}
 <h4>Recent Events:</h4>
@@ -62,6 +61,7 @@ IRIS-HEP team members are involved in organizing the following events:
 <a href="/events.html">View all past events</a>
 <br>
 
+<hr style="border: 2px solid rgb(136,134,208); border-radius: 1px;">
 
 <h4>Upcoming Topical Meetings:</h4>
 {% include get_indico_list.html %}
@@ -82,10 +82,12 @@ IRIS-HEP team members are involved in organizing the following events:
 
 <br>
 
-<h4>IRIS-HEP fellowship program:</h4>
+<hr style="border: 2px solid rgb(136,134,208); border-radius: 1px;">
+
+<h4>IRIS-HEP fellows program:</h4>
 IRIS-HEP Fellows spend several months working closely with a mentor on 
 a HEP software R&D topic relevant to the Institute. 
-<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP fellows program.</a>
+<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP fellows program.</a> Current fellows include:
 
 <div class="container-fluid">
   <div class="row">
@@ -108,11 +110,10 @@ a HEP software R&D topic relevant to the Institute.
   </div>
   <br>
 </div>
-<br>
-<br>
+
+<hr style="border: 2px solid rgb(136,134,208); border-radius: 1px;">
 
 Related projects:
-
 [The ATLAS experiment](https://home.cern/science/experiments/atlas) 
 &bull; [The Compact Muon Solenoid (CMS) experiment](https://home.cern/science/experiments/cms) 
 &bull; [The Large Hadron Collider beauty (LHCb) experiment](https://home.cern/science/experiments/lhcb)
