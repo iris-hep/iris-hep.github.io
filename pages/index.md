@@ -62,6 +62,26 @@ IRIS-HEP team members are involved in organizing the following events:
 <a href="/events.html">View all past events</a>
 <br>
 
+
+<h4>Upcoming Topical Meetings:</h4>
+{% include get_indico_list.html %}
+<ul>
+{% for event in selected_array %}
+  {% assign startdatecmp = event.startdate | date: "%s" %}
+  {% if currentdatecmp <= startdatecmp %}
+    <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<a href="/topical.html">View all past meetings</a>
+&bull;
+<a href="https://indico.cern.ch/category/10570/">Indico</a> <a href="https://www.youtube.com/channel/UC8Dmx4MYjp6RQ9ngc58Ujmg/videos">(recordings)</a>
+&bull;
+<a href="https://vidyoportal.cern.ch/join/oT21qIc1id">Vidyo room</a>
+
+<br>
+
 <h4>IRIS-HEP fellowship program:</h4>
 IRIS-HEP Fellows spend several months working closely with a mentor on 
 a HEP software R&D topic relevant to the Institute. 
