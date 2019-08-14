@@ -14,7 +14,7 @@ Not all of the below information is available without a password.
 * [Milestone Registry](https://docs.google.com/spreadsheets/d/1VKpHlQWXu_p8AUv5E5H_BzqF_i7hh2Z-Id0XPwNHu8o/edit#gid=0)
 * [Risk Registry](https://docs.google.com/spreadsheets/d/11oyGUEew_UT4M67QkQtOJqwvXdjVV_FreDX3qaJJKD8/edit#gid=0)
 * [History of the award](about/overview)
-* High-Level Overview Slides (date of last update in slides) - In preparation
+* [High-Level Overview Slides](https://docs.google.com/presentation/d/1FOkTKZbzyEPAzhZ5TNaxB3Gkqs1VzzS9CNXdNuJhx9Y/edit#slide=id.g450ed9a7a4_0_5) 
 
 #### IRIS-HEP Areas
 IRIS-HEP is composed of the following areas. The first three are the main development areas.
@@ -25,5 +25,5 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 | Analysis Systems | [Info](ia) | [April, 2019](https://indico.cern.ch/event/809187/contributions/3371163/attachments/1827920/2992539/IRIS_AS_overview_for_NSF-5.pdf) |
 | Data Organization, Management, and Acess (DOMA) | [Info](doma) | [July, 2019](https://indico.cern.ch/event/834056/contributions/3495279/attachments/1877464/3092137/IRIS-HEP-DOMA-NSF.pdf)|
 | Software Sustainability Core | [Info](ssc) | Scheduled |
-| Scalable Systems Laboratory | [Info](ssl) | Scheduled |
+| Scalable Systems Laboratory | [Info](ssl) | [August, 2019](https://indico.cern.ch/event/839481/contributions/3521577/attachments/1893314/3122869/2019.08.14_IRIS-HEP_SSL_for_NSF.pdf) |
 | Open Science Grid (OSG-LHC) | [Info](osglhc) | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
