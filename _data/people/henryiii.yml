@@ -64,3 +64,10 @@ presentations:
     meeting: IRIS-HEP Analysis Systems Topical Workshop
     meetingurl: https://indico.cern.ch/event/822074/
     focus-area: as
+  - title: Modern CMake
+    date: 2019-08-14
+    url: https://gitlab.com/CLIUtils/modern-cmake-interactive-talk
+    meeting: PICSciE Lunch Seminar
+    meetingurl: https://researchcomputing.princeton.edu/about
+    location: Princeton
+    focus-area: ssc
