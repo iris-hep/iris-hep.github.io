@@ -28,7 +28,7 @@ participated, was surprised and excited about what she learned: "Thanks to
 this experience, I definitely want to investigate further and use these 
 techniques in everything I can." Ricardo González, another physics undergrad 
 at UPRM, also participated in the Hackathon. He felt that attending the 
-Hackaton was extremely valuable "because it opened my eyes to a powerful tool 
+Hackathon was extremely valuable "because it opened my eyes to a powerful tool 
 that physicists have within our reach. Soon I will become a graduate student, 
 and I am now looking for ways to incorporate what I have learned here."
 
