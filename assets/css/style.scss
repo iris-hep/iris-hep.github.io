@@ -109,3 +109,37 @@ body {
     }
 
 }
+
+// Heading
+
+.mainpage-all {
+    display: flex;
+    flex-flow: column;
+    @media only screen and (min-width: 768px) {
+        flex-flow: row wrap;
+    }
+}
+
+.mainpage-all > * {
+    flex: 1 100%;
+}
+
+@media only screen and (min-width: 768px) {
+.mainpage-main {
+     flex: 2 0px;
+}
+}
+
+.mainpage-sidebar {
+    padding: 0px;
+    @media only screen and (min-width: 768px) {
+        flex: 1 0px;
+        background-color: aliceblue;
+        padding: 10px;
+    }
+}
+
+.mainpage-core {
+    margin: 10px 0 30px 0;
+}
+
