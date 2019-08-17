@@ -41,105 +41,147 @@ body {
 /* a:hover,a:focus{color:#2C3E50;text-decoration:underline;} */
 
 .boxed {
-    background-color: rgb(242, 244, 244) ;
-    border: 2px solid black ;
-    padding: 5px;
-    height: 200px;
-    overflow: scroll;
+  background-color: rgb(242, 244, 244) ;
+  border: 2px solid black ;
+  padding: 5px;
+  height: 200px;
+  overflow: scroll;
 }
 .boxedInf {
-    background-color: rgb(242, 244, 244) ;
-    border: 2px solid black ;
-    padding: 5px;
+  background-color: rgb(242, 244, 244) ;
+  border: 2px solid black ;
+  padding: 5px;
 }
 
 /* Custom footer */
 
 .footer-dark {
-    @include gradient-x($navbar-dark-active-color, $primary, 0%, 100%);
-    border-top-color: $iris-100;
+  @include gradient-x($navbar-dark-active-color, $primary, 0%, 100%);
+  border-top-color: $iris-100;
 
-    border-top-style: solid;
-    border-top-width: 3px;
-    padding-top: 0.5rem;
-    padding-left: 1.0rem;
-    padding-right: 0.5rem;
-    padding-bottom: 1.5rem;
+  border-top-style: solid;
+  border-top-width: 3px;
+  padding-top: 0.5rem;
+  padding-left: 1.0rem;
+  padding-right: 0.5rem;
+  padding-bottom: 1.5rem;
 
-    a {
-        color: $navbar-dark-active-color;
+  a {
+    color: $navbar-dark-active-color;
 
-        @include hover-focus {
-            color: $navbar-dark-hover-color;
-        }
+    @include hover-focus {
+      color: $navbar-dark-hover-color;
+    }
+  }
+
+  .footer-text {
+    color: $navbar-dark-active-color;
+    text-shadow: 0px 0px 10px $primary;
+  }
+
+  .footer-logos {
+    display: flex;
+    flex-direction: column;
+    @media only screen and (min-width: 768px) {
+      flex-direction: row;
     }
 
-    .footer-text {
-        color: $navbar-dark-active-color;
-        text-shadow: 0px 0px 10px $primary;
+    .footer-logo {
+      margin-right: 0.5rem;
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
+      justify-content: center;
     }
+  }
 
-    .footer-logos {
-        display: flex;
-        flex-direction: column;
-        @media only screen and (min-width: 768px) {
-            flex-direction: row;
-        }
+  .footer-vertical-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 
-        .footer-logo {
-            margin-right: 0.5rem;
-            margin-top: 0.5rem;
-            margin-bottom: 0.5rem;
-            justify-content: center;
-        }
+  }
+
+  .footer-buttons {
+    width:33px;
+    @media only screen and (min-width: 991px) {
+      width:66px;
     }
-
-    .footer-vertical-center {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-
-    }
-
-    .footer-buttons {
-        width:33px;
-        @media only screen and (min-width: 991px) {
-            width:66px;
-        }
-    }
+  }
 
 }
 
 // Heading
 
 .mainpage-all {
-    display: flex;
-    flex-flow: column;
-    @media only screen and (min-width: 768px) {
-        flex-flow: row wrap;
-    }
+  display: flex;
+  flex-flow: column;
+  @media only screen and (min-width: 768px) {
+    flex-flow: row wrap;
+  }
 }
 
 .mainpage-all > * {
-    flex: 1 100%;
+  flex: 1 100%;
 }
 
 @media only screen and (min-width: 768px) {
-.mainpage-main {
-     flex: 2 0px;
-}
+  .mainpage-main {
+    flex: 2 0px;
+  }
 }
 
 .mainpage-sidebar {
-    padding: 0px;
-    @media only screen and (min-width: 768px) {
-        flex: 1 0px;
-        background-color: aliceblue;
-        padding: 10px;
+  padding: 0px;
+  @media only screen and (min-width: 768px) {
+    flex: 1 0px;
+    background-color: scale-color($primary, $lightness: 90%);
+
+    .mainpage-sidebar-text, .mainpage-sidebar-links {
+      margin: 10px;
     }
+
+  }
+
+  .mainpage-sidebar-links {
+    text-align: right;
+  }
+
+  > * > ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    padding: 0px;
+    list-style: none;
+
+    .event {
+      display: flex;
+      flex-flow: row wrap;
+      margin: 5px 0 10px 0;
+      background-color: scale-color($primary, $lightness: 85%);
+
+      .date {
+        flex: 0 2 35%;
+        font-size: 0.9rem;
+        padding: 0 5px 0 10px;
+      }
+
+      .location {
+        flex: 0 3 65%;
+        text-align: right;
+        font-style: italic;
+        font-size: 0.9rem;
+        padding: 0 10px 0 5px;
+      }
+
+      .name {
+        flex: 0 1 100%;
+        font-size: 1.1rem;
+        padding: 0 10px 0 10px;
+      }
+    }
+  }
 }
 
 .mainpage-core {
-    margin: 10px 0 30px 0;
+  margin: 10px 0 30px 0;
 }
 
