@@ -105,9 +105,7 @@ IRIS-HEP team members are involved in organizing the following events:
     <li>
       <div class="event">
         <div class="date">
-          {{event.startdate | date: "%-d&nbsp;%b" }} -
-          {{event.enddate | date: "%-d&nbsp;%b" }},
-          {{event.startdate | date: "%Y" }}
+          {% include daterange.html start=event.startdate end=event.enddate %}
         </div>
         <div class="location">
           {{event.location}}
