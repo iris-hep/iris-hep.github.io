@@ -127,6 +127,7 @@ body {
 @media only screen and (min-width: 768px) {
   .mainpage-main {
     flex: 2 0px;
+    margin-right: 10px;
   }
 }
 
@@ -134,7 +135,6 @@ body {
   padding: 0px;
   @media only screen and (min-width: 768px) {
     flex: 1 0px;
-    background-color: scale-color($primary, $lightness: 90%);
 
     .mainpage-sidebar-text, .mainpage-sidebar-links {
       margin: 10px;
@@ -155,19 +155,28 @@ body {
       display: flex;
       flex-flow: row wrap;
       margin: 5px 0 10px 0;
-      background-color: scale-color($primary, $lightness: 85%);
+      background-color: scale-color($primary, $lightness: 90%);
+      border-radius: 6px;
+      box-shadow: $primary 3px 3px 4px;
+
+      .date, .location {
+        background-color: $primary;
+        color: white;
+      }
 
       .date {
+        border-radius: 6px 0px 0px 0px;
         flex: 0 2 35%;
-        font-size: 0.9rem;
+        font-size: 0.8rem;
         padding: 0 5px 0 10px;
       }
 
       .location {
+        border-radius: 0px 6px 0px 0px;
         flex: 0 3 65%;
         text-align: right;
         font-style: italic;
-        font-size: 0.9rem;
+        font-size: 0.8rem;
         padding: 0 10px 0 5px;
       }
 

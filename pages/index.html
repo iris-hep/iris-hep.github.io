@@ -133,7 +133,19 @@ IRIS-HEP team members are involved in organizing the following events:
 {% for event in selected_events  %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
-  <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
+    <li>
+      <div class="event">
+        <div class="date">
+          {% include daterange.html start=event.startdate end=event.enddate %}
+        </div>
+        <div class="location">
+          {{event.location}}
+        </div>
+        <div class="name">
+          <a href="{{event.meetingurl}}">{{event.name}}</a>
+        </div>
+      </div>
+    </li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -144,27 +156,41 @@ IRIS-HEP team members are involved in organizing the following events:
 
 <div class="mainpage-topical mainpage-core">
 
+<div class="mainpage-sidebar-text">
 <h4>Upcoming Topical Meetings:</h4>
+</div>
 {% include get_indico_list.html %}
 <ul>
 {% for event in selected_array %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if currentdatecmp <= startdatecmp %}
-    <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a></li>
+    <li>
+      <div class="event">
+        <div class="date">
+          {% include daterange.html start=event.startdate end=event.enddate %}
+        </div>
+        <div class="location">
+        </div>
+        <div class="name">
+          <a href="{{event.meetingurl}}">{{event.name}}</a>
+        </div>
+      </div>
+    </li>
   {% endif %}
 {% endfor %}
 </ul>
 
+<div class="mainpage-sidebar-links">
 <a href="/topical.html">View all past meetings</a>
 &bull;
 <a href="https://indico.cern.ch/category/10570/">Indico</a> <a href="https://www.youtube.com/channel/UC8Dmx4MYjp6RQ9ngc58Ujmg/videos">(recordings)</a>
 &bull;
 <a href="https://vidyoportal.cern.ch/join/oT21qIc1id">Vidyo room</a>
-
-
+</div>
 </div>
 
 <div class="mainpage-related mainpage-core">
+<div class="mainpage-sidebar-text">
 
 <h4>Related projects:</h4>
 {% capture mdlist %}
@@ -195,6 +221,7 @@ IRIS-HEP team members are involved in organizing the following events:
 
 {{mdlist | markdownify }}
 
+</div>
 </div>
 </div>
 </div>

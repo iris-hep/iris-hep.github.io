@@ -2,21 +2,28 @@
 Pass in start and end, and this will print out a date range
 {%- endcomment -%}
 
-{%- assign startyear = include.start | date: "%Y" -%}
-{%- assign startmonth = include.start | date: "%-d" -%}
-{%- assign startday = include.start | date: "%b" -%}
+{%- assign start = include.start -%}
+{%- if include.end -%}
+{%-   assign end = include.end -%}
+{%- else -%}
+{%-   assign end = include.start -%}
+{%- endif -%}
 
-{%- assign endyear = include.end | date: "%Y" -%}
-{%- assign endmonth = include.end | date: "%-d" -%}
-{%- assign endday = include.end | date: "%b" -%}
+{%- assign startyear = start | date: "%Y" -%}
+{%- assign startmonth = start | date: "%b" -%}
+{%- assign startday = start | date: "%-d" -%}
+
+{%- assign endyear = end | date: "%Y" -%}
+{%- assign endmonth = end | date: "%b" -%}
+{%- assign endday = end | date: "%-d" -%}
 
 {%- if startyear != endyear -%}
-{{ startmonth }}&nbsp;{{startday}}, {{startyear}}&ndash;{{ endmonth }}&nbsp;{{endday}}, {{endyear}}
+{{ startmonth }}&nbsp;{{ startday }}, {{ startyear }}&ndash;{{ endmonth }}&nbsp;{{ endday }}, {{ endyear }}
 {%- elsif startmonth != endmonth -%}
-{{ startmonth }}&nbsp;{{startday}}&ndash;{{ endmonth }}&nbsp;{{endday}}, {{endyear}}
+{{ startmonth }}&nbsp;{{ startday }}&ndash;{{ endmonth }}&nbsp;{{ endday }}, {{ endyear }}
 {%- elsif startday != endday -%}
-{{ startmonth }}&nbsp;{{startday}}&ndash;{{endday}}, {{endyear}}
+{{ startmonth }}&nbsp;{{ startday }}&ndash;{{ endday }}, {{ endyear }}
 {%- else -%}
-{{ startmonth }}&nbsp;{{startday}}, {{startyear}}
-{%- endif-%}
+{{ startmonth }}&nbsp;{{ startday }}, {{ startyear }}
+{%- endif -%}
 
