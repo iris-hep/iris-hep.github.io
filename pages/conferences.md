@@ -4,7 +4,7 @@ layout: default
 title: Conferences and Workshops
 ---
 
-The following is a list of conferences related to IRIS-HEP R&D, where 
+The following is a list of conferences relevant for IRIS-HEP R&D, where 
 work can be presented and written up in conference proceedings for publication.
 **Abstract submission deadlines are indicative, please check the webpages of
 the conference itself as these sometimes change.**
