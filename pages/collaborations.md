@@ -19,14 +19,14 @@ include:
 
 ### U.S. Collaborations
 
-  * [U.S. ATLAS Collaboration](https://po.usatlas.bnl.gov/)
+  * [U.S. ATLAS Collaboration](https://po.usatlas.bnl.gov/) - This is the full collaboration of U.S. researchers participating in the ATLAS experiment at the LHC. Funding comes from a variety of single PI and group NSF and DOE grants.
   * [U.S. ATLAS Operations Program](https://po.usatlas.bnl.gov/programoffice/op.php) - This is a joint NSF/DOE project to support operations and computing facilities needed for the U.S. participation in the ATLAS experiment at CERN. -- [[NSF PHY-1624739](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1624739)]
-  * [U.S. CMS Collaboration](https://uscms.org/index.shtml)
+  * [U.S. CMS Collaboration](https://uscms.org/index.shtml) - This is the full collaboration of U.S. researchers participating in the CMS experiment at the LHC. Funding comes from a variety of single PI and group NSF and DOE grants.
   * [U.S. CMS Operations Program](https://uscms.org/uscms_at_work/rpo/index.shtml) - This is a joint NSF/DOE project to support operations and computing facilities needed for the U.S. participation in the CMS experiment at CERN. -- [[NSF PHY-1624356](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1624356&HistoricalAwards=false)]
 
 ### Distributed High Throughput Computing
 
-  * [Open Science Grid](https://opensciencegrid.org/) -- [[NSF OAC-0621704](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0621704&HistoricalAwards=false),[NSF OAC-1148698](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1148698&HistoricalAwards=false)]
+  * [Open Science Grid](https://opensciencegrid.org/) -- [[NSF OAC-0621704](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0621704&HistoricalAwards=false), [NSF OAC-1148698](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1148698&HistoricalAwards=false)]
 
 ### Scientific Software
 
