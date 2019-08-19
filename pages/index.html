@@ -103,17 +103,19 @@ IRIS-HEP team members are involved in organizing the following events:
   {% for event in selected_events %}
     {% assign startdatecmp = event.startdate | date: "%s" %}
     <li>
-      <div class="event">
-        <div class="date">
-          {% include daterange.html start=event.startdate end=event.enddate %}
+      <a href="{{event.meetingurl}}">
+        <div class="event">
+          <div class="date">
+            {% include daterange.html start=event.startdate end=event.enddate %}
+          </div>
+          <div class="location">
+            {{event.location}}
+          </div>
+          <div class="name">
+            {{event.name}}
+          </div>
         </div>
-        <div class="location">
-          {{event.location}}
-        </div>
-        <div class="name">
-          <a href="{{event.meetingurl}}">{{event.name}}</a>
-        </div>
-      </div>
+      </a>
     </li>
   {% endfor %}
 </ul>
@@ -134,17 +136,19 @@ IRIS-HEP team members are involved in organizing the following events:
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
     <li>
-      <div class="event">
-        <div class="date">
-          {% include daterange.html start=event.startdate end=event.enddate %}
+      <a href="{{event.meetingurl}}">
+        <div class="event">
+          <div class="date">
+            {% include daterange.html start=event.startdate end=event.enddate %}
+          </div>
+          <div class="location">
+            {{event.location}}
+          </div>
+          <div class="name">
+            {{event.name}}
+          </div>
         </div>
-        <div class="location">
-          {{event.location}}
-        </div>
-        <div class="name">
-          <a href="{{event.meetingurl}}">{{event.name}}</a>
-        </div>
-      </div>
+      </a>
     </li>
   {% endif %}
 {% endfor %}
@@ -165,16 +169,18 @@ IRIS-HEP team members are involved in organizing the following events:
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if currentdatecmp <= startdatecmp %}
     <li>
-      <div class="event">
-        <div class="date">
-          {% include daterange.html start=event.startdate end=event.enddate %}
+      <a href="{{event.meetingurl}}">
+        <div class="event">
+          <div class="date">
+            {% include daterange.html start=event.startdate end=event.enddate %}
+          </div>
+          <div class="location">
+          </div>
+          <div class="name">
+            {{event.name}}
+          </div>
         </div>
-        <div class="location">
-        </div>
-        <div class="name">
-          <a href="{{event.meetingurl}}">{{event.name}}</a>
-        </div>
-      </div>
+      </a>
     </li>
   {% endif %}
 {% endfor %}

@@ -136,6 +136,10 @@ body {
   @media only screen and (min-width: 768px) {
     flex: 1 0px;
 
+    background-color: scale-color($iris-gray, $lightness: 75%);
+    border-radius: 12px 12px 0 0;
+    padding: 0 8px 0 8px;
+
     .mainpage-sidebar-text, .mainpage-sidebar-links {
       margin: 10px;
     }
@@ -155,16 +159,16 @@ body {
       display: flex;
       flex-flow: row wrap;
       margin: 5px 0 10px 0;
-      background-color: scale-color($primary, $lightness: 90%);
+      // background-color: scale-color($iris-accent-400, $lightness:60%);
+      background-color: scale-color($iris-100, $lightness:60%);
       border-radius: 6px;
-      box-shadow: $primary 3px 3px 4px;
 
       .date, .location {
-        background-color: $primary;
         color: white;
       }
 
       .date {
+        background-color: $iris-400;
         border-radius: 6px 0px 0px 0px;
         flex: 0 2 35%;
         font-size: 0.8rem;
@@ -172,6 +176,7 @@ body {
       }
 
       .location {
+        background-color: $iris-100;
         border-radius: 0px 6px 0px 0px;
         flex: 0 3 65%;
         text-align: right;
@@ -184,6 +189,7 @@ body {
         flex: 0 1 100%;
         font-size: 1.1rem;
         padding: 0 10px 0 10px;
+        color: black;
       }
     }
   }
