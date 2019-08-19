@@ -23,5 +23,6 @@ title: Media, Press Releases and Press Mentions
   * 19 Sep 2018 - ["Next generation Large Hadron Collider relies on UW–Madison computing"](https://news.wisc.edu/next-generation-large-hadron-collider-relies-on-uw-madison-computing/), University of Wisconsin - Madison
   * 26 Sep 2018 - ["Holland Computing Center helps meet massive data demands from upgraded Large Hadron Collider project"](https://newsroom.unl.edu/announce/cse/8549/49029), University of Nebraska - Lincoln 
   * 1 Oct 2018 - "US initiative to tackle data demands of HL-LHC" ([article direct link](https://cerncourier.com/us-initiative-to-tackle-data-demands-of-hl-lhc/), [pdf full issue](http://iopp.fileburst.com/ccr/archive/CERNCourier2018Oct-digitaledition.pdf)), CERN Courier
+  * 19 Aug 2019 - ["Princeton leads efforts to develop national data training framework for high energy physics"](https://www.princeton.edu/news/2019/08/19/princeton-leads-efforts-develop-national-data-training-framework-high-energy), Princeton University
 
 
