@@ -14,10 +14,6 @@ title: Available Positions
 ### University of Nebraska-Lincoln
   * [Postdoctoral Research Fellow](http://inspirehep.net/record/1748258) - deadline 15 September 2019
 
-### University of Texas, Austin
-
-  * [Postdoctoral Fellow in Experimental High Energy Physics](http://inspirehep.net/record/1726458) - deadline 12 April, 2019
-
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
