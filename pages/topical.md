@@ -36,7 +36,7 @@ chronological order, grouped by months
   {% endif %}
   <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a>
   {% if event.youtube.size > 4 %}
-  (<a href="{{event.youtube}}">Watch the meeting recording</a>)
+  - (<a href="{{event.youtube}}">Watch the meeting recording</a>)
   {% endif %}
   </li> 
 {% endfor %}
