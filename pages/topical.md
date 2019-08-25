@@ -8,9 +8,12 @@ title: IRIS-HEP Topical Meetings
 </center>
 
 <br>
-IRIS-HEP topical meetings cover one or more presentations involving IRIS-HEP researchers or from related
-research areas. They are typically held Mondays 17:30 GVA and Wednesdays 18:00 GVA. Vidyo connections
-are always available and meetings are usually recorded. Find all topical meeting agendas [here](https://indico.cern.ch/category/10570/).
+IRIS-HEP topical meetings cover one or more presentations involving
+IRIS-HEP researchers or from related research areas. They are
+typically held Mondays 17:30 GVA and Wednesdays 18:00 GVA. Vidyo
+connections are always available and meetings are usually recorded.
+Find all topical meeting agendas
+[here](https://indico.cern.ch/category/10570/).
 <ul>
 
 {% comment %}
