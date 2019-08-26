@@ -136,8 +136,6 @@ body {
   @media only screen and (min-width: 768px) {
     flex: 1 0px;
 
-    background-color: scale-color($iris-gray, $lightness: 75%);
-    border-radius: 12px 12px 0 0;
     padding: 0 8px 0 8px;
 
     .mainpage-sidebar-text, .mainpage-sidebar-links {
@@ -147,6 +145,12 @@ body {
 
   .mainpage-sidebar-links {
     text-align: right;
+  }
+
+  .mainpage-core h4 {
+    color: $iris-400;
+    font-size: 1.3rem;
+    margin-bottom: .2rem;
   }
 
   > * > ul {
@@ -162,6 +166,7 @@ body {
       // background-color: scale-color($iris-accent-400, $lightness:60%);
       background-color: scale-color($iris-100, $lightness:60%);
       border-radius: 6px;
+      box-shadow: black 2px 2px 4px;
 
       .date, .location {
         color: white;
@@ -176,7 +181,7 @@ body {
       }
 
       .location {
-        background-color: $iris-100;
+        background-color: $iris-400;
         border-radius: 0px 6px 0px 0px;
         flex: 0 3 65%;
         text-align: right;
