@@ -35,6 +35,7 @@ include:
   * [VC3](https://www.virtualclusters.org) -- 
   * [DIANA/HEP](http://diana-hep.org/) -- [[NSF OAC-1450377](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450377&HistoricalAwards=false), [NSF OAC-1450310](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450310&HistoricalAwards=false), [NSF OAC-1450323](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450323&HistoricalAwards=false), [NSF OAC-1450319](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1450319&HistoricalAwards=false)]
   * [Parallel Kalman Filter Tracking](http://trackreco.github.io/) -- [[NSF PHY-1521042](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1521042&HistoricalAwards=false), [NSF PHY-1520942](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1520942&HistoricalAwards=false), [NSF PHY-1520969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1520969&HistoricalAwards=false), [NSF PHY-1624356](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1624356&HistoricalAwards=false), [NSF OAC-1836650/IRIS-HEP](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650&HistoricalAwards=false)] 
+  * [SSE ML@LHCb](https://sse-ml-lhcb.gitlab.io/) -- [[NSF OAC-1739772](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1739772&HistoricalAwards=false), [NSF OAC-1740102](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740102&HistoricalAwards=false)] 
 
 ### Training
 
