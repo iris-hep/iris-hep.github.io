@@ -25,6 +25,7 @@ module Checks
           presentation.key 'focus-area', :optional
           presentation.key 'project', :optional
 
+          presentation.print_warnings
         end
       end
     end
