@@ -8,6 +8,8 @@ module Checks
     def initialize(name, data)
       @name = name
       @data = data
+      @missing = []
+      @empty = []
     end
  
     # Check to see if key is present. You can add :optional and/or :nonempty.
@@ -19,15 +21,15 @@ module Checks
       msg = "Unrecognized arguments #{args} passed to Record.key"
       raise ArgumentError, msg unless args.empty?
 
-      keyword = optional ? 'should' : 'must'
-
       # If the key exists
       if !@data.key? key
-        msg = "#{@name} #{keyword} contain #{key}"
-        send_msg(optional, msg)
+        @missing << key if optional
+        msg = "#{@name} must contain #{key}"
+        raise StandardError, msg unless optional
       elsif nonempty
-        msg = "#{@name} contains #{key} which #{keyword} not be empty"
-        send_msg(optional, msg) unless @data[key]
+        @empty << key if optional
+        msg = "#{@name} contains #{key} which must not be empty"
+        raise StandardError, msg unless @data[key]
       end
 
       if date 
@@ -37,11 +39,15 @@ module Checks
       end
     end
 
-    private
-
-    def send_msg(optional, msg)
-      puts msg if optional
-      raise StandardError, msg unless optional
+    def print_warnings
+      unless @missing.empty?
+        keys = @missing.join ', '
+        puts "#{@name} must contain #{keys}."
+      end
+      unless @empty.empty?
+        keys = @empty.join ', '
+        puts "#{@name} must contain non-empty #{keys}."
+      end
     end
   end
 end

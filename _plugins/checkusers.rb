@@ -18,6 +18,8 @@ module Checks
         person.key 'title'
         person.key 'institution', :nonempty
         person.key 'photo', :optional
+
+        person.print_warnings
       end
     end
   end
