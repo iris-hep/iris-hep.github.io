@@ -11,7 +11,7 @@ focus-area: as
 team:
  - cranmer
  - Lukas Heinrich
- - Matthew Feickert
+ - matthewfeickert
  - Giordon Stark
 ---
 
@@ -37,4 +37,3 @@ team:
 [![Supported Python versionss](https://img.shields.io/pypi/pyversions/pyhf.svg)](https://pypi.org/project/pyhf/)
 [![Docker Stars](https://img.shields.io/docker/stars/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
-
