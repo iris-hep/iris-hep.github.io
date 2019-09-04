@@ -27,11 +27,7 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
 ### Princeton University
 
-  * [Data Scientists for the Princeton Catalysis Initiative](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10662)
-
-  * [Data Scientists in Biomedical Data Science](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10661)
-
-  * [Data Scientists in the Center for Information Technology Policy (CITP)](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=10641)
+  * [Data Scientist positions in Catalysis, Biomedical Data Science and Technology Policy](https://csml.princeton.edu/news/data-scientist-positions-available-princeton)
 
 ### Argonne National Lab
 
