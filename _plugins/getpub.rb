@@ -174,8 +174,8 @@ module Publications
 
         puts "Reading #{cname} from cache"
       else
-        yield pub
         puts "Saving #{cname}"
+        yield pub
         save_to_cache(pub, cname)
       end
     end
