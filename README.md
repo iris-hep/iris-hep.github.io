@@ -1,4 +1,4 @@
-[![Travis status](https://travis-ci.com/iris-hep/iris-hep.github.io-source.svg?branch=master)](https://travis-ci.com/iris-hep/iris-hep.github.io-source/settings#)
+[![Travis status](https://travis-ci.com/iris-hep/iris-hep.github.io-source.svg?branch=master)](https://travis-ci.com/iris-hep/iris-hep.github.io-source)
 
 # iris-hep.github.io
 GitHub pages for IRIS-HEP website
