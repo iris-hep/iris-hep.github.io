@@ -6,7 +6,22 @@ institution: University of Puerto Rico at Mayaguez
 website: http://charma.uprm.edu/~malik/
 photo: /assets/images/team/Sudhir-Malik.png
 presentations:
+  - title: "Software Sustainability Core"
+    date: 2019-09-03
+    url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/277985/attachments/1901696/3139916/IRIS-HEP_SteeringBoard_SSC_3Sep2019.pdf
+    meeting: IRIS-HEP Steering Board Meeting
+    meetingurl: https://indico.cern.ch/event/809178/    
+  - title: "Training WG update"
+    date: 2018-07-11
+    url: https://indico.cern.ch/event/785587/contributions/3266731/attachments/1776030/3097240/HSF_TEO_WG_update_11July_2019-2.pdf
+    meeting: HEP Software Foundation Weekly Meeting
+    meetingurl: https://indico.cern.ch/event/785587/   
   - title: "Training and Outreach"
+    date: 2019-05-20
+    url: https://indico.cern.ch/event/812745/contributions/3437349/attachments/1847280/3031287/IRIS-HEP_ExecBoard_SSC_20May2019.pdf
+    meeting: IRIS-HEP Executive Board Meeting
+    meetingurl: https://indico.cern.ch/event/812745/      
+  - title: "Training and Outreach" 
     date: 2018-10-31
     url: https://indico.cern.ch/event/755573/contributions/3175492/attachments/1745033/2827577/TEO_IRIS_HEP_KickOff_31Oct2018.pdf
     meeting: IRIS-HEP Kickoff Workshop
