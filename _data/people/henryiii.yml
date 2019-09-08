@@ -71,3 +71,8 @@ presentations:
     meetingurl: https://researchcomputing.princeton.edu/about
     location: Princeton
     focus-area: ssc
+  - title: Modern CMake Workshop
+    date: 2019-08-20
+    url: https://henryiii.github.io/cmake_workshop/
+    meeting: USATLAS/FIRST-HEP Computing Bootcamp
+    meetingurl: https://indico.cern.ch/event/816946/
