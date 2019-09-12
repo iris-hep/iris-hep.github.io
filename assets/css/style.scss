@@ -163,10 +163,8 @@ body {
       display: flex;
       flex-flow: row wrap;
       margin: 5px 0 10px 0;
-      // background-color: scale-color($iris-accent-400, $lightness:60%);
       background-color: scale-color($iris-100, $lightness:60%);
       border-radius: 6px;
-      box-shadow: black 2px 2px 4px;
 
       .date, .location {
         color: white;
@@ -202,5 +200,52 @@ body {
 
 .mainpage-core {
   margin: 10px 0 30px 0;
+}
+
+
+.post {
+  .iris-post-footer {
+    clear: both;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    @media only screen and (min-width: 768px) {
+      margin-top: 40px;
+    }
+  }
+
+  img.banner {
+    width: 100%;
+    padding-bottom: 20px;
+  }
+
+  figure a img {
+    width: 100%;
+  }
+
+  figure.right {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    @media only screen and (min-width: 991px) {
+      float: right;
+      width: 50%;
+      margin-left: 20px;
+    }
+  }
+
+  figure.caption {
+    @media only screen and (min-width: 991px) {
+      padding: 6px;
+      background-color: scale-color($iris-100, $lightness:60%);
+      border-radius: 6px;
+    }
+    a img {
+      border-radius: 6px 6px 0px 0px;
+      margin-bottom: 6px;
+    }
+  }
+  a img {
+    width: 100%;
+  }
 }
 

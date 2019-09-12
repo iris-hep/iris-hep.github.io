@@ -4,6 +4,9 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    {%- if page.postbanner -%}
+    <img src="{{page.postbanner}}" alt="Page banner image" class="banner"/>
+    {%- endif -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -15,17 +18,21 @@ layout: default
       {%- endif -%}</p>
   </header>
   {%- if page.postimage -%}
-  <p> <a href="{{page.postimage}}"><img src="{{page.postimage}}" style="float:right; margin-left: auto; margin-right: auto; width: 25%"></a></p>
+    {%- if page.postimage-caption -%}
+      {% include figure.html file=page.postimage alt="Post primary image" caption=page.postimage-caption %}
+    {%- else -%}
+      {% include figure.html file=page.postimage alt="Post primary image" %}
+    {%- endif -%}
   {%- endif -%}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-<br>
+<div class="iris-post-footer">
 <hr>
-<em>IRIS-HEP is pleased to see our news stories reposted on the websites of other organizations. The stories should be reposted with credits to the IRIS-HEP website and the original authors, as well as a link to the original posting. Any alterations to the text or images for the reposting should be agreed by the IRIS-HEP Communications team.  Please email <mailto:xyz@iris-hep.org>.</em>
-<br><br>
+<em>IRIS-HEP is pleased to see our news stories reposted on the websites of other organizations. The stories should be reposted with credits to the IRIS-HEP website and the original authors, as well as a link to the original posting. Any alterations to the text or images for the reposting should be agreed by the IRIS-HEP Communications team.  Please email <a href="mailto:xyz@iris-hep.org">xyz@iris-hep.org</a>.</em>
+</div>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
