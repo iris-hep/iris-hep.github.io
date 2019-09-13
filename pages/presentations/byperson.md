@@ -4,11 +4,11 @@ layout: presentations
 title: Presentations by Person
 ---
 
-{% assign orderedlist = "cornell, indiana, mit, morgridge, nyu, princeton, stanford, chicago, cincinnati, uiuc, michigan, nebraska, berkeley, ucsc, ucsd, uprm, washington, wisconsin" | split: ", " %}
+{% include institution_list.html %}
 
 <h2>Presentations by the IRIS-HEP team</h2>
 
-{% for uniindex in orderedlist %}
+{% for uniindex in institution_list %}
 {% assign uni = site.data.universities[uniindex] %}
   {% for member in uni.personnel %}
      {% if site.data.people[member].presentations.size > 0 %}
