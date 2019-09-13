@@ -1,7 +1,7 @@
 ---
 layout: irispost
 title: ML Hackathon at the University of Puerto Rico at Mayaguez
-postimage: https://indico.cern.ch/event/809812/attachments/1835302/3006693/thumb_IMG_2745_1024.jpg
+postimage: /assets/images/posts/2019-04-26-uprm-ml-hackathon-main.jpg
 ---
 
 The very first Machine Learning Hackathon at the Physics Department
