@@ -4,6 +4,18 @@ layout: people
 title: Institute Team
 ---
 
+{% include institution_list.html %}
+
+
+{%- assign valid_people_ids = "" | split: "," -%}
+{%- for uniindex in institution_list -%}
+  {%- assign univ = site.data.universities[uniindex] -%}
+  {%- for memberid in univ.personnel -%}
+    {%- assign valid_people_ids = valid_people_ids | push: memberid -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+
 {%- assign sorted_mapping = "," | split:"," -%}
 {%- for member in site.data.people -%}
   {%- assign sortable_name = member[1].name | split:" " | reverse | join:" " -%}
@@ -19,11 +31,12 @@ title: Institute Team
 <div class="container-fluid">
 <div class="row">
 {% for member in sorted_people %}
-  {%- assign item = member | split:";" -%}
-  {%- assign item = item[1] -%}
-  {% assign person = site.data.people[item] %}
-  {% include standard_person_card.md %}
-  <br>
+  {%- assign pair = member | split:";" -%}
+  {%- assign memberid = pair[1] -%}
+  {%- if valid_people_ids contains memberid -%}
+    {% assign person = site.data.people[memberid] %}
+    {% include standard_person_card.md %}
+  {% endif %}
 {% endfor %}
 </div>
 </div>
