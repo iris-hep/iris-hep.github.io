@@ -6,7 +6,12 @@ postimage-caption: Teachers and students pose outside at LBNL.
 postbanner: /assets/images/posts/2019-09-10-usatlas-bootcamp-class.jpg
 ---
 
-IRIS-HEP/FIRST-HEP partnered with the Software Carpentries and USATLAS for the first USATLAS Bootcamp, held at the Lawrence Berkeley National Laboratory. This five day training event taught four basic computing skills: version control, build systems, continuous integration/testing, and containers, and then followed up each day with an ATLAS specific lesson over that topic. For the final half-day, instructors proposed a set of topics and the students voted on them; the top three topics were then taught in parallel sessions.
+IRIS-HEP/FIRST-HEP partnered with the Software Carpentries and USATLAS for the first USATLAS Bootcamp, held at Lawrence Berkeley National Laboratory. Four instructors from ATLAS, two from Software Carpentries, and two from IRIS-HEP were involved, along with five helpers from ATLAS. This five day training event taught four basic computing skills: version control, build systems, continuous integration/testing, and containers. Each day was followed up with an ATLAS specific lesson over that topic. For the final half-day, instructors proposed a set of topics and the students voted on them; the top three topics were then taught in parallel sessions. A couple of hours one day were set aside for a career panel, where students heard from six people from careers after working on ATLAS or anther HEP experiment.
+
+Feedback from the workshop was overwhelmingly positive. Out of the participants, 31 students completed the postmortum survey. 
+Students had a great time and built connections to other ATLAS collaborators and with several IRIS-HEP members; everyone said they met at least four new collaboration members. Several social activities were planned, such as a pizza lunch, two dinners at a local restaurants, and a visit to the Berkeley Bowl; a nearby supermarket that has become a local favorite.
+
+The material from the workshop is available online. The [workshop website](https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp/) and [Indico page](https://indico.cern.ch/event/816946/) are excellent places to go to find out more about the material taught in workshop, including the pre-workshop setup and installation guides. The sessions in the workshop are listed in the table below.
 
 <div style="clear:both"></div>
 
@@ -33,15 +38,14 @@ IRIS-HEP/FIRST-HEP partnered with the Software Carpentries and USATLAS for the f
     file="/assets/images/posts/2019-09-10-usatlas-bootcamp-pizza.jpg"
     alt="Students and teachers eating pizza outside"
     caption="Enjoying a pizza lunch outside."
+    class="center"
 %}
-
-Students had a great time. Several fun activities were planned, such as a pizza lunch, two dinners at a local restaurants, and a visit to the Berkeley Bowl. Insert testimonials here.
-
 
 {% include figure.html
     file="/assets/images/posts/2019-09-10-usatlas-bootcamp-teaching.jpg"
     alt="Teaching in front of a screen"
     caption="Teaching the container lesson."
+    class="center"
 %}
 
 
