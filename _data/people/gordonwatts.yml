@@ -68,3 +68,15 @@ presentations:
     meeting: Computing infrastructures for future data analysis
     meetingurl: https://indico.cern.ch/event/835581
     focus-area: as doma
+  - title: func-adl to C++/xAOD backend
+    date: 2019-09-13
+    url: https://indico.cern.ch/event/840472/contributions/3563333/
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472
+    focus-area: as
+  - title: Milestones - We don't need roads...
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3561605/
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472
+    focus-area: as
