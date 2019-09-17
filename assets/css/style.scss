@@ -18,6 +18,16 @@ body {
   }
 }
 
+@media only print {
+  header.masthead {
+    margin-bottom: 5mm;
+  }
+
+  header.masthead .site-heading {
+    padding: 0;
+  }
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -56,6 +66,39 @@ body {
   background-color: rgb(242, 244, 244) ;
   border: 2px solid black ;
   padding: 5px;
+}
+
+/* News cards */
+
+.row.news {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.card.news {
+  width: 21rem;
+  flex-grow: 1;
+  border: none;
+  margin: 0px 5px 25px 5px;
+  border-radius: 0;
+  
+  img.card-img-top {
+    border-radius: 0;
+  }
+
+  .card-body {
+    padding: 0;
+
+
+    .card-text.card-title {
+      font-weight: bolder;
+      margin: 5px 0px 5px 0px;
+      a {
+        color: $iris-400;
+      }
+    }
+
+  }
 }
 
 /* Custom footer */
@@ -124,7 +167,7 @@ body {
 
 }
 
-// Heading
+// Header
 
 .mainpage-all {
   display: flex;
@@ -145,6 +188,8 @@ body {
   }
 }
 
+// Sidebar
+
 .mainpage-sidebar {
   padding: 0px;
   @media only screen and (min-width: 768px) {
@@ -152,13 +197,11 @@ body {
 
     padding: 0 8px 0 8px;
 
-    .mainpage-sidebar-text, .mainpage-sidebar-links {
-      margin: 10px;
-    }
   }
 
   .mainpage-sidebar-links {
     text-align: right;
+    margin-top: -10px;
   }
 
   .mainpage-core h4 {
@@ -167,45 +210,56 @@ body {
     margin-bottom: .2rem;
   }
 
-  > * > ul {
+  ul {
     margin-top: 0.5rem;
     margin-bottom: 1rem;
     padding: 0px;
     list-style: none;
+  }
 
-    .event {
-      display: flex;
-      flex-flow: row wrap;
-      margin: 5px 0 10px 0;
-      background-color: scale-color($iris-100, $lightness:60%);
-      border-radius: 6px;
+  .event {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 5px 0 10px 0;
+    background-color: scale-color($iris-100, $lightness:60%);
+    border-radius: 6px;
 
-      .date, .location {
-        color: white;
-      }
+    .date, .location {
+      color: white;
+    }
 
-      .date {
-        background-color: $iris-400;
-        border-radius: 6px 0px 0px 0px;
-        flex: 0 2 35%;
-        font-size: 0.8rem;
-        padding: 0 5px 0 10px;
-      }
+    .date {
+      background-color: $iris-400;
+      border-radius: 6px 0px 0px 0px;
+      flex: 0 2 35%;
+      font-size: 0.8rem;
+      padding: 0 5px 0 10px;
+    }
 
-      .location {
-        background-color: $iris-400;
-        border-radius: 0px 6px 0px 0px;
-        flex: 0 3 65%;
-        text-align: right;
-        font-style: italic;
-        font-size: 0.8rem;
-        padding: 0 10px 0 5px;
-      }
+    .location {
+      background-color: $iris-400;
+      border-radius: 0px 6px 0px 0px;
+      flex: 0 3 65%;
+      text-align: right;
+      font-style: italic;
+      font-size: 0.8rem;
+      padding: 0 10px 0 5px;
+    }
 
-      .name {
-        flex: 0 1 100%;
-        font-size: 1.1rem;
-        padding: 0 10px 0 10px;
+    .name, .projects {
+      flex: 0 1 100%;
+      font-size: 1.1rem;
+      padding: 0 10px 0 10px;
+      color: black;
+    }
+
+    .projects p {
+      margin-top: .5rem;
+      margin-bottom: .5rem;
+      text-align: center;
+      color: $iris-200;
+
+      a {
         color: black;
       }
     }
