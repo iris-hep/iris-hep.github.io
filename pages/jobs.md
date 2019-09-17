@@ -8,9 +8,6 @@ title: Available Positions
 
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
-### Princeton University
-  * [Associate Project Manager](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=11761) 
-
 ### University of Nebraska-Lincoln
   * [Postdoctoral Research Fellow](http://inspirehep.net/record/1748258) - deadline 15 September 2019
 
