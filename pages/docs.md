@@ -9,7 +9,7 @@ title: "Documentation pages for the IRIS-HEP team"
 #### Informational
 
 * [Acknowledgements](/docs/acknowledgements)
-* [Logos](/docs/logo)
+* [Logos and colors](/docs/logo)
 * [Preparing the annual IRIS-HEP SOWs](/docs/sows)
 * [Related projects](/docs/related-projects)
 
