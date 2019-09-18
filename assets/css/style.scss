@@ -34,10 +34,36 @@ body {
 }
 
 // Dark mode
-.card {
-  @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
+  header.masthead {
+    .overlay {
+      background-color: black;
+      opacity: .4;
+    }
+    .site-heading {
+      color: white;
+    }
+  }
+
+  .card {
     background-color: inherit;
     color: inherit;
+  }
+  
+  .dropdown-menu {
+    background-color: $iris-200;
+    .dropdown-item {
+      color: white;
+    }
+    .dropdown-item:hover, .dropdown-item:focus {
+      color: black;
+    }
+  }
+  .projects .card-img-top {
+    background-color: white;
+  }
+  img.header-logo {
+    background-color: white;
   }
 }
 
