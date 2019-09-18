@@ -27,7 +27,7 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 | Software Sustainability Core | [Info](ssc) | Scheduled |
 | Scalable Systems Laboratory | [Info](ssl) | [August, 2019](https://indico.cern.ch/event/839481/contributions/3521577/attachments/1893314/3122869/2019.08.14_IRIS-HEP_SSL_for_NSF.pdf) |
 | Open Science Grid (OSG-LHC) | [Info](osglhc) | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
-| Blueprint | - | Scheduled September, 2019 |
+| Blueprint | - | [Sept 18, 2019](https://indico.cern.ch/event/846090/contributions/3553448/attachments/1910668/3157053/NSF_Area_Report-Blueprint_Activity.pdf) |
 
 
 <br>
