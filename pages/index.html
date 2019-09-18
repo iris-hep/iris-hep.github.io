@@ -25,7 +25,9 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
   <div class="news row">
     {% for post in site.posts limit:4 %}
        <div class="card news">
+          <a href="{{post.url}}">
           <img class="card-img-top" src="{{post.postimage}}" alt="Card image cap">
+          </a>
           <div class="card-body d-flex flex-column">
             <div class="card-text card-title">
                <a href="{{post.url}}">{{post.title}}</a>

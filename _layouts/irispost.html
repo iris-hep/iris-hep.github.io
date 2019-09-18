@@ -5,7 +5,9 @@ layout: default
 
   <header class="post-header">
     {%- if page.postbanner -%}
-    <img src="{{page.postbanner}}" alt="Page banner image" class="banner"/>
+    <a href="{{page.postbanner}}">
+      <img src="{{page.postbanner}}" alt="Page banner image" class="banner"/>
+    </a>
     {%- endif -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
