@@ -29,5 +29,6 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 | Open Science Grid (OSG-LHC) | [Info](osglhc) | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
 | Blueprint | - | [Sept 18, 2019](https://indico.cern.ch/event/846090/contributions/3553448/attachments/1910668/3157053/NSF_Area_Report-Blueprint_Activity.pdf) |
 
+#### Previous meetings
 
-<br>
+

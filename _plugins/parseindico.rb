@@ -17,7 +17,7 @@ module Indico
 
       download_and_iterate indico_id do |i|
         # Skip if protected
-        next if i['hasAnyProtection']
+        # next if i['hasAnyProtection']
 
         # Trim paragraph tags
         d = i['description']
