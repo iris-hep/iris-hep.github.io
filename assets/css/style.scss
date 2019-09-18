@@ -12,6 +12,11 @@ body {
   padding-bottom: 0;
   color: #2C3E50;
 
+  @media (prefers-color-scheme: dark) {
+    color: white;
+    background-color: black;
+  }
+
   @media only print {
     padding-top: 0;
     color: black;
@@ -26,6 +31,21 @@ body {
   header.masthead .site-heading {
     padding: 0;
   }
+}
+
+// Dark mode
+.card {
+  @media (prefers-color-scheme: dark) {
+    background-color: inherit;
+    color: inherit;
+  }
+}
+
+%light-purple-header {
+    color: $iris-400;
+    @media (prefers-color-scheme: dark) {
+      color: scale-color($iris-400, $lightness:40%)
+    }
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -94,7 +114,7 @@ body {
       font-weight: bolder;
       margin: 5px 0px 5px 0px;
       a {
-        color: $iris-400;
+        @extend %light-purple-header;
       }
     }
 
@@ -103,9 +123,18 @@ body {
 
 /* Custom footer */
 
+.navbar-dark {
+  @media (prefers-color-scheme: dark) {
+    @include gradient-x($black, $primary, 0%, 100%);
+  }
+}
+
 .footer-dark {
   @media not print {
     @include gradient-x($navbar-dark-active-color, $primary, 0%, 100%);
+  }
+  @media (prefers-color-scheme: dark) {
+    @include gradient-x($black, $primary, 0%, 100%);
   }
   border-top-color: $iris-100;
 
@@ -205,7 +234,7 @@ body {
   }
 
   .mainpage-core h4 {
-    color: $iris-400;
+    @extend %light-purple-header;
     font-size: 1.3rem;
     margin-bottom: .2rem;
   }
@@ -314,6 +343,9 @@ body {
     @media only screen and (min-width: 991px), only print {
       padding: 6px;
       background-color: scale-color($iris-100, $lightness:60%);
+      @media (prefers-color-scheme: dark) {
+        background-color: $iris-100
+      }
       border-radius: 6px;
     }
 
