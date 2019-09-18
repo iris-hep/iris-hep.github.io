@@ -2,9 +2,9 @@
 layout: irispost
 title: First USATLAS Bootcamp held in coordination with Software Carpentries and IRIS-HEP/FIRST-HEP
 author: Henry Schreiner
-postimage: /assets/images/posts/2019-09-10-usatlas-bootcamp-main.jpg
+postimage: /assets/images/posts/2019-09-17-usatlas-bootcamp-main.jpg
 postimage-caption: Teachers and students pose outside at LBNL.
-postbanner: /assets/images/posts/2019-09-10-usatlas-bootcamp-class.jpg
+postbanner: /assets/images/posts/2019-09-17-usatlas-bootcamp-class.jpg
 summary: The first USATLAS Bootcamp was a huge success. 32 students and more than 8 instructors met at the Lawrence Berkeley National Laboratory to cover four topics from both a general and experiment specific viewpoint.
 ---
 
@@ -40,14 +40,14 @@ The material from the workshop is available online. The [workshop website](https
 [ATLAS-Docker and Analysis Preservation in ATLAS]:      https://danikam.github.io/2019-08-19-usatlas-recast-tutorial/
 
 {% include figure.html
-    file="/assets/images/posts/2019-09-10-usatlas-bootcamp-pizza.jpg"
+    file="/assets/images/posts/2019-09-17-usatlas-bootcamp-pizza.jpg"
     alt="Students and teachers eating pizza outside"
     caption="Enjoying a pizza lunch outside."
     class="center"
 %}
 
 {% include figure.html
-    file="/assets/images/posts/2019-09-10-usatlas-bootcamp-teaching.jpg"
+    file="/assets/images/posts/2019-09-17-usatlas-bootcamp-teaching.jpg"
     alt="Teaching in front of a screen"
     caption="Teaching the container lesson."
     class="center"
