@@ -35,6 +35,15 @@ body {
 
 // Dark mode
 @media (prefers-color-scheme: dark) {
+
+  a {
+    color: scale-color($iris-200, $lightness:50%)
+  }
+
+  a:hover {
+    color: scale-color($iris-200, $lightness:20%)
+  }
+
   header.masthead {
     .overlay {
       background-color: black;
@@ -98,8 +107,6 @@ body {
   margin-right: auto;
   display: block;
 }
-
-/* a:hover,a:focus{color:#2C3E50;text-decoration:underline;} */
 
 .boxed {
   background-color: rgb(242, 244, 244) ;
