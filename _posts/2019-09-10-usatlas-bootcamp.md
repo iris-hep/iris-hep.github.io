@@ -1,6 +1,7 @@
 ---
 layout: irispost
 title: First USATLAS Bootcamp held in coordination with Software Carpentries and IRIS-HEP/FIRST-HEP
+author: Henry Schreiner
 postimage: /assets/images/posts/2019-09-10-usatlas-bootcamp-main.jpg
 postimage-caption: Teachers and students pose outside at LBNL.
 postbanner: /assets/images/posts/2019-09-10-usatlas-bootcamp-class.jpg
