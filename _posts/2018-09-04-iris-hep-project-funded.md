@@ -9,6 +9,7 @@ for Research and Innovation in Software for High-Energy Physics
 (IRIS-HEP), a $25 million effort to tackle the unprecedented torrent
 of data that will come from the High-Luminosity Large Hadron Collider
 (HL-LHC), the world's most powerful particle accelerator. 
+<!--more-->
 
 IRIS-HEP will address key elements of the
 ["Roadmap for HEP Software and Computing R&D for the 2020s"](https://arxiv.org/abs/1712.06982)

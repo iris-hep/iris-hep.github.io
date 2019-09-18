@@ -22,20 +22,25 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
 <h4>News:</h4>
 
 <div class="container-fluid">
-  <div class="row">
-    {% for post in site.posts %}
-       <div class="card" style="width: 22rem;">
+  <div class="news row">
+    {% for post in site.posts limit:4 %}
+       <div class="card news">
           <img class="card-img-top" src="{{post.postimage}}" alt="Card image cap">
           <div class="card-body d-flex flex-column">
-            <div class="card-text">
-               <b><a href="{{post.url}}">{{post.title}}</a></b>
+            <div class="card-text card-title">
+               <a href="{{post.url}}">{{post.title}}</a>
             </div>
-            <div class="card-text">{{post.excerpt}} <a href="{{post.url}}">Read more</a></div>
+            <div class="card-text card-body">
+              {% if post.summary %}
+                  {{ post.summary }}
+              {% else %}
+                  {{ post.excerpt | strip_html }}
+              {% endif %}  
+            <a href="{{post.url}}">Read more</a></div>
           </div>
        </div>
     {% endfor %}
   </div>
-  <br>
 </div>
 
 <a href="/news.html">View all past news items</a>
@@ -202,7 +207,7 @@ ongoing events don't get prematurely flagged as recent.
 <div class="mainpage-sidebar-text">
 
 <h4>Related projects:</h4>
-{% capture mdlist %}
+{%- capture mdlist -%}
 [The ATLAS experiment](https://home.cern/science/experiments/atlas) 
 &bull; [The Compact Muon Solenoid (CMS) experiment](https://home.cern/science/experiments/cms) 
 &bull; [The Large Hadron Collider beauty (LHCb) experiment](https://home.cern/science/experiments/lhcb)
@@ -225,11 +230,21 @@ ongoing events don't get prematurely flagged as recent.
 &bull; [CoDaS-HEP](http://codas-hep.org/) 
 &bull; [S2I2-HEP](http://s2i2-hep.org/)
 &bull; [DASPOS](http://daspos.org/)
----&gt; [Full list with details](/collaborations)
-{% endcapture %}
+{%- endcapture -%}
 
-{{mdlist | markdownify }}
+<ul>
+<li>
+<div class="event">
+  <div class="projects">
+    {{mdlist | markdownify }}
+  </div>
+</div>
+</li>
+</ul>
 
+<div class="mainpage-sidebar-links">
+  <a href="/collaborations">Full list with details</a>
+</div>
 </div>
 </div>
 </div>
