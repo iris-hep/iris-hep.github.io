@@ -8,6 +8,7 @@ The very first Machine Learning Hackathon at the Physics Department
 of the University of Puerto Rico at Mayaguez took place on 24-26
 April, 2019, organized by IRIS-HEP Training, Education and Outreach
 coordinator (and UPRM physics professor) [Sudhir Malik](http://charma.uprm.edu/~malik/). 
+<!--more-->
 
 Machine learning is a method of data analysis that automates analytical
 model building. It is a branch of artificial intelligence based on
