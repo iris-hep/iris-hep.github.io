@@ -80,3 +80,6 @@ cat assets/js/myfile.js | openssl dgst -sha384 -binary | openssl base64 -A
 
 Run the site locally and verify no warnings appear in your terminal. Also turn on your browser's debugger and make sure no warnings are emitted.
 
+### Styles
+
+Most style changes should be set in `assets/css/style.scss`. Some basic changes, like color variables, are set in the `_sass` directory. Please remember to consider multiple screen widths, printing (for relevant pages), and dark mode when changing or adding styles.
