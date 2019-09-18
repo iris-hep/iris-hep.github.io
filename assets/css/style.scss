@@ -76,7 +76,7 @@ body {
 }
 
 .card.news {
-  width: 21rem;
+  width: 18rem;
   flex-grow: 1;
   border: none;
   margin: 0px 5px 25px 5px;
@@ -318,7 +318,9 @@ body {
     }
 
     a img {
-      border-radius: 6px 6px 0px 0px;
+      @media only screen and (min-width: 991px), only print {
+        border-radius: 6px 6px 0px 0px;
+      }
       margin-bottom: 6px;
     }
   }
