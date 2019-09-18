@@ -40,14 +40,16 @@ You should either use the summary field above, or insert the `<!--break-->` sepa
 Beyond the normal markdown formatting and Jekyll includes, you also have a figure environment. It looks like this:
 
 ```
+{%- raw %}
 {% include figure.html
     file="/assets/images/posts/*"
     alt="<please include for accessibility>"
     caption="<optional>"
 %}
+{% endraw -%}
 ```
 
-There is an optional `class` parameter, which can be one of `right` (the default) or `center`. You can also explicitly set style options using the `style` parameter and standard inline CSS syntax.
+There is an optional `class` parameter, which can be one of `"right"` (the default) or `"center"`. You can also explicitly set style options using the `style` parameter and standard inline CSS syntax.
 
 #### General comments
 
