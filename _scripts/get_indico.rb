@@ -4,16 +4,13 @@
 require_relative '../_plugins/parseindico'
 require 'pathname'
 
-options = {
-  'topical' => 10570,
-  'nsfreport' => 11204
-}
-
-options.each do |name, number|
+Indico::MEETING_IDS.each do |name, number|
   puts "Accessing #{number} for #{name}"
-  folder = Pathname.new(__FILE__).realpath.parent.parent / '_data' / name
+  indico_dir = Pathname.new(__FILE__).realpath.parent.parent / '_data' / 'indico'
+  folder = indico_dir / name.to_s
+  indico_dir.mkdir unless indico_dir.directory?
   folder.mkdir unless folder.directory?
 
   iris_meeting = Indico::Meetings.new number
-  iris_meeting.to_files(folder) { |key| puts "Making #{folder / key}\n" }
+  iris_meeting.to_files(folder) { |key| puts "Making #{folder / key}.yml\n" }
 end
