@@ -12,5 +12,4 @@ vendor/
 _cache/
 .ruby-version
 .jekyll-metadata
-_data/topical/
-_data/nsfreport/
+_data/indico/

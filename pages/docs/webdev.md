@@ -90,7 +90,7 @@ Most style changes should be set in `assets/css/style.scss`. Some basic changes,
 
 ### Caching
 
-The website has two forms of caching. It will save InspireHEP access in `_cache`, and it optionally can download the Indico accesses to `_data/topical` and `_data/nsfreport`. If you use
+The website has two forms of caching. It will save InspireHEP access data in `_cache`, and it optionally can download the Indico accesses to `_data/indico`. If you use
 
 ```bash
 bundle exec rake clobber

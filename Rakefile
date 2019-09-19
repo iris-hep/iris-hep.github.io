@@ -8,7 +8,7 @@ task :default => :build
 
 # Support clean and clobber tasks
 CLEAN << '_site'
-CLOBBER << '_cache' << '.sass-cache' << '_data/nsfreport' << '_data/topical'
+CLOBBER << '_cache' << '.sass-cache' << '_data/indico'
 
 desc 'Preview on a local machine'
 task :serve do

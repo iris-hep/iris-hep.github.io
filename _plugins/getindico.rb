@@ -2,25 +2,31 @@
 
 require_relative 'parseindico'
 
+require 'yaml'
+
 module Indico
   # This is a Jekyll Generator
   class GetIndico < Jekyll::Generator
     # Main entry point for Jekyll
     def generate(site)
       @site = site
-      collect_meeting 'topical', 10570
-      collect_meeting 'nsfreport', 11204
+      MEETING_IDS.each do |name, number|
+        collect_meeting name.to_s, number
+      end
     end
 
     private
 
     def collect_meeting(name, number)
-      # Do nothing if already downloaded
-      return if @site.data.key? name
+      @site.data['indico'] = {} unless @site.data.has_key? 'indico'
 
-      puts "Accessing Indico meeting API for #{number} - run `bundle exec _scripts/get_indico.rb` to cache"
+      # Do nothing if already downloaded
+      return if @site.data['indico'].has_key? name
+
+      puts("Accessing Indico meeting API for #{name}:#{number} " +
+           "- run `bundle exec _scripts/get_indico.rb` to cache")
       iris_meeting = Meetings.new(number)
-      @site.data[name] = iris_meeting.dict
+      @site.data['indico'][name] = iris_meeting.dict
     end
   end
 end
