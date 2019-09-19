@@ -3,11 +3,11 @@ permalink: /nsf.html
 layout: default
 title: NSF Monthly Status Meetings and Review Information
 ---
-### IRIS-HEP Monthly Meetings and Reviews
+## IRIS-HEP Monthly Meetings and Reviews
 
 Not all of the below information is available without a password.
 
-#### General Information
+### General Information
 
 * National Science Foundation - Cooperative Agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650)
 * [NSF Monthly Meetings](https://indico.cern.ch/category/11204/) - Includes minutes, slides, etc.
@@ -16,7 +16,7 @@ Not all of the below information is available without a password.
 * [History of the award](about/overview)
 * [High-Level Overview Slides](https://docs.google.com/presentation/d/1FOkTKZbzyEPAzhZ5TNaxB3Gkqs1VzzS9CNXdNuJhx9Y/edit#slide=id.g450ed9a7a4_0_5) 
 
-#### IRIS-HEP Areas
+### IRIS-HEP Areas
 IRIS-HEP is composed of the following areas. The first three are the main development areas.
 
 | Area | &nbsp; &nbsp; &nbsp; Links &nbsp; &nbsp; &nbsp;| Last NSF Deep Dive Talk |
@@ -29,6 +29,28 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 | Open Science Grid (OSG-LHC) | [Info](osglhc) | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
 | Blueprint | - | [Sept 18, 2019](https://indico.cern.ch/event/846090/contributions/3553448/attachments/1910668/3157053/NSF_Area_Report-Blueprint_Activity.pdf) |
 
-#### Previous meetings
+<br/>
+
+{% if site.data.nsfreport -%}
+### Previous meetings
+
+{%  assign currentdatecmp = 'now' | date: "%s" %}
+{%- assign selected_events = "" | split: ',' -%}
+{%- for event_pair in site.data.nsfreport -%}
+{%-   assign event = event_pair[1] -%}
+{%-   assign startdatecmp = event.startdate | date: "%s" -%}
+{%-   if startdatecmp < currentdatecmp %}
+{%-      assign selected_events = selected_events | push: event -%}
+{%-   endif-%}
+{%- endfor -%}
+{%- assign selected_events = selected_events | sort: 'startdate'-%}
 
 
+| Date | Meeting |
+|------|---------|
+{%- for event in selected_events %}
+| {{event.startdate | date: '%B %d, %Y'}} | [{{event.name}}]({{event.meetingurl}}) |
+{%- endfor %}
+{% endif %}
+
+<br/>
