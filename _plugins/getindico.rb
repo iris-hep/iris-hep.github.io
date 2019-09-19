@@ -13,6 +13,7 @@ module Indico
     end
 
     private
+
     def collect_meeting(name, number)
       # Do nothing if already downloaded
       return if @site.data.key? name

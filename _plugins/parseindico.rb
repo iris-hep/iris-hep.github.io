@@ -18,7 +18,6 @@ module Indico
       @dict = {}
 
       download_and_iterate(indico_id, **kargs) do |i|
-
         # Trim paragraph tags
         d = i['description']
         d = d[3..-1] if d.start_with? '<p>'
@@ -27,12 +26,10 @@ module Indico
         start_date = Date.parse i['startDate']['date']
         fname = "#{start_date.strftime '%Y%m%d'}.yml"
 
-	youtube=''
-	urllist = URI.extract(d)
-	urllist.each do |url|
-	   if url.include? "youtube"
-  	     youtube=url
-	   end
+        youtube = ''
+        urllist = URI.extract(d)
+        urllist.each do |url|
+          youtube = url if url.include? 'youtube'
         end
 
         @dict[fname] = {
@@ -71,8 +68,8 @@ module Indico
 
     # Put together a dict and an indico ID
     def join_url(indico_id, options)
-      apicall = options.sort.to_h.map{|k,v| "#{k}=#{v}"}.join('&')
-      "/export/categ/#{indico_id}.json?" + apicall
+      apicall = options.sort.to_h.map { |k, v| "#{k}=#{v}" }.join('&')
+      "/export/categ/#{indico_id}.json?#{apicall}"
     end
 
     # Automatically signs request if environment has INDICO_API/SECRET_KEY
@@ -82,13 +79,13 @@ module Indico
       if ENV['INDICO_API_KEY']
         kargs[:ak] = ENV['INDICO_API_KEY']
         if ENV['INDICO_SECRET_KEY']
-          kargs[:timestamp] = Time.new().to_i.to_s
+          kargs[:timestamp] = Time.new.to_i.to_s
           requeststr = join_url(indico_id, kargs)
-          kargs[:signature] = OpenSSL::HMAC.hexdigest("SHA1", ENV['INDICO_SECRET_KEY'], requeststr)
+          kargs[:signature] = OpenSSL::HMAC.hexdigest('SHA1', ENV['INDICO_SECRET_KEY'], requeststr)
         end
       end
 
-      "https://indico.cern.ch" + join_url(indico_id, kargs)
+      "https://indico.cern.ch#{join_url(indico_id, kargs)}"
     end
   end
 end

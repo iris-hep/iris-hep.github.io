@@ -15,5 +15,5 @@ options.each do |name, number|
   folder.mkdir unless folder.directory?
 
   iris_meeting = Indico::Meetings.new number
-  iris_meeting.to_files(folder){ |key| puts "Making #{folder / key}\n" }
+  iris_meeting.to_files(folder) { |key| puts "Making #{folder / key}\n" }
 end
