@@ -43,7 +43,7 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 {%-      assign selected_events = selected_events | push: event -%}
 {%-   endif-%}
 {%- endfor -%}
-{%- assign selected_events = selected_events | sort: 'startdate'-%}
+{%- assign selected_events = selected_events | sort: 'startdate' | reverse -%}
 
 
 | Date | Meeting |
