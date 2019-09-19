@@ -8,7 +8,7 @@ task :default => :build
 
 # Support clean and clobber tasks
 CLEAN << '_site'
-CLOBBER << '_cache' << '.sass-cache'
+CLOBBER << '_cache' << '.sass-cache' << '_data/nsfreport' << '_data/topical'
 
 desc 'Preview on a local machine'
 task :serve do
@@ -19,6 +19,11 @@ end
 desc 'Build on a local machine'
 task :build do
   jekyll 'build'
+end
+
+desc 'Cache the indico access'
+task :cache do
+  sh 'ruby', '_scripts/get_indico.rb'
 end
 
 

@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 module Checks
-
   # This class holds a record (like a presentation or a user)
   # and checks the keys with a nice syntax.
   class Record
@@ -11,7 +10,7 @@ module Checks
       @missing = []
       @empty = []
     end
- 
+
     # Check to see if key is present. You can add :optional and/or :nonempty.
     def key(key, *args)
       optional = !args.delete(:optional).nil?
@@ -32,11 +31,11 @@ module Checks
         raise StandardError, msg unless @data[key]
       end
 
-      if date 
-        d = @data[key]
-        dmsg = "#{@name} has a non-date #{d.class.name}. Must be of the form YYYY-MM-DD, not #{d}"
-        raise ArgumentError, dmsg unless d.is_a?(Date)
-      end
+      return unless date
+
+      d = @data[key]
+      dmsg = "#{@name} has a non-date #{d.class.name}. Must be of the form YYYY-MM-DD, not #{d}"
+      raise ArgumentError, dmsg unless d.is_a?(Date)
     end
 
     def print_warnings

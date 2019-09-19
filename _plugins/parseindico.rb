@@ -5,6 +5,8 @@ require 'uri'
 require 'json'
 require 'yaml'
 require 'date'
+require 'time'
+require 'openssl'
 
 module Indico
   # Look for topical meetings
@@ -12,13 +14,10 @@ module Indico
     attr_accessor :dict
 
     # ID for IRIS-HEP: 10570
-    def initialize(indico_id)
+    def initialize(indico_id, **kargs)
       @dict = {}
 
-      download_and_iterate indico_id do |i|
-        # Skip if protected
-        next if i['hasAnyProtection']
-
+      download_and_iterate(indico_id, **kargs) do |i|
         # Trim paragraph tags
         d = i['description']
         d = d[3..-1] if d.start_with? '<p>'
@@ -27,12 +26,10 @@ module Indico
         start_date = Date.parse i['startDate']['date']
         fname = "#{start_date.strftime '%Y%m%d'}.yml"
 
-	youtube=''
-	urllist = URI.extract(d)
-	urllist.each do |url|
-	   if url.include? "youtube"
-  	     youtube=url
-	   end
+        youtube = ''
+        urllist = URI.extract(d)
+        urllist.each do |url|
+          youtube = url if url.include? 'youtube'
         end
 
         @dict[fname] = {
@@ -58,14 +55,37 @@ module Indico
     private
 
     # Run a block over each item in the downloaded results
-    def download_and_iterate(indico_id)
-      uri = URI.parse "https://indico.cern.ch/export/categ/#{indico_id}.json?pretty=no" # from=today&
-      response = Net::HTTP.get_response uri
+    def download_and_iterate(indico_id, **kargs)
+      url = build_url(indico_id, **kargs)
+      uri = URI.parse(url)
+      response = Net::HTTP.get_response(uri)
 
       string = response.body
-      parsed = JSON.parse string # returns a hash
+      parsed = JSON.parse(string) # returns a hash
 
       parsed['results'].each { |i| yield i }
+    end
+
+    # Put together a dict and an indico ID
+    def join_url(indico_id, options)
+      apicall = options.sort.to_h.map { |k, v| "#{k}=#{v}" }.join('&')
+      "/export/categ/#{indico_id}.json?#{apicall}"
+    end
+
+    # Automatically signs request if environment has INDICO_API/SECRET_KEY
+    def build_url(indico_id, **kargs)
+      kargs[:pretty] = 'no'
+
+      if ENV['INDICO_API_KEY']
+        kargs[:ak] = ENV['INDICO_API_KEY']
+        if ENV['INDICO_SECRET_KEY']
+          kargs[:timestamp] = Time.new.to_i.to_s
+          requeststr = join_url(indico_id, kargs)
+          kargs[:signature] = OpenSSL::HMAC.hexdigest('SHA1', ENV['INDICO_SECRET_KEY'], requeststr)
+        end
+      end
+
+      "https://indico.cern.ch#{join_url(indico_id, kargs)}"
     end
   end
 end

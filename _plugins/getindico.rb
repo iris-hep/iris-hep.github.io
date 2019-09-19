@@ -7,12 +7,20 @@ module Indico
   class GetIndico < Jekyll::Generator
     # Main entry point for Jekyll
     def generate(site)
-      # Do nothing if already downloaded
-      return if site.data.key? 'topical'
+      @site = site
+      collect_meeting 'topical', 10570
+      collect_meeting 'nsfreport', 11204
+    end
 
-      puts 'Accessing Indico meeting API - run bundle exec _scripts/get_indico.rb to cache'
-      iris_meeting = Meetings.new(10570)
-      site.data['topical'] = iris_meeting.dict
+    private
+
+    def collect_meeting(name, number)
+      # Do nothing if already downloaded
+      return if @site.data.key? name
+
+      puts "Accessing Indico meeting API for #{number} - run `bundle exec _scripts/get_indico.rb` to cache"
+      iris_meeting = Meetings.new(number)
+      @site.data[name] = iris_meeting.dict
     end
   end
 end
