@@ -1,7 +1,7 @@
 
 
 {% assign selected_array = "" | split: ',' %}
-{% for event_hash in site.data.topical  %}
+{% for event_hash in site.data.indico.topical  %}
   {% assign event = event_hash[1] %}
   {% assign selected_array = selected_array | push: event %}
 {% endfor %}

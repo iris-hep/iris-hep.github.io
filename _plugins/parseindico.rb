@@ -9,6 +9,13 @@ require 'time'
 require 'openssl'
 
 module Indico
+  MEETING_IDS = {
+    topical: 10570,
+    nsfreport: 11204,
+    sb: 10989,
+    ap: 11519,
+  }
+
   # Look for topical meetings
   class Meetings
     attr_accessor :dict
@@ -24,7 +31,7 @@ module Indico
         d = d[0..-5] if d.end_with? '</p>'
 
         start_date = Date.parse i['startDate']['date']
-        fname = "#{start_date.strftime '%Y%m%d'}.yml"
+        fname = "#{start_date.strftime '%Y%m%d'}"
 
         youtube = ''
         urllist = URI.extract(d)
@@ -48,7 +55,7 @@ module Indico
       @dict.each do |d_key, d_val|
         yield d_key if block_given?
 
-        File.write(folder / d_key, d_val.to_yaml)
+        File.write(folder / "#{d_key}.yml", d_val.to_yaml)
       end
     end
 

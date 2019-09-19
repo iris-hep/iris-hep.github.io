@@ -29,28 +29,10 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 | Open Science Grid (OSG-LHC) | [Info](osglhc) | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
 | Blueprint | - | [Sept 18, 2019](https://indico.cern.ch/event/846090/contributions/3553448/attachments/1910668/3157053/NSF_Area_Report-Blueprint_Activity.pdf) |
 
-<br/>
-
-{% if site.data.nsfreport -%}
+{% if site.data.indico.nsfreport -%}
 ### Previous meetings
 
-{%  assign currentdatecmp = 'now' | date: "%s" %}
-{%- assign selected_events = "" | split: ',' -%}
-{%- for event_pair in site.data.nsfreport -%}
-{%-   assign event = event_pair[1] -%}
-{%-   assign startdatecmp = event.startdate | date: "%s" -%}
-{%-   if startdatecmp < currentdatecmp %}
-{%-      assign selected_events = selected_events | push: event -%}
-{%-   endif-%}
-{%- endfor -%}
-{%- assign selected_events = selected_events | sort: 'startdate' | reverse -%}
+{% include list_indico_table.html name="nsfreport" %}
 
+{%- endif %}
 
-| Date | Meeting |
-|------|---------|
-{%- for event in selected_events %}
-| {{event.startdate | date: '%B %d, %Y'}} | [{{event.name}}]({{event.meetingurl}}) |
-{%- endfor %}
-{% endif %}
-
-<br/>
