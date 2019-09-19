@@ -56,6 +56,10 @@ Now, you can use `bundle exec` to run a command in the new environment you just 
 bundle exec rake serve
 ```
 
+> Note: If prefixing everything with `bundle exec` bothers you, you can run `bundle --install binstubs`, then use `bin/*` to run commands. See [this page](https://github.com/rbenv/rbenv/wiki/Understanding-binstubs) for more info.
+> You can then add a folder `mkdir -p .git/safe`, and add the following to your `PATH`: `.git/safe/../../bin`. This will give you a per-folder controllable way to 
+dd `./bin` to your path. Now, you can just use `rake` and other commands directly.
+
 This will incrementally rebuild if anything changes in your directory. Exit with Control-C. If you want to build the site including all basic link checks (this should pass on master):
 
 ```bash
@@ -82,4 +86,24 @@ Run the site locally and verify no warnings appear in your terminal. Also turn o
 
 ### Styles
 
-Most style changes should be set in `assets/css/style.scss`. Some basic changes, like color variables, are set in the `_sass` directory. Please remember to consider multiple screen widths, printing (for relevant pages), and dark mode when changing or adding styles.
+Most style changes should be set in `assets/css/style.scss`. Some basic changes, like color variables, are set in the `_sass` directory. Please remember to consider multiple screen widths, printing (for relevant pages), and dark mode when changing or adding styles. You can see the defined colors [here](/docs/logos).
+
+### Caching
+
+The website has two forms of caching. It will save InspireHEP access in `_cache`, and it optionally can download the Indico accesses to `_data/topical` and `_data/nsfreport`. If you use
+
+```bash
+bundle exec rake clobber
+```
+
+You will remove the cache (`clean` will only remove the web files, not the cache). If you want to generate the optional part of the cache, you can run
+
+```bash
+bundle exec rake cache
+```
+
+The InspireHEP access caching is automatic and is part of the normal Jekyll build.
+
+### Accessing Indico
+
+The Indico access needs a key to authenticate to get protected meeting listings. This is normally done by Travis, but you can do it yourself by setting the `INDICO_API_KEY` and `INDICO_SECRET_KEY` environment variables (see [this page](https://docs.getindico.io/en/stable/http_api/access/#api-authentication) for information on how to generate these keys). The keys use timestamped requests, so your system clock needs to be roughly correct.

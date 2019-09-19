@@ -45,6 +45,7 @@ exclude:
   # Added
   - _cache
   - _scripts
+  - bin
 
 sass:
     sass_dir: _sass
