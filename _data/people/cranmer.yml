@@ -118,6 +118,20 @@ presentations:
     meetingurl: http://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/
     location: IPAM
     focus-area: as, ia     
+  - title: Simulation-based inference, causality, and active learning
+    date: 2019-09-27
+    url: https://ai2019.ethz.ch/program.html
+    meeting: AI and the Scientific Method, ETH, Zurich
+    meetingurl: https://ai2019.ethz.ch/program.html
+    location: ETH, Zurich
+    focus-area: as, ia     
+  - title: Simulation-based inference, causality, and active learning
+    date: 2019-09-30
+    url: https://ai2019.ethz.ch/program.html
+    meeting: Joint PITT-CMU Physics Department Colloquium
+    meetingurl: https://www.cmu.edu/physics/news-events/events/physics_colloquia.html#event=32472386
+    location: Carnegie Mellon University
+    focus-area: as, ia     
   - title: The Interplay of Data Science and Particle Physics
     date: 2019-10-05
     url: http://dsaa2019.dsaa.co
