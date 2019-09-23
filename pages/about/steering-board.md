@@ -25,8 +25,7 @@ priorities, execution, and strategy of the Institute.**
 Meetings of the Steering Board take place approximately quarterly. Agendas,
 presentation material and the minutes for each meeting can be found in the 
 [IRIS-HEP Steering Board Area in Indico](https://indico.cern.ch/category/10989/). 
-
-### Previous meetings
+Direct links to previous meetings are listed below:
 
 {% include list_indico_table.html name="sb" %}
 
