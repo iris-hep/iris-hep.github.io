@@ -126,43 +126,6 @@ ongoing events don't get prematurely flagged as recent.
   {% endfor %}
 </ul>
 
-</div>
-<div class="mainpage-past-events mainpage-core">
-{% assign selected_events = "" | split: ',' %}
-<div class="mainpage-sidebar-text">
-<h4>Recent Events:</h4>
-</div>
-{% for event_hash in site.data.events  %}
-  {% assign event = event_hash[1] %}
-  {% assign startdatecmp = event.startdate | date: "%s" %}
-  {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
-     {% assign selected_events = selected_events | push: event %}
-  {% endif %}
-{% endfor %}
-
-<ul>
-{% assign selected_events = selected_events | sort: 'startdate' | reverse %}
-{% for event in selected_events  %}
-  {% assign startdatecmp = event.startdate | date: "%s" %}
-  {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
-    <li>
-      <a href="{{event.meetingurl}}">
-        <div class="event">
-          <div class="date">
-            {% include daterange.html start=event.startdate end=event.enddate %}
-          </div>
-          <div class="location">
-            {{event.location}}
-          </div>
-          <div class="name">
-            {{event.name}}
-          </div>
-        </div>
-      </a>
-    </li>
-  {% endif %}
-{% endfor %}
-</ul>
 <div class="mainpage-sidebar-links">
 <a href="/events.html">View all past events</a>
 </div>
