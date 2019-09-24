@@ -25,4 +25,16 @@ presentations:
     meeting: 11th International Workshop on Boosted Object Phenomenology, Reconstruction and Searches in HEP (BOOST 2019)
     meetingurl: https://indico.cern.ch/event/753914/overview
     location: Massachusetts Institute of Technology (MIT)
+  - title: "Looking into Jets with Machine Learning"
+    date: 2019-09-24
+    url: https://phy.princeton.edu/events/pheno-vino-seminar-sebastian-macaluso-nyu-looking-jets-machine-learning-jadwin-303
+    meeting: "Princeton Pheno & Vino Seminar"
+    meetingurl: https://phy.princeton.edu/events/pheno-vino-seminar-sebastian-macaluso-nyu-looking-jets-machine-learning-jadwin-303
+    location: Princeton University
+  - title: "Benchmarks for ML4Jets research"
+    date: 2019-09-25
+    url: https://indico.cern.ch/event/841905/
+    meeting: IRIS-HEP Topical Meeting
+    meetingurl: https://indico.cern.ch/event/841905/
+    location: Vidyo
     
