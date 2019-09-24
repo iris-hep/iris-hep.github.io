@@ -13,12 +13,12 @@ You can always click the edit button to make small edits to the website source, 
 
 ### Installing Ruby
 
+Visit [this page](https://jekyllrb.com/docs/installation/) for information about installing Ruby if your current version is too old; the instructions there form the basis for what you see here, and come in variants for all major operating systems.
 You should have Ruby 2.4+ for Jekyll. Since the latest macOS comes with 2.3 (and Apple is dropping scripting language from macOS in the future), you'll want a newer version even on a mac. You can use rbenv to manage multiple ruby versions. On macOS with homebrew, you'll want:
 
 ```bash
 brew install rbenv
 ```
-
 
 You'll need to run `rbenv init` and follow the instructions for your current shell. After you've installed rbenv on your system, use:
 
@@ -35,14 +35,15 @@ rbenv local 2.6.3
 This will run the Ruby you just built whenever you enter this directory. You'll want to install bundler too:
 
 ```bash
-gem bundle
+gem install bundle
 ```
+
+(You may want to add `--user-install` here.)
 
 
 ### Running locally
 
 The site is built with Jekyll, and is easy to run locally if you have Ruby.
-Visit [this page](https://jekyllrb.com/docs/installation/) for information about installing Ruby if your current version is too old.
 
 To set up a "bundle" (local virtual environment in Python terms):
 
