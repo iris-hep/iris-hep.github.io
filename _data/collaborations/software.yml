@@ -1,0 +1,53 @@
+- name: SCAILFIN
+  url: https://scailfin.github.io/
+  awards:
+    - type: OAC
+      number: 1841471
+    - type: OAC
+      number: 1841456
+    - type: OAC
+      number: 1841448
+
+- name: SLATE
+  url: https://slateci.io
+  awards:
+    - type: OAC
+      number: 1724821
+
+- name: VC3
+  url: https://www.virtualclusters.org
+
+- name: DIANA/HEP
+  url: http://diana-hep.org/
+  awards:
+    - type: OAC
+      number: 1450377
+    - type: OAC
+      number: 1450310
+    - type: OAC
+      number: 1450323
+    - type: OAC
+      number: 1450319
+
+- name: Parallel Kalman Filter Tracking
+  short: TrackReco
+  url: http://trackreco.github.io/
+  awards:
+    - type: PHY
+      number: 1521042
+    - type: PHY
+      number: 1520942
+    - type: PHY
+      number: 1520969
+    - type: PHY
+      number: 1624356
+    - type: OAC
+      number: 1836650 # Iris hep
+
+- name: 'SSE ML@LHCb'
+  url: https://sse-ml-lhcb.gitlab.io/
+  awards:
+    - type: OAC
+      number: 1739772 
+    - type: OAC
+      number: 1740102
