@@ -1,0 +1,14 @@
+- name: HEP Experiments
+  id: experiments
+- name: U.S. Collaborations
+  id: us
+- name: Distributed High Throughput Computing
+  id: distributed
+- name: Scientific Software
+  id: software
+- name: Training
+  id: training
+- name: Other Collaborations
+  id: other
+- name: Older Projects
+  id: old
