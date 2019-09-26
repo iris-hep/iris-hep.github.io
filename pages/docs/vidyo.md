@@ -31,12 +31,12 @@ If you use a mobile device, you should be able to find and download
 the "VidyoConnect" app from either the Apple or Google app stores. If
 you want to use a desktop application, please see:
 
-<http://avcdocs.web.cern.ch/VidyoConnect/VidyoConnect_pilot/>
+<http://avcdocs.web.cern.ch/VidyoConnect/VidyoConnect_new_release/>
 
-In particular the direct links to download the desktop app are:
+In particular you can download the desktop applications for both MacOSX
+and Windows (not at CERN) from here:
 
-  * Mac:  <https://cernbox.cern.ch/index.php/s/cTyphWXj3I2uFeV>
-  * Windows (not at CERN): <https://cernbox.cern.ch/index.php/s/r5Yga0IUtfukua5>
+  * <https://cernbox.cern.ch/index.php/s/N0mtv0F5zTHX6mO>
 
 Once you have that installed, start the app (just ignore the request to
 login if you don't have a CERN account), and open the IRIS-HEP-Project vidyo
