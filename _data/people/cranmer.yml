@@ -120,7 +120,7 @@ presentations:
     focus-area: as, ia     
   - title: Simulation-based inference, causality, and active learning
     date: 2019-09-27
-    url: https://ai2019.ethz.ch/program.html
+    url: https://ai2019.ethz.ch/talks/Kyle_Cranmer.pdf
     meeting: AI and the Scientific Method, ETH, Zurich
     meetingurl: https://ai2019.ethz.ch/program.html
     location: ETH, Zurich
@@ -139,4 +139,3 @@ presentations:
     meetingurl: http://dsaa2019.dsaa.co
     location: Washington, DC
     focus-area: as, ia
-
