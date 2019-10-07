@@ -47,4 +47,9 @@ presentations:
     meeting: "PICSciE Conference: Cross-Disciplinary Collaboration for Accelerated Scientific Discovery"
     meetingurl: https://researchcomputing.princeton.edu/events/picscie-conference-cross-disciplinary-collaboration-accelerated-scientific-discovery
     location: Princeton University
-
+  - title: "Goals for the Retreat & Institute Overview and Status" 
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3561603/attachments/1907132/3149892/IRIS-HEP_Retreat_Sep2019.pdf
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/overview
+    location: FNAL
