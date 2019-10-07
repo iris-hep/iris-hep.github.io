@@ -6,6 +6,12 @@ institution: University of Nebraska - Lincoln
 website: https://github.com/djw8605
 photo: /assets/images/team/Derek-Weitzel.jpg
 presentations:
+  - title: "OSG GRid ACCounting system::GRACC"
+    date: 2019-09-30
+    url: https://indico.fnal.gov/event/20809/session/6/contribution/4/material/slides/0.pdf
+    meeting: Elasticsearch Workshop @FNAL
+    meetingurl: https://indico.fnal.gov/event/20809/
+    focus-area: osglhc
   - title: "StashCache: A Distributed Caching Federation for the Open Science Grid"
     date: 2019-07-30
     url: https://drive.google.com/file/d/1689yCyAdYI2jggzLXHNvE3h8qtYLk2-5/view?usp=sharing
