@@ -32,3 +32,18 @@ presentations:
     url: https://indico.cern.ch/event/823168/contributions/3442076/attachments/1852590/3041829/WLCG-DOMA-USCMS-T2.pdf
     focus-area: doma
     project: tpc
+  - title: "DOMA: Preparing for Year 2 and Year 4"
+    date: 2019-09-12
+    meeting: IRIS-HEP Institute Retreat
+    url: https://indico.cern.ch/event/840472/contributions/3561604/attachments/1907178/3149976/IRIS-HEP-DOMA-RETREAT.pdf
+    focus-area: doma
+  - title: "Data Organization, Management, and Access"
+    date: 2019-09-03
+    meeting: IRIS-HEP Steering Board Meeting #3
+    url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/277983/attachments/1901191/3138429/IRIS-HEP-DOMA-SB3.pdf
+    focus-area: doma
+  - title: "HSF Event Delivery WG - Introduction"
+    date: 2019-09-30
+    meeting: HSF & ATLAS Joint Event Delivery Workshop
+    url: https://indico.cern.ch/event/849155/sessions/323697/attachments/1917032/3169811/HSF-EventDelivery-WG-Introduction.pdf
+    focus-area: doma
