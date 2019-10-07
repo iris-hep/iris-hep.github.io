@@ -76,3 +76,19 @@ presentations:
     url: https://henryiii.github.io/cmake_workshop/
     meeting: USATLAS/FIRST-HEP Computing Bootcamp
     meetingurl: https://indico.cern.ch/event/816946/
+    location: Lawrence Berkeley National Laboratory
+    focus-area: ssc
+  - title: "Boost Histogram Roadmap"
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3564389/
+    meeting: 2019 IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermi National Accelerator Laboratory
+    focus-area: as
+  - title: "Histogramming and more"
+    date: 2019-09-13
+    url: https://indico.cern.ch/event/840472/contributions/3561801/
+    meeting: 2019 IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermi National Accelerator Laboratory
+    focus-area: as, ssc, ia
