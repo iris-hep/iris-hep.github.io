@@ -12,3 +12,10 @@ presentations:
     meetingurl: https://www.eventbrite.com/e/northwest-data-science-summit-tickets-55037447487
     location: University of Washington
     focus-area: as
+  - title: "Prototype declarative analysis interface using uproot and awkward-array"
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3563332/attachments/1907329/3150287/lightning-talk_2019-09-12.pdf
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermilab
+    focus-area: as
