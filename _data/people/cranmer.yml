@@ -134,8 +134,15 @@ presentations:
     focus-area: as, ia     
   - title: Particle Physics in the context of Data Science
     date: 2019-10-05
-    url: http://dsaa2019.dsaa.co
+    url: https://www.dropbox.com/s/cd6zclbyvwj1u9i/DSAA-IEEE-Keynote.pdf
     meeting: The 6th IEEE International Conference on Data Science and Advanced Analytics
     meetingurl: http://dsaa2019.dsaa.co
     location: Washington, DC
+    focus-area: as, ia
+  - title: Simulation-based inference, interpretability, and experimental design
+    date: 2019-10-17
+    url: http://www.ipam.ucla.edu/abstract/?tid=15943&pcode=MLPWS2
+    meeting: Workshop on Interpretable Learning in Physical Sciences Part of the Long Program Machine Learning for Physics and the Physics of Learning
+    meetingurl: http://www.ipam.ucla.edu/abstract/?tid=15943&pcode=MLPWS2
+    location: UCLA
     focus-area: as, ia
