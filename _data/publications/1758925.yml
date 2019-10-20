@@ -1,2 +1,4 @@
 inspire-id: 1758925
-project: ml4jets
+project: 
+  - ml4jets
+  - exploratory-ml

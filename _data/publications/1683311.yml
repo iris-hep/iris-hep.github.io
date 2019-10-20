@@ -1,2 +1,4 @@
 inspire-id: 1683311
-project: ppx
+project: 
+- ppx
+- exploratory-ml
