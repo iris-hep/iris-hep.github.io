@@ -32,3 +32,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/840472/
     location: Fermi National Accelerator Laboratory
     focus-area: as
+  - title: "pyhf: pure-Python implementation of HistFactory"
+    date: 2019-10-18
+    url: https://indico.cern.ch/event/833895/contributions/3577824/
+    meeting: PyHEP 2019 Workshop
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, U.K.
+    focus-area: as
