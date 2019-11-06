@@ -4,7 +4,6 @@ layout: project
 title: ServiceX
 shortname: servicex
 pagetype: project
-image: logos/servicex.png
 blurb: Delivering columnar data on demand
 focus-area: doma
 team:
