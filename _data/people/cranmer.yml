@@ -146,3 +146,10 @@ presentations:
     meetingurl: http://www.ipam.ucla.edu/abstract/?tid=15943&pcode=MLPWS2
     location: UCLA
     focus-area: as, ia
+  - title: "Flows three ways" 
+    date: 2019-11-19
+    url: http://pcts.princeton.edu/programs/current/deep-learning-for-physics-seminar-series/121
+    meeting: Deep Learning for Physics Seminar Series at Princeton Center for Theoretical Physics
+    meetingurl: http://pctsadmin.princeton.edu/upload/document/da2474d76aeb7f5926f38436f077ff64.pdf
+    location: Princeton
+    focus-area: as, ia
