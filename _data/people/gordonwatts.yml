@@ -80,3 +80,15 @@ presentations:
     meeting: IRIS-HEP Institute Retreat
     meetingurl: https://indico.cern.ch/event/840472
     focus-area: as
+  - title: "Declarative programming: A paradigm shift in data analysis in preparation for the HL-LHC"
+    date: 2019-09-26
+    url: https://doi.org/10.5281/zenodo.3471337
+    meetingurl: https://escience2019.sdsc.edu/
+    meeting: eScience2019
+    focus-area: as
+  - title: "Run 3/Run 4 Perspectives - Event Delivery Impacts?"
+    date: 2019-09-30
+    url: https://indico.cern.ch/event/849155/contributions/3576913/
+    meetingurl: https://indico.cern.ch/event/849155/
+    meeting: "HSF & ATLAS Joint Event Delivery Workshop"
+    focus-area: as

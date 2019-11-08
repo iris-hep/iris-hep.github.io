@@ -46,6 +46,7 @@ exclude:
   - _cache
   - _scripts
   - bin
+  - .github
 
 sass:
     sass_dir: _sass

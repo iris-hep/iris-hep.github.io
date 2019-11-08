@@ -1,0 +1,15 @@
+name: Wen Guan
+shortname: wguan
+title:
+active: green
+institution: University of Wisconsin-Madison
+website: 
+photo: /assets/images/team/Wen-Guan.png
+presentations:
+  - title: "IDDS"
+    date: 2019-09-30
+    meeting: HSF & ATLAS Joint Event Delivery Workshop
+    meetingurl: https://indico.cern.ch/event/849155/
+    url: https://indico.cern.ch/event/849155/contributions/3576915/attachments/1917085/3170006/idds_20100927_atlas_sc_week.pdf
+    focus-area: doma
+    project: idds

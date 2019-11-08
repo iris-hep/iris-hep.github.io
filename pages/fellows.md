@@ -4,7 +4,7 @@ layout: default
 title: IRIS/HEP Fellows Program
 ---
 
-# IRIS-HEP Fellows Program
+# IRIS-HEP Fellows Program 
 
   People are the key to successful software. IRIS-HEP aims to promote the 
 development of advanced research software skills by providing opportunities 
@@ -40,7 +40,7 @@ Interested prospective fellows and/or mentors should write to fellows@iris-hep.o
 Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing:
 
  * A CV
- * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. Note also the intended software project or person with whom you will collaborate and the location where you would need to travel for that collaboration. The proposal should be short, typically no more one page to describe the project and then a short timeline with deliverables (see also examples from previous fellows. 
+ * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. Note also the intended software project or person with whom you will collaborate and the location where you would need to travel for that collaboration. The proposal should be short, typically no more one page to describe the project and then a short timeline with deliverables (see also examples from previous fellows). 
 
 IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals.
 
@@ -68,4 +68,11 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
   <br>
 </div>
 
+# Example fellow projects
 
+  Applicants should feel free to make their own proposal for a software
+project within any of the R&D areas of the Institute. We list here some 
+specific example topics and projects for which their is a known opportunity 
+for a Fellow to collaborate. (This is a non-exhaustive list!)
+
+  *Coming soon*
