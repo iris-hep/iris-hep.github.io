@@ -34,7 +34,7 @@ presentations:
     location: Sarajevo
 ```
 
-* Add your GitHub username to the proper [university file][].
+* Add your GitHub username to the proper [university file][]. Note that you will *not* show up in the full team page if you are not in a university file!
 
 #### Communication
 

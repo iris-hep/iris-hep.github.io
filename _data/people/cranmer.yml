@@ -120,7 +120,7 @@ presentations:
     focus-area: as, ia     
   - title: Simulation-based inference, causality, and active learning
     date: 2019-09-27
-    url: https://ai2019.ethz.ch/program.html
+    url: https://ai2019.ethz.ch/talks/Kyle_Cranmer.pdf
     meeting: AI and the Scientific Method, ETH, Zurich
     meetingurl: https://ai2019.ethz.ch/program.html
     location: ETH, Zurich
@@ -134,9 +134,22 @@ presentations:
     focus-area: as, ia     
   - title: Particle Physics in the context of Data Science
     date: 2019-10-05
-    url: http://dsaa2019.dsaa.co
+    url: https://www.dropbox.com/s/cd6zclbyvwj1u9i/DSAA-IEEE-Keynote.pdf
     meeting: The 6th IEEE International Conference on Data Science and Advanced Analytics
     meetingurl: http://dsaa2019.dsaa.co
     location: Washington, DC
     focus-area: as, ia
-
+  - title: Simulation-based inference, interpretability, and experimental design
+    date: 2019-10-17
+    url: http://www.ipam.ucla.edu/abstract/?tid=15943&pcode=MLPWS2
+    meeting: Workshop on Interpretable Learning in Physical Sciences Part of the Long Program Machine Learning for Physics and the Physics of Learning
+    meetingurl: http://www.ipam.ucla.edu/abstract/?tid=15943&pcode=MLPWS2
+    location: UCLA
+    focus-area: as, ia
+  - title: "Flows three ways" 
+    date: 2019-11-19
+    url: http://pcts.princeton.edu/programs/current/deep-learning-for-physics-seminar-series/121
+    meeting: Deep Learning for Physics Seminar Series at Princeton Center for Theoretical Physics
+    meetingurl: http://pctsadmin.princeton.edu/upload/document/da2474d76aeb7f5926f38436f077ff64.pdf
+    location: Princeton
+    focus-area: as, ia

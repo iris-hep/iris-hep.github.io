@@ -112,4 +112,10 @@ presentations:
     url: https://indico.cern.ch/event/782953/sessions/302485/#20190729
     meetingurl: https://indico.cern.ch/event/782953/overview
     focus-area: as
+  - title: "Jagged, ragged, awkward arrays"
+    date: 2019-09-14
+    meeting: "Strange Loop 2019"
+    url: https://youtu.be/2NxWpU7NArk
+    meetingurl: https://www.thestrangeloop.com/2019/jagged-ragged-awkward-arrays.html
+    focus-area: as
 
