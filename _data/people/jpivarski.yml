@@ -118,4 +118,15 @@ presentations:
     url: https://youtu.be/2NxWpU7NArk
     meetingurl: https://www.thestrangeloop.com/2019/jagged-ragged-awkward-arrays.html
     focus-area: as
+  - title: "Awkward 1.0"
+    date: 2019-10-17
+    meeting: "PyHEP Workshop"
+    url: https://indico.cern.ch/event/833895/contributions/3577882/
+    meetingurl: https://indico.cern.ch/event/833895/
+    focus-area: as
+  - title: "Ragged, jagged, nested, indirected, very awkward arrays"
+    date: 2019-11-07
+    meeting: "CHEP 2019"
+    url: https://indico.cern.ch/event/773049/contributions/3473258/
+    meetingurl: https://indico.cern.ch/event/773049/overview
 
