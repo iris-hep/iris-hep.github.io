@@ -37,6 +37,9 @@ presentations:
   - title: Update on the Center for Research in Open Source Software
     date: 2019-08-15
     location: Los Alamos National Laboratory
+    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
+    meeting: Local Seminar
+    meetingurl: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
   - title: Center for Research in Open Source Software
     date: 2019-10-19
     meeting: Google Summer of Code Mentor Summit
@@ -44,6 +47,7 @@ presentations:
   - title: "Education, research, and technology transfer in open source software: new possibilities for universities"
     date: 2019-10-21
     meeting: "Friedrich-Alexander Universität, Erlangen-Nürnberg"
+    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
     location: Erlangen, Germany
   - title: "Education, research, and technology transfer in open source software: new possibilities for universities"
     date: 2019-10-24
