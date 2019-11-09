@@ -14,10 +14,12 @@ presentations:
     location: Washington, DC
   - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
     date: 2018-12-11
+    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
     meeting: VMware
     location: Palo Alto, CA
   - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
     date: 2019-01-25
+    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
     meeting: Amazon AWS
     location: East Palo Alto, CA
   - title: How to Leverage Research Universities
