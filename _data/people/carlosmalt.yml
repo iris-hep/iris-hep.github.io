@@ -41,6 +41,7 @@ presentations:
     meeting: Local Seminar
     meetingurl: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
   - title: Center for Research in Open Source Software
+    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
     date: 2019-10-19
     meeting: Google Summer of Code Mentor Summit
     location: Munich, Germany
@@ -52,4 +53,5 @@ presentations:
   - title: "Education, research, and technology transfer in open source software: new possibilities for universities"
     date: 2019-10-24
     meeting: "École Polytechnique Fédérale de Lausanne (EPFL)"
+    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
     location: Lausanne, Switzerland
