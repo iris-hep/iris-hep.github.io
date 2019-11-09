@@ -27,11 +27,11 @@ presentations:
     meetingurl: https://osls19.sched.com/
     location: Half Moon Bay, CA
   - title: "MBWU: Benefit Quantification for Data Acess Function Offloading"
-  	date: 20 Jun 2019
-  	url: https://hps.vi4io.org/_media/events/2019/hpc-iodc-mmbwu-maltzahn.pdf
-  	meeting: HPC I/O in the Data Center Workshop (HPC-IODC 2019)
-  	meetingurl: https://hps.vi4io.org/events/2019/iodc
-  	location: Frankfurt, Germany
+    date: 20 Jun 2019
+    url: https://hps.vi4io.org/_media/events/2019/hpc-iodc-mmbwu-maltzahn.pdf
+    meeting: HPC I/O in the Data Center Workshop (HPC-IODC 2019)
+    meetingurl: https://hps.vi4io.org/events/2019/iodc
+    location: Frankfurt, Germany
   - title: Update on the Center for Research in Open Source Software
     date: 15 Aug 2019
     location: Los Alamos National Laboratory
