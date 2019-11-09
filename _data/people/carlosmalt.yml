@@ -6,17 +6,17 @@ institution: University of California, Santa Cruz
 website: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
 photo: /assets/images/team/Carlos-Maltzahn.png
 presentations:
-  - title: IN53A-04: Reproducible, Automated and Portable Computational and Data Science Experimentation Pipelines with Popper (with Ivo Jimenez)
+  - title: "IN53A-04: Reproducible, Automated and Portable Computational and Data Science Experimentation Pipelines with Popper (with Ivo Jimenez)"
     date: 14 Dec 2018
     url: https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/386821
-    meeting: IN53A: Enabling Transparency and Reproducibility in Geoscience Through Practical Provenance and Cloud-Based Workflows I (AGU Fall Meeting)
+    meeting: "IN53A: Enabling Transparency and Reproducibility in Geoscience Through Practical Provenance and Cloud-Based Workflows I (AGU Fall Meeting)"
     meetingurl: https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/60547
     location: Washington, DC
-  - title: Programmable Storage Systems: For I/O that doesn’t fit under the rug
+  - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
     date: 11 Dec 2018
     meeting: VMware
     location: Palo Alto, CA
-  - title: Programmable Storage Systems: For I/O that doesn’t fit under the rug
+  - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
     date: 25 Jan 2019
     meeting: Amazon AWS
     location: East Palo Alto, CA
@@ -26,7 +26,7 @@ presentations:
     meeting: Linux Foundation Open Source Leadership Summit (OSLS 2019)
     meetingurl: https://osls19.sched.com/
     location: Half Moon Bay, CA
-  - title: MBWU: Benefit Quantification for Data Acess Function Offloading
+  - title: "MBWU: Benefit Quantification for Data Acess Function Offloading"
   	date: 20 Jun 2019
   	url: https://hps.vi4io.org/_media/events/2019/hpc-iodc-mmbwu-maltzahn.pdf
   	meeting: HPC I/O in the Data Center Workshop (HPC-IODC 2019)
