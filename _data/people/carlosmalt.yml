@@ -14,13 +14,13 @@ presentations:
     location: Washington, DC
   - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
     date: 2018-12-11
-    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
-    meeting: VMware
+    url: https://drive.google.com/file/d/1AYatbWAeFB3FnGqU3e4aqGjx9o3_FlMa/view?usp=sharing
+    meeting: Seminar at VMware
     location: Palo Alto, CA
   - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
     date: 2019-01-25
-    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
-    meeting: Amazon AWS
+    url: https://drive.google.com/file/d/1oLGQ3qfUKtu9zh-JgkiGuU1Hikjzbez1/view?usp=sharing
+    meeting: Seminar at Amazon AWS
     location: East Palo Alto, CA
   - title: How to Leverage Research Universities
     date: 2019-03-13
@@ -37,21 +37,23 @@ presentations:
   - title: Update on the Center for Research in Open Source Software
     date: 2019-08-15
     location: Los Alamos National Laboratory
-    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
-    meeting: Local Seminar
-    meetingurl: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
+    url: https://drive.google.com/file/d/1A_nQkQQkjM9R-L3VnIt8WPeyqAD60DJM/view?usp=sharing
+    meeting: Seminar at New Mexico Consortium, Los Alamos
   - title: Center for Research in Open Source Software
-    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
+    url: https://drive.google.com/file/d/1AdOL5qTFF4WAGbHDQ_p3WdE6b1X7DuNu/view?usp=sharing
     date: 2019-10-19
     meeting: Google Summer of Code Mentor Summit
+    meetingurl: https://sites.google.com/view/gsoc-mentorsummit2019/home
     location: Munich, Germany
   - title: "Education, research, and technology transfer in open source software: new possibilities for universities"
     date: 2019-10-21
     meeting: "Friedrich-Alexander Universität, Erlangen-Nürnberg"
-    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
+    meetingurl: https://osr.cs.fau.de/2019/09/05/upcoming-talk-lehre-forschung-und-technologietransfer-in-open-source-software-neue-moglichkeiten-fur-die-universitat/
+    url: https://drive.google.com/file/d/1Agtix-92-Efxuso-kXHjgmecwYLJlyA2/view?usp=sharing
     location: Erlangen, Germany
   - title: "Education, research, and technology transfer in open source software: new possibilities for universities"
     date: 2019-10-24
     meeting: "École Polytechnique Fédérale de Lausanne (EPFL)"
-    url: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
+    meetingurl: https://memento.epfl.ch/event/education-research-and-technology-transfer-in-open/
+    url: https://drive.google.com/file/d/17v7RhprpYf7y2z-GEHQdZ4Km5lJopArB/view?usp=sharing
     location: Lausanne, Switzerland
