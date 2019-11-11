@@ -16,7 +16,7 @@ presentations:
     date: 2018-12-11
     url: https://drive.google.com/file/d/1AYatbWAeFB3FnGqU3e4aqGjx9o3_FlMa/view?usp=sharing
     meeting: Seminar at VMware
-		meetingurl: https://www.vmware.com
+    meetingurl: https://www.vmware.com
     location: Palo Alto, CA
   - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
     date: 2019-01-25
