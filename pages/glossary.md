@@ -21,6 +21,8 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * Blueprint - The [Blueprint](https://iris-hep.org/blueprint.html) activity in the IRIS-HEP Software Institute is designed to inform the strategic vision of the institute through dedicated workshops on topics of interest to the institute's mission.
 
+  * BoF - "Birds of a Feather" sessions at a conference are informal (typically parallel, ad-hoc) sessions at a conference or workshop where interested parties get together to discuss some specific common topic of interest
+
   * CERN - the [European Laboratory for Particle Physics](https://home.cern), located in Geneva, Switzerland
 
   * CHEP - The [Computing in High Energy and Nuclear Physics (CHEP)](http://chep2019.org) conference is the main conference in which software and computing topics relevant for HEP are discussed. It takes place approximately every 18 months, out of phase by approximately 9 months with the ACAT workshop series.
@@ -43,6 +45,8 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * IA - Innovative Algorithms, one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
 
+  * JLAB - [Jefferson Lab (JLAB)](https://www.jlab.org) is a DOE national laboratory focused on nuclear physics located in Newport News, VA
+
   * LBNL or Berkeley Lab - [Lawrence Berkeley National Laboratory (LBNL)](https://www.lbl.gov) is a multipurpose DOE national laboratory located in Berkeley, CA
 
 
@@ -64,11 +68,15 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * Run 4 or HL-LHC - The LHC running period which nominally starts from 2026, with the upgraded high luminosity LHC and upgraded ATLAS and CMS detectors
 
-  * S2I2-HEP - The original conceptualization project for the software institute. It produced both the [S2I2-HEP Strategic Plan](https://arxiv.org/abs/1712.06592)  and (working with the HEP Software Foundation) drove the [Community White Paper](https://arxiv.org/abs/1712.06982)  process.
+  * S2I2-HEP - The [original conceptualization project](http://s2i2-hep.org) for the software institute. It produced both the [S2I2-HEP Strategic Plan](https://arxiv.org/abs/1712.06592)  and (working with the HEP Software Foundation) drove the [Community White Paper](https://arxiv.org/abs/1712.06982)  process.
 
   * Snowmass - The [Snowmass process](https://snowmass-wiki.fnal.gov/wiki/Main_Page) is a high energy physics community planning process organized by the Division of Particles and Fields of the American Physical Society. The last such process took place in 2012-2013 and a new one is being planned for 2020-2021.
 
+  * SSC - The Sustainable Software Core is a functional area in the IRIS-HEP institute which focuses on general methods for producing and maintaining sustainable software.
+
   * SSL - The [Scalable Systems Laboratory](https://iris-hep.org/ssl.html) provides an integration path for the output of IRIS-HEP R&D to be integrated into the production infrastructure of the LHC experiments.
+
+  * TEO - [Training, Education and Outreach](https://iris-hep.org/ssc.html), one of the main focuses of the SSC area in the IRIS-HEP institute
 
   * US-CMS 
 
@@ -76,4 +84,5 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * US-LHC Ops or US-LHC Operations Programs - refers to the two 
 
+  * WLCG - The [Worldwide LHC Computing Grid (WLCG)](http://wlcg.web.cern.ch) is a federation of national grid infrastructures to support research at the LHC
  
