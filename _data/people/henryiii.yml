@@ -113,3 +113,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/833895/
     location: Abingdon, UK
     focus-area: as
+  - title: "Recent developments in histogram libraries"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3473265/
+    meeting: CHEP 2019
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: as
