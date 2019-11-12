@@ -17,6 +17,8 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * CERN - the European Laboratory for Particle Physics, located in Geneva, Switzerland
 
+  * CTDR - Computing Technical Design Report, a technical planning document required by CERN from each of the experiments (ATLAS and CMS) in ~2022 to describe the computing plans and model for the HL-LHC upgrades
+
   * DOMA - [Data Organization, Management and Access](https://iris-hep.org/doma.html), one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
 
   * HSF - [HEP Software Foundation](https://hepsoftwarefoundation.org/)
@@ -25,7 +27,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * LHC - Large Hadron Collider, the proton-proton collider at CERN
 
-  * Open Science Grid - 
+  * OSG - The [Open Science Grid](https://opensciencegrid.org/), which provides the fabric for distributed high-through computing
 
   * Operations Programs or Ops Programs - 
 
