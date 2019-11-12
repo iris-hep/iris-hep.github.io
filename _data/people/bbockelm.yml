@@ -47,3 +47,10 @@ presentations:
     meeting: HSF & ATLAS Joint Event Delivery Workshop
     url: https://indico.cern.ch/event/849155/sessions/323697/attachments/1917032/3169811/HSF-EventDelivery-WG-Introduction.pdf
     focus-area: doma
+  - title: "Third-party transfers in WLCG using HTTP"
+    date: 2019-11-05
+    meeting: 24th International Conference on Computing in High Energy & Nuclear Physics
+    url: https://indico.cern.ch/event/773049/contributions/3474402/attachments/1938592/3213446/CHEP19-HTTP-TPC.pdf
+    meetingurl: https://indico.cern.ch/event/773049/
+    focus-area: doma
+    project: tpc
