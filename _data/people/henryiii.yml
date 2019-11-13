@@ -92,3 +92,31 @@ presentations:
     meetingurl: https://indico.cern.ch/event/840472/
     location: Fermi National Accelerator Laboratory
     focus-area: as, ssc, ia
+  - title: "Python 3.8: What's new"
+    date: 2019-10-17
+    url: https://indico.cern.ch/event/833895/contributions/3606920/
+    meeting: PyHEP 2019
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, UK
+    focus-area: as
+  - title: "Python Histogramming Packages"
+    date: 2019-10-17
+    url: https://indico.cern.ch/event/833895/contributions/3577833/
+    meeting: PyHEP 2019
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, UK
+    focus-area: as
+  - title: "Boost-Histogram: Hands-on"
+    date: 2019-10-17
+    url: https://indico.cern.ch/event/833895/contributions/3577835/
+    meeting: PyHEP 2019
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, UK
+    focus-area: as
+  - title: "Recent developments in histogram libraries"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3473265/
+    meeting: CHEP 2019
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: as

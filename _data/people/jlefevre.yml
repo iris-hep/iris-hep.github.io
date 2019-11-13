@@ -6,11 +6,11 @@ institution: University of California, Santa Cruz
 website: https://users.soe.ucsc.edu/~jlefevre/
 photo: /assets/images/team/Jeff-LeFevre.jpg
 presentations:
-  - title: "Skyhook: Programmable Object Storage for Analysis"
-    date: 2019-04-24
-    url: https://indico.cern.ch/event/813447/contributions/3392127/attachments/1834797/3005672/skyhook-iris-hep-topical-meeting-20190424.pdf
-    meeting: "IRIS-HEP Topical Meetings"
-    meetingurl: https://indico.cern.ch/event/813447/
+  - title: SkyhookDB - Leveraging object storage toward database elasticity in the cloud
+    date: 2017-11-16
+    url: https://indico.cern.ch/event/669506/contributions/2782611/attachments/1560226/2455903/jlefevre-skyhookdb-20171116-flatiron.pdf
+    meeting: DOMA Workshop 2017 (Flatiron Institute)
+    meetingurl: https://indico.cern.ch/event/669506/
     focus-area: doma
   - title: "Skyhook: programmable storage for databases"
     date: 2019-02-26
@@ -18,9 +18,22 @@ presentations:
     meeting: Vault'19 
     meetingurl: https://www.usenix.org/conference/vault19
     focus-area: doma
-  - title: SkyhookDB - Leveraging object storage toward database elasticity in the cloud
-    date: 2017-11-16
-    url: https://indico.cern.ch/event/669506/contributions/2782611/attachments/1560226/2455903/jlefevre-skyhookdb-20171116-flatiron.pdf
-    meeting: DOMA Workshop 2017 (Flatiron Institute)
-    meetingurl: https://indico.cern.ch/event/669506/
+  - title: "Skyhook: Programmable Object Storage for Analysis"
+    date: 2019-04-24
+    url: https://indico.cern.ch/event/813447/contributions/3392127/attachments/1834797/3005672/skyhook-iris-hep-topical-meeting-20190424.pdf
+    meeting: "IRIS-HEP Topical Meetings"
+    meetingurl: https://indico.cern.ch/event/813447/
     focus-area: doma
+  - title: "Skyhook Data Management: Scaling Databases and Applications with Open Source Extensible Storage"
+    date: 2019-10-03
+    url: https://cross.ucsc.edu/2019-symposium/
+    meeting: "CROSS Research Symposium 2019"
+    meetingurl: https://cross.ucsc.edu/2019-symposium/
+    focus-area: doma
+  - title: "Mapping datasets to object storage"
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3474413/attachments/1936811/3213825/CHEP2019-Mapping_datasets_to_object_storage.pdf
+    meeting: "CHEP 2019"
+    meetingurl: https://indico.cern.ch/event/773049/contributions/3474413/
+    focus-area: doma
+    

@@ -59,4 +59,22 @@ presentations:
     meeting: IRIS-HEP Advisory Panel Meeting
     meetingurl: https://indico.cern.ch/event/840467/overview
     location: Big Ten Conference Center
+  - title: "Workshop Intro" 
+    date: 2019-10-23
+    url: https://indico.cern.ch/event/834880/contributions/3609731/attachments/1932064/3200466/A-Coordinated-Ecosystem-for-HL-LHC-Computing-RD-Workshop-Intro.pdf
+    meeting: "A Coordinated Ecosystem for HL-LHC Computing R&D" 
+    meetingurl: https://indico.cern.ch/event/834880/
+    location: Catholic University of America
+  - title: "Enabling HEP software development for the 2020s - a coherent vision for training" 
+    date: 2019-11-06
+    url: https://indico.cern.ch/event/773049/contributions/3474846/attachments/1940542/3217448/CHEP2019-training.pdf
+    meeting: "CHEP 2019" 
+    meetingurl: http://chep2019.org/index.html
+    location: Adelaide, Australia
+  - title: "Collider Community Building toward IRIS-HEP" 
+    date: 2019-10-28
+    url: https://indico.cern.ch/event/824917/contributions/3571650/attachments/1934373/3205044/DANCE-Workshop-IRIS-HEP-Community-Building.pdf
+    meeting: "DANCE: Dark-matter And Neutrino Computation Explored" 
+    meetingurl: https://dance.rice.edu
+    location: Rice University
 

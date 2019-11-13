@@ -34,3 +34,11 @@ presentations:
     meetingurl: https://indico.cern.ch/event/820946/
     location: NYU
     focus-area: as, ssl
+  - title: The IRIS-HEP Blueprint Concepts and Process
+    date: 2019-09-10
+    url: https://indico.cern.ch/event/822126/contributions/3500165/attachments/1905471/3146855/IRIS-HEP_BluePrint_FML.pdf
+    meeting: Blueprint Meeting on Fast Machine Learning and Inference
+    meetingurl: https://indico.cern.ch/event/822126/
+    location: FNAL
+    focus-area: as
+

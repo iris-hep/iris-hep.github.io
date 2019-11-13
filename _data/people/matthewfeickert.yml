@@ -32,3 +32,24 @@ presentations:
     meetingurl: https://indico.cern.ch/event/840472/
     location: Fermi National Accelerator Laboratory
     focus-area: as
+  - title: "pyhf: pure-Python implementation of HistFactory"
+    date: 2019-10-18
+    url: https://indico.cern.ch/event/833895/contributions/3577824/
+    meeting: PyHEP 2019 Workshop
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, U.K.
+    focus-area: as
+  - title: "pyhf: a pure Python implementation of HistFactory with tensors and autograd (poster)"
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3476180/
+    meeting: CHEP 2019 Conference
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: as
+  - title: "Likelihood preservation and statistical reproduction of searches for new physics"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3476143/
+    meeting: CHEP 2019 Conference
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: as
