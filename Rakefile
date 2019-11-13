@@ -26,6 +26,11 @@ task :cache do
   sh 'ruby', '_scripts/get_indico.rb'
 end
 
+desc 'Run rubocop to lint the ruby code'
+task :rubocop do
+  sh 'rubocop', '_plugins', '_scripts'
+end
+
 
 # See https://github.com/gjtorikian/html-proofer#configuration
 COMMON_OPTIONS = {
