@@ -62,6 +62,8 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * PEP - Project Execution Plan
 
+  * Pileup - the number of simultaneous proton-proton collisions visible in the detector as part of an "event". Typically the vast majority of these are not interesting, but because they may be"overlaid" on an interesting signal collision they complicate the processing and analysis of the data. The HL-LHC will achieve higher "luminosity" (higher data rates) in a way that significantly increases "pileup".
+
   * PTC - Programmatic Terms and Conditions, a document included in the IRIS-HEP award which includes agreements between NSF and Princeton University (and by extension the other institutions) as to how the IRIS-HEP project should be executed, how reporting should be done, etc.
 
   * Run 3 - 
