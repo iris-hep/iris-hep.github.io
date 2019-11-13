@@ -5,7 +5,7 @@ active: green
 institution: University of Washington
 photo: /assets/images/team/ETorro.png
 presentations:
-  - title: "A Functional Declarative Analysis Language in Python" (poster)
+  - title: "A Functional Declarative Analysis Language in Python (poster)"
     date: 2019-11-05
     url: https://indico.cern.ch/event/773049/contributions/3476177/
     meetingurl: https://indico.cern.ch/event/773049/
