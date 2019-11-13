@@ -6,3 +6,9 @@ institution: Massachusetts Institute of Technology
 website: 
 photo: /assets/images/team/Daniel-Craik.jpg
 presentations:
+  - title: LHCb Status and Outlook
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/844493/contributions/3547458/attachments/1927340/3190928/20191016_dcraik_lua.pdf
+    meeting: LHC Users Association Annual Meeting 2019
+    meetingurl: https://indico.cern.ch/event/844493
+    location: Rice University
