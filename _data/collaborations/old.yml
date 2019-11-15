@@ -1,0 +1,30 @@
+- name: S2I2-HEP
+  url: http://s2i2-hep.org/
+  description: >-
+    The S2I2-HEP project prepared a strategic plan for a potential NSF Scientific
+    Software Innovation Institute (S2I2), which evolved into what became the proposal
+    to the NSF for IRIS-HEP. As part of that, the S2I2-HEP project worked closely with
+    the HEP Software Foundation to prepare a larger HEP Community White Paper (CWP)
+    describing a global roadmap for HEP Software and Computing R&D for the 2020s.
+  awards:
+    - type: OAC
+      number: 1558216
+    - type: OAC
+      number: 1558233
+    - type: OAC
+      number: 1558219
+
+- name: DASPOS
+  url: http://daspos.org/
+  description: >-
+    This project ran from 2012-2017 and did an "initial exploration of the key
+    technical problems that must be solved to provide appropriate data, software
+    and algorithmic preservation for HEP, including the contexts necessary to
+    understand, trust and reuse the data." As such, it contributed directly to
+    some of the development work performed by the [DIANA/HEP](http://diana-hep.org/)
+    project and now as part of the [Analysis Systems](/as) area of IRIS-HEP.
+  awards:
+    - type: PHY
+      number: 1247316
+
+

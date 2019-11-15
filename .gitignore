@@ -3,6 +3,7 @@
 *.swp
 .DS_Store
 .sass-cache/
+/bin/
 Gemfile.lock
 _site/
 assets/.DS_Store
@@ -11,3 +12,5 @@ vendor/
 _cache/
 .ruby-version
 .jekyll-metadata
+_data/indico/
+_data/topical/

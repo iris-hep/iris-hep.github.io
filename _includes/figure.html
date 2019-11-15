@@ -1,0 +1,18 @@
+{%- if include.url -%}
+{%- assign url = include.url -%}
+{%- else -%}
+{%- assign url = include.file -%}
+{%- endif -%}
+
+{%- if include.caption -%}
+<figure class="{{include.class | default: "right"}} caption" style="{{include.figure-style}}">
+{%- else -%}
+<figure class="{{include.class | default: "right"}}" style="{{include.figure-style}}">
+{%- endif -%}
+<a href="{{url}}">
+	<img alt="{{include.alt}}" src="{{include.file}}" style="{{include.img-style}}">
+</a>
+{%- if include.caption -%}
+<figcaption>{{include.caption}}</figcaption>
+{%- endif -%}
+</figure>

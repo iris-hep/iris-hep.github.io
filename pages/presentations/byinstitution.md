@@ -11,11 +11,11 @@ title: Presentations by Institution
 date | name | title | url | meeting | meetingurl | project | focus_area | institution
 -->
 
-{% assign orderedlist = "cornell, indiana, mit, morgridge, nyu, princeton, stanford, chicago, cincinnati, uiuc, michigan, nebraska, berkeley, ucsc, ucsd, uprm, washington, wisconsin" | split: ", " %}
+{% include institution_list.html %}
 
 <h2>Presentations by the IRIS-HEP team</h2>
 
-{% for uniindex in orderedlist %}
+{% for uniindex in institution_list %}
   {% assign uni = site.data.universities[uniindex] %}
 <h4>{{uni.name}}</h4>
 <ul>

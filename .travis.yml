@@ -2,10 +2,13 @@ dist: xenial
 language: ruby
 rvm:
   - 2.5.3
-cache: bundler
+cache:
+  bundler: true
+  directories:
+    - _cache
 branches:
   only:
-  - henryiii-travis-prep
+    - master
 
 env:
   global:
@@ -16,18 +19,18 @@ env:
 before_install:
   - gem install bundler
 
-script:
-  - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --assume-extension || true
+# It's okay if this one fails - these are harder checks
+after_script:
+  - bundle exec rake check
 
-#deploy:
-#  provider: pages
-#  local-dir: ./_site
-#  target-branch: master
-#  email: deploy@travis-ci.org
-#  name: Deployment Bot
-#  skip-cleanup: true
-#  github-token: $GITHUB_TOKEN
-#  keep-history: true
-#  on:
-#    branch: henryiii-travis-prep
+deploy:
+  provider: pages
+  local-dir: ./_site
+  repo: iris-hep/iris-hep.github.io
+  fqdn: iris-hep.org
+  target-branch: master
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: false
+  on:
+    branch: master

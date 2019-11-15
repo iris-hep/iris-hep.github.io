@@ -2,6 +2,20 @@ name: Xiaocong Ai
 shortname: xiaocong-ai
 title: Postdoc and ACTS
 active: green
-institution: UC Berkeley
+institution: University of California, Berkeley
 photo: /assets/images/team/Xiaocong-Ai.jpg
 presentations:
+  - title: "ACTS Status"
+    date: 2019-08-08
+    url: https://indico.cern.ch/event/813855/
+    meeting: USATLAS Summer Workshop
+    meetingurl: https://indico.cern.ch/event/813855/
+    focus-area: ia
+    project: acts
+  - title: "ACTS: a common track reconstruction software"
+    date: 2019-07-31
+    url: https://indico.cern.ch/event/782953/contributions/3462562/attachments/1888325/3115216/DPF2019_ACTS_Xiaocong.pdf
+    meeting: DPF 2019
+    meetingurl: https://indico.cern.ch/event/782953/
+    focus-area: ia
+    project: acts

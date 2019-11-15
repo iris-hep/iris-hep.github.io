@@ -105,6 +105,11 @@ module Publications
 
       recid = pub['inspire-id']
       response = @net.get "/api/literature/#{recid}"
+
+      unless response.code == '200'
+        raise IOError, "Getting #{recid} failed with code #{response.code}: #{response.message}"
+      end
+
       data = JSON.parse(response.body)['metadata']
 
       # Set these *only* if not already set
@@ -127,7 +132,7 @@ module Publications
       # Build the citation string (non-author part)
       j = data.dig('publication_info', 0) # This may be nil
       journal =
-        if j && j.key?('journal_title') && j.key?('year')
+        if j&.key?('journal_title') && j&.key?('year')
           "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
         elsif data.key? 'arxiv_eprints'
           "arXiv #{data['arxiv_eprints'][0]['value']}"
@@ -174,8 +179,8 @@ module Publications
 
         puts "Reading #{cname} from cache"
       else
-        yield pub
         puts "Saving #{cname}"
+        yield pub
         save_to_cache(pub, cname)
       end
     end
