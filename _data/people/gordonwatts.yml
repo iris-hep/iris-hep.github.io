@@ -62,3 +62,57 @@ presentations:
     meeting: Analysis Systems Topical Workshop
     meetingurl: https://indico.cern.ch/event/822074/
     focus-area: as
+  - title: IRIS-HEP View
+    date: 2019-07-22
+    url: https://indico.cern.ch/event/835581/contributions/3508561
+    meeting: Computing infrastructures for future data analysis
+    meetingurl: https://indico.cern.ch/event/835581
+    focus-area: as doma
+  - title: func-adl to C++/xAOD backend
+    date: 2019-09-13
+    url: https://indico.cern.ch/event/840472/contributions/3563333/
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472
+    focus-area: as
+  - title: Milestones - We don't need roads...
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3561605/
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472
+    focus-area: as
+  - title: "Declarative programming: A paradigm shift in data analysis in preparation for the HL-LHC"
+    date: 2019-09-26
+    url: https://doi.org/10.5281/zenodo.3471337
+    meetingurl: https://escience2019.sdsc.edu/
+    meeting: eScience2019
+    focus-area: as
+  - title: "Run 3/Run 4 Perspectives - Event Delivery Impacts?"
+    date: 2019-09-30
+    url: https://indico.cern.ch/event/849155/contributions/3576913/
+    meetingurl: https://indico.cern.ch/event/849155/
+    meeting: "HSF & ATLAS Joint Event Delivery Workshop"
+    focus-area: as
+  - title: "Lightning Talk: A Living HEP Analysis"
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/833895/sessions/319481/
+    meetingurl: https://indico.cern.ch/event/833895
+    meeting: "PyHEP"
+    focus-area: as
+  - title: "Aligning the MATHUSLA Detector Test Stand with Tensor Flow"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3476185/
+    meetingurl: https://indico.cern.ch/event/773049/
+    meeting: "CHEP 2019"
+    focus-area: as
+  - title: "Using Analysis Declarative Languages for the HL-LHC"
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3476174/
+    meetingurl: https://indico.cern.ch/event/773049/
+    meeting: "CHEP 2019"
+    focus-area: as
+  - title: "Analysis workflows"
+    date: 2019-11-02
+    url: https://indico.cern.ch/event/805983/contributions/3569725/
+    meetingurl: https://indico.cern.ch/event/805983/
+    meeting: "CHEP 2019"
+    focus-area: as

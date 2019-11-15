@@ -1,8 +1,62 @@
 name: Carlos Maltzahn
 shortname: carlosmalt
-title: 
+title: Adjunct Professor of Computer Science and Engineering
 active: green
 institution: University of California, Santa Cruz
 website: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
 photo: /assets/images/team/Carlos-Maltzahn.png
 presentations:
+  - title: "IN53A-04: Reproducible, Automated and Portable Computational and Data Science Experimentation Pipelines with Popper (with Ivo Jimenez)"
+    date: 2018-12-14
+    url: https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/386821
+    meeting: "IN53A: Enabling Transparency and Reproducibility in Geoscience Through Practical Provenance and Cloud-Based Workflows I (AGU Fall Meeting)"
+    meetingurl: https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/60547
+    location: Washington, DC
+  - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
+    date: 2018-12-11
+    url: https://drive.google.com/file/d/1AYatbWAeFB3FnGqU3e4aqGjx9o3_FlMa/view?usp=sharing
+    meeting: Seminar at VMware
+    meetingurl: https://www.vmware.com
+    location: Palo Alto, CA
+  - title: "Programmable Storage Systems: For I/O that doesn’t fit under the rug"
+    date: 2019-01-25
+    url: https://drive.google.com/file/d/1oLGQ3qfUKtu9zh-JgkiGuU1Hikjzbez1/view?usp=sharing
+    meeting: Seminar at Amazon AWS
+    meetingurl: https://aws.amazon.com/
+    location: East Palo Alto, CA
+  - title: How to Leverage Research Universities
+    date: 2019-03-13
+    url: https://osls19.sched.com/event/LG4s/how-to-leverage-research-universities-carlos-maltzahn-uc-santa-cruz-center-for-research-in-open-source-software
+    meeting: Linux Foundation Open Source Leadership Summit (OSLS 2019)
+    meetingurl: https://osls19.sched.com/
+    location: Half Moon Bay, CA
+  - title: "MBWU: Benefit Quantification for Data Acess Function Offloading"
+    date: 2019-06-20
+    url: https://hps.vi4io.org/_media/events/2019/hpc-iodc-mmbwu-maltzahn.pdf
+    meeting: HPC I/O in the Data Center Workshop (HPC-IODC 2019)
+    meetingurl: https://hps.vi4io.org/events/2019/iodc
+    location: Frankfurt, Germany
+  - title: Update on the Center for Research in Open Source Software
+    date: 2019-08-15
+    location: Los Alamos National Laboratory
+    url: https://drive.google.com/file/d/1A_nQkQQkjM9R-L3VnIt8WPeyqAD60DJM/view?usp=sharing
+    meeting: Seminar at New Mexico Consortium, Los Alamos
+    meetingurl: https://newmexicoconsortium.org/
+  - title: Center for Research in Open Source Software
+    url: https://drive.google.com/file/d/1AdOL5qTFF4WAGbHDQ_p3WdE6b1X7DuNu/view?usp=sharing
+    date: 2019-10-19
+    meeting: Google Summer of Code Mentor Summit
+    meetingurl: https://sites.google.com/view/gsoc-mentorsummit2019/home
+    location: Munich, Germany
+  - title: "Education, research, and technology transfer in open source software: new possibilities for universities"
+    date: 2019-10-21
+    meeting: "Friedrich-Alexander Universität, Erlangen-Nürnberg"
+    meetingurl: https://osr.cs.fau.de/2019/09/05/upcoming-talk-lehre-forschung-und-technologietransfer-in-open-source-software-neue-moglichkeiten-fur-die-universitat/
+    url: https://drive.google.com/file/d/1Agtix-92-Efxuso-kXHjgmecwYLJlyA2/view?usp=sharing
+    location: Erlangen, Germany
+  - title: "Education, research, and technology transfer in open source software: new possibilities for universities"
+    date: 2019-10-24
+    meeting: "École Polytechnique Fédérale de Lausanne (EPFL)"
+    meetingurl: https://memento.epfl.ch/event/education-research-and-technology-transfer-in-open/
+    url: https://drive.google.com/file/d/17v7RhprpYf7y2z-GEHQdZ4Km5lJopArB/view?usp=sharing
+    location: Lausanne, Switzerland

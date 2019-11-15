@@ -1,0 +1,37 @@
+- name: U.S. ATLAS Collaboration
+  short: USATLAS
+  url: https://po.usatlas.bnl.gov/
+  description: >- 
+    This is the full collaboration of U.S. researchers
+    participating in the ATLAS experiment at the LHC.
+    Funding comes from a variety of single PI and group
+    NSF and DOE grants.
+
+
+- name: U.S. ATLAS Operations Program
+  url: https://po.usatlas.bnl.gov/programoffice/op.php
+  description: >- 
+    This is a joint NSF/DOE project to support operations and
+    computing facilities needed for the U.S. participation in
+    the ATLAS experiment at CERN.
+  awards:
+    - type: PHY
+      number: 1624739
+
+- name: U.S. CMS Collaboration 
+  short: USCMS
+  url: https://uscms.org/index.shtml 
+  description: >- 
+    This is the full collaboration of U.S. researchers
+    participating in the CMS experiment at the LHC. Funding
+    comes from a variety of single PI and group NSF and DOE
+    grants.
+
+- name: U.S. CMS Operations Program
+  url: https://uscms.org/uscms_at_work/rpo/index.shtml
+  description: >-
+    This is a joint NSF/DOE project to support operations and computing facilities
+    needed for the U.S. participation in the CMS experiment at CERN.
+  awards:
+    - type: PHY
+      number: 1624356

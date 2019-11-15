@@ -12,7 +12,7 @@ This will be useful for advertising your work and (more mundane) reporting.
 
 #### Inspire
 
-This is easiest if you have your paper's inspire ID, which we will assume for the purpose of this tutorial is 12345678. Make a new yaml file in  [_data/publications](https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/publications) - you can click the new file button or [click here](https://github.com/iris-hep/iris-hep.github.io/new/master/_data/publications). Name your file `ID.yml`; in our example, it would be `12345678.yml` The contents of the file should look like this:
+This is easiest if you have your paper's inspire ID, which we will assume for the purpose of this tutorial is 12345678. Make a new yaml file in  [_data/publications](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/_data/publications) - you can click the new file button or [click here](https://github.com/iris-hep/iris-hep.github.io-source/new/master/_data/publications). Name your file `ID.yml`; in our example, it would be `12345678.yml` The contents of the file should look like this:
 
 ```yaml
 inspire-id: 12345678
@@ -54,7 +54,6 @@ project: some-project
 
 ---
 
-Want to test locally before making a pull request? [This should work](https://jekyllrb.com/docs/)
+Want to test locally before making a pull request? [This should work](/docs/webdev).
 
-Get help: Reach out on the Slack website channel or contact David Lange or Henry Schreiner
-
+Get help: Reach out on the [Slack website channel](https://iris-hep.slack.com/messages/website/) or contact David Lange.

@@ -27,3 +27,6 @@ researchers.
 These [in-production caches](https://indico.cern.ch/event/760850/contributions/3156949/attachments/1724585/2785286/SoCalCache.pdf) have shown to save up to a factor of three of WAN bandwidth compared with
 traditional data management techniques.
 
+## Reports
+
+[Report on cache usage on the WLCG and potential use cases and deployment scenarios for the US LHC facilities](https://github.com/iris-hep/iris-hep.github.io-source/blob/master/assets/pdf/Cache_Usage_on_the_WLCG.pdf)

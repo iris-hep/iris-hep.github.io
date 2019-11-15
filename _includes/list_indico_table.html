@@ -1,0 +1,29 @@
+
+{%- assign currentdatecmp = 'now' | date: "%s" -%}
+{%- assign selected_events = "" | split: ',' -%}
+{%- for event_pair in site.data.indico[include.name] -%}
+  {%- assign event = event_pair[1] -%}
+  {%- assign startdatecmp = event.startdate | date: "%s" -%}
+  {%- if startdatecmp < currentdatecmp -%}
+    {%- assign selected_events = selected_events | push: event -%}
+  {%- endif-%}
+{%- endfor -%}
+{%- assign selected_events = selected_events | sort: 'startdate' | reverse -%}
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Meeting</th>
+    </tr>
+  </thead>
+  <tbody>
+  {%- for event in selected_events -%}
+    <tr>
+      <td>{{event.startdate | date: '%B %d, %Y'}}</td>
+      <td><a href="{{event.meetingurl}}">{{event.name}}</a></td>
+    </tr>
+  {%- endfor-%}
+  </tbody>
+</table>

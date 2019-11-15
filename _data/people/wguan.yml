@@ -1,0 +1,22 @@
+name: Wen Guan
+shortname: wguan
+title:
+active: green
+institution: University of Wisconsin-Madison
+website: 
+photo: /assets/images/team/Wen-Guan.png
+presentations:
+  - title: "IDDS"
+    date: 2019-09-30
+    meeting: HSF & ATLAS Joint Event Delivery Workshop
+    meetingurl: https://indico.cern.ch/event/849155/
+    url: https://indico.cern.ch/event/849155/contributions/3576915/attachments/1917085/3170006/idds_20100927_atlas_sc_week.pdf
+    focus-area: doma
+    project: idds
+  - title: "Event Streaming Service for ATLAS Event Processing"
+    date: 2019-11-07
+    meeting: 24th International Conference on Computing in High Energy Physics(CHEP2019)
+    meetingurl: https://indico.cern.ch/event/773049/
+    url: https://indico.cern.ch/event/773049/contributions/3474484/attachments/1943110/3222885/idds_chep2019.pdf
+    focus-area: doma
+    project: idds

@@ -1,0 +1,21 @@
+- name: The ATLAS experiment
+  short: ATLAS
+  url: https://home.cern/science/experiments/atlas
+  description: >-
+    A general-purpose detector at the Large Hadron Collider (LHC)
+    and after significant upgrades, from 2026, at the High-Luminosity
+    Large Hadron Collider (HL-LHC).
+
+- name: The Compact Muon Solenoid (CMS) experiment
+  short: CMS
+  url: https://home.cern/science/experiments/cms
+  description: >-
+    A general-purpose detector at the Large Hadron Collider (LHC)
+    and after significant upgrades, from 2026, at the High-Luminosity
+    Large Hadron Collider (HL-LHC).
+
+- name: The Large Hadron Collider beauty (LHCb) experiment
+  short: LHCb
+  url: https://home.cern/science/experiments/lhcb
+  description: >-
+    A detector focused on physics using the beauty quark. 

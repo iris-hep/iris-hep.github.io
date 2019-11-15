@@ -6,6 +6,41 @@ institution: University of Wisconsin–Madison
 website: 
 photo: /assets/images/team/Brian-Lin.jpg
 presentations:
+  - title: "HTCondor-CE What's Next?"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570564/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "HTCondor-CE Troubleshooting"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570561/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "HTCondor-CE Integration with APEL and BDII"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570558/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "HTCondor-CE Configuration"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570557/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "HTCondor-CE Basics and Architecture"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570555/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
   - title: "Security Model for Containerized Grid Services"
     date: 2019-06-27
     url: https://indico.cern.ch/event/765245/timetable/#111-security-model-for-contain

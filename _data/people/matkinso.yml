@@ -6,3 +6,17 @@ institution: University of Illinois at Urbana-Champaign
 website: 
 photo: /assets/images/team/Markus-Atkinson.png
 presentations:
+  - title: "Introduction and Plans"
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3563439/attachments/1907817/3151491/Introduction_and_Plan.pdf
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/overview
+    location: FNAL
+    focus-area: ia
+  - title: FPGA ML inference as a service on AWS
+    date: 2019-10-19
+    url: https://indico.cern.ch/event/858899/contributions/3619146/attachments/1933518/3203232/AWS_talk.pdf
+    meeting: FastML Co-processors Meeting
+    meetingurl: https://indico.cern.ch/event/858899/
+    location: Vidyo
+    focus-area: ia
