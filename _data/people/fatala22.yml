@@ -6,6 +6,18 @@ institution: University of Puerto Rico at Mayaguez
 website: http://charma.uprm.edu/~malik/
 photo: /assets/images/team/Sudhir-Malik.png
 presentations:
+  - title: "SSC - News, Status, Plans"
+    date: 2019-09-13
+    url: https://indico.cern.ch/event/840472/contributions/3561673/attachments/1907927/3151527/IRIS-HEP_RetreatAdvisory_SSC_CloseOut_9to13Sep2019.pdf
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermilab
+  - title: "IRIS-HEP area SSC"
+    date: 2019-09-13
+    url: https://indico.cern.ch/event/840472/contributions/3564743/attachments/1907744/3151135/IRIS-HEP_RetreatAdvisory_SSC_9to13Sep2019.pdf
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermilab
   - title: "FIRST-HEP Training Program"
     date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3315849/attachments/1816168/2968373/FIRST-HEP-JLAB-HOW2019.pdf
