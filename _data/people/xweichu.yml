@@ -12,7 +12,7 @@ presentations:
     meeting: "CHEP 2019"
     meetingurl: https://indico.cern.ch/event/773049/contributions/3474413/
     focus-area: doma
-   - title: "Mapping datasets to object storage"
+  - title: "Mapping datasets to object storage"
     date: 2019-10-03
     url: https://cross.ucsc.edu/2019-symposium/
     meeting: "CROSS Research Symposium 2019"
