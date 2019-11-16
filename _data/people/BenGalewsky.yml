@@ -6,3 +6,24 @@ institution: National Center for Supercomputing Applications
 website: https://github.com/BenGalewsky
 photo: /assets/images/team/Ben-Galewsky.jpg
 presentations:
+  - title: ServiceX
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471452/attachments/1865411/3067262/ServiceX_For_AS_Workshop.pdf
+    meeting: Analysis Systems Topical Workshop
+    meetingurl: https://indico.cern.ch/event/822074
+    location: NYU
+    focus-area: as, doma
+  - title: "Analysis Systems team meetings/process efficacy"
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3564364/attachments/1907330/3150288/go
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/overview
+    location: FNAL
+    focus-area: as
+  - title: "A Distributed, Caching, Columnar Data Delivery Service(X)"
+    date: 2019-11-04
+    url: https://indico.cern.ch/event/773049/contributions/3474438/
+    meeting: CHEP 2019 Conference
+    meetingurl: https://indico.cern.ch/event/773049
+    location: Adelaide, South Australia
+    focus-area: doma

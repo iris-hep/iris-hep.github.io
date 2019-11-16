@@ -15,8 +15,3 @@ team:
 We are studying how to replace CPU-intensive simulations of microscopic physics with fast generative models.
 Specifically, we are focused on learning generative models for the LHCb detector subsystems dedicated to identifying particles, known as particle identification (PID). 
 
-{% include list_project_team.md team=page.team%}
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}

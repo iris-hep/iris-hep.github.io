@@ -12,41 +12,107 @@ presentations:
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/ 
     location: Vidyo
-    focusarea: as
+    focus-area: as
   - title: "LINQ To ROOT"
     date: 2019-02-13
     url: https://indico.cern.ch/event/789007/contributions/3317126/attachments/1795120/2927037/2019-02-13_-_Analysis_Languages.pdf
     meeting: 1st DAWG Technology and Innovation Survey (HSF)
     meetingurl: https://indico.cern.ch/event/789007/
-    focusarea: as
+    focus-area: as
   - title: "The C# LINQ Analysis Language"
     date: 2019-02-25
     url: https://indico.cern.ch/event/799590/contributions/3322885/attachments/1801294/2938216/2019-02-25_-_The_C_LINQ_Analysis_Language.pdf
     meeting: IRIS-HEP Topical Meeting on Analysis Description Languages
     meetingurl: https://indico.cern.ch/event/799590/
     location: Vidyo
-    focusarea: as
+    focus-area: as
   - title: "Aligning the MATHUSA Test Stand Detector: Using Tensorflow"
     date: 2019-03-11
     url: https://indico.cern.ch/event/708041/contributions/3272137/attachments/1813161/2962373/2019-03-11_-_ACAT_TF_and_Alignment.pdf
     meeting: ACAT 2019
     meetingurl: https://indico.cern.ch/event/708041
-    focusarea: as
+    focus-area: as
   - title: "Beyond the Roadmap: HL-LHC HEP Software"
     date: 2019-03-14
-    url: https://indico.cern.ch/event/708041/contributions/3308813/attachments/1811660/2959141/ACAT_Plenary.pdf
+    url: https://indico.cern.ch/event/708041/contributions/3308813/attachments/1811660
     meeting: ACAT 2019
     meetingurl: https://indico.cern.ch/event/708041
-    focusarea: as
+    focus-area: as
   - title: IRIS-HEP and ATLAS
     date: 2019-02-20
     url: https://indico.cern.ch/event/799375/contributions/3321753/attachments/1799577/2934794/2019-02-20_-_US_ATLAS_IB_Meeting.pdf
     meeting: US ATLAS IB Meeting
     meetingurl: https://indico.cern.ch/event/799375/
-    focusarea: as
+    focus-area: as
   - title: Thinking about Analysis Languages and Recent Progress
     date: 2019-05-07
     url: https://indico.cern.ch/event/769263/contributions/3406076/
     meeting: Analysis Description Languages
     meetingurl: https://indico.cern.ch/event/769263
-    focusarea: as
+    focus-area: as
+  - title: Analysis in Run 4
+    date: 2019-06-27
+    url: https://indico.cern.ch/event/765245/contributions/3442554/
+    meeting: ATLAS Software and Computing Week #62
+    meetingurl: https://indico.cern.ch/event/765245
+    focus-area: as
+  - title: Functional/Declarative Selection Languages
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471457/
+    meeting: Analysis Systems Topical Workshop
+    meetingurl: https://indico.cern.ch/event/822074/
+    focus-area: as
+  - title: IRIS-HEP View
+    date: 2019-07-22
+    url: https://indico.cern.ch/event/835581/contributions/3508561
+    meeting: Computing infrastructures for future data analysis
+    meetingurl: https://indico.cern.ch/event/835581
+    focus-area: as doma
+  - title: func-adl to C++/xAOD backend
+    date: 2019-09-13
+    url: https://indico.cern.ch/event/840472/contributions/3563333/
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472
+    focus-area: as
+  - title: Milestones - We don't need roads...
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3561605/
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472
+    focus-area: as
+  - title: "Declarative programming: A paradigm shift in data analysis in preparation for the HL-LHC"
+    date: 2019-09-26
+    url: https://doi.org/10.5281/zenodo.3471337
+    meetingurl: https://escience2019.sdsc.edu/
+    meeting: eScience2019
+    focus-area: as
+  - title: "Run 3/Run 4 Perspectives - Event Delivery Impacts?"
+    date: 2019-09-30
+    url: https://indico.cern.ch/event/849155/contributions/3576913/
+    meetingurl: https://indico.cern.ch/event/849155/
+    meeting: "HSF & ATLAS Joint Event Delivery Workshop"
+    focus-area: as
+  - title: "Lightning Talk: A Living HEP Analysis"
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/833895/sessions/319481/
+    meetingurl: https://indico.cern.ch/event/833895
+    meeting: "PyHEP"
+    focus-area: as
+  - title: "Aligning the MATHUSLA Detector Test Stand with Tensor Flow"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3476185/
+    meetingurl: https://indico.cern.ch/event/773049/
+    meeting: "CHEP 2019"
+    focus-area: as
+  - title: "Using Analysis Declarative Languages for the HL-LHC"
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3476174/
+    meetingurl: https://indico.cern.ch/event/773049/
+    meeting: "CHEP 2019"
+    focus-area: as
+  - title: "Analysis workflows"
+    date: 2019-11-02
+    url: https://indico.cern.ch/event/805983/contributions/3569725/
+    meetingurl: https://indico.cern.ch/event/805983/
+    meeting: "CHEP 2019"
+    focus-area: as

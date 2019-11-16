@@ -6,52 +6,101 @@ institution: University of Wisconsin–Madison
 website: 
 photo: /assets/images/team/Brian-Lin.jpg
 presentations:
+  - title: "HTCondor-CE What's Next?"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570564/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "HTCondor-CE Troubleshooting"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570561/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "HTCondor-CE Integration with APEL and BDII"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570558/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "HTCondor-CE Configuration"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570557/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "HTCondor-CE Basics and Architecture"
+    date: 2019-09-26
+    url: https://indico.cern.ch/event/817927/contributions/3570555/
+    meeting: "European HTCondor Week"
+    meetingurl: https://indico.cern.ch/event/817927
+    location: EU Joint Research Centre
+    focus-area: osglhc
+  - title: "Security Model for Containerized Grid Services"
+    date: 2019-06-27
+    url: https://indico.cern.ch/event/765245/timetable/#111-security-model-for-contain
+    meeting: "Atlas Software & Computing Week #62"
+    meetingurl: https://indico.cern.ch/event/765245
+    location: New York University
+    focus-area: osglhc
+  - title: "XCache Packaging"
+    date: 2019-06-11
+    url: https://indico.cern.ch/event/727208/contributions/3444631/
+    meeting: XRootD Workshop
+    meetingurl: https://indico.cern.ch/event/727208
+    location: CC-IN2P3
+    focus-area: osglhc
   - title: "OSG Software: The Year in Review"
     date: 2019-03-19
     url: https://indico.cern.ch/event/759388/contributions/3353297/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
-    focusarea: osglhc
+    focus-area: osglhc
   - title: "OSG Site Installation Overview"
     date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364839/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
-    focusarea: osglhc
+    focus-area: osglhc
   - title: "HTCondor-CE Overview"
     date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364839/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
-    focusarea: osglhc
+    focus-area: osglhc
   - title: "Container Basics"
     date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364840/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
-    focusarea: osglhc
+    focus-area: osglhc
   - title: "OSG Software Containers"
     date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3364840/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
-    focusarea: osglhc
+    focus-area: osglhc
   - title: "OSG-LHC and XCache"
     date: 2018-12-12
     url: https://indico.cern.ch/event/770941/contributions/3230458/
     meeting: ATLAS Software & Computing Week \#61
     meetingurl: https://indico.cern.ch/event/646947/
     location: CERN
-    focusarea: osglhc
+    focus-area: osglhc
   - title: "OSG-LHC and ATLAS"
     date: 2018-12-03
     url: https://indico.cern.ch/event/766802/contributions/3223347/
     meeting: US-ATLAS Facilities Meeting
     meetingurl: https://indico.cern.ch/event/766802/
     location: Argonne National Lab
-    focusarea: osglhc
+    focus-area: osglhc

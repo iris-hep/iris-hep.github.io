@@ -3,7 +3,6 @@ permalink: /ia.html
 layout: focus-area
 title: Innovative Algorithms
 short_title: ia
-draft: false
 pagetype: focus-area
 ---
 

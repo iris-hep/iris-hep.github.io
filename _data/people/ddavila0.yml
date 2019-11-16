@@ -1,0 +1,21 @@
+name: Diego Davila
+shortname: ddavila0
+title: Scientific Software Developer and Researcher
+active: green
+institution: University of California, San Diego
+website: 
+photo: /assets/images/team/Diego-Davila.jpg
+presentations:
+- title: CMS XCache Monitoring Dashboard
+  date: 2019-07-31
+  url: https://drive.google.com/file/d/1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q/view
+  meeting: OSG Area Coordination
+  meetingurl: https://unl.zoom.us/j/136424859
+  focusarea: doma
+- title: Proposal for Sharing of Data on Data Access
+  date: 2019-06-04
+  url: https://indico.cern.ch/event/769508/contributions/3197792/attachments/1856188/3048855/proposal_data_share_wlcg.pdf
+  meeting: DOMA / ACCESS Meeting
+  meetingurl: https://indico.cern.ch/event/769508/
+  location: CERN
+  focus-area: doma

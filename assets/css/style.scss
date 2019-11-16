@@ -1,11 +1,86 @@
 ---
 ---
+
+@import "functions";
+@import "variables";
+@import "mixins";
+
 /* DIANA dark blue: 2C3E50; DIANA light blue: 3B97D3 */
 /* Original padding-top was 6rem */
 body {
   padding-top: 5rem;
-  padding-bottom: 3rem;
+  padding-bottom: 0;
   color: #2C3E50;
+
+  @media (prefers-color-scheme: dark) {
+    color: white;
+    background-color: black;
+  }
+
+  @media only print {
+    padding-top: 0;
+    color: black;
+  }
+}
+
+@media only print {
+  header.masthead {
+    margin-bottom: 5mm;
+  }
+
+  header.masthead .site-heading {
+    padding: 0;
+  }
+}
+
+// Dark mode
+@media (prefers-color-scheme: dark) {
+
+  a {
+    color: scale-color($iris-200, $lightness:50%)
+  }
+
+  a:hover {
+    color: scale-color($iris-200, $lightness:20%)
+  }
+
+  header.masthead {
+    .overlay {
+      background-color: black;
+      opacity: .4;
+    }
+    .site-heading {
+      color: white;
+    }
+  }
+
+  .card {
+    background-color: inherit;
+    color: inherit;
+  }
+  
+  .dropdown-menu {
+    background-color: $iris-200;
+    .dropdown-item {
+      color: white;
+    }
+    .dropdown-item:hover, .dropdown-item:focus {
+      color: black;
+    }
+  }
+  .projects .card-img-top {
+    background-color: white;
+  }
+  img.header-logo {
+    background-color: white;
+  }
+}
+
+%light-purple-header {
+    color: $iris-400;
+    @media (prefers-color-scheme: dark) {
+      color: scale-color($iris-400, $lightness:40%)
+    }
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -33,18 +108,289 @@ body {
   display: block;
 }
 
-/* a:hover,a:focus{color:#2C3E50;text-decoration:underline;} */
-
 .boxed {
-    background-color: rgb(242, 244, 244) ;
-    border: 2px solid black ;
-    padding: 5px;
-    height: 200px;
-    overflow: scroll;
+  background-color: rgb(242, 244, 244) ;
+  border: 2px solid black ;
+  padding: 5px;
+  height: 200px;
+  overflow: scroll;
 }
 .boxedInf {
-    background-color: rgb(242, 244, 244) ;
-    border: 2px solid black ;
-    padding: 5px;
+  background-color: rgb(242, 244, 244) ;
+  border: 2px solid black ;
+  padding: 5px;
+}
+
+/* News cards */
+
+.row.news {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.card.news {
+  width: 18rem;
+  flex-grow: 1;
+  border: none;
+  margin: 0px 5px 25px 5px;
+  border-radius: 0;
+  
+  img.card-img-top {
+    border-radius: 0;
+  }
+
+  .card-body {
+    padding: 0;
+
+
+    .card-text.card-title {
+      font-weight: bolder;
+      margin: 5px 0px 5px 0px;
+      a {
+        @extend %light-purple-header;
+      }
+    }
+
+  }
+}
+
+/* Custom footer */
+
+.navbar-dark {
+  @media (prefers-color-scheme: dark) {
+    @include gradient-x($black, $primary, 0%, 100%);
+  }
+}
+
+.footer-dark {
+  @media not print {
+    @include gradient-x($navbar-dark-active-color, $primary, 0%, 100%);
+  }
+  @media (prefers-color-scheme: dark) {
+    @include gradient-x($black, $primary, 0%, 100%);
+  }
+  border-top-color: $iris-100;
+
+  border-top-style: solid;
+  border-top-width: 3px;
+  padding-top: 0.5rem;
+  padding-left: 1.0rem;
+  padding-right: 0.5rem;
+  padding-bottom: 1.5rem;
+
+  a {
+    @media not print {
+      color: $navbar-dark-active-color;
+
+      @include hover-focus {
+        color: $navbar-dark-hover-color;
+      }
+    }
+  }
+
+  .footer-text {
+    @media not print {
+      color: $navbar-dark-active-color;
+      text-shadow: 0px 0px 10px $primary;
+    }
+  }
+
+  .footer-logos {
+    display: flex;
+    flex-direction: column;
+    @media only screen and (min-width: 768px), only print {
+      flex-direction: row;
+    }
+
+    .footer-logo {
+      margin-right: 0.5rem;
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
+      justify-content: center;
+    }
+  }
+
+  .footer-vertical-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+
+  .footer-buttons {
+    width:33px;
+    @media only screen and (min-width: 991px) {
+      width:66px;
+    }
+    @media only print {
+      display: none;
+    }
+  }
+
+}
+
+// Header
+
+.mainpage-all {
+  display: flex;
+  flex-flow: column;
+  @media only screen and (min-width: 768px) {
+    flex-flow: row wrap;
+  }
+}
+
+.mainpage-all > * {
+  flex: 1 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  .mainpage-main {
+    flex: 2 0px;
+    margin-right: 10px;
+  }
+}
+
+// Sidebar
+
+.mainpage-sidebar {
+  padding: 0px;
+  @media only screen and (min-width: 768px) {
+    flex: 1 0px;
+
+    padding: 0 8px 0 8px;
+
+  }
+
+  .mainpage-sidebar-links {
+    text-align: right;
+    margin-top: -10px;
+  }
+
+  .mainpage-core h4 {
+    @extend %light-purple-header;
+    font-size: 1.3rem;
+    margin-bottom: .2rem;
+  }
+
+  ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    padding: 0px;
+    list-style: none;
+  }
+
+  .event {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 5px 0 10px 0;
+    background-color: scale-color($iris-100, $lightness:60%);
+    border-radius: 6px;
+
+    .date, .location {
+      color: white;
+    }
+
+    .date {
+      background-color: $iris-400;
+      border-radius: 6px 0px 0px 0px;
+      flex: 0 2 35%;
+      font-size: 0.8rem;
+      padding: 0 5px 0 10px;
+    }
+
+    .location {
+      background-color: $iris-400;
+      border-radius: 0px 6px 0px 0px;
+      flex: 0 3 65%;
+      text-align: right;
+      font-style: italic;
+      font-size: 0.8rem;
+      padding: 0 10px 0 5px;
+    }
+
+    .name, .projects {
+      flex: 0 1 100%;
+      font-size: 1.1rem;
+      padding: 0 10px 0 10px;
+      color: black;
+    }
+
+    .projects p {
+      margin-top: .5rem;
+      margin-bottom: .5rem;
+      text-align: center;
+      color: $iris-200;
+
+      a {
+        color: black;
+      }
+    }
+  }
+}
+
+.mainpage-core {
+  margin: 10px 0 30px 0;
+}
+
+
+.post {
+  .iris-post-footer {
+    clear: both;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    @media only screen and (min-width: 768px), only print {
+      margin-top: 40px;
+    }
+  }
+
+  img.banner {
+    width: 100%;
+    padding-bottom: 20px;
+  }
+
+  figure a img {
+    width: 100%;
+  }
+
+  figure.right {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    @media only screen and (min-width: 991px), only print {
+      float: right;
+      width: 50%;
+      margin-left: 20px;
+    }
+  }
+
+  figure.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    @media only screen and (min-width: 991px), only print {
+      width: 70%;
+    }
+  }
+
+  figure.caption {
+    @media only screen and (min-width: 991px), only print {
+      padding: 6px;
+      background-color: scale-color($iris-100, $lightness:60%);
+      @media (prefers-color-scheme: dark) {
+        background-color: $iris-100
+      }
+      border-radius: 6px;
+    }
+
+    a img {
+      @media only screen and (min-width: 991px), only print {
+        border-radius: 6px 6px 0px 0px;
+      }
+      margin-bottom: 6px;
+    }
+  }
+  a img {
+    width: 100%;
+  }
 }
 

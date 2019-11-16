@@ -29,11 +29,3 @@ MkFit aims to develop tracking algorithms based on the Kalman Filter for use in 
 [Here is the main project page.](http://trackreco.github.io/)
 
 
-
-{% include list_project_team.md team=page.team%}
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}
-
-

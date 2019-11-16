@@ -1,29 +1,32 @@
 ---
 permalink: /presentations/byarea.html
-layout: default
+layout: presentations
 title: Presentations by Area
 ---
 
-{% assign orderedlist = "cornell, indiana, mit, morgridge, nyu, princeton, stanford, chicago, cincinnati, uiuc, michigan, nebraska, berkeley, ucsc, ucsd, uprm, washington, wisconsin" | split: ", " %}
+{% include get_pres_list.html %}
+
+<!--
+  0     1       2      3       4          5           6          7            8
+date | name | title | url | meeting | meetingurl | project | focus_area | institution
+-->
 
 <h2>Presentations by the IRIS-HEP team</h2>
 
-{% for uniindex in orderedlist %}
-{% assign uni = site.data.universities[uniindex] %}
-  {% for member in uni.personnel %}
-     {% if site.data.people[member].presentations.size > 0 %}
-       {% assign presentationlist = site.data.people[member].presentations | sort: "date" | reverse %}
-     {% else %}
-       {% assign presentationlist = site.data.people[member].presentations %}
-     {% endif %}
-<h4>{{site.data.people[member].name}} - {{site.data.people[member].institution}}</h4>
-<ul>
-     {% for talk in presentationlist %}
-     {% assign prettydate = talk.date | date: "%-d %b %Y" %}
-         <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{site.data.people[member].name}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
-     {% endfor %}
-</ul>
+{% assign activities = site.pages | where: "layout", "focus-area" | where_exp: "item", "item.draft != true" | sort: 'title' %}
+
+{% for focus-area-page in activities %}
+  {% assign focus-area-title = focus-area-page.title %}
+  {% assign focus-area-name = focus-area-page.short_title | strip %}
+  <h4>{{ focus-area-title }}</h4>
+  <ul>
+  {% for row in sorted_pres %}
+    {% assign pres = row | split: "|" %}
+    {% if pres[7] contains focus-area-name %}
+      <li> {{pres[0]}} - <a href="{{pres[3]}}">"{{pres[2]}}"</a>, {{pres[1]}}, <a href="{{pres[5]}}">{{pres[4]}}</a></li>
+    {% endif %}
   {% endfor %}
+  </ul>
 {% endfor %}
 
 

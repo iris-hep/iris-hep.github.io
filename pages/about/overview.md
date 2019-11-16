@@ -72,7 +72,7 @@ science.
 The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has been established to meet the software and computing challenges of the HL-LHC, through R&D for the software for acquiring, managing, processing and analyzing HL-LHC data.
 IRIS-HEP will address key elements of the
 ["Roadmap for HEP Software and Computing R&D for the 2020s"](https://arxiv.org/abs/1712.06982)
-and will implement the ["Strategic Plan for a Scientific Software
+and is implementing the ["Strategic Plan for a Scientific Software
 Innovation Institute (S2I2) for High Energy Physics"](https://arxiv.org/abs/1712.06592)
 submitted to the NSF in December 2017.
 These two documents represent, respectively, the outcome of international 
