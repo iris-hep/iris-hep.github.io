@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    {%- if page.postbanner -%}
+    <a href="{{page.postbanner}}">
+      <img src="{{page.postbanner}}" alt="Page banner image" class="banner"/>
+    </a>
+    {%- endif -%}
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+  </header>
+  {%- if page.postimage -%}
+    {%- if page.postimage-caption -%}
+      {% include figure.html file=page.postimage alt="Post primary image" caption=page.postimage-caption %}
+    {%- else -%}
+      {% include figure.html file=page.postimage alt="Post primary image" %}
+    {%- endif -%}
+  {%- endif -%}
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+<div class="iris-post-footer">
+<hr>
+<em>IRIS-HEP is pleased to see our news stories reposted on the websites of other organizations. The stories should be reposted with credits to the IRIS-HEP website and the original authors, as well as a link to the original posting. Any alterations to the text or images for the reposting should be agreed by the IRIS-HEP Communications team.  Please email <a href="mailto:owner@iris-hep.org">owner@iris-hep.org</a>.</em>
+</div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

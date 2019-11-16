@@ -3,7 +3,6 @@ permalink: /ssc.html
 layout: focus-area
 title: Training, Education and Outreach
 short_title: ssc
-draft: false
 pagetype: focus-area
 ---
 

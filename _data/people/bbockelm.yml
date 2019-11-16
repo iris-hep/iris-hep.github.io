@@ -11,18 +11,47 @@ presentations:
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271528/attachments/1790472/2919593/DOMA-SB-1.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/
-    focusarea: doma
+    focus-area: doma
     project: idds,tpc
   - title: "WLCG DOMA TPC Updates"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3312485/attachments/1815438/2968872/DOMA-TPC-HOW2019-v4.pdf
     meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
     meetingurl: https://indico.cern.ch/event/759388
-    focusarea: doma
+    focus-area: doma
     project: idds
-  - title: "OSG Technoogy Updates for 2019"
+  - title: "OSG Technology Updates for 2019"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3353317/attachments/1815443/2966874/OSG-AHM-2019.pdf
     meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
     meetingurl: https://indico.cern.ch/event/759388
-    focusarea: osglhc
+    focus-area: osglhc
+  - title: "WLCG DOMA TPC Working Group"
+    date: 2019-05-28
+    meeting: US CMS Tier-2 Facilities May 2019 Meeting
+    url: https://indico.cern.ch/event/823168/contributions/3442076/attachments/1852590/3041829/WLCG-DOMA-USCMS-T2.pdf
+    focus-area: doma
+    project: tpc
+  - title: "DOMA: Preparing for Year 2 and Year 4"
+    date: 2019-09-12
+    meeting: IRIS-HEP Institute Retreat
+    url: https://indico.cern.ch/event/840472/contributions/3561604/attachments/1907178/3149976/IRIS-HEP-DOMA-RETREAT.pdf
+    focus-area: doma
+  - title: "Data Organization, Management, and Access"
+    date: 2019-09-03
+    meeting: IRIS-HEP Steering Board Meeting #3
+    url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/277983/attachments/1901191/3138429/IRIS-HEP-DOMA-SB3.pdf
+    focus-area: doma
+  - title: "HSF Event Delivery WG - Introduction"
+    date: 2019-09-30
+    meeting: HSF & ATLAS Joint Event Delivery Workshop
+    url: https://indico.cern.ch/event/849155/sessions/323697/attachments/1917032/3169811/HSF-EventDelivery-WG-Introduction.pdf
+    focus-area: doma
+  - title: "Third-party transfers in WLCG using HTTP"
+    date: 2019-11-05
+    meeting: 24th International Conference on Computing in High Energy & Nuclear Physics
+    url: https://indico.cern.ch/event/773049/contributions/3474402/attachments/1938592/3213446/CHEP19-HTTP-TPC.pdf
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: doma
+    project: tpc

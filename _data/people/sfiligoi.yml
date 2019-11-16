@@ -1,0 +1,42 @@
+name: Igor Sfiligoi
+shortname: sfiligoi
+title: Lead Scientific Software Developer and Researcher
+active: green
+institution: University of California, San Diego
+website: 
+photo: /assets/images/team/Igor-Sfiligoi.jpg
+presentations:
+  - title: "Characterizing network paths in and out of the Clouds"
+    date: 2019-11-04
+    url: https://indico.cern.ch/event/773049/contributions/3473824/attachments/1935023/3206398/CHEP19_Networks.pptx
+    meeting: CHEP 2019
+    meetingurl: http://chep2019.org
+    location: Adelaide, Australia
+  - title: "Creating a content delivery network for general science on the backbone of the Internet using xcaches."
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3474435/attachments/1937430/3211155/Stashcache_CHEP_2019.pdf
+    meeting: CHEP 2019
+    meetingurl: http://chep2019.org
+    location: Adelaide, Australia
+  - title: "A Lightweight Door into Non-grid Sites"
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3473860/attachments/1935962/3208177/chep2019-hosted-ce.pdf
+    meeting: CHEP 2019
+    meetingurl: http://chep2019.org
+    location: Adelaide, Australia
+  - title: " Nautilus & IceCUBE/LIGO"
+    date: 2019-09-17
+    url: http://grp-workshop-2019.ucsd.edu/presentations/1_SFILIGOI-GRP-2019-IceCubeLigo.pdf
+    meeting: Global Research Platform Workshop 2019
+    meetingurl: http://grp-workshop-2019.ucsd.edu
+    location: San Diego, CA, US
+  - title: "The Open Science Grid"
+    date: 2019-09-13
+    url: https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk2-osg.pdf
+    meeting: PRAGMA 37
+    meetingurl: http://www.pragma-grid.net/pragma37-program/
+    location: San Diego, CA, US
+
+
+
+

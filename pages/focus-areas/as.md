@@ -3,7 +3,6 @@ permalink: /as.html
 layout: focus-area
 title: Analysis Systems
 short_title: as
-draft: false
 pagetype: focus-area
 ---
 

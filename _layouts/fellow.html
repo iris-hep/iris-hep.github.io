@@ -1,0 +1,76 @@
+<!doctype html>
+  
+{% include layout_header_navbar.html %}
+
+      <div class="container">
+        <main role="main">
+
+<div>
+<br>
+<center><h1>IRIS-HEP Fellow: {{ page.fellow-name }}</h1>
+
+<img src="{{page.photo}}" width="150px">
+<br>
+<br>
+<b> Fellowship dates:</b> {{ page.dates }}
+<br>
+<b> Home Institution:</b> {{ page.institution }}
+<br>
+<br>
+</center>
+
+{{page.project_goal}}
+<br>
+<br>
+{% if page.proposal.size  > 4 %}
+More information: <a href = {{page.proposal}}>My full proposal</a><br>
+{% endif %}
+
+<br>
+<b>Mentors: </b> <br>
+<ul>
+{% for mentor in page.mentors %}
+<li>
+{% assign ok = 0 %}
+{% for person_hash in site.data.people %}
+{% assign person = person_hash[1] %}
+{% if person.shortname == mentor %}
+{{ person.name }} ({{person.institution}})
+{% assign ok = 1 %}
+{% endif %}
+{% endfor %}
+{% if ok == 0 %}
+{{mentor}}
+{%endif%}
+</li>
+{% endfor %}
+</ul>
+<hr>
+
+<b>Contact me:</b><br>
+<ul>
+{% if page.e-mail.size > 4 %}
+<li>
+<a href = "mailto:{{page.e-mail}}">Send me an email</a><br>
+</li>
+{% endif %}
+{% if page.website.size > 4 %}
+<li>
+<a href = {{page.website}}>Visit my website</a><br>
+</li>
+{% endif %}
+</ul>
+
+<div>
+{{content}}
+</div>
+
+</main>
+{% include footer.html %}
+</div>
+
+{% include layout_analytics.html %}
+</body>
+</html>
+
+

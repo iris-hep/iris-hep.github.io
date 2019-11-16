@@ -5,10 +5,12 @@ title: Scikit-HEP
 shortname: scikit-hep
 pagetype: project
 image: logos/skhep-logo.svg
+logowidth: 30%
 blurb: pythonic analysis tools
 focus-area: as
 team:
  - jpivarski
+ - henryiii
 ---
 
 The Scikit-HEP project is a community-driven and community-oriented project with the aim of providing Particle Physics at large with a Python package containing core and common tools. The project started in Autumn 2016 and is under active development.
@@ -23,8 +25,3 @@ Scikit-HEP should be seen as a toolset of Python packages. The project defines a
    * **Simulation**: wrappers for Monte Carlo engines and other generators of simulated data.
    * **Visualization**: interface to graphics engines, from ROOT and Matplotlib to even beyond.
 
-{% include list_project_team.md team=page.team%}
-
-{% include list_project_presentations.md shortname=page.shortname %}
-
-{% include list_project_publications.md shortname=page.shortname %}
