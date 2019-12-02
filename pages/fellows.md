@@ -44,13 +44,13 @@ Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing
 
 IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals.
 
-# Current IRIS-HEP Fellows 
+# IRIS-HEP Fellows
 
 <div class="container-fluid">
   <div class="row">
 {% assign sorted = site.pages | sort: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'fellow' %} 
+  {% if mypage.pagetype == 'fellow' %}
      {% assign person = mypage %}
      <div class="card" style="width: 12rem;">
         <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
@@ -70,9 +70,9 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
 
 # Example fellow projects
 
-  Applicants should feel free to make their own proposal for a software
-project within any of the R&D areas of the Institute. We list here some 
-specific example topics and projects for which their is a known opportunity 
-for a Fellow to collaborate. (This is a non-exhaustive list!)
+Applicants should feel free to make their own proposal for a software
+project within any of the R&D areas of the Institute. We list here some
+specific example topics and projects for which their is a known opportunity
+for a Fellow to collaborate. (This is a non-exhaustive list, more to come!)
 
-  *Coming soon*
+- **Translating analyses into prototype analysis systems**: This project is situated in the [Analysis Systems](/as.html) focus area. An existing realistic physics analysis will be translated into new prototype analysis systems. The new implementation will be benchmarked and compared to existing traditional approaches. An example analysis for this is the search for [Higgs boson decays to four leptons with CMS open data](http://opendata.cern.ch/docs/observing-higgs-over-one-petabyte-new-cms-open-data). This channel significantly contributed to the Higgs boson discovery in 2012. In this project, it will be translated to a new approach, making use of tools like [coffea](https://github.com/CoffeaTeam/coffea) and [awkward-array](/projects/awkward.html).
