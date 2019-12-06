@@ -120,3 +120,17 @@ presentations:
     meetingurl: https://indico.cern.ch/event/773049/
     location: Adelaide, South Australia
     focus-area: as
+  - title: "High-Performance Python: CPUs"
+    date: 2019-11-20
+    url: https://github.com/henryiii/python-performance-minicourse
+    meeting: Princeton Research Computing Fall Mini-courses and Workshops
+    meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
+    location: Princeton University
+    focus-area: as, ssc, ia
+  - title: "High-Performance Python: GPUs"
+    date: 2019-12-05
+    url: https://github.com/henryiii/pygpu-minicourse
+    meeting: Princeton Research Computing Fall Mini-courses and Workshops
+    meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
+    location: Princeton University
+    focus-area: as
