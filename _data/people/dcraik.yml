@@ -12,3 +12,9 @@ presentations:
     meeting: LHC Users Association Annual Meeting 2019
     meetingurl: https://indico.cern.ch/event/844493
     location: Rice University
+  - title: The Trigger and Real-time Reconstruction at LHCb 
+    date: 2019-12-09
+    url: https://agenda.hep.wisc.edu/event/1391/session/11/contribution/119/material/slides/0.pdf
+    meeting: CPAD Instrumentation Frontier Workshop 2019
+    meetingurl: https://wp.physics.wisc.edu/cpad2019/
+    location: Madison, WI
