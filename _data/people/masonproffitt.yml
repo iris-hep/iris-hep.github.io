@@ -26,3 +26,10 @@ presentations:
     meetingurl: http://chep2019.org/
     location: Adelaide, Australia
     focus-area: as
+  - title: uproot Tutorial
+    date: 2019-11-29
+    url: https://masonproffitt.github.io/uproot-tutorial/
+    meeting: Software Carpentry at CERN
+    meetingurl: https://indico.cern.ch/event/834411/
+    location: CERN
+    focus-area: as
