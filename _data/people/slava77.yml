@@ -12,3 +12,10 @@ presentations:
     meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
     meetingurl: https://indico.cern.ch/event/814979
     location: Princeton
+  - title: Reconstruction R&D for HEP in the next decade
+    date: 2019-11-22
+    url: https://indico.cern.ch/event/813325/contributions/3603480/attachments/1949438/3235400/lawshepRECO_112119.pdf
+    meeting: Latin American Workshop on Software and Computing challenges in High-Energy Particle Physics (LAWSCHEP 2019)
+    meetingurl: https://indico.cern.ch/event/813325
+    location: Mexico City, Mexico
+    focus-area: ia
