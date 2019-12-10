@@ -60,3 +60,9 @@ presentations:
     meetingurl: https://memento.epfl.ch/event/education-research-and-technology-transfer-in-open/
     url: https://drive.google.com/file/d/17v7RhprpYf7y2z-GEHQdZ4Km5lJopArB/view?usp=sharing
     location: Lausanne, Switzerland
+  - title: "Panel member on Enabling Data Services for HPC"
+    date: 2019-11-19
+    meeting: "Birds of a Feather meeting at SC19"
+    meetingurl: https://sc19.supercomputing.org/proceedings/bof/
+    url: https://hpc-data-services.github.io/bofs/
+    location: Denver, Colorado
