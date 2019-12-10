@@ -105,6 +105,11 @@ module Publications
 
       recid = pub['inspire-id']
       response = @net.get "/api/literature/#{recid}"
+
+      unless response.code == '200'
+        raise IOError, "Getting #{recid} failed with code #{response.code}: #{response.message}"
+      end
+
       data = JSON.parse(response.body)['metadata']
 
       # Set these *only* if not already set
