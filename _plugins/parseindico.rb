@@ -13,8 +13,8 @@ module Indico
     topical: 10570,
     nsfreport: 11204,
     sb: 10989,
-    ap: 11519,
-  }
+    ap: 11519
+  }.freeze
 
   # Look for topical meetings
   class Meetings
@@ -31,7 +31,7 @@ module Indico
         d = d[0..-5] if d.end_with? '</p>'
 
         start_date = Date.parse i['startDate']['date']
-        fname = "#{start_date.strftime '%Y%m%d'}"
+        fname = start_date.strftime('%Y%m%d').to_s
 
         youtube = ''
         urllist = URI.extract(d)

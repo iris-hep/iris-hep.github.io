@@ -21,18 +21,18 @@ team:
 [A talk on pyhf by Matthew Feickert](http://matthewfeickert.github.io/talk-DIANA-HEP-pyhf-2018/index.html?p=talk.md#1)
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/diana-hep/pyhf/)
+[![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/scikit-hep/pyhf/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1169739.svg)](https://doi.org/10.5281/zenodo.1169739)
 
-[![GitHub Actions Status](https://github.com/diana-hep/pyhf/workflows/CI/CD/badge.svg)](https://github.com/diana-hep/pyhf/actions)
+[![GitHub Actions Status: CI](https://github.com/scikit-hep/pyhf/workflows/CI/CD/badge.svg)](https://github.com/scikit-hep/pyhf/actions?query=workflow%3ACI%2FCD+branch%3Amaster)
 [![Docker Automated](https://img.shields.io/docker/automated/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
-[![Code Coverage](https://codecov.io/gh/diana-hep/pyhf/graph/badge.svg?branch=master)](https://codecov.io/gh/diana-hep/pyhf?branch=master)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/diana-hep/pyhf.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/diana-hep/pyhf/latest/files/)
-[![CodeFactor](https://www.codefactor.io/repository/github/diana-hep/pyhf/badge)](https://www.codefactor.io/repository/github/diana-hep/pyhf)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![Code Coverage](https://codecov.io/gh/scikit-hep/pyhf/graph/badge.svg?branch=master)](https://codecov.io/gh/scikit-hep/pyhf?branch=master)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/scikit-hep/pyhf.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/scikit-hep/pyhf/latest/files/)
+[![CodeFactor](https://www.codefactor.io/repository/github/scikit-hep/pyhf/badge)](https://www.codefactor.io/repository/github/scikit-hep/pyhf)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-[![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://diana-hep.github.io/pyhf)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diana-hep/pyhf/master?filepath=docs%2Fexamples%2Fnotebooks%2Fbinderexample%2FStatisticalAnalysis.ipynb)
+[![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://scikit-hep.github.io/pyhf)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scikit-hep/pyhf/master?filepath=docs%2Fexamples%2Fnotebooks%2Fbinderexample%2FStatisticalAnalysis.ipynb)
 
 [![PyPI version](https://badge.fury.io/py/pyhf.svg)](https://badge.fury.io/py/pyhf)
 [![Supported Python versionss](https://img.shields.io/pypi/pyversions/pyhf.svg)](https://pypi.org/project/pyhf/)
