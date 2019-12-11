@@ -6,7 +6,7 @@ institution: University of California, San Diego
 website: 
 photo: /assets/images/team/Igor-Sfiligoi.jpg
 presentations:
-  - title: "Characterizing network paths in and out of the Clouds"
+  - title: "OSG use of PRP Kubernetes cluster"
     date: 2019-12-10
     url: https://indico.cern.ch/event/739899/contributions/3662270/attachments/1959449/3256032/cern19_prp_osg_191210.pdf
     meeting: pre-GDB meeting
