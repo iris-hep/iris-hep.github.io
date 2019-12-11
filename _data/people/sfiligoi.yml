@@ -7,6 +7,30 @@ website:
 photo: /assets/images/team/Igor-Sfiligoi.jpg
 presentations:
   - title: "Characterizing network paths in and out of the Clouds"
+    date: 2019-12-10
+    url: https://indico.cern.ch/event/739899/contributions/3662270/attachments/1959449/3256032/cern19_prp_osg_191210.pdf
+    meeting: pre-GDB meeting
+    meetingurl: https://indico.cern.ch/event/739899/
+    location: CERN
+  - title: "Serving HTC Users in Kubernetes by Leveraging HTCondor"
+    date: 2019-11-21
+    url: https://kccncna19.sched.com/event/77ed0cf42f37809c9640ee8fe1dc5415
+    meeting: KubeCon North America 2019
+    meetingurl: https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/
+    location: San Diego, CA, USA
+  - title: "Burst data retrieval after 50k GPU Cloud run"
+    date: 2019-11-19
+    url: https://www.slideshare.net/igor_sfiligoi/burst-data-retrieval-after-50k-gpu-cloud-run
+    meeting: SC 19 Internet2 Booth
+    meetingurl: https://sc19.supercomputing.org
+    location: Denver, CO, USA
+  - title: "Unified Cyber Infrastructure with Kubernetes"
+    date: 2019-11-18
+    url: https://gitlab.com/ucsd-prp/tutorials/sc19
+    meeting: SC 19 Tutorial
+    meetingurl: https://sc19.supercomputing.org/presentation/?id=tut130&sess=sess190
+    location: Denver, CO, USA
+  - title: "Characterizing network paths in and out of the Clouds"
     date: 2019-11-04
     url: https://indico.cern.ch/event/773049/contributions/3473824/attachments/1935023/3206398/CHEP19_Networks.pptx
     meeting: CHEP 2019
