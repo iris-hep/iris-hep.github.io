@@ -122,9 +122,11 @@ presentations:
     meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
     meeting: "Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy Particle Physics (HEP)"
     focus-area: management
+    location: Mexico City
   - title: "Analysis Tools in the 2020's and 2030's"
     date: 2019-11-21
     url: https://indico.cern.ch/event/813325/contributions/3603496/
     meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
     meeting: "Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy Particle Physics (HEP)"
     focus-area: as
+    location: Mexico City
