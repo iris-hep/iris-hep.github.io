@@ -18,7 +18,7 @@ end
 
 desc 'Build on a local machine'
 task :build do
-  jekyll 'build'
+  jekyll 'build', '--verbose', '--trace'
 end
 
 desc 'Cache the indico access'
