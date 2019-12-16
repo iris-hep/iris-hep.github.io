@@ -9,7 +9,7 @@ presentations:
   - title: WLCG/OSG Network Activities, Status and Plans
     date: 2019-03-26
     url: https://indico.cern.ch/event/765497/contributions/3351215/attachments/1818575/2973383/HEPiX_Spring_2019_OSG_WLCG_Networking_Update.pdf
-    meeting: HEPiX Spring 2019 
+    meeting: HEPiX Spring 2019
     meetingurl: https://indico.cern.ch/event/765497
     location: San Diego, CA, US
     focus-area: osglhc
@@ -41,3 +41,53 @@ presentations:
     meetingurl: https://wiki.geant.org/display/PMV/6th+SIG-PMV+Meeting+@+Dublin
     location: Dublin, Ireland
     focus-area: osglhc
+  - title: "Data Lakes, Data Caching for Science and the OSIRIS Distributed Storage System"
+    date: 2019-09-18
+    url: http://grp-workshop-2019.ucsd.edu/presentations/3_McKEE-GRP-2019-OSIRIS-Caching.pdf
+    meeting: The Global Research Platform Workshop
+    meetingurl: http://grp-workshop-2019.ucsd.edu/
+    location: San Diego, California
+    focus-area: doma
+  - title: "WLCG/OSG Network Activities, Status and Plans"
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/810635/contributions/3593246/attachments/1926442/3223199/HEPiX_Fall_2019_OSG_WLCG_Networking_Update.pdf
+    meeting: The Fall 2019 HEPiX Meeting
+    meetingurl: https://indico.cern.ch/event/810635/
+    location: Amsterdam, Netherlands
+    focus-area: osglhc
+  - title: "Network Function Virtualization Working Group Update"
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/810635/contributions/3593247/attachments/1927128/3223214/HEPiX_Network_Virtualisation_Working_Group_Update_Oct_2019_HEPiX.pdf
+    meeting: The Fall 2019 HEPiX Meeting
+    meetingurl: https://indico.cern.ch/event/810635/
+    location: Amsterdam, Netherlands
+    focus-area: osglhc
+  - title: "The SAND Project a the Halfway Point"
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/810635/contributions/3593348/attachments/1926847/3223164/HEPiX-SAND-Fall-2019.pdf
+    meeting: The Fall 2019 HEPiX Meeting
+    meetingurl: https://indico.cern.ch/event/810635/
+    location: Amsterdam, Netherlands
+    focus-area: osglhc
+  - title: "WLCG Networks: Update on Monitoring and Analytics"
+    date: 2019-11-04
+    url: https://indico.cern.ch/event/773049/contributions/3473823/attachments/1937475/3213791/CHEP_2019_OSG_WLCG_Networking_Update.pdf
+    meeting: CHEP2019
+    meetingurl: http://chep2019.org/
+    location: Adelaide, Australia
+    focus-area: osglhc
+  - title: "A distributed R&D storage platform implementing quality of service"
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3474403/attachments/1937924/3212138/CHEP-RandD-DataLake-v2.pdf
+    meeting: CHEP2019
+    meetingurl: http://chep2019.org/
+    location: Adelaide, Australia
+    focus-area: doma
+  - title: "Network Capabilities for the HL-LHC Era"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3473832/attachments/1939678/3215613/CHEP_Network_Capabilities_for_HL-LHC_Nov_19.pdf
+    meeting: CHEP2019
+    meetingurl: http://chep2019.org/
+    location: Adelaide, Australia
+    focus-area: osglhc
+    

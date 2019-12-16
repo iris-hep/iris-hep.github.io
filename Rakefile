@@ -18,12 +18,17 @@ end
 
 desc 'Build on a local machine'
 task :build do
-  jekyll 'build'
+  jekyll 'build', '--verbose', '--trace'
 end
 
 desc 'Cache the indico access'
 task :cache do
   sh 'ruby', '_scripts/get_indico.rb'
+end
+
+desc 'Run rubocop to lint the ruby code'
+task :rubocop do
+  sh 'rubocop', '_plugins', '_scripts'
 end
 
 
