@@ -19,8 +19,8 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 ### Rice University 
   * [Postdoctoral Research XENONnT and Data Science](https://jobs.rice.edu/postings/20856)
 
-### Lawrence Berkeley Lab
-  * [Postdoc in Pattern Recognition on Quantum Computers](https://academicjobsonline.org/ajo/jobs/13801)
+### UC Berkeley
+  * [Postdoc -- ATLAS experiment (physics/tracking)](https://labs.inspirehep.net/jobs/1770850)
 
 ### Princeton University
 
