@@ -113,3 +113,24 @@ presentations:
     meetingurl: https://indico.cern.ch/event/833895/
     location: Abingdon, UK
     focus-area: as
+  - title: "Recent developments in histogram libraries"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3473265/
+    meeting: CHEP 2019
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: as
+  - title: "High-Performance Python: CPUs"
+    date: 2019-11-20
+    url: https://github.com/henryiii/python-performance-minicourse
+    meeting: Princeton Research Computing Fall Mini-courses and Workshops
+    meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
+    location: Princeton University
+    focus-area: as, ssc, ia
+  - title: "High-Performance Python: GPUs"
+    date: 2019-12-05
+    url: https://github.com/henryiii/pygpu-minicourse
+    meeting: Princeton Research Computing Fall Mini-courses and Workshops
+    meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
+    location: Princeton University
+    focus-area: as

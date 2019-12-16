@@ -92,3 +92,41 @@ presentations:
     meetingurl: https://indico.cern.ch/event/849155/
     meeting: "HSF & ATLAS Joint Event Delivery Workshop"
     focus-area: as
+  - title: "Lightning Talk: A Living HEP Analysis"
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/833895/sessions/319481/
+    meetingurl: https://indico.cern.ch/event/833895
+    meeting: "PyHEP"
+    focus-area: as
+  - title: "Aligning the MATHUSLA Detector Test Stand with Tensor Flow"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3476185/
+    meetingurl: https://indico.cern.ch/event/773049/
+    meeting: "CHEP 2019"
+    focus-area: as
+  - title: "Using Analysis Declarative Languages for the HL-LHC"
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3476174/
+    meetingurl: https://indico.cern.ch/event/773049/
+    meeting: "CHEP 2019"
+    focus-area: as
+  - title: "Analysis workflows"
+    date: 2019-11-02
+    url: https://indico.cern.ch/event/805983/contributions/3569725/
+    meetingurl: https://indico.cern.ch/event/805983/
+    meeting: "CHEP 2019"
+    focus-area: as
+  - title: "The IRIS-HEP Institute in the US"
+    date: 2019-11-20
+    url: https://indico.cern.ch/event/813325/contributions/3601405/
+    meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
+    meeting: "Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy Particle Physics (HEP)"
+    focus-area: management
+    location: Mexico City
+  - title: "Analysis Tools in the 2020's and 2030's"
+    date: 2019-11-21
+    url: https://indico.cern.ch/event/813325/contributions/3603496/
+    meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
+    meeting: "Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy Particle Physics (HEP)"
+    focus-area: as
+    location: Mexico City

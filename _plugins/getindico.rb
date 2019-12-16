@@ -18,13 +18,13 @@ module Indico
     private
 
     def collect_meeting(name, number)
-      @site.data['indico'] = {} unless @site.data.has_key? 'indico'
+      @site.data['indico'] = {} unless @site.data.key? 'indico'
 
       # Do nothing if already downloaded
-      return if @site.data['indico'].has_key? name
+      return if @site.data['indico'].key? name
 
-      puts("Accessing Indico meeting API for #{name}:#{number} " +
-           "- run `bundle exec _scripts/get_indico.rb` to cache")
+      puts "Accessing Indico meeting API for #{name}:#{number} " \
+           '- run `bundle exec rake cache` to cache'
       iris_meeting = Meetings.new(number)
       @site.data['indico'][name] = iris_meeting.dict
     end

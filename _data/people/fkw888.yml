@@ -6,6 +6,42 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: "OSG News"
+    date: 2019-10-10
+    url: https://indico.fnal.gov/event/21410/contribution/2/material/slides/0.pdf
+    meeting: OSG Council Face to Face meeting
+    focus-area: osglhc
+    meetingurl: https://indico.fnal.gov/event/21410/
+  - title: "Introduction to OSG and OSG Participants"
+    date: 2019-09-23
+    url: Not available online
+    meeting: 2019 NSF CC* and CICI PI Pre-Workshop Breakout on OSG
+    focus-area: osglhc
+    meetingurl: https://www.thequilt.net/public-event/2019-nsf-cc-and-cici-pi-pre-workshop-breakouts/#osgd  
+  - title: "Advancing Open Science through distributed High Througput Computing - The OSG Data Federation"
+    date: 2019-09-18
+    url: http://grp-workshop-2019.ucsd.edu/presentations/4_WUERTHWEIN-GRP-2019-OSG.pdf
+    meeting: Global Research Platform Workshop
+    focus-area: osglhc
+    meetingurl: http://grp-workshop-2019.ucsd.edu  
+  - title: "OSG XCache Discussion"
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/sessions/323302/attachments/1907227/3150065/irishep-retreatSeptember2019.pdf
+    meeting: IRIS-HEP retreat
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/840472/
+  - title: "Advancing Open Science through distributed High Througput Computing"
+    date: 2019-09-11
+    url: https://indico.cern.ch/event/739882/contributions/3520011/attachments/1906491/3148700/gdbSeptember2019.pdf
+    meeting: WLCG Grid Deployment Board Meeting 
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/739882/
+  - title: "OSG - IRISHEP Advisory Panel"
+    date: 2019-09-09
+    url: https://indico.cern.ch/event/840467/contributions/3545009/attachments/1904432/3144878/irishep-AdvisoryBoard-September2019.pdf
+    meeting: IRIS-HEP Advisory Panel Meeting #1
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/840467/
   - title: "OSG - Steering Board"
     date: 2019-09-03
     url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/287759/attachments/1901941/3139925/irishep-steeringBoard-September3-2019.pdf
