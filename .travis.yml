@@ -1,7 +1,7 @@
-dist: xenial
+dist: bionic
 language: ruby
 rvm:
-  - 2.5.3
+  - 2.6.3
 cache:
   bundler: true
   directories:
