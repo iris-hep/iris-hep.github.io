@@ -21,7 +21,7 @@ team:
 [A talk on pyhf by Matthew Feickert](http://matthewfeickert.github.io/talk-DIANA-HEP-pyhf-2018/index.html?p=talk.md#1)
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/scikit-hep/pyhf/)
+[![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/scikit-hep/pyhf/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1169739.svg)](https://doi.org/10.5281/zenodo.1169739)
 
 [![GitHub Actions Status: CI](https://github.com/scikit-hep/pyhf/workflows/CI/CD/badge.svg)](https://github.com/scikit-hep/pyhf/actions?query=workflow%3ACI%2FCD+branch%3Amaster)
