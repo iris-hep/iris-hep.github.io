@@ -93,7 +93,7 @@ include:
 - [CoDaS-HEP](http://codas-hep.org/)
 - [Open Science Grid](https://opensciencegrid.org/)
 - The [US ATLAS](https://po.usatlas.bnl.gov/programoffice/op.php) and [US CMS](https://uscms.org/uscms_at_work/rpo/index.shtml) operations programs.
-
+ 
 Further information can be found in the following documents:
 
 - NSF proposal - [Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)](/assets/pdf/iris-hep-nsf-proposal.pdf)
