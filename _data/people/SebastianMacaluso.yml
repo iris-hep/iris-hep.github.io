@@ -62,3 +62,10 @@ presentations:
     meetingurl: https://hetg.physics.harvard.edu/seminar-schedule
     location: Harvard University
     focus-area: ia
+  - title: "Looking into Jets with Machine Learning"
+    date: 2020-01-17
+    url: https://indico.cern.ch/event/809820/contributions/3632649/attachments/1971192/3279097/MacalusoML4Jets2020.pdf
+    meeting: "ML4Jets 2020"
+    meetingurl: https://indico.cern.ch/event/809820/
+    location: New York University
+    focus-area: ia
