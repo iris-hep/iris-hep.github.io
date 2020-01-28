@@ -31,3 +31,6 @@ team:
 [![Website](https://img.shields.io/badge/Website-555555.svg)](https://recast.cern.ch)
 [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/recast-hep/)
 [![paper](https://img.shields.io/badge/Paper-555555.svg)](https://arxiv.org/abs/1010.2506)
+
+
+IRIS-HEP is proud to sponsor the <a href="https://indico.cern.ch/e/awesome">Analysis Preservation Bootcamp</a> at CERN on 17-19 February, 2020.
