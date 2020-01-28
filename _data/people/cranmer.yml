@@ -153,3 +153,10 @@ presentations:
     meetingurl: http://pctsadmin.princeton.edu/upload/document/da2474d76aeb7f5926f38436f077ff64.pdf
     location: Princeton
     focus-area: as, ia
+  - title:
+    date: 2020-01-28
+    url: https://conference.ippp.dur.ac.uk/event/875/contributions/4770/attachments/3901/4447/HEPData-2020.pdf
+    meeting: HEPData Advisory Board
+    meetingurl: https://conference.ippp.dur.ac.uk/event/875/
+    location: IPPP Durham
+    focus-area: as, core
