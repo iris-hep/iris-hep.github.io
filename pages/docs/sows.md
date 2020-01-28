@@ -70,6 +70,11 @@ is **not** necessary to describe specific tasks and/or deliverables within
 those WBS areas. These will be negotiated separately and will appear in
 the final SOW document.
 
+  **Again, please submit a single pdf document, not multiple files. The
+first part of the pdf file should be the 1030-style budget sheet and
+the second part should be the budget justification including the extra
+WBS cost breakdown table specified below.**
+
 ### WBS cost breakdown table
 
 After the standard budget justification information, the document should

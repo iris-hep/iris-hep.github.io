@@ -1,8 +1,20 @@
 name: Lincoln Bryant
 shortname: LincolnBryant
-title: 
+title: DevOps Engineer
 active: green
 institution: University of Chicago
-website: https://www.ci.uchicago.edu/profile/164
-photo: /assets/images/atom.png
+website: https://efi.uchicago.edu/people/profile/lincoln-bryant/
+photo: /assets/images/team/Lincoln-Bryant.png
 presentations:
+  - title: "SSL patterns: hybrid models, developer support, deployments"
+    date: 2019-06-21
+    url: https://indico.cern.ch/event/820946/contributions/3461592/attachments/1866998/3119402/2019.06.21_SSL_Patterns__Deployments_Lincoln.pdf
+    meeting: "Analysis Systems R&D on Scalable Platforms (AS-SSL Blueprint)"
+    meetingurl: https://indico.cern.ch/event/820946/
+    focus-area: ssl
+  - title: "Towards Lighter Operations"
+    date: 2019-08-07
+    url: https://indico.cern.ch/event/837130/contributions/3509789/attachments/1891363/3119277/Towards_Lighter_Operations.pdf
+    meeting: "US ATLAS Computing Facility"
+    meetingurl: https://indico.cern.ch/event/837130/
+    focus-area: ssl

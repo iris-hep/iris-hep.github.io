@@ -1,0 +1,62 @@
+name: Matthew Feickert
+shortname: matthewfeickert
+title: Postdoctoral researcher
+active: green
+institution: University of Illinois at Urbana-Champaign
+website: https://www.matthewfeickert.com
+photo: /assets/images/team/matthewfeickert.jpeg
+presentations:
+  - title: "pyhf: a pure Python implementation of HistFactory with tensors and autograd"
+    date: 2018-10-29
+    url: https://indico.cern.ch/event/759480/contributions/3149836/
+    meeting: DIANA/HEP Meeting
+    meetingurl: https://indico.cern.ch/event/759480/
+    focus-area: as
+  - title: "pyhf: a pure Python statistical fitting library for High Energy Physics with tensors and autograd"
+    date: 2019-07-09
+    url: https://doi.org/10.25080/Majora-7ddc1dd1-019
+    meeting: 18th annual Scientific Computing with Python conference (SciPy 2019)
+    meetingurl: http://conference.scipy.org/proceedings/scipy2019/
+    location: University of Texas at Austin
+    focus-area: as
+  - title: "Introduction to Docker"
+    date: 2019-08-22
+    url: https://matthewfeickert.github.io/intro-to-docker/
+    meeting: 2019 USATLAS/FIRST-HEP Computing Bootcamp
+    meetingurl: https://indico.cern.ch/event/816946/
+    location: Lawrence Berkeley National Laboratory
+  - title: "pyhf Roadmap: 2019 into 2020"
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3564386/
+    meeting: 2019 IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermi National Accelerator Laboratory
+    focus-area: as
+  - title: "pyhf: pure-Python implementation of HistFactory"
+    date: 2019-10-18
+    url: https://indico.cern.ch/event/833895/contributions/3577824/
+    meeting: PyHEP 2019 Workshop
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, U.K.
+    focus-area: as
+  - title: "pyhf: a pure Python implementation of HistFactory with tensors and autograd (poster)"
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3476180/
+    meeting: CHEP 2019 Conference
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: as
+  - title: "Likelihood preservation and statistical reproduction of searches for new physics"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3476143/
+    meeting: CHEP 2019 Conference
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: as
+  - title: "An introduction to pyhf and HistFactory likelihoods"
+    date: 2019-11-25
+    url: https://matthewfeickert.github.io/talk-LHCb-Stats-Forum/index.html
+    meeting: LHCb Statistics Working Group
+    meetingurl: https://indico.cern.ch/event/863729/
+    location: Vidyo
+    focus-area: as

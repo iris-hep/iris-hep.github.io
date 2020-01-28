@@ -34,22 +34,18 @@ presentations:
     location: Sarajevo
 ```
 
-* Add your GitHub username to the proper [university file][].
+* Add your GitHub username to the proper [university file][]. Note that you will *not* show up in the full team page if you are not in a university file!
 
 #### Communication
 
 * Have an existing team member add your email address to the [IRIS-HEP Slack][] team.
 * Subscribe to the relevant [Google mailing lists][], at the very least "IRIS-HEP Full Team" and "IRIS-HEP Announcements".
 
-#### Meetings
-
-* The schedule for the meetings is a google doc, request that link from a team member.
-
-[contribute an improvement]:    https://github.com/iris-hep/iris-hep.github.io/pulls
+[contribute an improvement]:    https://github.com/iris-hep/iris-hep.github.io-source/pulls
 [IRIS-HEP GitHub organization]: https://github.com/iris-hep
-[assets/images/team folder]:    https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team
-[people]:                       https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/people
-[university file]:              https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/universities
+[assets/images/team folder]:    https://github.com/iris-hep/iris-hep.github.io-source/tree/master/assets/images/team
+[people]:                       https://github.com/iris-hep/iris-hep.github.io-source/tree/master/_data/people
+[university file]:              https://github.com/iris-hep/iris-hep.github.io-source/tree/master/_data/universities
 [IRIS-HEP Slack]:               https://iris-hep.slack.com
 [Google mailing lists]:         https://groups.google.com/a/iris-hep.org
 
@@ -77,4 +73,4 @@ The meaning of the fields is the following:
   * meeting - the name of the meeting
   * meetingurl - the URL for the meeting in which the presentation was made 
   * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can just omit this.
-  * focusarea - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc] 
+  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc] 

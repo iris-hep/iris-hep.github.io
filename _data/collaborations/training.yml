@@ -1,0 +1,10 @@
+- name: FIRST-HEP
+  url: http://first-hep.org/
+  awards:
+    - type: OAC
+      number: 1829707
+    - type: OAC
+      number: 1829729
+
+- name: CoDaS-HEP
+  url: http://codas-hep.org/
