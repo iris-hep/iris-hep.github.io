@@ -6,6 +6,22 @@ institution: New York University
 website: https://johannbrehmer.github.io
 photo: /assets/images/team/Johann-Brehmer.jpg
 presentations:
+  - title: Normalizing flows and the likelihood ratio trick in particle physics
+    date: 2020-01-06
+    url:
+    meeting: Deep learning seminar
+    meetingurl:
+    location: University of Bremen, Germany
+    focus-area: as
+    project: madminer
+  - title: Mining gold: Improving simulation-based inference with latent information (poster)
+    date: 2019-12-14
+    url: https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_16.pdf
+    meeting: NeurIPS 2019 workshop on Machine Learning and the Physical Sciences
+    meetingurl: https://ml4physicalsciences.github.io
+    location: Vancouver, Canada
+    focus-area: as
+    project: madminer
   - title: MadMiner Update
     date: 2019-06-19
     url: https://indico.cern.ch/event/822074/contributions/3471461/
@@ -13,9 +29,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
     location: NYU
     focus-area: as
+    project: madminer
   - title: "Constraining effective field theories with machine learning"
     date: 2019-06-06
-    url: 
+    url:
     meeting: INFN Padova seminar
     meetingurl:
     location: Padova, Italy
