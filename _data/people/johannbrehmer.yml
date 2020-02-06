@@ -14,7 +14,7 @@ presentations:
     location: University of Bremen, Germany
     focus-area: as
     project: madminer
-  - title: Mining gold: Improving simulation-based inference with latent information (poster)
+  - title: "Mining gold: Improving simulation-based inference with latent information (poster)"
     date: 2019-12-14
     url: https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_16.pdf
     meeting: NeurIPS 2019 workshop on Machine Learning and the Physical Sciences
