@@ -127,7 +127,7 @@ module Publications
 
       # Make the author list, for eventual linking to author pages
       authors = data['authors'].map do |a|
-        { 'name' => a['full_name'], 'id' => a['ids'][0]['value'] }
+        { 'name' => a['full_name'], 'id' => a.dig('ids', 0, 'value') }
       end
       pub['authors'] ||= authors
 
