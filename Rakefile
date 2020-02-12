@@ -48,10 +48,13 @@ LIGHT_OPTIONS = {
 }
 
 
-desc 'Check links and things'
-task :check => :build do
+desc 'Check already built site'
+task :checkonly do
   html_proofer COMMON_OPTIONS, LIGHT_OPTIONS
 end
+
+desc 'Check links and things'
+task :check => [:build, :checkonly]
 
 desc 'Stronger check for missing options - will show up as warnings on Travis'
 task :checkall => :build do
