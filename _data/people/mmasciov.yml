@@ -13,3 +13,10 @@ presentations:
     date: 2020-02-12
     focus-area: ia
     project: mkfit
+  - title: Accelerated Full Tracking at (CMS) HLT
+    meeting: CMS scouting kick-off workshop
+    meetingurl: https://indico.cern.ch/event/880405/
+    url: https://indico.cern.ch/event/880405/contributions/3709436/attachments/1985482/3308174/MkFit_Mario-Masciovecchio_ScoutingWorkshop.pdf
+    date: 2020-02-11
+    focus-area: ia
+    project: mkfit
