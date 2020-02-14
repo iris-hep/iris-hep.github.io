@@ -4,7 +4,6 @@ title: Machine Learning for Jet Physics Workshop (ML4Jets)
 author: Kyle Cranmer and Robert Tuck
 postimage: /assets/images/posts/20200117-ml4jets-workshop-group-photo.jpeg
 postimage-caption: "Participants in ML4Jets Workshop. Photo Credit: Kyle Cranmer"
-"Georgia Karagiorgi (Columbia University) describes the opportunities for fast machine learning for the neutrino physics program. Photo Credit: Kyle Cranmer (NYU)."
 postbanner: /assets/images/posts/20200117-ml4jets-workshop-room.png
 summary: "NYU Hosted the third in a series of workshops focusing on Machine Learning for Jet Physics from January 15-17, 2020. The [event](https://indico.cern.ch/event/809820/overview)
 drew more than 100 participants including experimental physicists, theoretical physicists, computer scientists, and applied mathematicians. IRIS-HEP members Kyle Cranmer and Sebastian Macaluso were the local organizers."
