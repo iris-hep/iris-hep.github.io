@@ -32,7 +32,7 @@ types of benchmarking efforts.
 {% include figure.html
     file="/assets/images/posts/20200117-ml4jets-workshop-Gilles-Louppe.png"
     alt="Gilles Louppe (University of Liège)"
-    caption="<a href="https://glouppe.github.io">Gilles Louppe</a>, Associate Professor of artificial intellegence at the University of Liège (Belgium) describes modern deep learning by analogy with lego building blocks.  Photo Credit: Kyle Cranmer (NYU)."
+    caption="<a href=\"https://glouppe.github.io\">Gilles Louppe</a>, Associate Professor of artificial intellegence at the University of Liège (Belgium) describes modern deep learning by analogy with lego building blocks.  Photo Credit: Kyle Cranmer (NYU)."
 %}
 
 The first day included introductory talks by Maxim Perelstein from a theoretical physicist's perspective, Alison Lister from an experimental perspective, and [Gilles Louppe](https://glouppe.github.io),
@@ -52,7 +52,7 @@ The material from the workshop is available online in an [Indico agenda](https:/
 {% include figure.html
     file="/assets/images/posts/20200117-ml4jets-workshop-Kyunghyun-Cho.png"
     alt="Kyunghyun Cho (NYU)"
-    caption="<a href="http://www.kyunghyuncho.me">Kyunghyun Cho</a> Associate Professor of Computer Science and Data Science at NYU describes recent progress in machine translation and it's potential for physics applications.
+    caption="<a href=\"http://www.kyunghyuncho.me\">Kyunghyun Cho</a> Associate Professor of Computer Science and Data Science at NYU describes recent progress in machine translation and it's potential for physics applications.
   Photo Credit: Kyle Cranmer (NYU)."
     class="center"
 %}
@@ -60,7 +60,7 @@ The material from the workshop is available online in an [Indico agenda](https:/
 {% include figure.html
     file="/assets/images/posts/20200117-ml4jets-workshop-Jonathan-Niles-Weed.png"
     alt="Jonathan Niles-Weed (NYU)"
-    caption="<a href="https://www.jonathannilesweed.com">Jonathan Niles-Weed</a>,  Assistant Professor of Mathematics and Data Science at NYU describes how Optimal Transport can be used to better understand structured data.
+    caption="<a href=\"https://www.jonathannilesweed.com\">Jonathan Niles-Weed</a>,  Assistant Professor of Mathematics and Data Science at NYU describes how Optimal Transport can be used to better understand structured data.
   Photo Credit: Kyle Cranmer (NYU)."
     class="center"
 %}
