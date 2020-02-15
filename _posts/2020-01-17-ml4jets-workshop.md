@@ -28,8 +28,6 @@ types of benchmarking efforts.
 
 
 
-The first day included introductory talks by Maxim Perelstein from a theoretical physicist's perspective, Alison Lister from an experimental perspective, and [Gilles Louppe](https://glouppe.github.io),
-a computer scientist that has collaborated with LHC physicists.
 
 {% include figure.html
     file="/assets/images/posts/20200117-ml4jets-workshop-Gilles-Louppe.png"
@@ -37,6 +35,8 @@ a computer scientist that has collaborated with LHC physicists.
     caption="[Gilles Louppe](https://glouppe.github.io), Associate Professor of artificial intellegence at the University of Liège (Belgium) describes modern deep learning by analogy with lego building blocks.  Photo Credit: Kyle Cranmer (NYU)."
 %}
 
+The first day included introductory talks by Maxim Perelstein from a theoretical physicist's perspective, Alison Lister from an experimental perspective, and [Gilles Louppe](https://glouppe.github.io),
+a computer scientist that has collaborated with LHC physicists.
 
 "This year we have really seen an growth in the scope of topics being discussed at ML4Jets," explained Kyle Cranmer. Generative models such as GANs were a hot topic. In addition, we heard from both physicists and mathematicians about Optimal Transport,
 which provides a natural way of comaring how similar two jets are. Connections were made to topic modelling, hierarchical clustering, variational inference, likelihood-free inference, domain adaptation, unfolding, and robustness. In addition, an entire session
@@ -47,7 +47,7 @@ highly optimized searches for specific theories.
 
 The material from the workshop is available online in an [Indico agenda](https://indico.cern.ch/event/809820/overview)
 
-<br/>
+<br clear="all">
 
 {% include figure.html
     file="/assets/images/posts/20200117-ml4jets-workshop-Kyunghyun-Cho.png"
