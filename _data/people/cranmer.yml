@@ -160,3 +160,10 @@ presentations:
     meetingurl: https://conference.ippp.dur.ac.uk/event/875/
     location: IPPP Durham
     focus-area: as, core
+  - title: Reusable workflows in particle physics
+    date: 2020-03-16
+    url: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
+    meeting: Workshop on Accelerating Scientific Discovery through Advanced and Automated Workflows
+    meetingurl: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
+    location: National Academy of Sciences
+    focus-area: as, core
