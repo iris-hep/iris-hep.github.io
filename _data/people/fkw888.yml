@@ -6,6 +6,24 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: "Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2020-01-27
+    url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
+    meeting: NRP Engagement webinar
+    meetingurl: https://spaces.at.internet2.edu/display/NRPWG/National+Research+Platform+%28NRP%29+Space
+    location: WebEx, US
+  - title: "Running a GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2019-12-04
+    url: https://www.slideshare.net/FrankWuerthwein/building-and-running-the-cloud-gpu-vacuum-cleaner
+    meeting: Middleware and Grid Interagency Cooperation (MAGIC)  meeting
+    meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC
+    location: WebEx, US
+  - title: "Running a GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2019-11-19
+    url: https://www.slideshare.net/igor_sfiligoi/running-a-gpu-burst-for-multimessenger-astrophysics-with-icecube-across-all-available-gpus-in-the-cloud
+    meeting: SC 19 Multiple Booths
+    meetingurl: https://sc19.supercomputing.org
+    location: Denver, CO, USA
   - title: "OSG News"
     date: 2019-10-10
     url: https://indico.fnal.gov/event/21410/contribution/2/material/slides/0.pdf
