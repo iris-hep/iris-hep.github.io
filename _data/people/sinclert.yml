@@ -5,6 +5,7 @@ active: green
 institution: New York University
 website:
 photo: /assets/images/team/Sinclert-Perez.jpg
+hidden: True
 presentations:
   - title: REANA, To reusability... and beyond!
     date: 2018-08-16
