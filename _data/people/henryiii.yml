@@ -143,3 +143,9 @@ presentations:
     meetingurl: https://researchcomputing.princeton.edu/events/research-data-management-workshop
     location: Princeton University
     focus-area: as
+  - title: "International efforts on efficient computing"
+    date: 2020-02-18
+    url: https://indico.ph.ed.ac.uk/event/66/contributions/820/
+    meeting: "Workshop on Efficient Computing for High Energy Physics (ECHEP)"
+    meetingurl: https://indico.ph.ed.ac.uk/event/66
+    location: Edinburgh, UK
