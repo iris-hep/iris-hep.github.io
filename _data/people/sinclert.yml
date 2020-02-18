@@ -1,0 +1,15 @@
+name: Sinclert Pérez
+shortname: Sinclert
+title: Research Software Engineer
+active: green
+institution: New York University
+website:
+photo: /assets/images/team/Sinclert-Perez.jpg
+hidden: True
+presentations:
+  - title: REANA, To reusability... and beyond!
+    date: 2018-08-16
+    url: https://indico.cern.ch/event/727275/contributions/3100506/attachments/1701324/2740014/REANA_slides_4x3.pptx
+    meeting: CERN Openlab presentations
+    meetingurl:
+    location: Geneva, Switzerland

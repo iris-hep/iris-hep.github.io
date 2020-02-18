@@ -34,7 +34,7 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
             </div>
             <div class="card-text card-body">
               {% if post.summary %}
-                  {{ post.summary }}
+                  {{ post.summary | markdownify }}
               {% else %}
                   {{ post.excerpt | strip_html }}
               {% endif %}  
@@ -52,7 +52,7 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
 <h4>IRIS-HEP Fellows</h4>
 The IRIS-HEP Fellows program provides funding support for selected individuals to spend several months working closely with a mentor on 
 an HEP software R&D topic relevant to the Institute. 
-<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP Fellows program.</a> Current fellows include:
+<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP Fellows program.</a> Recent fellows include:
 
 <div class="container-fluid">
   <div class="row">
@@ -197,6 +197,18 @@ ongoing events don't get prematurely flagged as recent.
 <div class="mainpage-sidebar-links">
   <a href="/collaborations">Full list with details</a>
 </div>
+
+
+<div class="mainpage-sidebar-twitter">
+<a id="twitter-box" class="twitter-timeline" data-width="100%" data-height="1100" href="https://twitter.com/iris_hep?ref_src=twsrc%5Etfw">Tweets by iris_hep</a>
+  <script> <!-- Only changes on initial load (the following twitter script replaces twiter-box with content) -->
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.getElementById("twitter-box").setAttribute("data-theme", "dark");
+    }
+  </script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 </div>
 </div>
 </div>

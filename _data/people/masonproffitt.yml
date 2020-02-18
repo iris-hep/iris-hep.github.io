@@ -19,3 +19,17 @@ presentations:
     meetingurl: https://indico.cern.ch/event/840472/
     location: Fermilab
     focus-area: as
+  - title: "HEP Data Query Challenges"
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3476178/attachments/1936838/3210025/chep_2019_poster.pdf
+    meeting: CHEP 2019
+    meetingurl: http://chep2019.org/
+    location: Adelaide, Australia
+    focus-area: as
+  - title: uproot Tutorial
+    date: 2019-11-29
+    url: https://masonproffitt.github.io/uproot-tutorial/
+    meeting: Software Carpentry at CERN
+    meetingurl: https://indico.cern.ch/event/834411/
+    location: CERN
+    focus-area: as
