@@ -54,7 +54,12 @@ module Publications
 
     # Setup a publication - adds/fixes focus-area and project
     def prepare(pub, name)
-      force_array(pub, 'project') if pub.key? 'project'
+      begin
+        force_array(pub, 'project') if pub.key? 'project'
+      rescue NoMethodError
+        puts "Preparing #{name} publication: #{pub}"
+        raise
+      end
       prepare_focus_area(pub, name) unless pub.key? 'focus-area'
 
       msg = 'You must have a project or focus-area in every publication'
@@ -122,7 +127,7 @@ module Publications
 
       # Make the author list, for eventual linking to author pages
       authors = data['authors'].map do |a|
-        { 'name' => a['full_name'], 'id' => a['ids'][0]['value'] }
+        { 'name' => a['full_name'], 'id' => a.dig('ids', 0, 'value') }
       end
       pub['authors'] ||= authors
 

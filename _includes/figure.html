@@ -13,6 +13,6 @@
 	<img alt="{{include.alt}}" src="{{include.file}}" style="{{include.img-style}}">
 </a>
 {%- if include.caption -%}
-<figcaption>{{include.caption}}</figcaption>
+<figcaption>{{ include.caption | markdownify }}</figcaption>
 {%- endif -%}
 </figure>

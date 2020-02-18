@@ -58,7 +58,14 @@ presentations:
   - title: "Looking into Jets with Machine Learning"
     date: 2019-11-19
     url: https://hetg.physics.harvard.edu/seminar-schedule
-    meeting: "Particle Theory Seminar"
+    meeting: "Particle Theory Seminar, Harvard University"
     meetingurl: https://hetg.physics.harvard.edu/seminar-schedule
     location: Harvard University
+    focus-area: ia
+  - title: "Looking into Jets with Machine Learning"
+    date: 2020-01-17
+    url: https://indico.cern.ch/event/809820/contributions/3632649
+    meeting: ML4Jets 2020
+    meetingurl: https://indico.cern.ch/event/809820/
+    location: New York University
     focus-area: ia
