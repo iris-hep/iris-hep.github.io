@@ -132,23 +132,17 @@
 </section>
 {% endif %}
 
-{% assign doPublications = 0 %}
 {% include get_pub_list.html %}
 
-{% for pub_item in sorted_pubs %}
-    {% if pub_item.size  > 20 %}
-        {% assign pub = pub_item | split: "|" %}
-        {% if pub[0] contains '2' %}
-            {% assign pub_fa = pub[5] | strip %}
-            {% if pub_fa contains page.short_title  %}
-                {% assign doPublications = 1 %}
-                {% break %}
-            {% endif %}
-        {% endif %}
-    {% endif %}
+{% assign pubs = "" | split: "," %}
+{% for pub in sorted_publications %}
+  {% assign page_st = page.short_title | strip %}
+  {% if pub.focus-area contains page_st %}
+    {% assign pubs = pubs | push: pub %}
+  {% endif %}
 {% endfor %}
 
-{% if doPublications == 1 %}
+{% if pubs.size > 0 %}
 
 
 <div class="container-lg p-responsive py-5 py-md-6 ">
@@ -158,21 +152,21 @@
 <ul>
 {% assign max_disp = 15 %}
 {% assign counter = 0 %}
-  {% for pub_item in sorted_pubs %}
-    {% if pub_item.size  > 20 %}
-      {% assign pub = pub_item | split: "|" %}
-      {% if pub[0] contains '2' %}
-        {% assign pub_fa = pub[5] | strip %}
-        {% if pub_fa contains page.short_title  %}
-          {% assign counter = counter | plus: 1 %}
-          <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] | date_to_string }}).</li>
-          {% if counter == max_disp %}
-          </ul>
-          <p>[expand]</p>
-          <ul>
-          {% endif %}
-        {% endif %}
+  {% for pub in pubs %}
+    {% assign counter = counter | plus: 1 %}
+    {% if pub.citation-count and pub.citation-count > 0 %}
+      {% assign cited = " [" | append: pub.citation-count | append: " citations]" %}
+      {% if pub.inspire-id %}
+        {% capture cited %} <a href='http://inspirehep.net/record/{{pub.inspire-id}}/citations'>{{cited}}</a>{% endcapture %}
       {% endif %}
+    {% else %}
+      {% assign cited = "" %}
+    {% endif %}
+    <li> <a href="{{ pub.link }}">{{ pub.title }}</a>, {{ pub.citation }} ({{ pub.date | date_to_string }}){{ cited }}. </li>
+    {% if counter == max_disp %}
+    </ul>
+    <p>[expand]</p>
+    <ul>
     {% endif %}
   {% endfor %}
 </ul>
