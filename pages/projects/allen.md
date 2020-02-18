@@ -13,5 +13,6 @@ team:
  - mdsokoloff
 ---
 
-We are developing a GPU-based trigger, which would replace the first-level trigger in the LHCb upgrade. 
+We are participating in the development of a GPU-based trigger, which would replace the first-level trigger in the LHCb upgrade. 
+A paper describing the project can be found [here](https://arxiv.org/abs/1912.09161) and the code is available in [the gitlab repository](https://gitlab.cern.ch/lhcb/Allen).
 
