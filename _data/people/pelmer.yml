@@ -77,4 +77,9 @@ presentations:
     meeting: "DANCE: Dark-matter And Neutrino Computation Explored" 
     meetingurl: https://dance.rice.edu
     location: Rice University
-
+  - title: "Updates on the NSF IRIS-HEP Software Institute" 
+    date: 2020-02-13
+    url: https://indico.cern.ch/event/852994/contributions/3723989/attachments/1987060/3311388/IRIS-HEP-CERN-SCF-13-Feb-2020.pdf
+    meeting: "8th Scientific Computing Forum"
+    meetingurl: https://indico.cern.ch/event/852994/
+    location: CERN

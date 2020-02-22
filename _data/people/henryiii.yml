@@ -33,14 +33,14 @@ presentations:
     date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3306849/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/contributions/3306849/
+    meetingurl: https://indico.cern.ch/event/759388
     location: Jefferson Lab
     focus-area: as
   - title: "Machine Learning for the Primary Vertex reconstruction"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3303404/
     meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/contributions/3303404/
+    meetingurl: https://indico.cern.ch/event/759388
     location: Jefferson Lab
     focus-area: ia
     project: pv-finder
@@ -58,12 +58,14 @@ presentations:
     meeting: IRIS-HEP Analysis Systems Topical Workshop
     meetingurl: https://indico.cern.ch/event/822074/
     focus-area: as
+    location: NYU, New York, NY
   - title: "AmpGen & Particle/DecayLanguage"
     date: 2019-06-19
     url: https://indico.cern.ch/event/822074/contributions/3471460/
     meeting: IRIS-HEP Analysis Systems Topical Workshop
     meetingurl: https://indico.cern.ch/event/822074/
     focus-area: as
+    location: NYU, New York, NY
   - title: Modern CMake
     date: 2019-08-14
     url: https://gitlab.com/CLIUtils/modern-cmake-interactive-talk
@@ -134,3 +136,16 @@ presentations:
     meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
     location: Princeton University
     focus-area: as
+  - title: "Python, Numpy, and Pandas"
+    date: 2020-01-28
+    meeting: "Princeton Research Data Management Workshop 2020"
+    url: https://library.princeton.edu/news/research-data-service/2019-12-05/research-data-management-workshop-graduate-students-jan-27-29
+    meetingurl: https://researchcomputing.princeton.edu/events/research-data-management-workshop
+    location: Princeton University
+    focus-area: as
+  - title: "International efforts on efficient computing"
+    date: 2020-02-18
+    url: https://indico.ph.ed.ac.uk/event/66/contributions/820/
+    meeting: "Workshop on Efficient Computing for High Energy Physics (ECHEP)"
+    meetingurl: https://indico.ph.ed.ac.uk/event/66
+    location: Edinburgh, UK
