@@ -10,33 +10,19 @@ draft: false
 {% assign doPublications = 0 %}
 {% include get_pub_list.html %}
 
-{% for pub_item in sorted_pubs %}
-    {% if pub_item.size  > 20 %}
-        {% assign pub = pub_item | split: "|" %}
-        {% if pub[0] contains '2' %}
-            {% assign doPublications = 1 %}
-            {% break %}
-        {% endif %}
-    {% endif %}
-{% endfor %}
-
-
-
-{% if doPublications == 1 %}
-
 
 <ul>
-  {% for pub_item in sorted_pubs %}
-    {% if pub_item.size  > 20 %}
-      {% assign pub = pub_item | split: "|" %}
-      {% if pub[0] contains '2' %}
-        {% assign pub_fa = pub[5] | strip %}
-        <li> {{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] | date_to_string }}).</li>
+  {% for pub in sorted_publications %}
+    {% if pub.citation-count and pub.citation-count > 0 %}
+      {% assign cited = " [" | append: pub.citation-count | append: " citations]" %}
+      {% if pub.inspire-id %}
+        {% capture cited %} <a href='http://inspirehep.net/record/{{pub.inspire-id}}/citations'>{{cited}}</a>{% endcapture %}
       {% endif %}
+    {% else %}
+      {% assign cited = "" %}
     {% endif %}
+    <li> <a href="{{ pub.link }}">{{ pub.title }}</a>, {{ pub.citation }} ({{ pub.date | date_to_string }}){{ cited }}. </li>
   {% endfor %}
 </ul>
-
-{% endif %}
 
 
