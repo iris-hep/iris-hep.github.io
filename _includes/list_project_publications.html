@@ -19,7 +19,7 @@
     {% else %}
       {% assign cited = "" %}
     {% endif %}
-    <li> <a href="{{ pub.link }}">{{ pub.title }}</a>, {{ pub.citation }} ({{ pub.date | date_to_string }}){{ cited }}. </li>
+    <li> {% include print_pub.html pub=pub %} </li>
   {% endfor %}
 </ul>
 {% endif %}
