@@ -128,7 +128,7 @@ module Publications
       pub['date'] ||= data.dig('imprints', 0, 'date')
 
       # Normalize date (if Nil, this should fail (date required))
-      pub['date'] = Date.parse(pub['date'])
+      pub['date'] = Date.parse(pub['date']) unless pub['date'].is_a? Date
 
       pub['citation-count'] ||= data['citation_count']
 
