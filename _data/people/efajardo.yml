@@ -24,6 +24,21 @@ presentations:
   date: 2019-06-12
   url: https://indico.cern.ch/event/727208/contributions/3444623/
   meeting: XrootD Workshop@CC-IN2P3
-  meetingurl: https://indico.cern.ch/event/727208/
   location: IN2P3
   focus-area: doma
+- title: Moving the California distributed CMS xcache from bare metal into containers using Kubernetes
+  date: 2019-11-05
+  url: https://indico.cern.ch/event/773049/contributions/3474397/
+  meeting: CHEP 2019
+  location: Adelaide
+  focus-area: doma
+- title: Creating a content delivery network for general science on the backbone of the Internet using xcaches.
+  date: 2019-11-05
+  url: https://indico.cern.ch/event/773049/contributions/3474397/
+  meeting: CHEP 2019
+  location: Adelaide
+- title: Benchmarking xrootd HTTP tests
+  date: 2019-11-27
+  url: https://indico.cern.ch/event/866244/contributions/3650022/
+  meeting: WLCG DOMA General Meeting
+  location: CERN
