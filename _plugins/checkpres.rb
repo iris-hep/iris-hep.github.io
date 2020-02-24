@@ -9,7 +9,6 @@ module Checks
     def generate(site)
       @site = site
 
-      puts "Running CheckPres:"
       @site.data['people'].each do |name, person_hash|
         presentations = person_hash['presentations']
 

@@ -141,7 +141,6 @@ module Publications
       # Build the author string
       mini_authors = join_names(pub['authors'].map { |a| a['name'] }, len: 5)
 
-
       # Build the citation string (non-author part)
       j = data.dig('publication_info', 0) # This may be nil
       journal =
