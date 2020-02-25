@@ -160,6 +160,20 @@ presentations:
     meetingurl: https://conference.ippp.dur.ac.uk/event/875/
     location: IPPP Durham
     focus-area: as, core
+  - title: Machine Learning for Effective Field Theories
+    date: 2020-03-03
+    url: https://indico.cern.ch/event/817757/contributions/3712508/
+    meeting: "PREFIT20: PRecision Effective FIeld Theory School"
+    meetingurl: https://indico.cern.ch/event/817757/overview
+    location:  DESY
+    focus-area: as, ia
+  - title: Machine Learning and Physics 
+    date: 2020-03-05
+    url: https://indico.desy.de/indico/event/25451/
+    meeting: Special QU-PCD Colloquium 
+    meetingurl: https://indico.desy.de/indico/event/25451/
+    location: DESY
+    focus-area: as, ia
   - title: Reusable workflows in particle physics
     date: 2020-03-16
     url: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
