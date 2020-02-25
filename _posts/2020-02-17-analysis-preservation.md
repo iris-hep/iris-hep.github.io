@@ -10,7 +10,7 @@ summary: "The first [Analysis Preservation Bootcamp](https://indico.cern.ch/even
 
 
 One of the cross-cutting themes of IRIS-HEP's Analysis Systems effort is to promote analysis preservation and reuse. This includes streamlining how we capture analysis code as it is being developed as well as creating analysis systems that allow us to efficiently reuse those components. To learn how to properly archive such software-heavy data analyses, 30 young graduate 
-students and postdocs gathered at CERN for a three-day intensitve "[Analysis Preservation
+students and postdocs gathered at CERN for a three-day intensive "[Analysis Preservation
 Bootcamp](https://indico.cern.ch/event/awesome)" made possible through the funds of IRIS-HEP. Organized by Sam Meehan, Lukas Heinrich,
 Clemens Lange (CERN) and IRIS-HEP postdoc Savannah Thais (Princeton), the workshop
 participants could count on a great team of volunteer mentors to help them through any technical
@@ -42,7 +42,7 @@ Several technical challenges had to be overcome in order to make this service a 
 On the first two days, students learned to efficiently used modern software engineering
 and cloud computing tools such as version control, continuous integration and Docker
 containers to ensure the analysis code and its development history are properly archived
-and portablly packaged to be used on any cloud computing platform.
+and portably packaged to be used on any cloud computing platform.
 On the third and final days, the students then heard from the REANA project to learn
 how to then define computational workflows to preserve the order of analysis steps
 required to carry the analysis from initial event selection all the way to final
@@ -52,8 +52,8 @@ studies at the LHC.
 
 
 With the second Run of the LHC finished and the upgrade for Run-3 underway, some time will pass
-until the four LHC experimenst have collected enough new data to significantly increase
-the sensitivty to Beyond Standard Model phenoemena or the precision of Standard Model 
+until the four LHC experiments have collected enough new data to significantly increase
+the sensitivity to Beyond Standard Model phenomena or the precision of Standard Model 
 measurements. In turn, this implies that the current analyses being finalized on the full Run-2 dataset
 will for a long time be the most precise studies at LHC-scale physics. It is thus crucial
 that the  details of those analysis are fully preserved. One the hand hand to be able
