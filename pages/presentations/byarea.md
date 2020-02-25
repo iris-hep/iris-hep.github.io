@@ -33,4 +33,16 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
 {% endfor %}
 
 
-Total presentations: {{ prescount }}.
+<h4>General</h4>
+<ul>
+{% for talk in sorted_presentations %}
+  {% if talk.focus-area == nil %}
+    {% assign member = site.data.people[talk.member].name %}
+    {% assign prettydate = talk.date | date: "%-d %b %Y" %}
+    <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{member}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+    {% assign prescount = prescount | plus: "1" %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+Total presentations (presentations spanning multiple areas listed multiple times): {{ prescount }}.
