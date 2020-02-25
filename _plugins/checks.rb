@@ -11,6 +11,9 @@ module Checks
       @empty = []
     end
 
+    # rubocop:disable Metrics/CyclomaticComplexity
+    # rubocop:disable Metrics/PerceivedComplexity
+
     # Check to see if key is present. You can add :optional and/or :nonempty.
     def key(key, *args)
       optional = !args.delete(:optional).nil?
@@ -38,7 +41,11 @@ module Checks
       raise ArgumentError, dmsg unless d.is_a?(Date)
     end
 
+    # rubocop:enable Metrics/PerceivedComplexity
+    # rubocop:enable Metrics/CyclomaticComplexity
+
     def print_warnings
+      # rubocop:disable Style/GuardClause
       unless @missing.empty?
         keys = @missing.join ', '
         puts "#{@name} must contain #{keys}."
@@ -47,6 +54,7 @@ module Checks
         keys = @empty.join ', '
         puts "#{@name} must contain non-empty #{keys}."
       end
+      # rubocop:enable Style/GuardClause
     end
   end
 end
