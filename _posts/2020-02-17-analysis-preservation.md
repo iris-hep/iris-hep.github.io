@@ -23,7 +23,7 @@ The goal of analysis preservation is not only to ensure reproducibility, but als
 {% include figure.html
     file="/assets/images/posts/2020-02-17-preservation-action.jpeg"
     alt="Instructors working with participants with laptops"
-    caption="Instructors Giordon Stark and Danika MacDonnel working with participants.  Photo Credit: Samuel Meehan."
+    caption="Instructors Danika MacDonnel and Giordon Stark working with participants.  Photo Credit: Samuel Meehan."
 %}
 
 
@@ -39,34 +39,31 @@ to the statistical treatment leading to the final measurement.
 Several technical challenges had to be overcome in order to make this service a reality. The [solution that emerged](http://inspirehep.net/record/1603090) involved leveraging containerization technology used widely in cloud computing as well as workflow technologies. These technologies were abstracted from their high-energy physics origins into the [REANA](http://reanahub.io) product now primarily developed at CERN with contributions from various NSF-funded projects like [DASPOS](https://daspos.crc.nd.edu), [DIANA/HEP](https://diana-hep.org), IRIS-HEP, and [SCAILFIN](https://scailfin.github.io). 
 
 
-On the first two days, students learned to efficiently used modern software engineering
-and cloud computing tools such as version control, continuous integration and Docker
+On the first two days, students learned to efficiently use modern software engineering
+and cloud computing tools such as version control, continuous integration, and Docker
 containers to ensure the analysis code and its development history are properly archived
 and portably packaged to be used on any cloud computing platform.
-On the third and final days, the students then heard from the REANA project to learn
-how to then define computational workflows to preserve the order of analysis steps
+On the third and final day, the students heard from Tibor Simko of the [REANA](http://reanahub.io) project, where they learned how to  define computational workflows to preserve the order of analysis steps
 required to carry the analysis from initial event selection all the way to final
-result. Among other things, REANA is used as a computational backend for the
-reinterpretation framework RECAST and thus will play a key role in ongoing summary
+result. Among other things, [REANA](http://reanahub.io) is used as a computational backend for the
+reinterpretation framework [RECAST](https://iris-hep.org/projects/recast.html) and thus will play a key role in ongoing summary
 studies at the LHC.
 
 
-With the second Run of the LHC finished and the upgrade for Run-3 underway, some time will pass
+With the second run of the LHC finished and the upgrade for Run-3 underway, some time will pass
 until the four LHC experiments have collected enough new data to significantly increase
 the sensitivity to Beyond Standard Model phenomena or the precision of Standard Model 
 measurements. In turn, this implies that the current analyses being finalized on the full Run-2 dataset
-will for a long time be the most precise studies at LHC-scale physics. It is thus crucial
-that the  details of those analysis are fully preserved. One the hand hand to be able
-to reliably reproduce the published results, but -- perhaps more importantly -- on the other hand
-because the analysis can be reused again for new meta-analyses studying the
-overall impact of the LHC experiments on  our understanding of nature.
-This is why for example ATLAS now requires all searches for  new physics to be
+will be the most precise studies at LHC-scale physics for a long time. It is thus crucial
+that the  details of those analysis are fully preserved. While it is important to be able
+to reliably reproduce the published results, it the ability to reuse analysis allows for reinterpretations and new meta-analyses studying the overall impact of the LHC experiments on our understanding of nature.
+This is one reason why ATLAS now requires all searches for  new physics to be
 archived in such a *reusable* manner.
 
 {% include figure.html
     file="/assets/images/posts/2020-02-17-preservation-action2.jpeg"
     alt="Participants listening to instructor with laptops"
-    caption="Instructor Giordon Stark and Danika MacDonnel working with participants.  Photo Credit: Samuel Meehan."
+    caption="Instructor Giordon Stark working with participants.  Photo Credit: Samuel Meehan."
 %}
 
 <h3>Acknowledgements</h3>
@@ -103,7 +100,7 @@ Mentors :
 <!--<blockquote class="twitter-tweet"><p lang="en" dir="ltr">so many reproduced plots! :) <a href="https://t.co/Kc9rpRfsnT">https://t.co/Kc9rpRfsnT</a></p>&mdash; Lukas Heinrich (@lukasheinrich_) <a href="https://twitter.com/lukasheinrich_/status/1230252595303927810?ref_src=twsrc%5Etfw">February 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
 
-<br clear="all">
+<br clear="all" />
 
 <h3>Reactions from participants shared on twitter</h3> 
 
