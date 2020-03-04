@@ -12,3 +12,9 @@ presentations:
     meeting: CERN Openlab presentations
     meetingurl: https://indico.cern.ch/event/727275/
     location: Geneva, Switzerland
+  - title: Integrating Cyberinfrastructure components
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331187/17_-_Sinclert-Cyberinfrastructure_components.pdf
+    meeting: IRIS NSF poster presentations
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, US
