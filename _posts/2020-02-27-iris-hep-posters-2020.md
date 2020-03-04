@@ -8,8 +8,6 @@ postbanner: /assets/images/posts/20200227-iris-hep-posters-2020-banner.jpg
 summary: "IRIS-HEP held a Poster Session at Princeton University on February 27, 2020 to highlight the work of members from the first 18 months of IRIS-HEP"
 ---
 
-On Thursday, February 27, 2020 members of IRIS-HEP got together at Princeton University to take stock of our progress in the first 18 months and plan for the future. A poster session was held in conjunction with this review session to highlight the work of members from the first 18 months of IRIS-HEP.
-
 {% include figure.html
     file="/assets/images/posts/20200227-iris-hep-posters-2020-Gray-ACTS.jpg"
     alt="Tracking with A Common Tracking Software (ACTS)"
@@ -23,6 +21,8 @@ On Thursday, February 27, 2020 members of IRIS-HEP got together at Princeton Uni
 Real-Time Data Ingestion and Reduction System and Boost-Histogram for Analysis System Photo Credit: Henry Schreiner."
 %}
 
+On Thursday, February 27, 2020 members of IRIS-HEP got together at Princeton University to take stock of our progress in the first 18 months and plan for the future. A poster session was held in conjunction with this review session to highlight the work of members from the first 18 months of IRIS-HEP.
+
 In all, twenty seven posters were presented by PIs, Post Docs, Students, Fellows and Staff encompassing topics from all areas of IRIS-HEP.  The topics included general information about IRIS-HEP, operational and policy information,  the development and deployment of services and tools, and the application of novel approaches to computing challenges.
 
 All the posters from the session are available here:
@@ -35,7 +35,7 @@ All the posters from the session are available here:
 * Allen: A GPU trigger for LHCb
 * Tracking with A Common Tracking Software (ACTS)
 * GNN Tracking and FPGA Acceleration
-* Integrating Cyberinfrastructure Components: RECAST, REANA, Analysis Preservation, HEPData, INSIPRE
+* Integrating Cyberinfrastructure Components: RECAST, REANA, Analysis Preservation, HEPData, INSPIRE
 * Rethinking Final Analysis Stages
 * Machine Learning for Jets
 * Modernizing the LHC’s Transfer Infrastructure
