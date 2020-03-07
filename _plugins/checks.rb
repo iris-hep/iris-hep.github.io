@@ -11,9 +11,6 @@ module Checks
       @empty = []
     end
 
-    # rubocop:disable Metrics/CyclomaticComplexity
-    # rubocop:disable Metrics/PerceivedComplexity
-
     # Check to see if key is present. You can add :optional and/or :nonempty.
     def key(key, *args)
       optional = !args.delete(:optional).nil?
@@ -40,9 +37,6 @@ module Checks
       dmsg = "#{@name} has a non-date #{d.class.name}. Must be of the form YYYY-MM-DD, not #{d}"
       raise ArgumentError, dmsg unless d.is_a?(Date)
     end
-
-    # rubocop:enable Metrics/PerceivedComplexity
-    # rubocop:enable Metrics/CyclomaticComplexity
 
     def print_warnings
       # rubocop:disable Style/GuardClause
