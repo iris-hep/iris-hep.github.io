@@ -3,7 +3,7 @@ layout: irispost
 title: IRIS-HEP Poster Session 2020 at Princeton University
 author: Robert Tuck
 postimage: /assets/images/posts/2020-02-27-iris-hep-posters-2020-main.jpg
-postimage-caption: "Irina Espejo with the poster for Scalable Cyberinfrastructure Applications Photo Credit: Kyle Cranmer"
+postimage-caption: "Irina Espejo, a graduate student at NYU, with the poster for Scalable Cyberinfrastructure Applications Photo Credit: Kyle Cranmer"
 postbanner: /assets/images/posts/20200227-iris-hep-posters-2020-banner.jpg
 summary: "IRIS-HEP held a Poster Session at Princeton University on February 27, 2020, to highlight the work of members from the first 18 months of IRIS-HEP."
 ---
@@ -11,13 +11,13 @@ summary: "IRIS-HEP held a Poster Session at Princeton University on February 27,
 {% include figure.html
     file="/assets/images/posts/20200227-iris-hep-posters-2020-Gray-ACTS.jpg"
     alt="Tracking with A Common Tracking Software (ACTS)"
-    caption="Heather Gray with the poster for Tracking with A Common Tracking Software (ACTS) Photo Credit: Heather Gray."
+    caption="Heather Gray, an assistant professor at the University of California, Berkeley, with the poster for Tracking with A Common Tracking Software (ACTS) Photo Credit: Heather Gray."
 %}
 
 {% include figure.html
     file="/assets/images/posts/20200227-iris-hep-posters-2020-Schreiner-boost-histogram-extend-lhcb.jpg"
     alt="Extending the Physics Reach of LHCb in Run 3 and Boost-Histogram for Analysis System"
-    caption="Henry Schreiner with posters for Extending the Physics Reach of LHCb in Run 3 Using Machine Learning in the
+    caption="Henry Schreiner (Princeton University) with posters for Extending the Physics Reach of LHCb in Run 3 Using Machine Learning in the
 Real-Time Data Ingestion and Reduction System and Boost-Histogram for Analysis Systems. Photo Credit: Henry Schreiner."
 %}
 
