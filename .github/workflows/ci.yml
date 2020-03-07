@@ -44,6 +44,9 @@ jobs:
       env:
         NOKOGIRI_USE_SYSTEM_LIBRARIES: true
 
+    - name: Check RuboCop
+      run: bundle exec rake rubocop
+
     - name: Build the site
       run: bundle exec rake build
       env:
