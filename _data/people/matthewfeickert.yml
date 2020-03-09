@@ -53,3 +53,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/773049/
     location: Adelaide, South Australia
     focus-area: as
+  - title: "An introduction to pyhf and HistFactory likelihoods"
+    date: 2019-11-25
+    url: https://matthewfeickert.github.io/talk-LHCb-Stats-Forum/index.html
+    meeting: LHCb Statistics Working Group
+    meetingurl: https://indico.cern.ch/event/863729/
+    location: Vidyo
+    focus-area: as

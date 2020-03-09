@@ -116,3 +116,25 @@ presentations:
     meetingurl: https://indico.cern.ch/event/805983/
     meeting: "CHEP 2019"
     focus-area: as
+  - title: "The IRIS-HEP Institute in the US"
+    date: 2019-11-20
+    url: https://indico.cern.ch/event/813325/contributions/3601405/
+    meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
+    meeting: "Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy Particle Physics (HEP)"
+    focus-area: management
+    location: Mexico City
+  - title: "Analysis Tools in the 2020's and 2030's"
+    date: 2019-11-21
+    url: https://indico.cern.ch/event/813325/contributions/3603496/
+    meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
+    meeting: "Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy Particle Physics (HEP)"
+    focus-area: as
+    location: Mexico City
+  - title: "S2I2: Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
+    date: 2020-02-14
+    url: https://figshare.com/articles/Untitled_ItemS2I2_Institute_for_Research_and_Innovation_in_Software_for_High_Energy_Physics_IRIS-HEP_/11839302
+    meetingurl: https://cssi-pi-community.github.io/2020-meeting/#talks
+    meeting: "2020 NSF CSSI PI MEETING"
+    focus-area: management
+    location: Seattle, WA
+    

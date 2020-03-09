@@ -18,3 +18,9 @@ presentations:
     meeting: "US ATLAS Computing Facility"
     meetingurl: https://indico.cern.ch/event/837130/
     focus-area: ssl
+  - title: "k8s for the IRIS-HEP SSLab"
+    date: 2020-01-30
+    url: https://indico.cern.ch/event/882955/contributions/3724855/attachments/1978233/3295037/Chicago-K8S-Workshop-Jan-2020.pdf
+    meeting: "K8s-HEP Meetup ('Chicagoland')"
+    meetingurl: https://indico.cern.ch/event/882955/
+    focus-area: ssl
