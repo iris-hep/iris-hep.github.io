@@ -19,3 +19,10 @@ presentations:
   meetingurl: https://indico.cern.ch/event/769508/
   location: CERN
   focus-area: doma
+- title: Measurements of Data Access
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331176/9_-_Measurements_of_Data_Access_-_v1.pdf
+  meeting: IRIS-HEP 18 months Review
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton University
+  focus-area: doma
