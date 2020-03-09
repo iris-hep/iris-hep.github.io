@@ -111,6 +111,13 @@ presentations:
     meetingurl: https://indico.cern.ch/event/813757/ 
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
+  - title: "OSG Network Monitoring (poster)"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331193/23_-_IRIS-HEP_LHC-OSG_Network_Monitoring.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/ 
+    location: Princeton, New Jersey, US
+    focus-area: osglhc
 
 
       
