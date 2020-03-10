@@ -37,6 +37,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/759388
     location: Jefferson Lab
     focus-area: as
+    project: rootconda
   - title: "Machine Learning for the Primary Vertex reconstruction"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3303404/
