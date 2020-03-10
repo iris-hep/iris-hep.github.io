@@ -6,7 +6,7 @@ shortname: ppx
 pagetype: project
 image: logos/ppx-logo.png
 logowidth: 45%
-blurb: cross-platform Probabilistic Programming eXecution protocol
+blurb: Cross-platform Probabilistic Programming eXecution protocol
 focus-area: as
 team:
  - cranmer
