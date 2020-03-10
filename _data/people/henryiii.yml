@@ -149,3 +149,10 @@ presentations:
     meeting: "Workshop on Efficient Computing for High Energy Physics (ECHEP)"
     meetingurl: https://indico.ph.ed.ac.uk/event/66
     location: Edinburgh, UK
+  - title: "Boost-Histogram for Analysis Systems (poster)"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331172/5_-_BoostHistogram.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/ 
+    location: Princeton, New Jersey, US
+    focus-area: as
