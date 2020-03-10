@@ -3,7 +3,7 @@ shortname: carlosmalt
 title: Adjunct Professor of Computer Science and Engineering
 active: green
 institution: University of California, Santa Cruz
-website: https://users.soe.ucsc.edu/~carlosm/UCSC/Home/Home.html
+website: https://people.ucsc.edu/carlosm
 photo: /assets/images/team/Carlos-Maltzahn.png
 presentations:
   - title: "IN53A-04: Reproducible, Automated and Portable Computational and Data Science Experimentation Pipelines with Popper (with Ivo Jimenez)"
@@ -26,6 +26,12 @@ presentations:
     meeting: Seminar at Amazon AWS
     meetingurl: https://aws.amazon.com/
     location: East Palo Alto, CA
+    focus-area: doma
+  - title: "Skyhook: programmable storage for databases"
+    date: 2019-02-26
+    url: https://users.soe.ucsc.edu/~jlefevre/skyhookdb/Skyhook-JeffNoah-Vault19.pdf
+    meeting: Vault'19
+    meetingurl: https://www.usenix.org/conference/vault19
     focus-area: doma
   - title: How to Leverage Research Universities
     date: 2019-03-13
@@ -76,3 +82,18 @@ presentations:
     url: https://drive.google.com/file/d/1DobmSbmCmO7m33_QWv8CvBnotAX16UjY/view?usp=sharing
     location: Denver, Colorado
     focus-area: doma
+  - title: "Scaling databases and file apis with programmable ceph object storage"
+    date: 2020-02-24
+    meeting: "2020 Linux Storage and Filesystems Conference (Vault’20, co-located with FAST’20 and NSDI’20)"
+    meetingurl: https://www.usenix.org/conference/vault20
+    url: https://www.usenix.org/sites/default/files/conference/protected-files/vault20_slides_lefevre.pdf
+    location: Santa Clara, CA
+    focus-area: doma
+  - title: "SkyhookDM: Programmable Storage for Datasets"
+    date: 2020-02-27
+    meeting: "IRIS-HEP Poster Session"
+    meetingurl: https://indico.cern.ch/event/894127/
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331170/2_-_maltzahn-irishep-poster.pdf
+    location: Princeton, NJ
+    focus-area: doma
+
