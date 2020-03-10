@@ -53,31 +53,6 @@
 {% endif %}
 
 
-
-{% if doProjects ==2 %}
-<div class="container-fluid">
-  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
-
-
-<table style="width:100%">
-{% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %} 
-{% if mypage.focus-area == page.short_title %}
-<tr>
-<th><img width="40rem" src="/assets/{{mypage.image | default: "logos/Iris-hep-5-just-graphic.png"}}" alt="Card image cap"></th>
-<th>
-<b><font size="+1">{{mypage.title}}</font></b>
-<a href=/projects/{{mypage.shortname}}.html>{{mypage.blurb}}</a><br>
-</th> 
-</tr>
-{% endif %}
-{% endif %}
-{% endfor %}
-</table>
-<br>
-</div>
-{% endif %}
-
 {% include get_pres_list.html %}
 {% assign page_focus_area = page.short_title | strip %}
 
