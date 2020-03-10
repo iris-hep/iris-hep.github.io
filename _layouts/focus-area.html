@@ -13,7 +13,7 @@
 </div>
 
 {% assign doProjects = 0 %}
-{% assign sorted = site.pages | sort: 'title' %}
+{% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
 {% if mypage.pagetype == 'project' %} 
 {% if mypage.focus-area contains page.short_title %}
