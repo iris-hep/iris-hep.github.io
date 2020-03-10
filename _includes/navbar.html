@@ -34,7 +34,7 @@
                 <li class="nav-item dropdown active">
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activities</a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                        {% assign activities = site.pages | where: "layout", "focus-area" | sort: 'title' %}
+                        {% assign activities = site.pages | where: "layout", "focus-area" | sort_natural: 'title' %}
                         {% for mypage in activities %}
                         <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
                         {% endfor %}
