@@ -6,7 +6,9 @@ shortname: modeling
 pagetype: project
 image: logos/modeling.png
 blurb: Modeling HL-LHC Data flows
-focus-area: doma,osglhc
+focus-area:
+ - doma
+ - osglhc
 team:
  - fkw888
 ---
