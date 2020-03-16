@@ -170,14 +170,35 @@ presentations:
   - title: Machine Learning and Physics 
     date: 2020-03-05
     url: https://indico.desy.de/indico/event/25451/
-    meeting: Special QU-PCD Colloquium at DESY 
+    meeting: Special QU-PCD Colloquium at DESY (CANCELED due to COVID19)
     meetingurl: https://indico.desy.de/indico/event/25451/
     location: DESY
     focus-area: as, ia
   - title: Reusable workflows in particle physics
     date: 2020-03-16
-    url: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
+    url: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting
     meeting: Workshop on Accelerating Scientific Discovery through Advanced and Automated Workflows
-    meetingurl: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
+    meetingurl: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting 
     location: National Academy of Sciences
     focus-area: as, core
+  - title: "Future Analysis Systems"
+    date: 2020-03-17
+    url: https://indico.cern.ch/event/896935/
+    meeting: "Joint US ATLAS - US CMS Meeting on Facility R&D"
+    meetingurl: https://indico.cern.ch/event/896935/
+    location: Remote
+    focus-area: as, core
+  - title: "Likelihood-based models for Simulation-based Inference"
+    date: 2020-06-17
+    url: https://invertibleworkshop.github.io
+    meeting: ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models
+    meetingurl: https://invertibleworkshop.github.io
+    location: Vienna, Austria
+    focus-area: as, ia
+  - title: "Graphs, Trees, and Sets: structured data in physics"
+    date: 2020-07-17
+    url: https://invertibleworkshop.github.io
+    meeting: ICML Workshop on Graph Representation Learning
+    meetingurl: https://invertibleworkshop.github.io
+    location: Vienna, Austria
+    focus-area: as, ia
