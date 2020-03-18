@@ -68,3 +68,4 @@ jobs:
         publish_branch: master
         publish_dir: _site
         force_orphan: true
+        cname: iris-hep.org
