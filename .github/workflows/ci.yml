@@ -68,5 +68,3 @@ jobs:
         publish_branch: master
         publish_dir: _site
         force_orphan: true
-      env:
-        GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
