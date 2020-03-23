@@ -20,3 +20,17 @@ presentations:
     url: https://indico.cern.ch/event/773049/contributions/3474484/attachments/1943110/3222885/idds_chep2019.pdf
     focus-area: doma
     project: idds
+  - title: "intelligent Data Delivery Service (iDDS) (Poster)"
+    date: 2020-02-27
+    meeting: IRIS-HEP review
+    meetingurl: https://indico.cern.ch/event/855317/
+    url: https://indico.cern.ch/event/855317/
+    focus-area: doma
+    project: idds
+  - title: "iDDS: A New Service with Intelligent Orchestration and Data Transformation and Delivery"
+    date: 2020-03-11
+    meeting: 3rd Rucio Community Workshop
+    meetingurl: https://indico.cern.ch/event/867913/
+    url: https://indico.cern.ch/event/867913/contributions/3769422/attachments/2002255/3342767/idds_20200311_rucio_workshop2.pdf
+    focus-area: doma
+    project: idds
