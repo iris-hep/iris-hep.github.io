@@ -5,13 +5,15 @@
 
     {% include navbar.html %}
     {% include masthead.html %}
-
+ 
+    <div id="container">
       <div class="container">
         <main role="main">
           {{ content }}
         </main>
       </div>
       {% include footer.html %}
+    </div>
 
   {% if site.google_analytics %}
     <script>
