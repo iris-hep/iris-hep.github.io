@@ -5,11 +5,16 @@
 @import "variables";
 @import "mixins";
 
+html {
+  height: 100%;
+}
+
 /* DIANA dark blue: 2C3E50; DIANA light blue: 3B97D3 */
 /* Original padding-top was 6rem */
 body {
   padding-top: 5rem;
   padding-bottom: 0;
+  height: 100%;
   color: #2C3E50;
 
   @media (prefers-color-scheme: dark) {
@@ -154,6 +159,14 @@ body {
   }
 }
 
+div#container {
+  padding-bottom: 7em;
+  position:relative;
+  height: auto !important;
+  height: 100%; // IE 6
+  min-height:100%;
+}
+
 /* Custom footer */
 
 .navbar-dark {
@@ -177,6 +190,11 @@ body {
   padding-left: 1.0rem;
   padding-right: 0.5rem;
   padding-bottom: 1.5rem;
+
+  // Stick the footer to the bottom
+  position: absolute;
+  width: 100%;
+  bottom: 0;
 
   a {
     @media not print {
