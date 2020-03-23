@@ -28,11 +28,11 @@ body {
   }
 }
 
-@media only print {
-  header.masthead {
-    margin-bottom: 5mm;
-  }
+header.masthead {
+  margin-bottom: 0;
+}
 
+@media only print {
   header.masthead .site-heading {
     padding: 0;
   }
@@ -160,7 +160,7 @@ body {
 }
 
 div#container {
-  padding-bottom: 7em;
+  padding-bottom: 8em;
   position:relative;
   height: auto !important;
   height: 100%; // IE 6
@@ -268,6 +268,16 @@ div#container {
   }
 }
 
+main {
+  padding-top: 0px;
+}
+
+@media only screen and (min-width: 768px) {
+  main {
+    padding-top: 30px;
+  }
+}
+
 // Sidebar
 
 .mainpage-sidebar {
@@ -355,7 +365,7 @@ div#container {
   .iris-post-footer {
     clear: both;
     padding-top: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     @media only screen and (min-width: 768px), only print {
       margin-top: 40px;
     }
