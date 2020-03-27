@@ -422,3 +422,18 @@ main {
   }
 }
 
+div#covid {
+  background-color: #ff7e7a;
+  color: black;
+  text-align: center;
+  font-weight: 700;
+  font-size: large;
+  padding: 3px;
+  @media (prefers-color-scheme: dark) {
+    color: white;
+    background-color: #af0500;
+    a {
+      color: #4ec0ff;
+    }
+  }
+}
