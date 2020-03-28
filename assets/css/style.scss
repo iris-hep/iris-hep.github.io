@@ -194,9 +194,15 @@ div#container {
   border-top-style: solid;
   border-top-width: 3px;
   padding-top: 0.5rem;
-  padding-left: 1.0rem;
-  padding-right: 0.5rem;
   padding-bottom: 1.5rem;
+
+  padding-left: 0;
+  padding-right: 0;
+
+  @media only screen and (min-width: 768px) {
+    padding-left: 1.0rem;
+    padding-right: 0.5rem;
+  }
 
   // Stick the footer to the bottom
   position: absolute;
@@ -218,6 +224,11 @@ div#container {
       color: $navbar-dark-active-color;
       text-shadow: 0px 0px 10px $primary;
     }
+    font-size: smaller;
+    @media only screen and (min-width: 400px), only print {
+      font-size: medium;
+    }
+
   }
 
   .footer-logos {
@@ -225,6 +236,15 @@ div#container {
     flex-direction: column;
     @media only screen and (min-width: 768px), only print {
       flex-direction: row;
+    }
+    
+    img {
+      width: 32px;
+      height: 32px;
+      @media only screen and (min-width: 400px), only print {
+        width: 64px;
+        height: 64px;
+      }
     }
 
     .footer-logo {
@@ -444,3 +464,5 @@ div#covid {
     }
   }
 }
+
+
