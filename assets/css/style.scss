@@ -31,13 +31,22 @@ body {
 header.masthead {
   margin-bottom: 0;
   margin-top: 15px;
-    .site-heading {
-      padding: 25px 0px 25px;
-      @media only screen and (min-width: 768px) {
-        padding: 60px 0px 60px;
-      }
+  .site-heading {
+    padding: 25px 0px 25px;
+    @media only screen and (min-width: 768px) {
+      padding: 60px 0px 60px;
     }
+  }
+  .site-heading > h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin: 0;
+    @media only screen and (min-width: 768px), only print {
+      font-size: 2rem;
+    }
+  }
 }
+
 
 @media only print {
   header.masthead .site-heading {
