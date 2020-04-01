@@ -20,7 +20,7 @@ module Publications
   class Generator < Jekyll::Generator
     # Main entry point for Jekyll
     def generate(site)
-      @net = Net::HTTP.new('labs.inspirehep.net', 443)
+      @net = Net::HTTP.new('inspirehep.net', 443)
       @net.use_ssl = true
 
       @site = site
