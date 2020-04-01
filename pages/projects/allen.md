@@ -6,7 +6,7 @@ shortname: allen
 pagetype: project
 image: logos/allen.png
 logowidth: 50%
-blurb: Allen: a GPU trigger for LHCb
+blurb: "Allen: a GPU trigger for LHCb"
 focus-area: ia
 team:
  - mityinzer
