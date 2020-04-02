@@ -67,3 +67,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, U.S.A.
     focus-area: as
+  - title: "pyhf: A Pure Python Statistical Fitting Library with Tensors and Autograd"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/897086/attachments/2001484/3341223/Feickert_pyhf-NSF-Review-IRIS-HEP_2020-02-27.pdf
+    meeting: IRIS-HEP Postdoc Presentations
+    meetingurl: https://indico.cern.ch/event/897086/
+    location: Princeton, U.S.A.
+    focus-area: as
