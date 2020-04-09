@@ -54,7 +54,7 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
   * Earlier IRIS-HEP work by the NYU Professor Kyle Cranmer and collaborators ("Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model", 
 [arXiv:1807.07706](https://arxiv.org/abs/1807.07706) has previously been extended for epidemiological studies such as "Hijacking Malaria Simulators with Probabilistic Programming", [arXiv:1905.12432](https://arxiv.org/abs/1905.12432).
 
- ### How our colleagues at other NSF-related initiatives are responding to COVID-19
+### How our colleagues at other NSF-related initiatives are responding to COVID-19
 
   * [Open Science Grid](https://opensciencegrid.org/covid-19.html) for COVID-19 Research   
   * [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/) - page in preparation
