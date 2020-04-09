@@ -12,16 +12,11 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
 
 ## Current Activities
   
-  * UCSD Professor Frank Wuerthwein and project scientist Igor Sfiligoi are
-    working with the [Folding@Home](https://foldingathome.org/) to enable 
-    them to more easily scale out the work servers that farm tasks out to
-    clients available to do computational work. This leverages the experience 
-    of the [Open Science Grid](https://opensciencegrid.org/) and the 
-    [LHC](https://iris-hep.org/osglhc.html) and is needed to remove 
-    bottlenecks to exploiting the significant increase in resources being 
-    provided to
-    [Folding@Home](https://foldingathome.org/) to help with the COVID-19
-    challenges.
+  * UCSD Professor Frank Wuerthwein, project scientist Igor Sfiligoi and
+    others from the [Open Science Grid](https://opensciencegrid.org/) team 
+    are working with the [Folding@Home](https://foldingathome.org/) team
+    and Greg Bowman, the PI of Folding@Home, to understand how OSG can best 
+    support their work related the COVID-19 challenges.
 
   * The [Molecular Sciences Software Institute
     (MolSSI)](https://molssi.org/) is working with BioExcel is working
