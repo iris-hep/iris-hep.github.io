@@ -19,7 +19,7 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     support their work related the COVID-19 challenges.
 
   * The [Molecular Sciences Software Institute
-    (MolSSI)](https://molssi.org/) is working with [BioExcel](https://bioexcel.eu/) is working on a COVID-19 Computational Molecular Data Exchange to help 
+    (MolSSI)](https://molssi.org/) is working with [BioExcel](https://bioexcel.eu/) on a COVID-19 Computational Molecular Data Exchange to help 
     curate and provide the possibility of community review of the rapidly
     increasing number of COVID-19 related computational molecular
     simulation datasets. IRIS-HEP is discussing with them ideas for
