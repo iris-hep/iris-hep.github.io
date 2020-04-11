@@ -37,6 +37,8 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     [Penn Medicine](https://www.pennmedicine.org/) and a number of other
     Princeton Physics, Mechanical Engineering and Neuroscience faculty. 
 
+![Princeton Open Vent Monitor](/assets/images/20200411-Princeton-Open-Vent-Monitor.png)
+
   * A number of IRIS-HEP researchers were involved in setting up the
     [Science Responds](https://science-responds.org/) to make connections 
     that enable (non-medical) researchers to contribute to understanding 
