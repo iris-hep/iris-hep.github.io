@@ -31,11 +31,17 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     April meeting entitled "Physics Response to COVID-19".
 
   * Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim
-    Pivarski are writing the software for a patient flowmeter system for
-    ventilators that allow up to 20 to monitored remotely by a nurse 
-    in a field hospital. This works is being done in collaboration with 
+    Pivarski are contributing the software for a patient pressure and 
+    airflow monitoring system for
+    ventilators. The system allows up to 20 patients to be monitored remotely 
+    by a nurse in a COVID-19 field hospital, with relevant alarms. This 
+    outreach activity is being done in collaboration with 
     [Penn Medicine](https://www.pennmedicine.org/) and a number of other
     Princeton Physics, Mechanical Engineering and Neuroscience faculty. 
+    The system includes data analysis algorithms, visualization and data 
+    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
+
+<center><a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="50%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a></center>
 
   * A number of IRIS-HEP researchers were involved in setting up the
     [Science Responds](https://science-responds.org/) to make connections 
