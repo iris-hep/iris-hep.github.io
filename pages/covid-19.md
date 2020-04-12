@@ -39,7 +39,7 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     [Penn Medicine](https://www.pennmedicine.org/) and a number of other
     Princeton Physics, Mechanical Engineering and Neuroscience faculty. 
     The system includes data analysis algorithms, visualization and data 
-    acquisition from sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png">Click for larger image.</a>)
+    acquisition from sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
 
 <center><a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="50%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a></center>
 
