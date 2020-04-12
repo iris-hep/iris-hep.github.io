@@ -57,7 +57,7 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
 ## Earlier Relevant Activities
 
   * Earlier IRIS-HEP work by the NYU Professor Kyle Cranmer and collaborators ("Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model", 
-[arXiv:1807.07706](https://arxiv.org/abs/1807.07706) has previously been extended for epidemiological studies such as "Hijacking Malaria Simulators with Probabilistic Programming", [arXiv:1905.12432](https://arxiv.org/abs/1905.12432).
+[arXiv:1807.07706](https://arxiv.org/abs/1807.07706) ) established [PPX](/projects/ppx.html), a probababilistic programming protocol. It has previously been extended for epidemiological studies such as "Hijacking Malaria Simulators with Probabilistic Programming", [arXiv:1905.12432](https://arxiv.org/abs/1905.12432) and is now also being applied to COVID19 (see "Planning as inference in epidemiological dynamics models" by Warrington, A., Naderiparizi, S., Weilbach, C., Masrani, V., Harvey, W., Scibior, A., Beronov, B., & Nasseri, A. (2020) [arXiv:2003.13221](https://arxiv.org/abs/2003.13221) ). 
 
 # How our colleagues at other NSF-related initiatives are responding to COVID-19
 
