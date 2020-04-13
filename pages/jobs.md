@@ -8,6 +8,10 @@ title: Available Positions
 
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
+### Fermilab (CMS Physics Research and [CCE](https://hepcce.org/) Computing Research)
+
+  * [Postdoctoral Research Associate](https://academicjobsonline.org/ajo/jobs/16231)
+
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
