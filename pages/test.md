@@ -30,6 +30,12 @@ title: Test Page
 </div>
 </center>
 
+<center>
+<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
+</center>
+
+<iframe width="222" height="30" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
   * A number of IRIS-HEP researchers were involved in setting up the
     [Science Responds](https://science-responds.org/) to make connections 
