@@ -21,7 +21,7 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     example:
 
 <center>
-<img width="40%" src="/assets/images/20200412-OSG-COVID-19-Hours.png">
+<img width="60%" src="/assets/images/20200412-OSG-COVID-19-Hours.png">
 </center>
 
   * The [Molecular Sciences Software Institute
