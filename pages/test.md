@@ -25,8 +25,8 @@ title: Test Page
 </center>
 
 <center>
-<div width="40%">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+<iframe width="487" height="274" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </center>
 
@@ -48,8 +48,7 @@ title: Test Page
     with non-Physics researchers. Some of these are being recorded and
     made available in a [Youtube channel](https://www.youtube.com/playlist?list=PLeZvkLnDkqbQ1qIE7PA741dQUb1zw6FBd).
 
-<div class="embed-responsive embed-responsive-16by9" style="padding-top: 56.25%;">
+<div class="embed-responsive embed-responsive-16by9" style="position: relative;; overflow: hidden; padding-top: 56.25%;">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LNkQ7WTN5GE" allowfullscreen></iframe>
 </div>
-
 
