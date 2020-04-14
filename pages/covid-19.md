@@ -41,8 +41,6 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     The system includes data analysis algorithms, visualization and data 
     acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
 
-[![Watch the video](https://img.youtube.com/vi/LNkQ7WTN5GE/maxresdefault.jpg)](https://youtu.be/LNkQ7WTN5GE)
-
 <center><a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a></center>
 
   * A number of IRIS-HEP researchers were involved in setting up the
