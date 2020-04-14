@@ -21,21 +21,14 @@ title: Test Page
     acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
 
 <center>
+<div width="40%">
 <a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
-</center>
+</div>
 
-<center>
-<div>
+<div width="40%">
 <iframe width="487" height="274" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </center>
-
-<center>
-<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
-</center>
-
-<iframe width="222" height="30" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
   * A number of IRIS-HEP researchers were involved in setting up the
     [Science Responds](https://science-responds.org/) to make connections 
@@ -48,7 +41,4 @@ title: Test Page
     with non-Physics researchers. Some of these are being recorded and
     made available in a [Youtube channel](https://www.youtube.com/playlist?list=PLeZvkLnDkqbQ1qIE7PA741dQUb1zw6FBd).
 
-<div class="embed-responsive embed-responsive-16by9" style="position: relative;; overflow: hidden; padding-top: 56.25%;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LNkQ7WTN5GE" allowfullscreen></iframe>
-</div>
 
