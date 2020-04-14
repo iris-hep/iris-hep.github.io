@@ -25,7 +25,9 @@ title: Test Page
 </center>
 
 <center>
-<iframe width="40%" height="40%" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div width="40%">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 </center>
 
 
