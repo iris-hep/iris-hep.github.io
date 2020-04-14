@@ -16,7 +16,13 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     others from the [Open Science Grid](https://opensciencegrid.org/) team 
     are working with the [Folding@Home](https://foldingathome.org/) team
     and Greg Bowman, the PI of Folding@Home, to understand how OSG can best 
-    support their work related the COVID-19 challenges.
+    support their work related the COVID-19 challenges. More generally the
+    OSG is providing compute capacity for COVID-19 related workflows, for
+    example:
+
+<center>
+<img width="40%" src="/assets/images/20200412-OSG-COVID-19-Hours.png">
+</center>
 
   * The [Molecular Sciences Software Institute
     (MolSSI)](https://molssi.org/) is working with [BioExcel](https://bioexcel.eu/) on a COVID-19 Computational Molecular Data Exchange to help 
@@ -41,7 +47,14 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     The system includes data analysis algorithms, visualization and data 
     acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
 
-<center><a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a></center>
+<center>
+<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
+</center>
+
+<center>
+<iframe width="487" height="274" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 
   * A number of IRIS-HEP researchers were involved in setting up the
     [Science Responds](https://science-responds.org/) to make connections 
