@@ -16,9 +16,10 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     others from the [Open Science Grid](https://opensciencegrid.org/) team 
     are working with the [Folding@Home](https://foldingathome.org/) team
     and Greg Bowman, the PI of Folding@Home, to understand how OSG can best 
-    support their work related the COVID-19 challenges. More generally the
-    OSG is providing compute capacity for COVID-19 related workflows, for
-    example:
+    support their work related the COVID-19 challenges. More generally, the
+    sites in the OSG Consortium are providing compute capacity for COVID-19 related workflows.
+    The following graph shows the ramp-up in COVID-19 CPU hours over the course of a week
+    in early April:
 
 <center>
 <img width="60%" src="/assets/images/20200412-OSG-COVID-19-Hours.png">
