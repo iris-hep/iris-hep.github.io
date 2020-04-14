@@ -33,8 +33,8 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     the HEP data caching and distribution infrastructures might be
     something they can leverage as their curated data volumes increase.
 
-  * Princeton postdoc Savannah Thais is organizing a session at the APS
-    April meeting entitled "Physics Response to COVID-19".
+  * Princeton postdoc Savannah Thais has organized a session at the APS
+    April Meeting entitled ["Response of Physics to the Coronavirus Pandemic"](http://meetings.aps.org/Meeting/APR20/Session/Q08).
 
   * Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim
     Pivarski are contributing the software for a patient pressure and 
