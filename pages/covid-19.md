@@ -68,6 +68,15 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
     with non-Physics researchers. Some of these are being recorded and
     made available in a [Youtube channel](https://www.youtube.com/playlist?list=PLeZvkLnDkqbQ1qIE7PA741dQUb1zw6FBd).
 
+  * University of Illinois Research Programmer, Ben Galewsky put data wrangling
+     and website development skills to use to migrate the Champaign Urbana Health
+     District's spreadsheet of food distribution volunteers into a new
+     [NationBuilder site](https://www.cu-mutual-aid.org) he set up. It allows staff
+     to build community and put eager volunteers into action.
+  <center>
+  <a href="https://www.cu-mutual-aid.org"><img width="40%" src="/assets/images/cu-mutual-aid.png"></a>
+  </center>
+
 ## Earlier Relevant Activities
 
   * Earlier IRIS-HEP work by the NYU Professor Kyle Cranmer and collaborators ("Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model", 
