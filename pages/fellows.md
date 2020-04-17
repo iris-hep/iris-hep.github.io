@@ -23,6 +23,8 @@ R&D topic relevant to the Institute. Possible software R&D areas include:
   * [Data Organization, Management and Access](/doma.html)
   * [Scalable Systems](/ssl.html)
   * [Tools and Material to support Training activities](/ssc.html)
+  * [Service containerization, DevOps, security, service monitoring, and accounting](/osglhc.html)
+  * [Network monitoring and analytics](/osglhc.html)
 
 It is *not* required that the mentors are IRIS-HEP team members, any 
 appropriate mentor from the larger community working in one of these areas
