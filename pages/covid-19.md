@@ -25,6 +25,12 @@ in support of activities to meet the challenge of the COVID-19 pandemic.
 <img width="60%" src="/assets/images/20200412-OSG-COVID-19-Hours.png">
 </center>
 
+  * University of Illinois at Urbana-Champaign postdoc Matthew Feickert has
+    worked with the CERN COVID-19 Compute Response team to containerize the
+    [Folding@Home](https://foldingathome.org/) software in custom
+    [GPU-enabled Docker images](https://github.com/lukasheinrich/folding-at-home-docker)
+    to efficiently run Folding@Home on OSG sites with GPUs with donated resource time from ATLAS.
+
   * The [Molecular Sciences Software Institute
     (MolSSI)](https://molssi.org/) is working with [BioExcel](https://bioexcel.eu/) on a COVID-19 Computational Molecular Data Exchange to help 
     curate and provide the possibility of community review of the rapidly
