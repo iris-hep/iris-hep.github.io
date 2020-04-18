@@ -7,8 +7,9 @@ title: COVID-19 Activities
 # IRIS-HEP COVID-19 related activities
 
   Like many scientific research and research computing teams, IRIS-HEP
-is working contribute its software and computing capabilities and team
-in support of activities to meet the challenge of the COVID-19 pandemic.
+is organizing to contribute its software and computing capabilities and team
+in support of activities to meet the challenge of the COVID-19 pandemic. Some
+examples of our activities include:
 
 ## Current Activities
   
