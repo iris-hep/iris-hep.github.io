@@ -32,8 +32,12 @@ can be part of the program.
 
   Two types of IRIS-HEP Fellows are possible:
 
-  * **IRIS-HEP Graduate Fellows** - Graduate fellows spend 3 months working with a mentor in the home location of the mentor developing research software relevant for HEP in one of the R&D areas listed above. Fellows are expected to have a base research stipend from their university, but receive a monthly subsistence plus travel expenses from their IRIS-HEP fellowship.
-  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work with mentors in their local home institution for 10-12 weeks, either developing or using research software relevant for HEP in the categories listed above. Undergraduate fellows receive a monthly stipend during their fellowship. In some cases, travel support may be available. 
+  * **IRIS-HEP Graduate Fellows** - Graduate fellows spend 3 months working **remotely** with a mentor ~~in the home location of the mentor~~ developing research software relevant for HEP in one of the R&D areas listed above. Fellows are expected to have a base research stipend from their university, but receive a monthly subsistence ~~plus travel expenses from their IRIS-HEP fellowship.~~
+  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work **remotely** with mentors in their local home institution for 10-12 weeks, either developing or using research software relevant for HEP in the categories listed above. Undergraduate fellows receive a monthly stipend during their fellowship. ~~In some cases, travel support may be available.~~
+
+**Important Changes for 2020**
+
+  Due to the COVID-19 pandemic there will be no travel this year for the fellowship program.  We anticipate that all work and interactions with mentors will be entirely virtual.
 
   Examples fellows in a related program can be found on the [DIANA/HEP Fellow webpage](http://diana-hep.org/pages/fellows.html) and example projects of interest in the HEP community can be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are within the R&D areas listed above.
 
