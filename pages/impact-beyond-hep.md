@@ -150,26 +150,26 @@ IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer
 <div class="container">
 <div class="row">
  <div class="col-4">
+
 <div class="embed-responsive embed-responsive-9by16">
-<blockquote  class="twitter-tweet"><p lang="en" dir="ltr">Excited to present “Learning to Simulate Complex Physics with Graph Networks”.<a href="https://t.co/y0kkeskLck">https://t.co/y0kkeskLck</a><br><br>Our model can generate realistic simulations, and generalizes to much larger systems and longer trajectories than its training.<br><br>w/ <a href="https://twitter.com/spectralhippo?ref_src=twsrc%5Etfw">@spectralhippo</a> <a href="https://twitter.com/RexYing0923?ref_src=twsrc%5Etfw">@RexYing0923</a> <a href="https://twitter.com/jure?ref_src=twsrc%5Etfw">@jure</a> <a href="https://t.co/fEimZ0LBOJ">pic.twitter.com/fEimZ0LBOJ</a></p>&mdash; Peter Battaglia (@PeterWBattaglia) <a href="https://twitter.com/PeterWBattaglia/status/1237425685766995974?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<!--
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to announce a new paper with Alvaro Sanchez-Gonzalez, Victor Bapst, and <a href="https://twitter.com/PeterWBattaglia?ref_src=twsrc%5Etfw">@PeterWBattaglia</a> (<a href="https://twitter.com/DeepMindAI?ref_src=twsrc%5Etfw">@DeepMindAI</a>) on <br>&quot;Hamiltonian Graph Networks with ODE Integrators&quot;<br>Gives improvements in position &amp; energy accuracy, and zero-shot generalization. <a href="https://t.co/d8VjNaP2k2">https://t.co/d8VjNaP2k2</a> <a href="https://t.co/WgVnrFocGQ">pic.twitter.com/WgVnrFocGQ</a></p>&mdash; Kyle Cranmer (@KyleCranmer) <a href="https://twitter.com/KyleCranmer/status/1178655631999426560?ref_src=twsrc%5Etfw">September 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
+</div>
 
 </div>
- <div class="col-8">
+ <div class="col-4">
 
  <h3>Dynamical Systems</h3>
 
 As part of IRIS-HEP's exploratory machine learning efforts, we've developed collaborations with researchers at DeepMind that are interested in modelling physical systems. This research involves finding ways to incorporate various types of domain knowledge into neural networks. For instance, we know many systems are composed of more basic ingredients, or that interactions between those ingredients have some relational structure. Kyle Cranmer joined researchers at DeepMind for work that brought together techiques from physics and neural networks in <a href="https://arxiv.org/abs/1909.12790">Hamiltonian Graph Networks with ODE Integrators</a>. This work has been extended with <a href="https://drive.google.com/file/d/1Ri3RkuqyZ1xhg0QkXqzwfkxUCvn_0YKn/view">fantastic results</a> (see right) on complex simulations of particle systems in <a href="https://arxiv.org/pdf/2002.09405.pdf">Learning to Simulate Complex Physics with Graph Networks</a>. 
  </div>
 
-<!--
+
  <div class="col-4">
+<div class="embed-responsive embed-responsive-9by16">
+<blockquote  class="twitter-tweet"><p lang="en" dir="ltr">Excited to present “Learning to Simulate Complex Physics with Graph Networks”.<a href="https://t.co/y0kkeskLck">https://t.co/y0kkeskLck</a><br><br>Our model can generate realistic simulations, and generalizes to much larger systems and longer trajectories than its training.<br><br>w/ <a href="https://twitter.com/spectralhippo?ref_src=twsrc%5Etfw">@spectralhippo</a> <a href="https://twitter.com/RexYing0923?ref_src=twsrc%5Etfw">@RexYing0923</a> <a href="https://twitter.com/jure?ref_src=twsrc%5Etfw">@jure</a> <a href="https://t.co/fEimZ0LBOJ">pic.twitter.com/fEimZ0LBOJ</a></p>&mdash; Peter Battaglia (@PeterWBattaglia) <a href="https://twitter.com/PeterWBattaglia/status/1237425685766995974?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
-
+<!---
 <iframe src="https://drive.google.com/file/d/1Ri3RkuqyZ1xhg0QkXqzwfkxUCvn_0YKn/preview" width="640" height="480"></iframe>
 
  </div>
