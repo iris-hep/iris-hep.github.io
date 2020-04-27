@@ -32,12 +32,9 @@ can be part of the program.
 
   Two types of IRIS-HEP Fellows are possible:
 
-  * **IRIS-HEP Graduate Fellows** - Graduate fellows spend 3 months working **remotely** with a mentor ~~in the home location of the mentor~~ developing research software relevant for HEP in one of the R&D areas listed above. Fellows are expected to have a base research stipend from their university, but receive a monthly subsistence ~~plus travel expenses from their IRIS-HEP fellowship.~~
-  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work **remotely** with mentors in their local home institution for 10-12 weeks, either developing or using research software relevant for HEP in the categories listed above. Undergraduate fellows receive a monthly stipend during their fellowship. ~~In some cases, travel support may be available.~~
-
-**Important Changes for 2020**
-
-  Due to the COVID-19 pandemic there will be no travel this year for the fellowship program.  We anticipate that all work and interactions with mentors will be entirely virtual.
+  * **IRIS-HEP Graduate Fellows** - Graduate fellows spend 3 months working **remotely** with a mentor developing research software relevant for HEP in one of the R&D areas listed above. Fellows are expected to have a base research stipend from their university, but receive a monthly subsistence plus travel expenses from their IRIS-HEP fellowship.  **Travel support is not available in 2020 due to the COVID-19 pandemeic.  All work and interactions with mentors will be entirely virtual.**
+  
+  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work **remotely** with mentors in their local home institution for 10-12 weeks, either developing or using research software relevant for HEP in the categories listed above. Undergraduate fellows receive a monthly stipend during their fellowship.  In some cases, travel support may be available.  **Travel support is not available in 2020 due to the COVID-19 pandemeic.  All work and interactions with mentors will be entirely virtual**.
 
   Examples fellows in a related program can be found on the [DIANA/HEP Fellow webpage](http://diana-hep.org/pages/fellows.html) and example projects of interest in the HEP community can be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are within the R&D areas listed above.
 
@@ -105,4 +102,8 @@ The main goal of this work will be to develop a common test suite that runs the 
 
 - **Reading CMS Run 1/2 miniAOD files with ServiceX and func_adl:** ServiceX is a distributed, cloud-native application that extracts columnar data from HEP event data and delivers it to an analyst. The func_adl data query language is used to tell ServiceX how to extract the data (what columns, what simple cuts, etc.). The func_adl data query language has two backends that are currently part of ServiceX - one based on C++ for ATLAS data and one based on columnar processing using uproot and awkward array. The C++ backend currently runs only on the ATLAS binary format, xAOD. The backend is written in python. This project will modify the C++ backend to also run on CMS mini-AOD binary files (Run 1/Run 2).
 
+- **Proactive Site Monitoring:** A site on the Open Science Grid can malfunction for numerous reasons.  One of the best ways to spot an issue with a site is to watch for changes in a site’s accounting data.  Further, accounting data is vitally important for WLCG pledge and MOU calculations.  It is simple to check for sites that stop reporting completely, but it is difficult to watch for sites that only partially malfunction.  This project would entail creating a proactive monitoring suite that would alert OSG operations of malfunctioning sites.  Using outlier detection, The monitoring suite would watch for significant changes in the accounting information for VOs at all OSG connected clusters.  The alerting would notify OSG operators of the outlier for further analysis.
+
 - **Reproducible, large-scale SkyhookDM experiments**. SkyhookDM is a storage system that allows users to transparently grow and shrink their data storage and processing needs as demands change. SkyhookDM utilizes and extends the Ceph distributed object storage platform with customized C++ "object classes" that enable database operations such as `SELECT`, `PROJECT`, `AGGREGATE` to be offloaded directly into the object storage layer, allowing applications to efficiently query multi-dimensional arrays (HDF5, ROOT, among other formats are supported). The aim of this project is to implement and automate large-scale tests on CloudLab, GCP, AWS, and MS Azure, by benchmarking SkyhookDM at the 10's of terabyte scale over the various supported data formats.
+
+
