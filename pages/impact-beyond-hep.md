@@ -32,7 +32,7 @@ Like many scientific research and research computing teams, IRIS-HEP is organizi
 <div class="row">
  <div class="col-4">
    <a href="/covid-19">
-   <img width="100%" src="assets/images/protein-tori.png" alt="Card image cap">
+   <img width="100%" src="/assets/images/protein-tori.png" alt="Card image cap">
    </a>
  </div>
  <div class="col-8">
