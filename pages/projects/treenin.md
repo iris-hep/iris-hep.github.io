@@ -103,7 +103,7 @@ In order to aid research into jet physics, Sebastian Macaluso, Kyle Cranmer, and
 
   <h3>Hierarchical Clustering: use-inspired research</h3>
 
-Hierarchical clustering is a common clustering approach for gene expression data. Within particle physics hierarchical clusterirng appears in the context of jets -- the most copiously prroduced objects at the Large Hadron Collider. One challenge is that the number of hierarchical clusterings grows very quickly with the number of objects being clustered.
+Hierarchical clustering is a common clustering approach for gene expression data. Within particle physics hierarchical clusterirng appears in the context of jets -- the most copiously produced objects at the Large Hadron Collider. One challenge is that the number of hierarchical clusterings grows very quickly with the number of objects being clustered.
 IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer scientists at U. Mass Amherst to extend a clustering algorithm they had developed for the hierarchical case. This algorithm was applied to both particle physics and cancer genomics studies in <a href="https://arxiv.org/abs/2002.11661">Compact Representation of Uncertainty in Hierarchical Clustering</a>.
  </div>
 </div>
