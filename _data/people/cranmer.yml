@@ -166,7 +166,7 @@ presentations:
     meeting: "PREFIT20: PRecision Effective FIeld Theory School"
     meetingurl: https://indico.cern.ch/event/817757/overview
     location:  DESY
-    focus-area: as, ia
+    focus-area: as, ia, core
   - title: Machine Learning and Physics 
     date: 2020-03-05
     url: https://indico.desy.de/indico/event/25451/
@@ -201,7 +201,7 @@ presentations:
     meeting: UCI Symposium on Reproducibility in Machine Learning
     meetingurl: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
     location: Irvine, CA (Virtual)
-    focus-area: as, ia
+    focus-area: as, ia, core
   - title: "Likelihood-based models for Simulation-based Inference"
     date: 2020-07-17
     url: https://invertibleworkshop.github.io
@@ -216,3 +216,10 @@ presentations:
     meetingurl: https://invertibleworkshop.github.io
     location: Vienna, Austria (Virtual)
     focus-area: as, ia
+  - title: "Lectures on Statistics"
+    date: 2020-08-10
+    url: https://indico.fnal.gov/event/22840/
+    meeting: 15th joint Fermilab-CERN Hadron Collider Summer School
+    meetingurl: https://indico.fnal.gov/event/22840/
+    location: Fermilab (Virtual)
+    focus-area: as, core
