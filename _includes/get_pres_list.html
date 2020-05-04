@@ -1,71 +1,10 @@
-{% capture list %}
-  {% assign start = true %}
-  {% for univ_hash in site.data.universities %}
-    {% if start %}
-      {% assign sep = "" %}
-    {% else %}
-      {% assign sep = "^" %}
-    {% endif %}
-    {% assign start = false %}
-
-    {% assign univ = univ_hash[1] %}
-    {% for member in univ.personnel  %}
-      {% for person_hash in site.data.people %}
-        {% assign person = person_hash[1] %}
-        {% if person.shortname == member %}
-           {% for presentation in person.presentations %}
-             {% assign pres_date = "Unknown" %}
-             {% if presentation.date  %}
-               {% assign pres_date = presentation.date | date: "%Y-%m-%d" %}
-             {% endif %}
-
-             {% assign pres_name = "Unknown" %}
-             {% if person.name %}
-               {% assign pres_name = person.name %}
-             {% endif %}
-
-             {% assign pres_institution = "Unknown" %}
-             {% if person.institution %}
-               {% assign pres_institution = person.institution %}
-             {% endif %}
-                
-             {% assign pres_title = "Unknown" %}
-             {% if presentation.title %}
-             {% assign pres_title = presentation.title %}
-             {% endif %}
-
-             {% assign pres_url = "Unknown" %}
-             {% if presentation.url %}
-             {% assign pres_url = presentation.url %}
-             {% endif %}
-
-             {% assign pres_meeting = "Unknown" %}
-             {% if presentation.meeting %}
-             {% assign pres_meeting = presentation.meeting %}
-             {% endif %}
-
-             {% assign pres_meetingurl = "Unknown" %}
-             {% if presentation.meetingurl %}
-             {% assign pres_meetingurl = presentation.meetingurl %} 
-             {% endif %}
-
-             {% assign pres_project = "Unknown" %}
-             {% if presentation.project %}
-             {% assign pres_project = presentation.project %}
-             {% endif %}
-
-             {% assign pres_focus_area = "Unknown" %}
-             {% if presentation.focus-area %}
-             {% assign pres_focus_area = presentation.focus-area %}
-             {% endif %}
-
-             {{sep}}{{pres_date}}|{{pres_name}}|{{pres_title}}|{{pres_url}}|{{pres_meeting}}|{{pres_meetingurl}}|{{pres_project}}|{{pres_focus_area}}|{{pres_institution}} 
-           {% endfor %}
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
+{% assign sorted_presentations = "" | split: "," %}
+{% for person_hash in site.data.people %}
+  {% assign person = person_hash[1] %}
+  {% for presentation in person.presentations %}
+    {% assign sorted_presentations = sorted_presentations | push: presentation %}
   {% endfor %}
-{% endcapture %}
+{% endfor %}
 
-{% assign sorted_pres = list | split: "^"  | sort | reverse %}
+{% assign sorted_presentations = sorted_presentations | sort: "date" | reverse %}
 

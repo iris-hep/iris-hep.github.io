@@ -34,13 +34,16 @@
                 <li class="nav-item dropdown active">
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activities</a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                        {% assign activities = site.pages | where: "layout", "focus-area" | sort: 'title' %}
+                        {% assign activities = site.pages | where: "layout", "focus-area" | sort_natural: 'title' %}
                         {% for mypage in activities %}
                         <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
                         {% endfor %}
                         <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/impact-beyond-hep.html">Impact Beyond HEP</a>
+                        <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="/presentations/bymonth">Presentations</a>
                         <a class="dropdown-item" href="/publications/all">Publications</a>
+                        <a class="dropdown-item" href="/projects">Projects</a>
                     </div>
                 </li>
                 <!--  Nav to news items disabled until there are news items; BB 2019-04-23

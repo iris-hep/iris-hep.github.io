@@ -39,6 +39,7 @@ module Checks
     end
 
     def print_warnings
+      # rubocop:disable Style/GuardClause
       unless @missing.empty?
         keys = @missing.join ', '
         puts "#{@name} must contain #{keys}."
@@ -47,6 +48,7 @@ module Checks
         keys = @empty.join ', '
         puts "#{@name} must contain non-empty #{keys}."
       end
+      # rubocop:enable Style/GuardClause
     end
   end
 end

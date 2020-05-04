@@ -3,134 +3,42 @@ permalink: /test.html
 layout: default
 title: Test Page
 ---
-<h3>Computational and data science research to enable discoveries in fundamental physics</h3>
-<br>
-IRIS-HEP is a software institute funded by the National Science Foundation. It aims to develop the state-of-the-art software cyberinfrastructure required for the challenges of data intensive scientific research at the High Luminosity Large Hadron Collider (HL-LHC) at CERN, and other planned HEP experiments of the 2020's. These facilities are discovery machines which aim to understand the fundamental building blocks of nature and their interactions. [Full Overview](/about/overview.html)
-<br><br>
-The IRIS-HEP project was funded on 1 September, 2018, and is ramping up its activities. 
 
+# Test page
 
+  * Princeton postdoc Savannah Thais is organizing a session at the APS
+    April meeting entitled "Physics Response to COVID-19".
 
-<hr>
+  * Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim
+    Pivarski are contributing the software for a patient pressure and
+    airflow monitoring system for
+    ventilators. The system allows up to 20 patients to be monitored remotely
+    by a nurse in a COVID-19 field hospital, with relevant alarms. This
+    outreach activity is being done in collaboration with
+    [Penn Medicine](https://www.pennmedicine.org/) and a number of other
+    Princeton Physics, Mechanical Engineering and Neuroscience faculty.
+    The system includes data analysis algorithms, visualization and data
+    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
 
-{% comment %}
-Go through the list of documentation pages and create an index of them.
-{% endcomment %}
-<br>
-<b>Documentation pages:</b>
-<ul>
-{% for mypage in site.pages %}
-  {% if mypage.pagetype == 'doc' %} 
-  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
+<center>
+<div style="width:40%; float: left" >
+<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
+</div>
 
-<hr>
+<div style="width:40%; float: right" >
+<iframe width="487" height="274" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</center>
 
-{% comment %}
-Go through the list and produce a list of upcoming events as well as a 
-list of events in the past 90 days. Treat 6 days ago as "now" so that
-ongoing events don't get prematurely flagged as recent.
-{% endcomment %}
-{% assign currentdatecmp = 'now' | date: "%s" %}
-{% assign sixdaysago = 'now' | date: "%s" | minus: 518400 | date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
-{% assign ninetydaysago = 'now' | date: "%s" | minus: 7776000| date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace: "+","%20" | date: "%s"%}
-<br>
+  * A number of IRIS-HEP researchers were involved in setting up the
+    [Science Responds](https://science-responds.org/) to make connections 
+    that enable (non-medical) researchers to contribute to understanding 
+    and combating the global COVID-19 problem and/or its economic and 
+    societal impacts. This website provides resources and information
+    for such researchers. An associated Slack workspace and Zoom
+    meetings allow researchers to interact. We have also recently begun
+    organizing [talks and discussions](https://indico.cern.ch/category/12245/) 
+    with non-Physics researchers. Some of these are being recorded and
+    made available in a [Youtube channel](https://www.youtube.com/playlist?list=PLeZvkLnDkqbQ1qIE7PA741dQUb1zw6FBd).
 
-<h4>Upcoming and Recent Events:</h4>
-<br>
-<b>Upcoming Events:</b>
-<ul>
-{% for event_hash in site.data.events %}
-  {% assign event = event_hash[1] %}
-  {% assign startdatecmp = event.startdate | date: "%s" %}
-  {% if startdatecmp >= sixdaysago %} 
-  <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
-  {% endif %}
-{% endfor %}
-</ul>
-
-<b>Recent Events:</b>
-<ul>
-{% for event_hash in site.data.events  %}
-  {% assign event = event_hash[1] %}
-  {% assign startdatecmp = event.startdate | date: "%s" %}
-  {% if startdatecmp < sixdaysago and startdatecmp > ninetydaysago %}
-  <li> {{TXT}}{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
-  {% endif %}
-{% endfor %}
-</ul>
-
-<br>
-
-<br>
-<h4>Upcoming Events 12:</h4>
-<br>
-IRIS-HEP team members are involved in organizing the following events:
-<ul>
-{% for event_hash in site.data.events  %}
-  {% assign event = event_hash[1] %}
-  <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - {{event.name}} </li>
-  <ul>
-      <li> <i>{{event.location}}</i> </li>
-      <li> <a href="{{event.meetingurl}}">Website</a> </li>
-  </ul>
-{% endfor %}
-</ul>
-<br>
-
-<br>
-<h4>Events month by month:</h4>
-<br>
-IRIS-HEP team members are involved in organizing the following events:
-<ul>
-{% assign yearlist = "2020, 2019, 2018, 2017, 2016" | split: ", " %}
-{% assign monthlist= "12, 11, 10, 09, 08, 07, 06, 05, 04, 03, 02, 01" | split: ", " %}
-
-{% comment %}
-Go through the list and produce a breakdown of the events in reverse 
-chronological order, grouped by months
-{% endcomment %}
-
-{% for yearidx in yearlist %}
-{% for monthidx in monthlist %}
-{% assign hdrprint = true %}
-{% for event_hash in site.data.events  %}
-  {% assign event = event_hash[1] %}
-  {% assign eventyear = event.startdate | date: "%Y" %}
-  {% assign eventmonth = event.startdate | date: "%m" %}
-  {% if eventyear == yearidx and eventmonth == monthidx %}
-  {% assign startdatecmp = event.startdate | date: "%s" %}
-  {% if hdrprint == true %}
-    <br><h5>{{event.startdate | date: "%B, %Y"}}</h5>
-    {% assign hdrprint = false %}
-  {% endif %}
-  <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
-  {% endif %}
-{% endfor %}
-{% endfor %}
-{% endfor %}
-</ul>
-<br>
-
-
-<br>
-<h4>Upcoming Events 23:</h4>
-<br>
-IRIS-HEP team members are involved in organizing the following events:
-<ul>
-{% assign event_items = site.data.events %}
-{% for event_hash in event_items  %}
-  {% assign event = event_hash[1] %}
-  {% if event.status == 'current' %}
-  <li> {{event.dates}} - {{event.name}} </li>
-  <ul>
-      <li> <i>{{event.location}}</i> </li>
-      <li> <a href="{{event.meetingurl}}">Website</a> </li>
-  </ul>
-  {% endif %}
-{% endfor %}
-</ul>
-<br>
 

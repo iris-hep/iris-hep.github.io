@@ -2,6 +2,7 @@
   
 {% include layout_header_navbar.html %}
 
+    <div id="container">
       <div class="container">
         <main role="main">
 
@@ -13,7 +14,7 @@
 </div>
 
 {% assign doProjects = 0 %}
-{% assign sorted = site.pages | sort: 'title' %}
+{% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
 {% if mypage.pagetype == 'project' %} 
 {% if mypage.focus-area contains page.short_title %}
@@ -53,51 +54,17 @@
 {% endif %}
 
 
-
-{% if doProjects ==2 %}
-<div class="container-fluid">
-  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
-
-
-<table style="width:100%">
-{% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %} 
-{% if mypage.focus-area == page.short_title %}
-<tr>
-<th><img width="40rem" src="/assets/{{mypage.image | default: "logos/Iris-hep-5-just-graphic.png"}}" alt="Card image cap"></th>
-<th>
-<b><font size="+1">{{mypage.title}}</font></b>
-<a href=/projects/{{mypage.shortname}}.html>{{mypage.blurb}}</a><br>
-</th> 
-</tr>
-{% endif %}
-{% endif %}
-{% endfor %}
-</table>
-<br>
-</div>
-{% endif %}
-
-
-
-{% assign doPresentations = 0 %}
 {% include get_pres_list.html %}
-{% for presentation in sorted_pres %}
-{% if presentation.size  > 20 %}
-{% assign item = presentation | split: "|" %}
-{% assign pres_st = item[7] | strip %}
-{% assign page_st = page.short_title | strip %}
-{% if pres_st contains page_st %}
-{% if item[0] contains '2' %}
-{% assign doPresentations = 1 %}
-{% break %}
-{% endif %}
-{% endif %}
-{% endif %}
+{% assign page_focus_area = page.short_title | strip %}
+
+{% assign pres_list = "" | split: "," %}
+{% for pres in sorted_presentations %}
+  {% if pres.focus-area contains page_focus_area %}
+    {% assign pres_list = pres_list | push: pres %}
+  {% endif %}
 {% endfor %}
 
-
-{% if doPresentations == 1 %}
+{% if pres_list.size > 0 %}
 <section class="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
@@ -105,23 +72,15 @@
 <ul>
 {% assign max_disp = 15 %}
 {% assign counter = 0 %}
-{% for presentation in sorted_pres %}
-  {% if presentation.size  > 20 %}
-    {% assign item = presentation | split: "|" %}
-    {% assign pres_st = item[7] | strip %}
-    {% assign pres_institute = item[8] | strip %}
-    {% assign page_st = page.short_title | strip %}
-    {% if pres_st contains page_st %}
-      {% if item[0] contains '2' %}
-        {% assign counter = counter | plus: 1 %}
-        <li> {{item[0] | date_to_string}} - <a href="{{item[3]}}">{{item[2]}}</a>, {{item[1]}} ({{pres_institute}}), <a href="{{item[5]}}">{{item[4]}}</a> </li>
-        {% if counter == max_disp %}
-        </ul>
-        <p>[expand]</p>
-        <ul>
-        {% endif %}
-      {% endif %}
-    {% endif %}
+{% for talk in pres_list %}
+  {% assign counter = counter | plus: 1 %}
+  {% assign member = site.data.people[talk.member].name %}
+  {% assign prettydate = talk.date | date: "%-d %b %Y" %}
+  <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{member}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+  {% if counter == max_disp %}
+    </ul>
+    <p>[expand]</p>
+    <ul>
   {% endif %}
 {% endfor %}
 </ul>
@@ -162,7 +121,7 @@
     {% else %}
       {% assign cited = "" %}
     {% endif %}
-    <li> <a href="{{ pub.link }}">{{ pub.title }}</a>, {{ pub.citation }} ({{ pub.date | date_to_string }}){{ cited }}. </li>
+    <li> {% include print_pub.html pub=pub %} </li>
     {% if counter == max_disp %}
     </ul>
     <p>[expand]</p>
@@ -201,6 +160,7 @@
         </main>
       </div>
       {% include footer.html %}
+    </div>
 
   {% include layout_analytics.html %}
   </body>

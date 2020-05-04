@@ -20,7 +20,7 @@ module Publications
   class Generator < Jekyll::Generator
     # Main entry point for Jekyll
     def generate(site)
-      @net = Net::HTTP.new('labs.inspirehep.net', 443)
+      @net = Net::HTTP.new('inspirehep.net', 443)
       @net.use_ssl = true
 
       @site = site
@@ -128,7 +128,7 @@ module Publications
       pub['date'] ||= data.dig('imprints', 0, 'date')
 
       # Normalize date (if Nil, this should fail (date required))
-      pub['date'] = Date.parse(pub['date'])
+      pub['date'] = Date.parse(pub['date']) unless pub['date'].is_a? Date
 
       pub['citation-count'] ||= data['citation_count']
 
@@ -140,7 +140,6 @@ module Publications
 
       # Build the author string
       mini_authors = join_names(pub['authors'].map { |a| a['name'] }, len: 5)
-
 
       # Build the citation string (non-author part)
       j = data.dig('publication_info', 0) # This may be nil
