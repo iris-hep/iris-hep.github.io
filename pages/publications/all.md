@@ -13,15 +13,7 @@ draft: false
 
 <ul>
   {% for pub in sorted_publications %}
-    {% if pub.citation-count and pub.citation-count > 0 %}
-      {% assign cited = " [" | append: pub.citation-count | append: " citations]" %}
-      {% if pub.inspire-id %}
-        {% capture cited %} <a href='http://inspirehep.net/record/{{pub.inspire-id}}/citations'>{{cited}}</a>{% endcapture %}
-      {% endif %}
-    {% else %}
-      {% assign cited = "" %}
-    {% endif %}
-    <li> <a href="{{ pub.link }}">{{ pub.title }}</a>, {{ pub.citation }} ({{ pub.date | date_to_string }}){{ cited }}. </li>
+    <li> {% include print_pub.html pub=pub %} </li>
   {% endfor %}
 </ul>
 

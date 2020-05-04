@@ -6,6 +6,22 @@ institution: New York University
 website: https://johannbrehmer.github.io
 photo: /assets/images/team/Johann-Brehmer.jpg
 presentations:
+  - title: "Mining for Dark Matter substructure:  Learning from lenses without a likelihood"
+    date: 2020-02-17
+    url: https://ithems.riken.jp/ja/events/mining-for-dark-matter-substructure-learning-from-lenses-without-a-likelihood
+    meeting: Dark Matter Working Group seminar
+    meetingurl:
+    location: RIKEN, Tokyo, Japan
+    focus-area: as
+    project: madminer
+  - title: The frontier of simulation-based inference
+    date: 2020-02-05
+    url: https://agenda.hepl.phys.nagoya-u.ac.jp/indico/contributionDisplay.py?sessionId=1&contribId=6&confId=1336
+    meeting: Workshop on Machine Learning at the LHC
+    meetingurl: https://agenda.hepl.phys.nagoya-u.ac.jp/indico/conferenceDisplay.py?confId=1336
+    location: Nagoya University, Japan
+    focus-area: as
+    project: madminer
   - title: Normalizing flows and the likelihood ratio trick in particle physics
     date: 2020-01-06
     url:
