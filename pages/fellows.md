@@ -108,5 +108,13 @@ The main goal of this work will be to develop a common test suite that runs the 
 
 - **Reproducible, large-scale SkyhookDM experiments**. SkyhookDM is a storage system that allows users to transparently grow and shrink their data storage and processing needs as demands change. SkyhookDM utilizes and extends the Ceph distributed object storage platform with customized C++ "object classes" that enable database operations such as `SELECT`, `PROJECT`, `AGGREGATE` to be offloaded directly into the object storage layer, allowing applications to efficiently query multi-dimensional arrays (HDF5, ROOT, among other formats are supported). The aim of this project is to implement and automate large-scale tests on CloudLab, GCP, AWS, and MS Azure, by benchmarking SkyhookDM at the 10's of terabyte scale over the various supported data formats.
 
-
+- **Graph Methods for Particle Tracking**:
+Particle track reconstruction is a critical software component for meeting the physics goals of the HL-LHC. 
+This project uses Graph based learning methods to address this problem; the overall goal is to do accelerated 
+track-seeding at the trigger level by using Graph Neural Networks to construct tracklets in the ATLAS/CMS pixel
+ detectors and implementing the algorithms on dedicated FPGAs. There are two areas within this work that a 
+fellow could contribute to (and this project could support two separate fellows depending on interest): 
+The first is on the Machine Learning side by implementing, training, and evaluating additional GNN architectures
+ and graph construction methods. The second is on the hardware and acceleration side by working on translating 
+the graph components of these algorithms efficiently onto FPGAs.
 
