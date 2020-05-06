@@ -90,4 +90,34 @@ presentations:
     meetingurl: http://chep2019.org/
     location: Adelaide, Australia
     focus-area: osglhc
-    
+  - title: "perfSONAR Analytics"
+    date: 2019-12-03
+    url: https://indico.cern.ch/event/823341/contributions/3645036/attachments/1955228/3247468/perfSONAR_Analytics.pdf
+    meeting: ATLAS Software and Computing Week #64
+    meetingurl: https://indico.cern.ch/event/823341/
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+  - title: "Network Function Virtualization Report and Next Steps for Experiments"
+    date: 2020-01-14
+    url: https://indico.cern.ch/event/828520/contributions/3699233/attachments/1968544/3274004/Network-Discussion-LHCOPN_LHCONE-2020.pdf
+    meeting: LHCONE/LHCOPN Meeting
+    meetingurl: https://indico.cern.ch/event/828520/
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+  - title: "LHCONE/LHCOPN Meeting Summary"
+    date: 2020-01-15
+    url: https://indico.cern.ch/event/813757/contributions/3698521/attachments/1969608/3276108/LHCOPNE-20200114-CERN-meeting-report-v1.0.pptx_1.pdf
+    meeting: Grid Deployment Board
+    meetingurl: https://indico.cern.ch/event/813757/ 
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+  - title: "OSG Network Monitoring (poster)"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331193/23_-_IRIS-HEP_LHC-OSG_Network_Monitoring.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/ 
+    location: Princeton, New Jersey, US
+    focus-area: osglhc
+
+
+      

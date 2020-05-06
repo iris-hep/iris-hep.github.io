@@ -20,7 +20,7 @@ module Publications
   class Generator < Jekyll::Generator
     # Main entry point for Jekyll
     def generate(site)
-      @net = Net::HTTP.new('labs.inspirehep.net', 443)
+      @net = Net::HTTP.new('inspirehep.net', 443)
       @net.use_ssl = true
 
       @site = site
@@ -54,13 +54,13 @@ module Publications
 
     # Setup a publication - adds/fixes focus-area and project
     def prepare(pub, name)
-      begin
-        force_array(pub, 'project') if pub.key? 'project'
-      rescue NoMethodError
-        puts "Preparing #{name} publication: #{pub}"
-        raise
-      end
-      prepare_focus_area(pub, name) unless pub.key? 'focus-area'
+      pub['focus-area'] ||= []
+      pub['project'] ||= []
+
+      force_array(pub, 'project')
+
+      # Looks up focus areas from projects
+      prepare_focus_area(pub, name) if pub['focus-area'].empty?
 
       msg = 'You must have a project or focus-area in every publication'
       raise StandardError, msg unless pub.key? 'focus-area'
@@ -72,18 +72,20 @@ module Publications
     # Verify that an item is an Array
     def force_array(pub, name)
       # Make sure the projects are in a list
-      pub[name] = [pub[name]] unless pub[name].is_a? Array
+      pub[name] = [] if pub[name].nil?
+      pub[name] = [pub[name]] unless pub[name].respond_to? :each
     end
 
     # Add focus areas based on projects
     def prepare_focus_area(pub, name)
-      pub['focus-area'] = []
       pub['project'].each do |p|
         pg = @site.pages.detect { |page| page.data['shortname'] == p }
         msg = "Project #{pub['project']} missing! Cannot find focus-area for #{name}."
         raise StandardError, msg unless pg
 
-        pub['focus-area'] << pg.data['focus-area']
+        new_fas = pg.data['focus-area']
+        new_fas = [new_fas] if new_fas.is_a? String
+        pub['focus-area'] += new_fas unless new_fas.nil?
       end
 
       # Don't list the same focus area multiple times
@@ -124,6 +126,11 @@ module Publications
 
       # This *only* sets data if the previous line is nil
       pub['date'] ||= data.dig('imprints', 0, 'date')
+
+      # Normalize date (if Nil, this should fail (date required))
+      pub['date'] = Date.parse(pub['date']) unless pub['date'].is_a? Date
+
+      pub['citation-count'] ||= data['citation_count']
 
       # Make the author list, for eventual linking to author pages
       authors = data['authors'].map do |a|

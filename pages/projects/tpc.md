@@ -6,7 +6,9 @@ shortname: tpc
 pagetype: project
 image: logos/tpc.png
 blurb: Envisioning a new way to move LHC data
-focus-area: doma,osglhc
+focus-area: 
+ - doma
+ - osglhc
 team:
  - bbockelm
  - efajardo

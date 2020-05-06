@@ -1,0 +1,14 @@
+    {%- if include.pub.citation-count and include.pub.citation-count > 0 -%}
+      {%- assign cited = " [" | append: include.pub.citation-count | append: " citation" -%}
+      {%- if include.pub.citation-count > 1 -%}
+        {%- assign cited = cited | append: "s]" -%}
+      {%- else -%}
+        {%- assign cited = cited | append: "]" -%}
+      {%- endif -%}
+      {%- if include.pub.inspire-id -%}
+        {%- capture cited %} <a href='http://inspirehep.net/record/{{include.pub.inspire-id}}/citations'>{{cited}}</a>{% endcapture -%}
+      {%- endif -%}
+    {%- else -%}
+      {%- assign cited = "" -%}
+    {%- endif -%}
+    <a href="{{ include.pub.link }}">{{ include.pub.title }}</a>, {{ include.pub.citation }} ({{ include.pub.date | date_to_string }}){{ cited }}.

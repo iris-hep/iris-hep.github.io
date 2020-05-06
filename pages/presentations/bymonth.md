@@ -14,12 +14,13 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
 -->
 
 <h2>Presentations by the IRIS-HEP team</h2>
+{% assign prescount = 0 %}
 
 <ul>
 {% assign prev_header = "" %}
-{% for row in sorted_pres %}
-  {% assign pres = row | split: "|" %}
-  {% assign talk_date = pres[0] | date: "%B, %Y" %}
+{% for talk in sorted_presentations %}
+  {% assign member = site.data.people[talk.member].name %}
+  {% assign talk_date = talk.date | date: "%B, %Y" %}
   {% if prev_header != talk_date %}
 </ul>
 <h4> {{ talk_date }} </h4>
@@ -27,6 +28,10 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
     {% assign prev_header =  talk_date %}
   {% endif %}
 
-  <li> {{pres[0]}} - <a href="{{pres[3]}}">"{{pres[2]}}"</a>, {{pres[1]}}, <a href="{{pres[5]}}">{{pres[4]}}</a></li>
+  {% assign prettydate = talk.date | date: "%-d %b %Y" %}
+  <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{member}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+  {% assign prescount = prescount | plus: "1" %}
 {% endfor %}
 </ul>
+
+Total presentations: {{ prescount }}.

@@ -12,9 +12,9 @@ module Checks
       @site.data['people'].each do |name, person_hash|
         presentations = person_hash['presentations']
 
-        presentations&.each_with_index do |pres_array, index|
+        presentations&.each_with_index do |pres_hash, index|
           msg = "presentation ##{index} in _data/people/#{name}.yml"
-          presentation = Record.new(msg, pres_array)
+          presentation = Record.new(msg, pres_hash)
 
           presentation.key 'title', :nonempty
           presentation.key 'date', :nonempty, :date
@@ -26,6 +26,9 @@ module Checks
           presentation.key 'project', :optional
 
           presentation.print_warnings
+
+          # Add the member shortname to every presentation
+          presentations[index]['member'] = name
         end
       end
     end
