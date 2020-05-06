@@ -26,7 +26,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/871092/
     url: https://indico.cern.ch/event/871092/contributions/3673777/attachments/1976291/3289494/20200127_dcraik_irishep_v2.pdf
     focus-area: ia
-  - title: Allen: a GPU trigger for LHCb
+  - title: "Allen: a GPU trigger for LHCb"
     date: 2020-02-27
     meeting: IRIS-HEP Poster Session
     meetingurl: https://indico.cern.ch/event/894127/
