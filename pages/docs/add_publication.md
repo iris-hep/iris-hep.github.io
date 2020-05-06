@@ -46,7 +46,7 @@ If you want to put a publication in that is not in Inspire, these are the requir
 ```yaml
 title: My fantastic publication
 link: https://www.cern.ch
-date: Dec 10, 2018
+date: 2018-12-10
 citation: D. Lange et. al., Nature *10* 100 (2018)
 focus-area: ia
 project: some-project

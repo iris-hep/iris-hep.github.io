@@ -160,10 +160,66 @@ presentations:
     meetingurl: https://conference.ippp.dur.ac.uk/event/875/
     location: IPPP Durham
     focus-area: as, core
+  - title: Machine Learning for Effective Field Theories
+    date: 2020-03-03
+    url: https://indico.cern.ch/event/817757/contributions/3712508/
+    meeting: "PREFIT20: PRecision Effective FIeld Theory School"
+    meetingurl: https://indico.cern.ch/event/817757/overview
+    location:  DESY
+    focus-area: as, ia, core
+  - title: Machine Learning and Physics 
+    date: 2020-03-05
+    url: https://indico.desy.de/indico/event/25451/
+    meeting: Special QU-PCD Colloquium at DESY (CANCELED due to COVID19)
+    meetingurl: https://indico.desy.de/indico/event/25451/
+    location: DESY
+    focus-area: as, ia
   - title: Reusable workflows in particle physics
     date: 2020-03-16
-    url: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
+    url: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting
     meeting: Workshop on Accelerating Scientific Discovery through Advanced and Automated Workflows
-    meetingurl: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
+    meetingurl: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting 
     location: National Academy of Sciences
+    focus-area: as, core
+  - title: "Future Analysis Systems"
+    date: 2020-03-17
+    url: https://indico.cern.ch/event/896935/
+    meeting: "Joint US ATLAS - US CMS Meeting on Facility R&D"
+    meetingurl: https://indico.cern.ch/event/896935/
+    location: Remote
+    focus-area: as, core
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-05-07
+    url: https://web.mit.edu/physics/events/colloquia.html
+    meeting: MIT Physics Department Colloquium
+    meetingurl: https://web.mit.edu/physics/events/colloquia.html
+    location: Irvine, CA (Virtual)
+    focus-area: as, ia
+  - title: "Reusable Workflows, active learning, and simulation-based inference"
+    date: 2020-06-10
+    url: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
+    meeting: UCI Symposium on Reproducibility in Machine Learning
+    meetingurl: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
+    location: Irvine, CA (Virtual)
+    focus-area: as, ia, core
+  - title: "Likelihood-based models for Simulation-based Inference"
+    date: 2020-07-17
+    url: https://invertibleworkshop.github.io
+    meeting: ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models
+    meetingurl: https://invertibleworkshop.github.io
+    location: Vienna, Austria (Virtual)
+    focus-area: as, ia
+  - title: "Graphs, Trees, and Sets: structured data in physics"
+    date: 2020-07-17
+    url: https://invertibleworkshop.github.io
+    meeting: ICML Workshop on Graph Representation Learning
+    meetingurl: https://invertibleworkshop.github.io
+    location: Vienna, Austria (Virtual)
+    focus-area: as, ia
+  - title: "Lectures on Statistics"
+    date: 2020-08-10
+    url: https://indico.fnal.gov/event/22840/
+    meeting: 15th joint Fermilab-CERN Hadron Collider Summer School
+    meetingurl: https://indico.fnal.gov/event/22840/
+    location: Fermilab (Virtual)
     focus-area: as, core

@@ -19,3 +19,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/813325
     location: Mexico City, Mexico
     focus-area: ia
+  - title: Update on mkFit developments
+    date: 2019-12-16
+    url: https://indico.cern.ch/event/869552/contributions/3669454
+    meeting: CMS Tracking POG Meeting
+    meetingurl: https://indico.cern.ch/event/869552
+    location: CERN
+    focus-area: ia

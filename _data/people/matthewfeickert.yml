@@ -60,3 +60,17 @@ presentations:
     meetingurl: https://indico.cern.ch/event/863729/
     location: Vidyo
     focus-area: as
+  - title: "pyhf: Pure Python Implementation of HistFactory"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3334540/10_-_IRIS-HEP-2020-poster-session-pyhf.pdf
+    meeting: IRIS-HEP Poster Session 2020
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, U.S.A.
+    focus-area: as
+  - title: "pyhf: A Pure Python Statistical Fitting Library with Tensors and Autograd"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/897086/attachments/2001484/3341223/Feickert_pyhf-NSF-Review-IRIS-HEP_2020-02-27.pdf
+    meeting: IRIS-HEP Postdoc Presentations
+    meetingurl: https://indico.cern.ch/event/897086/
+    location: Princeton, U.S.A.
+    focus-area: as
