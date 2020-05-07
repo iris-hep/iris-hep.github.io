@@ -26,3 +26,16 @@ presentations:
     meetingurl: https://indico.cern.ch/event/871092/
     url: https://indico.cern.ch/event/871092/contributions/3673777/attachments/1976291/3289494/20200127_dcraik_irishep_v2.pdf
     focus-area: ia
+  - title: "Allen: a GPU trigger for LHCb"
+    date: 2020-02-27
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, NJ
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331184/13_-_iris-hep-allen-dcraik-40-30.pdf
+    focus-area: ia
+  - title: Autoencoders for Compression and Simulation in Particle Physics
+    date: 2020-04-26
+    meeting: International Conference on Learning Representations 2020
+    meetingurl: https://iclr.cc/virtual/workshops_1.html
+    url: https://slideslive.com/38926198/autoencoders-for-compression-and-simulation-in-particle-physics
+    focus-area: ia
