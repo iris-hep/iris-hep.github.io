@@ -137,4 +137,17 @@ presentations:
     meeting: "2020 NSF CSSI PI MEETING"
     focus-area: management
     location: Seattle, WA
-    
+  - title: "IRIS-HEP: The Year 3 Program"
+    date: 2020-04-30
+    url: https://indico.cern.ch/event/914348/contributions/3844844/attachments/2030393/3398156/2020-04-30_-_CMS_PET_Meeting.pdf
+    meetingurl: https://indico.cern.ch/event/914348/
+    meeting: "US CMS IRIS-HEP Year 3 Program"
+    focus-area: management
+    location: Virtual
+  - title: "hep_tables: An Introduction"
+    date: 2020-05-08
+    url: https://zenodo.org/record/3818031#.XrXbwjiSn-g
+    meetingurl: https://indico.cern.ch/event/917018/
+    meeting: "Coffea Developers Meeting"
+    focus-area: as
+    location: Virtual
