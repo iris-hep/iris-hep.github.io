@@ -34,6 +34,7 @@ jobs:
 
     - name: Install apt requirements
       run: |
+        sudo apt-get update
         sudo apt-get install libxslt-dev libxml2-dev
         gem install bundler
 
