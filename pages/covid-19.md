@@ -45,15 +45,17 @@ examples of our activities include:
     April Meeting entitled ["Response of Physics to the Coronavirus Pandemic"](http://meetings.aps.org/Meeting/APR20/Session/Q08).
 
   * Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim
-    Pivarski are contributing the software for a patient pressure and 
+    Pivarski are contributing the software for the 
+[Princeton Open Ventilation Monitor](https://ovm.princeton.edu/) system, 
+    a patient pressure and 
     airflow monitoring system for
     ventilators. The system allows up to 20 patients to be monitored remotely 
     by a nurse in a COVID-19 field hospital, with relevant alarms. This 
     outreach activity is being done in collaboration with 
-    [Penn Medicine](https://www.pennmedicine.org/) and a number of other
+    the local multi-hospital healthcare system and a number of other
     Princeton Physics, Mechanical Engineering and Neuroscience faculty. 
     The system includes data analysis algorithms, visualization and data 
-    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
+    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>) This outreach activity has also spawned a separately funded research activity ([PHY-2031509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031509&HistoricalAwards=false) by NSF.
 
 <center>
 <a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
