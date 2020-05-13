@@ -24,7 +24,7 @@ IRIS-HEP is composed of the following areas. The first three are the main develo
 | Innovative Algorithms | [Info](ia) | [May 2019](https://indico.cern.ch/event/818460/contributions/3418066/attachments/1840620/3022159/InnovativeAlgorithms_May_2019_3.pdf) |
 | Analysis Systems | [Info](as) | [April, 2019](https://indico.cern.ch/event/809187/contributions/3371163/attachments/1827920/2992539/IRIS_AS_overview_for_NSF-5.pdf) |
 | Data Organization, Management, and Acess (DOMA) | [Info](doma) | [July, 2019](https://indico.cern.ch/event/834056/contributions/3495279/attachments/1877464/3092137/IRIS-HEP-DOMA-NSF.pdf)|
-| Software Sustainability Core | [Info](ssc) | Scheduled |
+| Software Sustainability Core | [Info](ssc) | [October, 2019](https://indico.cern.ch/event/846091/contributions/3553452/attachments/1921731/3179258/IRIS-HEP_NSF_SSC_9Oct_2019.pdf) |
 | Scalable Systems Laboratory | [Info](ssl) | [August, 2019](https://indico.cern.ch/event/839481/contributions/3521577/attachments/1893314/3122869/2019.08.14_IRIS-HEP_SSL_for_NSF.pdf) |
 | Open Science Grid (OSG-LHC) | [Info](osglhc) | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) |
 | Blueprint | - | [Sept 18, 2019](https://indico.cern.ch/event/846090/contributions/3553448/attachments/1910668/3157053/NSF_Area_Report-Blueprint_Activity.pdf) |
