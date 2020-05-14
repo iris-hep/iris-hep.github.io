@@ -13,17 +13,21 @@ examples of our activities include:
 
 ## Current Activities
   
-  * UCSD Professor Frank Wuerthwein, project scientist Igor Sfiligoi and
-    others from the [Open Science Grid](https://opensciencegrid.org/) team 
-    are working with the [Folding@Home](https://foldingathome.org/) team
-    and Greg Bowman, the PI of Folding@Home, to understand how OSG can best 
-    support their work related the COVID-19 challenges. More generally, the
-    sites in the OSG Consortium are providing compute capacity for COVID-19 related workflows.
-    The following graph shows the ramp-up in COVID-19 CPU hours over the course of a week
-    in early April:
+  * UNL Research Professor Derek Weitzel and others from the
+    [Open Science Grid](https://opensciencegrid.org/) team are working with resource providers 
+    to enable and prioritize COVID-19 related workflows. New providers are joining the OSG to increase capacity for 
+    COVID-19 research.  Usage of the OSG by COVID-19 workflows is acocunted on [GRACC](https://gracc.opensciencegrid.org/dashboard/db/covid-19-research), OSG's accounting service. Over 38 institutions have contributed to OSG's COVID-19
+    effort. Multiple COVID-19 workflows are utilizing the OSG, with more starting every week.
 
 <center>
-<img width="60%" src="/assets/images/20200412-OSG-COVID-19-Hours.png">
+{% include figure.html
+    url="https://gracc.opensciencegrid.org/dashboard/db/covid-19-research"
+    class="figure"
+    file="/assets/images/20200514-OSG-COVID-19-Hours.png"
+    alt="OSG Computing Hours by Site"
+    caption="OSG COVID-19 Computing Hours contributed by Site.  Over 38 Institutions have contributed to OSG's COVID-19 research efforts."
+    img-style="width:75%"
+%}
 </center>
 
   * University of Illinois at Urbana-Champaign postdoc Matthew Feickert has
