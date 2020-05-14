@@ -2,6 +2,7 @@
 permalink: /docs/newteammember.html
 layout: default
 title: Information for new IRIS-HEP team members
+pagetype: doc
 ---
 
 ### Things new IRIS-HEP team members need to do
@@ -13,8 +14,8 @@ not mentioned here, or missing/unclear information, please [contribute an improv
 #### IRIS-HEP website
 
 * Request membership in the [IRIS-HEP GitHub organization][].
-* Add a photo named `First-Last.jpg` or `.png` to the [assets/team folder][]. It should be 320x240 pixels.
-* Add a "`<your github username>.md`" file to the [people folder in the website repository][people]. Here is an example:
+* Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team folder][]. It should be 320x240 pixels.
+* Add a "`<your github username>.yml`" file to the [people folder in the website repository][people]. Here is an example:
 
 ```yml
 name: <Your name>
@@ -26,28 +27,50 @@ website: <Optional, your website>
 photo: /assets/images/team/<First name>-<Last name>.jpg
 presentations:
   - title: How to make green eggs and ham
-    date: 13 Sep 2018
-    url: http://cern.ch/
+    date: 2018-09-10
+    url: https://indico.cern.ch/event/697389/contributions/3062046/attachments/1712602/2761531/ROOT2018-Union.pdf
     meeting: ROOT 2018 Users Workshop
-    meetingurl: http://cnn.com
+    meetingurl: https://cern.ch/root2018
     location: Sarajevo
 ```
 
-* Add your GitHub username to the proper [university file][].
+* Add your GitHub username to the proper [university file][]. Note that you will *not* show up in the full team page if you are not in a university file!
 
 #### Communication
 
 * Have an existing team member add your email address to the [IRIS-HEP Slack][] team.
 * Subscribe to the relevant [Google mailing lists][], at the very least "IRIS-HEP Full Team" and "IRIS-HEP Announcements".
 
-#### Meetings
-
-* The schedule for the meetings is a google doc, request that link from a team member.
-
-[contribute an improvement]:    https://github.com/iris-hep/iris-hep.github.io/pulls
+[contribute an improvement]:    https://github.com/iris-hep/iris-hep.github.io-source/pulls
 [IRIS-HEP GitHub organization]: https://github.com/iris-hep
-[assets/team folder]:           https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team
-[people]:                       https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/people
-[university file]:              https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/universities
+[assets/images/team folder]:    https://github.com/iris-hep/iris-hep.github.io-source/tree/master/assets/images/team
+[people]:                       https://github.com/iris-hep/iris-hep.github.io-source/tree/master/_data/people
+[university file]:              https://github.com/iris-hep/iris-hep.github.io-source/tree/master/_data/universities
 [IRIS-HEP Slack]:               https://iris-hep.slack.com
 [Google mailing lists]:         https://groups.google.com/a/iris-hep.org
+
+#### Presentations
+
+There is a section for presentations in the file you created above. We would
+like to keep track of the presentations made by IRIS-HEP team members, with
+the following criteria:
+
+  * Only presentations related to IRIS-HEP itself should be included.
+  * Any presentation in a "public" meeting should be included. This includes
+    presentations made in experiment meetings, even if they are protected such
+    that the presentation and meeting links are not world visible.
+  * Presentations in the IRIS-HEP topical meetings should be included.
+  * Minor presentations in internal "working" meetings of IRIS-HEP do not
+    need to be added.
+  * Presentations, lectures, etc. as part of training events should be included.
+  * Posters at workshops and conferences can also be included. You can add "(poster)" at the end of the title. Include a link to a pdf of the poster. 
+
+The meaning of the fields is the following:
+
+  * title - the title of the talk: you made need to place it in double quotes, if certain characters like a colon (":") are included in the title
+  * date - the date on which the presentation was made, in the numeric format "YYYY-MM-DD"
+  * url - this should be a direct URL to the presentation file (e.g. pdf)
+  * meeting - the name of the meeting
+  * meetingurl - the URL for the meeting in which the presentation was made 
+  * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can just omit this.
+  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc] 

@@ -1,17 +1,44 @@
 ---
+permalink: /test.html
 layout: default
-title: Test Page Alpha
+title: Test Page
 ---
-<div class="blurb">
-    <h1>Hello Alpha World!</h1>
-    <p>Test drive #2</p>
-</div><!-- /.blurb -->
 
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src=".../100px180/" alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
+# Test page
+
+  * Princeton postdoc Savannah Thais is organizing a session at the APS
+    April meeting entitled "Physics Response to COVID-19".
+
+  * Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim
+    Pivarski are contributing the software for a patient pressure and
+    airflow monitoring system for
+    ventilators. The system allows up to 20 patients to be monitored remotely
+    by a nurse in a COVID-19 field hospital, with relevant alarms. This
+    outreach activity is being done in collaboration with
+    [Penn Medicine](https://www.pennmedicine.org/) and a number of other
+    Princeton Physics, Mechanical Engineering and Neuroscience faculty.
+    The system includes data analysis algorithms, visualization and data
+    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
+
+<center>
+<div style="width:40%; float: left" >
+<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
 </div>
+
+<div style="width:40%; float: right" >
+<iframe width="487" height="274" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</center>
+
+  * A number of IRIS-HEP researchers were involved in setting up the
+    [Science Responds](https://science-responds.org/) to make connections 
+    that enable (non-medical) researchers to contribute to understanding 
+    and combating the global COVID-19 problem and/or its economic and 
+    societal impacts. This website provides resources and information
+    for such researchers. An associated Slack workspace and Zoom
+    meetings allow researchers to interact. We have also recently begun
+    organizing [talks and discussions](https://indico.cern.ch/category/12245/) 
+    with non-Physics researchers. Some of these are being recorded and
+    made available in a [Youtube channel](https://www.youtube.com/playlist?list=PLeZvkLnDkqbQ1qIE7PA741dQUb1zw6FBd).
+
+

@@ -21,7 +21,10 @@
   flex-wrap: wrap; // allow us to do the line break for collapsing content
   align-items: center;
   justify-content: space-between; // space out brand from logo
-  padding: $navbar-padding-y $navbar-padding-x;
+  padding: 0 $navbar-padding-y 0 $navbar-padding-x;
+  //margin: 100px 100px;
+  //test margin-top: 250px;
+  //test background-color: $red;
 
   // Because flex properties aren't inherited, we need to redeclare these first
   // few properties so that content nested within behave properly.
@@ -64,6 +67,7 @@
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  text-align: right;
 
   .nav-link {
     padding-right: 0;
@@ -204,12 +208,14 @@
     }
   }
 
+   // the following affects the menu item titles in the navbar itself
   .navbar-nav {
     .nav-link {
       color: $navbar-light-color;
 
       @include hover-focus {
         color: $navbar-light-hover-color;
+        text-decoration: underline;
       }
 
       &.disabled {
@@ -248,6 +254,16 @@
 
 // White links against a dark background
 .navbar-dark {
+  @include gradient-x($navbar-dark-active-color, $primary, 0%, 100%);
+  //border-bottom-color: $iris-accent-100;
+  //border-bottom-color: lighten($iris-400, 25%);
+  border-bottom-color: $iris-100;
+  //border-bottom-color: lighten($iris-100, 15%);
+  //border-bottom-color: lighten($iris-accent-100, 15%);
+  //border-bottom-color:   $iris-accent-100;
+  //border-bottom-color: gradient-y($iris-gray, $primary, 0%, 100%);
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
   .navbar-brand {
     color: $navbar-dark-active-color;
 

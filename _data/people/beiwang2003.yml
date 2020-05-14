@@ -6,14 +6,15 @@ institution: Princeton University
 website:
 photo: /assets/images/team/Bei-Wang.jpg
 presentations:
-  - title: How to make green eggs and ham
-    date: 13 Sep 2018
-    url: http://cern.ch/
-    meeting: ROOT 2018 Users Workshop
-    meetingurl: http://cnn.com
-    location: Sarajevo
-  - title: Random Churning
-    date: 12 Sep 2018
-    url: http://iris-hep.org/
-    meeting: CHEP 2018 
-    meetingurl: http://diana-hep.org
+  - title: Floating Point Arithmetic Is Not Real
+    date: 2019-07-24
+    url: https://indico.cern.ch/event/814979/contributions/3401175/attachments/1831476/3107964/FloatingPointArithmetic.pdf
+    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+    meetingurl: https://indico.cern.ch/event/814979
+    location: Princeton University
+  - title: Introduction to Performance Tuning & Optimization Tools
+    date: 2019-07-25
+    url: https://indico.cern.ch/event/814979/contributions/3401196/attachments/1831466/3109819/PerformanceTools.pdf
+    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+    meetingurl: https://indico.cern.ch/event/814979
+    location: Princeton University

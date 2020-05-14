@@ -3,19 +3,42 @@ shortname: msneubauer
 title: Blueprint Coordinator
 active: green
 institution: University of Illinois at Urbana-Champaign
-website: https://physics.illinois.edu/people/directory/profile/msn
+website: http://msneubauer.github.io
 photo: /assets/images/team/Mark-Neubauer.png
 presentations:
-  - title: How to make green eggs and ham
-    date: 13 Sep 2018
-    url: http://cern.ch/
-    meeting: ROOT 2018 Users Workshop
-    meetingurl: http://cnn.com
-    location: Sarajevo
-  - title: Random Churning
-    date: 12 Sep 2018
-    url: http://iris-hep.org/
-    meeting: CHEP 2018 
-    meetingurl: http://diana-hep.org
-
+  - title: Design Roadmap for Future Collaborations
+    date: 2018-10-19
+    url: http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST/agenda.html
+    meeting: Deep Learning for Multimessenger Astrophysics Real-time Discovery at Scale
+    meetingurl: http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST
+    location: NCSA
+    focus-area: as, ia
+  - title: Scalable Cyberinfrastructure for Artificial Intelligence and Likelihood-Free Inference
+    date: 2019-04-05
+    url: http://www.largefacilitiesworkshop.com/agenda-3/
+    meeting: NSF Large Facilities Workshop
+    meetingurl: https://www.largefacilitiesworkshop.com/19workshop/
+    location: TACC
+    focus-area: as, ia
+  - title: Deep Learning for Higgs Boson Identification and Searches for New Physics at the Large Hadron Collider
+    date: 2019-06-04
+    url: http://bluewaterssymposium2019.sched.com/event/NRlw/physics-mark-neubauer-university-of-illinois-at-urbana-champaign-deep-learning-for-higgs-boson-identification-and-searches-for-new-physics-at-the-large-hadron-collider
+    meeting: Blue Waters Symposium for Petascale Science and Beyond
+    meetingurl: https://bluewaters.ncsa.illinois.edu/blue-waters-symposium-2019
+    location: Sunriver, OR
+    focus-area: as, ia
+  - title: IRIS-HEP Blueprint Concepts and Process
+    date: 2019-06-21
+    url: https://indico.cern.ch/event/820946/contributions/3461588/attachments/1866577/3069573/IRIS-HEP_BluePrint_AS_SSL.pdf
+    meeting: Blueprint Meeting on Analysis Systems on Scalable Platforms
+    meetingurl: https://indico.cern.ch/event/820946/
+    location: NYU
+    focus-area: as, ssl
+  - title: The IRIS-HEP Blueprint Concepts and Process
+    date: 2019-09-10
+    url: https://indico.cern.ch/event/822126/contributions/3500165/attachments/1905471/3146855/IRIS-HEP_BluePrint_FML.pdf
+    meeting: Blueprint Meeting on Fast Machine Learning and Inference
+    meetingurl: https://indico.cern.ch/event/822126/
+    location: FNAL
+    focus-area: as
 

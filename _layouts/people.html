@@ -1,0 +1,26 @@
+<!doctype html>
+
+{% include layout_header_navbar.html %}
+
+    <div id="container">
+      <div class="container">
+        <main role="main">
+          <div class="presentation toppagelinks">
+            <div class="inner">
+              Team:
+              <a href="/about/team.html">by institution</a>
+              &#8226;
+              <a href="/about/team_alphabetical.html">by name</a>.
+	    </div>
+          </div>
+          
+          {{ content }}
+        </main>
+      </div>
+      {% include footer.html %}
+    </div>
+
+  {% include layout_analytics.html %}
+
+  </body>
+</html>

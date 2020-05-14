@@ -6,16 +6,157 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
-  - title: How to make green eggs and ham
-    date: 13 Sep 2018
-    url: http://cern.ch/
-    meeting: ROOT 2018 Users Workshop
-    meetingurl: http://cnn.com
-    location: Sarajevo
-  - title: Random Churning
-    date: 12 Sep 2018
-    url: http://iris-hep.org/
-    meeting: CHEP 2018 
-    meetingurl: http://diana-hep.org
-
-
+  - title: "Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2020-01-27
+    url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
+    meeting: NRP Engagement webinar
+    meetingurl: https://spaces.at.internet2.edu/display/NRPWG/National+Research+Platform+%28NRP%29+Space
+    location: WebEx, US
+  - title: "Running a GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2019-12-04
+    url: https://www.slideshare.net/FrankWuerthwein/building-and-running-the-cloud-gpu-vacuum-cleaner
+    meeting: Middleware and Grid Interagency Cooperation (MAGIC)  meeting
+    meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC
+    location: WebEx, US
+  - title: "Running a GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2019-11-19
+    url: https://www.slideshare.net/igor_sfiligoi/running-a-gpu-burst-for-multimessenger-astrophysics-with-icecube-across-all-available-gpus-in-the-cloud
+    meeting: SC 19 Multiple Booths
+    meetingurl: https://sc19.supercomputing.org
+    location: Denver, CO, USA
+  - title: "OSG News"
+    date: 2019-10-10
+    url: https://indico.fnal.gov/event/21410/contribution/2/material/slides/0.pdf
+    meeting: OSG Council Face to Face meeting
+    focus-area: osglhc
+    meetingurl: https://indico.fnal.gov/event/21410/
+  - title: "Introduction to OSG and OSG Participants"
+    date: 2019-09-23
+    url: Not available online
+    meeting: 2019 NSF CC* and CICI PI Pre-Workshop Breakout on OSG
+    focus-area: osglhc
+    meetingurl: https://www.thequilt.net/public-event/2019-nsf-cc-and-cici-pi-pre-workshop-breakouts/#osgd  
+  - title: "Advancing Open Science through distributed High Througput Computing - The OSG Data Federation"
+    date: 2019-09-18
+    url: http://grp-workshop-2019.ucsd.edu/presentations/4_WUERTHWEIN-GRP-2019-OSG.pdf
+    meeting: Global Research Platform Workshop
+    focus-area: osglhc
+    meetingurl: http://grp-workshop-2019.ucsd.edu  
+  - title: "OSG XCache Discussion"
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/sessions/323302/attachments/1907227/3150065/irishep-retreatSeptember2019.pdf
+    meeting: IRIS-HEP retreat
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/840472/
+  - title: "Advancing Open Science through distributed High Througput Computing"
+    date: 2019-09-11
+    url: https://indico.cern.ch/event/739882/contributions/3520011/attachments/1906491/3148700/gdbSeptember2019.pdf
+    meeting: WLCG Grid Deployment Board Meeting 
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/739882/
+  - title: "OSG - IRISHEP Advisory Panel"
+    date: 2019-09-09
+    url: https://indico.cern.ch/event/840467/contributions/3545009/attachments/1904432/3144878/irishep-AdvisoryBoard-September2019.pdf
+    meeting: IRIS-HEP Advisory Panel Meeting #1
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/840467/
+  - title: "OSG - Steering Board"
+    date: 2019-09-03
+    url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/287759/attachments/1901941/3139925/irishep-steeringBoard-September3-2019.pdf
+    meeting: IRIS-HEP Steering Board Meeting #3
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/809178/
+  - title: "XCache Initiatives and Experiences"
+    date: 2019-07-08
+    meeting: "pre-GDB meeting on XCache"
+    url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune8th2019.pptx
+  - title: "Reducing Disk Needs with a Data Lake Concept"
+    date: 2019-07-05
+    meeting: "ECoM2x meeting CMS"
+    url: http://uaf-8.t2.ucsd.edu/~fkw/ecom2xJuly5th2019.pptx
+  - title: "Advancing Open Science through distributed High Throughput Computing"
+    date: 2019-06-25
+    meeting: "NERSC Seminar talk"
+    url: http://uaf-8.t2.ucsd.edu/~fkw/nerscJune25th2019.pptx
+  - title: "OSG Accounting Task Force"
+    date: 2019-06-12
+    meeting: "OSG Area Coordinators Meeting"
+    location: virtual
+    url: http://uaf-8.t2.ucsd.edu/~fkw/osgAccountingTaskForceJune122019.pptx
+  - title: "OSG-LHC"
+    date: 2019-06-12
+    meeting: "NSF IRIS-HEP meeting"
+    url: https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf
+    meetingurl: https://indico.cern.ch/event/820235/
+  - title: "UCSD in IRIS-HEP DOMA"
+    date: 2019-06-07
+    meeting: "DOMA IRIS-HEP meeting"
+    meetingurl: https://indico.cern.ch/event/818793/
+    url: https://indico.cern.ch/event/818793/contributions/3420719/attachments/1859017/3054548/iris-hep-domaJune7th2019.pdf
+  - title: "Advancing Science through distributed High Throughput Computing"
+    date: 2019-06-05
+    meeting: "SDX Workshop at Qualcom Institute"
+    meetingurl: https://www.eventbrite.com/e/integrating-open-science-grid-osg-with-sdx-projects-workshop-june-5-6-2019-tickets-58800356449
+    location: San Diego, CA
+    url: http://uaf-8.t2.ucsd.edu/~fkw/sdxJune5th2019.pptx
+  - title: "Data Lake — A site perspective"
+    date: 2019-06-04
+    meeting: "DOMA Access Meeting WLCG"
+    url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune4th2019.pptx
+  - title: "OSG Value Proposition for Campuses"
+    date: 2019-05-21
+    url: https://drive.google.com/file/d/1WgaZMtm_DNB2qt8_-GJkVs66mlI4cORE/view?usp=drive_web
+    meeting: "Great Plains Network Annual Meeting"
+    meetingurl: https://conferences.k-state.edu/gpn/
+    location: Kansas City, MO
+  - title: "Advancing Open Science through distributed High Throughput Computing"
+    date: 2019-05-21
+    url: https://drive.google.com/file/d/1qZStE92CfkdN3i0zjboF-vl3Llgx4r1D/view?usp=drive_web
+    meeting: "Great Plains Network Annual Meeting"
+    meetingurl: https://conferences.k-state.edu/gpn/
+    location: Kansas City, MO
+  - title: "Big Science with Big Instruments"
+    date: 2019-05-15
+    meeting: "AWS Seminar talk"
+    url: https://d1.awsstatic.com/WWPS/pdf/Science_at_the_Petascale.pdf
+  - title: "Advancing Open Science through distributed High Throughput Computing"
+    date: 2019-04-12
+    url: https://drive.google.com/file/d/1M8w5ndUURkrsDDomhPFpGco4e0efHCVq/view?usp=sharing
+    meeting: "CI Engineering Brown Bag"
+    location: webinar
+  - title: "Data Access at HPC: ATLAS/CMS Perspective"
+    date: 2019-03-20
+    url: https://indico.cern.ch/event/759388/contributions/3312490/
+    meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focus-area: doma
+  - title: "Data Access in DOMA"
+    date: 2019-03-20
+    url: https://indico.cern.ch/event/759388/contributions/3312487/
+    meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focus-area: doma
+    project: caching
+  - title: "State of OSG"
+    date: 2019-03-19
+    url: https://indico.cern.ch/event/759388/contributions/3353296/
+    meeting: "HOW2019 (Joint HSF/OSG/WLCG Workshop)"
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focus-area: osglhc
+  - title: "The OSG Data Federation"
+    date: 2019-03-07
+    url: https://meetings.internet2.edu/2019-global-summit/speakers/6556/
+    meeting: "Internet2 Global Summit 2019"
+    meetingurl: https://meetings.internet2.edu/2019-global-summit/detail/10005368/
+    location: Washington, DC
+    focus-area: osglhc
+    project: caching
+  - title: "OSG-LHC"
+    date: 2019-02-06
+    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532
+    meeting: IRIS-HEP Steering Board Meeting #1
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/790759/

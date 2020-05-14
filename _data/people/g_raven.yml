@@ -1,10 +1,9 @@
 name: Gerhard Raven
 shortname: g_raven
-title: 
+title: LHCb Experiment
 active: 
 institution: VU/NIKHEF
 website: 
-photo: /assets/images/team/atom.png
+photo: /assets/images/team/Gerhard-Raven.jpg
+hidden: true
 presentations:
-project: LHCb
-

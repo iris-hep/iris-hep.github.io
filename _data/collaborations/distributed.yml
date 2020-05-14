@@ -1,0 +1,8 @@
+- name: Open Science Grid
+  short: OSG
+  url: https://opensciencegrid.org/
+  awards:
+    - type: OAC 
+      number: 1148698
+    - type: OAC
+      number: 0621704

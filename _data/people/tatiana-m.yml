@@ -1,9 +1,10 @@
 name: Tatiana Medvedeva 
 shortname: tatiana-m
 title: 
-active: green
+active: red
 institution: Princeton University
 website: 
-photo: /assets/images/team/atom.png
+photo: /assets/images/atom.png
+hidden: true
 presentations:
 

@@ -1,0 +1,169 @@
+<!doctype html>
+  
+{% include layout_header_navbar.html %}
+
+    <div id="container">
+      <div class="container">
+        <main role="main">
+
+<div>
+<br>
+<center><h1>{{ page.title }}</h1></center>
+
+{{content}}
+</div>
+
+{% assign doProjects = 0 %}
+{% assign sorted = site.pages | sort_natural: 'title' %}
+{% for mypage in sorted %}
+{% if mypage.pagetype == 'project' %} 
+{% if mypage.focus-area contains page.short_title %}
+{% assign doProjects = 1 %}
+{% break %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+{% if doProjects ==1 %}
+<div class="container-fluid projects">
+  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
+<center>
+  <div class="row">
+{% for mypage in sorted %}
+{% if mypage.pagetype == 'project' %} 
+{% if mypage.focus-area contains page.short_title %}
+<div class="card" style="width: 17rem;">
+<a href=/projects/{{mypage.shortname}}.html>
+<img class="card-img-top" src="/assets/{{mypage.image | default: "logos/Iris-hep-5-just-graphic.png"}}" alt="Card image cap">
+</a>
+<div class="card-body d-flex flex-column">
+<div class="card-text">
+<b><p><font size="+1">{{mypage.title}}</font></p></b>
+{{mypage.blurb}}<br>
+<a href=/projects/{{mypage.shortname}}.html> More information</a><br>
+</div>
+</div>
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+  </div>
+</center>
+  <br>
+</div>
+{% endif %}
+
+
+{% include get_pres_list.html %}
+{% assign page_focus_area = page.short_title | strip %}
+
+{% assign pres_list = "" | split: "," %}
+{% for pres in sorted_presentations %}
+  {% if pres.focus-area contains page_focus_area %}
+    {% assign pres_list = pres_list | push: pres %}
+  {% endif %}
+{% endfor %}
+
+{% if pres_list.size > 0 %}
+<section class="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
+
+<ul>
+{% assign max_disp = 15 %}
+{% assign counter = 0 %}
+{% for talk in pres_list %}
+  {% assign counter = counter | plus: 1 %}
+  {% assign member = site.data.people[talk.member].name %}
+  {% assign prettydate = talk.date | date: "%-d %b %Y" %}
+  <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{member}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+  {% if counter == max_disp %}
+    </ul>
+    <p>[expand]</p>
+    <ul>
+  {% endif %}
+{% endfor %}
+</ul>
+{% if counter >= max_disp %}
+<p>[/expand]</p>
+{% endif %}
+</div>
+</section>
+{% endif %}
+
+{% include get_pub_list.html %}
+
+{% assign pubs = "" | split: "," %}
+{% for pub in sorted_publications %}
+  {% assign page_st = page.short_title | strip %}
+  {% if pub.focus-area contains page_st %}
+    {% assign pubs = pubs | push: pub %}
+  {% endif %}
+{% endfor %}
+
+{% if pubs.size > 0 %}
+
+
+<div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
+
+
+<ul>
+{% assign max_disp = 15 %}
+{% assign counter = 0 %}
+  {% for pub in pubs %}
+    {% assign counter = counter | plus: 1 %}
+    {% if pub.citation-count and pub.citation-count > 0 %}
+      {% assign cited = " [" | append: pub.citation-count | append: " citations]" %}
+      {% if pub.inspire-id %}
+        {% capture cited %} <a href='http://inspirehep.net/record/{{pub.inspire-id}}/citations'>{{cited}}</a>{% endcapture %}
+      {% endif %}
+    {% else %}
+      {% assign cited = "" %}
+    {% endif %}
+    <li> {% include print_pub.html pub=pub %} </li>
+    {% if counter == max_disp %}
+    </ul>
+    <p>[expand]</p>
+    <ul>
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
+
+{% if counter >= max_disp %}
+<p>[/expand]</p>
+{% endif %}
+
+</section>
+
+{% endif %}
+
+
+<section class="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="join-us">Join us</h2>
+    <p class="alt-lead text-gray text-center col-md-10 mx-auto">We collaborate with groups around the world on code, data, and more. See our project pages for more.</p>
+  </div>
+  <div style="overflow: hidden;">
+    <div class="featured-orgs text-center p-2">
+      {% for org_list in page.collaborators   %}
+        {% assign org_hash = org_list | first  %}
+        {% assign org = org_hash[1] %}
+        <a href="{{org.link}}"><img src="/assets/images/{{org.image}}" height="100" alt="{{org_hash[0]}}"> </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+
+        </main>
+      </div>
+      {% include footer.html %}
+    </div>
+
+  {% include layout_analytics.html %}
+  </body>
+</html>
+
+

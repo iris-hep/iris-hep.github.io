@@ -1,7 +1,8 @@
 ---
 permalink: /docs/sows.html
 layout: default
-title: Information for preparing annual SOWs
+title: Preparing the annual IRIS-HEP SOWs
+pagetype: doc
 ---
 
 ## Annual Subaward Statement of Work and Budgets
@@ -22,11 +23,23 @@ project is from 1 September, 2018 through 31 August, 2019.
 
 Some iteration between steps 1 and 2 will likely be required based on available funds, the discussions described above, as well as interactions with the project Steering Board and Advisory Board.
 
-  This combined multi-step process is what is meant by the "annual SOW process".
+  This combined multi-step process is what is meant by the "annual budget and SOW process".
+
+### Dates for IRIS-HEP annual budget and SOW process for Y2 (2019 - 2020)
+
+---
+
+| Date |||| Goal |
+| ---- |||| ---- |
+| Monday, 17 June, 2019 |||| Draft Y2 budgets and justifations sent to Maureen, Floe and Peter |
+| Monday, 1 July, 2019 |||| Final budgets ready for Y2 SOWs |
+| Thursday, 1 August, 2019 |||| Y2 subaward updates done |
+
+---
 
 ## Preparation of budget and budget justifications 
 
-  As part of the annual SOW process, each institution should produce a *one year* budget and budget justification. This should be described in a single 
+  As part of the annual SOW process, each institution should produce a **one year** budget and budget justification. This should be described in a single 
 document, which will be submitted as a pdf. This will likely differ from that 
 submitted with the original IRIS-HEP proposal for the following reasons: 
 
@@ -35,11 +48,14 @@ submitted with the original IRIS-HEP proposal for the following reasons:
   * evolution due to available funds, project goals, updates to tasks & 
     deliverables by and successful delivery in previous years
 
-The justification should contain the information normally expected from 
-[an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to 
+Please prepare a standard budget sheet as in an NSF proposal (i.e. the "Form 1030", your grant admin may need to make a temporary proposal in Fastlane/Research.gov to do this) covering the 1 year budget. Submitting a 1-year Form 1030 
+budget is required.
+
+In addition you should write a budget justification which contains the 
+information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to 
 funds required for a _single_ year and the defined time period, which should 
-be noted explicitly in the justification. For example, "IRIS-HEP Year 1: 
-1 September, 2018 - 31 August, 2019" or similar should appear near the top 
+be noted explicitly in the justification. For example, "IRIS-HEP Year 2: 
+1 September, 2019 - 31 August, 2020" or similar should appear near the top 
 of the document.
 
   In addition to the standard budget justification information, additional
@@ -53,6 +69,11 @@ to work to be performed in terms of the WBS categories (see below). It
 is **not** necessary to describe specific tasks and/or deliverables within
 those WBS areas. These will be negotiated separately and will appear in
 the final SOW document.
+
+  **Again, please submit a single pdf document, not multiple files. The
+first part of the pdf file should be the 1030-style budget sheet and
+the second part should be the budget justification including the extra
+WBS cost breakdown table specified below.**
 
 ### WBS cost breakdown table
 
@@ -77,7 +98,6 @@ General Notes:
   * Grad student tuition of $1234 is included, no indirect cost is charged
 
 ---
-
 
   Some notes on this:
 

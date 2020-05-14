@@ -17,6 +17,7 @@
 
   @include hover-focus {
     text-decoration: none;
+    // background-color: $white; // color link background on hover
   }
 
   // Disabled state lightens text
@@ -115,4 +116,14 @@
   > .active {
     display: block;
   }
+}
+
+// Custom link list at top of page
+div.toppagelinks {
+    text-align: center;
+    margin-bottom: 1.5ex;
+}
+
+div.toppagelinks .inner {
+    display: inline-block;
 }

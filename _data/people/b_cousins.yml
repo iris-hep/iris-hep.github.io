@@ -2,9 +2,10 @@ name: Bob Cousins
 shortname: b_cousins
 title: 
 active: 
-institution: UCLA
+institution: University of California, Los Angeles
 website: 
 photo: /assets/images/team/b_cousins.png
 presentations:
 about: Former deputy spokesman of CMS, expert in statistics.
 role: Provide a global view of CMS activities.
+hidden: true
