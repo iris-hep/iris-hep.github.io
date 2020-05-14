@@ -5,7 +5,7 @@ title: SkyhookDM
 shortname: skyhookdm
 pagetype: project
 image: logos/skyhookdmLogoJeff.png
-logowidth: 70%
+logowidth: 20%
 blurb: Programmable Storage for Databases and Datasets
 focus-area: doma
 team:
