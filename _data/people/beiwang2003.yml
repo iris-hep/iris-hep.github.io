@@ -6,6 +6,12 @@ institution: Princeton University
 website:
 photo: /assets/images/team/Bei-Wang.jpg
 presentations:
+  - title: Parallelizing the unpacking and clustering of detector data for reconstruction of charged particle tracks on multi-core CPUs and many-core GPUs 
+    date: 2020-04-22
+    url: https://indico.cern.ch/event/831165/contributions/3717156/attachments/2025214/3387680/CTD_BeiWang.pdf
+    meeting: Connecting The Dots (2020)
+    meetingurl: https://indico.cern.ch/event/831165/
+    location: Virtual
   - title: Floating Point Arithmetic Is Not Real
     date: 2019-07-24
     url: https://indico.cern.ch/event/814979/contributions/3401175/attachments/1831476/3107964/FloatingPointArithmetic.pdf
