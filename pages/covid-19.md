@@ -54,7 +54,8 @@ examples of our activities include:
     a patient pressure and 
     airflow monitoring system for
     ventilators. The system allows up to 20 patients to be monitored remotely 
-    by a nurse in a COVID-19 field hospital, with relevant alarms. This 
+    at a central station by a clinician or nurse in a COVID-19 field hospital, 
+    with relevant alarms. This 
     outreach activity is being done in collaboration with 
     the local multi-hospital healthcare system and a number of other
     Princeton Physics, Mechanical Engineering and Neuroscience faculty. 
@@ -63,10 +64,6 @@ examples of our activities include:
 
 <center>
 <a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
-</center>
-
-<center>
-<iframe width="487" height="274" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
