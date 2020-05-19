@@ -19,6 +19,6 @@ project_goal: >
   The current version of the system has two transformers, which function for Python and C++. 
   In this work, we will verify that both transformers produce the same outputs when queried, 
   and we will develop and implement new features and analysis tools in ServiceX.
-proposal:
+proposal: /assets/pdf/dwliu_proposal.pdf
 presentations:
 ---
