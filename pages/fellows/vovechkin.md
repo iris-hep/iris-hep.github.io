@@ -8,7 +8,7 @@ title: Vladimir Ovechkin - IRIS-HEP Fellow
 active: green
 dates: June-August 2020
 photo: /assets/images/team/vovechkin.jpg
-institution: University of Washington (United States)
+institution: University of Washington, Seattle
 website: http://vladov3000.com/
 e-mail: vladov@uw.edu
 project_title: Integrating MadAnalysis and pyhf into Recast-workflow
