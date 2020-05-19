@@ -1,31 +1,30 @@
 ---
-permalink: /projects/exploratory-ml.html
-layout: project
-title: exploratory-ml
-shortname: exploratory-ml
-pagetype: project
-image: images/RMP-cover-image-thematic-bright-blue.png
-logowidth: 30%
-blurb: Analysis Reinterpretation
-focus-area: 
-- as
-- ia
-team:
- - cranmer
- - SebastianMacaluso
- - pharris
- - p_calafiura
- - msneubauer
- - latompkins
- - johannbrehmer
- - irinaespejo
- - mityinzer
+permalink: /impact-beyond-hep.html
+layout: default
+title: Impact Beyond High-Energy Physics
 ---
 
+IRIS-HEP has been established to meet the software and computing challenges of the experimental particle physics community.  However, the tools and techniques developed by IRIS-HEP were also anticipated to have impact beyond high-energy physics. IRIS-HEP is an excellent example of use-inspired research, and the products of that research is often applicable to other domains. Similarly, IRIS-HEP is embracing the NSF theme of convergence as we must bring together developments in computer science, data science, and statistics to meet the demands of the LHC. This page collects examples of IRIS-HEP research that has impact beyond particle physics. 
 
-IRIS-HEP has been established to meet the software and computing challenges of the experimental particle physics community. In order to meet the challenges of the HL-LHC, IRIS-HEP researchers are engaged in various exploratory projects. Some of these emerge from previous targeted research or as a means to engage the broader scientific community.
-IRIS-HEP is an excellent example of use-inspired research, and the products of that research is often applicable to other domains. Similarly, IRIS-HEP is embracing the NSF theme of convergence as we must bring together developments in computer science, data science, and statistics to meet the demands of the LHC. Many of these projects have [impact beyond high-energy pphysics](/impact-beyond-hep.html)
+--- 
 
+<div class="row">
+ <div class="col-4">
+ <!--
+   <a href="/covid-19">
+   <img width="100%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor.png" alt="Card image cap">
+   </a>
+   -->
+   <div class="embed-responsive embed-responsive-16by9">
+<iframe width="100%" height="100%"  src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ </div>
+ <div class="col-8">
+  <h3>COVID-19</h3>
+
+Like many scientific research and research computing teams, IRIS-HEP is organizing to contribute its software and computing capabilities and team in support of activities to meet the challenge of the COVID-19 pandemic. Read more about IRIS-HEP's efforts to respond to <a href="/covid-19">COVID-19</a>. For example, Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim Pivarski are contributing the software for a patient pressure and airflow monitoring system for ventilators. The system allows up to 20 patients to be monitored remotely by a nurse in a COVID-19 field hospital, with relevant alarms. This outreach activity is being done in collaboration with Penn Medicine and a number of other Princeton Physics, Mechanical Engineering and Neuroscience faculty. The system includes data analysis algorithms, visualization and data acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs.
+ </div>
+</div>
 
 ---
 
