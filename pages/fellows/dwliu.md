@@ -8,7 +8,7 @@ fellow-name: David Liu
 shortname: dwliu
 project_title: Verification of the Fidelity of ServiceX Data Set Extractions Using Python and C++
 dates: May - August 2020
-photo: /assets/images/team/dwliu.jpg
+photo: /assets/images/team/David-Liu.jpg
 institution: University of Washington
 website:
 e-mail: dwliu@uw.edu
