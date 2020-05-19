@@ -166,7 +166,7 @@ presentations:
     meeting: "PREFIT20: PRecision Effective FIeld Theory School"
     meetingurl: https://indico.cern.ch/event/817757/overview
     location:  DESY
-    focus-area: as, ia
+    focus-area: as, ia, core
   - title: Machine Learning and Physics 
     date: 2020-03-05
     url: https://indico.desy.de/indico/event/25451/
@@ -188,17 +188,38 @@ presentations:
     meetingurl: https://indico.cern.ch/event/896935/
     location: Remote
     focus-area: as, core
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-05-07
+    url: https://web.mit.edu/physics/events/colloquia.html
+    meeting: MIT Physics Department Colloquium
+    meetingurl: https://web.mit.edu/physics/events/colloquia.html
+    location: Irvine, CA (Virtual)
+    focus-area: as, ia
+  - title: "Reusable Workflows, active learning, and simulation-based inference"
+    date: 2020-06-10
+    url: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
+    meeting: UCI Symposium on Reproducibility in Machine Learning
+    meetingurl: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
+    location: Irvine, CA (Virtual)
+    focus-area: as, ia, core
   - title: "Likelihood-based models for Simulation-based Inference"
-    date: 2020-06-17
+    date: 2020-07-17
     url: https://invertibleworkshop.github.io
     meeting: ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models
     meetingurl: https://invertibleworkshop.github.io
-    location: Vienna, Austria
+    location: Vienna, Austria (Virtual)
     focus-area: as, ia
   - title: "Graphs, Trees, and Sets: structured data in physics"
     date: 2020-07-17
     url: https://invertibleworkshop.github.io
     meeting: ICML Workshop on Graph Representation Learning
     meetingurl: https://invertibleworkshop.github.io
-    location: Vienna, Austria
+    location: Vienna, Austria (Virtual)
     focus-area: as, ia
+  - title: "Lectures on Statistics"
+    date: 2020-08-10
+    url: https://indico.fnal.gov/event/22840/
+    meeting: 15th joint Fermilab-CERN Hadron Collider Summer School
+    meetingurl: https://indico.fnal.gov/event/22840/
+    location: Fermilab (Virtual)
+    focus-area: as, core

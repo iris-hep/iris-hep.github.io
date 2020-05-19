@@ -13,17 +13,21 @@ examples of our activities include:
 
 ## Current Activities
   
-  * UCSD Professor Frank Wuerthwein, project scientist Igor Sfiligoi and
-    others from the [Open Science Grid](https://opensciencegrid.org/) team 
-    are working with the [Folding@Home](https://foldingathome.org/) team
-    and Greg Bowman, the PI of Folding@Home, to understand how OSG can best 
-    support their work related the COVID-19 challenges. More generally, the
-    sites in the OSG Consortium are providing compute capacity for COVID-19 related workflows.
-    The following graph shows the ramp-up in COVID-19 CPU hours over the course of a week
-    in early April:
+  * UNL Research Professor Derek Weitzel and others from the
+    [Open Science Grid](https://opensciencegrid.org/) team are working with resource providers 
+    to enable and prioritize COVID-19 related workflows. New providers are joining the OSG to increase capacity for 
+    COVID-19 research.  Usage of the OSG by COVID-19 workflows is acocunted on [GRACC](https://gracc.opensciencegrid.org/dashboard/db/covid-19-research), OSG's accounting service. Over 38 institutions have contributed to OSG's COVID-19
+    effort. Multiple COVID-19 workflows are utilizing the OSG, with more starting every week.
 
 <center>
-<img width="60%" src="/assets/images/20200412-OSG-COVID-19-Hours.png">
+{% include figure.html
+    url="https://gracc.opensciencegrid.org/dashboard/db/covid-19-research"
+    class="figure"
+    file="/assets/images/20200514-OSG-COVID-19-Hours.png"
+    alt="OSG Computing Hours by Site"
+    caption="OSG COVID-19 Computing Hours contributed by Site.  Over 38 Institutions have contributed to OSG's COVID-19 research efforts."
+    img-style="width:75%"
+%}
 </center>
 
   * University of Illinois at Urbana-Champaign postdoc Matthew Feickert has
@@ -45,22 +49,21 @@ examples of our activities include:
     April Meeting entitled ["Response of Physics to the Coronavirus Pandemic"](http://meetings.aps.org/Meeting/APR20/Session/Q08).
 
   * Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim
-    Pivarski are contributing the software for a patient pressure and 
+    Pivarski are contributing the software for the 
+[Princeton Open Ventilation Monitor](https://ovm.princeton.edu/) system, 
+    a patient pressure and 
     airflow monitoring system for
     ventilators. The system allows up to 20 patients to be monitored remotely 
-    by a nurse in a COVID-19 field hospital, with relevant alarms. This 
+    at a central station by a clinician or nurse in a COVID-19 field hospital, 
+    with relevant alarms. This 
     outreach activity is being done in collaboration with 
-    [Penn Medicine](https://www.pennmedicine.org/) and a number of other
+    the local multi-hospital healthcare system and a number of other
     Princeton Physics, Mechanical Engineering and Neuroscience faculty. 
     The system includes data analysis algorithms, visualization and data 
-    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>)
+    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>) This outreach activity has also spawned a separately funded research activity ([PHY-2031509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031509&HistoricalAwards=false)) by NSF.
 
 <center>
 <a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
-</center>
-
-<center>
-<iframe width="487" height="274" src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
@@ -92,6 +95,6 @@ examples of our activities include:
 # How our colleagues at other NSF-related initiatives are responding to COVID-19
 
   * [Open Science Grid](https://opensciencegrid.org/covid-19.html) for COVID-19 Research   
-  * [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/) - page in preparation
+  * [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/2020/04/17/molssis-response-to-the-covid-19-pandemic/) 
   * [Science Gateways Community Institute](https://sciencegateways.org/-/trusted-ci-nsf-ci-coe-pilot-and-sgci-offering-priority-help-to-projects-tackling-covid-19)
   * [XSEDE](https://www.xsede.org/covid19-hpc-consortium)

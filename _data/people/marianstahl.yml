@@ -13,3 +13,10 @@ presentations:
     date: 2020-01-29
     focus-area: ia
     project: pv-finder
+  - title: An updated hybrid deep learning algorithm for identifying and locating primary vertices
+    meeting: Connecting The Dots 2020
+    meetingurl: https://indico.cern.ch/event/831165/
+    url: https://indico.cern.ch/event/831165/contributions/3717153/attachments/2022590/3382558/pvfinder_ctd_20200420_mstahl.pdf
+    date: 2020-04-20
+    focus-area: ia
+    project: pv-finder
