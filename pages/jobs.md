@@ -8,6 +8,8 @@ title: Available Positions
 
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
+  * [Postdoctoral Research on ATLAS and IRIS-HEP](https://inspirehep.net/jobs/1796684) - Working with the University of Washington group on ATLAS physics and IRIS-HEP Analysis Systems
+
 ### Fermilab (CMS Physics Research and [CCE](https://hepcce.org/) Computing Research)
 
   * [Postdoctoral Research Associate](https://academicjobsonline.org/ajo/jobs/16231)
