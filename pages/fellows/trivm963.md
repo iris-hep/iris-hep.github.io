@@ -22,7 +22,7 @@ fellow-name: Manjari Trivedi
 
 
 
-title: Manjari TriMay - IRIS-HEP Fellow
+title: Manjari Trivedi - IRIS-HEP Fellow
 
 
 
@@ -71,6 +71,8 @@ mentors:
 
 
 proposal: /assets/pdf/trivm963_proposal.pdf
+
+
 
 presentations:
 
