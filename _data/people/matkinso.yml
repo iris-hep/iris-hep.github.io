@@ -1,9 +1,9 @@
 name: Markus Atkinson
 shortname: matkinso
-title: 
+title:
 active: green
 institution: University of Illinois at Urbana-Champaign
-website: 
+website:
 photo: /assets/images/team/Markus-Atkinson.png
 presentations:
   - title: "Introduction and Plans"
@@ -13,10 +13,31 @@ presentations:
     meetingurl: https://indico.cern.ch/event/840472/overview
     location: FNAL
     focus-area: ia
-  - title: FPGA ML inference as a service on AWS
+  - title: "FPGA ML inference as a service on AWS"
     date: 2019-10-19
     url: https://indico.cern.ch/event/858899/contributions/3619146/attachments/1933518/3203232/AWS_talk.pdf
     meeting: FastML Co-processors Meeting
     meetingurl: https://indico.cern.ch/event/858899/
     location: Vidyo
+    focus-area: ia
+  - title: "GNN Tracking and FPGA Acceleration (poster)"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331186/16%20-%20IRIS-HEP-poster-GNNTrackingFPGA.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, USA
+    focus-area: ia
+  - title: "Pixel Detector Tracklet Finding"
+    date: 2020-05-04
+    url: https://exatrkx.github.io
+    meeting: Exa.Trkx Weekly Meeting
+    meetingurl: https://exatrkx.github.io
+    location: Virtual
+    focus-area: ia
+  - title: "Graph Neural Network Tracking using the Endcaps"
+    date: 2020-05-18
+    url: https://exatrkx.github.io
+    meeting: Exa.Trkx Weekly Meeting
+    meetingurl: https://exatrkx.github.io
+    location: Virtual
     focus-area: ia
