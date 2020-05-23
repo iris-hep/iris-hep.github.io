@@ -6,14 +6,14 @@ active: green
 title: Bo Zheng - IRIS-HEP Fellow
 fellow-name: Bo Zheng
 shortname: Bo
-project_title: pyhf Hardware Acceleration Benchmarking with GPUS and TPUs
+project_title: pyhf Hardware Acceleration Benchmarking with GPUs and TPUs
 dates: May - August 2020
 photo: /assets/images/team/Bo-Zheng.jpg
 institution: Rice University
 website: https://github.com/coolalexzb
 e-mail: bz30@rice.edu
 mentors:
-  - Matthew Feickert (IRIS-HEP, pyhf dev team)
+  - matthewfeickert (IRIS-HEP, pyhf dev team)
   - Lukas Heinrich (pyhf dev team)
   - Giordon Stark (pyhf dev team)
 project_goal: >
