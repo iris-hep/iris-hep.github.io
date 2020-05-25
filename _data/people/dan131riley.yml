@@ -18,13 +18,16 @@ presentations:
     meeting: CMS Tracker DPG/Strip Calibration and Local Reconstruction Weekly Meeting
     meetingurl: https://indico.cern.ch/event/879441/
     location: CERN
+    focus-area: ia
   - title: mkFit update: strip tracker unpacking and clustering on GPU
     date: 2020-04-28
     url: https://indico.cern.ch/event/879448/contributions/3832308/attachments/2028104/3393518/gpu-unpacking-2020-04-28.pdf
     meeting: CMS Tracker DPG - Tracking POG general Weekly Meeting
     meetingurl: https://indico.cern.ch/event/879448/
+    focus-area: ia
   - title: mkFit update: strip tracker unpacking and clustering on GPU
     date: 2020-05-05
     url: https://indico.cern.ch/event/909499/contributions/3850945/attachments/2032289/3401593/gpu-unpacking-2020-05-05.pdf
     meeting: CMS HLT Upgrade TSG Weekly Meeting
     meetingurl: https://indico.cern.ch/event/909499/
+    focus-area: ia
