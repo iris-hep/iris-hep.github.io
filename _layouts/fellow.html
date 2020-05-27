@@ -41,7 +41,7 @@ More information: <a href = {{page.proposal}}>My full proposal</a><br>
 {% endif %}
 {% endfor %}
 {% if ok == 0 %}
-{{mentor}}
+{{ mentor | markdownify }}
 {%endif%}
 </li>
 {% endfor %}
