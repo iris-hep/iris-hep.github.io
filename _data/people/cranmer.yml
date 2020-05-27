@@ -195,6 +195,13 @@ presentations:
     meetingurl: https://web.mit.edu/physics/events/colloquia.html
     location: Irvine, CA (Virtual)
     focus-area: as, ia
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-05-31
+    url: https://physics.tau.ac.il/events_physics_colloquium_31_5_2020
+    meeting: Tel Aviv University Physics Department Colloquium
+    meetingurl: https://physics.tau.ac.il/events_physics_colloquium_31_5_2020
+    location: Tel Aviv, Israel (Virtual)
+    focus-area: as, ia
   - title: "Reusable Workflows, active learning, and simulation-based inference"
     date: 2020-06-10
     url: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
@@ -207,14 +214,14 @@ presentations:
     url: https://mpml.tecnico.ulisboa.pt
     meeting:  IST seminar series Mathematics, Physics & Machine Learning
     meetingurl: https://mpml.tecnico.ulisboa.pt
-    location: Lisbon (Virtual)
+    location: Lisbon, Portugal (Virtual)
     focus-area: as, ia
   - title: "How machine learning can help us get the most out of our highest fidelity physical models"
     date: 2020-07-08
     url: https://ai4science-amsterdam.github.io/events.html
     meeting: "ELLIS SOCIETY: AI4Science Kickoff Workshop"
     meetingurl: https://ai4science-amsterdam.github.io/events.html
-    location: Amsterdam (Virtual)
+    location: Amsterdam, Netherlands (Virtual)
     focus-area: as, ia
   - title: "Likelihood-based models for Simulation-based Inference"
     date: 2020-07-17
