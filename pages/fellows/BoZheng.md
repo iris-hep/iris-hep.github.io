@@ -13,7 +13,7 @@ institution: Rice University
 website: https://github.com/coolalexzb
 e-mail: bz30@rice.edu
 mentors:
-  - matthewfeickert (IRIS-HEP, pyhf dev team)
+  - matthewfeickert
   - Lukas Heinrich (pyhf dev team)
   - Giordon Stark (pyhf dev team)
 project_goal: >
