@@ -202,6 +202,20 @@ presentations:
     meetingurl: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
     location: Irvine, CA (Virtual)
     focus-area: as, ia, core
+  - title: "The interplay of Math, Physics, and Machine Learning"
+    date: 2020-07-02
+    url: https://mpml.tecnico.ulisboa.pt
+    meeting:  IST seminar series Mathematics, Physics & Machine Learning
+    meetingurl: https://mpml.tecnico.ulisboa.pt
+    location: Lisbon (Virtual)
+    focus-area: as, ia
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-07-08
+    url: https://ai4science-amsterdam.github.io/events.html
+    meeting: "ELLIS SOCIETY: AI4Science Kickoff Workshop"
+    meetingurl: https://ai4science-amsterdam.github.io/events.html
+    location: Amsterdam (Virtual)
+    focus-area: as, ia
   - title: "Likelihood-based models for Simulation-based Inference"
     date: 2020-07-17
     url: https://invertibleworkshop.github.io
