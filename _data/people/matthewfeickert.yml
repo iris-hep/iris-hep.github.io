@@ -74,3 +74,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/897086/
     location: Princeton, U.S.A.
     focus-area: as
+  - title: "pyhf Roadmap for IRIS-HEP Execution Phase"
+    date: 2020-05-27
+    url: https://indico.cern.ch/event/896167/contributions/3880229/
+    meeting: 2020 IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/
+    location: Virtual
+    focus-area: as
