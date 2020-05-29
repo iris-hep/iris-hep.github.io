@@ -195,6 +195,41 @@ presentations:
     meetingurl: https://web.mit.edu/physics/events/colloquia.html
     location: Irvine, CA (Virtual)
     focus-area: as, ia
+  - title: Analysis Systems Overview and Plans
+    date: 2020-05-27
+    url: https://indico.cern.ch/event/896167/contributions/3870075/attachments/2044448/3424682/IRIS-HEP_Retreat_Analysis_Systems_2020-05-26.pptx.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: Analysis Grand Challenge Proposal 
+    date: 2020-05-28
+    url: https://indico.cern.ch/event/896167/contributions/3880424/attachments/2045466/3429947/IRIS-HEP_Analysis_Grand_Challenge_2020-05-28.pptx.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: "IRIS-HEP Innovative Algorithms: R&D and Machine Learning for Jets"
+    date: 2020-05-28
+    url: https://indico.cern.ch/event/896167/contributions/3878892/attachments/2045327/3426480/IRIS-HEP_Retreat_NYU_IA_Contribution_2020-05-28.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: Analysis Systems Plans and Goals Closeout
+    date: 2020-05-29
+    url: https://indico.cern.ch/event/896167/contributions/3874633/attachments/2047251/3431547/IRIS-HEP_Retreat_Analysis_Systems_Closeout_2020-05-29.pptx.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: Analysis Grand Challenge Closeout
+    date: 2020-05-29
+    url: https://indico.cern.ch/event/896167/contributions/3874640/attachments/2047239/3430338/IRIS-HEP_Analysis_Grand_Challenge_2020-05-28.pptx-2.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
   - title: "How machine learning can help us get the most out of our highest fidelity physical models"
     date: 2020-05-31
     url: https://physics.tau.ac.il/events_physics_colloquium_31_5_2020
