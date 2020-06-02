@@ -23,8 +23,10 @@ team:
 
 Repositories connected with this work:
 
-- [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/gordonwatts/BDTTrainingAnalysisLanguage) - The original exploration for this work was done here
-- [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/gordonwatts/functional_adl) - A client (to be included in the user's analysis) and a backend that runs the queries.
+- [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/iris-hep/func_adl) - The base package for the `func_adl` SQL-like data query language.
+- [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/iris-hep/func_adl_xAOD) - Backend that works with ATLAS xAOD files to extract columnar data.
+- [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/iris-hep/func_adl.uproot) - Backend that works with `ROOT` `TFile`'s that contain `TTree`'s.
+- [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/iris-hep/qastle) - Interchange language that converts `func_adl` to a text language suitable for transmission over the web. While list-like and plain-text, it is meant as an interchange format, not an end-user language.
 
 This work is based on the original work done with LINQ in the C# programming language (prior to the start or IRIS-HEP):
 
