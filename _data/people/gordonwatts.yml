@@ -151,3 +151,10 @@ presentations:
     meeting: "Coffea Developers Meeting"
     focus-area: as
     location: Virtual
+  - title: "Parallel Sessions: Plans and Goals"
+    date: 2020-05-26
+    url: https://indico.cern.ch/event/896167/contributions/3870080/
+    meetingurl: https://indico.cern.ch/event/896167/
+    meeting: "IRIS-HEP Team Retreat"
+    focus-area: management
+    location: Virtual
