@@ -1,9 +1,5 @@
 ---
-
-
-[//]: # 'Template for this .md file has been taken from dwliu's .md file'
-
-permalink: 
+permalink: /fellows/AlanAneethJegaraj.html
 layout: fellow
 pagetype: fellow
 active: green
@@ -26,9 +22,6 @@ project_goal: >
  	This calls for efficient track and primary vertex (PV) reconstruction algorithms to analyze data effectively within a practical time frame using relatively low powered computers. 
 	This project aims to develop a python workflow to test the viability of matrix factorization for PV identification, 
 	specifically Matrix tri-factorization with orthogonality constraints 
-  
 proposal: /assets/pdf/Fellow-Alan-AneethJegaraj-Proposal.pdf
 presentations:
-
-
 ---
