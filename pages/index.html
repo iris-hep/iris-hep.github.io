@@ -67,7 +67,11 @@ an HEP software R&D topic relevant to the Institute.
                  <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
                  <small>{{person.institution}}</small><br><br>
               </div>
-              <div class="card-text mt-auto"><i>{{person.dates}}</i><br></div>
+              {% if person.dates.first %}
+                <div class="card-text mt-auto"><i>{{person.dates | join: "</i><br><i>"}}</i><br></div>
+              {% else %}
+                <div class="card-text mt-auto"><i>{{person.dates}}</i><br></div>
+              {% endif %}
             </div>
          </div>
       {% endif %}
