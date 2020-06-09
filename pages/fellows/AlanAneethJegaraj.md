@@ -7,7 +7,7 @@ title: Alan Aneeth Jegaraj - IRIS-HEP Fellow
 fellow-name: Alan Aneeth Jegaraj
 shortname: Alan
 project_title: Matrix Factorization for Primary Vertex Reconstruction in LHCb
-dates: May - August 2020
+dates: June - August 2020
 photo: /assets/images/team/Alan-AneethJegaraj.JPG
 institution: University of Cincinnati
 website:
