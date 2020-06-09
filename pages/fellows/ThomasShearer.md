@@ -7,7 +7,7 @@ title: Thomas Shearer - IRIS-HEP Fellow
 fellow-name: Thomas Shearer
 shortname: Tommy
 project_title: Improving the User Interface to OSG-LHC Network Metrics
-dates: May - Ausust 2020
+dates: May - August 2020
 photo: /assets/images/team/Thomas-Shearer.jpg
 institution: Univeristy of Michigan - Ann Arbor
 website: https://github.com/shearert
