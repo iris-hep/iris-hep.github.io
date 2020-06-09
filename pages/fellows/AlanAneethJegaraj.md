@@ -8,7 +8,7 @@ fellow-name: Alan Aneeth Jegaraj
 shortname: Alan
 project_title: Matrix Factorization for Primary Vertex Reconstruction in LHCb
 dates: May - August 2020
-photo: /assets/images/team/Alan-AneethJegaraj.JPG
+photo: /assets/images/team/Alan-AneethJegaraj.jpg
 institution: University of Cincinnati
 website:
 e-mail: aneethaj@mail.uc.edu
