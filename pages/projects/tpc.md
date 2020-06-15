@@ -12,6 +12,7 @@ focus-area:
 team:
  - bbockelm
  - efajardo
+ - ddavila0
 ---
 
 LHC data is constantly beign moved between computing and storage sites
@@ -33,6 +34,21 @@ activity - is investigating the use of HTTP for bulk data transfer.
    <p class="card-text">The above graph shows data movement rates (up to 24Gbps) for a single host, achieved during
    standalone tests; a typical LHC site will load-balance across multiple hosts in order to saturate
    available network links.
+   </p>
+  </div>
+</div>
+
+Over the past months we have been increasingly enabling sites to support the
+HTTP protocol to move data between sites. Our initial goal was set to get one
+site to get more that 30% of its data using the HTTP protocol.
+
+<div class="card" style="width: 40rem;">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/gftp-vs-http.png" alt="GridFTP vs HTTP">
+  <div class="card-body">
+   <h5 class="card-title">Percentage of data transfered to UCSD using GridFTP and HTTP</h5>
+   <p class="card-text">The above shows the amount of data transferred to UCSD
+    using the GridFTP protocol with respect to HTTP over the perio of time
+    of one month between  May 15 and June 15th of 2020.
    </p>
   </div>
 </div>
