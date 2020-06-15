@@ -47,8 +47,8 @@ site to get more that 30% of its data using the HTTP protocol.
   <div class="card-body">
    <h5 class="card-title">Percentage of data transfered to UCSD using GridFTP and HTTP</h5>
    <p class="card-text">The above shows the amount of data transferred to UCSD
-    using the GridFTP protocol with respect to HTTP over the perio of time
-    of one month between  May 15 and June 15th of 2020.
+    using the GridFTP protocol with respect to HTTP during the period of time
+    of one month between May 15 and June 15th of 2020.
    </p>
   </div>
 </div>
