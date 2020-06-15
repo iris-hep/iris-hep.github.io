@@ -16,7 +16,7 @@ examples of our activities include:
   * UNL Research Professor Derek Weitzel and others from the
     [Open Science Grid](https://opensciencegrid.org/) team are working with resource providers 
     to enable and prioritize COVID-19 related workflows. New providers are joining the OSG to increase capacity for 
-    COVID-19 research.  Usage of the OSG by COVID-19 workflows is acocunted on [GRACC](https://gracc.opensciencegrid.org/dashboard/db/covid-19-research), OSG's accounting service. Over 38 institutions have contributed to OSG's COVID-19
+    COVID-19 research.  Usage of the OSG by COVID-19 workflows is accounted on [GRACC](https://gracc.opensciencegrid.org/dashboard/db/covid-19-research), OSG's accounting service. Over 38 institutions have contributed to OSG's COVID-19
     effort. Multiple COVID-19 workflows are utilizing the OSG, with more starting every week.
 
 <center>
@@ -90,7 +90,7 @@ examples of our activities include:
 ## Earlier Relevant Activities
 
   * Earlier IRIS-HEP work by the NYU Professor Kyle Cranmer and collaborators ("Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model", 
-[arXiv:1807.07706](https://arxiv.org/abs/1807.07706) ) established [PPX](/projects/ppx.html), a probababilistic programming protocol. It has previously been extended for epidemiological studies such as "Hijacking Malaria Simulators with Probabilistic Programming", [arXiv:1905.12432](https://arxiv.org/abs/1905.12432) and is now also being applied to COVID19 (see "Planning as inference in epidemiological dynamics models" by Warrington, A., Naderiparizi, S., Weilbach, C., Masrani, V., Harvey, W., Scibior, A., Beronov, B., & Nasseri, A. (2020) [arXiv:2003.13221](https://arxiv.org/abs/2003.13221) ). 
+[arXiv:1807.07706](https://arxiv.org/abs/1807.07706) ) established [PPX](/projects/ppx.html), a probabilistic programming protocol. It has previously been extended for epidemiological studies such as "Hijacking Malaria Simulators with Probabilistic Programming", [arXiv:1905.12432](https://arxiv.org/abs/1905.12432) and is now also being applied to COVID19 (see "Planning as inference in epidemiological dynamics models" by Warrington, A., Naderiparizi, S., Weilbach, C., Masrani, V., Harvey, W., Scibior, A., Beronov, B., & Nasseri, A. (2020) [arXiv:2003.13221](https://arxiv.org/abs/2003.13221) ). 
 
 # How our colleagues at other NSF-related initiatives are responding to COVID-19
 
