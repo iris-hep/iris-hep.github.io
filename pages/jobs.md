@@ -19,6 +19,9 @@ title: Available Positions
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
+### University of Notre Dame
+  * [Postdoc on CMS for ML optimization and accelerating algorithms with GPUs](https://academicjobsonline.org/ajo/jobs/16334)
+
 ### Rice University 
   * [Postdoctoral Research XENONnT and Data Science](https://jobs.rice.edu/postings/20856)
 
