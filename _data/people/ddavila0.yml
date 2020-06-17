@@ -19,6 +19,7 @@ presentations:
   meeting: OSG Area Coordination
   meetingurl: https://unl.zoom.us/j/136424859
   focusarea: doma
+  project: caching
 - title: Proposal for Sharing of Data on Data Access
   date: 2019-06-04
   url: https://indico.cern.ch/event/769508/contributions/3197792/attachments/1856188/3048855/proposal_data_share_wlcg.pdf
@@ -26,6 +27,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/769508/
   location: CERN
   focus-area: doma
+  project: modeling
 - title: Measurements of Data Access
   date: 2020-02-27
   url: https://indico.cern.ch/event/894127/attachments/1996570/3331176/9_-_Measurements_of_Data_Access_-_v1.pdf
@@ -33,3 +35,4 @@ presentations:
   meetingurl: https://indico.cern.ch/event/894127/
   location: Princeton University
   focus-area: doma
+  project: modeling
