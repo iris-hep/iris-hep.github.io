@@ -24,7 +24,7 @@ presentations:
     date: 2020-04-30
     meetingurl: https://pages.awscloud.com/gpu-cloud-bursting.html
     url: https://d1.awsstatic.com/WWPS/pdf/Running-a-GPU-burst-for-Multi-Messenger-Astrophysics-with-IceCube.pdf
-    meeting: AWS Education: Research Seminar Series
+    meeting: "AWS Education: Research Seminar Series"
     focus-area: doma
   - title: "Draft Proposals for Workplan towards the ESNet review"
     date: 2020-04-15
