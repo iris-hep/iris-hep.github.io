@@ -6,6 +6,12 @@ institution: University of California, San Diego
 website: 
 photo: /assets/images/team/Igor-Sfiligoi.jpg
 presentations:
+  - title: "TransAtlantic networking using Cloud links"
+    date: 2020-05-27
+    url: https://indico.cern.ch/event/923131/contributions/3878486/attachments/2045504/3426871/CMS20_05_CloudNetwork_rc2.pdf
+    meeting: S&C Blueprint Meeting
+    meetingurl: https://indico.cern.ch/event/923131/
+    focus-area: osglhc
   - title: "Hybrid, multi-Cloud HPC for Multi-Messenger Astrophysics with IceCube"
     date: 2020-01-28
     url: https://docs.google.com/presentation/d/1NT5DiCudME7OoU_zxOsw_nkZoNNNKIm3DEfD3miKd0A/edit?usp=sharing
