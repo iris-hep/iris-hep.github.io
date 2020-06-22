@@ -95,3 +95,9 @@ presentations:
     meeting: "CMS Offline and Computing Week - Discussion of External Projects"
     meetingurl: https://indico.cern.ch/event/902343/
     location: Zoom-only
+  - title: "IRIS-HEP - US-ATLAS"
+    date: 2020-05-07
+    url: https://docs.google.com/presentation/d/1R64LuoEK_1PHwO7cOU6cO8xmU1IASa9QdQqQQNMAGq4/edit#slide=id.g776ba7baaf_2_86
+    meeting: "US ATLAS Operations L2/L3 Managers Meeting"
+    meetingurl: https://indico.cern.ch/e/901076
+    location: Zoom
