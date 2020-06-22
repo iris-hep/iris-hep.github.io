@@ -129,4 +129,15 @@ presentations:
     meeting: "CHEP 2019"
     url: https://indico.cern.ch/event/773049/contributions/3473258/
     meetingurl: https://indico.cern.ch/event/773049/overview
-
+  - title: "Awkward Arrays for Analysis Systems"
+    date: 2020-02-27
+    meeting: "IRIS-HEP Review"
+    url: https://github.com/jpivarski/2020-02-27-irishep-poster/blob/master/pivarski-irishep-poster.pdf
+  - title: "Uproot and Awkward Array tutorials for the Electron Ion Collider"
+    date: 2020-04-08
+    meeting: "Electron Ion Collider User's meeting"
+    url: https://www.youtube.com/watch?v=FoxNS6nlbD0
+  - title: "Uproot Awkward columnar HATS"
+    date: 2020-06-08
+    url: https://github.com/jpivarski/2020-06-08-uproot-awkward-columnar-hats#readme
+    meetingurl: https://indico.cern.ch/event/917675/
