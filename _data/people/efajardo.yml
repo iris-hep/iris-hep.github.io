@@ -56,3 +56,10 @@ presentations:
   meetingurl: https://indico.cern.ch/event/894127/
   location: Princeton University
   focus-area: doma
+- title: How CMS user jobs use the caches
+  date: 2020-04-23
+  url: https://docs.google.com/presentation/d/1vofUOf9dK7R1j75IF9EY1tcbCB9WTqTonhgnX4k8yg8/edit#slide=id.p
+  meeting: XCache DevOps SPECIAL
+  meetingurl: https://indico.fnal.gov/event/24246/
+  focus-area: doma
+  project: caching
