@@ -28,9 +28,9 @@ presentations:
     meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, New Jersey
     focus-area: doma, as, ssl
-  - title: ServiceX: A distributed, caching, columnar data delivery service
+  - title: "ServiceX: A distributed, caching, columnar data delivery service"
     date: 2020-03-23
     url: https://indico.cern.ch/event/890991/contributions/3778330/attachments/2007255/3352709/weinbergServiceX200323.pdf
-    meeting: HSF DAWG -- DOMA Access joint meeting
+    meeting: "HSF DAWG -- DOMA Access joint meeting"
     meetingurl: https://indico.cern.ch/event/890991/
     focus-area: doma, as, ssl
