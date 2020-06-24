@@ -6,6 +6,8 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program 
 
+### Proposals for Summer 2020 are no longer being accepted.  We are still accepting proposals for Fall 2020.
+
   People are the key to successful software. IRIS-HEP aims to promote the 
 development of advanced research software skills by providing opportunities 
 for undergraduate and graduate students to connect with mentors within the
