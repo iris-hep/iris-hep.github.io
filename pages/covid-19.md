@@ -12,7 +12,7 @@ in support of activities to meet the challenge of the COVID-19 pandemic. Some
 examples of our activities include:
 
 ## Current Activities
-  * An article, entitled ["Stuck at home, physicists pivot to combat COVID-19"](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4519) was published in Physics Today highlighting the COVID-19 efforts of the physics community.  The article includes work by Peter Elmer with the [Princeton Open Ventilation Monitor](https://ovm.princeton.edu/) and Savannah Thais' efforts with [Science Responds](https://science-responds.org/). 
+  * An article, entitled ["Stuck at home, physicists pivot to combat COVID-19"](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4519) was published in Physics Today highlighting the COVID-19 efforts of the physics community.  The article includes work by Peter Elmer with the [Princeton Open Ventilation Monitor](https://ovm.princeton.edu/) and Savannah Thais' efforts with [Science Responds](https://science-responds.org/).
 
   * UNL Research Professor Derek Weitzel and others from the
     [Open Science Grid](https://opensciencegrid.org/) team are working with resource providers
@@ -61,7 +61,7 @@ examples of our activities include:
     the local multi-hospital healthcare system and a number of other
     Princeton Physics, Mechanical Engineering and Neuroscience faculty.
     The system includes data analysis algorithms, visualization and data
-    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>) This outreach activity has also spawned a separately funded research activity ([PHY-2031509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031509&HistoricalAwards=false)) by NSF.
+    acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. (<a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png">Click for larger image.</a>) This outreach activity has also spawned a separately funded research activity ([PHY-2031509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031509&HistoricalAwards=false)) by NSF.  A preprint article summarizing this work has is available here ["Inexpensive multi-patient respiratory monitoring system for helmet ventilation during COVID-19 pandemic"](Inexpensive multi-patient respiratory monitoring system for helmet ventilation during COVID-19 pandemic)
 
 <center>
 <a href="/assets/images/20200411-Princeton-Open-Vent-Monitor.png"><img width="40%" src="/assets/images/20200411-Princeton-Open-Vent-Monitor-thumb.png"></a>
