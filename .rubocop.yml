@@ -5,7 +5,7 @@ Metrics/MethodLength:
 Style/NumericLiterals:
   Enabled: false
 Metrics/AbcSize:
-  Max: 50
+  Max: 55
 Metrics/ClassLength:
   Max: 200
 Metrics/PerceivedComplexity:
