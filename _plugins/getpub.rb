@@ -56,6 +56,7 @@ module Publications
     def prepare(pub, name)
       pub['focus-area'] ||= []
       pub['project'] ||= []
+      pub['filename'] = name
 
       force_array(pub, 'project')
 
@@ -145,8 +146,10 @@ module Publications
       j = data.dig('publication_info', 0) # This may be nil
       journal =
         if j&.key?('journal_title') && j&.key?('year')
+          pub['needs-nsf-par'] = true unless pub.key?('needs-nsf-par')
           "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
         elsif data.key? 'arxiv_eprints'
+          pub['needs-nsf-par'] = false unless pub.key?('needs-nsf-par')
           "arXiv #{data['arxiv_eprints'][0]['value']}"
         else
           'Unknown'
