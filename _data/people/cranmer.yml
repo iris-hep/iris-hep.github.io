@@ -246,9 +246,9 @@ presentations:
     focus-area: as, ia, core
   - title: "The interplay of Math, Physics, and Machine Learning"
     date: 2020-07-02
-    url: https://mpml.tecnico.ulisboa.pt
+    url: https://mpml.tecnico.ulisboa.pt/seminars?id=5806
     meeting:  IST seminar series Mathematics, Physics & Machine Learning
-    meetingurl: https://mpml.tecnico.ulisboa.pt
+    meetingurl: https://mpml.tecnico.ulisboa.pt/seminars?id=5806
     location: Lisbon, Portugal (Virtual)
     focus-area: as, ia
   - title: "How machine learning can help us get the most out of our highest fidelity physical models"
