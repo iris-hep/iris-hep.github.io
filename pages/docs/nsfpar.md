@@ -23,6 +23,7 @@ an `nsf-par-id` really is not needed, set `needs-nsf-par: false` explicitly.
       <li>
         <code class="highlighter-rouge">_data/publications/{{ pub.filename }}.yml</code>:
         {% include print_pub.html pub=pub -%}
+        {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
       </li>
     {%- endif -%}{%- endunless -%}
   {% endfor %}
@@ -39,6 +40,7 @@ For each of these, `nsf-par-id` has been added.
       <li>
         <code class="highlighter-rouge">_data/publications/{{ pub.filename }}.yml</code>:
         {% include print_pub.html pub=pub -%}
+        {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
       </li>
     {%- endif -%}
   {% endfor %}
@@ -57,6 +59,7 @@ manually entered.
       <li>
         <code class="highlighter-rouge">_data/publications/{{ pub.filename }}.yml</code>:
         {% include print_pub.html pub=pub -%}
+        {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
       </li>
     {%- endunless -%}{%- endunless -%}
   {% endfor %}
