@@ -1,7 +1,6 @@
 # "Open is not enough" in Nature
-# This publication does not acknowledge IRIS-HEP. It only references DIANA/HEP
-# so should probably be a "prior related work".
 inspire-id: 1704097
+related-work: true
 focus-area: as
 project: 
 - recast
