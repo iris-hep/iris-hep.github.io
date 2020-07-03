@@ -12,20 +12,20 @@ This is a list of the publications, along with the NSF PAR status.
 {% assign doPublications = 0 %}
 {% include get_pub_list.html %}
 
-### TODO: Needs a NSF PAR ID
+### TODO: Needs an NSF PAR ID
 
 For each of these, `nsf-par-id: <number>` should be added to the datafile. If
 an `nsf-par-id` really is not needed, set `needs-nsf-par: false` explicitly.
 
 <ul>
   {% for pub in sorted_publications %}
-    {% unless pub.nsf-par-id -%}{%- if pub.needs-nsf-par -%}
+    {% unless pub.nsf-par-id -%}{%- if pub.needs-nsf-par -%}{%- unless pub.related-work -%}
       <li>
         <code class="highlighter-rouge">_data/publications/{{ pub.filename }}.yml</code>:
         {% include print_pub.html pub=pub -%}
         {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
       </li>
-    {%- endif -%}{%- endunless -%}
+    {%- endunless -%}{%- endif -%}{%- endunless -%}
   {% endfor %}
 </ul>
 
@@ -36,7 +36,43 @@ For each of these, `nsf-par-id` has been added.
 
 <ul>
   {% for pub in sorted_publications %}
-    {% if pub.nsf-par-id -%}
+    {% if pub.nsf-par-id -%}{%- unless pub.related-work -%}
+      <li>
+        <code class="highlighter-rouge">_data/publications/{{ pub.filename }}.yml</code>:
+        {% include print_pub.html pub=pub -%}
+        {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
+      </li>
+    {%- endunless -%}{%- endif -%}
+  {% endfor %}
+</ul>
+
+
+### No explicit request for ID
+
+These do not have NSF PAR IDs, and probably do not need one; either because
+they are arXiv only, have an explicit false for `needs-nsf-par`, or were
+manually entered.
+
+<ul>
+  {% for pub in sorted_publications %}
+    {% unless pub.nsf-par-id -%}{%- unless pub.needs-nsf-par -%}{%- unless pub.related-work -%}
+      <li>
+        <code class="highlighter-rouge">_data/publications/{{ pub.filename }}.yml</code>:
+        {% include print_pub.html pub=pub -%}
+        {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
+      </li>
+    {%- endunless -%}{%- endunless -%}{%- endunless -%}
+  {% endfor %}
+</ul>
+
+### Prior or related work
+
+These do not need to have NSF PAR IDs (at least for IRIS-HEP purposes) as 
+they are prior or related work.
+
+<ul>
+  {% for pub in sorted_publications %}
+    {%- if pub.related-work -%}
       <li>
         <code class="highlighter-rouge">_data/publications/{{ pub.filename }}.yml</code>:
         {% include print_pub.html pub=pub -%}
@@ -46,21 +82,3 @@ For each of these, `nsf-par-id` has been added.
   {% endfor %}
 </ul>
 
-
-### No explicit request for ID
-
-These to not have NSF PAR IDs, and probably do not need one; either because
-they are arXiv only, have an explicit false for `needs-nsf-par`, or were
-manually entered.
-
-<ul>
-  {% for pub in sorted_publications %}
-    {% unless pub.nsf-par-id -%}{%- unless pub.needs-nsf-par -%}
-      <li>
-        <code class="highlighter-rouge">_data/publications/{{ pub.filename }}.yml</code>:
-        {% include print_pub.html pub=pub -%}
-        {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
-      </li>
-    {%- endunless -%}{%- endunless -%}
-  {% endfor %}
-</ul>
