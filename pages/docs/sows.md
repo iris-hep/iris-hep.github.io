@@ -31,7 +31,7 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Friday, 10 July, 2020 |||| Draft Y3 budgets and justifations sent to Maureen, Floe and Peter |
+| Friday, 10 July, 2020 |||| Subaward grant admins send draft Y3 budgets and justifications sent to Maureen, Floe and Peter |
 | Friday, 24 July, 2020 |||| Final budgets ready for Y3 SOWs |
 
 ---
