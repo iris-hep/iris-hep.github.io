@@ -31,8 +31,8 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Friday, 10 July, 2019 |||| Draft Y2 budgets and justifations sent to Maureen, Floe and Peter |
-| Friday, 24 July, 2019 |||| Final budgets ready for Y2 SOWs |
+| Friday, 10 July, 2020 |||| Draft Y3 budgets and justifations sent to Maureen, Floe and Peter |
+| Friday, 24 July, 2020 |||| Final budgets ready for Y3 SOWs |
 
 ---
 
