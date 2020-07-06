@@ -1,7 +1,7 @@
 title: "SkyhookDM: Mapping Scientific Datasets to Programmable Storage"
-link: https://users.soe.ucsc.edu/~carlosm/dev/publication/chu-chep-19/
+link: https://arxiv.org/abs/2007.01789
 date: 2019-11-08
-citation: "Aaron Chu and Jeff LeFevre and Carlos Maltzahn and Aldrin Montana and Peter Alvaro and Dana Robinson and Quincey Koziol, arXiv (submitted) [cs.DS]"
+citation: "Aaron Chu and Jeff LeFevre and Carlos Maltzahn and Aldrin Montana and Peter Alvaro and Dana Robinson and Quincey Koziol, arXiv:2007.01789 [cs.DS]"
 submitted-to: CHEP 2019
 focus-area: doma
 project: reproducibility
