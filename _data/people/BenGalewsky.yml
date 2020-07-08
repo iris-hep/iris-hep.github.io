@@ -6,6 +6,13 @@ institution: National Center for Supercomputing Applications
 website: https://github.com/BenGalewsky
 photo: /assets/images/team/Ben-Galewsky.jpg
 presentations:
+  - title: "ServiceX and Kubernetes"
+    date: 2020-07-08
+    url: https://indico.cern.ch/event/813749/contributions/3932531/attachments/2070530/3476782/ServiceX_and_Kubernetes.pdf
+    meeting: "LHCG Grid Deployment Board meeting"
+    meetingurl: https://indico.cern.ch/event/813749/
+    location: Virtual
+    focus-area: ssl, doma
   - title: ServiceX
     date: 2019-06-19
     url: https://indico.cern.ch/event/822074/contributions/3471452/attachments/1865411/3067262/ServiceX_For_AS_Workshop.pdf
