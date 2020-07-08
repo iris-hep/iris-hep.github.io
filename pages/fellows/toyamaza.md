@@ -13,7 +13,7 @@ website:
 e-mail: tomohiro.yamazaki@cern.ch
 project_title: ACTS integration into the ATLAS reconstruction software
 project_goal: >
-The track reconstruction is the most time-consuming part of the ATLAS reconstruction software, and the HL-LHC upgrade requires significant innovation to perform tracking in the high pile-up environment. A Common Tracking Software (ACTS) is an open-source project developing an experiment-independent set of track reconstruction tools. This project aims to integrate ACTS into the ATLAS reconstruction software and evaluate the ACTS (Combined) Kalman Filter tracking performance with the ATLAS ITk detector layout.
+  The track reconstruction is the most time-consuming part of the ATLAS reconstruction software, and the HL-LHC upgrade requires significant innovation to perform tracking in the high pile-up environment. A Common Tracking Software (ACTS) is an open-source project developing an experiment-independent set of track reconstruction tools. This project aims to integrate ACTS into the ATLAS reconstruction software and evaluate the ACTS (Combined) Kalman Filter tracking performance with the ATLAS ITk detector layout.
 mentors:
   - heather-gray
 proposal: /assets/pdf/Fellow-TomohiroYamazaki-Proposal.pdf
