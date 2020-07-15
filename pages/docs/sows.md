@@ -8,12 +8,12 @@ pagetype: doc
 ## Annual Subaward Statement of Work and Budgets
 
 The Institute for Research and Innovation in Software for High
-Energy Physics (IRIS-HEP) is managed as a single project with 17
+Energy Physics (IRIS-HEP) is managed as a single project with 18
 participating institutions. Funds will be released to subaward
 institutions through an annual Statement of Work (SOW) process
 which will define institutional budgets, tasks and deliverables for the
 specific (upcoming) one year time period. For example Year 1 of the IRIS-HEP 
-project is from 1 September, 2018 through 31 August, 2019.
+project is from 1 September, 2018 through 31 August, 2019. 
 
   This annual process requires several steps and documents:
 
@@ -25,15 +25,14 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
   This combined multi-step process is what is meant by the "annual budget and SOW process".
 
-### Dates for IRIS-HEP annual budget and SOW process for Y2 (2019 - 2020)
+### Dates for IRIS-HEP annual budget and SOW process for Year 3 (2020 - 2021), covering the period from 1 September, 2020, through 31 August, 2021.
 
 ---
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Monday, 17 June, 2019 |||| Draft Y2 budgets and justifations sent to Maureen, Floe and Peter |
-| Monday, 1 July, 2019 |||| Final budgets ready for Y2 SOWs |
-| Thursday, 1 August, 2019 |||| Y2 subaward updates done |
+| Friday, 10 July, 2020 |||| Subaward grant admins send draft Y3 budgets and justifications sent to Maureen, Floe and Peter |
+| Friday, 24 July, 2020 |||| Final budgets ready for Y3 SOWs |
 
 ---
 
@@ -54,8 +53,8 @@ budget is required.
 In addition you should write a budget justification which contains the 
 information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to 
 funds required for a _single_ year and the defined time period, which should 
-be noted explicitly in the justification. For example, "IRIS-HEP Year 2: 
-1 September, 2019 - 31 August, 2020" or similar should appear near the top 
+be noted explicitly in the justification. For example, "IRIS-HEP Year 3: 
+1 September, 2020 - 31 August, 2021" or similar should appear near the top 
 of the document.
 
   In addition to the standard budget justification information, additional

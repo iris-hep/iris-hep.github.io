@@ -1,7 +1,7 @@
 ---
 permalink: /projects/modeling.html
 layout: project
-title: Modeling Data Worfklows
+title: Modeling Data Workflows
 shortname: modeling
 pagetype: project
 image: logos/modeling.png
@@ -11,6 +11,7 @@ focus-area:
  - osglhc
 team:
  - fkw888
+ - ddavila0
 ---
 
 The physics program of the HL-LHC (2026-2040) is not that different
@@ -33,3 +34,8 @@ caching strategies" to "global replication strategies", and the management
 of network and storage assets to support processing. It thus provides the
 analytical underpinning of other DOMA projects.
 
+## Reports
+
+[Report on cache usage on the WLCG and potential use cases and deployment scenarios for the US LHC facilities](https://github.com/iris-hep/iris-hep.github.io-source/blob/master/assets/pdf/Cache_Usage_on_the_WLCG.pdf)
+
+[Report on LHC data access patterns, data uses, and intelligent caching approaches for the HL-LHC (draft)](https://github.com/iris-hep/iris-hep.github.io-source/blob/master/assets/pdf/LHC_Data_Access_Patterns_draft.pdf)

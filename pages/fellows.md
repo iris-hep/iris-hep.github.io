@@ -6,6 +6,8 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program 
 
+### Proposals for Summer 2020 are no longer being accepted.  We are still accepting proposals for Fall 2020.
+
   People are the key to successful software. IRIS-HEP aims to promote the 
 development of advanced research software skills by providing opportunities 
 for undergraduate and graduate students to connect with mentors within the
@@ -117,4 +119,6 @@ fellow could contribute to (and this project could support two separate fellows 
 The first is on the Machine Learning side by implementing, training, and evaluating additional GNN architectures
  and graph construction methods. The second is on the hardware and acceleration side by working on translating 
 the graph components of these algorithms efficiently onto FPGAs.
+
+- **Augment SkyhookDM with in-storage support for a relevant subset of Awkward Array operations**. [SkyhookDM](https://www.skyhookdm.com) is a storage system that allows users to transparently grow and shrink their data storage and processing needs as demands change. SkyhookDM utilizes and extends the Ceph distributed object storage platform with customized C++ "object classes" that enable database operations such as `SELECT`, `PROJECT`, `AGGREGATE` to be offloaded directly into the object storage layer.  Awkward arrays are currently stored as [lists within Arrow tables](https://arrow.apache.org/docs/cpp/api/datatype.html#classarrow_1_1_list_type) inside Skyhook.  This project will investigate and implement a small subset of [awkard array](https://github.com/scikit-hep/awkward-array) operations that can be offloaded ("pushed down") into storage for query processing. Common list manipulations that perform data reduction such as filters or summary/agg methods will be most useful to apply withing storage, since these will reduce network IO transferred back to the client from the storage layer. 
 

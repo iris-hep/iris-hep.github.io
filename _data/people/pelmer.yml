@@ -83,3 +83,21 @@ presentations:
     meeting: "8th Scientific Computing Forum"
     meetingurl: https://indico.cern.ch/event/852994/
     location: CERN
+  - title: "The IRIS-HEP Software Institute: Motivation and Activities" 
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/855317/contributions/3671702/attachments/1992234/3327748/IRIS-HEP-18-Month-Overview-v2.pdf
+    meeting: "NSF 18-Month Review of IRIS-HEP"
+    meetingurl: https://indico.cern.ch/event/855317/timetable/
+    location: Princeton University
+  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
+    date: 2020-03-26
+    url: https://docs.google.com/presentation/d/1OXSJDHtzlip9F215YW7AHbUynpr3kWawIQ5zo75Mga0/edit#slide=id.g7f5f2e8030_8_0
+    meeting: "CMS Offline and Computing Week - Discussion of External Projects"
+    meetingurl: https://indico.cern.ch/event/902343/
+    location: Zoom-only
+  - title: "IRIS-HEP - US-ATLAS"
+    date: 2020-05-07
+    url: https://docs.google.com/presentation/d/1R64LuoEK_1PHwO7cOU6cO8xmU1IASa9QdQqQQNMAGq4/edit#slide=id.g776ba7baaf_2_86
+    meeting: "US ATLAS Operations L2/L3 Managers Meeting"
+    meetingurl: https://indico.cern.ch/e/901076
+    location: Zoom

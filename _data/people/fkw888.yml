@@ -6,6 +6,38 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: "Data use by the CMS experiment at the LHC"
+    date: 2020-06-15
+    meetingurl: https://sdm.lbl.gov/net/#frank2020
+    url: https://sdm.lbl.gov/net/FrankWurthwein-esnet-200515.pdf
+    meeting: ESNet Seminar
+    location: Zoom, US
+    focus-area: doma
+    project: modeling
+  - title: "Idea for a production focused Data Challenge"
+    date: 2020-05-05
+    meetingurl: https://indico.cern.ch/event/912400/
+    url: https://indico.cern.ch/event/912400/contributions/3837180/attachments/2025219/3400807/DOMA-Access-May5th2020.pdf
+    meeting: DOMA Access Meeting WLCG
+    focus-area: doma
+  - title: "GPU Cloud Bursting for Multi-Messenger Astrophysics with IceCube"
+    date: 2020-04-30
+    meetingurl: https://pages.awscloud.com/gpu-cloud-bursting.html
+    url: https://d1.awsstatic.com/WWPS/pdf/Running-a-GPU-burst-for-Multi-Messenger-Astrophysics-with-IceCube.pdf
+    meeting: "AWS Education: Research Seminar Series"
+    focus-area: doma
+  - title: "Draft Proposals for Workplan towards the ESNet review"
+    date: 2020-04-15
+    meetingurl: https://indico.cern.ch/event/907734/
+    url: https://indico.cern.ch/event/907734/contributions/3819195/attachments/2020624/3378498/uscms_blueprint_200415.pdf
+    meeting: S&C Blueprint Meeting
+    focus-area: osglhc
+  - title: "Thoughts on Prep for ESNet workshop"
+    date: 2020-03-18
+    meetingurl: https://indico.cern.ch/event/896371/
+    url: https://indico.cern.ch/event/896371/contributions/3779617/attachments/2005089/3349622/networkingBlueprintMarch18th2020.pdf
+    meeting: S&C Blueprint Meeting
+    focus-area: osglhc
   - title: "Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
     date: 2020-01-27
     url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
@@ -36,7 +68,7 @@ presentations:
     meeting: 2019 NSF CC* and CICI PI Pre-Workshop Breakout on OSG
     focus-area: osglhc
     meetingurl: https://www.thequilt.net/public-event/2019-nsf-cc-and-cici-pi-pre-workshop-breakouts/#osgd  
-  - title: "Advancing Open Science through distributed High Througput Computing - The OSG Data Federation"
+  - title: "Advancing Open Science through distributed High Throughput Computing - The OSG Data Federation"
     date: 2019-09-18
     url: http://grp-workshop-2019.ucsd.edu/presentations/4_WUERTHWEIN-GRP-2019-OSG.pdf
     meeting: Global Research Platform Workshop
