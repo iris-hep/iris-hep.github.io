@@ -9,7 +9,7 @@ shortname: Tommy
 project_title: Improving the User Interface to OSG-LHC Network Metrics
 dates: May - August 2020
 photo: /assets/images/team/Thomas-Shearer.jpg
-institution: Univeristy of Michigan - Ann Arbor
+institution: University of Michigan - Ann Arbor
 website: https://github.com/shearert
 email: shearert@umich.edu
 mentors:
