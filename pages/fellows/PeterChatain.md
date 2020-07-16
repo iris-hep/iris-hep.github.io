@@ -7,7 +7,7 @@ shortname: peter
 title: Peter Chatain - IRIS-HEP Fellow 
 dates: Jun-Sep 2020
 photo: /assets/images/team/Peter-Chatain.jpeg
-institution: Stanford University, 
+institution: Stanford University
 website: https://github.com/Pchatain
 e-mail: pchatain@stanford.edu
 project_title: Example Track Seeding Algorithm for ACTS
