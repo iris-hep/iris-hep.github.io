@@ -1,9 +1,12 @@
 name: CI
 
 on:
+  workflow_dispatch:
   pull_request:
   push:
     branches: master
+  schedule:
+  - cron: "0 0 * * *"
 
 jobs:
   website:
@@ -52,6 +55,8 @@ jobs:
       run: bundle exec rake build
       env:
         JEKYLL_ENV: production
+        INDICO_API_KEY: ${{ secrets.INDICO_API_KEY }}
+        INDICO_SECRET_KEY: ${{ secrets.INDICO_SECRET_KEY }}
 
     - name: Check for issues
       run: bundle exec rake checkonly || true
