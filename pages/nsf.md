@@ -17,7 +17,7 @@ Not all of the below information is available without a password.
 * [High-Level Overview Slides](https://docs.google.com/presentation/d/1FOkTKZbzyEPAzhZ5TNaxB3Gkqs1VzzS9CNXdNuJhx9Y/edit#slide=id.g450ed9a7a4_0_5) 
 
 ### IRIS-HEP Areas
-IRIS-HEP is composed of the following areas. The first three are the main development areas.
+IRIS-HEP is composed of the following areas: 
 
 | Area | &nbsp; &nbsp; &nbsp; Links &nbsp; &nbsp; &nbsp;| NSF Deep Dive Talks |
 | ---- | :-------------: | :----- |
