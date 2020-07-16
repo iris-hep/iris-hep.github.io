@@ -9,7 +9,7 @@ blurb: Functional Analysis Description Language
 focus-area: as
 team:
  - gordonwatts
- - etorro
+ - etorro (left the project)
  - masonproffitt
 ---
 
