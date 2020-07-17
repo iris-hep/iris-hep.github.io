@@ -267,10 +267,17 @@ presentations:
     focus-area: as, ia
   - title: "Graphs, Trees, and Sets: structured data in physics"
     date: 2020-07-17
-    url: https://invertibleworkshop.github.io
+    url: https://grlplus.github.io/schedule/
     meeting: ICML Workshop on Graph Representation Learning
-    meetingurl: https://invertibleworkshop.github.io
+    meetingurl: https://grlplus.github.io/schedule/
     location: Vienna, Austria (Virtual)
+    focus-area: as, ia
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-07-21
+    url: https://uni-tuebingen.de/en/165313#c1124370
+    meeting: Machine Learning in Science 2020
+    meetingurl: https://uni-tuebingen.de/en/165313#c1124370
+    location: Eberhard Karls Universität Tübingen (Virtual)
     focus-area: as, ia
   - title: "Lectures on Statistics"
     date: 2020-08-10
