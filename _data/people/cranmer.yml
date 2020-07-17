@@ -258,6 +258,13 @@ presentations:
     meetingurl: https://ai4science-amsterdam.github.io/events.html
     location: Amsterdam, Netherlands (Virtual)
     focus-area: as, ia
+  - title: "Panel Discussion: A community perspective on Equity in HEP"
+    date: 2020-07-09
+    url: https://science.osti.gov/hep/hepap/Meetings/202007
+    meeting: High Energy Physics Advisory Panel
+    meetingurl: https://science.osti.gov/hep/hepap/Meetings/202007
+    location: Virtual
+    focus-area: core
   - title: "Likelihood-based models for Simulation-based Inference"
     date: 2020-07-17
     url: https://invertibleworkshop.github.io
