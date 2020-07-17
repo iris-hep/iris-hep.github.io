@@ -165,3 +165,10 @@ presentations:
     location: Princeton, New Jersey, US
     focus-area: as
     project: histogram
+  - title: "Boost-histogram: High-Performance Histograms as Objects"
+    date: 2020-07-07
+    url: http://conference.scipy.org/proceedings/scipy2020/henry_schreiner.html
+    meetingurl: https://www.scipy2020.scipy.org
+    meeting: "Python in Science Conference (SciPy) 2020"
+    location: Virtual
+
