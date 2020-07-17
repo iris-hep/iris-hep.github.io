@@ -12,6 +12,7 @@ module Indico
   MEETING_IDS = {
     topical: 10570,
     nsfreport: 11204,
+    blueprint: 11329,
     sb: 10989,
     ap: 11519
   }.freeze

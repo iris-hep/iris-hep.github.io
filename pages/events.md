@@ -18,11 +18,12 @@ Go through the list and produce a breakdown of the events in reverse
 chronological order, grouped by months
 {% endcomment %}
 
+{%- include get_all_events.html -%}
+
 {% for yearidx in yearlist %}
 {% for monthidx in monthlist %}
-{% assign selected_array = "" | split: ',' %}
-{% for event_hash in site.data.events  %}
-  {% assign event = event_hash[1] %}
+{% assign selected_array = "" | split: "," %}
+{% for event in all_events  %}
   {% assign eventyear = event.startdate | date: "%Y" %}
   {% assign eventmonth = event.startdate | date: "%m" %}
   {% if eventyear == yearidx and eventmonth == monthidx %}

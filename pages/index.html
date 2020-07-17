@@ -101,13 +101,15 @@ ongoing events don't get prematurely flagged as recent.
 <h4>Upcoming Events:</h4>
 </div>
 
-{% for event_hash in site.data.events %}
-  {% assign event = event_hash[1] %}
+{%- include get_all_events.html -%}
+
+{% for event in all_events %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp >= sixdaysago %} 
      {% assign selected_events = selected_events | push: event %}
   {% endif %}
 {% endfor %}
+
 
 <ul>
   {% assign selected_events = selected_events | sort: 'startdate' %}
