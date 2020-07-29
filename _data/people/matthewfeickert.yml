@@ -83,12 +83,11 @@ presentations:
     focus-area: as
   - title: "pyhf: a pure Python statistical fitting library with tensors and autograd"
     date: 2020-07-07
-    url: https://matthewfeickert.github.io/talk-SciPy-2020/index.html
+    url: https://doi.org/10.25080/Majora-342d178e-023
     meeting: 19th Python in Science Conference (SciPy 2020)
-    meetingurl: https://www.scipy2020.scipy.org/
+    meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
     location: Virtual
     focus-area: as
-    comment: Proceedings for slides not yet published
   - title: "pyhf Tutorial: Accelerating analyses and preserving likelihoods"
     date: 2020-07-16
     url: https://indico.cern.ch/event/882824/contributions/3931292/
