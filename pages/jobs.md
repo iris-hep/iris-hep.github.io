@@ -19,6 +19,9 @@ title: Available Positions
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
+### University of Cincinnati
+  * [Postdoctoral Fellow Position in the Neutrino Physics Group](https://jobs.uc.edu/job/Cincinnati-Post-Doctoral-Fellow%2C-Physics-OH-45201/661952700/)
+
 ### University of Notre Dame
   * [Postdoc on CMS for ML optimization and accelerating algorithms with GPUs](https://academicjobsonline.org/ajo/jobs/16334)
 
