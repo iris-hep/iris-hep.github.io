@@ -13,7 +13,7 @@ team:
  - xiaocong-ai
  - latompkins
  - rockybala
- - toyamaza
+ - Tomohiro Yamazaki
  - Irina Ene
 ---
 
