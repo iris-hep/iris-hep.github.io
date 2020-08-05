@@ -80,6 +80,7 @@ presentations:
     meeting: IRIS-HEP retreat
     focus-area: osglhc
     meetingurl: https://indico.cern.ch/event/840472/
+    project: caching
   - title: "Advancing Open Science through distributed High Througput Computing"
     date: 2019-09-11
     url: https://indico.cern.ch/event/739882/contributions/3520011/attachments/1906491/3148700/gdbSeptember2019.pdf
@@ -102,10 +103,12 @@ presentations:
     date: 2019-07-08
     meeting: "pre-GDB meeting on XCache"
     url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune8th2019.pptx
+    project: caching
   - title: "Reducing Disk Needs with a Data Lake Concept"
     date: 2019-07-05
     meeting: "ECoM2x meeting CMS"
     url: http://uaf-8.t2.ucsd.edu/~fkw/ecom2xJuly5th2019.pptx
+    project: modeling
   - title: "Advancing Open Science through distributed High Throughput Computing"
     date: 2019-06-25
     meeting: "NERSC Seminar talk"
@@ -135,6 +138,7 @@ presentations:
     date: 2019-06-04
     meeting: "DOMA Access Meeting WLCG"
     url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune4th2019.pptx
+    project: modeling
   - title: "OSG Value Proposition for Campuses"
     date: 2019-05-21
     url: https://drive.google.com/file/d/1WgaZMtm_DNB2qt8_-GJkVs66mlI4cORE/view?usp=drive_web

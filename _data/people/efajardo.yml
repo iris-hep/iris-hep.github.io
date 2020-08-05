@@ -13,6 +13,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/760850/
   location: CERN
   focus-area: doma
+  project: caching
 - title: OSG Cache on Internet Backbone developments
   date: 2019-01-16
   url: https://indico.cern.ch/event/739874/contributions/3278170/attachments/1779441/2894250/OSG-Caches-Backbone.pdf
@@ -20,28 +21,33 @@ presentations:
   meetingurl: https://indico.cern.ch/event/739874/
   location: CERN
   focus-area: osglhc
+  project: caching
 - title: XRootD and HTTP performance studies
   date: 2019-06-12
   url: https://indico.cern.ch/event/727208/contributions/3444623/
   meeting: XrootD Workshop@CC-IN2P3
   location: IN2P3
   focus-area: doma
+  project: tpc
 - title: Moving the California distributed CMS xcache from bare metal into containers using Kubernetes
   date: 2019-11-05
   url: https://indico.cern.ch/event/773049/contributions/3474397/
   meeting: CHEP 2019
   location: Adelaide
   focus-area: doma
+  project: caching
 - title: Creating a content delivery network for general science on the backbone of the Internet using xcaches.
   date: 2019-11-05
   url: https://indico.cern.ch/event/773049/contributions/3474397/
   meeting: CHEP 2019
   location: Adelaide
+  project: caching
 - title: Benchmarking xrootd HTTP tests
   date: 2019-11-27
   url: https://indico.cern.ch/event/866244/contributions/3650022/
   meeting: WLCG DOMA General Meeting
   location: CERN
+  project: tpc
 - title: Modernizing the LHC’s transfer infrastructure
   date: 2020-02-27
   url: https://indico.cern.ch/event/894127/attachments/1996570/3331169/1_-_Modernizing_LHC_Transfer_Infra_-_v1.pdf
@@ -49,6 +55,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/894127/
   location: Princeton University
   focus-area: doma
+  project: tpc
 - title: XCache
   date: 2020-02-27
   url: https://indico.cern.ch/event/894127/attachments/1996570/3331171/4_-_XCache_-_v1.pdf
@@ -56,6 +63,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/894127/
   location: Princeton University
   focus-area: doma
+  project: caching
 - title: How CMS user jobs use the caches
   date: 2020-04-23
   url: https://docs.google.com/presentation/d/1vofUOf9dK7R1j75IF9EY1tcbCB9WTqTonhgnX4k8yg8/edit#slide=id.p
