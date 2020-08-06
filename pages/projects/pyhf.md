@@ -44,11 +44,10 @@ team:
 * Matthew Feickert's [SciPy 2020 talk](https://matthewfeickert.github.io/talk-SciPy-2020/index.html):
 
 <!-- http://www.get-youtube-thumbnail.com/ -->
-[![SciPy 2020 talk YouTube](http://i3.ytimg.com/vi/FrH9s3eB6fU/maxresdefault.jpg)](https://youtu.be/FrH9s3eB6fU)
+[![SciPy 2020 talk YouTube](http://i3.ytimg.com/vi/FrH9s3eB6fU/hqdefault.jpg)](https://youtu.be/FrH9s3eB6fU)
 
-* [PyHEP 2020 tutorial](https://matthewfeickert.github.io/talk-SciPy-2020/index.html) (uses `pyhf` `v0.4.4`):
+* [PyHEP 2020 tutorial](https://indico.cern.ch/event/882824/contributions/3931292/) (uses `pyhf` `v0.4.4`):
 
-<!-- http://www.get-youtube-thumbnail.com/ -->
 [![PyHEP 2020 tutorial YouTube](http://i3.ytimg.com/vi/V0Li05ijv0U/hqdefault.jpg)](https://youtu.be/V0Li05ijv0U)
 
 ### Use in Publications
