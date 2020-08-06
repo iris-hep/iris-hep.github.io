@@ -18,9 +18,6 @@ team:
 
 `pyhf` is a pure-python implementation of the widely-used HistFactory p.d.f. template described in [[CERN-OPEN-2012-016](https://cds.cern.ch/record/1456844)]. It also includes interval estimation is based on the asymptotic formulas of "Asymptotic formulae for likelihood-based tests of new physics" [[arxiv:1007.1727](https://arxiv.org/abs/1007.1727)]. The aim is also to support modern computational graph libraries such as PyTorch and TensorFlow in order to make use of features such as autodifferentiation and GPU acceleration.
 
-[A talk on `pyhf` by Matthew Feickert](https://matthewfeickert.github.io/talk-SciPy-2020/index.html)
-
-
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/scikit-hep/pyhf/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1169739.svg)](https://doi.org/10.5281/zenodo.1169739)
 [![Scikit-HEP](https://scikit-hep.org/assets/images/Scikit--HEP-Project-blue.svg)](https://scikit-hep.org/)
@@ -41,6 +38,18 @@ team:
 [![Supported Python versionss](https://img.shields.io/pypi/pyversions/pyhf.svg)](https://pypi.org/project/pyhf/)
 [![Docker Stars](https://img.shields.io/docker/stars/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
+
+### Recent Talks and Tutorials
+
+* Matthew Feickert's [SciPy 2020 talk](https://matthewfeickert.github.io/talk-SciPy-2020/index.html):
+
+<!-- http://www.get-youtube-thumbnail.com/ -->
+[![SciPy 2020 talk YouTube](http://i3.ytimg.com/vi/FrH9s3eB6fU/maxresdefault.jpg)](https://youtu.be/FrH9s3eB6fU)
+
+* [PyHEP 2020 tutorial](https://matthewfeickert.github.io/talk-SciPy-2020/index.html) (uses `pyhf` `v0.4.4`):
+
+<!-- http://www.get-youtube-thumbnail.com/ -->
+[![PyHEP 2020 tutorial YouTube](http://i3.ytimg.com/vi/V0Li05ijv0U/hqdefault.jpg)](https://youtu.be/V0Li05ijv0U)
 
 ### Use in Publications
 
