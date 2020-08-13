@@ -107,6 +107,8 @@ module Publications
       end
     end
 
+    # rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
+
     # Look up inspire data *if* inspire-id given
     def inspire(pub)
       return unless pub.key? 'inspire-id'
@@ -156,6 +158,8 @@ module Publications
         end
       pub['citation'] ||= "#{mini_authors}, #{journal}"
     end
+    #
+    # rubocop:enable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
 
     # Load a yaml file from the cache
     # Return a bool if an update is needed
@@ -164,7 +168,7 @@ module Publications
 
       f = YAML.load_file fname
       pub.map do |key, value|
-        oldvalue = f.dig(key)
+        oldvalue = f[key]
         return false unless oldvalue == value
       end
 
