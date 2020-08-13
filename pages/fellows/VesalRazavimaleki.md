@@ -30,7 +30,9 @@ active: green
 
 
 
-dates: July - September 2020
+dates:
+    - start_date: 2020-07-01
+      end_date: 2020-09-30
 
 
 
