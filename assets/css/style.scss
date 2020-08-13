@@ -54,6 +54,32 @@ header.masthead {
   }
 }
 
+// Light mode
+pre code {
+  color: #333;
+  span.na {
+    color: #444;
+  }
+  span.pi {
+    color: #000;
+  }
+  span.s {
+    color: #070;
+  }
+  span.m {
+    color: #550;
+  }
+  span.c1 {
+    color: #44A;
+  }
+  span.nb {
+    color: #963;
+  }
+  span.nt {
+    color: #c33c3c;
+  }
+}
+
 // Dark mode
 @media (prefers-color-scheme: dark) {
 
@@ -94,6 +120,34 @@ header.masthead {
   }
   img.header-logo {
     background-color: white;
+  }
+
+  code.highlighter-rouge {
+    color: #ff9cc9;
+  }
+  pre code {
+    color: #BBB;
+    span.na {
+      color: #DDD;
+    }
+    span.pi {
+      color: #FFF;
+    }
+    span.s {
+      color: #AFA;
+    }
+    span.m {
+      color: #DDA;
+    }
+    span.c1 {
+      color: #99C;
+    }
+    span.nb {
+      color: #FDA;
+    }
+    span.nt {
+      color: #F99;
+    }
   }
 }
 
