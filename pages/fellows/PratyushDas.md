@@ -7,10 +7,10 @@ title: Reik Das - IRIS-HEP Fellow
 fellow-name: Pratyush (Reik) Das
 shortname: reikdas
 dates:
-  - start_date: 2020-06-01
-    end_date: 2020-09-01
-  - start_date: 2019-06-01
-    end_date: 2019-09-01
+- start_date: 2020-06-01
+  end_date: 2020-09-01
+- start_date: 2019-06-01
+  end_date: 2019-09-01
 photo: /assets/images/team/Pratyush-Das.jpg
 institution: Institute of Engineering & Management (Kolkata)
 website: https://reikdas.github.io/

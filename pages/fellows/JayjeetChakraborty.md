@@ -5,9 +5,8 @@ pagetype: fellow
 fellow-name: Jayjeet Chakraborty
 shortname: jayjeet
 title: Jayjeet Chakraborty - IRIS-HEP Fellow
-dates:
-    - start_date: 2020-06-01
-      end_date: 2020-09-30
+start_date: 2020-06-01
+end_date: 2020-09-30
 photo: /assets/images/team/Jayjeet-Chakraborty.png
 institution: National Institute Of Technology, Durgapur
 website: https://github.com/JayjeetAtGithub/

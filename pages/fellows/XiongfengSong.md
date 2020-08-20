@@ -7,9 +7,8 @@ title: Xiongfeng Song - IRIS-HEP Fellow
 fellow-name: Xiongfeng Song
 shortname: Xiongfeng
 project_title: Implement Skyhook row index filter operation, Awkward list in-storage operations and Coffea processor/executor
-dates:
-    - start_date: 2020-06-01
-      end_date: 2020-08-31
+start_date: 2020-06-01
+end_date: 2020-08-31
 photo: /assets/images/team/Xiongfeng_Song.JPG
 institution: Rice University
 website: https://github.com/kingwind123

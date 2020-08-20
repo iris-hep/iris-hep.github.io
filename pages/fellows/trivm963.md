@@ -30,9 +30,8 @@ active: green
 
 
 
-dates:
-    - start_date: 2020-05-01
-      end_date: 2020-08-31
+start_date: 2020-05-01
+end_date: 2020-08-31
 
 
 photo: /assets/images/team/trivm963.jpg

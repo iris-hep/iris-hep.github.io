@@ -6,9 +6,8 @@ permalink: /fellows/rfarkas.html
 fellow-name: Ralf Farkas
 title: Ralf Farkas - IRIS-HEP Fellow
 active: green
-dates:
-    - start_date: 2020-01-01
-      end_date: 2020-03-31
+start_date: 2020-01-01
+end_date: 2020-03-31
 photo: /assets/images/team/rfarkas.jpg
 institution: Universität Bonn (Germany)
 website:

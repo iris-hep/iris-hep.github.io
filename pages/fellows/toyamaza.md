@@ -6,9 +6,8 @@ permalink: /fellows/TomohiroYamazaki.html
 fellow-name: Tomohiro Yamazaki
 title: Tomohiro Yamazaki - IRIS-HEP Fellow
 active: green
-dates:
-    - start_date: 2020-07-01
-      end_date: 2020-09-30
+start_date: 2020-07-01
+end_date: 2020-09-30
 photo: /assets/images/team/Tomohiro-Yamazaki.jpeg
 institution: University of California, Berkeley
 website:
