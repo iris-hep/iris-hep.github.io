@@ -237,13 +237,6 @@ presentations:
     meetingurl: https://physics.tau.ac.il/events_physics_colloquium_31_5_2020
     location: Tel Aviv, Israel (Virtual)
     focus-area: as, ia
-  - title: "Reusable Workflows, active learning, and simulation-based inference"
-    date: 2020-06-10
-    url: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
-    meeting: UCI Symposium on Reproducibility in Machine Learning
-    meetingurl: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
-    location: Irvine, CA (Virtual)
-    focus-area: as, ia, core
   - title: "The interplay of Math, Physics, and Machine Learning"
     date: 2020-07-02
     url: https://mpml.tecnico.ulisboa.pt/seminars?id=5806
@@ -293,3 +286,17 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/22840/
     location: Fermilab (Virtual)
     focus-area: as, core
+  - title: Constraining EFTs and Dark Matter with Simulation-based Inference
+    date: 2020-08-26
+    url: https://indico.cern.ch/event/945096/
+    meeting: BSM PANDEMIC
+    meetingurl: https://www.bsmpandemic.com
+    location: Fermilab (Virtual)
+    focus-area: as, core
+  - title: "Reusable Workflows, active learning, and simulation-based inference"
+    date: 2020-09-22
+    url: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
+    meeting: UCI Symposium on Reproducibility in Machine Learning
+    meetingurl: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
+    location: Irvine, CA (Virtual)
+    focus-area: as, ia, core
