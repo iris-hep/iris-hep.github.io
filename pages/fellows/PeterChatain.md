@@ -5,8 +5,9 @@ pagetype: fellow
 fellow-name: Peter Chatain
 shortname: peter
 title: Peter Chatain - IRIS-HEP Fellow
-start_date: 2020-06-01
-end_date: 2020-09-30
+dates:
+  start: 2020-06-01
+  end: 2020-09-30
 photo: /assets/images/team/Peter-Chatain.jpeg
 institution: Stanford University
 website: https://github.com/Pchatain

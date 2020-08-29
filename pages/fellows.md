@@ -55,14 +55,15 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
 
 <div class="container-fluid">
   <div class="row">
-    {% assign current_fellows_start = '2020-05-01' | minus: 7257600 | date:'%F' %}
+    {% assign current_fellows_start = '2020-05-01' | minus: 7257600 | date: '%F' %}
     {% assign sorted = site.pages | sort_natural: 'title' %}
     {% for mypage in sorted %}
-      {%- if mypage.dates.first -%}
-        {% assign page_start_date = mypage.dates.first.start_date | date: '%F' %}
+      {%- if mypage.dates.first.start -%}
+        {% assign page_start_date = mypage.dates.first.start | date: '%F' %}
       {%- else -%}
-        {% assign page_start_date = mypage.start_date | date: '%F' %}
+        {% assign page_start_date = mypage.dates.start | date: '%F' %}
       {%- endif -%}
+
       {% if mypage.pagetype == 'fellow' and page_start_date >= current_fellows_start %}
          {% assign person = mypage %}
 
@@ -75,12 +76,12 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
               </div>
               <div class="card-text mt-auto"><i>
 
-              {%- if person.dates.first -%}
-                {% for dates in person.dates %}
-                  {{ dates.start_date | date: "%b" }} - {{ dates.end_date | date: "%b %Y" }}<br>
+              {%- if person.dates.first.start -%}
+                {% for date in person.dates %}
+                  {{ date.start | date: "%b" }} - {{ date.end | date: "%b %Y" }}<br>
                 {% endfor %}
                {%- else -%}
-                {{ person.start_date | date: "%b" }} - {{ person.end_date | date: "%b %Y" }}<br>
+                {{ person.dates.start | date: "%b" }} - {{ person.dates.end | date: "%b %Y" }}<br>
                {%- endif -%}
               </i><br></div>
             </div>

@@ -6,8 +6,9 @@ permalink: /fellows/SuhaibShaikh.html
 fellow-name: Suhaib Shaikh
 title: Suhaib Shaikh - IRIS-HEP Fellow
 active: green
-start_date: 2020-07-01
-end_date: 2020-09-30
+dates:
+  start: 2020-07-01
+  end: 2020-09-30
 photo: /assets/images/team/SuhaibShaikhPicture.jpg
 institution: University of Nebraska - Lincoln
 website:

@@ -5,8 +5,9 @@ pagetype: fellow
 fellow-name: Raghav Kansal
 shortname: raghsthebest
 title: Raghav Kansal - IRIS-HEP Fellow
-start_date: 2019-06-01
-end_date: 2019-08-31
+dates:
+  start: 2019-06-01
+  end: 2019-08-31
 photo: /assets/images/team/Raghav-Kansal.jpg
 institution: University of California, San Diego
 website: https://github.com/raghsthebest/

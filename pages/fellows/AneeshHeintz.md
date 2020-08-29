@@ -31,8 +31,9 @@ active: green
 
 
 
-start_date: 2020-06-01
-end_date: 2020-09-30
+dates:
+  start: 2020-06-01
+  end: 2020-09-30
 
 
 

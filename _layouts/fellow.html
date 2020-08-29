@@ -14,12 +14,12 @@
 <br>
 <br>
 <b> Fellowship dates: </b>
-{%- if page.dates.first -%}
-  {% for dates in page.dates %}
-    {{ dates.start_date | date: "%b" }} - {{ dates.end_date | date: "%b %Y" }}<br>
+{%- if page.dates.first.start -%}
+  {% for date in page.dates %}
+    {{ date.start | date: "%b" }} - {{ date.end | date: "%b %Y" }}<br>
   {% endfor %}
  {%- else -%}
-  {{ page.start_date | date: "%b" }} - {{ page.end_date | date: "%b %Y" }}<br>
+  {{ page.dates.start | date: "%b" }} - {{ page.dates.end | date: "%b %Y" }}<br>
  {%- endif -%}
 <br>
 <b> Home Institution:</b> {{ page.institution }}
