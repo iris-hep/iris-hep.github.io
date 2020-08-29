@@ -28,14 +28,7 @@ title: IRIS/HEP Former Fellows
                  <small>{{person.institution}}</small><br><br>
               </div>
               <div class="card-text mt-auto"><i>
-
-              {%- if person.dates.first.start -%}
-                {% for date in person.dates %}
-                  {{ date.start | date: "%b" }} - {{ date.end | date: "%b %Y" }}<br>
-                {% endfor %}
-               {%- else -%}
-                {{ person.dates.start | date: "%b" }} - {{ person.dates.start | date: "%b %Y" }}<br>
-               {%- endif -%}
+              {% include fellow_dates.html dates=person.dates %}
               </i><br></div>
             </div>
          </div>
