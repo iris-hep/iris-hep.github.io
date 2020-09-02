@@ -6,10 +6,12 @@ permalink: /fellows/rfarkas.html
 fellow-name: Ralf Farkas
 title: Ralf Farkas - IRIS-HEP Fellow
 active: green
-dates: Jan-Mar 2020
+dates:
+  start: 2020-01-01
+  end: 2020-03-31
 photo: /assets/images/team/rfarkas.jpg
 institution: Universität Bonn (Germany)
-website: 
+website:
 e-mail: ralf.farkas@uni-bonn.de
 project_title: Combinatorial Kalman Filter for the ACTS tracking software
 project_goal: >

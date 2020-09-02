@@ -1,0 +1,17 @@
+
+{%- if include.dates.first.start -%}
+{%- assign dates = include.dates -%}
+{%- else -%}
+{%- assign dates = "" | split: "," -%}
+{% assign dates = dates | push: include.dates %}
+{%- endif -%}
+
+{% for date in dates %}
+  {%- assign date_start_year = date.start | date: "%Y" -%}
+  {%- assign date_end_year = date.end | date: "%Y" -%}
+  {% if date_start_year == date_end_year %}
+    {{ date.start | date: "%b" }} - {{ date.end | date: "%b %Y" }}<br/>
+  {%- else -%}
+    {{ date.start | date: "%b %Y" }} - {{ date.end | date: "%b %Y" }}<br/>
+  {%- endif -%}
+{% endfor %}

@@ -7,7 +7,9 @@ title: Erik Wallin - IRIS-HEP Fellow
 fellow-name: Erik Wallin
 shortname: ewallin
 project_tile: zfp Compression for HEP Data
-dates: June - August 2020
+dates:
+  start: 2020-06-01
+  end: 2020-08-31
 photo: /assets/images/team/Erik-Wallin.jpg
 institution: Lund University
 website:
