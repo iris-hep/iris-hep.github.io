@@ -1,5 +1,5 @@
 <!doctype html>
-  
+
 {% include layout_header_navbar.html %}
 
     <div id="container">
@@ -14,11 +14,7 @@
 <br>
 <br>
 <b> Fellowship dates: </b>
-{%- if page.dates.first -%}
-{{   page.dates | join: ", " }}
-{%- else -%}
-{{   page.dates }}
-{%- endif -%}
+{% include fellow_dates.html dates=page.dates %}
 <br>
 <b> Home Institution:</b> {{ page.institution }}
 <br>
@@ -92,5 +88,3 @@
 {% include layout_analytics.html %}
 </body>
 </html>
-
-

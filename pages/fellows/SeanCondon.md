@@ -7,7 +7,9 @@ title: Sean Condon - IRIS-HEP Fellow
 fellow-name: Sean Condon
 shortname: Sean
 project_title: Developing selection algorithms to reduce output data rate from the Large Hadron Collider
-dates: June - August 2020
+dates:
+  start: 2020-06-01
+  end: 2020-08-31
 photo: /assets/images/team/Sean-Condon.jpg
 institution: Massachusetts Institute of Technology
 website: https://github.com/seancondon99
