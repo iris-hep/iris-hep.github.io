@@ -54,6 +54,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- Gaël Alguero, Sabine Kraml, and Wolfgang Waltenberger. A SModelS interface for pyhf likelihoods. Sep 2020. [arXiv:2009.01809](https://arxiv.org/abs/2009.01809).
 - Waleed Abdallah and others. Reinterpretation of LHC Results for New Physics: Status and Recommendations after Run 2. 2020. [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 - G. Brooijmans and others. Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report. In 2020. [arXiv:2002.12220](https://arxiv.org/abs/2002.12220).
 - J. Alison and others. Higgs boson potential at colliders: status and perspectives. In 2019. [arXiv:1910.00012](https://arxiv.org/abs/1910.00012).
