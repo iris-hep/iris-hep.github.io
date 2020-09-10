@@ -125,3 +125,11 @@ presentations:
     location: Online
     focus-area: doma
     project: skyhookdm
+  - title: "The Ceph Project"
+    date: 2020-06-30
+    meeting: "UC Berkeley Cloud Meetup 015"
+    meetingurl: https://www.meetup.com/ucberkeley_cloudmeetup/events/271035943/
+    url: https://drive.google.com/file/d/1yiVuO0Q38zlcoMjo10HfqkSvjIxn7pSL/view?usp=sharing
+    location: Online
+    focus-area: doma
+    project: skyhookdm
