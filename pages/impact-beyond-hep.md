@@ -105,7 +105,7 @@ Partially supported by IRIS-HEP's exploratory machine learning efforts, Kyle Cra
     IRIS-HEP researchers collaborated with computer scientists at Oxford and NERSC to instrument particle physics simulators with new capabilities. The "Etalumis" project was nominated for best paper at SC’19 (SuperComputing) and has been written about 
     <a href="https://phys.org/news/2019-11-etalumis-reverses-simulations-reveal-science.html">here</a> and 
     <a href="https://www.nextplatform.com/2020/02/04/using-bayesian-inference-to-reverse-engineer-decades-of-hpc/">here</a>. The <a href="/projects/ppx.html">PPX</a> protocol and pyprob tools developed for those studies have since been applied to epidemiological studies such as <a href="https://arxiv.org/abs/1905.12432">“Hijacking Malaria Simulators with Probabilistic Programming”</a>, (source of image) and are now being applied to COVID19 (see 
-    <a href="https://arxiv.org/abs/2003.13221">“Planning as inference in epidemiological dynamics models”</a> and [Simulation-Based Inference for Global Health Decisions](https://arxiv.org/abs/2005.07062) ). 
+    <a href="https://arxiv.org/abs/2003.13221">“Planning as inference in epidemiological dynamics models”</a> and <a href="https://arxiv.org/abs/2005.07062">Simulation-Based Inference for Global Health Decisions</a>). 
 
  </div>
 </div>
