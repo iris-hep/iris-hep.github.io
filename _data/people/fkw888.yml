@@ -111,12 +111,13 @@ presentations:
     url: https://indico.cern.ch/event/907734/contributions/3819195/attachments/2020624/3378498/uscms_blueprint_200415.pdf
     meeting: S&C Blueprint Meeting
     focus-area: osglhc
-  - title: "HL-LHC Data Challenges"
-    date: 2020-04-13
-    meeting: "Large Scale Networking (LSN) Workshop on Huge Data"
-    meetingurl: https://protocols.netlab.uky.edu/~hugedata2020//index.html
-    focus-area: doma
-    project: modeling
+# Needs a URL
+#  - title: "HL-LHC Data Challenges"
+#    date: 2020-04-13
+#    meeting: "Large Scale Networking (LSN) Workshop on Huge Data"
+#    meetingurl: https://protocols.netlab.uky.edu/~hugedata2020//index.html
+#    focus-area: doma
+#    project: modeling
   - title: "Thoughts on Prep for ESNet workshop"
     date: 2020-03-18
     meetingurl: https://indico.cern.ch/event/896371/
