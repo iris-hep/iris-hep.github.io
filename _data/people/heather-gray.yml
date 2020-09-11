@@ -6,6 +6,12 @@ institution: University of California, Berkeley
 website: https://atlas.cern/authors/heather-gray
 photo: /assets/images/team/Heather-Gray.png
 presentations:
+  - title: "IRIS-HEP Report: Innovative Algorithms"
+    date: 2020-08-11
+    meeting: Snowmass Computational Frontier Workshop
+    meetingurl: https://indico.fnal.gov/event/43829/overview
+    url: https://indico.fnal.gov/event/43829/contributions/193723/
+    focus-area: ia 
   - title: "Machine learning in high-energy particle physics experiments, from simulation, through reconstruction to physics analysis"
     date: 2019-05-29
     meeting: Physics in Machine Learning Workshop

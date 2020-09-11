@@ -31,6 +31,12 @@ plugins:
 # seems to cause problems currently (March 2019)
 #  - jekyll-redirect-from
 
+strict_front_matter: true
+
+liquid:
+  error_mode: strict
+  strict_filters: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -47,6 +53,7 @@ exclude:
   - _scripts
   - bin
   - .github
+  - Rakefile
 
 sass:
     sass_dir: _sass

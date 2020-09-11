@@ -6,6 +6,24 @@ institution: University of California, San Diego
 website: 
 photo: /assets/images/team/Igor-Sfiligoi.jpg
 presentations:
+  - title: "TransAtlantic networking using Cloud links"
+    date: 2020-05-27
+    url: https://indico.cern.ch/event/923131/contributions/3878486/attachments/2045504/3426871/CMS20_05_CloudNetwork_rc2.pdf
+    meeting: S&C Blueprint Meeting
+    meetingurl: https://indico.cern.ch/event/923131/
+    focus-area: osglhc
+  - title: "Hybrid, multi-Cloud HPC for Multi-Messenger Astrophysics with IceCube"
+    date: 2020-01-28
+    url: https://docs.google.com/presentation/d/1NT5DiCudME7OoU_zxOsw_nkZoNNNKIm3DEfD3miKd0A/edit?usp=sharing
+    meeting: Google Cloud HPC Day San Diego
+    meetingurl: https://events.withgoogle.com/google-cloud-hpc-day-san-diego/
+    location: San Diego, CA ,USA
+  - title: "Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2020-01-27
+    url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
+    meeting: NRP Engagement webinar
+    meetingurl: https://spaces.at.internet2.edu/display/NRPWG/National+Research+Platform+%28NRP%29+Space
+    location: WebEx, US
   - title: "OSG use of PRP Kubernetes cluster"
     date: 2019-12-10
     url: https://indico.cern.ch/event/739899/contributions/3662270/attachments/1959449/3256032/cern19_prp_osg_191210.pdf

@@ -7,7 +7,7 @@ pagetype: doc
 
 ### Getting the source
 
-The webite source is available at <https://github.com/iris-hep/iris-hep.github.io-source>.
+The website source is available at <https://github.com/iris-hep/iris-hep.github.io-source>.
 
 You can always click the edit button to make small edits to the website source, but if you want to test locally or make larger edits, you'll want to clone the source for the website and build it with Ruby.
 
@@ -23,13 +23,13 @@ brew install rbenv
 You'll need to run `rbenv init` and follow the instructions for your current shell. After you've installed rbenv on your system, use:
 
 ```bash
-rbenv install 2.7.0
+rbenv install 2.7.1
 ```
 
 to get a current version of ruby. Then, inside the main iris-hep website directory, run:
 
 ```bash
-rbenv local 2.7.0
+rbenv local 2.7.1
 ```
 
 This will run the Ruby you just built whenever you enter this directory. You'll want to install bundler too:

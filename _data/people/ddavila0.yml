@@ -6,12 +6,20 @@ institution: University of California, San Diego
 website: 
 photo: /assets/images/team/Diego-Davila.jpg
 presentations:
+- title: XRootD Transfer Accounting Validation Plan
+  date: 2020-04-22
+  url: https://indico.cern.ch/event/909034/contributions/3834200/attachments/2025127/3387442/XRootD_Validation_Plan.pdf
+  meeting: S&C Blueprint Meeting
+  meetingurl: https://indico.cern.ch/event/909034/
+  focusarea: osglhc
+  project: caching
 - title: CMS XCache Monitoring Dashboard
   date: 2019-07-31
   url: https://drive.google.com/file/d/1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q/view
   meeting: OSG Area Coordination
   meetingurl: https://unl.zoom.us/j/136424859
   focusarea: doma
+  project: caching
 - title: Proposal for Sharing of Data on Data Access
   date: 2019-06-04
   url: https://indico.cern.ch/event/769508/contributions/3197792/attachments/1856188/3048855/proposal_data_share_wlcg.pdf
@@ -19,3 +27,12 @@ presentations:
   meetingurl: https://indico.cern.ch/event/769508/
   location: CERN
   focus-area: doma
+  project: modeling
+- title: Measurements of Data Access
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331176/9_-_Measurements_of_Data_Access_-_v1.pdf
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton University
+  focus-area: doma
+  project: modeling

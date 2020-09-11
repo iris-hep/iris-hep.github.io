@@ -20,7 +20,7 @@ module Publications
   class Generator < Jekyll::Generator
     # Main entry point for Jekyll
     def generate(site)
-      @net = Net::HTTP.new('labs.inspirehep.net', 443)
+      @net = Net::HTTP.new('inspirehep.net', 443)
       @net.use_ssl = true
 
       @site = site
@@ -54,13 +54,14 @@ module Publications
 
     # Setup a publication - adds/fixes focus-area and project
     def prepare(pub, name)
-      begin
-        force_array(pub, 'project') if pub.key? 'project'
-      rescue NoMethodError
-        puts "Preparing #{name} publication: #{pub}"
-        raise
-      end
-      prepare_focus_area(pub, name) unless pub.key? 'focus-area'
+      pub['focus-area'] ||= []
+      pub['project'] ||= []
+      pub['filename'] = name
+
+      force_array(pub, 'project')
+
+      # Looks up focus areas from projects
+      prepare_focus_area(pub, name) if pub['focus-area'].empty?
 
       msg = 'You must have a project or focus-area in every publication'
       raise StandardError, msg unless pub.key? 'focus-area'
@@ -72,18 +73,20 @@ module Publications
     # Verify that an item is an Array
     def force_array(pub, name)
       # Make sure the projects are in a list
-      pub[name] = [pub[name]] unless pub[name].is_a? Array
+      pub[name] = [] if pub[name].nil?
+      pub[name] = [pub[name]] unless pub[name].respond_to? :each
     end
 
     # Add focus areas based on projects
     def prepare_focus_area(pub, name)
-      pub['focus-area'] = []
       pub['project'].each do |p|
         pg = @site.pages.detect { |page| page.data['shortname'] == p }
         msg = "Project #{pub['project']} missing! Cannot find focus-area for #{name}."
         raise StandardError, msg unless pg
 
-        pub['focus-area'] << pg.data['focus-area']
+        new_fas = pg.data['focus-area']
+        new_fas = [new_fas] if new_fas.is_a? String
+        pub['focus-area'] += new_fas unless new_fas.nil?
       end
 
       # Don't list the same focus area multiple times
@@ -103,6 +106,8 @@ module Publications
         "#{mini[0..-2].join(', ')} and #{mini[-1]}"
       end
     end
+
+    # rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
 
     # Look up inspire data *if* inspire-id given
     def inspire(pub)
@@ -125,6 +130,11 @@ module Publications
       # This *only* sets data if the previous line is nil
       pub['date'] ||= data.dig('imprints', 0, 'date')
 
+      # Normalize date (if Nil, this should fail (date required))
+      pub['date'] = Date.parse(pub['date']) unless pub['date'].is_a? Date
+
+      pub['citation-count'] ||= data['citation_count']
+
       # Make the author list, for eventual linking to author pages
       authors = data['authors'].map do |a|
         { 'name' => a['full_name'], 'id' => a.dig('ids', 0, 'value') }
@@ -138,14 +148,18 @@ module Publications
       j = data.dig('publication_info', 0) # This may be nil
       journal =
         if j&.key?('journal_title') && j&.key?('year')
+          pub['needs-nsf-par'] = true unless pub.key?('needs-nsf-par')
           "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
         elsif data.key? 'arxiv_eprints'
+          pub['needs-nsf-par'] = false unless pub.key?('needs-nsf-par')
           "arXiv #{data['arxiv_eprints'][0]['value']}"
         else
           'Unknown'
         end
       pub['citation'] ||= "#{mini_authors}, #{journal}"
     end
+    #
+    # rubocop:enable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
 
     # Load a yaml file from the cache
     # Return a bool if an update is needed
@@ -154,7 +168,7 @@ module Publications
 
       f = YAML.load_file fname
       pub.map do |key, value|
-        oldvalue = f.dig(key)
+        oldvalue = f[key]
         return false unless oldvalue == value
       end
 

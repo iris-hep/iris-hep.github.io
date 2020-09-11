@@ -1,0 +1,17 @@
+Layout/LineLength:
+  Max: 120
+Metrics/MethodLength:
+  Max: 30
+Style/NumericLiterals:
+  Enabled: false
+Metrics/AbcSize:
+  Max: 55
+Metrics/ClassLength:
+  Max: 200
+Metrics/PerceivedComplexity:
+  Max: 12
+Metrics/CyclomaticComplexity:
+  Max: 10
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 2.4

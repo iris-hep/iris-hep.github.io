@@ -1,32 +1,25 @@
 {% include get_pub_list.html %}
 
-{% assign has_pub = false %}
-{% for pub_item in sorted_pubs %}
-  {% if pub_item.size  > 20 %}
-    {% assign pub = pub_item | split: "|" %}
-    {% if pub[0] contains '2' %}
-      {% assign pub_project = pub[4] | strip %}
-      {% if pub_project contains include.shortname  %}
-        {% assign has_pub = true %}
-        {% break %}
-      {% endif %}
-    {% endif %}
+{% assign pubs = "" | split: "," %}
+{% for pub in sorted_publications %}
+  {% if pub.project contains include.shortname  %}
+    {% assign pubs = pubs | push: pub %}
   {% endif %}
 {% endfor %}
 
-{% if has_pub %}
+{% if pubs.size > 0 %}
 <h3>Publications</h3>
 <ul>
-{% for pub_item in sorted_pubs %}
-{% if pub_item.size  > 20 %}
-{% assign pub = pub_item | split: "|" %}
-{% if pub[0] contains '2' %}
-{% assign pub_project = pub[4] | strip %}
-{% if pub_project contains include.shortname  %}
-<li>{{ pub[1] }}, <a href="{{pub[3]}}">{{pub[2]}}</a> ({{ pub[0] | date_to_string }}).</li>
-{% endif %}
-{% endif %}
-{% endif %}
-{% endfor %}
+  {% for pub in pubs %}
+    {% if pub.citation-count and pub.citation-count > 0 %}
+      {% assign cited = " [" | append: pub.citation-count | append: " citations]" %}
+      {% if pub.inspire-id %}
+        {% capture cited %} <a href='http://inspirehep.net/record/{{pub.inspire-id}}/citations'>{{cited}}</a>{% endcapture %}
+      {% endif %}
+    {% else %}
+      {% assign cited = "" %}
+    {% endif %}
+    <li> {% include print_pub.html pub=pub %} </li>
+  {% endfor %}
 </ul>
 {% endif %}

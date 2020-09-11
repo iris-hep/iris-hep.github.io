@@ -1,7 +1,8 @@
 <!doctype html>
-  
+
 {% include layout_header_navbar.html %}
 
+    <div id="container">
       <div class="container">
         <main role="main">
 
@@ -12,39 +13,53 @@
 <img src="{{page.photo}}" width="150px">
 <br>
 <br>
-<b> Fellowship dates:</b> {{ page.dates }}
+<b> Fellowship dates: </b>
+{% include fellow_dates.html dates=page.dates %}
 <br>
 <b> Home Institution:</b> {{ page.institution }}
 <br>
 <br>
 </center>
 
-{{page.project_goal}}
-<br>
-<br>
-{% if page.proposal.size  > 4 %}
-More information: <a href = {{page.proposal}}>My full proposal</a><br>
-{% endif %}
+{%- if page.projects -%}
+{%-   assign projects = page.projects -%}
+{%- else -%}
+{%-   assign projects = "" | split: "," -%}
+{%-   assign projects = projects | push: page -%}
+{%- endif -%}
+
+{% for project in projects %}
+
+  <br>
+  <h3>{{project.project_title}}</h3>
+
+  {{project.project_goal}}
+  <br>
+  <br>
+   More information: <a href = "{{project.proposal}}">My project proposal</a><br>
+
+  <br>
+  <b>Mentors: </b> <br>
+  <ul>
+  {% for mentor in project.mentors %}
+  <li>
+  {% assign ok = 0 %}
+  {% for person_hash in site.data.people %}
+  {% assign person = person_hash[1] %}
+  {% if person.shortname == mentor %}
+  {{ person.name }} ({{person.institution}})
+  {% assign ok = 1 %}
+  {% endif %}
+  {% endfor %}
+  {% if ok == 0 %}
+  {{ mentor | markdownify }}
+  {%endif%}
+  </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
 
 <br>
-<b>Mentors: </b> <br>
-<ul>
-{% for mentor in page.mentors %}
-<li>
-{% assign ok = 0 %}
-{% for person_hash in site.data.people %}
-{% assign person = person_hash[1] %}
-{% if person.shortname == mentor %}
-{{ person.name }} ({{person.institution}})
-{% assign ok = 1 %}
-{% endif %}
-{% endfor %}
-{% if ok == 0 %}
-{{mentor}}
-{%endif%}
-</li>
-{% endfor %}
-</ul>
 <hr>
 
 <b>Contact me:</b><br>
@@ -68,9 +83,8 @@ More information: <a href = {{page.proposal}}>My full proposal</a><br>
 </main>
 {% include footer.html %}
 </div>
+</div>
 
 {% include layout_analytics.html %}
 </body>
 </html>
-
-

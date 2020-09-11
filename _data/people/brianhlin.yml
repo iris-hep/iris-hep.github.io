@@ -6,6 +6,26 @@ institution: University of Wisconsin–Madison
 website: 
 photo: /assets/images/team/Brian-Lin.jpg
 presentations:
+  - title: "Introduction to HTCondor-CE"
+    date: 2020-06-17
+    url: https://indico.egi.eu/event/5137/attachments/12966/15338/2020-06-17.htcondorce-intro_FINAL.pdf
+    meeting: EGI Community Webinar Programme
+    meetingurl: https://indico.egi.eu/event/5137/
+    focus-area: osglhc
+  - title: "GridFTP and GSI Migration Plan (Poster)"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331191/21_-_OSG-LHC_GridFTP_and_GSI_Migration_Plan_-_FINAL.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, New Jersey, US
+    focus-area: osglhc
+  - title: "Infrastructure Software Delivery (Poster)"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331202/26_-_OSG-LHC_Infrastructure_Software_Delivery_-_FINAL.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, New Jersey, US
+    focus-area: osglhc
   - title: "HTCondor-CE What's Next?"
     date: 2019-09-26
     url: https://indico.cern.ch/event/817927/contributions/3570564/

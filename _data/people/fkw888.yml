@@ -6,6 +6,56 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: "Data use by the CMS experiment at the LHC"
+    date: 2020-06-15
+    meetingurl: https://sdm.lbl.gov/net/#frank2020
+    url: https://sdm.lbl.gov/net/FrankWurthwein-esnet-200515.pdf
+    meeting: ESNet Seminar
+    location: Zoom, US
+    focus-area: doma
+    project: modeling
+  - title: "Idea for a production focused Data Challenge"
+    date: 2020-05-05
+    meetingurl: https://indico.cern.ch/event/912400/
+    url: https://indico.cern.ch/event/912400/contributions/3837180/attachments/2025219/3400807/DOMA-Access-May5th2020.pdf
+    meeting: DOMA Access Meeting WLCG
+    focus-area: doma
+  - title: "GPU Cloud Bursting for Multi-Messenger Astrophysics with IceCube"
+    date: 2020-04-30
+    meetingurl: https://pages.awscloud.com/gpu-cloud-bursting.html
+    url: https://d1.awsstatic.com/WWPS/pdf/Running-a-GPU-burst-for-Multi-Messenger-Astrophysics-with-IceCube.pdf
+    meeting: "AWS Education: Research Seminar Series"
+    focus-area: doma
+  - title: "Draft Proposals for Workplan towards the ESNet review"
+    date: 2020-04-15
+    meetingurl: https://indico.cern.ch/event/907734/
+    url: https://indico.cern.ch/event/907734/contributions/3819195/attachments/2020624/3378498/uscms_blueprint_200415.pdf
+    meeting: S&C Blueprint Meeting
+    focus-area: osglhc
+  - title: "Thoughts on Prep for ESNet workshop"
+    date: 2020-03-18
+    meetingurl: https://indico.cern.ch/event/896371/
+    url: https://indico.cern.ch/event/896371/contributions/3779617/attachments/2005089/3349622/networkingBlueprintMarch18th2020.pdf
+    meeting: S&C Blueprint Meeting
+    focus-area: osglhc
+  - title: "Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2020-01-27
+    url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
+    meeting: NRP Engagement webinar
+    meetingurl: https://spaces.at.internet2.edu/display/NRPWG/National+Research+Platform+%28NRP%29+Space
+    location: WebEx, US
+  - title: "Running a GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2019-12-04
+    url: https://www.slideshare.net/FrankWuerthwein/building-and-running-the-cloud-gpu-vacuum-cleaner
+    meeting: Middleware and Grid Interagency Cooperation (MAGIC)  meeting
+    meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC
+    location: WebEx, US
+  - title: "Running a GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
+    date: 2019-11-19
+    url: https://www.slideshare.net/igor_sfiligoi/running-a-gpu-burst-for-multimessenger-astrophysics-with-icecube-across-all-available-gpus-in-the-cloud
+    meeting: SC 19 Multiple Booths
+    meetingurl: https://sc19.supercomputing.org
+    location: Denver, CO, USA
   - title: "OSG News"
     date: 2019-10-10
     url: https://indico.fnal.gov/event/21410/contribution/2/material/slides/0.pdf
@@ -18,7 +68,7 @@ presentations:
     meeting: 2019 NSF CC* and CICI PI Pre-Workshop Breakout on OSG
     focus-area: osglhc
     meetingurl: https://www.thequilt.net/public-event/2019-nsf-cc-and-cici-pi-pre-workshop-breakouts/#osgd  
-  - title: "Advancing Open Science through distributed High Througput Computing - The OSG Data Federation"
+  - title: "Advancing Open Science through distributed High Throughput Computing - The OSG Data Federation"
     date: 2019-09-18
     url: http://grp-workshop-2019.ucsd.edu/presentations/4_WUERTHWEIN-GRP-2019-OSG.pdf
     meeting: Global Research Platform Workshop
@@ -30,6 +80,7 @@ presentations:
     meeting: IRIS-HEP retreat
     focus-area: osglhc
     meetingurl: https://indico.cern.ch/event/840472/
+    project: caching
   - title: "Advancing Open Science through distributed High Througput Computing"
     date: 2019-09-11
     url: https://indico.cern.ch/event/739882/contributions/3520011/attachments/1906491/3148700/gdbSeptember2019.pdf
@@ -52,10 +103,12 @@ presentations:
     date: 2019-07-08
     meeting: "pre-GDB meeting on XCache"
     url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune8th2019.pptx
+    project: caching
   - title: "Reducing Disk Needs with a Data Lake Concept"
     date: 2019-07-05
     meeting: "ECoM2x meeting CMS"
     url: http://uaf-8.t2.ucsd.edu/~fkw/ecom2xJuly5th2019.pptx
+    project: modeling
   - title: "Advancing Open Science through distributed High Throughput Computing"
     date: 2019-06-25
     meeting: "NERSC Seminar talk"
@@ -85,6 +138,7 @@ presentations:
     date: 2019-06-04
     meeting: "DOMA Access Meeting WLCG"
     url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune4th2019.pptx
+    project: modeling
   - title: "OSG Value Proposition for Campuses"
     date: 2019-05-21
     url: https://drive.google.com/file/d/1WgaZMtm_DNB2qt8_-GJkVs66mlI4cORE/view?usp=drive_web

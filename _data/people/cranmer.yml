@@ -160,10 +160,150 @@ presentations:
     meetingurl: https://conference.ippp.dur.ac.uk/event/875/
     location: IPPP Durham
     focus-area: as, core
+  - title: Machine Learning for Effective Field Theories
+    date: 2020-03-03
+    url: https://indico.cern.ch/event/817757/contributions/3712508/
+    meeting: "PREFIT20: PRecision Effective FIeld Theory School"
+    meetingurl: https://indico.cern.ch/event/817757/overview
+    location:  DESY
+    focus-area: as, ia, core
+  - title: Machine Learning and Physics 
+    date: 2020-03-05
+    url: https://indico.desy.de/indico/event/25451/
+    meeting: Special QU-PCD Colloquium at DESY (CANCELED due to COVID19)
+    meetingurl: https://indico.desy.de/indico/event/25451/
+    location: DESY
+    focus-area: as, ia
   - title: Reusable workflows in particle physics
     date: 2020-03-16
-    url: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
+    url: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting
     meeting: Workshop on Accelerating Scientific Discovery through Advanced and Automated Workflows
-    meetingurl: https://www8.nationalacademies.org/pa/projectview.aspx?key=51625#MeetingId32266
+    meetingurl: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting 
     location: National Academy of Sciences
     focus-area: as, core
+  - title: "Future Analysis Systems"
+    date: 2020-03-17
+    url: https://indico.cern.ch/event/896935/
+    meeting: "Joint US ATLAS - US CMS Meeting on Facility R&D"
+    meetingurl: https://indico.cern.ch/event/896935/
+    location: Remote
+    focus-area: as, core
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-05-07
+    url: https://web.mit.edu/physics/events/colloquia.html
+    meeting: MIT Physics Department Colloquium
+    meetingurl: https://web.mit.edu/physics/events/colloquia.html
+    location: Irvine, CA (Virtual)
+    focus-area: as, ia
+  - title: Analysis Systems Overview and Plans
+    date: 2020-05-27
+    url: https://indico.cern.ch/event/896167/contributions/3870075/attachments/2044448/3424682/IRIS-HEP_Retreat_Analysis_Systems_2020-05-26.pptx.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: Analysis Grand Challenge Proposal 
+    date: 2020-05-28
+    url: https://indico.cern.ch/event/896167/contributions/3880424/attachments/2045466/3429947/IRIS-HEP_Analysis_Grand_Challenge_2020-05-28.pptx.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: "IRIS-HEP Innovative Algorithms: R&D and Machine Learning for Jets"
+    date: 2020-05-28
+    url: https://indico.cern.ch/event/896167/contributions/3878892/attachments/2045327/3426480/IRIS-HEP_Retreat_NYU_IA_Contribution_2020-05-28.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: Analysis Systems Plans and Goals Closeout
+    date: 2020-05-29
+    url: https://indico.cern.ch/event/896167/contributions/3874633/attachments/2047251/3431547/IRIS-HEP_Retreat_Analysis_Systems_Closeout_2020-05-29.pptx.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: Analysis Grand Challenge Closeout
+    date: 2020-05-29
+    url: https://indico.cern.ch/event/896167/contributions/3874640/attachments/2047239/3430338/IRIS-HEP_Analysis_Grand_Challenge_2020-05-28.pptx-2.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/timetable/
+    location: (Virtual)
+    focus-area: as
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-05-31
+    url: https://physics.tau.ac.il/events_physics_colloquium_31_5_2020
+    meeting: Tel Aviv University Physics Department Colloquium
+    meetingurl: https://physics.tau.ac.il/events_physics_colloquium_31_5_2020
+    location: Tel Aviv, Israel (Virtual)
+    focus-area: as, ia
+  - title: "The interplay of Math, Physics, and Machine Learning"
+    date: 2020-07-02
+    url: https://mpml.tecnico.ulisboa.pt/seminars?id=5806
+    meeting:  IST seminar series Mathematics, Physics & Machine Learning
+    meetingurl: https://mpml.tecnico.ulisboa.pt/seminars?id=5806
+    location: Lisbon, Portugal (Virtual)
+    focus-area: as, ia
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-07-08
+    url: https://ai4science-amsterdam.github.io/events.html
+    meeting: "ELLIS SOCIETY: AI4Science Kickoff Workshop"
+    meetingurl: https://ai4science-amsterdam.github.io/events.html
+    location: Amsterdam, Netherlands (Virtual)
+    focus-area: as, ia
+  - title: "Panel Discussion: A community perspective on Equity in HEP"
+    date: 2020-07-09
+    url: https://science.osti.gov/hep/hepap/Meetings/202007
+    meeting: High Energy Physics Advisory Panel
+    meetingurl: https://science.osti.gov/hep/hepap/Meetings/202007
+    location: Virtual
+    focus-area: core
+  - title: "Likelihood-based models for Simulation-based Inference"
+    date: 2020-07-17
+    url: https://invertibleworkshop.github.io
+    meeting: ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models
+    meetingurl: https://invertibleworkshop.github.io
+    location: Vienna, Austria (Virtual)
+    focus-area: as, ia
+  - title: "Graphs, Trees, and Sets: structured data in physics"
+    date: 2020-07-17
+    url: https://grlplus.github.io/schedule/
+    meeting: ICML Workshop on Graph Representation Learning
+    meetingurl: https://grlplus.github.io/schedule/
+    location: Vienna, Austria (Virtual)
+    focus-area: as, ia
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-07-21
+    url: https://uni-tuebingen.de/en/165313#c1124370
+    meeting: Machine Learning in Science 2020
+    meetingurl: https://uni-tuebingen.de/en/165313#c1124370
+    location: Eberhard Karls Universität Tübingen (Virtual)
+    focus-area: as, ia
+  - title: "Lectures on Statistics"
+    date: 2020-08-10
+    url: https://indico.fnal.gov/event/22840/
+    meeting: 15th joint Fermilab-CERN Hadron Collider Summer School
+    meetingurl: https://indico.fnal.gov/event/22840/
+    location: Fermilab (Virtual)
+    focus-area: as, core
+  - title: Constraining EFTs and Dark Matter with Simulation-based Inference
+    date: 2020-08-26
+    url: https://indico.cern.ch/event/945096/
+    meeting: BSM PANDEMIC
+    meetingurl: https://www.bsmpandemic.com
+    location: Fermilab (Virtual)
+    focus-area: as, core
+  - title: "Reusable Workflows, active learning, and simulation-based inference"
+    date: 2020-09-22
+    url: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
+    meeting: UCI Symposium on Reproducibility in Machine Learning
+    meetingurl: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
+    location: Irvine, CA (Virtual)
+    focus-area: as, ia, core
+  - title: New experimental analysis techniques
+    date: 2020-10-30
+    url: https://indico.cern.ch/event/900384/contributions/3796227/
+    meeting: Higgs 2020
+    meetingurl: https://indico.cern.ch/event/900384/
+    location: Sony Brook / BNL (Virtual)
+    focus-area: as
