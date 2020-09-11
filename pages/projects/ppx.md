@@ -33,7 +33,13 @@ This work led to the following publicatoins:
 The Etalumis project was nominated for best paper at SC'19 (SuperComputing) and has been written about [here](https://phys.org/news/2019-11-etalumis-reverses-simulations-reveal-science.html) and [here](https://www.nextplatform.com/2020/02/04/using-bayesian-inference-to-reverse-engineer-decades-of-hpc/).
 
 
-The `PPX` protocol and `pyprob` tool have since been applied to epidemiological studies such as "Hijacking Malaria Simulators with Probabilistic Programming", [arXiv:1905.12432](https://arxiv.org/abs/1905.12432) and are now  being applied to COVID19 (see "Planning as inference in epidemiological dynamics models" by Warrington, A., Naderiparizi, S., Weilbach, C., Masrani, V., Harvey, W., Scibior, A., Beronov, B., & Nasseri, A. (2020) [arXiv:2003.13221](https://arxiv.org/abs/2003.13221) ). 
+The `PPX` protocol and `pyprob` tool have since been applied to epidemiological studies such as Malaria and COVID19:
+
+ *  "Hijacking Malaria Simulators with Probabilistic Programming", [arXiv:1905.12432](https://arxiv.org/abs/1905.12432) 
+ * "Planning as inference in epidemiological dynamics models" by Warrington, A., Naderiparizi, S., Weilbach, C., Masrani, V., Harvey, W., Scibior, A., Beronov, B., & Nasseri, A. (2020) [arXiv:2003.13221](https://arxiv.org/abs/2003.13221) 
+ * "Simulation-Based Inference for Global Health Decisions" by Christian Schroeder de Witt, Bradley Gram-Hansen, Nantas Nardelli, Andrew Gambardella, Rob Zinkov, Puneet Dokania, N. Siddharth, Ana Belen Espinosa-Gonzalez, Ara Darzi, Philip Torr, and Atılım Güneş Baydin [arXiv:2005.07062](https://arxiv.org/abs/2005.07062). 
+
+These tools are now also being used to extend Dark Matter  astrophysics by instrumenting the simulation of strong gravitational lensing used in [Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning](https://inspirehep.net/literature/1752736)
 
 
 
