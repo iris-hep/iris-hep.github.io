@@ -10,7 +10,7 @@ presentations:
     date: 2020-09-04
     url: https://indico.fnal.gov/event/22127/contributions/194933/attachments/133961/165464/osg20_lhc_admiralty_rc3.pdf
     meeting: OSG All-Hands Meeting 2020
-    meetingurl: https://indico.fnal.gov/event/22127/timetable/#20200904.detailed
+    meetingurl: https://indico.fnal.gov/event/22127
     location: virtual, US
     focus-area: osglhc
   - title: "Demonstrating a Pre-Exascale, Cost-Effective Multi-Cloud Environment for Scientific Computing"
