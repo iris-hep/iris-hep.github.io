@@ -300,3 +300,10 @@ presentations:
     meetingurl: https://uci-ml-repo.github.io/events/reprod-symposium20/#kcranmer
     location: Irvine, CA (Virtual)
     focus-area: as, ia, core
+  - title: New experimental analysis techniques
+    date: 2020-10-30
+    url: https://indico.cern.ch/event/900384/contributions/3796227/
+    meeting: Higgs 2020
+    meetingurl: https://indico.cern.ch/event/900384/
+    location: Sony Brook / BNL (Virtual)
+    focus-area: as
