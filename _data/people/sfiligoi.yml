@@ -28,6 +28,7 @@ presentations:
   - title: "High Throughput Science Workshop"
     date: 2020-07-31
     meeting: PEARC20
+    url: https://pearc20.sched.com/event/cnY6/high-throughput-science
     meetingurl: https://pearc.acm.org/pearc20/
     location: virtual, US
   - title: "Running a Pre-exascale, Geographically Distributed, Multi-cloud Scientific Simulation"
