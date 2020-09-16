@@ -27,7 +27,7 @@ module Checks
 
         person.print_warnings
 
-        if person_hash.dig('hidden')
+        if person_hash['hidden']
           msg = "#{name} is listed in a university and hidden is True"
           raise StandardError, msg if people_in_inst.include? person_hash['shortname']
         else

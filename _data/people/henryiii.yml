@@ -165,3 +165,19 @@ presentations:
     location: Princeton, New Jersey, US
     focus-area: as
     project: histogram
+  - title: "Boost-histogram: High-Performance Histograms as Objects"
+    date: 2020-07-07
+    url: https://doi.org/10.25080/Majora-342d178e-01b
+    meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
+    meeting: 19th Python in Science Conference (SciPy 2020)
+    location: Virtual
+    focus-area: as
+    project: histogram
+  - title: "The boost-histogram package"
+    date: 2020-07-17
+    url: https://indico.cern.ch/event/882824/contributions/3931299/
+    meeting: PyHEP 2020 Workshop
+    meeting-url: https://indico.cern.ch/event/882824/
+    focus-area: as
+    project: histogram
+    comment: DOI not yet available

@@ -66,7 +66,7 @@ presentations:
 
   - title: "Programming languages and particle physics"
     date: 2019-05-08
-    url: https://indico.cern.ch/event/769263/contributions/3420926/attachments/1841297/3020540/pivarski-colloquium-languages.pdf
+    url: https://indico.cern.ch/event/769263/contributions/3420926/
     meeting: "Fermilab Colloquium"
     meetingurl: https://events.fnal.gov/colloquium/events/event/pivarski-colloq-2019/
     location: "Fermilab"
@@ -194,5 +194,21 @@ presentations:
     url: https://github.com/jpivarski/2020-06-08-uproot-awkward-columnar-hats#readme
     meeting: "LPC HATS: Hands-on Training for CMS"
     meetingurl: https://indico.cern.ch/event/917675/
+    location: "online"
+    focus-area: as
+
+  - title: "Awkward Array: Manipulating JSON like Data with NumPy like Idioms"
+    date: 2020-07-05
+    url: https://youtu.be/WlnUF3LRBj4
+    meeting: "SciPy 2020"
+    meetingurl: https://www.scipy2020.scipy.org/
+    location: "online"
+    focus-area: as
+
+  - title: "Uproot and Awkward Array tutorial"
+    date: 2020-07-15
+    url: https://youtu.be/ea-zYLQBS4U
+    meeting: "PyHEP 2020"
+    meetingurl: https://indico.cern.ch/event/882824/
     location: "online"
     focus-area: as

@@ -6,7 +6,9 @@ permalink: /fellows/vovechkin.html
 fellow-name: Vladimir Ovechkin
 title: Vladimir Ovechkin - IRIS-HEP Fellow
 active: green
-dates: June-August 2020
+dates:
+  start: 2020-06-01
+  end: 2020-08-31
 photo: /assets/images/team/Vladimir-Ovechkin.jpg
 institution: University of Washington, Seattle
 website: http://vladov3000.com/

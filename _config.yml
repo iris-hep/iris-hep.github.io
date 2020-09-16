@@ -53,6 +53,7 @@ exclude:
   - _scripts
   - bin
   - .github
+  - Rakefile
 
 sass:
     sass_dir: _sass

@@ -81,3 +81,25 @@ presentations:
     meetingurl: https://indico.cern.ch/event/896167/
     location: Virtual
     focus-area: as
+  - title: "pyhf: a pure Python statistical fitting library with tensors and autograd"
+    date: 2020-07-07
+    url: https://doi.org/10.25080/Majora-342d178e-023
+    meeting: 19th Python in Science Conference (SciPy 2020)
+    meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
+    location: Virtual
+    focus-area: as
+  - title: "pyhf Tutorial: Accelerating analyses and preserving likelihoods"
+    date: 2020-07-16
+    url: https://indico.cern.ch/event/882824/contributions/3931292/
+    meeting: PyHEP 2020 Workshop
+    meetingurl: https://indico.cern.ch/event/882824/
+    location: Virtual
+    focus-area: as
+    comment: DOI not yet available
+  - title: "Likelihood Publication and Preservation"
+    date: 2020-08-10
+    url: https://indico.fnal.gov/event/43829/contributions/193820/
+    meeting: Snowmass 2021 Computational Frontier Workshop
+    meetingurl: https://indico.fnal.gov/event/43829/
+    location: Virtual
+    focus-area: as

@@ -37,7 +37,7 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
                   {{ post.summary | markdownify }}
               {% else %}
                   {{ post.excerpt | strip_html }}
-              {% endif %}  
+              {% endif %}
             <a href="{{post.url}}">Read more</a></div>
           </div>
        </div>
@@ -50,16 +50,23 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
 
 <div class="mainpage-fellows mainpage-core">
 <h4>IRIS-HEP Fellows</h4>
-The IRIS-HEP Fellows program provides funding support for selected individuals to spend several months working closely with a mentor on 
-an HEP software R&D topic relevant to the Institute. 
-<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP Fellows program.</a> Recent fellows include:
+The IRIS-HEP Fellows program provides funding support for selected individuals to spend several months working closely with a mentor on
+an HEP software R&D topic relevant to the Institute.
+<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP Fellows program.</a> Current fellows include:
 
 <div class="container-fluid">
   <div class="row">
+    {% assign current_fellows_start = '2020-05-01' | date:'%F' %}
     {% assign sorted = site.pages | sort_natural: 'title' %}
     {% for mypage in sorted %}
-      {% if mypage.pagetype == 'fellow' %} 
+      {%- if mypage.dates.first.start -%}
+        {% assign page_start_date = mypage.dates.first.start | date: '%F' %}
+      {%- else -%}
+        {% assign page_start_date = mypage.dates.start | date: '%F' %}
+      {%- endif -%}
+      {% if mypage.pagetype == 'fellow' and page_start_date > current_fellows_start %}
          {% assign person = mypage %}
+
          <div class="card" style="width: 12rem;">
             <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
             <div class="card-body d-flex flex-column">
@@ -67,11 +74,9 @@ an HEP software R&D topic relevant to the Institute.
                  <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
                  <small>{{person.institution}}</small><br><br>
               </div>
-              {% if person.dates.first %}
-                <div class="card-text mt-auto"><i>{{person.dates | join: "</i><br><i>"}}</i><br></div>
-              {% else %}
-                <div class="card-text mt-auto"><i>{{person.dates}}</i><br></div>
-              {% endif %}
+              <div class="card-text mt-auto"><i>
+              {% include fellow_dates.html dates=person.dates %}
+              </i><br></div>
             </div>
          </div>
       {% endif %}
@@ -85,7 +90,7 @@ an HEP software R&D topic relevant to the Institute.
 <div class="mainpage-events mainpage-core">
 
 {% comment %}
-Go through the list and produce a list of upcoming events as well as a 
+Go through the list and produce a list of upcoming events as well as a
 list of events in the past 90 days. Treat 6 days ago as "now" so that
 ongoing events don't get prematurely flagged as recent.
 {% endcomment %}
@@ -101,13 +106,15 @@ ongoing events don't get prematurely flagged as recent.
 <h4>Upcoming Events:</h4>
 </div>
 
-{% for event_hash in site.data.events %}
-  {% assign event = event_hash[1] %}
+{%- include get_all_events.html -%}
+
+{% for event in all_events %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
-  {% if startdatecmp >= sixdaysago %} 
+  {% if startdatecmp >= sixdaysago %}
      {% assign selected_events = selected_events | push: event %}
   {% endif %}
 {% endfor %}
+
 
 <ul>
   {% assign selected_events = selected_events | sort: 'startdate' %}
