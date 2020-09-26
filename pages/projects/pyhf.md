@@ -57,6 +57,7 @@ Updating list of citations and use cases of `pyhf`:
 - Gaël Alguero, Sabine Kraml, and Wolfgang Waltenberger. A SModelS interface for pyhf likelihoods. Sep 2020. [arXiv:2009.01809](https://arxiv.org/abs/2009.01809).
 - Waleed Abdallah and others. Reinterpretation of LHC Results for New Physics: Status and Recommendations after Run 2. 2020. [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 - G. Brooijmans and others. Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report. In 2020. [arXiv:2002.12220](https://arxiv.org/abs/2002.12220).
+- Andrei Angelescu, Darius A. Faroughy, and Olcyr Sumensari. Lepton Flavor Violation and Dilepton Tails at the LHC. Eur. Phys. J. C, 80(7):641, 2020. [arXiv:2002.05684](https://arxiv.org/abs/2002.05684), [doi:10.1140/epjc/s10052-020-8210-5](https://doi.org/10.1140/epjc/s10052-020-8210-5).
 - B.C. Allanach, Tyler Corbett, and Maeve Madigan. Sensitivity of Future Hadron Colliders to Leptoquark Pair Production in the Di-Muon Di-Jets Channel. Eur. Phys. J. C, 80(2):170, 2020. [arXiv:1911.04455](https://arxiv.org/abs/1911.04455), [doi:10.1140/epjc/s10052-020-7722-3](https://doi.org/10.1140/epjc/s10052-020-7722-3).
 - J. Alison and others. Higgs boson potential at colliders: status and perspectives. In 2019. [arXiv:1910.00012](https://arxiv.org/abs/1910.00012).
 - ATLAS Collaboration. Reproducing searches for new physics with the ATLAS experiment through publication of full statistical likelihoods. Geneva, Aug 2019. URL: [https://cds.cern.ch/record/2684863](https://cds.cern.ch/record/2684863).
