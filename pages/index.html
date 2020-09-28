@@ -111,7 +111,7 @@ ongoing events don't get prematurely flagged as recent.
 {% for event in all_events %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp >= sixdaysago %}
-  {% unless event.frontpage and ( event.frontpage == "No" or event.frontpage == "no" ) %}
+  {% unless ( (event.frontpage != null) and ( (event.frontpage == "No") or (event.frontpage == "no") ) ) %}
      {% assign selected_events = selected_events | push: event %}
   {% endunless %}
   {% endif %}
