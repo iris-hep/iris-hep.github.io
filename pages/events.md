@@ -20,26 +20,18 @@ chronological order, grouped by months
 
 {%- include get_all_events.html -%}
 
-{% for yearidx in yearlist %}
-{% for monthidx in monthlist %}
-{% assign selected_array = "" | split: "," %}
-{% for event in all_events  %}
-  {% assign eventyear = event.startdate | date: "%Y" %}
-  {% assign eventmonth = event.startdate | date: "%m" %}
-  {% if eventyear == yearidx and eventmonth == monthidx %}
-     {% assign selected_array = selected_array | push: event %}
-  {% endif %}
-{% endfor %}
-
-{% assign selected_array = selected_array | sort: 'startdate' | reverse %}
 {% assign hdrprint = true %}
 <ul>
-{% for event in selected_array %}
+{% for event in all_events %}
   {% if hdrprint == true %}
     <br><h5>{{event.startdate | date: "%B, %Y"}}</h5>
     {% assign hdrprint = false %}
   {% endif %}
-  <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
+  <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)
+  {% if event.abstractdeadline %}
+    (Abstract deadline: {event.abstractdeadline | date: date: " - %-d %b"})
+{% endif %}
+</li>
 {% endfor %}
 </ul>
 
