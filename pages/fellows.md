@@ -6,8 +6,7 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-### We are now accepting proposals for the 2020-2021 academic year (fall,
-winter, spring).
+### We are now accepting proposals for the 2020-2021 academic year (fall, winter, spring).
 
   People are the key to successful software. IRIS-HEP aims to promote the
 development of advanced research software skills by providing opportunities
@@ -36,9 +35,9 @@ can be part of the program.
 
 Two types of IRIS-HEP Fellows are possible:
 
-  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work with a mentor, developing research software relevant for HEP in one of the R&D categories listed above. Undergraduate fellows will receive a stipend, paid monthly, during their fellowship.  
+  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work with a mentor to develop research software relevant for HEP in one of the R&D areas listed above. Undergraduate fellows will receive a stipend, paid monthly, during their fellowship.  
 
-  * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor developing research software relevant for HEP in one of the R&D areas listed above. Graduate fellows will receive a stipend, paid monthly, during their fellowship. They should not in general have support via a teaching or research assistant position during the fellowship period.
+  * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor to develop research software relevant for HEP in one of the R&D areas listed above. Graduate fellows will receive a stipend, paid monthly, during their fellowship. They should not in general have support via a teaching or research assistant position during the fellowship period.
 
 Due to COVID-19 restrictions, no travel or subsistence payments can currently
 be paid to support co-location of either Undergraduate or Graduate Fellows with mentors.
