@@ -17,8 +17,12 @@ Contact the mentors for more information about any of these projects!
 {% for project in sorted_fellow_projects  %}
   
   {% if project.open %}
-  <li> {{project.title}}: {{project.description | markdownify}} (Contact(s):
+  {% capture full-proj %}{{ project.title }} : {{ project.description }}{% endcapture %}
+  <li> {{full-proj | markdownify}} (Contact(s):
   {% for contact in project.contacts %}
+      {% if contact contains "@" %}
+      <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a>
+      {% else %}
       {% for person_hash in site.data.people -%}
       {% assign person = person_hash[1] -%}
       {% if person.shortname == contact %}
@@ -27,10 +31,11 @@ Contact the mentors for more information about any of these projects!
          {% endif %}
       {% endif %}
       {% endfor %}
+      {% endif %}
   {% endfor %}
 ) </li>
   {% endif %}
 {% endfor %}
-
+  
 </ul>
 

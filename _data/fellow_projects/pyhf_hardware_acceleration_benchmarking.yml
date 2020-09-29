@@ -1,0 +1,6 @@
+open: yes
+postdate: 2020-09-29
+title: "**pyhf Hardware Acceleration Benchmarking**"
+description: "This project is situated in the [Analysis Systems](https://iris-hep.org/as.html) focus area.A benchmarking suite will be written for [`pyhf`](https://github.com/scikit-hep/pyhf) in Python to test and benchmark the performance increase of the hardware accelerated backends on GPUs on openly published physics data from LHC experiments [[10.17182/hepdata.89408](https://doi.org/10.17182/hepdata.89408), [10.17182/hepdata.92006](https://doi.org/10.17182/hepdata.92006)].The benchmarking suite would preferably be written as a [`pytest`](https://docs.pytest.org/en/latest/) module."
+contacts:
+ - fellows@iris-hep.org
