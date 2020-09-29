@@ -36,16 +36,14 @@ can be part of the program.
 
 Two types of IRIS-HEP Fellows are possible:
 
-  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work a mentors, either developing or using research software relevant for HEP in the categories listed above. Undergraduate fellows will receive a stipend, paid monthly, during their fellowship.  
+  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work with a mentor, developing research software relevant for HEP in one of the R&D categories listed above. Undergraduate fellows will receive a stipend, paid monthly, during their fellowship.  
 
-  * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor developing research software relevant for HEP in one of the R&D areas listed above. Graduate Fellows should not in general have support via a teaching or research assistant position.
-
-Fellows are expected to have a base research stipend from their university, but receive a monthly subsistence plus travel expenses from their IRIS-HEP fellowship.  **Travel support is not available in 2020 due to the COVID-19 pandemic.  All work and interactions with mentors will be entirely virtual.**
+  * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor developing research software relevant for HEP in one of the R&D areas listed above. Graduate fellows will receive a stipend, paid monthly, during their fellowship. They should not in general have support via a teaching or research assistant position during the fellowship period.
 
 Due to COVID-19 restrictions, no travel or subsistence payments can currently
-be paid to support co-location of Fellows with mentors.
+be paid to support co-location of either Undergraduate or Graduate Fellows with mentors.
 
-Duration of fellowship and total stipend: An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month. As full time research software activities are not consistent with taking classes during the academic year (as opposed to summer), most fellows will work a smaller time fraction over a larger number of calendar months. (For example, half-time for 6 months.) Applicants should include a proposed time profile for their activities in their proposal, as well as note their academic course load and/or any other activities taking significant time.
+**Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month. As full time research software activities are not consistent with taking classes during the academic year (as opposed to summer), most fellows will work a smaller time fraction over a larger number of calendar months. (For example, half-time for 6 months.) Applicants should include a proposed time profile for their activities in their proposal, as well as note their academic course load and/or any other activities taking significant time.
 
   Examples fellows in a related program can be found on the [DIANA/HEP Fellow webpage](http://diana-hep.org/pages/fellows.html) and example projects of interest in the HEP community can be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are within the R&D areas listed above.
 
@@ -54,7 +52,7 @@ Interested prospective fellows and/or mentors should write to fellows@iris-hep.o
 Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing:
 
  * A CV
- * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. Note also the intended software project or person with whom you will collaborate and the location where you would need to travel for that collaboration. The proposal should be short, typically no more one page to describe the project and then a short timeline with deliverables (see also examples from previous fellows).
+ * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. Note also the intended software project or person with whom you will collaborate as mentor. The proposal should be short, typically no more one page to describe the project and then a short timeline with deliverables (see also examples from previous fellows). The timeline should also include the proposed FTE effort fractions by month (not to exceed 3 FTE-months total) and information on other major activities (coursework load, etc.)
 
 IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals.
 
