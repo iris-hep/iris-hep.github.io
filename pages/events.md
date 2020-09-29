@@ -43,7 +43,7 @@ chronological order, grouped by months
   {% endif %}
   <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)
   {% if event.abstractdeadline != null %}
-    {% assign abs_date = event.abstractdeadline | date: date: " - %-d %b"%}
+    {% assign abs_date = event.abstractdeadline | date_to_long_string %}
     (Abstract deadline: {{abs_date}})
   {% endif %}
 </li>
