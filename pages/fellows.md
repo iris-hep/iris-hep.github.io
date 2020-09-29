@@ -53,7 +53,9 @@ Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing
  * A CV
  * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. Note also the intended software project or person with whom you will collaborate as mentor. The proposal should be short, typically no more one page to describe the project and then a short timeline with deliverables (see also examples from previous fellows). The timeline should also include the proposed FTE effort fractions by month (not to exceed 3 FTE-months total) and information on other major activities (coursework load, etc.)
 
-IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals.
+*Applications from women and members of underrepresented groups in STEM activities are particular encouraged to apply.*
+
+IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals. All proposals submitted before Friday, 29 October, 2020 will receive full consideration.  
 
 # IRIS-HEP Current Fellows (Summer 2020)
 
