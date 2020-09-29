@@ -20,7 +20,6 @@ chronological order, grouped by months
 
 {%- include get_all_events.html -%}
 
-{% assign hdrprint = true %}
 
 {% for yearidx in yearlist %}		
 {% for monthidx in monthlist %}		
@@ -29,13 +28,14 @@ chronological order, grouped by months
    {% assign eventyear = event.startdate | date: "%Y" %}		
    {% assign eventmonth = event.startdate | date: "%m" %}		
    {% if eventyear == yearidx and eventmonth == monthidx %}		
-      {% assign selected_array = selected_array | push: event %}		
+      {% assign selected_array = selected_array | push: event %}
    {% endif %}		
  {% endfor %}		
 
   {% assign selected_array = selected_array | sort: 'startdate' | reverse %}
 
 <ul>
+{% assign hdrprint = true %}
 {% for event in selected_array %}
   {% if hdrprint == true %}
     <br><h5>{{event.startdate | date: "%B, %Y"}}</h5>
@@ -43,7 +43,8 @@ chronological order, grouped by months
   {% endif %}
   <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)
   {% if event.abstractdeadline != null %}
-    (Abstract deadline: {event.abstractdeadline | date: date: " - %-d %b"})
+    {% assign abs_date = event.abstractdeadline | date: date: " - %-d %b"%}
+    (Abstract deadline: {{abs_date}})
   {% endif %}
 </li>
 {% endfor %}
