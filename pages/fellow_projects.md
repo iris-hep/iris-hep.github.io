@@ -1,0 +1,36 @@
+---
+permalink: /fellow_projects.html
+layout: default
+title: Open IRIS-HEP fellow projects
+---
+<center> 
+<h3> Open IRIS-HEP fellow projects</h3>
+</center>
+
+<br>
+Contact the mentors for more information about any of these projects!
+
+
+{%- include get_all_fellow_projects.html -%}
+
+<ul>
+{% for project in sorted_fellow_projects  %}
+  
+  {% if project.open %}
+  <li> {{project.title}}: {{project.description | markdownify}} (Contact(s):
+  {% for contact in project.contacts %}
+      {% for person_hash in site.data.people -%}
+      {% assign person = person_hash[1] -%}
+      {% if person.shortname == contact %}
+         {% if person.e-mail %}
+             <a href="mailto:{{person.e-mail}}"> <em>{{person.e-mail}}</em> </a>
+         {% endif %}
+      {% endif %}
+      {% endfor %}
+  {% endfor %}
+) </li>
+  {% endif %}
+{% endfor %}
+
+</ul>
+
