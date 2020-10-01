@@ -117,6 +117,14 @@ presentations:
     location: Online
     focus-area: doma
     project: skyhookdm
+  - title: "How $2 Million Dollars Helped Build CROSS with Dr. Carlos Maltzahn"
+    date: 2020-06-05
+    meeting: "Sustain Podcast"
+    meetingurl: https://podcast.sustainoss.org/episodes
+    url: https://users.soe.ucsc.edu/~carlosm/dev/news/20200605/
+    location: Online
+    focus-area: doma
+    project: skyhookdm
   - title: "Some lessons learned from creating and using the Ceph open source storage system"
     date: 2020-06-11
     meeting: "BCS Open Source Specialist Group: Open source softgware for scientific and parallel computing"
@@ -130,6 +138,21 @@ presentations:
     meeting: "UC Berkeley Cloud Meetup 015"
     meetingurl: https://www.meetup.com/ucberkeley_cloudmeetup/events/271035943/
     url: https://drive.google.com/file/d/1yiVuO0Q38zlcoMjo10HfqkSvjIxn7pSL/view?usp=sharing
+    location: Online
+    focus-area: doma
+    project: skyhookdm
+  - title: "The value of open source to universities: UC Santa Cruz tests the water"
+    date: 2020-08-02
+    meeting: "Interview for a Linux Professional Institute Blog Post by Andy Oram"
+    meetingurl: https://www.lpi.org/blog
+    url: https://users.soe.ucsc.edu/~carlosm/dev/news/20200728/
+    location: Online
+    focus-area: doma
+    project: skyhookdm
+  - title: "Enabling Rapid, Reproducible Experimentation with Popper Container-Native Workflows"
+    date: 2020-09-17
+    meeting: "Red Hat Research Days: Distributed Workflows"
+    meetingurl: https://research.redhat.com/research-days-us-2020
     location: Online
     focus-area: doma
     project: skyhookdm
