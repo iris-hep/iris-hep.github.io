@@ -149,10 +149,3 @@ presentations:
     location: Online
     focus-area: doma
     project: skyhookdm
-  - title: "Enabling Rapid, Reproducible Experimentation with Popper Container-Native Workflows"
-    date: 2020-09-17
-    meeting: "Red Hat Research Days: Distributed Workflows"
-    meetingurl: https://research.redhat.com/research-days-us-2020
-    location: Online
-    focus-area: doma
-    project: skyhookdm
