@@ -314,3 +314,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/900384/
     location: Sony Brook / BNL (Virtual)
     focus-area: as
+  - title: Likelihood publishing, RECAST, and simulation-based inference
+    date: 2020-10-14
+    url: https://indico.cern.ch/category/9320/
+    meeting: PhyStat / CERN EP-IT Data science seminar
+    meetingurl: https://indico.cern.ch/category/9320/
+    location: CERN (Virtual)
+    focus-area: as
