@@ -13,3 +13,5 @@ Collect all the events, merging lists as appropriate.
   {%- assign event = event_hash[1] -%}
   {%- assign all_events = all_events | push: event -%}
 {%- endfor -%}
+
+{% assign sorted_events = all_events | sort: "startdate" | reverse %}
