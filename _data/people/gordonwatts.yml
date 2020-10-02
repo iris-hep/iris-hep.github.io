@@ -158,3 +158,10 @@ presentations:
     meeting: "IRIS-HEP Team Retreat"
     focus-area: management
     location: Virtual
+  - title: "ServiceX Front End Status"
+    date: 2020-10-02
+    url: https://indico.cern.ch/event/961949/contributions/4048043/
+    meetingurl: https://indico.cern.ch/event/961949
+    meeting: "ServiceX Meeting"
+    focus-area: as
+    location: Virtual
