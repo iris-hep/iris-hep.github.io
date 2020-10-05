@@ -39,6 +39,10 @@ team:
 [![Docker Stars](https://img.shields.io/docker/stars/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
 
+### Featured on CERN homeapge
+
+The CERN homepage featured an article on pyhf: [New open release allows theorists to explore LHC data in a new way](https://home.cern/news/news/knowledge-sharing/new-open-release-allows-theorists-explore-lhc-data-new-way):  The ATLAS collaboration releases full analysis likelihoods, a first for an LHC experiment.
+
 ### Recent Talks and Tutorials
 
 * Matthew Feickert's [SciPy 2020 talk](https://matthewfeickert.github.io/talk-SciPy-2020/index.html):
@@ -55,8 +59,12 @@ team:
 Updating list of citations and use cases of `pyhf`:
 
 - Gaël Alguero, Sabine Kraml, and Wolfgang Waltenberger. A SModelS interface for pyhf likelihoods. Sep 2020. [arXiv:2009.01809](https://arxiv.org/abs/2009.01809).
+- Jeffrey Krupa and others. GPU coprocessors as a service for deep learning inference in high energy physics. July 2020. [arXiv:2007.10359](https://arxiv.org/abs/2007.10359).
+- Charanjit K. Khosa, Sabine Kraml, Andre Lessa, Philipp Neuhuber, and Wolfgang Waltenberger. SModelS database update v1.2.3. LHEP, 158:2020, May 2020. [arXiv:2005.00555](https://arxiv.org/abs/2005.00555), [doi:10.31526/lhep.2020.158](https://doi.org/10.31526/lhep.2020.158).
 - Waleed Abdallah and others. Reinterpretation of LHC Results for New Physics: Status and Recommendations after Run 2. 2020. [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 - G. Brooijmans and others. Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report. In 2020. [arXiv:2002.12220](https://arxiv.org/abs/2002.12220).
+- Andrei Angelescu, Darius A. Faroughy, and Olcyr Sumensari. Lepton Flavor Violation and Dilepton Tails at the LHC. Eur. Phys. J. C, 80(7):641, 2020. [arXiv:2002.05684](https://arxiv.org/abs/2002.05684), [doi:10.1140/epjc/s10052-020-8210-5](https://doi.org/10.1140/epjc/s10052-020-8210-5).
+- B.C. Allanach, Tyler Corbett, and Maeve Madigan. Sensitivity of Future Hadron Colliders to Leptoquark Pair Production in the Di-Muon Di-Jets Channel. Eur. Phys. J. C, 80(2):170, 2020. [arXiv:1911.04455](https://arxiv.org/abs/1911.04455), [doi:10.1140/epjc/s10052-020-7722-3](https://doi.org/10.1140/epjc/s10052-020-7722-3).
 - J. Alison and others. Higgs boson potential at colliders: status and perspectives. In 2019. [arXiv:1910.00012](https://arxiv.org/abs/1910.00012).
 - ATLAS Collaboration. Reproducing searches for new physics with the ATLAS experiment through publication of full statistical likelihoods. Geneva, Aug 2019. URL: [https://cds.cern.ch/record/2684863](https://cds.cern.ch/record/2684863).
 - Johann Brehmer, Felix Kling, Irina Espejo, and Kyle Cranmer. MadMiner: Machine learning-based inference for particle physics. Comput. Softw. Big Sci., 4(1):3, 2020. [arXiv:1907.10621](https://arxiv.org/abs/1907.10621), [doi:10.1007/s41781-020-0035-2](https://doi.org/10.1007/s41781-020-0035-2).

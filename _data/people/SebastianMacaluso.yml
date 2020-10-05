@@ -69,3 +69,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/809820/
     location: New York University
     focus-area: ia
+  - title: "New Computational Techniques and Machine Learning for Jet Physics"
+    date: 2020-09-21
+    url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/LaPlata2020.pdf
+    meeting: "Particle Theory Seminar, Instituto de Fisica La Plata, UNLP"
+    meetingurl: https://github.com/SebastianMacaluso/TalksSlides/blob/master/LaPlata2020.pdf
+    location: Instituto de Fisica La Plata, La Plata, Argentina
+    focus-area: ia

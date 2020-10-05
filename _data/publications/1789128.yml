@@ -5,4 +5,5 @@ focus-area:
 project:
 - exploratory-ml
 - madminer
-submitted-to: NeurIPS2020
+citation:  Advances in Neural Information Processing Systems 34 (NeurIPS2020)
+#submitted-to: NeurIPS2020
