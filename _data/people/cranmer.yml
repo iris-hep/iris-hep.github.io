@@ -316,8 +316,15 @@ presentations:
     focus-area: as
   - title: Likelihood publishing, RECAST, and simulation-based inference
     date: 2020-10-14
-    url: https://indico.cern.ch/category/9320/
+    url: https://indico.cern.ch/event/962997/
     meeting: PhyStat / CERN EP-IT Data science seminar
-    meetingurl: https://indico.cern.ch/category/9320/
+    meetingurl: https://indico.cern.ch/event/962997/
     location: CERN (Virtual)
+    focus-area: as
+  - title: How machine learning can help us get the most out of our highest fidelity physical models
+    date: 2020-10-21
+    url: https://www.jlab.org/AI/lunch_series
+    meeting: Jefferson Lab AI Lunch Series
+    meetingurl: https://www.jlab.org/AI/lunch_series
+    location: Jefferson Lab (Virtual)
     focus-area: as
