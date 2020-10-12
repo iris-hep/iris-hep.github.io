@@ -8,7 +8,7 @@ title: IRIS-HEP Events
 </center>
 
 <br>
-Events that IRIS-HEP team members are invovled in organizing, planning to participate in or otherwise interested in:
+Events that IRIS-HEP team members are involved in organizing, planning to participate in or otherwise interested in:
 
 <ul>
 {% assign yearlist = "2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016" | split: ", " %}
