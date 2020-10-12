@@ -8,11 +8,11 @@ postbanner: /assets/images/posts/2020-09-17-fellows-watts-liu-banner.png
 summary: "Highlights the Letters of Interest submitted to the Snowmass 2021 Process"
 ---
 
-Every decade the US Particle Physics community gathers to lay out ideas, plans, and priorities for the next decade - the [Snowmass process](https://snowmass21.org/start). The year long study covers everything from detector design, the potential of proposed future accelerators, new physics models, and, of course, computing. The process starts with members of the particle physics community, both national and international, submitted Letters of Interest. These letters of interest (LOIs) are short two page summaries of plans for the next two years. They serve as a notice of work to be done and as an advertisement meant to attract other like-minded individuals.
+Every decade the US Particle Physics community gathers to lay out ideas, plans, and priorities for the next decade - called the [Snowmass process](https://snowmass21.org/start). The year long study covers everything from detector design, the potential of proposed future accelerators, new physics models, and, of course, computing. The process starts with members of the particle physics community, both national and international, submitting Letters of Interest. These letters of interest (LOIs) are short two page summaries of plans for the next two years. They serve as a notice of work to be done and as an advertisement meant to attract other like-minded individuals. They are an excellent grass-roots gauge of what the community is thinking for the next decade!
 
 ### LOI's submitted
 
-Members of IRIS-HEP submitted XX LOI's. The [computational frontier](https://snowmass21.org/computational/start) received more than [120 LOIs](https://www.snowmass21.org/docs/files/?dir=summaries/CompF). Listed here, along with links and a short summary:
+Members of IRIS-HEP submitted 11 LOI's. The [computational frontier](https://snowmass21.org/computational/start) received more than [120 LOIs](https://www.snowmass21.org/docs/files/?dir=summaries/CompF). Listed here, along with links and a short summary:
 
 - [Snowmass 2021 Letter of Interest: Analysis Ecosystem at the HL-LHC, G. Watts Snowmass 2021 Letter of Interest (10 Sep 2020).](https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF5_CompF7_Gordon_Watts-136.pdf)
 - [Snowmass 2021 Letter of Interest: Graph Data Structures and Graph Neural Networks for High Energy Physics, X. Ju, M. Neubauer, L. Gray, A. Aurisano, T. R. F. P. Tomei, J.-R. Vlimant, J. Hewes, K. Terao, S. Thais, D. Murnane, Snowmass 2021 Letters of Interest (31 Aug 2020).](https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF3_CompF0-118.pdf)
@@ -26,7 +26,4 @@ Members of IRIS-HEP submitted XX LOI's. The [computational frontier](https://sno
 - [Snowmass 2021 Letter of Interest: Matrix Element Method in the Machine Learning Era, P. Chang, M. Feickert, and Mark S. Neubauer, Snowmass 2021 Letters of Interest (31 Aug 2020).](https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF3_CompF5-EF0_EF0_Mark_Neubauer-121.pdf)
 - [Snowmass 2021 Letter of Interest: Particle Physics and Machine Learning in Education, Mark S. Neubauer, Snowmass 2021 Letters of Interest (31 Aug 2020).](https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF3_CompF0-CommF0_CommF0_Mark_Neubauer-130.pdf)
 
-
-### TO DELETE
-
-Everyone should feel free to modify this text!!
+All [LOI's can be found](https://www.snowmass21.org/docs/files/?dir=summaries/) on the main Snowmass website.
