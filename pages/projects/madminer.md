@@ -36,7 +36,7 @@ playfully call this process "mining gold" from the simulator, since this informa
 to be very valuable for inference.
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/johannbrehmer/madminer)
+[![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/diana-hep/madminer)
 [![PyPI version](https://badge.fury.io/py/madminer.svg)](https://badge.fury.io/py/madminer)
 [![Documentation Status](https://readthedocs.org/projects/madminer/badge/?version=latest)](https://madminer.readthedocs.io/en/latest/?badge=latest)
 [![Build Status](https://travis-ci.com/johannbrehmer/madminer.svg?branch=master)](https://travis-ci.com/johannbrehmer/madminer)
