@@ -44,10 +44,11 @@ be paid to support co-location of either Undergraduate or Graduate Fellows with 
 
 **Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month. As full time research software activities are not consistent with taking classes during the academic year (as opposed to summer), most fellows will work a smaller time fraction over a larger number of calendar months. (For example, half-time for 6 months.) Applicants should include a proposed time profile for their activities in their proposal, as well as note their academic course load and/or any other activities taking significant time.
 
-  Examples fellows in a related program can be found on the [DIANA/HEP Fellow webpage](http://diana-hep.org/pages/fellows.html) and example projects of interest in the HEP community can be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are within the R&D areas listed above.
+Recent Fellows and links to descriptions of their projects can be found below in the list of current and past Fellows.
 
 **Some of the currently open IRIS-HEP fellow projects can be found [on a separate webpage](/fellow_projects.html)**.
-Interested prospective fellows and/or mentors can also write to fellows@iris-hep.org for more information.
+Example projects of interest in the wider HEP community can also be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are within the R&D areas listed above.
+Interested prospective fellows and/or mentors are also encouraged to write to fellows@iris-hep.org for more information.
 
 Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing:
 
