@@ -2,9 +2,8 @@
 layout: irispost
 title: Snowmass Letters Of Interest submitted by IRIS-HEP Members
 author: Gordon Watts and Rob Tuck
-postimage: /assets/images/posts/2020-09-17-fellows-watts-liu.jpg
-postimage-caption: "Something Something Something"
-postbanner: /assets/images/posts/2020-09-17-fellows-watts-liu-banner.png
+postimage: /assets/images/posts/2020-10-12-snowmass-loi.jpg
+postimage-caption: "Snowmass Mountain Photo Credit: Nelsestu at English Wikipedia - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=80947852"
 summary: "Highlights the Letters of Interest submitted to the Snowmass 2021 Process"
 ---
 
