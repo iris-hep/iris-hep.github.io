@@ -56,7 +56,7 @@ Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing
 
 *Applications from women and members of underrepresented groups in STEM activities are particular encouraged to apply.*
 
-IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals. All proposals submitted before Friday, 29 October, 2020 will receive full consideration.  
+IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals. All proposals submitted before Friday, 6 November, 2020 will receive full consideration.  
 
 # IRIS-HEP Current Fellows (Summer 2020)
 
