@@ -11,7 +11,8 @@ team:
  - cranmer
  - johannbrehmer
  - irinaespejo
- - Felix Kling 
+ - sinclert
+ - Felix Kling
 ---
 
 
