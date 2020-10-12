@@ -46,12 +46,12 @@ be paid to support co-location of either Undergraduate or Graduate Fellows with 
 
   Examples fellows in a related program can be found on the [DIANA/HEP Fellow webpage](http://diana-hep.org/pages/fellows.html) and example projects of interest in the HEP community can be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are within the R&D areas listed above.
 
-**Some of the currently open IRIS-HEP fellow projects can be found [here](/fellow_projects.html)**.
+**Some of the currently open IRIS-HEP fellow projects can be found [on a separate webpage](/fellow_projects.html)**.
 Interested prospective fellows and/or mentors can also write to fellows@iris-hep.org for more information.
 
 Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing:
 
- * A CV
+ * A CV. Please include both educational status and any software-relevant coursework and/or previous software projects and activities.
  * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. Note also the intended software project or person with whom you will collaborate as mentor. The proposal should be short, typically no more one page to describe the project and then a short timeline with deliverables (see also examples from previous fellows). The timeline should also include the proposed FTE effort fractions by month (not to exceed 3 FTE-months total) and information on other major activities (coursework load, etc.)
 
 *Applications from women and members of underrepresented groups in STEM activities are particular encouraged to apply.*
