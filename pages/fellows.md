@@ -8,13 +8,7 @@ title: IRIS/HEP Fellows Program
 
 ### We are now accepting proposals for the 2020-2021 academic year (fall, winter, spring)
 
-  People are the key to successful software. IRIS-HEP aims to promote the
-development of advanced research software skills by providing opportunities
-for undergraduate and graduate students to connect with mentors within the
-larger HEP and Computational/Data Science community. At the same time, we aim
-to promote software as a collaborative activity and encourage collaborations
-which engage individuals in ways that maximize their potential and their
-potential impact on the community.
+  People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
 
   In order to accomplish these goals, IRIS-HEP has created a Fellow program.
 IRIS-HEP Fellows will spend some number of months working closely with a 
@@ -44,10 +38,11 @@ be paid to support co-location of either Undergraduate or Graduate Fellows with 
 
 **Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month. As full time research software activities are not consistent with taking classes during the academic year (as opposed to summer), most fellows will work a smaller time fraction over a larger number of calendar months. (For example, half-time for 6 months.) Applicants should include a proposed time profile for their activities in their proposal, as well as note their academic course load and/or any other activities taking significant time.
 
-Recent Fellows and links to descriptions of their projects can be found below in the list of current and past Fellows.
 
-**Some of the currently open IRIS-HEP fellow projects can be found [on a separate webpage](/fellow_projects.html)**.
-Example projects of interest in the wider HEP community can also be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are within the R&D areas listed above.
+**Projects:** Research software projects should in general be in the R&D areas listed above or (in some cases) be projects of more general interest to the HEP.
+Recent Fellows and links to descriptions of their projects can be found below in the list of current and past Fellows.
+**Examples of currently open IRIS-HEP Fellow projects can be found [on a separate webpage](/fellow_projects.html)**.
+Example projects of interest in the wider HEP community can also be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are related to the R&D areas listed above.
 Interested prospective fellows and/or mentors are also encouraged to write to fellows@iris-hep.org for more information.
 
 Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing:
