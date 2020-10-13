@@ -2,8 +2,8 @@
 layout: irispost
 title: Software Sustainability & High Energy Physics Blueprint Workshop
 author: Daniel S. Katz
-postimage: /assets/images/20190911-fastml-georgia-karagiorgi.jpg
-postimage-caption: "Georgia Karagiorgi (Columbia University) describes the opportunities for fast machine learning for the neutrino physics program. Photo Credit: Marguerite Tonjes (FNAL)."
+postimage: /assets/images/blueprint-process.png
+postimage-caption: "This workshop was part of the Blueprint process, which is designed to inform the development and evolution of the IRIS-HEP strategic vision, in this case regarding susainable software."
 summary: "On July 22, about 80 researchers interested in both sustainable software and high energy physics gathered virtually to talk about how the high energy physics community could make its software more sustainable, wanting it to be easier to develop and maintain so that it remains available in the future on new platforms, meets new needs, and is as reusable as possible."
 ---
 
@@ -31,9 +31,9 @@ with recommendations to improve software sustainability in HEP, aimed at the HEP
 The report is available from [arXiv](https://arxiv.org/abs/2010.05102) and [Zenodo](https://doi.org/10.5281/zenodo.4082137).
 
 {% include figure.html
-    file="/assets/images/posts/20190911-Mark-Neubauer-DSC00818.jpg"
-    alt="Mark Neubauer (University of Illinois at Urbana-Champaign)"
-    caption="Mark Neubauer (University of Illinois at Urbana-Champaign) helped organize the FastML workshop as a 'blueprint' workshop, which aims to inform the planning for the IRIS-HEP software institute. IRIS-HEP is working to find solutions for the computational and data science challenges of the HL-LHC. Photo Credit: Marguerite Tonjes (FNAL)."
+    file="/assets/images/blueprint-process.png"
+    alt="IRIS-HEP blueprint process"
+    caption="This workshop was part of the Blueprint process, which is designed to inform the development and evolution of the IRIS-HEP strategic vision, in this case regarding susainable software."
 %}
 
 The recommendations focus on three topics: training, software, and people.
