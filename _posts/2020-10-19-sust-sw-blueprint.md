@@ -4,7 +4,6 @@ title: Software Sustainability & High Energy Physics Blueprint Workshop
 author: Daniel S. Katz
 postimage: /assets/images/20190911-fastml-georgia-karagiorgi.jpg
 postimage-caption: "Georgia Karagiorgi (Columbia University) describes the opportunities for fast machine learning for the neutrino physics program. Photo Credit: Marguerite Tonjes (FNAL)."
-postbanner: /assets/images/20190911-fastml-workshop-19-0152-01.jpg
 summary: "On July 22, about 80 researchers interested in both sustainable software and high energy physics gathered virtually to talk about how the high energy physics community could make its software more sustainable, wanting it to be easier to develop and maintain so that it remains available in the future on new platforms, meets new needs, and is as reusable as possible."
 ---
 
