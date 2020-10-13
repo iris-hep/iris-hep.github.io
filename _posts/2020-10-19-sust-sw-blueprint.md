@@ -34,7 +34,7 @@ The report is available from [arXiv](https://arxiv.org/abs/2010.05102) and [Zeno
 {% include figure.html
     file="/assets/images/posts/20190911-Mark-Neubauer-DSC00818.jpg"
     alt="Mark Neubauer (University of Illinois at Urbana-Champaign)"
-    caption="Mark Neubauer (University of Illinois at Urbana-Champaign) helped organize the FastML workshop as a `blueprint' workshop, which aims to inform the planning for the IRIS-HEP software institute. IRIS-HEP is working to find solutions for the computational and data science challenges of the HL-LHC. Photo Credit: Marguerite Tonjes (FNAL)."
+    caption="Mark Neubauer (University of Illinois at Urbana-Champaign) helped organize the FastML workshop as a 'blueprint' workshop, which aims to inform the planning for the IRIS-HEP software institute. IRIS-HEP is working to find solutions for the computational and data science challenges of the HL-LHC. Photo Credit: Marguerite Tonjes (FNAL)."
 %}
 
 The recommendations focus on three topics: training, software, and people.
@@ -92,4 +92,3 @@ The list of APS awards does not seem to have such an award. What is needed and r
 software contributions and even software training recognition. These rewards will be a good way to keep the talent motivated.
 
 The material from the workshop is available online in an [Indico agenda](https://indico.cern.ch/event/930127/timetable/). 
-
