@@ -26,4 +26,11 @@ project_goal: >
   Profile the pyhf codebase to determine where the hardware acceleration is making the largest difference.
 proposal: /assets/pdf/Fellow-BoZheng-Proposal.pdf
 presentations:
+  - title: "pyhf Hardware Acceleration Benchmarking with CPUs and GPUs"
+    date: 2020-08-31
+    url: https://indico.cern.ch/event/946427/contributions/3976985/attachments/2094041/3519207/IRIS-HEP_presentation.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946427/
+    recordingurl: https://www.youtube.com/watch?v=yjlzO5oXb1w&t=0s
+    focus-area: as
 ---

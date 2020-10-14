@@ -19,4 +19,11 @@ mentors:
   - djw8605
 proposal: /assets/pdf/Fellow-SuhaibShaikh-Proposal
 presentations:
+  - title: "Proactive Site Monitoring"
+    date: 2020-09-28
+    url: https://indico.cern.ch/event/946429/contributions/3976993/attachments/2111089/3551108/Shaikh-Proactive_Site_Monitoring.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946429/
+    recordingurl: https://www.youtube.com/watch?v=b4iMNk2m-Dc&t=2097s
+    focus-area: osglhc
 ---

@@ -20,4 +20,11 @@ mentors:
   - Javier Duarte (University of California, San Diego)
 proposal: /assets/pdf/VesalRazavimaleki_Proposal.pdf
 presentations:
+  - title: "Graph Neural Networks for Particle Tracking in FPGAs with hls4m"
+    date: 2020-09-28
+    url: https://indico.cern.ch/event/946429/contributions/3976992/attachments/2111087/3551110/GNN_tracking_hls4ml.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946429/
+    recordingurl: https://www.youtube.com/watch?v=b4iMNk2m-Dc&t=845s
+    focus-area: ia
 ---

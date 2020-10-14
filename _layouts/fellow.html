@@ -31,7 +31,7 @@
 {% for project in projects %}
 
   <br>
-  <h3>{{project.project_title}}</h3>
+  <h3>Project: {{project.project_title}}</h3>
 
   {{project.project_goal}}
   <br>
@@ -59,7 +59,17 @@
   </ul>
 {% endfor %}
 
-<br>
+
+<b>Presentations</b>
+<ul>
+{% for presentation in page.presentations %}
+  {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
+  <li>{{prettydate}} - <a href="{{presentation.url}}">"{{presentation.title}}"</a>, {{page.fellow-name}}, <a href="{{presentation.meetingurl}}">{{presentation.meeting}}</a>
+    {% if presentation.recordingurl %}
+      Recording: <a href="{{presentation.recordingurl}}">{{presentation.title}}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
 <hr>
 
 <b>Contact me:</b><br>

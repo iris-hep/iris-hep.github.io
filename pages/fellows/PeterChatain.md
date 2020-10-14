@@ -20,5 +20,11 @@ mentors:
   - Lauren Tompkins (Stanford)
   - Rocky Garg (Stanford)
 presentations:
-
+  - title: "Track Seeding Example for ACTS (A Common Tracking Software)"
+    date: 2020-08-31
+    url: https://indico.cern.ch/event/946427/contributions/3976987/attachments/2094098/3519337/PeterChatain-August31st-trackSeeding.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946427/
+    recordingurl: https://www.youtube.com/watch?v=yjlzO5oXb1w&t=610s
+    focus-area: ia
 ---
