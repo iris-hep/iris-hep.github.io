@@ -11,7 +11,6 @@ summary: "On July 22, about 80 researchers interested in both sustainable softwa
 On July 22, about 80 researchers interested in both sustainable software and high energy physics gathered virtually to talk about how
 the high energy physics community could make its software more sustainable, wanting it to be easier to develop and maintain so that it
 remains available in the future on new platforms, meets new needs, and is as reusable as possible.
-<!--more-->
 
 New facilities of the 2020s, such as the High Luminosity Large Hadron Collider (HL-LHC), will be relevant through at least the 2030s.
 This means that their software efforts and those that are used to analyze their data need to consider sustainability to enable their
@@ -29,12 +28,6 @@ speakers, and some of the attendees have now written and released on a report on
 the talks, and the discusssion sessions, and the report closes
 with recommendations to improve software sustainability in HEP, aimed at the HEP community via IRIS-HEP and the HEP Software Foundation (HSF).
 The report is available from [arXiv](https://arxiv.org/abs/2010.05102) and [Zenodo](https://doi.org/10.5281/zenodo.4082137).
-
-{% include figure.html
-    file="/assets/images/blueprint-process.png"
-    alt="IRIS-HEP blueprint process"
-    caption="This workshop was part of the Blueprint process, which is designed to inform the development and evolution of the IRIS-HEP strategic vision, in this case regarding susainable software."
-%}
 
 The recommendations focus on three topics: training, software, and people.
 
