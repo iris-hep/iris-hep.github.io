@@ -43,4 +43,18 @@ projects:
   proposal: /assets/pdf/Fellow-Pratyush-Das-Proposal.pdf
 
 presentations:
+  - title: "Writing TTrees with uproot"
+    date: 2019-09-16
+    url: https://indico.cern.ch/event/840667/contributions/3527109/attachments/1908764/3153297/uproot-irisfellow-final.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/840667/
+    recordingurl:
+    focus-area: as
+  - title: "Language Transformations for the Awkward Array Library"
+    date: 2020-08-31
+    url: https://indico.cern.ch/event/946427/contributions/3976986/attachments/2094014/3519161/IRIS-HEP-Fellow-Awkward.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946427/
+    recordingurl: https://www.youtube.com/watch?v=yjlzO5oXb1w&t=1351s
+    focus-area: as
 ---  
