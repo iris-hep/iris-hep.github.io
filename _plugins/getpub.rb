@@ -25,7 +25,7 @@ module Publications
 
       @site = site
 
-      @site.data['publications'].each do |name, pub|
+      @site.data['publications']&.each do |name, pub|
         prepare(pub, name)
 
         # Add caching to reduce requests to INSPIRE
