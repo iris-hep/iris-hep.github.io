@@ -21,4 +21,11 @@ project_goal: >
 
 proposal: /assets/pdf/Fellow-Thomas_Shearer-Proposal.pdf
 presentations:
+  - title: "Improving the OSG-LHC Network Metrics User Interface"
+    date: 2020-09-21
+    url: https://indico.cern.ch/event/946428/contributions/3976988/attachments/2106258/3542241/Tommy-Shearer-IRIS-HEP-Fellowship-Presentation.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946428/
+    recordingurl: https://www.youtube.com/watch?v=sATu_MJo8L4&t=1782s
+    focus-area: osglhc
 ---
