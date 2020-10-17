@@ -12,7 +12,7 @@ team:
 - jlefevre
 - ivotron
 - esmaeil-mirvakili
-- jayjeet
+- JayjeetAtGithub
 - xweichu
 - carlosmalt
 ---
