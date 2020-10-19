@@ -27,12 +27,10 @@ It is *not* required that the mentors are IRIS-HEP team members, any
 appropriate mentor from the larger community working in one of these areas
 can be part of the program.
 
-**Who should apply to the Fellows program?** - You should be comfortable with 
-basic programming through skills acquired (for example) from coursework or 
-dedicated training activities. You should be interested in gaining experience
-by building on those skills through contributions to cutting edge open 
-source research software projects. Prior physics knowledge is helpful,
-but not required. *Applications from women and members of underrepresented groups in STEM activities are particular encouraged to apply.*
+**Who should apply to the Fellows program?** - Are you reasonably comfortable 
+with basic programming through skills acquired (for example) from coursework or 
+dedicated training activities? Are you interested in building on those skills to gain experience through contributions to cutting edge open 
+source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. *Applications from women and members of underrepresented groups in STEM activities are particular encouraged to apply.*
 
 Two types of IRIS-HEP Fellows are possible:
 
