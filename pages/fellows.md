@@ -30,7 +30,7 @@ can be part of the program.
 **Who should apply to the Fellows program?** - Are you reasonably comfortable 
 with basic programming through skills acquired (for example) from coursework or 
 dedicated training activities? Are you interested in building on those skills to gain experience through contributions to cutting edge open 
-source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. *Applications from women and members of underrepresented groups in STEM activities are particular encouraged to apply.*
+source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. *Applications from women and members of underrepresented groups in STEM activities are particularly encouraged.*
 
 Two types of IRIS-HEP Fellows are possible:
 
