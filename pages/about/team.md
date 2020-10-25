@@ -37,6 +37,7 @@ title: Institute Team
   </div>
 </div>
 
+<br>
 <h1>Former Team Members</h1><br>
 
 <div class="container-fluid">
