@@ -1,7 +1,7 @@
 name: Nicholas Cinko
 shortname: nickcinko
 title: Graduate Student
-active: green
+active: true
 photo: /assets/images/atom.png
 institution: University of California, Berkeley
 presentations:
