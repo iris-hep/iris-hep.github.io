@@ -165,3 +165,10 @@ presentations:
     meeting: "ServiceX Meeting"
     focus-area: as
     location: Virtual
+  - title: "ServiceX Front End Status"
+    date: 2020-10-16
+    url: https://indico.cern.ch/event/967053/contributions/4070082
+    meetingurl: https://indico.cern.ch/event/967053
+    meeting: "ServiceX Meeting"
+    focus-area: as
+    location: Virtual
