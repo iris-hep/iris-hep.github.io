@@ -6,7 +6,6 @@ title: Institute Team
 
 {% include institution_list.html %}
 
-
 <h1>Full Team</h1><br>
 
 <div class="container-fluid">
