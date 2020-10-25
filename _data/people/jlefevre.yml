@@ -5,6 +5,7 @@ active: true
 institution: University of California, Santa Cruz
 website: https://users.soe.ucsc.edu/~jlefevre/
 photo: /assets/images/team/Jeff-LeFevre.jpg
+e-mail: jlefevre@ucsc.edu
 presentations:
   - title: SkyhookDB - Leveraging object storage toward database elasticity in the cloud
     date: 2017-11-16
