@@ -103,3 +103,10 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/43829/
     location: Virtual
     focus-area: as
+  - title: "Toward Fitting as a Service with pyhf"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4070323/
+    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
+    focus-area: as
