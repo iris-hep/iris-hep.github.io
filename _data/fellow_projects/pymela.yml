@@ -5,6 +5,7 @@ description: "The Matrix Element Method (MEM) is a powerful technique for high e
 Recent advancements in applying deep learning to approximate the MEM integral through regression have shown dramatic computational time reduction.
 The goal of this fellowship project would be to explore ways to improve upon the established deep learning techniques through contributions to the JAX based pyMELA framework.
 If time allowed, the project could also incorporate the study of the effects of using automatic differentiation to improve the interpolation of grid points."
+
 contacts:
  - msneubauer
  - matthewfeickert
