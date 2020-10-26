@@ -18,3 +18,9 @@ presentations:
     meeting: IRIS-HEP Poster Session
     meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, US
+  - title: Madminer on REANA
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/attachments/2129226/3585364/IRIS-HEP%20Madminer-on-reana.pdf
+    meeting: IRIS-HEP Analysis Sytems and Facilities Future
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
