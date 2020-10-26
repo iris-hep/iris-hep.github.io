@@ -321,10 +321,24 @@ presentations:
     meetingurl: https://indico.cern.ch/event/962997/
     location: CERN (Virtual)
     focus-area: as
-  - title: How machine learning can help us get the most out of our highest fidelity physical models
-    date: 2020-10-21
-    url: https://www.jlab.org/AI/lunch_series
-    meeting: Jefferson Lab AI Lunch Series
-    meetingurl: https://www.jlab.org/AI/lunch_series
-    location: Jefferson Lab (Virtual)
+  - title: Vision: Physics, Machine Learning, and Computing
+    date: 2020-10-19
+    url: http://www.ncsa.illinois.edu/Conferences/AcceleratedAINCSA/agenda.html
+    meeting: 2020 Accelerated Artificial Intelligence for Big-Data Experiments Conference
+    meetingurl: http://www.ncsa.illinois.edu/Conferences/AcceleratedAINCSA/agenda.html
+    location: NCSA (Virtual)
     focus-area: as
+  - title: New experimental analysis techniques
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/900384/contributions/3796227/
+    meeting: Higgs2020
+    meetingurl: https://indico.cern.ch/event/900384/timetable/#20201030.detailed
+    location: Virtual
+    focus-area: as
+#  - title: How machine learning can help us get the most out of our highest fidelity physical models
+#    date: 2020-10-21
+#    url: https://www.jlab.org/AI/lunch_series
+#    meeting: Jefferson Lab AI Lunch Series
+#    meetingurl: https://www.jlab.org/AI/lunch_series
+#    location: Jefferson Lab (Virtual)
+#    focus-area: as
