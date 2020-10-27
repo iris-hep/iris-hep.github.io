@@ -27,6 +27,11 @@ It is *not* required that the mentors are IRIS-HEP team members, any
 appropriate mentor from the larger community working in one of these areas
 can be part of the program.
 
+**Who should apply to the Fellows program?** - Are you reasonably comfortable 
+with basic programming through skills acquired (for example) from coursework or 
+dedicated training activities? Are you interested in building on those skills to gain experience through contributions to cutting edge open 
+source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. *Applications from women and members of underrepresented groups in STEM activities are particularly encouraged.*
+
 Two types of IRIS-HEP Fellows are possible:
 
   * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work with a mentor to develop research software relevant for HEP in one of the R&D areas listed above. Undergraduate fellows will receive a stipend, paid monthly, during their fellowship.  
@@ -49,7 +54,6 @@ Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing
  * A CV. Please include both educational status and any software-relevant coursework and/or previous software projects and activities.
  * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. Note also the intended software project or person with whom you will collaborate as mentor. The proposal should be short, typically no more one page to describe the project and then a short timeline with deliverables (see also examples from previous fellows). The timeline should also include the proposed FTE effort fractions by month (not to exceed 3 FTE-months total) and information on other major activities (coursework load, etc.)
 
-*Applications from women and members of underrepresented groups in STEM activities are particular encouraged to apply.*
 
 IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals. All proposals submitted before Friday, 6 November, 2020 will receive full consideration.  
 
