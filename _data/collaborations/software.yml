@@ -51,3 +51,9 @@
       number: 1739772 
     - type: OAC
       number: 1740102
+
+- name: Compiler Research
+  url: http://www.compiler-research.org
+  awards:
+    - type: OAC
+    - number: 1931408
