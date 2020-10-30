@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-    <div class="container"> 
+    <div class="container">
         <a class="navbar-brand" href="/"><span><img src="/assets/logos/Iris-hep-4-no-long-name.png" alt="IRIS-HEP logo" height="58.5px" width="109px"></span></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -39,6 +39,8 @@
                         {% for mypage in activities %}
                         <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
                         {% endfor %}
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/grand-challenges.html">Grand Challenges</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="/impact-beyond-hep.html">Impact Beyond HEP</a>
                         <div class="dropdown-divider"></div>
