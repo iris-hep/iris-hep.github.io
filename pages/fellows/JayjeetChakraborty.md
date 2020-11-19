@@ -31,5 +31,11 @@ mentors:
   - Ivo Jimenez  (UC Santa Cruz)
   - Jeff LeFevre (UC Santa Cruz)
 presentations:
-
+  - title: "Reproducible and Scalable Experiments with SkyhookDM Ceph"
+    date: 2020-10-05
+    url: https://indico.cern.ch/event/946431/contributions/3976995/attachments/2114858/3558114/Jayjeet_IRIS-HEP_Presentation.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946431/
+    recordingurl: https://www.youtube.com/watch?v=6gCp1BwQHdg
+    focus-area: doma
 ---
