@@ -59,7 +59,7 @@ The CERN homepage featured an article on pyhf: [New open release allows theorist
 
 Updating list of citations and use cases of `pyhf`:
 
-- Matthew Feickert, Lukas Heinrich, and Giordon Stark. Likelihood preservation and statistical reproduction of searches for new physics. EPJ Web Conf., 2020. doi:10.1051/epjconf/202024506017.
+- Matthew Feickert, Lukas Heinrich, and Giordon Stark. Likelihood preservation and statistical reproduction of searches for new physics. EPJ Web Conf., Nov 2020. [doi:10.1051/epjconf/202024506017](https://doi.org/10.1051/epjconf/202024506017).
 - Gaël Alguero, Sabine Kraml, and Wolfgang Waltenberger. A SModelS interface for pyhf likelihoods. Sep 2020. [arXiv:2009.01809](https://arxiv.org/abs/2009.01809).
 - Jeffrey Krupa and others. GPU coprocessors as a service for deep learning inference in high energy physics. July 2020. [arXiv:2007.10359](https://arxiv.org/abs/2007.10359).
 - Charanjit K. Khosa, Sabine Kraml, Andre Lessa, Philipp Neuhuber, and Wolfgang Waltenberger. SModelS database update v1.2.3. LHEP, 158:2020, May 2020. [arXiv:2005.00555](https://arxiv.org/abs/2005.00555), [doi:10.31526/lhep.2020.158](https://doi.org/10.31526/lhep.2020.158).
