@@ -5,6 +5,7 @@ active: true
 institution: University of Illinois at Urbana-Champaign
 website: https://www.matthewfeickert.com
 photo: /assets/images/team/matthewfeickert.jpeg
+e-mail: matthew.feickert@cern.ch
 presentations:
   - title: "pyhf: a pure Python implementation of HistFactory with tensors and autograd"
     date: 2018-10-29
@@ -101,5 +102,19 @@ presentations:
     url: https://indico.fnal.gov/event/43829/contributions/193820/
     meeting: Snowmass 2021 Computational Frontier Workshop
     meetingurl: https://indico.fnal.gov/event/43829/
+    location: Virtual
+    focus-area: as
+  - title: "Toward Fitting as a Service with pyhf"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4070323/
+    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
+    focus-area: as
+  - title: "pyhf: pure-Python implementation of HistFactory with tensors and automatic differentiation"
+    date: 2020-11-03
+    url: https://indico.cern.ch/event/955391/contributions/4075505/
+    meeting: Tools for High Energy Physics and Cosmology 2020 Workshop
+    meetingurl: https://indico.cern.ch/event/955391/
     location: Virtual
     focus-area: as
