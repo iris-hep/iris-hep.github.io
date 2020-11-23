@@ -6,6 +6,38 @@ institution: New York University
 website: https://johannbrehmer.github.io
 photo: /assets/images/team/Johann-Brehmer.jpg
 presentations:
+  - title: "How machine learning can help us get the most out of high-precision particle physics models"
+    date: 2020-11-23
+    url: https://www.jlab.org/sites/default/files/theory/files/simulation_based_inference_jlab_2020.pdf
+    meeting: JLab theory seminar
+    meetingurl: https://www.jlab.org/theory/seminars/theorysem
+    location: Jefferson Lab, USA
+    focus-area: as
+    project: madminer
+  - title: "How machine learning can help us get the most out of high-precision particle physics models"
+    date: 2020-11-12
+    url: https://theorieseminar.desy.de/sites2009/site_theorieseminar/content/e41199/e308614/Brehmer121120.pdf
+    meeting: DESY-HU theory seminar
+    meetingurl: https://theorieseminar.desy.de/zeuthen/
+    location: Berlin, Germany
+    focus-area: as
+    project: madminer
+  - title: "NOTAGAN: Normalizing flows for simultaneous manifold learning and density estimation"
+    date: 2020-07-18
+    url: https://invertibleworkshop.github.io/accepted_papers/index.html
+    meeting: INNF+: Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models
+    meetingurl: https://invertibleworkshop.github.io/
+    location: remote
+    focus-area: as
+    project:
+  - title: "Flows for simultaneous manifold learning and density estimation"
+    date: 2020-07-15
+    url:
+    meeting: mlclub.net
+    meetingurl:
+    location: remote
+    focus-area: as
+    project: 
   - title: "Mining for Dark Matter substructure:  Learning from lenses without a likelihood"
     date: 2020-02-17
     url: https://ithems.riken.jp/ja/events/mining-for-dark-matter-substructure-learning-from-lenses-without-a-likelihood
