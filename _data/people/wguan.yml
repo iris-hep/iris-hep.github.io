@@ -1,7 +1,7 @@
 name: Wen Guan
 shortname: wguan
 title:
-active: green
+active: true
 institution: University of Wisconsin-Madison
 website: 
 photo: /assets/images/team/Wen-Guan.png
@@ -46,5 +46,26 @@ presentations:
     meeting: ATLAS Software & Computing Week
     meetingurl: https://indico.cern.ch/event/823142/
     url: https://indico.cern.ch/event/823142/contributions/3884226/subcontributions/308943/attachments/2056851/3449291/idds_sC_20200613.pdf
+    focus-area: doma
+    project: idds
+  - title: "iDDS for machine learning"
+    date: 2020-07-09
+    meeting: Joint Atlas Machine Learning / Workflow Management Meeting
+    meetingurl: https://indico.cern.ch/event/937451/
+    url: https://indico.cern.ch/event/937451/contributions/3938474/attachments/2071775/3478128/idds_ml_20200707.pdf
+    focus-area: doma
+    project: idds
+  - title: "iDDS news for machine learning"
+    date: 2020-10-01
+    meeting: Joint Atlas Machine Learning / Workflow Management Meeting
+    meetingurl: https://indico.cern.ch/event/958113/
+    url: https://indico.cern.ch/event/958113/contributions/4027378/attachments/2113937/3556258/idds_ml_20201001-2.pdf
+    focus-area: doma
+    project: idds
+  - title: "iDDS: new workflow structure"
+    date: 2020-10-05
+    meeting: ADC @ ATLAS Software & Computing Week
+    meetingurl: https://indico.cern.ch/event/956962/
+    url: https://indico.cern.ch/event/958089/contributions/4039386/subcontributions/316213/attachments/2115633/3559950/idds_s%26c_20201005.pdf
     focus-area: doma
     project: idds

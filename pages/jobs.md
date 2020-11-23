@@ -41,3 +41,5 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 ### ATLAS
 
   * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
+
+### Others

@@ -1,7 +1,7 @@
 name: Gordon Watts
 shortname: gordonwatts
 title: Institute co-PI and Deputy Executive Director
-active: green
+active: true
 institution: University of Washington
 website: https://phys.washington.edu/people/gordon-watts
 photo: /assets/images/team/Gordon-Watts.jpg
@@ -156,5 +156,33 @@ presentations:
     url: https://indico.cern.ch/event/896167/contributions/3870080/
     meetingurl: https://indico.cern.ch/event/896167/
     meeting: "IRIS-HEP Team Retreat"
+    focus-area: management
+    location: Virtual
+  - title: "ServiceX Front End Status"
+    date: 2020-10-02
+    url: https://indico.cern.ch/event/961949/contributions/4048043/
+    meetingurl: https://indico.cern.ch/event/961949
+    meeting: "ServiceX Meeting"
+    focus-area: as
+    location: Virtual
+  - title: "ServiceX Front End Status"
+    date: 2020-10-16
+    url: https://indico.cern.ch/event/967053/contributions/4070082
+    meetingurl: https://indico.cern.ch/event/967053
+    meeting: "ServiceX Meeting"
+    focus-area: as
+    location: Virtual
+  - title: "An Integrated Data Query Pipeline: HEPTables"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4077336/
+    meetingurl: https://indico.cern.ch/event/960587
+    meeting: "IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop"
+    focus-area: as
+    location: Virtual
+  - title: "Analysis tools and infrastructure"
+    date: 2020-10-27
+    url: https://indico.ihep.ac.cn/event/11444/session/12/contribution/174
+    meetingurl: https://indico.ihep.ac.cn/event/11444
+    meeting: "The 2020 International Workshop on the High Energy Circular Electron Positron Collider"
     focus-area: management
     location: Virtual

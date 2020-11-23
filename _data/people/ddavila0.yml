@@ -1,11 +1,18 @@
 name: Diego Davila
 shortname: ddavila0
 title: Scientific Software Developer and Researcher
-active: green
+active: true
 institution: University of California, San Diego
 website: 
 photo: /assets/images/team/Diego-Davila.jpg
 presentations:
+- title: "Progress on transferring with HTTP-TPC"
+  date: 2020-08-05
+  url: https://indico.cern.ch/event/943367/contributions/3963678/attachments/2085027/3502669/Progress_on_transferring_with_HTTP-TPC.pdf
+  meeting: Offline and Computing Weekly meeting
+  meetingurl: https://indico.cern.ch/event/943367/
+  focusarea: doma
+  project: tpc
 - title: XRootD Transfer Accounting Validation Plan
   date: 2020-04-22
   url: https://indico.cern.ch/event/909034/contributions/3834200/attachments/2025127/3387442/XRootD_Validation_Plan.pdf

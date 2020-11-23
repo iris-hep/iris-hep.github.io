@@ -1,0 +1,6 @@
+open: yes
+postdate: 2020-09-29
+title: "**Reading CMS Run 1/2 miniAOD files with ServiceX and func_adl**"
+description: "ServiceX is a distributed, cloud-native application that extracts columnar data from HEP event data and delivers it to an analyst. The func_adl data query language is used to tell ServiceX how to extract the data (what columns, what simple cuts, etc.). The func_adl data query language has two backends that are currently part of ServiceX - one based on C++ for ATLAS data and one based on columnar processing using uproot and awkward array. The C++ backend currently runs only on the ATLAS binary format, xAOD. The backend is written in python. This project will modify the C++ backend to also run on CMS mini-AOD binary files (Run 1/Run 2)."
+contacts:
+ - fellows@iris-hep.org

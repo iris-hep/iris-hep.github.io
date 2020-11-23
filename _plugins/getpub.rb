@@ -25,7 +25,7 @@ module Publications
 
       @site = site
 
-      @site.data['publications'].each do |name, pub|
+      @site.data['publications']&.each do |name, pub|
         prepare(pub, name)
 
         # Add caching to reduce requests to INSPIRE
@@ -39,6 +39,20 @@ module Publications
     end
 
     private
+
+    def str_to_date(input, name)
+      # Fail nicely if nil
+      raise "No date for #{name}, a date is required" if input.nil?
+
+      # Normalize date
+      begin
+        Date.parse(input)
+      rescue Date::Error
+        # If this is missing the day, try adding it. If it errors again, give
+        # up and don't catch the second error.
+        Date.parse("#{input}-01")
+      end
+    end
 
     # Check for and add submitted_to information
     def submitted_to(pub, name)
@@ -64,7 +78,7 @@ module Publications
       prepare_focus_area(pub, name) if pub['focus-area'].empty?
 
       msg = 'You must have a project or focus-area in every publication'
-      raise StandardError, msg unless pub.key? 'focus-area'
+      raise msg unless pub.key? 'focus-area'
 
       # Make sure the focus-area is a list
       force_array(pub, 'focus-area')
@@ -82,7 +96,7 @@ module Publications
       pub['project'].each do |p|
         pg = @site.pages.detect { |page| page.data['shortname'] == p }
         msg = "Project #{pub['project']} missing! Cannot find focus-area for #{name}."
-        raise StandardError, msg unless pg
+        raise msg unless pg
 
         new_fas = pg.data['focus-area']
         new_fas = [new_fas] if new_fas.is_a? String
@@ -130,8 +144,8 @@ module Publications
       # This *only* sets data if the previous line is nil
       pub['date'] ||= data.dig('imprints', 0, 'date')
 
-      # Normalize date (if Nil, this should fail (date required))
-      pub['date'] = Date.parse(pub['date']) unless pub['date'].is_a? Date
+      # Normalize date
+      pub['date'] = str_to_date(pub['date'], recid) unless pub['date'].is_a? Date
 
       pub['citation-count'] ||= data['citation_count']
 

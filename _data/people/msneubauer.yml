@@ -1,10 +1,11 @@
 name: Mark Neubauer
 shortname: msneubauer
 title: Blueprint Coordinator
-active: green
+active: true
 institution: University of Illinois at Urbana-Champaign
 website: http://msneubauer.github.io
 photo: /assets/images/team/Mark-Neubauer.png
+e-mail: msn@illinois.edu
 presentations:
   - title: Design Roadmap for Future Collaborations
     date: 2018-10-19

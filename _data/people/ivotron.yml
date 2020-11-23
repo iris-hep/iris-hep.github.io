@@ -1,8 +1,9 @@
 name: Ivo Jimenez
 shortname: ivotron
 title: Research Scientist
-active: green
+active: true
 institution: UC Santa Cruz
 website: http://ivotron.me
 photo: /assets/images/team/ivotron.png
+e-mail: ivotron@ucsc.edu
 presentations: []

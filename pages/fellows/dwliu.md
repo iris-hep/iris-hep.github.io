@@ -25,4 +25,11 @@ project_goal: >
   software's stress limits.
 proposal: /assets/pdf/dwliu_proposal.pdf
 presentations:
+  - title: "ServiceX: Backend Tests"
+    date: 2020-09-21
+    url: https://indico.cern.ch/event/946428/contributions/3978663/attachments/2106266/3542254/Talk_for_IRIS-HEP.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946428/
+    recordingurl: https://www.youtube.com/watch?v=sATu_MJo8L4&t=2789s
+    focus-area: as
 ---
