@@ -212,3 +212,35 @@ presentations:
     meetingurl: https://indico.cern.ch/event/882824/
     location: "online"
     focus-area: as
+
+  - title: "Measuring Python adoption by CMS physicists using GitHub API"
+    date: 2020-08-11
+    url: https://indico.fnal.gov/event/43829/contributions/193602/
+    meeting: "Snowmass Computational Frontier Workshop 2020"
+    meetingurl: https://indico.fnal.gov/event/43829/
+    location: "online"
+    focus-area: as
+
+  - title: "Future of User Analysis"
+    date: 2020-10-01
+    url: https://indico.cern.ch/event/958432/
+    meeting: "LHCb Computing Workshop"
+    meetingurl: https://indico.cern.ch/event/941919
+    location: "online"
+    focus-area: as
+
+  - title: "Access & Manipulation of Complex Data Structures: Uproot & Awkward Array"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4070318/
+    meeting: "Future Analysis Systems and Facilities"
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: "online"
+    focus-area: as
+
+  - title: "Survey and status of Pythonic HEP analysis tools"
+    date: 2020-11-20
+    url: https://indico.cern.ch/event/971994/contributions/4106679/
+    meeting: "CMS Physics Workshop on Analysis Tools and Techniques"
+    meetingurl: https://indico.cern.ch/event/971994/
+    location: "online"
+    focus-area: as
