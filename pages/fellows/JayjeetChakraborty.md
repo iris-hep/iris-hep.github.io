@@ -19,7 +19,7 @@ project_goal: >
   the Ceph distributed object storage platform with customized C++ object classes that enable
   database operations such as SELECT, PROJECT, AGGREGATE to be offloaded directly into the
   object storage layer, allowing applications to efficiently query multi-dimensional
-  arrays. Compiling ceph along with Skyhook and running benchmark tests consists of a number of
+  arrays. Compiling Ceph along with Skyhook and running benchmark tests consists of a number of
   steps and can become irreproducible at times. The aim of this project is to implement a
   reproducible workflow with Popper to automate large-scale tests on different cloud
   infrastructure like GCP, Cloudlab and Kubernetes clusters and benchmark SkyhookDM at the 10's of terabyte
@@ -31,5 +31,11 @@ mentors:
   - Ivo Jimenez  (UC Santa Cruz)
   - Jeff LeFevre (UC Santa Cruz)
 presentations:
-
+  - title: "Reproducible and Scalable Experiments with SkyhookDM Ceph"
+    date: 2020-10-05
+    url: https://indico.cern.ch/event/946431/contributions/3976995/attachments/2114858/3558114/Jayjeet_IRIS-HEP_Presentation.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946431/
+    recordingurl: https://www.youtube.com/watch?v=6gCp1BwQHdg
+    focus-area: doma
 ---
