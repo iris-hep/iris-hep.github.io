@@ -1,7 +1,7 @@
 name: Mason Proffitt
 shortname: masonproffitt
 title: PhD student
-active: green
+active: true
 institution: University of Washington
 photo: /assets/images/team/Mason-Proffitt.jpg
 presentations:
@@ -32,4 +32,11 @@ presentations:
     meeting: Software Carpentry at CERN
     meetingurl: https://indico.cern.ch/event/834411/
     location: CERN
+    focus-area: as
+  - title: "Functional Analysis Description Language (FuncADL)"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331177/11_-_Functional_Analysis_Description_Language_FuncADL.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/overview
+    location: Princeton University
     focus-area: as

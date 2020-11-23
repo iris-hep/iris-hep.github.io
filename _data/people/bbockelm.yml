@@ -1,7 +1,7 @@
 name: Brian Bockelman
 shortname: bbockelm
 title: Institute co-PI and DOMA R&D Area Lead
-active: green
+active: true
 institution: Morgridge Institute
 website: http://iris-hep.org
 photo: /assets/images/team/Brian-Bockelman.jpg
@@ -55,3 +55,59 @@ presentations:
     location: Adelaide, South Australia
     focus-area: doma
     project: tpc
+  - title: "DOMA Update for February 2020 Steering Board"
+    date: 2020-02-18
+    meeting: IRIS-HEP Steering Board Meeting #5
+    url: https://indico.cern.ch/event/809181/contributions/3746701/attachments/1989190/3315708/IRIS-HEP-DOMA-SB-5-v2.pdf
+    meetingurl: https://indico.cern.ch/event/809181/
+    focus-area: doma
+  - title: "Modernizing the LHC’s transfer infrastructure"
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331169/1_-_Modernizing_LHC_Transfer_Infra_-_v1.pdf
+    focus-area: doma
+    project: tpc
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton University
+  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
+    date: 2020-03-09
+    meeting: HEP-CCE Kick Off Meeting
+    meetingurl: https://indico.fnal.gov/event/23262
+    location: Argonne National Laboratory
+    url: https://indico.fnal.gov/event/23262/contributions/71467/attachments/44823/53975/IRIS-HEP-CCE-Kickoff-v1.pdf
+  - title: "TPC: Status, Plans, Contribution to the HL-LHC review document"
+    meeting: WLCG DOMA F2F @ FNAL
+    meetingurl: https://indico.cern.ch/event/875110/
+    url: https://indico.cern.ch/event/875110/contributions/3772469/attachments/2000379/3338941/WLCG-DOMA-F2F-TPC-Update.pdf
+    date: 2020-03-09
+    focus-area: doma
+  - title: "IRIS-HEP and DOMA related activities"
+    meeting: WLCG DOMA F2F @ FNAL
+    meetingurl: https://indico.cern.ch/event/875110/
+    url: https://indico.cern.ch/event/875110/contributions/3772474/attachments/2000383/3338950/IRIS-HEP-WLCG-DOMA-F2F.pdf
+    date: 2020-03-09
+    focus-area: doma
+  - title: "Update on the Globus transition"
+    meeting: OSG Council March 2020 Meeting
+    meetingurl: https://indico.fnal.gov/event/23625/
+    url: https://indico.fnal.gov/event/23625/contributions/73341/attachments/45884/55174/OSG-Council-Globus-Transition.pdf
+    focus-area: osglhc
+    date: 2020-03-19
+  - title: "OSG-LHC Technical Roadmap"
+    meeting: US ATLAS Computing Facility
+    meetingurl: https://indico.cern.ch/event/903811/
+    url: https://indico.cern.ch/event/903811/contributions/3803835/attachments/2029549/3396220/USATLAS-Facilities-2020-Upgrades.pdf
+    focus-area: osglhc
+    date: 2020-04-29
+  - title: "DOMA - Years 3, and 4+5"
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167
+    url: https://indico.cern.ch/event/896167/contributions/3870076/attachments/2044575/3426079/DOMA_Year_3.pdf
+    focus-area: doma
+    date: 2020-05-26
+  - title: "DOMA: Year 3 Plans, Year 4 & 5 Goals"
+    url: https://indico.cern.ch/event/896167/contributions/3874634/attachments/2047275/3431440/DOMA_Year_3_-_Plans.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167
+    focus-area: doma
+    date: 2020-05-29

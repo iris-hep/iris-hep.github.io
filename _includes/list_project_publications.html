@@ -10,7 +10,7 @@
 {% if pubs.size > 0 %}
 <h3>Publications</h3>
 <ul>
-  {% for pub in sorted_publications %}
+  {% for pub in pubs %}
     {% if pub.citation-count and pub.citation-count > 0 %}
       {% assign cited = " [" | append: pub.citation-count | append: " citations]" %}
       {% if pub.inspire-id %}
@@ -19,7 +19,7 @@
     {% else %}
       {% assign cited = "" %}
     {% endif %}
-    <li> <a href="{{ pub.link }}">{{ pub.title }}</a>, {{ pub.citation }} ({{ pub.date | date_to_string }}){{ cited }}. </li>
+    <li> {% include print_pub.html pub=pub %} </li>
   {% endfor %}
 </ul>
 {% endif %}

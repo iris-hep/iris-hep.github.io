@@ -1,7 +1,7 @@
 name: Slava Krutelyov
 shortname: slava77
 title: 
-active: green
+active: true
 institution: University of California, San Diego
 website:
 photo: /assets/images/team/Slava-Krutelyov.jpg
@@ -18,4 +18,11 @@ presentations:
     meeting: Latin American Workshop on Software and Computing challenges in High-Energy Particle Physics (LAWSCHEP 2019)
     meetingurl: https://indico.cern.ch/event/813325
     location: Mexico City, Mexico
+    focus-area: ia
+  - title: Update on mkFit developments
+    date: 2019-12-16
+    url: https://indico.cern.ch/event/869552/contributions/3669454
+    meeting: CMS Tracking POG Meeting
+    meetingurl: https://indico.cern.ch/event/869552
+    location: CERN
     focus-area: ia

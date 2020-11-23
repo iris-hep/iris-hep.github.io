@@ -5,11 +5,16 @@
 @import "variables";
 @import "mixins";
 
+html {
+  height: 100%;
+}
+
 /* DIANA dark blue: 2C3E50; DIANA light blue: 3B97D3 */
 /* Original padding-top was 6rem */
 body {
   padding-top: 5rem;
   padding-bottom: 0;
+  height: 100%;
   color: #2C3E50;
 
   @media (prefers-color-scheme: dark) {
@@ -23,13 +28,55 @@ body {
   }
 }
 
-@media only print {
-  header.masthead {
-    margin-bottom: 5mm;
+header.masthead {
+  margin-bottom: 0;
+  margin-top: 15px;
+  .site-heading {
+    padding: 25px 0px 25px;
+    @media only screen and (min-width: 768px) {
+      padding: 60px 0px 60px;
+    }
   }
+  .site-heading > h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin: 0;
+    @media only screen and (min-width: 768px), only print {
+      font-size: 2rem;
+    }
+  }
+}
 
+
+@media only print {
   header.masthead .site-heading {
     padding: 0;
+  }
+}
+
+// Light mode
+pre code {
+  color: #333;
+  span.na {
+    color: #444;
+  }
+  span.pi {
+    color: #000;
+  }
+  span.s {
+    color: #070;
+  }
+  span.m {
+    color: #550;
+  }
+  span.c1 {
+    color: #44A;
+  }
+  span.nb {
+    color: #963;
+  }
+  span.nt {
+    color: #c33c3c;
   }
 }
 
@@ -73,6 +120,34 @@ body {
   }
   img.header-logo {
     background-color: white;
+  }
+
+  code.highlighter-rouge {
+    color: #ff9cc9;
+  }
+  pre code {
+    color: #BBB;
+    span.na {
+      color: #DDD;
+    }
+    span.pi {
+      color: #FFF;
+    }
+    span.s {
+      color: #AFA;
+    }
+    span.m {
+      color: #DDA;
+    }
+    span.c1 {
+      color: #99C;
+    }
+    span.nb {
+      color: #FDA;
+    }
+    span.nt {
+      color: #F99;
+    }
   }
 }
 
@@ -154,6 +229,14 @@ body {
   }
 }
 
+div#container {
+  padding-bottom: 8em;
+  position:relative;
+  height: auto !important;
+  height: 100%; // IE 6
+  min-height:100%;
+}
+
 /* Custom footer */
 
 .navbar-dark {
@@ -174,9 +257,20 @@ body {
   border-top-style: solid;
   border-top-width: 3px;
   padding-top: 0.5rem;
-  padding-left: 1.0rem;
-  padding-right: 0.5rem;
   padding-bottom: 1.5rem;
+
+  padding-left: 0;
+  padding-right: 0;
+
+  @media only screen and (min-width: 768px) {
+    padding-left: 1.0rem;
+    padding-right: 0.5rem;
+  }
+
+  // Stick the footer to the bottom
+  position: absolute;
+  width: 100%;
+  bottom: 0;
 
   a {
     @media not print {
@@ -193,6 +287,11 @@ body {
       color: $navbar-dark-active-color;
       text-shadow: 0px 0px 10px $primary;
     }
+    font-size: smaller;
+    @media only screen and (min-width: 400px), only print {
+      font-size: medium;
+    }
+
   }
 
   .footer-logos {
@@ -200,6 +299,15 @@ body {
     flex-direction: column;
     @media only screen and (min-width: 768px), only print {
       flex-direction: row;
+    }
+    
+    img {
+      width: 32px;
+      height: 32px;
+      @media only screen and (min-width: 400px), only print {
+        width: 64px;
+        height: 64px;
+      }
     }
 
     .footer-logo {
@@ -247,6 +355,16 @@ body {
   .mainpage-main {
     flex: 2 0px;
     margin-right: 10px;
+  }
+}
+
+main {
+  padding-top: 0px;
+}
+
+@media only screen and (min-width: 768px) {
+  main {
+    padding-top: 30px;
   }
 }
 
@@ -337,7 +455,7 @@ body {
   .iris-post-footer {
     clear: both;
     padding-top: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     @media only screen and (min-width: 768px), only print {
       margin-top: 40px;
     }
@@ -394,3 +512,26 @@ body {
   }
 }
 
+div#covid {
+  background-color: #ff7e7a;
+  color: black;
+  text-align: center;
+  font-weight: 700;
+  font-size: large;
+  padding: 3px;
+  @media (prefers-color-scheme: dark) {
+    color: white;
+    background-color: #af0500;
+    a {
+      color: #4ec0ff;
+    }
+  }
+}
+
+.mainpage-sidebar-twitter {
+  text-align: center;
+}
+
+#twitter-widget-0 {
+  max-width: 340px !important;
+}

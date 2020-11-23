@@ -6,7 +6,7 @@ shortname: scikit-hep
 pagetype: project
 image: logos/skhep-logo.svg
 logowidth: 30%
-blurb: pythonic analysis tools
+blurb: Pythonic analysis tools
 focus-area: as
 team:
  - jpivarski

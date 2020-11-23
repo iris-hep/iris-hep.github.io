@@ -1,8 +1,20 @@
 name: Savannah Thais
 shortname: savvy379
 title: Post-doctoral researcher
-active: green
+active: true
 institution: Princeton University
 website: 
 photo: /assets/images/team/Savannah-Thais.jpg
 presentations:
+  - title: "Introduction and Plans"
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3563440/attachments/1907910/3151492/iris_intro.pdf
+    meeting: IRIS-HEP Institute Retreat
+    location: Fermilab, Chicago IL
+    focus-area: ia
+  - title: "Semantic Segmentation for CMS Pixel Clustering"
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/844493/contributions/3601262/attachments/1928404/3193177/uslua_2019.pdf
+    meeting: "US LHC Users' Association Meeting"
+    location: Rice University, Houston TX
+    focus-area: ia

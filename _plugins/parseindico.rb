@@ -12,6 +12,7 @@ module Indico
   MEETING_IDS = {
     topical: 10570,
     nsfreport: 11204,
+    blueprint: 11329,
     sb: 10989,
     ap: 11519
   }.freeze
@@ -62,7 +63,7 @@ module Indico
     private
 
     # Run a block over each item in the downloaded results
-    def download_and_iterate(indico_id, **kargs)
+    def download_and_iterate(indico_id, **kargs, &block)
       url = build_url(indico_id, **kargs)
       uri = URI.parse(url)
       response = Net::HTTP.get_response(uri)
@@ -70,7 +71,7 @@ module Indico
       string = response.body
       parsed = JSON.parse(string) # returns a hash
 
-      parsed['results'].each { |i| yield i }
+      parsed['results'].each(&block)
     end
 
     # Put together a dict and an indico ID

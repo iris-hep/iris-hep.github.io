@@ -13,7 +13,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>Focus Area pages:</b>
 <ul>
-{% assign sorted = site.pages | sort: 'title' %}
+{% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
   {% if mypage.pagetype == 'focus-area' %} 
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
@@ -24,7 +24,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>Project pages:</b>
 <ul>
-{% assign sorted = site.pages | sort: 'title' %}
+{% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
   {% if mypage.pagetype == 'project' %} 
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
@@ -35,7 +35,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>Documentation pages:</b>
 <ul>
-{% assign sorted = site.pages | sort: 'title' %}
+{% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
   {% if mypage.pagetype == 'doc' %} 
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
@@ -46,7 +46,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>IRIS-HEP Fellow pages:</b>
 <ul>
-{% assign sorted = site.pages | sort: 'title' %}
+{% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
   {% if mypage.pagetype == 'fellow' %} 
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
@@ -57,7 +57,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>Other pages:</b>
 <ul>
-{% assign sorted = site.pages | sort: 'title' %}
+{% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
   {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.pagetype != 'fellow' and mypage.title %} 
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>

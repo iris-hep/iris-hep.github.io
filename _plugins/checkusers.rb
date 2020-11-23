@@ -11,7 +11,7 @@ module Checks
       @site = site
 
       people_in_inst = Set.new
-      @site.data['universities'].each do |inst_name, inst_hash|
+      @site.data['universities'].each do |_inst_name, inst_hash|
         people_in_inst.merge inst_hash['personnel']
       end
 
@@ -27,11 +27,11 @@ module Checks
 
         person.print_warnings
 
-        if person_hash.dig('hidden')
-          msg = "#{name} is listed in a univerisity and hidden is True"
+        if person_hash['hidden']
+          msg = "#{name} is listed in a university and hidden is True"
           raise StandardError, msg if people_in_inst.include? person_hash['shortname']
         else
-          msg = "#{name} is not listed in a univerisity and hidden is not True"
+          msg = "#{name} is not listed in a university and hidden is not True"
           raise StandardError, msg unless people_in_inst.include? person_hash['shortname']
         end
       end
