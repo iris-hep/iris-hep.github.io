@@ -25,7 +25,7 @@ presentations:
   - title: "NOTAGAN: Normalizing flows for simultaneous manifold learning and density estimation"
     date: 2020-07-18
     url: https://invertibleworkshop.github.io/accepted_papers/index.html
-    meeting: INNF+: Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models
+    meeting: "INNF+: Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models"
     meetingurl: https://invertibleworkshop.github.io/
     location: remote
     focus-area: as
