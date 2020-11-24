@@ -71,7 +71,7 @@ presentations:
   meetingurl: https://indico.fnal.gov/event/24246/
   focus-area: doma
   project: caching
-- title: Stashcache: CDN for Science
+- title: "Stashcache: CDN for Science"
   date: 2020-09-02
   url: https://indico.fnal.gov/event/22127/contributions/194782/attachments/133874/165317/StashCache__CDN_for_science_1.pdf
   meeting: OSG All Hands Meeting
