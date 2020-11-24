@@ -6,6 +6,17 @@ institution: University of California, San Diego
 website: 
 photo: /assets/images/team/Igor-Sfiligoi.jpg
 presentations:
+  - title: "Data-intensive IceCube Cloud Burst"
+    date: 2020-11-12
+    url: https://www2.slideshare.net/igor_sfiligoi/dataintensive-icecube-cloud-burst
+    meeting: NRP Pilot weekly meeting 
+    location: virtual, USA
+  - title: "Unified Cyber Infrastructure with Kubernetes"
+    date: 2020-11-09
+    url: https://gitlab.com/ucsd-prp/tutorials/sc20
+    meeting: SC 20 Tutorial
+    meetingurl: https://sc20.supercomputing.org/presentation/?id=tut136&sess=sess256
+    location: virtual, USA
   - title: "Scheduling a Kubernetes Federation with Admiralty"
     date: 2020-09-04
     url: https://indico.fnal.gov/event/22127/contributions/194933/attachments/133961/165464/osg20_lhc_admiralty_rc3.pdf
