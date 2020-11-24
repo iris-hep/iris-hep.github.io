@@ -6,7 +6,7 @@ institution: University of California, San Diego
 website:
 photo: /assets/images/team/Slava-Krutelyov.jpg
 presentations:
-  - title: "Charged Particle Tracking Reconstruction" (Guest Lecture)
+  - title: "Charged Particle Tracking Reconstruction (Guest Lecture)"
     date: 2019-07-25
     url: https://indico.cern.ch/event/814979/contributions/3401167/attachments/1831465/3110068/trackingCODAS19.pdf
     meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
