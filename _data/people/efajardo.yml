@@ -71,3 +71,32 @@ presentations:
   meetingurl: https://indico.fnal.gov/event/24246/
   focus-area: doma
   project: caching
+- title: "Stashcache: CDN for Science"
+  date: 2020-09-02
+  url: https://indico.fnal.gov/event/22127/contributions/194782/attachments/133874/165317/StashCache__CDN_for_science_1.pdf
+  meeting: OSG All Hands Meeting
+  meetingurl: https://indico.fnal.gov/event/22127
+  focus-area: doma
+  projet: caching
+- title: A US Data Lake
+  date: 2020-09-04
+  url: https://indico.fnal.gov/event/22127/contributions/194932/attachments/133991/165499/US_CMS_Data_Lake_Proposal_AHM.pdf
+  meeting: OSG All Hands Meeting (US ATLAS/CMS Combined session)
+  meetingurl: https://indico.fnal.gov/event/24246
+  focus-area: doma
+  projet: caching
+- title: Data lake prototyping for US CMS
+  date: 2020-09-15
+  url: https://docs.google.com/presentation/u/1/d/1YtEMczj-T1fnxuoINcSoHV0IUjcEeXI9IgWYAmerU8w/edit
+  meeting: DOMA / ACCESS Meeting
+  meetingurl: https://indico.cern.ch/event/953032
+  focus-area: doma
+  project: caching
+- title: Benchmarking TPC Transfers on 100G links
+  date: 2020-10-21
+  url: https://indico.cern.ch/event/967159/contributions/4070185/attachments/2127549/3582326/go
+  meeting: DOMA / TPC Meeting
+  meetingurl: https://indico.cern.ch/event/967159/
+  focus-area: tpc
+  projet: tpc
+
