@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
+require 'fileutils'
 require 'json'
 require 'net/http'
 require 'pathname'
-require 'fileutils'
 require 'yaml'
 
 # Add a string method
@@ -45,12 +45,14 @@ module Publications
       raise "No date for #{name}, a date is required" if input.nil?
 
       # Normalize date
-      begin
-        Date.parse(input)
-      rescue Date::Error
-        # If this is missing the day, try adding it. If it errors again, give
-        # up and don't catch the second error.
+      case input
+      when /^\d\d\d\d$/ # Year only
+        puts "Warning, #{name} only has a year, maybe specify date: #{input}-MM-DD"
+        Date.parse("#{input}-01-01")
+      when /^\d\d\d\d-\d\d$/ # Year and month only
         Date.parse("#{input}-01")
+      else
+        Date.parse(input)
       end
     end
 
