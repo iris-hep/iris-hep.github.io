@@ -188,3 +188,17 @@ presentations:
     meetingurl: https://indico.cern.ch/event/924996/
     location: Zoom
     focus-area: osglhc
+  - title: "Research Networking Technical WG (RNTWG) Update"
+    date: 2020-09-16
+    url: https://indico.cern.ch/event/932306/contributions/3937507/attachments/2104416/3538776/Research_Networking_Technical_Working_Group_Update.pdf
+    meeting: LHCONE/LHCOPN Fall 2020 Meeting
+    meetingurl: https://indico.cern.ch/event/932306/
+    location: Zoom
+    focus-area: osglhc
+  - title: "Update from RNTWG - Packet Marking Subgroup"
+    date: 2020-09-29
+    url: https://indico.cern.ch/event/959585/contributions/4034267/attachments/2111250/3551438/Update_from_RNTWG_-_Packet_Marking_Subgroup.pdf
+    meeting: HEPiX IPv6 Working Group
+    meetingurl: https://indico.cern.ch/event/959585/
+    location: Zoom
+    focus-area: osglhc
