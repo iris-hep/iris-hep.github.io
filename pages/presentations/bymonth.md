@@ -19,7 +19,6 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
 <ul>
 {% assign prev_header = "" %}
 {% for talk in sorted_presentations %}
-  {% assign member = site.data.people[talk.member].name %}
   {% assign talk_date = talk.date | date: "%B, %Y" %}
   {% if prev_header != talk_date %}
 </ul>
@@ -28,8 +27,10 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
     {% assign prev_header =  talk_date %}
   {% endif %}
 
-  {% assign prettydate = talk.date | date: "%-d %b %Y" %}
-  <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{member}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+  <li>
+    {%- include print_pres.html talk=talk -%}
+  </li>
+
   {% assign prescount = prescount | plus: "1" %}
 {% endfor %}
 </ul>
