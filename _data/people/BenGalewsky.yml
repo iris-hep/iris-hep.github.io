@@ -6,6 +6,13 @@ institution: National Center for Supercomputing Applications
 website: https://github.com/BenGalewsky
 photo: /assets/images/team/Ben-Galewsky.jpg
 presentations:
+  - title: "Data Engineering at the Large Hadron Collider"
+    date: 2020-09-21
+    url: https://docs.google.com/presentation/d/1QNLn6MFVatzHOJRwQ2nyHGf2ZJAD61tvZgdVIC8Py2g/edit?usp=sharing
+    meeting: "Chicago Cloud Conference"
+    meetingurl: https://www.chicagocloudconference.com
+    location: Virtual
+    focus-area: ssl, doma
   - title: "Controlling AWS Costs Using a Data Carousel"
     date: 2020-07-21
     url: https://www.ideals.illinois.edu/handle/2142/107801
