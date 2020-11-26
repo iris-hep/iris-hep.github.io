@@ -118,3 +118,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/955391/
     location: Virtual
     focus-area: as
+  - title: "Modern Tools for Reusable Publications and Data Products"
+    date: 2020-11-03
+    url: https://lpsc-indico.in2p3.fr/event/2585/
+    meeting: LPSC Grenoble Colloquium
+    meetingurl: https://lpsc-indico.in2p3.fr/event/2585/
+    location: Virtual
+    focus-area: as
