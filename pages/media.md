@@ -6,6 +6,8 @@ title: Media, Press Releases and Press Mentions
 
 ## Media, Press Releases and Press Mentions
 
+  * 31 Aug 2020 - ["This is going to be a little bit awkward"](https://pythonbytes.fm/episodes/show/205/this-is-going-to-be-a-little-bit-awkward), PythonBytes podcast
+  * 13 Jan 2020 - ["Eleven tips for working with large data sets"](https://www.nature.com/articles/d41586-020-00062-z), Nature Technology Feature
   * 19 Aug 2019 - ["Princeton leads efforts to develop national data training framework for high energy physics"](https://www.princeton.edu/news/2019/08/19/princeton-leads-efforts-develop-national-data-training-framework-high-energy), Princeton University
   * 1 Oct 2018 - "US initiative to tackle data demands of HL-LHC" ([article direct link](https://cerncourier.com/us-initiative-to-tackle-data-demands-of-hl-lhc/), [pdf full issue](http://iopp.fileburst.com/ccr/archive/CERNCourier2018Oct-digitaledition.pdf)), CERN Courier
   * 26 Sep 2018 - ["Holland Computing Center helps meet massive data demands from upgraded Large Hadron Collider project"](https://newsroom.unl.edu/announce/cse/8549/49029), University of Nebraska - Lincoln 
