@@ -1,0 +1,8 @@
+name: Fast Machine Learning for Science Workshop
+startdate: 2020-11-30
+enddate: 2020-11-30
+location: Virtual
+meetingurl: https://indico.cern.ch/event/924283
+image:
+description: This workshop is aimed at current and emerging methods and scientific applications for deep learning and inference acceleration, including novel methods of efficient ML algorithm design, ultrafast on-detector inference and real-time systems, acceleration as-a-service, hardware platforms, coprocessor technologies, distributed learning, and hyper-parameter optimization.
+abstractdeadline: 2020-10-30
