@@ -4,6 +4,7 @@ title: >
     In the future, it will all be online: IRIS-HEP adapts training and outreach for the pandemic
 author: Bennett McIntosh
 postimage: /assets/images/posts/20201130-small-zoom.png
+postimage-whole: true
 postimage-caption: |
     A screenshot showing participants of the remote workshop entitled "Data
     Analysis for STEM teachers" on July 15-16, 2020 at UPRM, Mayaguez, Puerto
@@ -46,7 +47,7 @@ them every month or two."
 
 Since March, Malik and the rest of the training team have run four virtual
 training sessions, on topics from python programming for STEM teachers to
-robust analysis tools like Docker and Continuos Integration/Continuous
+robust analysis tools like Docker and Continuous Integration/Continuous
 Development (CI/CD). Trainees -- ranging from first-year PhD students to
 postdocs -- alternated between morning lectures and afternoons, when they worked
 on their own projects with mentors at the ready, regrouping at the end of the
@@ -108,7 +109,7 @@ some ways, the conference lacked that -- participants could converse over Slack
 and ask questions after presentations, but there was no physical or virtual
 space that mirrored the break room. But in other ways, PyHEP 2020 was an
 unparalleled success: demand was so high that attendance had to be capped at
-1000, a 200-fold increase from previous PyHEP meetings.
+1000, a 10-fold increase from previous PyHEP meetings.
 
 "In surveys after the conference, it was very clear that, if it were in-person,
 many attendees would not have had the funding to travel to the conference -- we
