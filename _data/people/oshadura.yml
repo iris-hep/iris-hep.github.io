@@ -6,3 +6,21 @@ institution: University of Nebraska - Lincoln
 website: https://github.com/oshadura
 photo: /assets/images/team/Oksana-Shadura.JPG
 presentations:
+- title: "U.S. CMS Managed Analysis Facilities"
+  date: 2020-11-24
+  url: https://indico.cern.ch/event/941278/contributions/4104696/attachments/2149035/3623381/U.S.%20CMS%20Managed%20Analysis%20Facilities-1.pdf
+  meeting: HSF WLCG Virtual Workshop
+  meetingurl: https://indico.cern.ch/event/941278/
+  location: Virtual
+- title: "Analysis on LHC-Managed Facilities: Coffea-Casa"
+  date: 2020-10-27
+  url: https://indico.cern.ch/event/960587/contributions/4070335/attachments/2130432/3587698/Analysis%20on%20LHC-Managed%20Facilities%20Coffea-Casa.pdf
+  meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+  meetingurl: https://indico.cern.ch/event/960587/
+  location: Virtual
+- title: "Analysis facilities"
+  date: 2020-09-23
+  url: https://indico.cern.ch/event/956958/contributions/4021690/attachments/2108039/3545396/US_CMS_Analysis_Facilities_RD_and_first_prototypes.pdf
+  meeting: "Upgrade R&D/CMP Meeting (Presented on Weekly CMS O&C Meeting slot)"
+  meetingurl: https://indico.cern.ch/event/956958/
+  location: Virtual
