@@ -5,6 +5,7 @@ active: true
 institution: University of Wisconsin–Madison
 website: 
 photo: /assets/images/team/Brian-Lin.jpg
+e-mail: blin@cs.wisc.edu
 presentations:
   - title: "Introduction to HTCondor-CE"
     date: 2020-06-17
