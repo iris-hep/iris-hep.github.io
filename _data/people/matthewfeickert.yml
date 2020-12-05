@@ -125,3 +125,10 @@ presentations:
     meetingurl: https://lpsc-indico.in2p3.fr/event/2585/
     location: Virtual
     focus-area: as
+  - title: "Fitting and Statistical Inference as a Service"
+    date: 2020-12-04
+    url: https://indico.cern.ch/event/972791/contributions/4121109/
+    meeting: Mini-Workshop on Portable Inference
+    meetingurl: https://indico.cern.ch/event/972791
+    location: Virtual
+    focus-area: as
