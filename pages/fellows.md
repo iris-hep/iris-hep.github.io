@@ -6,8 +6,6 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-### We are now accepting proposals for the 2020-2021 academic year (fall, winter, spring)
-
   People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
 
   In order to accomplish these goals, IRIS-HEP has created a Fellow program.
