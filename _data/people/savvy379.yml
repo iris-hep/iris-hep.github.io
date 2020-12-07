@@ -18,7 +18,6 @@ presentations:
     meeting: "US LHC Users' Association Meeting"
     location: Rice University, Houston TX
     focus-area: ia
-<<<<<<< HEAD
   - title: "Education and Engagement of ML Skills"
     date : 2020-08-11
     url: https://indico.fnal.gov/event/43829/contributions/192878/
@@ -55,12 +54,5 @@ presentations:
     url: https://indico.cern.ch/event/963422/contributions/4074299/attachments/2134891/3595882/tracking_gnns_cmstrackingpog_10192020_NOONESHOT.pdf
     meeting: CMS Tracking POG meeting (CMS internal)
     meetingurl: https://indico.cern.ch/event/963422
-    focus-area:	ia
-    project:
-  - title: Accelerated pixel detector tracklet finding with Graph Neural Networks on FPGAs
-    date: 2020-10-21
-    url: https://indico.cern.ch/event/852553/contributions/4058173/attachments/2127178/3581525/iml_workshop_2020.pdf
-    meeting: 4th Inter-experiment Machine Learning Workshop
-    meetingurl: https://indico.cern.ch/event/852553
     focus-area:	ia
     project:
