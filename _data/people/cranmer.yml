@@ -335,3 +335,24 @@ presentations:
     meetingurl: https://indico.cern.ch/event/900384/timetable/#20201030.detailed
     location: Virtual
     focus-area: as
+  - title: Machine Learning for high energy physics on and off the lattice
+    date: 2020-12-03
+    url: https://www.ectstar.eu/activities/seminars/colloquia/
+    meeting: "ECT* Colloqium (European Center for Theoretical Studies in Nuclear Physics and Related Areas)"
+    meetingurl: https://www.ectstar.eu/activities/seminars/colloquia/
+    location: Virtual
+    focus-area: as
+  - title: "How machine learning can help us get the most out of our highest fidelity physical models"
+    date: 2020-12-08
+    url: https://ai-roadmap.ornl.gov
+    meeting: AI for Atoms
+    meetingurl: https://ai-roadmap.ornl.gov
+    location: Oak Ridge National Laboratory (Virtual)
+    focus-area: as, ia
+  - title:  Some fun examples from the intersection of machine learning and physics
+    date: 2020-12-18
+    url: https://virtual-event.mlinpl.org
+    meeting: ML in PL
+    meetingurl: https://virtual-event.mlinpl.org
+    location: Poland (Virtual)
+    focus-area: as, ia
