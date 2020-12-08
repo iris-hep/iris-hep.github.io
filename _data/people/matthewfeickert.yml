@@ -132,3 +132,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/972791
     location: Virtual
     focus-area: as
+  - title: "Steps Towards Differentiable and Scalable Physics Analyses at the LHC"
+    date: 2020-12-08
+    url: https://indico.fnal.gov/event/46057/
+    meeting: Argonne Lunch Seminar
+    meetingurl: https://indico.fnal.gov/event/46057/
+    location: Virtual
+    focus-area: as
