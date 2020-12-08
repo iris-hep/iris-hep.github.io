@@ -1,7 +1,7 @@
 name: Markus Atkinson
 shortname: matkinso
 title:
-active: green
+active: true
 institution: University of Illinois at Urbana-Champaign
 website:
 photo: /assets/images/team/Markus-Atkinson.png
@@ -37,6 +37,27 @@ presentations:
   - title: "Graph Neural Network Tracking using the Endcaps"
     date: 2020-05-18
     url: https://exatrkx.github.io
+    meeting: Exa.Trkx Weekly Meeting
+    meetingurl: https://exatrkx.github.io
+    location: Virtual
+    focus-area: ia
+  - title: "Graph Neural Networks Architectures"
+    date: 2020-10-21
+    url: https://indico.cern.ch/event/955026/contributions/4012924/attachments/2127589/3582355/IRIS-Topical_GNN_Tracking.pdf
+    meeting: IRIS-HEP Topical Meeting
+    meetingurl: https://indico.cern.ch/event/955026/
+    location: Virtual
+    focus-area: ia
+  - title: "Graph Neural Networks Architectures"
+    date: 2020-10-23
+    url: https://indico.cern.ch/event/968452/contributions/4078571/attachments/2129154/3585214/IRIS-Topical%20GNN%20Tracking.pdf
+    meeting: FastML Co-processors Meeting
+    meetingurl: https://indico.cern.ch/event/968452/
+    location: Virtual
+    focus-area: ia
+  - title: "Hough Transforms and GNN"
+    date: 2020-11-30
+    url: https://indico.cern.ch/event/977132/contributions/4115380/attachments/2146099/3631008/GNN%20Hough.pdf
     meeting: Exa.Trkx Weekly Meeting
     meetingurl: https://exatrkx.github.io
     location: Virtual

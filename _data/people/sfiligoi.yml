@@ -1,11 +1,59 @@
 name: Igor Sfiligoi
 shortname: sfiligoi
 title: Lead Scientific Software Developer and Researcher
-active: green
+active: true
 institution: University of California, San Diego
 website: 
 photo: /assets/images/team/Igor-Sfiligoi.jpg
 presentations:
+  - title: "Data-intensive IceCube Cloud Burst"
+    date: 2020-11-12
+    url: https://www2.slideshare.net/igor_sfiligoi/dataintensive-icecube-cloud-burst
+    meeting: NRP Pilot weekly meeting 
+    location: virtual, USA
+  - title: "Unified Cyber Infrastructure with Kubernetes"
+    date: 2020-11-09
+    url: https://gitlab.com/ucsd-prp/tutorials/sc20
+    meeting: SC 20 Tutorial
+    meetingurl: https://sc20.supercomputing.org/presentation/?id=tut136&sess=sess256
+    location: virtual, USA
+  - title: "Scheduling a Kubernetes Federation with Admiralty"
+    date: 2020-09-04
+    url: https://indico.fnal.gov/event/22127/contributions/194933/attachments/133961/165464/osg20_lhc_admiralty_rc3.pdf
+    meeting: OSG All-Hands Meeting 2020
+    meetingurl: https://indico.fnal.gov/event/22127
+    location: virtual, US
+    focus-area: osglhc
+  - title: "Demonstrating a Pre-Exascale, Cost-Effective Multi-Cloud Environment for Scientific Computing"
+    date: 2020-07-29
+    url: https://www.slideshare.net/igor_sfiligoi/demonstrating-a-preexascale-costeffective-multicloud-environment-for-scientific-computing
+    meeting: PEARC20
+    meetingurl: https://pearc.acm.org/pearc20/
+    location: virtual, US
+  - title: "Demonstrating 100 Gbps in and out of the public Clouds"
+    date: 2020-07-28
+    url: https://doi.org/10.1145/3311790.3399612
+    meeting: PEARC20
+    meetingurl: https://pearc.acm.org/pearc20/
+    location: virtual, US
+  - title: "High Throughput Science Workshop"
+    date: 2020-07-31
+    meeting: PEARC20
+    url: https://pearc20.sched.com/event/cnY6/high-throughput-science
+    meetingurl: https://pearc.acm.org/pearc20/
+    location: virtual, US
+  - title: "Running a Pre-exascale, Geographically Distributed, Multi-cloud Scientific Simulation"
+    date: 2020-06-28
+    url: https://doi.org/10.1007/978-3-030-50743-5_2
+    meeting: ISC20
+    meetingurl: https://www.isc-hpc.com
+    location: virtual
+  - title: "TransAtlantic networking using Cloud links"
+    date: 2020-05-27
+    url: https://indico.cern.ch/event/923131/contributions/3878486/attachments/2045504/3426871/CMS20_05_CloudNetwork_rc2.pdf
+    meeting: S&C Blueprint Meeting
+    meetingurl: https://indico.cern.ch/event/923131/
+    focus-area: osglhc
   - title: "Hybrid, multi-Cloud HPC for Multi-Messenger Astrophysics with IceCube"
     date: 2020-01-28
     url: https://docs.google.com/presentation/d/1NT5DiCudME7OoU_zxOsw_nkZoNNNKIm3DEfD3miKd0A/edit?usp=sharing

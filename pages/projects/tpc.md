@@ -12,6 +12,7 @@ focus-area:
 team:
  - bbockelm
  - efajardo
+ - ddavila0
 ---
 
 LHC data is constantly beign moved between computing and storage sites
@@ -36,4 +37,52 @@ activity - is investigating the use of HTTP for bulk data transfer.
    </p>
   </div>
 </div>
+
+<br>
+Over the past months we have been increasingly enabling sites to support the
+HTTP protocol to move data between sites. Our initial goal was set to get one
+site to get more that 30% of its data using the HTTP protocol.
+
+For CMS, we have picked 2 sites: Nebraska and UCSD to be the ones leading the transition by
+using the 'davs' protocol for all their incoming production transfers from the many sites which
+can support such protocol.
+ 
+<br>
+<div class="card" style="width: 40rem;">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/gftp-vs-http.png" alt="GridFTP vs HTTP">
+  <div class="card-body">
+   <h5 class="card-title">Percentage of data transfered to UCSD using GridFTP and HTTP</h5>
+   <p class="card-text">The above shows the amount of data transferred to UCSD
+    using the GridFTP protocol with respect to HTTP during July 2020.
+   </p>
+  </div>
+</div>
+
+<br>
+TPC Dashboards for Nebraska and UCSD can be found here:
+
+ * [Nebraska](https://monit-grafana.cern.ch/d/aDc1qQwZk1/tpc-over-xrootd-at-nebraska?orgId=11)
+ * [UCSD](https://monit-grafana.cern.ch/d/aDc1qQwZk/tpc-over-xrootd-at-ucsd?orgId=11)
+
+<br>
+On the ATLAS side, the transition has started to ramp up with 3 participating sites: 
+AGLT2, PragueLCG2 and SLAC.
+
+<br>
+<div class="card" style="width: 40rem;">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-breakdown-atlas.png" alt="Atlas protocol breakdown">
+  <div class="card-body">
+   <h5 class="card-title">Protocol breakdown for transfers at: PragueLCG2 and AGLT2 </h5>
+   <p class="card-text">The above shows the percentage of data transferred using each of the available protocols
+    for the sites: PrageLCG2 and AGLT2 during July 2020.
+   </p>
+  </div>
+</div>
+
+<br>
+Important links about the project can be found here:
+
+ * [Third Party Copy](https://twiki.cern.ch/twiki/bin/view/LCG/ThirdPartyCopy)
+ * [DCache instructions](https://twiki.cern.ch/twiki/bin/view/LCG/DCacheConfig)
+ * [XRootD instructions](https://twiki.cern.ch/twiki/bin/view/Main/XRootDoverHTTP)
 

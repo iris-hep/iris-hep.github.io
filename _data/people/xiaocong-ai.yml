@@ -1,10 +1,17 @@
 name: Xiaocong Ai
 shortname: xiaocong-ai
 title: Postdoc and ACTS
-active: green
+active: true
 institution: University of California, Berkeley
 photo: /assets/images/team/Xiaocong-Ai.jpg
 presentations:
+  - title: Initial studies of ACTS tracking performance with GPUs
+    date: 2020-08-26
+    url: https://indico.cern.ch/event/939577/contributions/3947654/attachments/2091938/3515237/IRIS_HEP_GPU_Xiaocong.pdf
+    meeting: IRIS-HEP Topical meeting
+    meetingurl: https://indico.cern.ch/event/939577
+    focus-area: ia
+    project: acts
   - title: "Summary of Wednesday Session: Core Developments"
     date: 2020-05-29
     url: https://indico.cern.ch/event/917970/contributions/3884685/attachments/2047803/3431426/ACTS_workshop_CoreDev_Summary.pdf 

@@ -1,5 +1,5 @@
 <!doctype html>
-  
+
 {% include layout_header_navbar.html %}
 
     <div id="container">
@@ -13,37 +13,61 @@
 <img src="{{page.photo}}" width="150px">
 <br>
 <br>
-<b> Fellowship dates:</b> {{ page.dates }}
+<b> Fellowship dates: </b>
+{% include fellow_dates.html dates=page.dates %}
 <br>
 <b> Home Institution:</b> {{ page.institution }}
 <br>
 <br>
 </center>
 
-{{page.project_goal}}
-<br>
-<br>
-{% if page.proposal.size  > 4 %}
-More information: <a href = {{page.proposal}}>My full proposal</a><br>
-{% endif %}
+{%- if page.projects -%}
+{%-   assign projects = page.projects -%}
+{%- else -%}
+{%-   assign projects = "" | split: "," -%}
+{%-   assign projects = projects | push: page -%}
+{%- endif -%}
 
-<br>
-<b>Mentors: </b> <br>
-<ul>
-{% for mentor in page.mentors %}
-<li>
-{% assign ok = 0 %}
-{% for person_hash in site.data.people %}
-{% assign person = person_hash[1] %}
-{% if person.shortname == mentor %}
-{{ person.name }} ({{person.institution}})
-{% assign ok = 1 %}
-{% endif %}
+{% for project in projects %}
+
+  <br>
+  <h3>Project: {{project.project_title}}</h3>
+
+  {{project.project_goal}}
+  <br>
+  <br>
+   More information: <a href = "{{project.proposal}}">My project proposal</a><br>
+
+  <br>
+  <b>Mentors: </b> <br>
+  <ul>
+  {% for mentor in project.mentors %}
+  <li>
+  {% assign ok = 0 %}
+  {% for person_hash in site.data.people %}
+  {% assign person = person_hash[1] %}
+  {% if person.shortname == mentor %}
+  {{ person.name }} ({{person.institution}})
+  {% assign ok = 1 %}
+  {% endif %}
+  {% endfor %}
+  {% if ok == 0 %}
+  {{ mentor | markdownify }}
+  {%endif%}
+  </li>
+  {% endfor %}
+  </ul>
 {% endfor %}
-{% if ok == 0 %}
-{{ mentor | markdownify }}
-{%endif%}
-</li>
+
+
+<b>Presentations</b>
+<ul>
+{% for presentation in page.presentations %}
+  {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
+  <li>{{prettydate}} - <a href="{{presentation.url}}">"{{presentation.title}}"</a>, {{page.fellow-name}}, <a href="{{presentation.meetingurl}}">{{presentation.meeting}}</a>
+    {% if presentation.recordingurl %}
+      Recording: <a href="{{presentation.recordingurl}}">{{presentation.title}}</a></li>
+    {% endif %}
 {% endfor %}
 </ul>
 <hr>
@@ -74,5 +98,3 @@ More information: <a href = {{page.proposal}}>My full proposal</a><br>
 {% include layout_analytics.html %}
 </body>
 </html>
-
-

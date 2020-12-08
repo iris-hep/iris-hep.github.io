@@ -6,7 +6,9 @@ permalink: /fellows/vovechkin.html
 fellow-name: Vladimir Ovechkin
 title: Vladimir Ovechkin - IRIS-HEP Fellow
 active: green
-dates: June-August 2020
+dates:
+  start: 2020-06-01
+  end: 2020-08-31
 photo: /assets/images/team/Vladimir-Ovechkin.jpg
 institution: University of Washington, Seattle
 website: http://vladov3000.com/
@@ -20,4 +22,11 @@ mentors:
   - Alex Schuy (UW)
 proposal: /assets/pdf/Fellow-Vovechkin-Proposal.pdf
 presentations:
+  - title: " Recast-workflow: Fast Truth-level Interpretations"
+    date: 2020-09-21
+    url: https://indico.cern.ch/event/946428/contributions/3976989/attachments/2106300/3542342/Recast-workflow__Fast_Workflows.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946428/
+    recordingurl: https://www.youtube.com/watch?v=sATu_MJo8L4&t=1016s
+    focus-area: as
 ---

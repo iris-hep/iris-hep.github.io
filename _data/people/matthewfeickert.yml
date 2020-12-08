@@ -1,10 +1,11 @@
 name: Matthew Feickert
 shortname: matthewfeickert
 title: Postdoctoral researcher
-active: green
+active: true
 institution: University of Illinois at Urbana-Champaign
 website: https://www.matthewfeickert.com
 photo: /assets/images/team/matthewfeickert.jpeg
+e-mail: matthew.feickert@cern.ch
 presentations:
   - title: "pyhf: a pure Python implementation of HistFactory with tensors and autograd"
     date: 2018-10-29
@@ -79,5 +80,55 @@ presentations:
     url: https://indico.cern.ch/event/896167/contributions/3880229/
     meeting: 2020 IRIS-HEP Team Retreat
     meetingurl: https://indico.cern.ch/event/896167/
+    location: Virtual
+    focus-area: as
+  - title: "pyhf: a pure Python statistical fitting library with tensors and autograd"
+    date: 2020-07-07
+    url: https://doi.org/10.25080/Majora-342d178e-023
+    meeting: 19th Python in Science Conference (SciPy 2020)
+    meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
+    location: Virtual
+    focus-area: as
+  - title: "pyhf Tutorial: Accelerating analyses and preserving likelihoods"
+    date: 2020-07-16
+    url: https://indico.cern.ch/event/882824/contributions/3931292/
+    meeting: PyHEP 2020 Workshop
+    meetingurl: https://indico.cern.ch/event/882824/
+    location: Virtual
+    focus-area: as
+    comment: DOI not yet available
+  - title: "Likelihood Publication and Preservation"
+    date: 2020-08-10
+    url: https://indico.fnal.gov/event/43829/contributions/193820/
+    meeting: Snowmass 2021 Computational Frontier Workshop
+    meetingurl: https://indico.fnal.gov/event/43829/
+    location: Virtual
+    focus-area: as
+  - title: "Toward Fitting as a Service with pyhf"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4070323/
+    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
+    focus-area: as
+  - title: "pyhf: pure-Python implementation of HistFactory with tensors and automatic differentiation"
+    date: 2020-11-03
+    url: https://indico.cern.ch/event/955391/contributions/4075505/
+    meeting: Tools for High Energy Physics and Cosmology 2020 Workshop
+    meetingurl: https://indico.cern.ch/event/955391/
+    location: Virtual
+    focus-area: as
+  - title: "Modern Tools for Reusable Publications and Data Products"
+    date: 2020-11-26
+    url: https://lpsc-indico.in2p3.fr/event/2585/
+    meeting: LPSC Grenoble Colloquium
+    meetingurl: https://lpsc-indico.in2p3.fr/event/2585/
+    location: Virtual
+    focus-area: as
+  - title: "Fitting and Statistical Inference as a Service"
+    date: 2020-12-04
+    url: https://indico.cern.ch/event/972791/contributions/4121109/
+    meeting: Mini-Workshop on Portable Inference
+    meetingurl: https://indico.cern.ch/event/972791
     location: Virtual
     focus-area: as

@@ -1,7 +1,7 @@
 name: Alexander Held
 shortname: alexander-held
 title:
-active: green
+active: true
 institution: New York University
 website:  https://github.com/alexander-held
 photo: /assets/images/team/alexander-held.jpeg
@@ -47,5 +47,19 @@ presentations:
     url: https://indico.cern.ch/event/896167/contributions/3880230/
     meeting: 2020 IRIS-HEP Team Retreat
     meetingurl: https://indico.cern.ch/event/896167/
+    location: (Virtual)
+    focus-area: as
+  - title: "Differentiable physics analyses"
+    date: 2020-08-11
+    url: https://indico.fnal.gov/event/43829/contributions/193761/
+    meeting: Snowmass Computational Frontier Workshop
+    meetingurl: https://indico.fnal.gov/event/43829/
+    location: (Virtual)
+    focus-area: as
+  - title: "Template-based Fitting: cabinetry"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4070322/
+    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
     location: (Virtual)
     focus-area: as

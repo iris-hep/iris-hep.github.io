@@ -1,10 +1,11 @@
 name: Mark Neubauer
 shortname: msneubauer
 title: Blueprint Coordinator
-active: green
+active: true
 institution: University of Illinois at Urbana-Champaign
 website: http://msneubauer.github.io
 photo: /assets/images/team/Mark-Neubauer.png
+e-mail: msn@illinois.edu
 presentations:
   - title: Design Roadmap for Future Collaborations
     date: 2018-10-19
@@ -47,4 +48,39 @@ presentations:
     meeting: Artificial Intelligence for Nuclear Physics Workshop
     meetingurl: https://www.jlab.org/indico/event/357/
     location: Jefferson Laboratory
+    focus-area: as, ia
+  - title: "Future Blueprint Topics: Year 3 Plans, 4 and 5 Year Thoughts"
+    date: 2020-05-29
+    url: https://indico.cern.ch/event/896167/contributions/3876784/attachments/2047955/3431686/IRIS-HEP_Retreat_Blueprint.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/
+    location: Virtual
+    focus-area: as, ia, doma
+  - title: The IRIS-HEP Blueprint Process
+    date: 2020-07-22
+    url: https://indico.cern.ch/event/930127/contributions/3914364/attachments/2077932/3489689/Blueprint_Intro_SustainableSoftware.pdf
+    meeting: Sustainable Software in HEP Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/930127/
+    location: Virtual
+    focus-area: ssc
+  - title: Particle Physics and Machine Learning in Education
+    date: 2020-08-11
+    url: https://indico.fnal.gov/event/43829/contributions/193606/attachments/132815/163444/Snomass_Comp_msn.pdf
+    meeting: Snowmass Computational Frontier Workshop
+    meetingurl: https://indico.fnal.gov/event/43829/
+    location: Virtual
+    focus-area: ia, ssc
+  - title: Welcome, IRIS-HEP Blueprint Activity and Workshop Overview
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4070316/attachments/2129580/3586070/Blueprint_Intro_ASAF.pdf
+    meeting: Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
+    focus-area: as, doma
+  - title: Workshop Overview and Goals
+    date: 2020-12-04
+    url: https://indico.cern.ch/event/972791/contributions/4121084
+    meeting: Mini-Workshop on Portable Inference
+    meetingurl: https://indico.cern.ch/event/972791
+    location: Virtual
     focus-area: as, ia
