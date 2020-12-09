@@ -6,7 +6,6 @@ shortname: rfarkas
 permalink: /fellows/rfarkas.html
 fellow-name: Ralf Farkas
 title: Ralf Farkas - IRIS-HEP Fellow
-active: green
 dates:
   start: 2020-01-01
   end: 2020-03-31

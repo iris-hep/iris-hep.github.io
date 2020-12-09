@@ -27,7 +27,6 @@ project_goal: >
   of the hit distribution and embed it in a regular array, where traditional computing vision techniques can be used.
 
 proposal:
-active: green
 mentors:
   - Maurizio Pierini (CERN)
 presentations:

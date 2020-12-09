@@ -6,7 +6,6 @@ shortname: SuhaibShaikh
 permalink: /fellows/SuhaibShaikh.html
 fellow-name: Suhaib Shaikh
 title: Suhaib Shaikh - IRIS-HEP Fellow
-active: green
 dates:
   start: 2020-07-01
   end: 2020-09-30
