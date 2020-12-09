@@ -6,6 +6,8 @@ title: "Summer Students Mentored by IRIS-HEP Team"
 
 # Summer Students Mentored by IRIS-HEP Team
 
+In addition to [students funded directly as part of the IRIS-HEP project](https://iris-hep.org/about/team) and [IRIS-HEP Fellows](https://iris-hep.org/fellows.html), team members have been mentors for software-related projects pursued by students from a number of other student programs.
+
 #### Google Summer of Code 2020
 
 * **Roman Shakov** (mentor Vassil Vassilev) - [Extend clad to compute Jacobians](https://hepsoftwarefoundation.org/gsoc/2020/proposal_CLAD-Jacobians.html)
