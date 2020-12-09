@@ -52,7 +52,18 @@ IRIS-HEP is a software institute funded by the National Science Foundation. It a
 <h4>IRIS-HEP Fellows</h4>
 The IRIS-HEP Fellows program provides funding support for selected individuals to spend several months working closely with a mentor on
 an HEP software R&D topic relevant to the Institute.
-<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP Fellows program.</a> Current fellows include:
+<a href="/fellows.html">Find out more about opportunities with the IRIS-HEP Fellows program.</a>
+
+{%- assign active-fellows = false -%}
+{%- for mypage in site.pages -%}
+    {%- if mypage.pagetype == 'fellow' and mypage.active -%}
+       {%- assign active-fellows = true -%}
+    {%- endif -%}
+{%- endfor -%}
+
+{%- if active-fellows %}
+Current fellows include:
+{% endif %}
 
 <div class="container-fluid">
   <div class="row">
