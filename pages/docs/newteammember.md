@@ -21,7 +21,7 @@ not mentioned here, or missing/unclear information, please [contribute an improv
 name: <Your name>
 shortname: <Your GitHub user ID>
 title: <Can be blank - will show a title under your picture>
-active: green
+active: true
 institution: <Your University>
 website: <Optional, your website>
 photo: /assets/images/team/<First name>-<Last name>.jpg
