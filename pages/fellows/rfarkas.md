@@ -1,6 +1,7 @@
 ---
 layout: fellow
 pagetype: fellow
+active: false
 shortname: rfarkas
 permalink: /fellows/rfarkas.html
 fellow-name: Ralf Farkas

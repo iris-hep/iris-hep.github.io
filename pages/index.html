@@ -56,15 +56,9 @@ an HEP software R&D topic relevant to the Institute.
 
 <div class="container-fluid">
   <div class="row">
-    {% assign current_fellows_start = '2020-05-01' | date:'%F' %}
     {% assign sorted = site.pages | sort_natural: 'title' %}
     {% for mypage in sorted %}
-      {%- if mypage.dates.first.start -%}
-        {% assign page_start_date = mypage.dates.first.start | date: '%F' %}
-      {%- else -%}
-        {% assign page_start_date = mypage.dates.start | date: '%F' %}
-      {%- endif -%}
-      {% if mypage.pagetype == 'fellow' and page_start_date > current_fellows_start %}
+      {% if mypage.pagetype == 'fellow' and mypage.active and mypage.active == 'true' %}
          {% assign person = mypage %}
 
          <div class="card" style="width: 12rem;">
@@ -111,7 +105,7 @@ ongoing events don't get prematurely flagged as recent.
 {% for event in all_events %}
   {% assign startdatecmp = event.startdate | date: "%s" %}
   {% if startdatecmp >= sixdaysago %}
-  {% unless event.skipfrontpage %} 
+  {% unless event.skipfrontpage %}
      {% assign selected_events = selected_events | push: event %}
   {% endunless %}
   {% endif %}

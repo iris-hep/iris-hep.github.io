@@ -2,6 +2,7 @@
 permalink: /fellows/SeanCondon.html
 layout: fellow
 pagetype: fellow
+active: false
 active: green
 title: Sean Condon - IRIS-HEP Fellow
 fellow-name: Sean Condon

@@ -1,6 +1,7 @@
 ---
 layout: fellow
 pagetype: fellow
+active: false
 shortname: SuhaibShaikh
 permalink: /fellows/SuhaibShaikh.html
 fellow-name: Suhaib Shaikh

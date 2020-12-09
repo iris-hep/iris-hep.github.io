@@ -2,6 +2,7 @@
 permalink: /fellows/RaghavKansal.html
 layout: fellow
 pagetype: fellow
+active: false
 fellow-name: Raghav Kansal
 shortname: raghsthebest
 title: Raghav Kansal - IRIS-HEP Fellow

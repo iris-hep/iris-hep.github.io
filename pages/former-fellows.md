@@ -8,7 +8,6 @@ title: IRIS/HEP Former Fellows
 
 <div class="container-fluid">
   <div class="row">
-    {% assign current_fellows_start = '2020-05-01' | date:'%F' %}
     {% assign sorted = site.pages | sort_natural: 'title' %}
     {% for mypage in sorted %}
       {%- if mypage.dates.first.start -%}
@@ -17,21 +16,24 @@ title: IRIS/HEP Former Fellows
       {%- else -%}
         {% assign page_start_date = mypage.dates.start | date: '%F' %}
       {%- endif -%}
-      {% if mypage.pagetype == 'fellow' and page_start_date < current_fellows_start %}
-         {% assign person = mypage %}
+      {% if mypage.pagetype == 'fellow' %}
+        {% if mypage.active and mypage.active == true %}
+        {% else %}
+           {% assign person = mypage %}
 
-         <div class="card" style="width: 12rem;">
-            <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
-            <div class="card-body d-flex flex-column">
-              <div class="card-text">
-                 <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
-                 <small>{{person.institution}}</small><br><br>
+           <div class="card" style="width: 12rem;">
+              <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
+              <div class="card-body d-flex flex-column">
+                <div class="card-text">
+                   <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
+                   <small>{{person.institution}}</small><br><br>
+                </div>
+                <div class="card-text mt-auto"><i>
+                {% include fellow_dates.html dates=person.dates %}
+                </i><br></div>
               </div>
-              <div class="card-text mt-auto"><i>
-              {% include fellow_dates.html dates=person.dates %}
-              </i><br></div>
-            </div>
-         </div>
+           </div>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </div>

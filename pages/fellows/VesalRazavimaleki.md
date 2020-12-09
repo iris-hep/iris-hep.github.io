@@ -5,7 +5,7 @@ shortname: vesal-rm
 permalink: /fellows/VesalRazavimaleki.html
 fellow-name: Vesal Razavimaleki
 title: Vesal Razavimaleki - IRIS-HEP Fellow
-active: green
+active: false
 dates:
   start: 2020-07-01
   end: 2020-09-30
