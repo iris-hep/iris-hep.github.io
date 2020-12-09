@@ -65,7 +65,7 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
   <div class="row">
     {% assign sorted = site.pages | sort_natural: 'title' %}
     {% for mypage in sorted %}
-      {% if mypage.pagetype == 'fellow' and mypage.active and mypage.active == 'true' %}
+      {% if mypage.pagetype == 'fellow' and mypage.active %}
          {% assign person = mypage %}
 
          <div class="card" style="width: 12rem;">

@@ -17,7 +17,7 @@ title: IRIS/HEP Former Fellows
         {% assign page_start_date = mypage.dates.start | date: '%F' %}
       {%- endif -%}
       {% if mypage.pagetype == 'fellow' %}
-        {% if mypage.active and mypage.active == true %}
+        {% if mypage.active %}
         {% else %}
            {% assign person = mypage %}
 
