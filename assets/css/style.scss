@@ -397,7 +397,7 @@ main {
     list-style: none;
   }
 
-  .event {
+  .event, .empty {
     display: flex;
     flex-flow: row wrap;
     margin: 5px 0 10px 0;
@@ -443,6 +443,9 @@ main {
         color: black;
       }
     }
+  }
+  .empty {
+    padding: 4px 8px 4px 8px;
   }
 }
 
