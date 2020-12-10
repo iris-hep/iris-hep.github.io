@@ -28,3 +28,4 @@ In addition to [students funded directly as part of the IRIS-HEP project](https:
 * **Jack Qiu** (mentors Vassil Vassilev and Oksana Shadura) - [Extend clad - The Automatic Differentiation](https://hepsoftwarefoundation.org/gsoc/2019/proposal_CLAD.html)
 * **Arpitha Raghunandan** (mentors Yuka Takahashi and Oksana Shadura) - [Implement a GlobalModuleIndex in ROOT and Cling](https://hepsoftwarefoundation.org/gsoc/2019/proposal_ROOTGlobalModuleIndex.html)
 * **Alfonso Luis Castaño Marín** (mentor Oksana Shadura) - [Novel Applications of Zstandard (ZSTD) compression algorithm to ROOT](https://hepsoftwarefoundation.org/gsoc/2019/proposal_ROOTzstd.html)
+* **Ashay Shirwadkar** (mentor Jeff LeFevre) - [Extend current processing methods with column-oriented processing via Arrow](https://summerofcode.withgoogle.com/archive/2019/projects/6662499464642560/)
