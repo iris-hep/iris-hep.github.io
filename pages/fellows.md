@@ -57,9 +57,15 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
 
 [Former IRIS-HEP Fellows](/former-fellows.html)
 
+{%- assign active-fellows = false -%}
+{%- for mypage in site.pages -%}
+    {%- if mypage.pagetype == 'fellow' and mypage.active -%}
+       {%- assign active-fellows = true -%}
+    {%- endif -%}
+{%- endfor -%}
+
+{%- if active-fellows %}
 # IRIS-HEP Current Fellows
-
-
 
 <div class="container-fluid">
   <div class="row">
@@ -85,3 +91,5 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
   </div>
   <br>
 </div>
+
+{% endif %}
