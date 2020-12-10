@@ -55,8 +55,6 @@ Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing
 
 IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals. All proposals submitted before Friday, 6 November, 2020 will receive full consideration.  
 
-[Former IRIS-HEP Fellows](/former-fellows.html)
-
 {%- assign active-fellows = false -%}
 {%- for mypage in site.pages -%}
     {%- if mypage.pagetype == 'fellow' and mypage.active -%}
@@ -93,3 +91,29 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
 </div>
 
 {% endif %}
+
+# IRIS-HEP Former Fellows
+<div class="container-fluid">
+  <div class="row">
+    {% assign sorted = site.pages | sort_natural: 'title' %}
+    {% for mypage in sorted %}
+      {% if mypage.pagetype == 'fellow' and mypage.active == false %}
+         {% assign person = mypage %}
+
+         <div class="card" style="width: 12rem;">
+            <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
+            <div class="card-body d-flex flex-column">
+              <div class="card-text">
+                 <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
+                 <small>{{person.institution}}</small><br><br>
+              </div>
+              <div class="card-text mt-auto"><i>
+              {% include fellow_dates.html dates=person.dates %}
+              </i><br></div>
+            </div>
+         </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <br>
+</div>
