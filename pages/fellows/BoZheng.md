@@ -2,7 +2,7 @@
 permalink: /fellows/BoZheng.html
 layout: fellow
 pagetype: fellow
-active: green
+active: false
 title: Bo Zheng - IRIS-HEP Fellow
 fellow-name: Bo Zheng
 shortname: Bo

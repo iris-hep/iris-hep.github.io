@@ -2,7 +2,7 @@
 permalink: /fellows/dwliu.html
 layout: fellow
 pagetype: fellow
-active: green
+active: false
 title: David Liu - IRIS-HEP Fellow
 fellow-name: David Liu
 shortname: dwliu

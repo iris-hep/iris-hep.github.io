@@ -2,7 +2,7 @@
 permalink: /fellows/AlanAneethJegaraj.html
 layout: fellow
 pagetype: fellow
-active: green
+active: false
 title: Alan Aneeth Jegaraj - IRIS-HEP Fellow
 fellow-name: Alan Aneeth Jegaraj
 shortname: Alan

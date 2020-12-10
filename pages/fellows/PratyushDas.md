@@ -2,7 +2,7 @@
 permalink: /fellows/ReikDas.html
 layout: fellow
 pagetype: fellow
-active: green
+active: false
 title: Reik Das - IRIS-HEP Fellow
 fellow-name: Pratyush (Reik) Das
 shortname: reikdas
