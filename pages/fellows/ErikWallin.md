@@ -2,7 +2,7 @@
 permalink: /fellows/ewallin.html
 layout: fellow
 pagetype: fellow
-active: green
+active: false
 title: Erik Wallin - IRIS-HEP Fellow
 fellow-name: Erik Wallin
 shortname: ewallin

@@ -2,6 +2,7 @@
 permalink: /fellows/RaghavKansal.html
 layout: fellow
 pagetype: fellow
+active: false
 fellow-name: Raghav Kansal
 shortname: raghsthebest
 title: Raghav Kansal - IRIS-HEP Fellow
@@ -26,7 +27,6 @@ project_goal: >
   of the hit distribution and embed it in a regular array, where traditional computing vision techniques can be used.
 
 proposal:
-active: green
 mentors:
   - Maurizio Pierini (CERN)
 presentations:
