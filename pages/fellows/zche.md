@@ -10,7 +10,7 @@ project_title: Scaling Coffea-Casa Analysis Facility
 dates:
   start: 2021-01-01
   end: 2021-06-31
-photo: /assets/images/team/zche.jpeg
+photo: /assets/images/team/Zhixing-Che.png
 institution: Boston University
 website:
 e-mail: zche@bu.edu
