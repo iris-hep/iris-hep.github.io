@@ -9,7 +9,7 @@ active: true
 dates:
   start: 2020-04-01
   end: 2020-09-30
-photo: /assets/images/team/Farouk-Mokhtar.png
+photo: /assets/images/team/Farouk-Mokhtar.jpg
 institution: University of California, San Diego
 website:
 e-mail: fmokhtar@ucsd.edu
