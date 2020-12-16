@@ -2,6 +2,7 @@
 permalink: /fellows/JayjeetChakraborty.html
 layout: fellow
 pagetype: fellow
+active: false
 fellow-name: Jayjeet Chakraborty
 shortname: jayjeet
 title: Jayjeet Chakraborty - IRIS-HEP Fellow
