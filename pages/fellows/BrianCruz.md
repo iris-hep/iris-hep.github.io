@@ -14,8 +14,8 @@ photo: /assets/images/team/Brian-Cruz.jpg
 institution: University of Puerto Rico - Mayagüez Campus
 website: https://github.com/936-BCruz
 e-mail: brian.cruz2@upr.edu
-mentor:
-  - Jim Pivarski (Princeton University)
+mentors:
+  - jpivarski
 project_goal: >
   Translate the Higgs boson decay into four leptons CMS open data physics analysis example into a prototype analysis system using Coffea and Awkward-array. This prototype will be benchmarked and compared to the original approach to see if it has a reduced time-to-insight, greater functionality, and reusability.
 proposal: /assets/pdf/BrianCruz_proposal.pdf
