@@ -10,8 +10,8 @@ project_title: Translating analyses into prototype analysis systems
 dates:
   start: 2021-01-11
   end: 2021-06-11
-photo: /assets/images/team/Brian-Cruz.png
-institution: University of Puerto Rico - Mayagüez Campus
+photo: /assets/images/team/Brian-Cruz.jpg
+institution: University of Puerto Rico at Mayaguez
 website: https://github.com/936-BCruz
 e-mail: brian.cruz2@upr.edu
 mentors:
