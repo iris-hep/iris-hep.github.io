@@ -16,8 +16,7 @@ mentors:
   - Isobel Ojalvo (Princeton University)
   - Savannah Thais (Princeton University)
 project_goal: >
-Charged particle tracking is an important part of characterizing particles produced in colliders. Tracking algorithms are very computationally expensive and scale poorly with the number of hits. The upcoming run of high-luminosity the LHC will feature an increase in collision rate, leading to more data production than ever before. It is therefore advantageous to implement these
-algorithms using FPGAs, which have lower latency and higher energy efficiency than CPUs. This project proposes building on the work of Aneesh Heintz by scaling up graph neural network implementations co-processed on FPGAs.
+  Charged particle tracking is an important part of characterizing particles produced in colliders. Tracking algorithms are very computationally expensive and scale poorly with the number of hits. The upcoming run of high-luminosity the LHC will feature an increase in collision rate, leading to more data production than ever before. It is therefore advantageous to implement these algorithms using FPGAs, which have lower latency and higher energy efficiency than CPUs. This project proposes building on the work of Aneesh Heintz by scaling up graph neural network implementations co-processed on FPGAs.
 proposal: /assets/pdf/CaitlinPatterson_proposal.pdf
 presentations:
 ---
