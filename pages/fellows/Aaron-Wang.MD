@@ -18,7 +18,7 @@ project_goal: >
 mentors:
   - Shih-Chieh Hsu (UW)
   - Heiko Mueller (NYU)
-proposal: /assets/pdf/Fellow-anrunw-Proposal.pdf
+proposal: /assets/pdf/Fellow-Aaron-Wang-Proposal.pdf
 presentations:
 
 ---
