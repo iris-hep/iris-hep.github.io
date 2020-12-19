@@ -104,7 +104,6 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-linux
 
 DEPENDENCIES
   ffi (= 1.10.0)
@@ -119,4 +118,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.2.2
+   2.0.2
