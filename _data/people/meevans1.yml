@@ -1,9 +1,9 @@
-name: <Meirin Oan Evans>
-shortname: <meevans1>
-title: <HSF Training Coordinator>
+name: Meirin Oan Evans
+shortname: meevans1
+title: HSF Training Coordinator
 active: true
-institution: <University of Sussex>
-website: <https://meirinoanevans.wixsite.com/portfolio>
+institution: University of Sussex
+website: https://meirinoanevans.wixsite.com/portfolio
 photo: /assets/images/team/Meirin-Evans.jpg
 presentations:
   - title: Introduction to Machine Learning
