@@ -11,13 +11,13 @@ Not all of the below information is available without a password.
 
 * National Science Foundation - Cooperative Agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650)
 * [NSF Monthly Meetings](https://indico.cern.ch/category/11204/) - Includes minutes, slides, etc.
-* [Milestone Registry](https://docs.google.com/spreadsheets/d/1VKpHlQWXu_p8AUv5E5H_BzqF_i7hh2Z-Id0XPwNHu8o/edit#gid=0)
+* [Milestone Registry](https://iris-hep.myjetbrains.com/youtrack/agiles/120-9/current)
 * [Risk Registry](https://docs.google.com/spreadsheets/d/11oyGUEew_UT4M67QkQtOJqwvXdjVV_FreDX3qaJJKD8/edit#gid=0)
 * [History of the award](about/overview)
-* [High-Level Overview Slides](https://docs.google.com/presentation/d/1FOkTKZbzyEPAzhZ5TNaxB3Gkqs1VzzS9CNXdNuJhx9Y/edit#slide=id.g450ed9a7a4_0_5) 
+* [High-Level Overview Slides](https://docs.google.com/presentation/d/1FOkTKZbzyEPAzhZ5TNaxB3Gkqs1VzzS9CNXdNuJhx9Y/edit#slide=id.g450ed9a7a4_0_5)
 
 ### IRIS-HEP Areas
-IRIS-HEP is composed of the following areas: 
+IRIS-HEP is composed of the following areas:
 
 | Area | &nbsp; &nbsp; &nbsp; Links &nbsp; &nbsp; &nbsp;| NSF Deep Dive Talks |
 | ---- | :-------------: | :----- |
@@ -36,4 +36,3 @@ IRIS-HEP is composed of the following areas:
 {% include list_indico_table.html name="nsfreport" %}
 
 {%- endif %}
-
