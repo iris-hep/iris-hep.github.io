@@ -356,3 +356,10 @@ presentations:
     meetingurl: https://virtual-event.mlinpl.org
     location: Poland (Virtual)
     focus-area: as, ia
+  - title:  "MadMiner: Machine learning–based inference for particle physics"
+    date: 2021-01-11
+    url: https://indico.cern.ch/event/971725/#5-madminer-machine-learning-ba
+    meeting: LHC EFT Working Group
+    meetingurl: https://indico.cern.ch/event/971725/
+    location: CERN (Virtual)
+    focus-area: as
