@@ -59,6 +59,7 @@ The CERN homepage featured an article on pyhf: [New open release allows theorist
 
 Updating list of citations and use cases of `pyhf`:
 
+- Gaël Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-González, Wolfgang Waltenberger, and Alicia Wongel. New developments in SModelS. In _Tools for High Energy Physics and Cosmology_. Dec 2020. [arXiv:2012.08192](https://arxiv.org/abs/2012.08192).
 - Matthew Feickert, Lukas Heinrich, and Giordon Stark. Likelihood preservation and statistical reproduction of searches for new physics. EPJ Web Conf., Nov 2020. [doi:10.1051/epjconf/202024506017](https://doi.org/10.1051/epjconf/202024506017).
 - Gaël Alguero, Sabine Kraml, and Wolfgang Waltenberger. A SModelS interface for pyhf likelihoods. Sep 2020. [arXiv:2009.01809](https://arxiv.org/abs/2009.01809).
 - ATLAS Collaboration. Search for new phenomena in events with two opposite-charge leptons, jets and missing transverse momentum in pp collisions at s√=13 TeV with the ATLAS detector. Geneva, Aug 2020. URL: [https://cds.cern.ch/record/2684863](https://cds.cern.ch/record/2728056).
