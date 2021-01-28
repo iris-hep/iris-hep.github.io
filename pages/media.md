@@ -6,6 +6,8 @@ title: Media, Press Releases and Press Mentions
 
 ## Media, Press Releases and Press Mentions
 
+  * 21 Jan 2021 - ["Physicists submit avalanche of ideas to 'Snowmass' process"](https://www.symmetrymagazine.org/article/physicists-submit-avalanche-of-ideas-to-snowmass-process), Symmetry Magazine
+  * 14 Jan 2021 - ["ATLAS releases 'full orchestra' of analysis instruments"](https://www.symmetrymagazine.org/article/atlas-releases-full-orchestra-of-analysis-instruments), Symmetry Magazine
   * 31 Aug 2020 - ["This is going to be a little bit awkward"](https://pythonbytes.fm/episodes/show/205/this-is-going-to-be-a-little-bit-awkward), PythonBytes podcast
   * 13 Jan 2020 - ["Eleven tips for working with large data sets"](https://www.nature.com/articles/d41586-020-00062-z), Nature Technology Feature
   * 19 Aug 2019 - ["Princeton leads efforts to develop national data training framework for high energy physics"](https://www.princeton.edu/news/2019/08/19/princeton-leads-efforts-develop-national-data-training-framework-high-energy), Princeton University
