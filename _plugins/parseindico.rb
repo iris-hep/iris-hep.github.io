@@ -37,7 +37,7 @@ module Indico
         youtube = ''
         urllist = URI.extract(d)
         urllist.each do |url|
-        youtube = url if url.include?('youtube') || url.include?('youtu.be')
+          youtube = url if url.include?('youtube') || url.include?('youtu.be')
         end
 
         @dict[fname] = {
