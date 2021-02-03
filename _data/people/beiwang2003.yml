@@ -1,12 +1,12 @@
 name: Bei Wang
 shortname: beiwang2003
-title: HPC Software Engineer 
+title: HPC Software Engineer
 active: true
 institution: Princeton University
 website:
 photo: /assets/images/team/Bei-Wang.jpg
 presentations:
-  - title: Parallelizing the unpacking and clustering of detector data for reconstruction of charged particle tracks on multi-core CPUs and many-core GPUs 
+  - title: Parallelizing the unpacking and clustering of detector data for reconstruction of charged particle tracks on multi-core CPUs and many-core GPUs
     date: 2020-04-22
     url: https://indico.cern.ch/event/831165/contributions/3717156/attachments/2025214/3387680/CTD_BeiWang.pdf
     meeting: Connecting The Dots (2020)

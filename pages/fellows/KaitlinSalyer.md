@@ -16,7 +16,7 @@ website:
 e-mail: ksalyer@bu.edu
 mentors:
   - Indara Suarez (Boston University)
-  - Chad Freer (Northeastern University) 
+  - Chad Freer (Northeastern University)
 project_goal: >
   The goal of this project is to develop a machine learning (ML) tool to highlight anomalies in detector output from the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider (LHC). This will ultimately help to simplify the data quality monitoring (DQM) process.
 

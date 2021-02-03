@@ -19,7 +19,7 @@ draft: false
 
 ## Prior or related publications
 
-For reference we also include some links to important prior and related work 
+For reference we also include some links to important prior and related work
 done by research groups involved with IRIS-HEP, even if not funded through
 IRIS-HEP.
 

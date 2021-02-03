@@ -1,15 +1,15 @@
 name: Peter Couvares
 shortname: p_couvares
-title: 
+title:
 active: true
 institution: Caltech
-website: 
+website:
 photo: /assets/images/team/p_couvares.png
 presentations:
 about: Couvares is a leader in providing
    computing for the LIGO Scientific Collaboration, on the LSC’s
    executive committee, and is the LIGO Data Analysis Computing
-   Manager. 
+   Manager.
 role: Expertise in tools to manage data and analysis on
    the scale of the LHC experiments. The familiarity with other tools
    and the ability to abstract the methods they have used should

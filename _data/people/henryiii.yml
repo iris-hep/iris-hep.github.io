@@ -1,6 +1,6 @@
 name: Henry Schreiner
 shortname: henryiii
-title: 
+title:
 inspire-id: Henry.F.Schreiner.1
 active: true
 institution: Princeton University
@@ -161,7 +161,7 @@ presentations:
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3331172/5_-_BoostHistogram.pdf
     meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/ 
+    meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, New Jersey, US
     focus-area: as
     project: histogram

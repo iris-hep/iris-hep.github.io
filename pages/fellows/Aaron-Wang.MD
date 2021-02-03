@@ -14,7 +14,7 @@ institution: University of Washington, Seattle
 e-mail: anrunw@uw.edu
 project_title: Reproducible Open Benchmark Compatability with Jupyter Notebook
 project_goal: >
-    The Reproducible Open Benchmarks for Data Analysis Platform (ROB) is a platform that allows for the evaluation of different data analysis algorithms in a controlled competition-style format. But, it currently does not support python notebooks as input. The goal of this project is to add support for jupyter notebooks to the ROB. 
+    The Reproducible Open Benchmarks for Data Analysis Platform (ROB) is a platform that allows for the evaluation of different data analysis algorithms in a controlled competition-style format. But, it currently does not support python notebooks as input. The goal of this project is to add support for jupyter notebooks to the ROB.
 mentors:
   - Shih-Chieh Hsu (UW)
   - Heiko Mueller (NYU)
