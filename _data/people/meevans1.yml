@@ -5,6 +5,7 @@ active: true
 institution: University of Sussex
 website: https://meirinoanevans.wixsite.com/portfolio
 photo: /assets/images/team/Meirin-Evans.jpg
+hidden: True
 presentations:
   - title: Introduction to Machine Learning
     date: 2020-11-02
