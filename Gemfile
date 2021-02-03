@@ -24,6 +24,9 @@ group :development do
 
   # Verify good coding practices in Ruby files
   gem 'rubocop', require: false
+
+  # Extension for Rake files
+  gem 'rubocop-rake', require: false
 end
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
