@@ -3,8 +3,12 @@
 
 require_relative '../_plugins/parseindico'
 require 'pathname'
+require 'yaml'
 
-Indico::MEETING_IDS.each do |name, number|
+config = YAML.safe_load(File.read('_config.yml'))
+meeting_ids = Indico::Meetings.meeting_ids(config)
+
+meeting_ids.each do |name, number|
   puts "Accessing #{number} for #{name}"
   indico_dir = Pathname.new(__FILE__).realpath.parent.parent / '_data' / 'indico'
   folder = indico_dir / name.to_s
