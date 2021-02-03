@@ -3,7 +3,7 @@ shortname: dcraik
 title: Postdoctoral Research Associate
 active: true
 institution: Massachusetts Institute of Technology
-website: 
+website:
 photo: /assets/images/team/Daniel-Craik.jpg
 presentations:
   - title: LHCb Status and Outlook
@@ -13,7 +13,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/844493
     location: Rice University
     focus-area: ia
-  - title: The Trigger and Real-time Reconstruction at LHCb 
+  - title: The Trigger and Real-time Reconstruction at LHCb
     date: 2019-12-09
     url: https://agenda.hep.wisc.edu/event/1391/session/11/contribution/119/material/slides/0.pdf
     meeting: CPAD Instrumentation Frontier Workshop 2019

@@ -51,7 +51,7 @@ For each of these, `nsf-par-id` has been added.
 
 These do not have NSF PAR IDs, and probably do not need one; either because
 they are arXiv only, have an explicit false for `needs-nsf-par`, or were
-manually entered. Many of the arXiv publications are preprints for papers submitted to journals or to the proceedings of various conferences, and will eventually need an NSF PAR ID once published. 
+manually entered. Many of the arXiv publications are preprints for papers submitted to journals or to the proceedings of various conferences, and will eventually need an NSF PAR ID once published.
 
 <ul>
   {% for pub in sorted_publications %}
@@ -67,7 +67,7 @@ manually entered. Many of the arXiv publications are preprints for papers submit
 
 ### Prior or related work
 
-These do not need to have NSF PAR IDs (at least for IRIS-HEP purposes) as 
+These do not need to have NSF PAR IDs (at least for IRIS-HEP purposes) as
 they are prior or related work.
 
 <ul>

@@ -15,7 +15,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <ul>
 {% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'focus-area' %} 
+  {% if mypage.pagetype == 'focus-area' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}
@@ -26,7 +26,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <ul>
 {% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'project' %} 
+  {% if mypage.pagetype == 'project' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}
@@ -37,7 +37,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <ul>
 {% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'doc' %} 
+  {% if mypage.pagetype == 'doc' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}
@@ -48,7 +48,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <ul>
 {% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'fellow' %} 
+  {% if mypage.pagetype == 'fellow' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}
@@ -59,7 +59,7 @@ different page categories (using our custom frontmatter tag "pagetype").
 <ul>
 {% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.pagetype != 'fellow' and mypage.title %} 
+  {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.pagetype != 'fellow' and mypage.title %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}

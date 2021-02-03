@@ -16,7 +16,7 @@ table {
 |------|-------|:------------|
 {% assign sorted = site.pages | sort_natural: 'title' -%}
 {%- for mypage in sorted -%}
-{%- if mypage.pagetype == 'project' -%} 
+{%- if mypage.pagetype == 'project' -%}
 {%- capture focus-areas -%}
 {%- assign notfirst = false -%}
 {%- for fa in mypage.focus-area -%}
