@@ -20,7 +20,7 @@ team:
  - mweinberg2718
 ---
 [ServiceX](https://github.com/ssl-hep/ServiceX) is smart data delivery for all of your analysis needs. The user selects the data and columns they want delivered and receives a unique token to retrieve the output. The service can
-be used with the [funcADL](/projects/func-adl.html) analysis description language. It supports  
+be used with the [funcADL](/projects/func-adl.html) analysis description language. It supports
 ATLAS xAOD, CMS NanoAOD, and flat n-tuple datasets.
 
 Full documentation at [servicex.readthedocs](https://servicex.readthedocs.io/en/latest/)
