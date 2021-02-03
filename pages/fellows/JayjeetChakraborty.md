@@ -28,7 +28,7 @@ projects:
     steps and can become irreproducible at times. The aim of this project is to implement a
     reproducible workflow with Popper to automate large-scale tests on different cloud
     infrastructure like GCP, Cloudlab and Kubernetes clusters and benchmark SkyhookDM at the 10's of terabyte
-    scale over the various supported data formats.  
+    scale over the various supported data formats.
   proposal: /assets/pdf/Fellow-Jayjeet-Chakraborty-Proposal.pdf
   mentors:
     - Carlos Maltzahn (UC Santa Cruz)

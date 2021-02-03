@@ -18,7 +18,7 @@ title: "News, Featured Stories and Links"
         {{ post.summary | markdownify }}
     {%- else %}
         {{ post.excerpt | strip_html }}
-    {%- endif %}  
+    {%- endif %}
     <div style="float: right;">
     <a href="{{post.url}}">Read more</a>
     </div>

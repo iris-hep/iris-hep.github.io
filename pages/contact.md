@@ -4,7 +4,7 @@ layout: default
 title: Contact Information
 ---
 
-### For media contact and general questions about the website. 
+### For media contact and general questions about the website.
   * Email: <mailto:owner@iris-hep.org>
 
 ### Public mailing lists

@@ -1,9 +1,9 @@
 name: Irina Espejo
 shortname: irinaespejo
-title: 
+title:
 active: true
 institution: New York University
-website: 
+website:
 photo: /assets/images/team/irinaespejo.jpeg
 presentations:
   - title: "SCAILFIN: Madminer deployment using REANA"
@@ -28,6 +28,6 @@ presentations:
   - title: "Excursion - Active Learning and Gaussian Processes for black box inference"
     date: 2020-10-26
     url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
-    meeting: Frontiers in Machine Learning for the Physical Sciences, UC Southern Hub    
+    meeting: Frontiers in Machine Learning for the Physical Sciences, UC Southern Hub
     meetingurl: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
     location: Virtual

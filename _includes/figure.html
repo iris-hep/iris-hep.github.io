@@ -10,7 +10,7 @@
 <figure class="{{include.class | default: "right"}}" style="{{include.figure-style}}">
 {%- endif -%}
 <a href="{{url}}">
-	<img alt="{{include.alt}}" src="{{include.file}}" style="{{include.img-style}}">
+  <img alt="{{include.alt}}" src="{{include.file}}" style="{{include.img-style}}">
 </a>
 {%- if include.caption -%}
 <figcaption>{{ include.caption | markdownify }}</figcaption>

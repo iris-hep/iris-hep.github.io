@@ -10,7 +10,7 @@ presentations:
     date: 2019-02-06
     url: https://indico.cern.ch/event/790759/contributions/3284632/attachments/1791853/2919742/2019-02-06_-_Steering_Board_Intro.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
-    meetingurl: https://indico.cern.ch/event/790759/ 
+    meetingurl: https://indico.cern.ch/event/790759/
     location: Vidyo
     focus-area: as
   - title: "LINQ To ROOT"

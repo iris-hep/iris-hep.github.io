@@ -4,7 +4,7 @@
          <div class="card-text">
          {% if person.website and person.website != blank %}
             <b><a href="{{person.website}}">{{person.name}}</a></b><br>
-	 {% else %}
+   {% else %}
             <b>{{person.name}}</b><br>
          {% endif %}
          <small>{{person.institution}}</small><br><br>

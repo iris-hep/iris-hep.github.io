@@ -1,5 +1,5 @@
 <!doctype html>
-  
+
 {% include layout_header_navbar.html %}
 
     <div id="container">
@@ -16,7 +16,7 @@
 {% assign doProjects = 0 %}
 {% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %} 
+{% if mypage.pagetype == 'project' %}
 {% if mypage.focus-area contains page.short_title %}
 {% assign doProjects = 1 %}
 {% break %}
@@ -30,7 +30,7 @@
 <center>
   <div class="row">
 {% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %} 
+{% if mypage.pagetype == 'project' %}
 {% if mypage.focus-area contains page.short_title %}
 <div class="card" style="width: 17rem;">
 <a href=/projects/{{mypage.shortname}}.html>

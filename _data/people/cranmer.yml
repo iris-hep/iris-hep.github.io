@@ -29,7 +29,7 @@ presentations:
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271527/attachments/1791896/2919641/AS_overview_for_Steering_Board-2.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/
-    focus-area: as 
+    focus-area: as
   - title: Panel Discussion on Machine Learning and Physics
     date: 2019-02-12
     url: https://www.kitp.ucsb.edu/activities/machine-c19
@@ -54,14 +54,14 @@ presentations:
     meeting: Likelihood-Free Inference Workshop
     meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
     location: Flatiron Institute, NYC
-    focus-area: as 
+    focus-area: as
   - title: Future areas of focus for ML in particle physics
     date: 2019-04-15
     url: https://indico.cern.ch/event/766872/timetable/#20190415.detailed
     meeting: 3rd IML Machine Learning Workshop
     meetingurl: https://indico.cern.ch/event/766872/timetable/#20190415.detailed
     location: CERN
-    focus-area: as, ia 
+    focus-area: as, ia
   - title: Future areas of focus for ML in particle physics
     date: 2019-05-01
     url: https://sites.google.com/view/physicsxml/schedule?authuser=0
@@ -74,7 +74,7 @@ presentations:
     url: https://video.ias.edu/universe/2019/0529-KyleCranmer
     meeting: The Universe Speaks in Numbers
     meetingurl: https://www.ias.edu/events/universe-speaks
-    location: Intitute for Advanced Study 
+    location: Intitute for Advanced Study
     focus-area: as, ia
   - title: Advances in Deep Learning motivated by Physics Problems
     date: 2019-06-14
@@ -103,35 +103,35 @@ presentations:
     meeting: ATLAS Software and Computing Week
     meetingurl: https://indico.cern.ch/event/765245/
     location: NYU
-    focus-area: as, ia     
+    focus-area: as, ia
   - title: Overview and Future directions for ML in particle and astro physics
     date: 2019-07-31
     url: http://www.weizmann.ac.il/conferences/SRitp/Aug2019/program
     meeting: "Hammers & Nails 2019"
     meetingurl: http://www.weizmann.ac.il/conferences/SRitp/Aug2019/program
     location: Weizmann Institute
-    focus-area: as, ia     
+    focus-area: as, ia
   - title: The interplay between physically motivated simulations and machine learning
     date: 2019-09-09
     url: http://www.ipam.ucla.edu/programs/workshops/machine-learning-for-physics-and-the-physics-of-learning-tutorials/?tab=speaker-list
     meeting: Machine Learning for Physics and the Physics of Learning Long Program at IPAM
     meetingurl: http://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/
     location: IPAM
-    focus-area: as, ia     
+    focus-area: as, ia
   - title: Simulation-based inference, causality, and active learning
     date: 2019-09-27
     url: https://ai2019.ethz.ch/talks/Kyle_Cranmer.pdf
     meeting: AI and the Scientific Method, ETH, Zurich
     meetingurl: https://ai2019.ethz.ch/program.html
     location: ETH, Zurich
-    focus-area: as, ia     
+    focus-area: as, ia
   - title: What does the Revolution in Artificial Intelligence Mean for Physics?
     date: 2019-09-30
     url: https://ai2019.ethz.ch/program.html
     meeting: Joint PITT-CMU Physics Department Colloquium
     meetingurl: https://www.cmu.edu/physics/news-events/events/physics_colloquia.html#event=32472386
     location: Carnegie Mellon University
-    focus-area: as, ia     
+    focus-area: as, ia
   - title: Particle Physics in the context of Data Science
     date: 2019-10-05
     url: https://www.dropbox.com/s/cd6zclbyvwj1u9i/DSAA-IEEE-Keynote.pdf
@@ -146,7 +146,7 @@ presentations:
     meetingurl: http://www.ipam.ucla.edu/abstract/?tid=15943&pcode=MLPWS2
     location: UCLA
     focus-area: as, ia
-  - title: "Flows three ways" 
+  - title: "Flows three ways"
     date: 2019-11-19
     url: http://pcts.princeton.edu/programs/current/deep-learning-for-physics-seminar-series/121
     meeting: Deep Learning for Physics Seminar Series at Princeton Center for Theoretical Physics
@@ -167,7 +167,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/817757/overview
     location:  DESY
     focus-area: as, ia, core
-  - title: Machine Learning and Physics 
+  - title: Machine Learning and Physics
     date: 2020-03-05
     url: https://indico.desy.de/indico/event/25451/
     meeting: Special QU-PCD Colloquium at DESY (CANCELED due to COVID19)
@@ -178,7 +178,7 @@ presentations:
     date: 2020-03-16
     url: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting
     meeting: Workshop on Accelerating Scientific Discovery through Advanced and Automated Workflows
-    meetingurl: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting 
+    meetingurl: https://www.nationalacademies.org/event/03-16-2020/realizing-opportunities-for-advanced-and-automated-workflows-in-scientific-research-second-meeting
     location: National Academy of Sciences
     focus-area: as, core
   - title: "Future Analysis Systems"
@@ -202,7 +202,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/896167/timetable/
     location: (Virtual)
     focus-area: as
-  - title: Analysis Grand Challenge Proposal 
+  - title: Analysis Grand Challenge Proposal
     date: 2020-05-28
     url: https://indico.cern.ch/event/896167/contributions/3880424/attachments/2045466/3429947/IRIS-HEP_Analysis_Grand_Challenge_2020-05-28.pptx.pdf
     meeting: IRIS-HEP Team Retreat

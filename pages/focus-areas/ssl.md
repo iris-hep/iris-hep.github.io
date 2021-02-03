@@ -21,6 +21,6 @@ collaborators:
 
 ![SSL](/assets/images/ssl.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
-  
+
   **Contact us**: [ssl-team@iris-hep.org](mailto:ssl-team@iris-hep.org)
 

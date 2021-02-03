@@ -3,7 +3,7 @@ shortname: savvy379
 title: Post-doctoral researcher
 active: true
 institution: Princeton University
-website: 
+website:
 photo: /assets/images/team/Savannah-Thais.jpg
 presentations:
   - title: "Introduction and Plans"
@@ -49,10 +49,10 @@ presentations:
     url: https://researchcomputing.princeton.edu/events/machine-learning-your-research
     meeting: Princeton Research Computing Training Series
     focus-area: ssc
-  - title: Tracking with GNN 
+  - title: Tracking with GNN
     date: 2020-11-02
     url: https://indico.cern.ch/event/963422/contributions/4074299/attachments/2134891/3595882/tracking_gnns_cmstrackingpog_10192020_NOONESHOT.pdf
     meeting: CMS Tracking POG meeting (CMS internal)
     meetingurl: https://indico.cern.ch/event/963422
-    focus-area:	ia
+    focus-area: ia
     project:

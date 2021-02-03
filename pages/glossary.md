@@ -58,7 +58,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * OSG-LHC - The services provided by IRIS-HEP to enable the LHC experiments to use the [Open Science Grid](https://opensciencegrid.org/)
 
-  * Operations Programs or Ops Programs - 
+  * Operations Programs or Ops Programs -
 
   * PEP - Project Execution Plan
 
@@ -66,7 +66,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * PTC - Programmatic Terms and Conditions, a document included in the IRIS-HEP award which includes agreements between NSF and Princeton University (and by extension the other institutions) as to how the IRIS-HEP project should be executed, how reporting should be done, etc.
 
-  * Run 3 - 
+  * Run 3 -
 
   * Run 4 or HL-LHC - The LHC running period which nominally starts from 2026, with the upgraded high luminosity LHC and upgraded ATLAS and CMS detectors
 
@@ -80,11 +80,11 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * TEO - [Training, Education and Outreach](https://iris-hep.org/ssc.html), one of the main focuses of the SSC area in the IRIS-HEP institute
 
-  * US-CMS 
+  * US-CMS
 
-  * US-ATLAS - refers to either the 
+  * US-ATLAS - refers to either the
 
-  * US-LHC Ops or US-LHC Operations Programs - refers to the two 
+  * US-LHC Ops or US-LHC Operations Programs - refers to the two
 
   * WLCG - The [Worldwide LHC Computing Grid (WLCG)](http://wlcg.web.cern.ch) is a federation of national grid infrastructures to support research at the LHC
- 
+

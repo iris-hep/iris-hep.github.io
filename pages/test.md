@@ -31,13 +31,13 @@ title: Test Page
 </center>
 
   * A number of IRIS-HEP researchers were involved in setting up the
-    [Science Responds](https://science-responds.org/) to make connections 
-    that enable (non-medical) researchers to contribute to understanding 
-    and combating the global COVID-19 problem and/or its economic and 
+    [Science Responds](https://science-responds.org/) to make connections
+    that enable (non-medical) researchers to contribute to understanding
+    and combating the global COVID-19 problem and/or its economic and
     societal impacts. This website provides resources and information
     for such researchers. An associated Slack workspace and Zoom
     meetings allow researchers to interact. We have also recently begun
-    organizing [talks and discussions](https://indico.cern.ch/category/12245/) 
+    organizing [talks and discussions](https://indico.cern.ch/category/12245/)
     with non-Physics researchers. Some of these are being recorded and
     made available in a [Youtube channel](https://www.youtube.com/playlist?list=PLeZvkLnDkqbQ1qIE7PA741dQUb1zw6FBd).
 

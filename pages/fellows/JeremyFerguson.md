@@ -6,7 +6,7 @@ active: true
 title: Jeremy Ferguson - IRIS-HEP Fellow
 fellow-name: Jeremy Ferguson
 shortname: Jeremy
-project_title: Graph Methods for Particle Tracking 
+project_title: Graph Methods for Particle Tracking
 dates:
   start: 2021-01-04
   end: 2021-06-19

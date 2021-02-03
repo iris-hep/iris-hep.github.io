@@ -63,7 +63,7 @@ the following criteria:
   * Minor presentations in internal "working" meetings of IRIS-HEP do not
     need to be added.
   * Presentations, lectures, etc. as part of training events should be included.
-  * Posters at workshops and conferences can also be included. You can add "(poster)" at the end of the title. Include a link to a pdf of the poster. 
+  * Posters at workshops and conferences can also be included. You can add "(poster)" at the end of the title. Include a link to a pdf of the poster.
 
 The meaning of the fields is the following:
 
@@ -71,6 +71,6 @@ The meaning of the fields is the following:
   * date - the date on which the presentation was made, in the numeric format "YYYY-MM-DD"
   * url - this should be a direct URL to the presentation file (e.g. pdf)
   * meeting - the name of the meeting
-  * meetingurl - the URL for the meeting in which the presentation was made 
+  * meetingurl - the URL for the meeting in which the presentation was made
   * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can just omit this.
-  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc] 
+  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc]

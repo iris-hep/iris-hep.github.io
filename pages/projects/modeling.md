@@ -26,7 +26,7 @@ The _modeling_ area of DOMA is thus dedicated to deriving an understanding
 of current practice, an understanding of how to extrapolate current practice
 in a meaningful way to the HL-LHC, and ultimately the modeling of different
 strategies and architectures for DOMA for the HL-LHC to understand the
-characteristics of a cost effective and performant computing model 
+characteristics of a cost effective and performant computing model
 for the HL-LHC.
 
 Work in this area ranges from “intelligent storage” systems to "regional

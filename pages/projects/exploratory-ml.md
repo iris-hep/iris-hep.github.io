@@ -7,7 +7,7 @@ pagetype: project
 image: images/RMP-cover-image-thematic-bright-blue.png
 logowidth: 30%
 blurb: Analysis Reinterpretation
-focus-area: 
+focus-area:
 - as
 - ia
 team:
@@ -38,14 +38,14 @@ IRIS-HEP is an excellent example of use-inspired research, and the products of t
  </div>
  <div class="col-8">
   <h3>Proteins and Robotics </h3>
-In collaboration with reseachers at DeepMind and MIT, Kyle Cranmer use machine leaning to describe data that is restricted to certain shapes because of geometric constraints. This type of structure appears in <a href="https://doi.org/10.1073/pnas.0801715105">protein structure</a>, robotics, geology, <a href="https://arxiv.org/abs/2003.06413">nuclear physics</a>, and high energy particle physics. Read the paper: 
-<a href="https://arxiv.org/abs/2002.02428"> aXiv:2002.02428</a>. (Protein figure from Boomsma <a href="https://doi.org/10.1073/pnas.0801715105">Boosma, PNAS.</a>) 
+In collaboration with reseachers at DeepMind and MIT, Kyle Cranmer use machine leaning to describe data that is restricted to certain shapes because of geometric constraints. This type of structure appears in <a href="https://doi.org/10.1073/pnas.0801715105">protein structure</a>, robotics, geology, <a href="https://arxiv.org/abs/2003.06413">nuclear physics</a>, and high energy particle physics. Read the paper:
+<a href="https://arxiv.org/abs/2002.02428"> aXiv:2002.02428</a>. (Protein figure from Boomsma <a href="https://doi.org/10.1073/pnas.0801715105">Boosma, PNAS.</a>)
 )
  </div>
 </div>
 
 
---- 
+---
 
 <div class="row">
  <div class="col-4">
@@ -59,8 +59,8 @@ In collaboration with reseachers at DeepMind and MIT, Kyle Cranmer use machine l
 
 <h3>Quantum Information & Spectral Methods</h3>
 
-Machine learning techniques are being used within IRIS-HEP to enable powerful new forms of statistical inference. 
-Partially supported by IRIS-HEP's exploratory machine learning efforts, Kyle Cranmer and collaborators explored a generalizing those techniques from classical data to quantum systems, which resulted in <a href="https://arxiv.org/abs/1904.05903">this paper</a>. 
+Machine learning techniques are being used within IRIS-HEP to enable powerful new forms of statistical inference.
+Partially supported by IRIS-HEP's exploratory machine learning efforts, Kyle Cranmer and collaborators explored a generalizing those techniques from classical data to quantum systems, which resulted in <a href="https://arxiv.org/abs/1904.05903">this paper</a>.
  The technique also has applications in spectral learning, which has a broad range of applications in signal processing, and has been cited by reseachers at DeepMind that developed <a href="https://arxiv.org/abs/1806.02215">Spectral Inference Networks</a>. This work was followed up fo quantum information in <a href="https://arxiv.org/abs/1912.11381">Variational Autoregressive Networks and Quantum Circuits</a> by researchers at the Chinese Academy of Sciences.
 
  </div>
@@ -82,9 +82,9 @@ Partially supported by IRIS-HEP's exploratory machine learning efforts, Kyle Cra
 
   <h3>Algorithmic Fairness, Privacy, and Causality</h3>
 
-  As machine learning becomes increasingly integrated into our moderrn lives, a major concern is that the outcome of an automated decisionmaking system should not discriminate between subgroups characterized by sensitive attributes such as gender or race. This is the basis of research around "algorithmic fairness". A similar problem appears in the context of particle physics where physicists don't want the outcome to depend on an uncertain quantity.  To address this problem, Gilles Louppe, Michael Kagan, and Kyle Cranmer developed  a technique to train a neural network <a href="https://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks.pdf">to be independent of one or more attributes</a>. The technique has been applied to or inspired various work on algorithmic fairness including  <a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4085">"One-Network Adversarial Fairness"</a>. The image to the left is taken from <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/">this nice blog post</a> by Stijn Tonk. In addition, the work has inspired work by researchers at INRIA and UC Berkeley in 
-  <a href="https://arxiv.org/abs/1905.10214">privacy and encription</a> as well as research into the 
-  <a href="https://arxiv.org/abs/1907.02893">correlation-versus-causation dilemma</a>. 
+  As machine learning becomes increasingly integrated into our moderrn lives, a major concern is that the outcome of an automated decisionmaking system should not discriminate between subgroups characterized by sensitive attributes such as gender or race. This is the basis of research around "algorithmic fairness". A similar problem appears in the context of particle physics where physicists don't want the outcome to depend on an uncertain quantity.  To address this problem, Gilles Louppe, Michael Kagan, and Kyle Cranmer developed  a technique to train a neural network <a href="https://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks.pdf">to be independent of one or more attributes</a>. The technique has been applied to or inspired various work on algorithmic fairness including  <a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4085">"One-Network Adversarial Fairness"</a>. The image to the left is taken from <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/">this nice blog post</a> by Stijn Tonk. In addition, the work has inspired work by researchers at INRIA and UC Berkeley in
+  <a href="https://arxiv.org/abs/1905.10214">privacy and encription</a> as well as research into the
+  <a href="https://arxiv.org/abs/1907.02893">correlation-versus-causation dilemma</a>.
 
  </div>
 
@@ -101,17 +101,17 @@ Partially supported by IRIS-HEP's exploratory machine learning efforts, Kyle Cra
  </div>
  <div class="col-8">
 
-  <h3>Epidemiology </h3> 
+  <h3>Epidemiology </h3>
 
-    IRIS-HEP researchers collaborated with computer scientists at Oxford and NERSC to instrument particle physics simulators with new capabilities. The "Etalumis" project was nominated for best paper at SC’19 (SuperComputing) and has been written about 
-    <a href="https://phys.org/news/2019-11-etalumis-reverses-simulations-reveal-science.html">here</a> and 
-    <a href="https://www.nextplatform.com/2020/02/04/using-bayesian-inference-to-reverse-engineer-decades-of-hpc/">here</a>. The <a href="/projects/ppx.html">PPX</a> protocol and pyprob tools developed for those studies have since been applied to epidemiological studies such as <a href="https://arxiv.org/abs/1905.12432">“Hijacking Malaria Simulators with Probabilistic Programming”</a>, (source of image) and are now being applied to COVID19 (see 
+    IRIS-HEP researchers collaborated with computer scientists at Oxford and NERSC to instrument particle physics simulators with new capabilities. The "Etalumis" project was nominated for best paper at SC’19 (SuperComputing) and has been written about
+    <a href="https://phys.org/news/2019-11-etalumis-reverses-simulations-reveal-science.html">here</a> and
+    <a href="https://www.nextplatform.com/2020/02/04/using-bayesian-inference-to-reverse-engineer-decades-of-hpc/">here</a>. The <a href="/projects/ppx.html">PPX</a> protocol and pyprob tools developed for those studies have since been applied to epidemiological studies such as <a href="https://arxiv.org/abs/1905.12432">“Hijacking Malaria Simulators with Probabilistic Programming”</a>, (source of image) and are now being applied to COVID19 (see
     <a href="https://arxiv.org/abs/2003.13221">“Planning as inference in epidemiological dynamics models”</a>.
 
  </div>
 </div>
 
---- 
+---
 
 <div class="row">
  <div class="col-4">
@@ -126,7 +126,7 @@ IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer
  </div>
 </div>
 
---- 
+---
 
 
 <div class="row">
@@ -137,7 +137,7 @@ IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer
 
   <h3>Dark Matter Astrophysics</h3>
 
-  While we know dark matter exists in the universe, we still don't know what it is made of. 
+  While we know dark matter exists in the universe, we still don't know what it is made of.
   One approach to pinning down the nature of dark matter is through astrophysics. In particular, images of galaxies that are distorted through gravitational lensing can encode subtle hints about the nature of dark matter, but extracting that information from the images is challenging. IRIS-HEP and former DIANA-HEP researchers joined astro-particle physicist Siddharth Mishra-Sharma to apply techniques originally developed for the LHC to this challenging problem in <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab4c41">Mining for Dark Matter Substructure: Inferring Subhalo Population Properties from Strong Lenses with Machine Learning</a>.
 
   <img width="80%" src="https://github.com/smsharma/mining-for-substructure-lens/raw/master/figures/live_inference_with_images_reverse_small.gif" >
@@ -146,7 +146,7 @@ IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer
 </div>
 
 
---- 
+---
 
 <div class="container">
 <div class="row">
@@ -161,7 +161,7 @@ IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer
 
  <h3>Dynamical Systems</h3>
 
-As part of IRIS-HEP's exploratory machine learning efforts, we've developed collaborations with researchers at DeepMind that are interested in modelling physical systems. This research involves finding ways to incorporate various types of domain knowledge into neural networks. For instance, we know many systems are composed of more basic ingredients, or that interactions between those ingredients have some relational structure. Kyle Cranmer joined researchers at DeepMind for work that brought together techiques from physics and neural networks in <a href="https://arxiv.org/abs/1909.12790">Hamiltonian Graph Networks with ODE Integrators</a>. This work has been extended with <a href="https://drive.google.com/file/d/1Ri3RkuqyZ1xhg0QkXqzwfkxUCvn_0YKn/view">fantastic results</a> (see right) on complex simulations of particle systems in <a href="https://arxiv.org/pdf/2002.09405.pdf">Learning to Simulate Complex Physics with Graph Networks</a>. 
+As part of IRIS-HEP's exploratory machine learning efforts, we've developed collaborations with researchers at DeepMind that are interested in modelling physical systems. This research involves finding ways to incorporate various types of domain knowledge into neural networks. For instance, we know many systems are composed of more basic ingredients, or that interactions between those ingredients have some relational structure. Kyle Cranmer joined researchers at DeepMind for work that brought together techiques from physics and neural networks in <a href="https://arxiv.org/abs/1909.12790">Hamiltonian Graph Networks with ODE Integrators</a>. This work has been extended with <a href="https://drive.google.com/file/d/1Ri3RkuqyZ1xhg0QkXqzwfkxUCvn_0YKn/view">fantastic results</a> (see right) on complex simulations of particle systems in <a href="https://arxiv.org/pdf/2002.09405.pdf">Learning to Simulate Complex Physics with Graph Networks</a>.
  </div>
 
 

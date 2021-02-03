@@ -9,8 +9,8 @@ Vidyo is a videoconferencing system used by CERN and the LHC experiments.
 It will also be used for many IRIS-HEP meetings. The system is organized
 around "Vidyo Rooms" to which people connect for a videconference. The
 first part of this webpage will explain how you can get the relevant mobile
-or desktop applications to connect as a user to an existing Vidyo Room 
-and the latter part of the page will describe how to create a new Vidyo Room 
+or desktop applications to connect as a user to an existing Vidyo Room
+and the latter part of the page will describe how to create a new Vidyo Room
 for some purpose.
 
 ## Connecting to an existing Vidyo Room
@@ -54,15 +54,15 @@ connected to the IRIS-HEP vidyo room.
 
 ## Creating a Vidyo Room
 
-The creation of a new Vidyo Room is done through [Indico](https://indico.cern.ch/category/10492/) and thus will require a (CERN?) account on that system. To create a room, you first need to create an event (meeting, etc.) in Indico. 
+The creation of a new Vidyo Room is done through [Indico](https://indico.cern.ch/category/10492/) and thus will require a (CERN?) account on that system. To create a room, you first need to create an event (meeting, etc.) in Indico.
 Once you have that meeting created, go to the settings in the "Management Area"
 for the meeting and you should see "Videoconference" listed among the
 services in the navigation bar on the left. If choose that, you will be
 offered two options: "Create Vidyo Room" (i.e. create a new one) and "Add
 Existing Room".
 
-Note that Vidyo rooms are persistent, i.e. once one is created it isn't 
-strictly connected to the original meeting or time slot that was used to 
+Note that Vidyo rooms are persistent, i.e. once one is created it isn't
+strictly connected to the original meeting or time slot that was used to
 create. And you can use it anytime with the direct URL to the room, even
 without creating another Indico event/meeting. (TBC: they *might* expire if
 not used at all for 6 months.) In general we should not create many, many

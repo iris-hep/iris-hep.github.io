@@ -3,7 +3,7 @@ permalink: /topical.html
 layout: default
 title: IRIS-HEP Topical Meetings
 ---
-<center> 
+<center>
 <h3> IRIS-HEP Topical Meetings</h3>
 </center>
 
@@ -17,7 +17,7 @@ Find all topical meeting agendas
 <ul>
 
 {% comment %}
-Go through the list and produce a breakdown of the events in reverse 
+Go through the list and produce a breakdown of the events in reverse
 chronological order, grouped by months
 {% endcomment %}
 
@@ -41,7 +41,7 @@ chronological order, grouped by months
   {% if event.youtube.size > 4 %}
   - (<a href="{{event.youtube}}">Watch the meeting recording</a>)
   {% endif %}
-  </li> 
+  </li>
 {% endfor %}
 </ul>
 <br>
