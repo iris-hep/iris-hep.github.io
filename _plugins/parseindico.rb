@@ -9,14 +9,6 @@ require 'time'
 require 'openssl'
 
 module Indico
-  MEETING_IDS = {
-    topical: 10570,
-    nsfreport: 11204,
-    blueprint: 11329,
-    sb: 10989,
-    ap: 11519
-  }.freeze
-
   # Look for topical meetings
   class Meetings
     attr_accessor :dict
@@ -58,6 +50,11 @@ module Indico
 
         File.write(folder / "#{d_key}.yml", d_val.to_yaml)
       end
+    end
+
+    # Get meeting ids from a config
+    def self.meeting_ids(config = {})
+      config.dig('indico', 'ids')
     end
 
     private

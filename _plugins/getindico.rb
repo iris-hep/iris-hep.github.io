@@ -10,7 +10,9 @@ module Indico
     # Main entry point for Jekyll
     def generate(site)
       @site = site
-      MEETING_IDS.each do |name, number|
+
+      meeting_ids = Meetings.meeting_ids(@site.config)
+      meeting_ids.each do |name, number|
         collect_meeting name.to_s, number
       end
     end

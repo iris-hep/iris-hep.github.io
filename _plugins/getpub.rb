@@ -123,7 +123,7 @@ module Publications
       end
     end
 
-    # rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
+    # rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity, Metrics/AbcSize
 
     # Look up inspire data *if* inspire-id given
     def inspire(pub)
@@ -175,7 +175,7 @@ module Publications
       pub['citation'] ||= "#{mini_authors}, #{journal}"
     end
     #
-    # rubocop:enable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
+    # rubocop:enable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity, Metrics/AbcSize
 
     # Load a yaml file from the cache
     # Return a bool if an update is needed
