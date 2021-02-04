@@ -61,6 +61,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- Lukas Heinrich, Matthew Feickert, Giordon Stark, Kyle Cranmer, (2021). pyhf: pure-Python implementation of HistFactory statistical models. Journal of Open Source Software, 6(58), 2823, [https://doi.org/10.21105/joss.02823](https://doi.org/10.21105/joss.02823)
 - Gaël Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-González, Wolfgang Waltenberger, and Alicia Wongel. New developments in SModelS. In _Tools for High Energy Physics and Cosmology_. Dec 2020. [arXiv:2012.08192](https://arxiv.org/abs/2012.08192).
 - Matthew Feickert, Lukas Heinrich, and Giordon Stark. Likelihood preservation and statistical reproduction of searches for new physics. EPJ Web Conf., Nov 2020. [doi:10.1051/epjconf/202024506017](https://doi.org/10.1051/epjconf/202024506017).
 - Gaël Alguero, Sabine Kraml, and Wolfgang Waltenberger. A SModelS interface for pyhf likelihoods. Sep 2020. [arXiv:2009.01809](https://arxiv.org/abs/2009.01809).
