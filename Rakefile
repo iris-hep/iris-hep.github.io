@@ -22,7 +22,7 @@ end
 
 desc 'Cache the indico access'
 task :cache do
-  sh 'ruby', '_scripts/get_indico.rb'
+  sh 'jekyll-indico-cache'
 end
 
 desc 'Run rubocop to lint the ruby code'

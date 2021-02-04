@@ -59,6 +59,7 @@ sass:
     sass_dir: _sass
 
 indico:
+  url: https://indico.cern.ch
   ids:
     topical: 10570
     nsfreport: 11204
