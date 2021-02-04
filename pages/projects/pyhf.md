@@ -20,6 +20,7 @@ team:
 
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/scikit-hep/pyhf/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1169739.svg)](https://doi.org/10.5281/zenodo.1169739)
+[![JOSS DOI](https://joss.theoj.org/papers/10.21105/joss.02823/status.svg)](https://doi.org/10.21105/joss.02823)
 [![Scikit-HEP](https://scikit-hep.org/assets/images/Scikit--HEP-Project-blue.svg)](https://scikit-hep.org/)
 [![NSF-1836650](https://img.shields.io/badge/NSF-1836650-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1836650)
 
@@ -27,11 +28,11 @@ team:
 [![GitHub Actions Status: Publish](https://github.com/scikit-hep/pyhf/workflows/publish%20distributions/badge.svg)](https://github.com/scikit-hep/pyhf/actions?query=workflow%3A%22publish+distributions%22+branch%3Amaster)
 [![Docker Automated](https://img.shields.io/docker/automated/pyhf/pyhf.svg)](https://hub.docker.com/r/pyhf/pyhf/)
 [![Code Coverage](https://codecov.io/gh/scikit-hep/pyhf/graph/badge.svg?branch=master)](https://codecov.io/gh/scikit-hep/pyhf?branch=master)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/scikit-hep/pyhf.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/scikit-hep/pyhf/latest/files/)
 [![CodeFactor](https://www.codefactor.io/repository/github/scikit-hep/pyhf/badge)](https://www.codefactor.io/repository/github/scikit-hep/pyhf)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-[![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://scikit-hep.github.io/pyhf)
+[![Docs from latest](https://img.shields.io/badge/docs-latest-blue.svg)](https://pyhf.readthedocs.io/)
+[![Docs from master](https://img.shields.io/badge/docs-master-blue.svg)](https://scikit-hep.github.io/pyhf)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scikit-hep/pyhf/master?filepath=docs%2Fexamples%2Fnotebooks%2Fbinderexample%2FStatisticalAnalysis.ipynb)
 
 [![PyPI version](https://badge.fury.io/py/pyhf.svg)](https://badge.fury.io/py/pyhf)
@@ -60,6 +61,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- Lukas Heinrich, Matthew Feickert, Giordon Stark, Kyle Cranmer, (2021). pyhf: pure-Python implementation of HistFactory statistical models. Journal of Open Source Software, 6(58), 2823, [https://doi.org/10.21105/joss.02823](https://doi.org/10.21105/joss.02823)
 - Gaël Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-González, Wolfgang Waltenberger, and Alicia Wongel. New developments in SModelS. In _Tools for High Energy Physics and Cosmology_. Dec 2020. [arXiv:2012.08192](https://arxiv.org/abs/2012.08192).
 - Matthew Feickert, Lukas Heinrich, and Giordon Stark. Likelihood preservation and statistical reproduction of searches for new physics. EPJ Web Conf., Nov 2020. [doi:10.1051/epjconf/202024506017](https://doi.org/10.1051/epjconf/202024506017).
 - Gaël Alguero, Sabine Kraml, and Wolfgang Waltenberger. A SModelS interface for pyhf likelihoods. Sep 2020. [arXiv:2009.01809](https://arxiv.org/abs/2009.01809).
