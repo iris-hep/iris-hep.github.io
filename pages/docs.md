@@ -16,7 +16,6 @@ title: "Documentation pages for the IRIS-HEP team"
 #### New team members
 * [Reimbursement](/docs/reimbursement)
 * [New team member page](/docs/newteammember)
-* [Vidyo web conferencing](/docs/vidyo)
 
 #### Website
 * [Website GitHub repo](https://github.com/iris-hep/iris-hep.github.io-source)
