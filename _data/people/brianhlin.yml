@@ -7,6 +7,11 @@ website:
 photo: /assets/images/team/Brian-Lin.jpg
 e-mail: blin@cs.wisc.edu
 presentations:
+  - title: "OSG Services and Kubernetes"
+    date: 2021-02-11
+    url: https://docs.google.com/presentation/d/1c25EB9LrvjRxTI0Vv6XhiV7SjybGjb8frHq7Kqo7oGA/edit?usp=sharing
+    meeting: GP-ARGO Technical Meeting
+    focus-area: osglhc
   - title: "What is next for the HTCondor-CE?"
     date: 2020-09-23
     url: https://indico.cern.ch/event/936993/contributions/4022138/
