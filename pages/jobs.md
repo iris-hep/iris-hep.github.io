@@ -25,4 +25,14 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
 
+### University of California, San Diego
+  * Computational and Data Science Researcher position at the San Diego Supercomputer Center in the distributed High Throughput Computing group.
+    The group works on infrastructure software R&D across a wide range of topics.
+
+    We are looking for an ambitious team player with significant experience in either HTCondor, XRootD, or related technologies, in addition to strong skills in python and other scripting languages.
+    Familiarity with C/C++, K8S, linux system administration, and related topics are a plus.
+    Minimal requirements are a BS and multiple years of experience with infrastructure software. More senior appointments may be considered depending on qualifications.
+
+    Contact [Frank Wuertwhein](https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494) for more details.
+
 ### Others
