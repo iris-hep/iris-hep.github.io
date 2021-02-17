@@ -6,7 +6,7 @@ active: true
 title: Baidyanath Kundu - IRIS-HEP Fellow
 fellow-name: Baidyanath Kundu
 shortname: Baidyanath
-project_title: 
+project_title:
 dates:
   start: 2021-02-01
   end: 2021-04-30
