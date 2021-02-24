@@ -61,6 +61,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- Rodolfo Capdevilla, Federico Meloni, Rosa Simoniello, and Jose Zurita. Hunting wino and higgsino dark matter at the muon collider with disappearing tracks. Feb 2021. [arXiv:2102.11292](https://arxiv.org/abs/2102.11292).
 - Vincenzo Cirigliano, Kaori Fuyuto, Christopher Lee, Emanuele Mereghetti, and Bin Yan. Charged Lepton Flavor Violation at the EIC. Feb 2021. [arXiv:2102.06176](https://arxiv.org/abs/2102.06176).
 - Jack Y. Araz and others. Proceedings of the second MadAnalysis 5 workshop on LHC recasting in Korea. _Mod. Phys. Lett. A_, 36(01):2102001, 2021. [arXiv:2101.02245](https://arxiv.org/abs/2101.02245), [doi:10.1142/S0217732321020016](https://doi.org/10.1142/S0217732321020016).
 - Simone Amoroso, Deepak Kar, and Matthias Schott. How to discover QCD Instantons at the LHC. In _Topological Effects in the Standard Model: Instantons, Sphalerons and Beyond at LHC_. Dec 2020. [arXiv:2012.09120](https://arxiv.org/abs/2012.09120).
