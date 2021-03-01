@@ -363,3 +363,38 @@ presentations:
     meetingurl: https://indico.cern.ch/event/971725/
     location: CERN (Virtual)
     focus-area: as
+  - title:  MadMiner tutorial
+    date: 2021-02-18
+    url: https://indico.cern.ch/event/982553/contributions/4220018/
+    meeting: (Re)interpreting the results of new physics searches at the LHC
+    meetingurl: https://indico.cern.ch/event/982553/overview
+    location: (Virtual)
+    focus-area: as, ia
+  - title: Quarks, hierarchical clustering, and combinatorial optimization
+    date: 2021-02-22
+    url: http://www.ipam.ucla.edu/abstract/?tid=16760&pcode=DLC2021
+    meeting: Deep Learning and Combinatorial Optimization
+    meetingurl: http://www.ipam.ucla.edu/programs/workshops/deep-learning-and-combinatorial-optimization/?tab=overview
+    location: Institute Pure and Applied Mathematics (IPAM) (virtual)
+    focus-area: ia
+  - title:  Graph Deep Learning for Physics
+    date: 2021-03-25
+    url: https://alippi.faculty.polimi.it/index.html
+    meeting: Università della Svizzera
+    meetingurl: https://alippi.faculty.polimi.it/index.html
+    location: (Virtual) Università della Svizzera
+    focus-area: ia, as
+  - title:  Machine Learning for Precision Measurements
+    date: 2021-03-02
+    url: https://indico.tlabs.ac.za/event/100/contributions/1727/
+    meeting: Unveiling hidden Physics Beyond the Standard Model at the LHC
+    meetingurl: https://indico.tlabs.ac.za/event/100/overview
+    location:  (Virtual)
+    focus-area: as
+  - title: Invited Keynote for AISTATS (TBD)
+    date: 2021-04-02
+    url: https://aistats.org/aistats2021/
+    meeting: AISTATS
+    meetingurl: https://aistats.org/aistats2021/
+    location: (Virtual)
+    focus-area: as
