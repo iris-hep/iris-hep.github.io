@@ -370,7 +370,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/982553/overview
     location: (Virtual)
     focus-area: as, ia
-  - title: Quarks, hierarchical clustering, and combinatorial optimization 
+  - title: Quarks, hierarchical clustering, and combinatorial optimization
     date: 2021-02-22
     url: http://www.ipam.ucla.edu/abstract/?tid=16760&pcode=DLC2021
     meeting: Deep Learning and Combinatorial Optimization
@@ -386,8 +386,8 @@ presentations:
     focus-area: ia, as
   - title:  Machine Learning for Precision Measurements
     date: 2021-03-02
-    url: https://indico.tlabs.ac.za/event/100/contributions/1727/ 
-    meeting: Unveiling hidden Physics Beyond the Standard Model at the LHC 
+    url: https://indico.tlabs.ac.za/event/100/contributions/1727/
+    meeting: Unveiling hidden Physics Beyond the Standard Model at the LHC
     meetingurl: https://indico.tlabs.ac.za/event/100/overview
     location:  (Virtual)
     focus-area: as
