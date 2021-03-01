@@ -3,5 +3,6 @@ link: https://doi.org/10.21105/joss.02823
 date: 2021-02-04
 citation: "Lukas Heinrich, Matthew Feickert, Giordon Stark, Kyle Cranmer, Journal of Open Source Software, 6(58), 2823, https://doi.org/10.21105/joss.02823"
 inspire-id: 1845084
+related-work: true
 focus-area: as
 project: pyhf
