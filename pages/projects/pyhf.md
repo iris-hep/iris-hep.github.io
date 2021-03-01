@@ -84,6 +84,7 @@ Updating list of citations and use cases of `pyhf`:
 
 Updating list of HEPData entries for publications using `HistFactory` JSON likelihoods:
 
+- Search for displaced leptons in s√=13 TeV pp collisions with the ATLAS detector. 2020. [10.17182/hepdata.98796](https://doi.org/10.17182/hepdata.98796).
 - Search for squarks and gluinos in final states with same-sign leptons and jets using 139 fb−1 of data collected with the ATLAS detector. 2020. [doi:10.17182/hepdata.91214](https://doi.org/10.17182/hepdata.91214).
 - Search for direct production of electroweakinos in final states with one lepton, missing transverse momentum and a Higgs boson decaying into two b-jets in (pp) collisions at s√=13 TeV with the ATLAS detector. 2020. [doi:10.17182/hepdata.90607](https://doi.org/10.17182/hepdata.90607).
 - Search for chargino-neutralino production with mass splittings near the electroweak scale in three-lepton final states in s√ = 13 TeV pp collisions with the ATLAS detector. 2019. [doi:10.17182/hepdata.91127](https://doi.org/10.17182/hepdata.91127).
