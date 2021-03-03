@@ -101,3 +101,9 @@ presentations:
     meeting: "US ATLAS Operations L2/L3 Managers Meeting"
     meetingurl: https://indico.cern.ch/e/901076
     location: Zoom
+  - title: "IRIS-HEP Covid 19 impact on work survey results"
+    date: 2021-02-10
+    url: https://indico.cern.ch/event/876773/contributions/4222233/attachments/2187909/3697123/IRIS-HEP-COVID-Effects-Survey.pdf
+    meeting: "GDB"
+    meetingurl: https://indico.cern.ch/event/876773/
+    location: Zoom
