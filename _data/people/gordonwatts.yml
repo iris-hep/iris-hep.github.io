@@ -194,12 +194,14 @@ presentations:
     focus-area: as
     location: Virtual
   - title: "Using Modern Computing to Get the Most out of the LHC"
+    date: 2021-02-18
     url: https://indico.cern.ch/event/1010438/
     meetingurl: https://indico.cern.ch/event/1010438/
     meeting: "UW EPE Seminar"
     focus-area: management
     location: "University of Washington"
   - title: "Computing in HEP for the HL-LHC"
+    date: 2021-02-25
     url: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
     meetingurl: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
     meeting: "University of California, Santa Cruz, Physics Department Colloquia"
