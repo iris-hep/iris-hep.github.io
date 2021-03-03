@@ -11,7 +11,6 @@ focus-area:
  - osglhc
 team:
  - bbockelm
- - efajardo
  - sfiligoi
  - fkw888
  - osschar
