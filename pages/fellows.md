@@ -6,13 +6,11 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-### We are now accepting proposals for the 2020-2021 academic year (fall, winter, spring)
-
   People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
 
   In order to accomplish these goals, IRIS-HEP has created a Fellow program.
-IRIS-HEP Fellows will spend some number of months working closely with a 
-mentor on an R&D topic relevant to the Institute. Possible software R&D areas 
+IRIS-HEP Fellows will spend some number of months working closely with a
+mentor on an R&D topic relevant to the Institute. Possible software R&D areas
 include:
 
   * [Analysis Systems](/as.html)
@@ -27,9 +25,9 @@ It is *not* required that the mentors are IRIS-HEP team members, any
 appropriate mentor from the larger community working in one of these areas
 can be part of the program.
 
-**Who should apply to the Fellows program?** - Are you reasonably comfortable 
-with basic programming through skills acquired (for example) from coursework or 
-dedicated training activities? Are you interested in building on those skills to gain experience through contributions to cutting edge open 
+**Who should apply to the Fellows program?** - Are you reasonably comfortable
+with basic programming through skills acquired (for example) from coursework or
+dedicated training activities? Are you interested in building on those skills to gain experience through contributions to cutting edge open
 source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. *Applications from women and members of underrepresented groups in STEM activities are particularly encouraged.*
 
 Two types of IRIS-HEP Fellows are possible:
@@ -57,22 +55,21 @@ Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing
 
 IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals. All proposals submitted before Friday, 6 November, 2020 will receive full consideration.  
 
-# IRIS-HEP Current Fellows (Summer 2020)
+{%- assign active-fellows = false -%}
+{%- for mypage in site.pages -%}
+    {%- if mypage.pagetype == 'fellow' and mypage.active -%}
+       {%- assign active-fellows = true -%}
+    {%- endif -%}
+{%- endfor -%}
 
-[Former IRIS-HEP Fellows](/former-fellows.html)
+{%- if active-fellows %}
+# IRIS-HEP Current Fellows
 
 <div class="container-fluid">
   <div class="row">
-    {% assign current_fellows_start = '2020-05-01' | minus: 7257600 | date: '%F' %}
     {% assign sorted = site.pages | sort_natural: 'title' %}
     {% for mypage in sorted %}
-      {%- if mypage.dates.first.start -%}
-        {% assign page_start_date = mypage.dates.first.start | date: '%F' %}
-      {%- else -%}
-        {% assign page_start_date = mypage.dates.start | date: '%F' %}
-      {%- endif -%}
-
-      {% if mypage.pagetype == 'fellow' and page_start_date >= current_fellows_start %}
+      {% if mypage.pagetype == 'fellow' and mypage.active %}
          {% assign person = mypage %}
 
          <div class="card" style="width: 12rem;">
@@ -93,4 +90,30 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
   <br>
 </div>
 
+{% endif %}
 
+# IRIS-HEP Former Fellows
+<div class="container-fluid">
+  <div class="row">
+    {% assign sorted = site.pages | sort_natural: 'title' %}
+    {% for mypage in sorted %}
+      {% if mypage.pagetype == 'fellow' and mypage.active == false %}
+         {% assign person = mypage %}
+
+         <div class="card" style="width: 12rem;">
+            <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
+            <div class="card-body d-flex flex-column">
+              <div class="card-text">
+                 <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
+                 <small>{{person.institution}}</small><br><br>
+              </div>
+              <div class="card-text mt-auto"><i>
+              {% include fellow_dates.html dates=person.dates %}
+              </i><br></div>
+            </div>
+         </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <br>
+</div>

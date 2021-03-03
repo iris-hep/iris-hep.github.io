@@ -5,7 +5,7 @@ shortname: toyamaza
 permalink: /fellows/TomohiroYamazaki.html
 fellow-name: Tomohiro Yamazaki
 title: Tomohiro Yamazaki - IRIS-HEP Fellow
-active: green
+active: false
 dates:
   start: 2020-07-01
   end: 2020-09-30

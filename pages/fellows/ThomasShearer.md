@@ -2,7 +2,7 @@
 permalink: /fellows/ThomasShearer.html
 layout: fellow
 pagetype: fellow
-active: green
+active: false
 title: Thomas Shearer - IRIS-HEP Fellow
 fellow-name: Thomas Shearer
 shortname: Tommy

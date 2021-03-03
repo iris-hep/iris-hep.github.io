@@ -5,7 +5,38 @@ active: true
 institution: University of Wisconsin–Madison
 website: 
 photo: /assets/images/team/Brian-Lin.jpg
+e-mail: blin@cs.wisc.edu
 presentations:
+  - title: "What is next for the HTCondor-CE?"
+    date: 2020-09-23
+    url: https://indico.cern.ch/event/936993/contributions/4022138/
+    meeting: HTCondor Workshop Autumn 2020
+    meetingurl: https://indico.cern.ch/event/936993/
+    focus-area: osglhc
+  - title: "HTCondor-CE Troubleshooting"
+    date: 2020-09-23
+    url: https://indico.cern.ch/event/936993/contributions/4022137/
+    meeting: HTCondor Workshop Autumn 2020
+    meetingurl: https://indico.cern.ch/event/936993/
+    focus-area: osglhc
+  - title: "HTCondor-CE Live Installation"
+    date: 2020-09-23
+    url: https://indico.cern.ch/event/936993/contributions/4022136/
+    meeting: HTCondor Workshop Autumn 2020
+    meetingurl: https://indico.cern.ch/event/936993/
+    focus-area: osglhc
+  - title: "HTCondor-CE Configuration"
+    date: 2020-09-23
+    url: https://indico.cern.ch/event/936993/contributions/4022135/
+    meeting: HTCondor Workshop Autumn 2020
+    meetingurl: https://indico.cern.ch/event/936993/
+    focus-area: osglhc
+  - title: "HTCondor-CE Overview"
+    date: 2020-09-23
+    url: https://indico.cern.ch/event/936993/contributions/4022131/
+    meeting: HTCondor Workshop Autumn 2020
+    meetingurl: https://indico.cern.ch/event/936993/
+    focus-area: osglhc
   - title: "Introduction to HTCondor-CE"
     date: 2020-06-17
     url: https://indico.egi.eu/event/5137/attachments/12966/15338/2020-06-17.htcondorce-intro_FINAL.pdf

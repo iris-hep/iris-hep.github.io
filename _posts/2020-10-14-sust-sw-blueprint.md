@@ -3,7 +3,8 @@ layout: irispost
 title: Software Sustainability & High Energy Physics Blueprint Workshop
 author: Daniel S. Katz
 postimage: /assets/images/blueprint-process.png
-postimage-caption: "This workshop was part of the Blueprint process, which is designed to inform the development and evolution of the IRIS-HEP strategic vision, in this case regarding susainable software."
+postimage-whole: true
+postimage-caption: "This workshop was part of the Blueprint process, which is designed to inform the development and evolution of the IRIS-HEP strategic vision, in this case regarding sustainable software."
 summary: "On July 22, about 80 researchers interested in both sustainable software and high energy physics gathered virtually to talk about how the high energy physics community could make its software more sustainable, wanting it to be easier to develop and maintain so that it remains available in the future on new platforms, meets new needs, and is as reusable as possible."
 ---
 
@@ -24,14 +25,14 @@ implement elements of software sustainability. Software sustainability practices
 of HEP software being directly used outside the field, and, as has happened more frequently in recent years, to HEP developers contributing
 to software developed outside the field rather than reinventing it. A focus on and skills related to sustainable software will give HEP
 software developers an important skill that is essential to careers in the realm of software, inside or outside HEP. The organizers,
-speakers, and some of the attendees have now written and released on a report on workshop, that includes a decsription of the goals,
-the talks, and the discusssion sessions, and the report closes
+speakers, and some of the attendees have now written and released on a report on workshop, that includes a description of the goals,
+the talks, and the discussion sessions, and the report closes
 with recommendations to improve software sustainability in HEP, aimed at the HEP community via IRIS-HEP and the HEP Software Foundation (HSF).
 The report is available from [arXiv](https://arxiv.org/abs/2010.05102) and [Zenodo](https://doi.org/10.5281/zenodo.4082137).
 
 The recommendations focus on three topics: training, software, and people.
 
-On **training**, the workshop report recomends that IRIS-HEP and other HEP projects repurpose nominal funding from in-person training (travel, lodging, food)
+On **training**, the workshop report recommends that IRIS-HEP and other HEP projects repurpose nominal funding from in-person training (travel, lodging, food)
 to pay for the development of training material. This could be done through a set of limited-duration Visiting Pedagogy Fellowships. Each would
 be aimed at either an existing need for curricular material (as defined by the HSF/IRIS-HEP training group) or proposed by the fellow, but agreed
 to by the training group. A fellowship project could create initial content for a module, improve the initial content developed by someone else,
@@ -56,7 +57,7 @@ identify what are additional costs for additional events. A funding model beyond
 the community is an important aspect of sustaining the workforce. In addition, giving them recognition can keep the community vibrant, motivated
 and help in careers. People should continue to see value in our training and how it can advance the field.
 
-In **software**, the report recommends that we xplicitly consider and invest in tools that enable and support software sustainability.
+In **software**, the report recommends that we explicitly consider and invest in tools that enable and support software sustainability.
 A concrete need is to renew the HSF’s template for C++ projects, moving to a cookiecutter design and revamping its CMake template with modern
 best practice. Likewise, another need is to work with Scikit-HEP to develop a similar project template for Python modules. These projects would be
 intended to support the HP community generally, including IRIS-HEP, so that IRIS-HEP would contribute to the HSF templates, rather than creating
