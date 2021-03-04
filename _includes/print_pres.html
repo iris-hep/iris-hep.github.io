@@ -1,5 +1,5 @@
 {%- assign talk = include.talk -%}
-{%- assign member = site.data.people[talk.member].name -%}
+{%- assign talk-member = site.data.people[talk.member].name -%}
 {%- assign prettydate = talk.date | date: "%-d %b %Y" -%}
 {%- capture meeting -%}
   {%- if talk.meetingurl and talk.meetingurl != "" -%}
@@ -16,5 +16,5 @@
   {%- endif -%}
 {%- endcapture -%}
 
-{{ prettydate }} - {{ title }}, {{ member }}, {{ meeting }}
+{{ prettydate }} - {{ title }}, {{ talk-member }}, {{ meeting }}
 
