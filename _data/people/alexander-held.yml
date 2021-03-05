@@ -63,3 +63,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/960587/
     location: (Virtual)
     focus-area: as
+  - title: "The cabinetry library"
+    date: 2021-02-25
+    url: https://indico.cern.ch/event/1005890/contributions/4222699/
+    meeting: ATLAS Statistics Forum Meeting
+    meetingurl: https://indico.cern.ch/event/1005890/
+    location: (Virtual)
+    focus-area: as
