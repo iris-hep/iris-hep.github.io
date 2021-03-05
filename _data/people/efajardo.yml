@@ -1,7 +1,8 @@
 name: Edgar Fajardo
 shortname: efajardo
 title: OSG Software Team Developer
-active: true
+active: false
+hidden: true
 institution: University of California, San Diego
 website:
 photo: /assets/images/team/Edgar-Fajardo.jpeg
@@ -106,4 +107,3 @@ presentations:
   meetingurl: https://indico.cern.ch/event/967159/
   focus-area: tpc
   projet: tpc
-
