@@ -6,6 +6,24 @@ institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 photo: /assets/images/team/Frank-Wuerthwein.jpg
 presentations:
+  - title: State of the OSG
+    date: 2021-03-01
+    url: https://indico.fnal.gov/event/47040/contributions/208345/attachments/140505/176605/stateOfOSG2021-final.pdf
+    meeting: OSG All-Hands Meeting 2021
+    meetingurl: https://indico.fnal.gov/event/47040/overview
+    focus-area: osglhc
+  - title: OSG as an agile computing environment
+    date: 2021-03-03
+    url: https://indico.fnal.gov/event/47040/contributions/208665/attachments/140609/176764/agileOSGMarch3rd2021.pdf
+    meeting: OSG All-Hands Meeting 2021
+    meetingurl: https://indico.fnal.gov/event/47040/overview
+    focus-area: osglhc
+  - title: OSG
+    date: 2021-03-04
+    url: https://indico.egi.eu/event/5429/contributions/15038/attachments/13725/16929/egiMarch4th2021.pdf
+    meeting: Cloud & HTC infrastructure integration workshop
+    meetingurl: https://indico.egi.eu/event/5429/
+    focus-area: osglhc
   - title: Introduction to OSG on Campuses
     date: 2020-09-01
     url: https://indico.fnal.gov/event/22127/contributions/195602/attachments/133834/165258/osg4campuses.pptx
