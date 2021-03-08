@@ -22,3 +22,6 @@ team:
 Tables are stored using [Apache Arrow](https://www.google.com/url?q=https%3A%2F%2Farrow.apache.org&sa=D&sntz=1&usg=AFQjCNGMQiLmoUtzjovAMPow7KvSIUXRYQ) (for column-based processing) serialization. The SkyhookDM client developed for HEP exposes the [Arrow Dataset API](https://arrow.apache.org/docs/python/dataset.html) with a new `FileFormat` class called `RadosParquetFileFormat`. This `FileFormat` extension is intended to become part of Apache Arrow. Other SkyhookDM clients include a foreign data wrapper for PostgreSQL as well as Python clients for SQL.
 
 SkyhookDM is currently an incubator project at the [Center for Research on Open Source Software](https://www.google.com/url?q=https%3A%2F%2Fcross.ucsc.edu&sa=D&sntz=1&usg=AFQjCNG9tcf5187Abp8gVmzsIgjonDWlFg) at the [University of California Santa Cruz](https://www.google.com/url?q=https%3A%2F%2Fwww.ucsc.edu&sa=D&sntz=1&usg=AFQjCNFSsD21RBpgkgvgSkWK8rIGoh5GbA).
+
+The Architecture of SkyhookDM v0.1.0 is given below -
+![SkyhookDM Architecture](/assets/images/skyhook-arch.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
