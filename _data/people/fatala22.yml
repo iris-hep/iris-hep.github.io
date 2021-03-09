@@ -6,6 +6,11 @@ institution: University of Puerto Rico at Mayaguez
 website: http://charma.uprm.edu/~malik/
 photo: /assets/images/team/Sudhir-Malik.png
 presentations:
+- title: "HSF: Training"
+    date: 2021-01-12
+    url: https://indico.jlab.org/event/420/contributions/7597/attachments/6352/8417/HSF_Training_SoftCompRoundTable_12Jan_2021.pdf
+    meeting: Software & Computing Round Table (2021) - Nuclear Physics
+    meetingurl: https://indico.jlab.org/event/420/
   - title: "Strategies and needs for training"
     date: 2019-11-21
     url: https://indico.cern.ch/event/813325/contributions/3603530/attachments/1949453/3235462/Training_FIRST-LAWSCEHP2019_Mexico.pdf
