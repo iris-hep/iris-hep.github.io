@@ -23,5 +23,10 @@ Tables are stored using [Apache Arrow](https://www.google.com/url?q=https%3A%2F%
 
 SkyhookDM is currently an incubator project at the [Center for Research on Open Source Software](https://www.google.com/url?q=https%3A%2F%2Fcross.ucsc.edu&sa=D&sntz=1&usg=AFQjCNG9tcf5187Abp8gVmzsIgjonDWlFg) at the [University of California Santa Cruz](https://www.google.com/url?q=https%3A%2F%2Fwww.ucsc.edu&sa=D&sntz=1&usg=AFQjCNFSsD21RBpgkgvgSkWK8rIGoh5GbA).
 
-The Architecture of SkyhookDM v0.1.0 is given below -
+## Architecture
 ![SkyhookDM Architecture](/assets/images/skyhook-arch.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
+
+
+## Announcements
+
+* February 21 - [SkyhookDM v0.1.0](https://github.com/uccross/arrow/releases/tag/v0.1.0) Released !
