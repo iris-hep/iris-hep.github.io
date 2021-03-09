@@ -377,13 +377,6 @@ presentations:
     meetingurl: http://www.ipam.ucla.edu/programs/workshops/deep-learning-and-combinatorial-optimization/?tab=overview
     location: Institute Pure and Applied Mathematics (IPAM) (virtual)
     focus-area: ia
-  - title:  Graph Deep Learning for Physics
-    date: 2021-03-25
-    url: https://alippi.faculty.polimi.it/index.html
-    meeting: Università della Svizzera
-    meetingurl: https://alippi.faculty.polimi.it/index.html
-    location: (Virtual) Università della Svizzera
-    focus-area: ia, as
   - title:  Machine Learning for Precision Measurements
     date: 2021-03-02
     url: https://indico.tlabs.ac.za/event/100/contributions/1727/
@@ -391,6 +384,20 @@ presentations:
     meetingurl: https://indico.tlabs.ac.za/event/100/overview
     location:  (Virtual)
     focus-area: as
+  - title:  Probalistic Machine Learning for the Physical Scienes
+    date: 2021-03-09
+    url: https://www.cs.ox.ac.uk/teaching/courses/2020-2021/advml/
+    meeting: Advanced Topics in Machine Learning Course
+    meetingurl: https://www.cs.ox.ac.uk/teaching/courses/2020-2021/advml/
+    location:  Oxford University
+    focus-area: as
+  - title:  Graph Deep Learning for Physics
+    date: 2021-03-25
+    url: https://alippi.faculty.polimi.it/index.html
+    meeting: Università della Svizzera
+    meetingurl: https://alippi.faculty.polimi.it/index.html
+    location: (Virtual) Università della Svizzera
+    focus-area: ia, as
   - title: Invited Keynote for AISTATS (TBD)
     date: 2021-04-02
     url: https://aistats.org/aistats2021/
