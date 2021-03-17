@@ -4,7 +4,7 @@ layout: fellow
 pagetype: fellow
 active: true
 fellow-name: Jayjeet Chakraborty
-shortname: jayjeet
+shortname: JayjeetAtGithub
 title: Jayjeet Chakraborty - IRIS-HEP Fellow
 dates:
 - start: 2020-06-01
