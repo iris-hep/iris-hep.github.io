@@ -56,7 +56,7 @@ exclude:
   - Rakefile
 
 sass:
-    sass_dir: _sass
+  sass_dir: _sass
 
 indico:
   url: https://indico.cern.ch
@@ -66,3 +66,10 @@ indico:
     blueprint: 11329
     sb: 10989
     ap: 11519
+
+inspire:
+  cache-dir: _cache
+  pub-dir: publications
+  authors:
+    min-len: 10
+    trunc-len: 1
