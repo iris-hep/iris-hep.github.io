@@ -25,6 +25,11 @@ module Publications
 
       @site = site
 
+      @min_len = @site.config.dig('inspire', 'authors', 'min-len') || 10
+      @trunc_len = @site.config.dig('inspire', 'authors', 'trunc-len') || 1
+      @cache_dir = @site.config.dig('inspire', 'cache-dir') || '_cache'
+      @pub_dir = @site.config.dig('inspire', 'pub-dir') || 'publications'
+
       @site.data['publications']&.each do |name, pub|
         prepare(pub, name)
 
@@ -110,14 +115,14 @@ module Publications
     end
 
     # Join the first N names, add et. all. if truncated
-    def join_names(names, len: 5)
+    def join_names(names)
       return names[0] if names.length == 1
 
-      mini = names[0...len].map(&:initials)
+      mini = names[0...@min_len].map(&:initials)
       truncated = names.length > mini.length
 
       if truncated
-        "#{mini.join(', ')} et. al."
+        "#{mini[0...@trunc_len].join(', ')} et. al."
       else
         "#{mini[0..-2].join(', ')} and #{mini[-1]}"
       end
@@ -158,7 +163,7 @@ module Publications
       pub['authors'] ||= authors
 
       # Build the author string
-      mini_authors = join_names(pub['authors'].map { |a| a['name'] }, len: 5)
+      mini_authors = join_names(pub['authors'].map { |a| a['name'] })
 
       # Build the citation string (non-author part)
       j = data.dig('publication_info', 0) # This may be nil
@@ -204,8 +209,8 @@ module Publications
     # Cache publications
     def caching(pub, name)
       source = Pathname @site.source
-      cache = source / '_cache'
-      cname = cache / 'publications' / "#{name}.yml"
+      cache = source / @cache_dir
+      cname = cache / @pub_dir / "#{name}.yml"
       plugin = source / '_plugins' / 'getpub.rb'
 
       if cname.exist? &&                 # Cache file must exist
