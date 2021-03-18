@@ -84,4 +84,4 @@ won the Young Physicist prize and was cited, amongst other things, for 'software
 The list of APS awards does not seem to have such an award. What is needed and recommended is not one award but a few number of them for
 software contributions and even software training recognition. These rewards will be a good way to keep the talent motivated.
 
-The material from the workshop is available online in an [Indico agenda](https://indico.cern.ch/event/930127/timetable/). 
+The material from the workshop is available online in an [Indico agenda](https://indico.cern.ch/event/930127/timetable/).

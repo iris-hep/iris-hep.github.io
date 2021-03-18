@@ -108,28 +108,28 @@ presentations:
     date: 2020-01-15
     url: https://indico.cern.ch/event/813757/contributions/3698520/attachments/1969584/3276449/Updates_on_OSG_WLCG_perfSONAR_Network_Monitoring_and_Analytics_2.pdf
     meeting: Grid Deployment Board
-    meetingurl: https://indico.cern.ch/event/813757/ 
+    meetingurl: https://indico.cern.ch/event/813757/
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
   - title: "LHCONE/LHCOPN Meeting Summary"
     date: 2020-01-15
     url: https://indico.cern.ch/event/813757/contributions/3698521/attachments/1969608/3276108/LHCOPNE-20200114-CERN-meeting-report-v1.0.pptx_1.pdf
     meeting: Grid Deployment Board
-    meetingurl: https://indico.cern.ch/event/813757/ 
+    meetingurl: https://indico.cern.ch/event/813757/
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
   - title: "OSG Network Monitoring (poster)"
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3331193/23_-_IRIS-HEP_LHC-OSG_Network_Monitoring.pdf
     meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/ 
+    meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, New Jersey, US
     focus-area: osglhc
   - title: "USATLAS: OSG/WLCG perfSONAR Network Monitoring and Analytics"
     date: 2020-04-01
     url: https://indico.cern.ch/event/895416/contributions/3775747/attachments/2013505/3364898/go
     meeting: USATLAS Facilities Meeting
-    meetingurl: https://indico.cern.ch/event/895416/ 
+    meetingurl: https://indico.cern.ch/event/895416/
     location: Zoom
     focus-area: osglhc
   - title: "New National Science Foundation International Research and education Network Connections Testbed Solicitation"
@@ -143,7 +143,7 @@ presentations:
     date: 2020-04-16
     url: https://drive.google.com/drive/u/0/folders/1Sp_m_9j1_x747B6CR0zhc2dM-JcoDvcz
     meeting: FABRIC Community Workshop
-    meetingurl: https://fabric-testbed.net/events/fabric-community-workshop-2020 
+    meetingurl: https://fabric-testbed.net/events/fabric-community-workshop-2020
     location: Zoom
     focus-area: osglhc
   - title: "Networking: Status and Discussion"

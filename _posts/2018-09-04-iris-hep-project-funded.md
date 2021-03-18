@@ -8,7 +8,7 @@ The National Science Foundation (NSF) has [launched](https://www.nsf.gov/news/ne
 for Research and Innovation in Software for High-Energy Physics
 (IRIS-HEP), a $25 million effort to tackle the unprecedented torrent
 of data that will come from the High-Luminosity Large Hadron Collider
-(HL-LHC), the world's most powerful particle accelerator. 
+(HL-LHC), the world's most powerful particle accelerator.
 <!--more-->
 
 IRIS-HEP will address key elements of the
@@ -16,7 +16,7 @@ IRIS-HEP will address key elements of the
 and will implement the ["Strategic Plan for a Scientific Software
 Innovation Institute (S2I2) for High Energy Physics"](https://arxiv.org/abs/1712.06592)
 submitted to the NSF in December 2017.
-These two documents represent, respectively, the outcome of international 
+These two documents represent, respectively, the outcome of international
 and U.S. HEP community planning processes; these were driven in part
 by the NSF-funded [S2I2-HEP Institute Conceptualization Project](http://s2i2-hep.org).
 Over the course of a dozen workshops during 2016 and 2017, more than 260

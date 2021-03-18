@@ -10,7 +10,7 @@ presentations:
     date: 2019-02-06
     url: https://indico.cern.ch/event/790759/contributions/3284632/attachments/1791853/2919742/2019-02-06_-_Steering_Board_Intro.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
-    meetingurl: https://indico.cern.ch/event/790759/ 
+    meetingurl: https://indico.cern.ch/event/790759/
     location: Vidyo
     focus-area: as
   - title: "LINQ To ROOT"
@@ -186,3 +186,24 @@ presentations:
     meeting: "The 2020 International Workshop on the High Energy Circular Electron Positron Collider"
     focus-area: management
     location: Virtual
+  - title: "IRIS-HEP: Analysis in the HL-LHC Era"
+    date: 2020-12-15
+    url: https://indico.cern.ch/event/975046/contributions/4115843
+    meetingurl: https://indico.cern.ch/event/975046
+    meeting: "WFM SW Technical Interchange Meeting"
+    focus-area: as
+    location: Virtual
+  - title: "Using Modern Computing to Get the Most out of the LHC"
+    date: 2021-02-18
+    url: https://indico.cern.ch/event/1010438/
+    meetingurl: https://indico.cern.ch/event/1010438/
+    meeting: "UW EPE Seminar"
+    focus-area: management
+    location: "University of Washington"
+  - title: "Computing in HEP for the HL-LHC"
+    date: 2021-02-25
+    url: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
+    meetingurl: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
+    meeting: "University of California, Santa Cruz, Physics Department Colloquia"
+    focus-area: management
+    location: "University of California, Santa Cruz"

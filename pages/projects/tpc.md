@@ -6,12 +6,11 @@ shortname: tpc
 pagetype: project
 image: logos/tpc.png
 blurb: Envisioning a new way to move LHC data
-focus-area: 
+focus-area:
  - doma
  - osglhc
 team:
  - bbockelm
- - efajardo
  - ddavila0
 ---
 
@@ -46,7 +45,7 @@ site to get more that 30% of its data using the HTTP protocol.
 For CMS, we have picked 2 sites: Nebraska and UCSD to be the ones leading the transition by
 using the 'davs' protocol for all their incoming production transfers from the many sites which
 can support such protocol.
- 
+
 <br>
 <div class="card" style="width: 40rem;">
   <img class="card-img-top" style="object-fit: contain"  src="/assets/images/gftp-vs-http.png" alt="GridFTP vs HTTP">
@@ -65,7 +64,7 @@ TPC Dashboards for Nebraska and UCSD can be found here:
  * [UCSD](https://monit-grafana.cern.ch/d/aDc1qQwZk/tpc-over-xrootd-at-ucsd?orgId=11)
 
 <br>
-On the ATLAS side, the transition has started to ramp up with 3 participating sites: 
+On the ATLAS side, the transition has started to ramp up with 3 participating sites:
 AGLT2, PragueLCG2 and SLAC.
 
 <br>

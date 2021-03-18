@@ -19,7 +19,7 @@ Tracking for the HL-LHC is an area in particular need of novel
 approaches, though the Institute will pursue other high-impact
 applications. The Institute will employ a wide range of strategies
 for the development of Innovative Algorithms.
-  
+
   **Contact us**: [ia-team@iris-hep.org](mailto:ia-team@iris-hep.org)
 
 
