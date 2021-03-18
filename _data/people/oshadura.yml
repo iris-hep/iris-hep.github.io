@@ -1,11 +1,17 @@
 name: Oksana Shadura
 shortname: oshadura
-title: DIANA/HEP collaborator
+title:
 active: true
 institution: University of Nebraska - Lincoln
 website: https://github.com/oshadura
-photo: /assets/images/team/Oksana-Shadura.JPG
+photo: /assets/images/team/Oksana-Shadura_.jpg
 presentations:
+- title: "Future analysis facilities"
+  date: 2021-02-03
+  url: https://indico.cern.ch/event/998431/contributions/4207282/attachments/2183405/3689404/CMS%20Analysis%20Facility%20-%20CMS%20Week.pdf
+  meeting: CMS Week
+  meetingurl: https://indico.cern.ch/event/941278/
+  location: Virtual
 - title: "U.S. CMS Managed Analysis Facilities"
   date: 2020-11-24
   url: https://indico.cern.ch/event/941278/contributions/4104696/attachments/2149035/3623381/U.S.%20CMS%20Managed%20Analysis%20Facilities-1.pdf

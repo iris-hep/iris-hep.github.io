@@ -60,7 +60,7 @@ bundle exec rake serve
 ```
 
 > Note: If prefixing everything with `bundle exec` bothers you, you can run `bundle --install binstubs`, then use `bin/*` to run commands. See [this page](https://github.com/rbenv/rbenv/wiki/Understanding-binstubs) for more info.
-> You can then add a folder `mkdir -p .git/safe`, and add the following to your `PATH`: `.git/safe/../../bin`. This will give you a per-folder controllable way to 
+> You can then add a folder `mkdir -p .git/safe`, and add the following to your `PATH`: `.git/safe/../../bin`. This will give you a per-folder controllable way to
 dd `./bin` to your path. Now, you can just use `rake` and other commands directly.
 
 This will incrementally rebuild if anything changes in your directory. Exit with Control-C. If you want to build the site including all basic link checks (this should pass on master):
@@ -106,6 +106,11 @@ bundle exec rake cache
 ```
 
 The InspireHEP access caching is automatic and is part of the normal Jekyll build.
+
+
+### Pre-commit
+
+This repository uses pre-commit to check and cleanup minor style issues. You can install pre-commit with `brew install pre-commit` (macOS)`, `pipx install pre-commit` if you are a pipx user (and you should be), or `pip install pre-commit`. Then run `pre-commit run -a` to check manually, or `pre-commit install` to check before every commit.
 
 ### Accessing Indico
 

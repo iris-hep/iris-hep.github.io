@@ -24,6 +24,9 @@ group :development do
 
   # Verify good coding practices in Ruby files
   gem 'rubocop', require: false
+
+  # Extension for Rake files
+  gem 'rubocop-rake', require: false
 end
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -32,6 +35,8 @@ gem 'minima', '~> 2.5'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.15'
+  gem 'jekyll-indico', '~> 0.2.0'
+  # gem 'jekyll-indico', github: 'iris-hep/jekyll-indico', branch: 'main'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

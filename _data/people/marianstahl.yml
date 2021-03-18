@@ -1,9 +1,9 @@
 name: Marian Stahl
 shortname: marianstahl
-title: 
+title:
 active: true
 institution: University of Cincinnati
-website: 
+website:
 photo: /assets/images/team/Marian_Stahl.jpg
 presentations:
   - title: LHCb HLT performance- and regression-tests A hybrid deep learning approach to vertexing

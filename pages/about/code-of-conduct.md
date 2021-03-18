@@ -38,7 +38,7 @@ media, social events associated with conferences and events, and one-to-one inte
 
 By embracing the following principles, guidelines and actions to follow or
 avoid, you will help us make IRIS-HEP a welcoming and productive community. Feel
-free to contact 
+free to contact
 [any member of the IRIS-HEP Executive Board](https://iris-hep.org/about/executive-board).
 
 1. **Be friendly and patient**.

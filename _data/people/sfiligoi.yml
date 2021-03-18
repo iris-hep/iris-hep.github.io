@@ -3,13 +3,13 @@ shortname: sfiligoi
 title: Lead Scientific Software Developer and Researcher
 active: true
 institution: University of California, San Diego
-website: 
+website:
 photo: /assets/images/team/Igor-Sfiligoi.jpg
 presentations:
   - title: "Data-intensive IceCube Cloud Burst"
     date: 2020-11-12
     url: https://www2.slideshare.net/igor_sfiligoi/dataintensive-icecube-cloud-burst
-    meeting: NRP Pilot weekly meeting 
+    meeting: NRP Pilot weekly meeting
     location: virtual, USA
   - title: "Unified Cyber Infrastructure with Kubernetes"
     date: 2020-11-09
