@@ -403,6 +403,7 @@ main {
     margin: 5px 0 10px 0;
     background-color: scale-color($iris-100, $lightness:60%);
     border-radius: 6px;
+    color: black;
 
     .date, .location {
       color: white;
