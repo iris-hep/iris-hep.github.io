@@ -17,25 +17,37 @@ Contact the mentors for more information about any of these projects!
 {% for project in sorted_fellow_projects  %}
 
   {% if project.open %}
-  {% capture full-proj %}{{ project.title }} : {{ project.description }}{% endcapture %}
-  <li style="margin-bottom: 10px;"> {{full-proj | markdownify |remove: '<p>' | remove: '</p>'}} (Contact(s):
-  {% for contact in project.contacts %}
+    {% capture full-proj %}{{ project.title }}: {{ project.description }}{% endcapture %}
+    <li style="margin-bottom: 10px;"> {{full-proj | markdownify | remove: '<p>' | remove: '</p>'}}
+    (Contact(s):
+    {% for contact in project.contacts %}
+      {% assign written = false %}
       {% if contact contains "@" %}
-      <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a>
-      {% else %}
-      {% for person_hash in site.data.people -%}
-      {% assign person = person_hash[1] -%}
-      {% if person.shortname == contact %}
-         {% if person.e-mail %}
-             <a href="mailto:{{person.e-mail}}"> <em>{{person.name}}</em> </a>
-         {% endif %}
+        {% unless contact contains " " %}
+          <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a>
+          {% assign written = true %}
+        {% endunless %}
       {% endif %}
-      {% endfor %}
-      {% endif %}
-  {% endfor %}
-) </li>
+      {% unless written %}
+        {% for person_hash in site.data.people -%}
+          {% assign person = person_hash[1] -%}
+          {% if person.shortname == contact %}
+            {% if person.e-mail %}
+              <a href="mailto:{{person.e-mail}}"> <em>{{person.name}}</em> </a>
+              {% assign written = true %}
+            {% else %}
+              <em>{{person.name}}</em>
+              {% assign written = true %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% unless written %}
+          <em>{{ contact }}</em>
+        {% endunless %}
+      {% endunless %}
+    {% endfor %}
+    ) </li>
   {% endif %}
 {% endfor %}
-
 </ul>
 
