@@ -22,13 +22,11 @@ Contact the mentors for more information about any of these projects!
     (Contact(s):
     {% for contact in project.contacts %}
       {% assign written = false %}
-      {% if contact contains "@" %}
-        {% unless contact contains " " %}
-          <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a>
-          {% assign written = true %}
-        {% endunless %}
-      {% endif %}
-      {% unless written %}
+      {% if contact contains "](" %}
+      {% elsif contact contains "@" %}
+        <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a>
+        {% assign written = true %}
+      {% else %}
         {% for person_hash in site.data.people -%}
           {% assign person = person_hash[1] -%}
           {% if person.shortname == contact %}
@@ -41,9 +39,9 @@ Contact the mentors for more information about any of these projects!
             {% endif %}
           {% endif %}
         {% endfor %}
-        {% unless written %}
-          <em>{{ contact }}</em>
-        {% endunless %}
+      {% endif %}
+      {% unless written %}
+        <em>{{ contact | markdownify | remove: '<p>' | remove: '</p>' }}</em>
       {% endunless %}
     {% endfor %}
     ) </li>
