@@ -40,7 +40,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-indico (0.2.0)
+    jekyll-indico (0.3.0)
       jekyll (>= 3.8, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -116,7 +116,7 @@ DEPENDENCIES
   html-proofer
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.15)
-  jekyll-indico (~> 0.2.0)
+  jekyll-indico (~> 0.3.0)
   kramdown-parser-gfm
   minima (~> 2.5)
   pkg-config (~> 1.1)
