@@ -17,7 +17,7 @@ Contact the mentors for more information about any of these projects!
 {% for project in sorted_fellow_projects  %}
 
   {% if project.open %}
-    {% capture full-proj %}{{ project.title }}: {{ project.description }}{% endcapture %}
+    {% capture full-proj %}**{{ project.title }}**: {{ project.description }}{% endcapture %}
     <li style="margin-bottom: 10px;"> {{full-proj | markdownify | remove: '<p>' | remove: '</p>'}}
     (Contact(s):
     {% for contact in project.contacts %}
