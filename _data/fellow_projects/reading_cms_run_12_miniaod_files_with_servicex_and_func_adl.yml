@@ -11,4 +11,4 @@ description: >
   binary format, xAOD. The backend is written in python. This project will modify
   the C++ backend to also run on CMS mini-AOD binary files (Run 1/Run 2).
 contacts:
-- fellows@iris-hep.org
+- gordonwatts
