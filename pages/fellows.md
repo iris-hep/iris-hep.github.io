@@ -9,7 +9,7 @@ title: IRIS/HEP Fellows Program
 **We are now accepting Fellow proposals/applications for Summer 2021. The deadline for application is 18 April 2021.**
 
   People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
-  In order to accomplish these goals, IRIS-HEP has created a Fellow program.
+  To accomplish these goals, IRIS-HEP has created a Fellows program.
 IRIS-HEP Fellows will spend some number of months working closely with a
 mentor on an R&D topic relevant to the Institute.
 
