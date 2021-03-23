@@ -8,7 +8,7 @@ title: Open IRIS-HEP fellow projects
 </center>
 
 <br>
-This page lists a number of known software R&D projects of interest 
+This page lists a number of known software R&D projects of interest
 to IRIS-HEP researchers. (This page will be updated from time to time,
 so check back and reload to see if new projects have been added.)
 Contact the mentors for more information about any of these projects!
