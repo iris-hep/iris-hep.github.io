@@ -11,7 +11,7 @@ title: IRIS/HEP Fellows Program
   People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
   In order to accomplish these goals, IRIS-HEP has created a Fellow program.
 IRIS-HEP Fellows will spend some number of months working closely with a
-mentor on an R&D topic relevant to the Institute. 
+mentor on an R&D topic relevant to the Institute.
 
 **Which R&D areas are of interest to IRIS-HEP?** - We are particulary interested in software R&D areas where IRIS-HEP personnel are active, but may also consider proposals for other software R&D topics of larger relevance to the HEP community. The IRIS-HEP activities include:
 
@@ -26,7 +26,7 @@ mentor on an R&D topic relevant to the Institute.
 (Click through the links above to see the specific projects on which we are working.)
 It is *not* required that the mentors are IRIS-HEP team members, or that
 a specific project be one for which IRIS-HEP personnel are active. Any
-appropriate mentor from the larger community working generically in one of 
+appropriate mentor from the larger community working generically in one of
 these areas can be part of the program.
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
@@ -44,7 +44,7 @@ Two types of IRIS-HEP Fellows are possible:
 Due to COVID-19 restrictions, no travel or subsistence payments can currently be paid to support co-location of either Undergraduate or Graduate Fellows with mentors. Fellows will in general work remotely at a distance with their mentors, unless they happen to be at the same institution.
 -->
 
-Currently IRIS-HEP Fellows are possible only for undergraduate students and 
+Currently IRIS-HEP Fellows are possible only for undergraduate students and
 graduate students that do not have a research assistantship (e.g. Masters students).
 Due to COVID-19 restrictions, no travel or subsistence payments can currently be paid to support co-location of either Fellows with mentors. Fellows will in general work remotely at a distance with their mentors, unless they happen to be at the same institution. Applicant students should be associated with a US university.
 
@@ -52,7 +52,7 @@ Due to COVID-19 restrictions, no travel or subsistence payments can currently be
 **Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month. As full time research software activities are not consistent with taking classes during the academic year (as opposed to summer), most fellows will work a smaller time fraction over a larger number of calendar months. (For example, half-time for 6 months.) Applicants should include a proposed time profile for their activities in their proposal, as well as note their academic course load and/or any other activities taking significant time.
 -->
 
-**Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month during Summer 2021. 
+**Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month during Summer 2021.
 
 
 **Projects:** Research software projects should in general be in the R&D areas listed above or (in some cases) be projects of more general interest to the HEP community. How do you find a project? There are several possibilities:
