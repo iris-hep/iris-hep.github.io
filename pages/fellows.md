@@ -26,7 +26,7 @@ mentor on an R&D topic relevant to the Institute.
 (Click through the links above to see the specific projects on which we are working.)
 It is *not* required that the mentors are IRIS-HEP team members, or that
 a specific project be one for which IRIS-HEP personnel are active. Any
-appropriate mentor from the larger community working in one of 
+appropriate mentor from the larger community working in one of
 these areas can be part of the program.
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
@@ -44,7 +44,7 @@ Two types of IRIS-HEP Fellows are possible:
 Due to COVID-19 restrictions, no travel or relocation subsistence costs can currently be paid to support co-location of either Undergraduate or Graduate Fellows with mentors. Fellows will in general work remotely at a distance with their mentors, unless they happen to be at the same institution.
 -->
 
-For Summer 2021 we are happy to accept proposals for IRIS-HEP Fellows from undergraduate students and 
+For Summer 2021 we are happy to accept proposals for IRIS-HEP Fellows from undergraduate students and
 graduate students that do not have a research assistantship (e.g. Masters students).
 Due to COVID-19 restrictions, no travel or relocation subsistence costs can currently be paid to support co-location of either Fellows with mentors. Fellows will in general work remotely at a distance with their mentors, unless they happen to be at the same institution. Applicant students should be associated with a US university.
 
@@ -64,8 +64,8 @@ Due to COVID-19 restrictions, no travel or relocation subsistence costs can curr
   * Some additional projects for Summer 2021 are listed on the [DIANA/HEP Fellows webpage](http://diana-hep.org/pages/fellows.html)
   * You can explore the links above to the IRIS-HEP R&D research activities. Most IRIS-HEP active projects list contacts with whom you can discuss to bring your own ideas.
 
-Prospective fellows are encouraged to **contact specific mentors** listed on the project pages above. 
-If you have a idea for a project which excites you, but do not find similar examples or are not sure which mentor to contact, please do not hesitate to contact the IRIS-HEP fellows@iris-hep.org mailing list. The lists above are not exhaustive. We will help you link up with possible mentor candidates! 
+Prospective fellows are encouraged to **contact specific mentors** listed on the project pages above.
+If you have a idea for a project which excites you, but do not find similar examples or are not sure which mentor to contact, please do not hesitate to contact the IRIS-HEP fellows@iris-hep.org mailing list. The lists above are not exhaustive. We will help you link up with possible mentor candidates!
 
 Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing:
 
