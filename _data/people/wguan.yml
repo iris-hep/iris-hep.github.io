@@ -83,3 +83,10 @@ presentations:
     url: https://indico.cern.ch/event/998138/contributions/4197626/attachments/2179034/3680483/iDDS_ws%26c_20200127-2.pdf
     focus-area: doma
     project: idds
+  - title: "intelligent Data Delivery Service"
+    date: 2021-03-29
+    meeting: HL-LHC R&D topics
+    meetingurl: https://indico.cern.ch/event/1006816/
+    url: https://indico.cern.ch/event/1006816/contributions/4226051/attachments/2217725/3754939/iDDS_iris_hep_20210329-2.pdf
+    focus-area: doma
+    project: idds
