@@ -61,7 +61,7 @@ Due to COVID-19 restrictions, no travel or relocation subsistence costs can curr
   * Examples of currently open IRIS-HEP Fellow projects can be found **[on a separate webpage](/fellow_projects.html)**. These projects are of interest to IRIS-HEP researchers (who may then act as mentors). You can write to the mentor listed to discuss or reach out to fellows@iris-hep.org for more information. *This page may be updated from time to time, so check back and reload.*
   * Additional example projects of interest in the wider HEP community can also be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are related to the R&D areas listed above.
   * Recent Fellows and links to descriptions of their projects can be found below in the list of current and past Fellows. In some cases, there may be continuations of those projects.
-  * Some additional projects for Summer 2021 are listed on the [DIANA/HEP Fellows webpage](http://diana-hep.org/pages/fellows.html)
+  * Some additional projects for Summer 2021 are listed on the [DIANA/HEP Fellows webpage](http://diana-hep.org/pages/fellows.html) and on the open projects page of the [Compiler Research](https://compiler-research.org/open_projects) project
   * You can explore the links above to the IRIS-HEP R&D research activities. Most IRIS-HEP active projects list contacts with whom you can discuss to bring your own ideas.
 
 Prospective fellows are encouraged to **contact specific mentors** listed on the project pages above.
