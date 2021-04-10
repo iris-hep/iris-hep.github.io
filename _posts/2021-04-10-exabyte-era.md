@@ -7,7 +7,7 @@ postimage-whole: true
 postimage-caption: |
     Oksana Shadura, a software developer at University of Nebraska-Lincoln based at CERN, Switzerland, is creating an interactive analysis facility for the high-energy physics community. Working with IRIS-HEP’s Data Organization, Management and Access team (DOMA@IRIS-HEP), Dr. Shadura helps physicists work with the wider Python ecosystem and other novel programming paradigms. Credit: CERN
 summary: |
-    As the high-energy physics community prepares for the High-Luminosity LHC, it opens its doors to the exabyte era.
+    As the high-energy physics community prepares for the High-Luminosity LHC, new data science challenges await.
 ---
 
 The world's biggest machine is getting a hardware upgrade. With it comes a historic transformation in data science.
