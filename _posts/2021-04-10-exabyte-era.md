@@ -7,7 +7,7 @@ postimage-whole: true
 postimage-caption: |
     Oksana Shadura, a software developer at University of Nebraska-Lincoln based at CERN, Switzerland, is creating an interactive analysis facility for the high-energy physics community. Working with IRIS-HEP’s Data Organization, Management and Access team (DOMA@IRIS-HEP), Dr. Shadura helps physicists work with the wider Python ecosystem and other novel programming paradigms. Credit: CERN
 summary: |
-    High-energy physics opens its doors to the exabyte era
+    As the high-energy physics community prepares for the High-Luminosity LHC, it opens its doors to the exabyte era.
 ---
 
 The world's biggest machine is getting a hardware upgrade. With it comes a historic transformation in data science.
@@ -44,6 +44,11 @@ Since the 1950s, however, physicists and computer scientists haven’t communica
 
 “There were great ideas in database theory that were largely unrecognized by physicists and data access and analysis techniques that weren't even widely known outside of physics," he says. "We had this insular community that neither imported nor exported."
 
+{% include figure.html
+   file="/assets/images/posts/20210410-Jim-Pivarski-CoDaS-HEP.jpg"
+   alt="Jim Pivarski at the CoDaS-HEP summer school at Princeton, 2019."
+   caption="Jim Pivarski leading a hands-on tutorial at the CoDaS-HEP school at Princeton. Python, awkward arrays, and interactive analysis were major topics.  Photo credit: Ma. Florevel Fusin-Wischusen, Princeton Institute for Computational Science & Engineering." %}
+
 # A “grassroots change”
 
 But the period between CERN's approval of the LHC's construction in 1994 and the end of its first operational run in 2013 marked a societal sea-change in data usage. Billions of people went online. Cloud computing revolutionized storage and processing. Tech companies amassed colossal datasets, fueling the growth of machine learning algorithms and sophisticated analytics engines like Apache Spark. Other scientific fields, particularly astronomy, genomics, and Earth sciences, also began pushing the boundaries of data analysis. By the time CERN scientists announced the discovery of the Higgs boson in 2012, it was clear that high-energy physicists weren't the only ones thinking about exabytes. 
@@ -57,11 +62,6 @@ Part of the shift from to Python, says Shadura, is its versatility. "Not all stu
 Shadura says that having a vibrant Python-based ecosystem, one that includes popular packages like NumPy, Pandas, scikit-learn, and the data science web app Jupyter Notebooks, creates conduits between particle physics and other fields. "There is a huge flow between people going from industry to academy and from academy to industry," she says. "And this flow is creating a kind of synergy."
 
 
-{% include figure.html
-   file="/assets/images/posts/20210410-Jim-Pivarski-CoDaS-HEP.jpg"
-   alt="Jim Pivarski at the CoDaS-HEP summer school at Princeton, 2019."
-   caption="Jim Pivarski leading a hands-on tutorial at the CoDaS-HEP school at Princeton. Python, awkward arrays, and interactive analysis were major topics.  Photo credit: Ma. Florevel Fusin-Wischusen, Princeton Institute for Computational Science & Engineering." %}
-
 # An awkward fit
 
 "I'm hoping that it will be a two way street," he says.
@@ -73,7 +73,7 @@ As a result, arrays describing a series of collisions are "ragged," with columns
 In 2018, Pivarksi and his colleagues developed a [software library](https://awkward-array.org/quickstart.html) for handling these awkward arrays in NumPy, Python's numerical computing package. 
 
 {% include figure.html
-   file="/assets/images/posts/g20210410-software-trends-pivarski.png"
+   file="assets/images/posts/20210410-software-trends-pivarski.png"
    alt="Trends for software tools on the CMS experiment, 2020."
    caption="An analysis of the software development site Github by Princeton computational physicist and IRIS-HEP team member Jim Pivarski tracked the usage of software tools among physicists working on the Compact Muon Solenoid (CMS) experiment.  He found that the programming languages C and C++ declined in popularity relative to the platform-independent, open-source tools Python and Jupyter Notebook. Credit: Jim Pivarski" %}
 
