@@ -57,7 +57,7 @@ Since then, the high-energy physics community has been opening its doors to alte
 
 "It's a bottom-up, grassroots change," says Pivarski. "The people who are doing the analysis are just starting to use Python on their own."
 
-Part of the shift from to Python, says Shadura, is its versatility. "Not all students and not all postdocs stay in physics," she says. “In addition to data-analyst skills, they need to have something on their CV that they can more easily transfer to industry." 
+Part of the shift to Python, says Shadura, is its versatility. "Not all students and not all postdocs stay in physics," she says. “In addition to data-analyst skills, they need to have something on their CV that they can more easily transfer to industry." 
 
 Shadura says that having a vibrant Python-based ecosystem, one that includes popular packages like NumPy, Pandas, scikit-learn, and the data science web app Jupyter Notebooks, creates conduits between particle physics and other fields. "There is a huge flow between people going from industry to academy and from academy to industry," she says. "And this flow is creating a kind of synergy."
 
