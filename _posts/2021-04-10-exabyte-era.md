@@ -20,7 +20,7 @@ More proton collisions mean more data. The HL-LHC's two general-purpose detector
 
 An exabyte – one quintillion bytes – is enormous. It's roughly the amount of data in 200 billion plaintext copies of the complete works of William Shakespeare, five trillion [xkcd](https://xkcd.com/1437/) comics, or a Zoom meeting that lasts 100,000 years. If you were to begin stacking an exabyte worth of CDs, you would risk a collision with International Space Station before you were a quarter of the way through. 
 
-"This is an order of magnitude bigger than the data challenges we've faced in the past," says Allison Hall, a Distinguished Researcher at the Fermi National Accelerator Laboratory's [LHC Physics Center](https://lpc.fnal.gov/index.shtml). "We don't want our computing capabilities to be the limiting factor for the scientific results."
+"This is an order of magnitude bigger than the data challenges we've faced in the past," says [Allison Hall](https://lpc.fnal.gov/fellows/2021/Allison_Hall.shtml), a Distinguished Researcher at the Fermi National Accelerator Laboratory's [LHC Physics Center](https://lpc.fnal.gov/index.shtml). "We don't want our computing capabilities to be the limiting factor for the scientific results."
 
 Meeting this challenge calls for a social transformation within the high-energy physics community, which has long developed its data-analysis tools and infrastructure in isolation. This transformation is already underway, as the emergence of large datasets and approaches to handling them in other communities means that high-energy physics no longer has to go it alone.
 
