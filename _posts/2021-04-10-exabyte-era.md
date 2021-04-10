@@ -73,7 +73,7 @@ As a result, arrays describing a series of collisions are "ragged," with columns
 In 2018, Pivarksi and his colleagues developed a [software library](https://awkward-array.org/quickstart.html) for handling these awkward arrays in NumPy, Python's numerical computing package. 
 
 {% include figure.html
-   file="assets/images/posts/20210410-software-trends-pivarski.png"
+   file="/assets/images/posts/20210410-software-trends-pivarski.png"
    alt="Trends for software tools on the CMS experiment, 2020."
    caption="An analysis of the software development site Github by Princeton computational physicist and IRIS-HEP team member Jim Pivarski tracked the usage of software tools among physicists working on the Compact Muon Solenoid (CMS) experiment.  He found that the programming languages C and C++ declined in popularity relative to the platform-independent, open-source tools Python and Jupyter Notebook. Credit: Jim Pivarski" %}
 
