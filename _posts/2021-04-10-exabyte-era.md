@@ -26,9 +26,9 @@ Meeting this challenge calls for a social transformation within the high-energy 
 
 "As scientists, it's important to learn from the examples of other people," says Oksana Shadura, a software engineer at University of Nebraska-Lincoln based at CERN and a member of the [Institute for Research and Innovation in Software for High Energy Physics](https://iris-hep.org) (IRIS-HEP), which includes researchers from 17 institutions across the United States. "We cannot just close ourselves off to the world."
 
-Funded by the National Science Foundation and headquartered in the [Princeton Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu/about/people/iris-hep-software-institute) at Princeton University, IRIS-HEP aims to serve as an intellectual hub for this transformation. 
+Funded by the National Science Foundation and headquartered in the [Princeton Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu/about/people/iris-hep-software-institute) at Princeton University, IRIS-HEP aims to serve as an intellectual hub for this transformation.
 
-[Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer), IRIS-HEP's executive director and principal investigator, hopes that the institute's efforts to develop new ways to manage and analyze data will extend beyond high-energy physics to "transform how the data science community works." 
+[Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer), IRIS-HEP's executive director and principal investigator, hopes that the institute's efforts to develop new ways to manage and analyze data will extend beyond high-energy physics to "transform how the data science community works."
 
 "What ties us together is methodology," he says.
 
