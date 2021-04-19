@@ -396,7 +396,7 @@ presentations:
     date: 2021-03-25
     url: https://www.youtube.com/watch?v=FjShuSoWZks
     meeting: Università della Svizzera
-    meetingurl: https://www.usi.ch/en/feeds/15796 
+    meetingurl: https://www.usi.ch/en/feeds/15796
     location: (Virtual) Università della Svizzera
     focus-area: ia, as
   - title: "Invited Keynote for AISTATS: Simulation-Based Inference"
@@ -409,7 +409,7 @@ presentations:
   - title: An AI revolution in science? Using machine learning for scientific discovery
     date: 2021-04-26
     url: https://www.cst.cam.ac.uk/news/ai-revolution-science-using-machine-learning-scientific-discovery
-    meeting: University of Cambridge Accelerate Programme for Scientific Discovery 
+    meeting: University of Cambridge Accelerate Programme for Scientific Discovery
     meetingurl: https://www.cst.cam.ac.uk/news/ai-revolution-science-using-machine-learning-scientific-discovery
     location: (Virtual)
     focus-area: as, ia
