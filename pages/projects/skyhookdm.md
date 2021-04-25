@@ -26,9 +26,14 @@ We extended the [Arrow Dataset API](https://arrow.apache.org/docs/python/dataset
 SkyhookDM is currently an incubator project at the [Center for Research on Open Source Software](https://www.google.com/url?q=https%3A%2F%2Fcross.ucsc.edu&sa=D&sntz=1&usg=AFQjCNG9tcf5187Abp8gVmzsIgjonDWlFg) at the [University of California Santa Cruz](https://www.google.com/url?q=https%3A%2F%2Fwww.ucsc.edu&sa=D&sntz=1&usg=AFQjCNFSsD21RBpgkgvgSkWK8rIGoh5GbA).
 
 ## Architecture
-![SkyhookDM Architecture](/assets/images/skyhook-arch.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
+![SkyhookDM Architecture](/assets/images/iris-hep-skyhook.png){:style="display:block; margin-left: auto; margin-right: auto; width: 85%"}
+
+# Performance
+
+SkyhookDM offloads CPU from the Client to the Storage layer and results in better parallelism and scalability.
 
 ## Announcements
-
+* March, 2021 - [SkyhookDM v0.1.1](https://github.com/uccross/arrow/releases/tag/v0.1.1) Released !
 * February, 2021 - [SkyhookDM v0.1.0](https://github.com/uccross/arrow/releases/tag/v0.1.0) Released !
 * February, 2021 - [Guide](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/adapters/arrow-rados-cls/README.md) for getting started with SkyhookDM.
+
