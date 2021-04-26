@@ -24,7 +24,7 @@ team:
 SkyhookDM is currently an incubator project at the [Center for Research on Open Source Software](https://cross.ucsc.edu) at the [University of California Santa Cruz](https://ucsc.edu).
 
 ## Architecture
-![SkyhookDM Architecture](/assets/images/iris-hep-skyhook.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
+![SkyhookDM Architecture](/assets/images/skyhook-arch-full.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 On the storage layer, we extend the Ceph Object Store with plugins built using the Object Class SDK to allow scanning objects containing Parquet data inside the Ceph OSDs. We utilize the Apache Arrow framework for building the data processing logic in the plugins. On the client side, we extend CephFS with a [DirectObjectAccess](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/dataset/file_rados_parquet.h#L98) API that allows invoking Object Class methods on RADOS objects to perform query operations. We export our implementation by creating a new [FileFormat](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/dataset/file_base.h#L120) in Apache Arrow called [RadosParquetFileFormat](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/dataset/file_rados_parquet.cc#L77) that uses the DirectObjectAcess API to offload Parquet file scanning to the storage layer.
 
@@ -32,7 +32,6 @@ On the storage layer, we extend the Ceph Object Store with plugins built using t
 Here we compare the query latencies of scanning a 1.2 billion row dataset via Parquet and RadosParquet file formats. As we see from the plot below, Parquet performance doesn't improve on scaling out from 4 to 16 nodes as it stays bottlenecked on the client's CPUs. On the other hand, performance of RadosParquet improves as it can distibute CPU consumption amongst the storage nodes and can scale out almost linearly.
 
 ![performance](/assets/images/skyhook-latency.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
-
 
 # Important Links
 * [Github repository](https://github.com/uccross/arrow).
