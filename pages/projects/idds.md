@@ -32,3 +32,17 @@ event delivery group.
 
 ## Architecture
 ![iDDS Architecture](/assets/images/idds_architecture.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
+
+## Use Cases
+
+ * ATLAS Data Carousel(In production since May of 2020)
+
+    It Solved the issues with the delayed start of processing data on tape
+
+ * HPO (Hyper Parameter Optimization)
+
+    It is to provide a fully-automated platform for hyper-parameter optimization on top of geographically distributed GPU resources on the grid, HPC, and clouds. It is advertised to ATLAS ML users, not specific to ATLAS. For ATLAS, it is actively used for FastCaloGAN, ToyMC and so on.
+
+ * DAG based workflow management
+
+   It is a high-level workflows specified by DAGs driving workload scheduling, with cascade management of chains for multi-step processing with thousands of jobs per step. It is using new DOMA PanDA instance for Rubin Observatory (LSST) exercise, which improving the workflow by releasing jobs incrementally for different steps to avoid long waiting. It successfully scaled with 50K DAG jobs, scaling to test 150K DAG jobs.
