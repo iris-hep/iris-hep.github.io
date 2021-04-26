@@ -10,6 +10,7 @@ focus-area: doma
 team:
  - bbockelm
  - BenGalewsky
+ - wguan
 ---
 
 If HL-LHC is going to process exabytes of data, it needs data access systems
@@ -29,3 +30,5 @@ The IDDS work is an ongoing project within IRIS-HEP in the DOMA and
 Analysis Systems area, as well as within the HEP Software Foundation
 event delivery group.
 
+## Architecture
+![iDDS Architecture](/assets/images/idds_architecture.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
