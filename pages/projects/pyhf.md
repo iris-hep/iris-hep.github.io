@@ -60,6 +60,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- Andrei Angelescu, Damir Bečirević, Darius A. Faroughy, Florentin Jaffredo, and Olcyr Sumensari. On the single leptoquark solutions to the $B$-physics anomalies. 3 2021. arXiv:2103.12504.
 - Rodolfo Capdevilla, Federico Meloni, Rosa Simoniello, and Jose Zurita. Hunting wino and higgsino dark matter at the muon collider with disappearing tracks. Feb 2021. [arXiv:2102.11292](https://arxiv.org/abs/2102.11292).
 - Vincenzo Cirigliano, Kaori Fuyuto, Christopher Lee, Emanuele Mereghetti, and Bin Yan. Charged Lepton Flavor Violation at the EIC. Feb 2021. [arXiv:2102.06176](https://arxiv.org/abs/2102.06176).
 - Jack Y. Araz and others. Proceedings of the second MadAnalysis 5 workshop on LHC recasting in Korea. _Mod. Phys. Lett. A_, 36(01):2102001, 2021. [arXiv:2101.02245](https://arxiv.org/abs/2101.02245), [doi:10.1142/S0217732321020016](https://doi.org/10.1142/S0217732321020016).
