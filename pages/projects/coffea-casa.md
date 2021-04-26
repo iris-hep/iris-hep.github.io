@@ -18,10 +18,30 @@ team:
  - John Thiltges
  - Matous Adamec
  - zche
- - FNAL team
 ---
 
+### About coffea-casa
+
 `coffea-casa` is a prototype of analysis facility, which provides services for “low latency columnar analysis”, enabling rapid processing of data in a column-wise fashion. These services, based on Dask and Jupyter notebooks, aim to dramatically lower time for analysis and provide an easily-scalable and user-friendly computational environment that will simplify, facilitate, and accelerate the delivery of HEP results. The facility is built on top of a Kubernetes cluster and integrates dedicated resources with resources allocated via fairshare through the local HTCondor system. In addition to the user-facing interfaces such as Dask, the facility also manages access control through single-sign-on and authentication & authorization for data access. 
+
+<br>
+<div class="card" style="width: 40rem;">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/coffea-casa-0.png" alt="coffea-casa AF">
+  <div class="card-body">
+   <h5 class="card-title">Generic design schema of coffea-casa analysis facility </h5>
+  </div>
+</div>
+
+<br>
+<div class="card" style="width: 40rem;">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/coffea-casa-1.png" alt="coffea-casa AF">
+  <div class="card-body">
+   <h5 class="card-title">Coffea-casa Jupyterlab interface with Dask Labextention powered cluster</h5>
+  </div>
+</div>
+
+
+### Coffea-casa repositories and related resources
 
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/CoffeaTeam/coffea-casa/)
 ![GitHub issues](https://img.shields.io/github/issues/coffeateam/coffea-casa)
@@ -45,12 +65,10 @@ team:
 [![Docker Pulls for coffea-casa](https://img.shields.io/docker/pulls/coffeateam/coffea-casa.svg)](https://hub.docker.com/r/coffeateam/coffea-casa)
 [![Docker Pulls for coffea-casa (worker image)](https://img.shields.io/docker/pulls/coffeateam/coffea-casa-analysis.svg)](https://hub.docker.com/r/coffeateam/coffea-casa-analysis)
 
-### Repositories
-
 The code, Helm charts and Docker images could be found in the corresponding repositories (for access to coffea-casa-config.git please request access to `coffea-casa` team):
 
  * [github.com/CoffeaTeam/coffea-casa](https://github.com/CoffeaTeam/coffea-casa)
- * [github.com/CoffeaTeam/coffea-casa-config](https://github.com/CoffeaTeam/coffea-casa)
+ * [github.com/CoffeaTeam/coffea-casa-config](https://github.com/CoffeaTeam/coffea-casa-config)
 
 
 ### Recent Talks and Tutorials
@@ -61,9 +79,3 @@ The code, Helm charts and Docker images could be found in the corresponding repo
 * The coffea-casa tutorial at [PyHEP 2020](https://indico.cern.ch/event/882824/):
 <!-- http://www.get-youtube-thumbnail.com/ -->
 [![PyHEP 2020 talk YouTube](http://i3.ytimg.com/vi/oPl0t8J36-Q/hqdefault.jpg)](https://www.youtube.com/watch?v=oPl0t8J36-Q)
-
-
-### Publications
-
-* Coffea-casa: an analysis facility prototype, M. Adamec, G. Attebury, K. Bloom, B. Bockelman, C. Lundstedt, O. Shadura and J. Thiltges, arXiv ![2103.01871](https://arxiv.org/abs/2103.01871) (02 Mar 2021).
-* PyHEP 2020 coffea-casa proceedings: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4136273.svg)](https://doi.org/10.5281/zenodo.4136273)
