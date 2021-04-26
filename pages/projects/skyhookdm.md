@@ -23,6 +23,20 @@ team:
 
 SkyhookDM is currently an incubator project at the [Center for Research on Open Source Software](https://cross.ucsc.edu) at the [University of California Santa Cruz](https://ucsc.edu).
 
+## Salient Features
+
+* Enables pushing down filters, projections, compute operations to the Storage backend for minimal data transfer over the network and linear scalability.
+
+* Allows storing data in Parquet files for minimizing Disk I/O though predicate and projection pushdown.
+
+* Allows writing files to a POSIX filesystem interface.
+
+* Minimal deployment overhead either via Rook or Ceph-Deploy.
+
+* Plugs-in seamlessly into the Arrow Dataset API and leverages all its functionality like dataset discovering, partition pruning, etc.
+
+* Built on top of latest Ceph v15.2.x.
+
 ## Architecture
 ![SkyhookDM Architecture](/assets/images/skyhook-arch-full.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
