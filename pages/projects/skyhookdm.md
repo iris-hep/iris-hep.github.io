@@ -53,7 +53,7 @@ The above two plots shows how Parquet (top) stays bottlenecked on the client CPU
 
 # Ongoing Work
 
-* Integrate SkyhookDM with Coffea and offload Nanoevents processing to the storage layer for faster anaylysis.
+* Integrate SkyhookDM with Coffea and offload Nanoevents processing to the storage layer for faster analysis.
 ![skyhook-coffea](/assets/images/skyhook-coffea.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 * A middleware to allow writing Parquet files containing Nanoevents from ServiceX to SkyhookDM via CephFS.
