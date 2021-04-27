@@ -47,14 +47,14 @@ On the storage layer, we extend the Ceph Object Store with plugins built using t
 
 We compare the query latencies of filtering a 1.2 billion row dataset via Parquet and RadosParquet file formats with 1%, 10%, and 100% row selectivities. As shown in the above plot, Parquet performance doesn't improve on scaling out from 4 to 16 nodes as it stays bottlenecked on the client's CPUs. On the other hand, performance of RadosParquet improves as it can distibute CPU consumption amongst the storage nodes and can scale out almost linearly.
 
-![client](/assets/images/skyhook_client_cpu.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
-![storage](/assets/images/skyhook_storage_cpu.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
+![client](/assets/images/skyhook-grafana.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 The above two plots shows how Parquet (top) stays bottlenecked on the client CPU while Rados Parquet (bottom) distributes CPU usage between the storage nodes and allows scale out.
 
 # Ongoing Work
 
 * Integrate SkyhookDM with Coffea and offload Nanoevents processing to the storage layer for faster anaylysis.
+![skyhook-coffea](/assets/images/skyhook-coffea.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 * A middleware to allow writing Parquet files containing Nanoevents from ServiceX to SkyhookDM via CephFS.
 
