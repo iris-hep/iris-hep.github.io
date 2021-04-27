@@ -87,18 +87,21 @@ presentations:
     url: https://indico.cern.ch/event/875110/contributions/3772474/attachments/2000383/3338950/IRIS-HEP-WLCG-DOMA-F2F.pdf
     date: 2020-03-09
     focus-area: doma
+    project: tpc
   - title: "Update on the Globus transition"
     meeting: OSG Council March 2020 Meeting
     meetingurl: https://indico.fnal.gov/event/23625/
     url: https://indico.fnal.gov/event/23625/contributions/73341/attachments/45884/55174/OSG-Council-Globus-Transition.pdf
     focus-area: osglhc
     date: 2020-03-19
+    project: tpc
   - title: "OSG-LHC Technical Roadmap"
     meeting: US ATLAS Computing Facility
     meetingurl: https://indico.cern.ch/event/903811/
     url: https://indico.cern.ch/event/903811/contributions/3803835/attachments/2029549/3396220/USATLAS-Facilities-2020-Upgrades.pdf
     focus-area: osglhc
     date: 2020-04-29
+    project: tpc
   - title: "DOMA - Years 3, and 4+5"
     meeting: IRIS-HEP Team Retreat
     meetingurl: https://indico.cern.ch/event/896167
@@ -111,3 +114,31 @@ presentations:
     meetingurl: https://indico.cern.ch/event/896167
     focus-area: doma
     date: 2020-05-29
+  - title: "Latest updates on the WLCG Token Transition Planning"
+    meetingurl: https://indico.fnal.gov/event/47040
+    url: https://indico.fnal.gov/event/47040/contributions/209608/attachments/140707/176892/WLCG_Transition_-_OSG_AHM_2021.pdf
+    meeting: OSG All-Hands Meeting 2021
+    focus-area: osglhc
+    date: 2021-03-05
+    focus-area: osglhc
+    project: tpc
+  - title: "Follow-up on the WLCG Token Transition Timeline"
+    meetingurl: https://indico.cern.ch/event/876773/
+    meeting: February 2021 GDB
+    url: https://indico.cern.ch/event/876773/contributions/4225122/attachments/2187931/3697170/WLCG-Token-Transition-Feb-2020.pdf
+    date: 2021-02-10
+    focus-area: osglhc
+    project: tpc
+  - title: "Update on OSG Token & Transfer Transition"
+    meetingurl: https://indico.cern.ch/event/813754
+    url: https://indico.cern.ch/event/813754/contributions/4139583/attachments/2159596/3643359/OSG-Transition-Update-GDB-Dec-2020.pdf
+    meeting: December 2020 GDB
+    date: 2020-12-09
+    focus-area: osglhc
+    project: tpc
+  - title: "DOMA Update for Steering Board #8"
+    meetingurl: https://indico.cern.ch/event/894516/
+    url: https://indico.cern.ch/event/894516/contributions/3772802/attachments/2149727/3624228/IRIS-HEP-DOMA-SB-8-v1.pdf
+    meeting: IRIS-HEP Steering Board Meeting #8
+    focus-area: doma
+    date: 2020-11-24
