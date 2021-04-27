@@ -45,6 +45,19 @@ reproducibility
 * Works seamlessly as a data backend to _Coffea_ and TRExFitter analysis tools
 
 
+## Performance
+Recent testing on 10 TB xAOD input sample where we requested 100 columns from 7
+collections (~30% of file). We were able to scale up to 1,000 workers the
+[River SSL Cluster](/ssl.html) to get results in less than 30 minutes. Output rate was in
+excess of 300MB/s.
+<p align="center">
+  <img src="/assets/images/ServiceXPerformance.png">
+</p>
+
+
+
+
+
 ## How It Works
 The dataset lookup service is extensible and developers can create new services
 to meet the needs of a specific community. Currently, datasets can be requested
