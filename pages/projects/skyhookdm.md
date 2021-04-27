@@ -52,6 +52,12 @@ We compare the query latencies of filtering a 1.2 billion row dataset via Parque
 
 The above two plots shows how Parquet (top) stays bottlenecked on the client CPU while Rados Parquet (bottom) distributes CPU usage between the storage nodes and allows scale out.
 
+# Ongoing Work
+
+* Integrate SkyhookDM with Coffea and offload Nanoevents processing to the storage layer for faster anaylysis.
+
+* A middleware to allow writing Parquet files containing Nanoevents from ServiceX to SkyhookDM via CephFS.
+
 # Important Links
 * [Github repository](https://github.com/uccross/arrow).
 * Getting started [instructions](https://github.com/uccross/arrow/tree/rados-dataset-dev/cpp/src/arrow/adapters/arrow-rados-cls#getting-started) and [notebook](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/adapters/arrow-rados-cls/docs/demo.ipynb).
