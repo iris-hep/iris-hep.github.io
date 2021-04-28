@@ -53,14 +53,14 @@ team:
 <!-- http://www.get-youtube-thumbnail.com/ -->
 [![SciPy 2020 talk YouTube](http://i3.ytimg.com/vi/FrH9s3eB6fU/hqdefault.jpg)](https://youtu.be/FrH9s3eB6fU)
 
-* [PyHEP 2020 tutorial](https://indico.cern.ch/event/882824/contributions/3931292/) (uses `pyhf` `v0.4.4`):
-
-[![PyHEP 2020 tutorial YouTube](http://i3.ytimg.com/vi/V0Li05ijv0U/hqdefault.jpg)](https://youtu.be/V0Li05ijv0U)
+* [`pyhf` tutorial](https://pyhf.github.io/pyhf-tutorial/) (continually updated to use the lastest `pyhf` release)
+   - Past tutorials (with recordings on YouTube) are listed on the [tutorial GitHub project](https://github.com/pyhf/pyhf-tutorial)
 
 ### Use in Publications
 
 Updating list of citations and use cases of `pyhf`:
 
+- Andrei Angelescu, Damir Bečirević, Darius A. Faroughy, Florentin Jaffredo, and Olcyr Sumensari. On the single leptoquark solutions to the _B_-physics anomalies. Mar 2021. [arXiv:2103.12504](https://arxiv.org/abs/2103.12504).
 - Rodolfo Capdevilla, Federico Meloni, Rosa Simoniello, and Jose Zurita. Hunting wino and higgsino dark matter at the muon collider with disappearing tracks. Feb 2021. [arXiv:2102.11292](https://arxiv.org/abs/2102.11292).
 - Vincenzo Cirigliano, Kaori Fuyuto, Christopher Lee, Emanuele Mereghetti, and Bin Yan. Charged Lepton Flavor Violation at the EIC. Feb 2021. [arXiv:2102.06176](https://arxiv.org/abs/2102.06176).
 - Jack Y. Araz and others. Proceedings of the second MadAnalysis 5 workshop on LHC recasting in Korea. _Mod. Phys. Lett. A_, 36(01):2102001, 2021. [arXiv:2101.02245](https://arxiv.org/abs/2101.02245), [doi:10.1142/S0217732321020016](https://doi.org/10.1142/S0217732321020016).

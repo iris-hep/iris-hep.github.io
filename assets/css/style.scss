@@ -230,11 +230,20 @@ pre code {
 }
 
 div#container {
-  padding-bottom: 8em;
   position:relative;
   height: auto !important;
   height: 100%; // IE 6
   min-height:100%;
+  padding-bottom: 16em;
+  @media only screen and (min-width: 336px) {
+    padding-bottom: 14em;
+  }
+  @media only screen and (min-width: 768px) {
+    padding-bottom: 12em;
+  }
+  @media only screen and (min-width: 991px) {
+    padding-bottom: 10em;
+  }
 }
 
 /* Custom footer */
@@ -289,6 +298,9 @@ div#container {
     }
     font-size: smaller;
     @media only screen and (min-width: 400px), only print {
+      font-size: small;
+    }
+    @media only screen and (min-width: 576px), only print {
       font-size: medium;
     }
 
@@ -403,6 +415,7 @@ main {
     margin: 5px 0 10px 0;
     background-color: scale-color($iris-100, $lightness:60%);
     border-radius: 6px;
+    color: black;
 
     .date, .location {
       color: white;

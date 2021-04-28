@@ -64,7 +64,7 @@ jobs:
         echo "# WARNING: Do not edit this generated repository; edit [iris-hep.github.io-source](https://github.com/iris-hep/iris-hep.github.io-source) instead!" > _site/README.md
 
     - name: Deploy
-      if: success() && github.ref == 'refs/heads/master' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+      if: success() && github.ref == 'refs/heads/master' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule')
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
