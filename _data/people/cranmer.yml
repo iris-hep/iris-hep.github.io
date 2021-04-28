@@ -406,10 +406,10 @@ presentations:
     meetingurl: https://aistats.org/aistats2021/
     location: (Virtual)
     focus-area: as
-  - title: Towards a white paper on public likelihoods 
+  - title: Towards a white paper on public likelihoods
     date: 2021-04-22
     url: https://indico.cern.ch/event/1015891/attachments/2231688/3781529/Likelihood-whitepaper-RAMP-2021.pdf
-    meeting: LHC Re-interpretation Forum    
+    meeting: LHC Re-interpretation Forum
     meetingurl: https://indico.cern.ch/event/1015891/
     location: (Virtual)
     focus-area: as
@@ -428,5 +428,5 @@ presentations:
     location: (Virtual)
     focus-area: as
 
-    
+
 
