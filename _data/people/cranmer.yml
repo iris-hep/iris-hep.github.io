@@ -385,7 +385,7 @@ presentations:
     meetingurl: https://indico.tlabs.ac.za/event/100/overview
     location:  (Virtual)
     focus-area: as
-  - title:  Probalistic Machine Learning for the Physical Scienes
+  - title:  Probalistic Machine Learning for the Physical Sciences
     date: 2021-03-09
     url: https://www.cs.ox.ac.uk/teaching/courses/2020-2021/advml/
     meeting: Advanced Topics in Machine Learning Course
@@ -401,9 +401,16 @@ presentations:
     focus-area: ia, as
   - title: "Invited Keynote for AISTATS: Simulation-Based Inference"
     date: 2021-04-02
-    url: https://aistats.org/aistats2021/
+    url: https://slideslive.com/38955019
     meeting: AISTATS
     meetingurl: https://aistats.org/aistats2021/
+    location: (Virtual)
+    focus-area: as
+  - title: Towards a white paper on public likelihoods 
+    date: 2021-04-22
+    url: https://indico.cern.ch/event/1015891/attachments/2231688/3781529/Likelihood-whitepaper-RAMP-2021.pdf
+    meeting: LHC Re-interpretation Forum    
+    meetingurl: https://indico.cern.ch/event/1015891/
     location: (Virtual)
     focus-area: as
   - title: An AI revolution in science? Using machine learning for scientific discovery
@@ -413,4 +420,13 @@ presentations:
     meetingurl: https://www.cst.cam.ac.uk/news/ai-revolution-science-using-machine-learning-scientific-discovery
     location: (Virtual)
     focus-area: as, ia
+  - title: Analysis Systems Overview
+    date: 2021-04-27
+    url: https://indico.cern.ch/event/957103/contributions/4330981/
+    meeting: IRIS-HEP Annual PI/EB Meeting
+    meetingurl: https://indico.cern.ch/event/957103/
+    location: (Virtual)
+    focus-area: as
+
+    
 
