@@ -3,14 +3,14 @@ permalink: /fellows/zche.html
 layout: fellow
 pagetype: fellow
 active: true
-title: Zhixing Che - IRIS-HEP Fellow
-fellow-name: Zhixing Che
-shortname: Zhixing
+title: Zora Che - IRIS-HEP Fellow
+fellow-name: Zora Che
+shortname: Zora
 project_title: Scaling Coffea-Casa Analysis Facility
 dates:
   start: 2021-01-01
-  end: 2021-06-31
-photo: /assets/images/team/Zhixing-Che.png
+  end: 2021-05-31
+photo: /assets/images/team/Zora-Che.png
 institution: Boston University
 website:
 e-mail: zche@bu.edu

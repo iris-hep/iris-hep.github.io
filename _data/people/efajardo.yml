@@ -1,11 +1,18 @@
 name: Edgar Fajardo
 shortname: efajardo
 title: OSG Software Team Developer
-active: true
+active: false
 institution: University of California, San Diego
 website:
 photo: /assets/images/team/Edgar-Fajardo.jpeg
 presentations:
+- title: "GeoIP HTTPS Redirector"
+  date: 2021-02-25
+  url: https://indico.fnal.gov/event/48049/attachments/140452/176530/GeoIP_Redirector.pdf
+  meeting: XCache DevOps Meeting
+  meetingurl: https://indico.fnal.gov/event/48049/
+  focusarea: doma
+  project: caching
 - title: Current production use of caching for CMS in Southern California
   date: 2018-10-02
   url: https://indico.cern.ch/event/760850/contributions/3156949/attachments/1724585/2785286/SoCalCache.pdf
@@ -99,4 +106,3 @@ presentations:
   meetingurl: https://indico.cern.ch/event/967159/
   focus-area: tpc
   projet: tpc
-

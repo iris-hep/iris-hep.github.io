@@ -8,6 +8,8 @@ title: Available Positions
 
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
+### University of Nebraska - Lincoln
+  * [Postdoctoral Research Associate on CMS](https://inspirehep.net/jobs/1849488)
 
 # Other positions of interest for HEP people
 
@@ -24,5 +26,8 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 ### ATLAS
 
   * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
+
+### University of California, San Diego
+  * [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=108447)
 
 ### Others

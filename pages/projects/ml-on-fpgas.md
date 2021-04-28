@@ -19,7 +19,7 @@ While the application of machine learning can offer unrivaled performance, its u
 While accelerating inference on GPUs can offer some improvements, another specialized architecture, field-programmable gate arrays (FPGAs), can further improve inference speeds.
 Performing inference on FPGAs has the potential to greatly reduce the computational resources required at large HEP experiments.
 
-This work consists of both the further development of the [hls4ml](https://hls-fpga-machine-learning.github.io/hls4ml/) tool ([J. Duarte et al. 2018](https://arxiv.org/abs/1804.06913)) as well as the study of applications for fast inference on FPGAs.
+This work consists of both the further development of the [hls4ml](https://fastmachinelearning.org/hls4ml/) tool ([J. Duarte et al. 2018](https://arxiv.org/abs/1804.06913)) as well as the study of applications for fast inference on FPGAs.
 Ongoing developments of the hls4ml tool itself include wider support for neural network layer architectures and machine learning libraries, and improvements to the performance of the tools for large networks.
 Ongoing studies on the applications of machine learning on FPGAs include their use for particle tracking, calorimeter reconstruction, and particle identification.
 

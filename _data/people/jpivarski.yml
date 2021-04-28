@@ -1,6 +1,6 @@
 name: Jim Pivarski
 shortname: jpivarski
-title: Jim Pivarski
+title:
 active: true
 institution: Princeton University
 website: https://github.com/jpivarski
@@ -244,3 +244,12 @@ presentations:
     meetingurl: https://indico.cern.ch/event/971994/
     location: "online"
     focus-area: as
+
+  - title: "PyHEP Numba tutorial"
+    date: 2021-02-03
+    url: https://github.com/jpivarski-talks/2021-02-03-pyhep-numba-tutorial
+    meeting: "PyHEP module of the month"
+    meetingurl: https://indico.cern.ch/event/985350/
+    location: "online"
+    focus-area: as
+

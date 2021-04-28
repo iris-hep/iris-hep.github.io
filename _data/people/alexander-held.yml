@@ -1,10 +1,11 @@
 name: Alexander Held
 shortname: alexander-held
-title:
+title: Postdoctoral researcher
 active: true
 institution: New York University
 website:  https://github.com/alexander-held
 photo: /assets/images/team/alexander-held.jpeg
+e-mail: alexander.held@cern.ch
 presentations:
   - title: "Template Fits: HistFitter / TRexFitter"
     date: 2019-06-19
@@ -61,5 +62,12 @@ presentations:
     url: https://indico.cern.ch/event/960587/contributions/4070322/
     meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
     meetingurl: https://indico.cern.ch/event/960587/
+    location: (Virtual)
+    focus-area: as
+  - title: "The cabinetry library"
+    date: 2021-02-25
+    url: https://indico.cern.ch/event/1005890/contributions/4222699/
+    meeting: ATLAS Statistics Forum Meeting
+    meetingurl: https://indico.cern.ch/event/1005890/
     location: (Virtual)
     focus-area: as

@@ -3,6 +3,7 @@ shortname: henryiii
 title:
 inspire-id: Henry.F.Schreiner.1
 active: true
+e-mail: henryfs@princeton.edu
 institution: Princeton University
 website: https://iscinumpy.gitlab.io
 photo: /assets/images/team/Henry-Schreiner.jpg
@@ -202,4 +203,16 @@ presentations:
     date: 2020-11-04
     url: https://github.com/henryiii/building_a_python_library
     meeting: Princeton RSE group
+    focus-area: ssc
+  - title: Level Up Your Python
+    date: 2021-01-20
+    url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/W1B-level-up-python/
+    meetingurl: https://princetonuniversity.github.io/PUbootcamp_winter2021/agenda/
+    meeting: Princeton Research Computing Bootcamp, Spring 2021
+    focus-area: ssc
+  - title: "CMake: Best Practices"
+    date: 2021-02-02
+    url: https://indico.jlab.org/event/420/#10-cmake-best-practices
+    meetingurl: https://indico.jlab.org/event/420/
+    meeting: Software & Computing Round Table
     focus-area: ssc

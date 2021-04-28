@@ -8,6 +8,7 @@ IRIS-HEP has been established to meet the software and computing challenges of t
 
 ---
 
+
 <div class="row">
  <div class="col-4">
  <!--
@@ -16,13 +17,17 @@ IRIS-HEP has been established to meet the software and computing challenges of t
    </a>
    -->
    <div class="embed-responsive embed-responsive-16by9">
-<iframe width="100%" height="100%"  src="https://www.youtube.com/embed/LNkQ7WTN5GE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%"  src="https://www.youtube.com/embed/8E0DmGrvhnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  </div>
  <div class="col-8">
   <h3>COVID-19</h3>
 
-Like many scientific research and research computing teams, IRIS-HEP is organizing to contribute its software and computing capabilities and team in support of activities to meet the challenge of the COVID-19 pandemic. Read more about IRIS-HEP's efforts to respond to <a href="/covid-19">COVID-19</a>. For example, Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim Pivarski are contributing the software for a patient pressure and airflow monitoring system for ventilators. The system allows up to 20 patients to be monitored remotely by a nurse in a COVID-19 field hospital, with relevant alarms. This outreach activity is being done in collaboration with Penn Medicine and a number of other Princeton Physics, Mechanical Engineering and Neuroscience faculty. The system includes data analysis algorithms, visualization and data acquisition from the sensor system (written in Python). The following image shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs.
+<p>Like many scientific research and research computing teams, IRIS-HEP is organizing to contribute its software and computing capabilities and team in support of activities to meet the challenge of the COVID-19 pandemic. <a href="/covid-19">Read more about IRIS-HEP's efforts to respond to COVID-19</a>.
+</p>
+
+<p>For example, Princeton researchers Peter Elmer, Henry Schreiner, David Lange and Jim Pivarski are contributing the software for a patient pressure and airflow monitoring system for ventilators. The system allows up to 20 patients to be monitored remotely by a nurse in a COVID-19 field hospital, with relevant alarms. This outreach activity is being done in collaboration with Penn Medicine and a number of other Princeton Physics, Mechanical Engineering and Neuroscience faculty. The system includes data analysis algorithms, visualization and data acquisition from the sensor system (written in Python). The video shows the nurse monitoring station GUI with simulated time series data for airflow, lung pressure and tidal volume transferred to the lungs. <a href="https://ovm.princeton.edu">Read more here.</a>
+</p>
  </div>
 </div>
 
