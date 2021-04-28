@@ -30,4 +30,7 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 ### University of California, San Diego
   * [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=108447)
 
+### University of Wisconsin–Madison
+  * [Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/508915/associate-computing-infrastructure-administrator)
+
 ### Others
