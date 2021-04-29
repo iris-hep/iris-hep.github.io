@@ -152,6 +152,30 @@ IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer
 
 ---
 
+
+<div class="row">
+ <div class="col-4">
+   <img width="100%" src="https://yt-project.org/img/analysis.jpg" > <br />
+ </div>
+ <div class="col-8">
+
+  <h3>Shared Data-Delivery Infrastructure to Dark Matter and Computational Astrophysics Experiments</h3>
+
+  Modern laboratories provide unprecedented sensitivity to the many different galactic-messengers that stream through our planet by the minute: cosmic rays, light from distant galaxies, elusive neutrinos, and possibly dark matter. Combining this information with models and data from simulations provides insight into how our universe began and continues to evolve -- the scales at which objects first collapsed, the development of stars and galaxies, and the dynamics within our own galaxy.
+
+  However, this data is often inaccessible: scientists within an experiment or community struggle with the complex, custom-built programs they use to access the data. And switching to a standard format is usually not an option: these data formats are designed for requirements that often do not include cross-experiment synthesis or linking.
+
+  <a href="/projects/servicex">ServiceX</a> is being used as the basis of a system to serve up
+  disparate datasets in a consistent format. An NSF <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104003"> Cyberinfrastructure for Sustained Scientific
+  Innovation (CSSI) grant</a> has been awarded to extend ServiceX to serve this
+  community with custom transformers and dataset location services.
+ </div>
+</div>
+
+
+
+---
+
 <div class="container">
 <div class="row">
  <div class="col-4">
