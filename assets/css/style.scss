@@ -229,6 +229,43 @@ pre code {
   }
 }
 
+/* Videos cards */
+
+.row.videos {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.card.videos {
+  width: 18rem;
+  height: 15rem;  
+  flex-grow: 0;
+  border: none;
+  margin: 5px 5px 25px 5px;
+  border-radius: 0;
+
+  img.card-img-top {
+    border-radius: 0;
+  }
+
+  .card-body {
+      padding: 0;
+    .card-text.card-title {
+      font-weight: bolder;
+      margin: 5px 0px 5px 0px;
+      a {
+        @extend %light-purple-header;
+      }
+    }
+    .card-text.card-body {
+      position: absolute;
+      bottom: 0;
+    }
+
+  }
+}
+
+
 div#container {
   position:relative;
   height: auto !important;

@@ -1,0 +1,88 @@
+
+{%- include get_all_videos.html -%}
+
+{% assign max_vid = 8000%}
+{% if include.nvideos %}
+{% assign max_vid = include.nvideos %}
+{% endif %}
+{% assign projects = include.projects | split: ','%}
+{% assign people = include.person | split: ','%}
+{% assign f_areas = include.focus_areas | split: ','%}
+{% assign n_vid = 0 %}
+
+    {% for video in sorted_videos %}
+    {% if n_vid == max_vid %}
+       {% continue %}
+    {% endif %}
+    {% if projects.size > 0 %}
+       {% assign good_vid =0 %}
+       {% assign vid_projects = video.projects | split: ','%}
+       {% for project in vid_projects %}
+          {% if projects contains project %}
+             {% assign good_vid = 1 %}
+          {% endif %}
+       {% endfor %}
+       {% if good_vid == 0 %}
+          {% continue %}
+       {% endif %}
+    {% endif %}
+    {% if people.size > 0 %}
+       {% assign good_vid =0 %}
+       {% assign vid_people = video.person | split: ','%}
+       {% for person in vid_people %}
+          {% if people contains person %}
+             {% assign good_vid = 1 %}
+          {% endif %}
+       {% endfor %}
+       {% if good_vid == 0 %}
+          {% continue %}
+       {% endif %}
+    {% endif %}
+    {% if f_areas.size > 0 %}
+       {% assign good_vid =0 %}
+       {% assign vid_areas = video.focus_areas | split: ','%}
+       {% for area in vid_areas %}
+          {% if f_areas contains area %}
+             {% assign good_vid = 1 %}
+          {% endif %}
+       {% endfor %}
+       {% if good_vid == 0 %}
+          {% continue %}
+       {% endif %}
+    {% endif %}
+    {% assign n_vid = n_vid | plus: 1 %}
+
+    {% if n_vid == 1 %}
+    {% if include.add_header %}
+    {{include.add_header}}
+    <br/>
+    {% endif %}
+    <div class="container-fluid">
+    <div class="videos row">
+    {% endif %}
+    
+    <div class="card videos">
+          <div class="card-body d-flex flex-column">
+            <div class="card-text card-title">
+ 	    {% assign v_speaker = video.speaker %}
+            {% for person_hash in site.data.people %}
+            {% assign person = person_hash[1] %}
+            {% if person.shortname == v_speaker %}
+            {% assign v_speaker = person.name %}
+            {% endif %}
+            {% endfor %}
+            {{v_speaker}} on {{video.title}} 
+            </div>
+            <div class="card-text card-body">
+	       <iframe width="90%" height="60%" src="{{video.url}}?start={{video.startsec}}" title="IRIS-HEP video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	       </iframe>  <br/> 
+       	    {{ video.date | date: "%-d %b %Y" }}  
+            </div>
+         </div>
+       </div>
+    {% endfor %}
+    {% if n_vid > 0 %}
+  </div>
+</div>
+{%endif%}
+
