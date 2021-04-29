@@ -12,3 +12,5 @@ presentations:
     meeting: "Third Computational and Data Science school for HEP (CoDaS-HEP 2019)"
     meetingurl: https://indico.cern.ch/event/814979/timetable/
     location: Princeton University
+    focus-area: ia
+    project: mkFit
