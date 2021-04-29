@@ -74,3 +74,4 @@ The meaning of the fields is the following:
   * meetingurl - the URL for the meeting in which the presentation was made
   * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can just omit this.
   * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc]
+  * project - optionally list the relevant project for this presentation, using its short name, i.e. those found in the [pages/projects/](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/pages/projects) area
