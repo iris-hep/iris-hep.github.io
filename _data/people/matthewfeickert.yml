@@ -13,6 +13,7 @@ presentations:
     meeting: DIANA/HEP Meeting
     meetingurl: https://indico.cern.ch/event/759480/
     focus-area: as
+    project: pyhf
   - title: "pyhf: a pure Python statistical fitting library for High Energy Physics with tensors and autograd"
     date: 2019-07-09
     url: https://doi.org/10.25080/Majora-7ddc1dd1-019
@@ -20,6 +21,7 @@ presentations:
     meetingurl: http://conference.scipy.org/proceedings/scipy2019/
     location: University of Texas at Austin
     focus-area: as
+    project: pyhf
   - title: "Introduction to Docker"
     date: 2019-08-22
     url: https://matthewfeickert.github.io/intro-to-docker/
@@ -33,6 +35,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/840472/
     location: Fermi National Accelerator Laboratory
     focus-area: as
+    project: pyhf
   - title: "pyhf: pure-Python implementation of HistFactory"
     date: 2019-10-18
     url: https://indico.cern.ch/event/833895/contributions/3577824/
@@ -40,6 +43,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/833895/
     location: Abingdon, U.K.
     focus-area: as
+    project: pyhf
   - title: "pyhf: a pure Python implementation of HistFactory with tensors and autograd (poster)"
     date: 2019-11-05
     url: https://indico.cern.ch/event/773049/contributions/3476180/
@@ -47,6 +51,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/773049/
     location: Adelaide, South Australia
     focus-area: as
+    project: pyhf
   - title: "Likelihood preservation and statistical reproduction of searches for new physics"
     date: 2019-11-07
     url: https://indico.cern.ch/event/773049/contributions/3476143/
@@ -61,6 +66,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/863729/
     location: Vidyo
     focus-area: as
+    project: pyhf
   - title: "pyhf: Pure Python Implementation of HistFactory"
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3334540/10_-_IRIS-HEP-2020-poster-session-pyhf.pdf
@@ -68,6 +74,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, U.S.A.
     focus-area: as
+    project: pyhf
   - title: "pyhf: A Pure Python Statistical Fitting Library with Tensors and Autograd"
     date: 2020-02-27
     url: https://indico.cern.ch/event/897086/attachments/2001484/3341223/Feickert_pyhf-NSF-Review-IRIS-HEP_2020-02-27.pdf
@@ -75,6 +82,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/897086/
     location: Princeton, U.S.A.
     focus-area: as
+    project: pyhf
   - title: "pyhf Roadmap for IRIS-HEP Execution Phase"
     date: 2020-05-27
     url: https://indico.cern.ch/event/896167/contributions/3880229/
@@ -82,6 +90,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/896167/
     location: Virtual
     focus-area: as
+    project: pyhf
   - title: "pyhf: a pure Python statistical fitting library with tensors and autograd"
     date: 2020-07-07
     url: https://doi.org/10.25080/Majora-342d178e-023
@@ -89,6 +98,7 @@ presentations:
     meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
     location: Virtual
     focus-area: as
+    project: pyhf
   - title: "pyhf Tutorial: Accelerating analyses and preserving likelihoods"
     date: 2020-07-16
     url: https://indico.cern.ch/event/882824/contributions/3931292/
@@ -96,7 +106,8 @@ presentations:
     meetingurl: https://indico.cern.ch/event/882824/
     location: Virtual
     focus-area: as
-    comment: DOI not yet available
+    project: pyhf
+    comment: "DOI: 10.5281/zenodo.4152916"
   - title: "Likelihood Publication and Preservation"
     date: 2020-08-10
     url: https://indico.fnal.gov/event/43829/contributions/193820/
@@ -111,6 +122,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/960587/
     location: Virtual
     focus-area: as
+    project: pyhf
   - title: "pyhf: pure-Python implementation of HistFactory with tensors and automatic differentiation"
     date: 2020-11-03
     url: https://indico.cern.ch/event/955391/contributions/4075505/
@@ -118,6 +130,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/955391/
     location: Virtual
     focus-area: as
+    project: pyhf
   - title: "Modern Tools for Reusable Publications and Data Products"
     date: 2020-11-26
     url: https://lpsc-indico.in2p3.fr/event/2585/
@@ -132,6 +145,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/972791
     location: Virtual
     focus-area: as
+    project: pyhf
   - title: "Steps Towards Differentiable and Scalable Physics Analyses at the LHC"
     date: 2020-12-08
     url: https://indico.fnal.gov/event/46057/
@@ -139,3 +153,4 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/46057/
     location: Virtual
     focus-area: as
+    project: pyhf
