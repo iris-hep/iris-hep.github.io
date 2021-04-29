@@ -1,8 +1,8 @@
 ---
-permalink: /focus-areas/osglhc-software.html
+permalink: /projects/osglhc-software.html
 layout: project
 title: Open Science Grid Software and Release
-shortname: osgsoftware
+shortname: osglhc-software
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Provide integrated software for running grid services
