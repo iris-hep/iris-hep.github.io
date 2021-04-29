@@ -3,9 +3,15 @@ shortname: djw8605
 title:
 active: true
 institution: University of Nebraska - Lincoln
-website: https://github.com/djw8605
+website: https://derekweitzel.com
 photo: /assets/images/team/Derek-Weitzel.jpg
 presentations:
+  - title: "Moving science data: One CDN to rule them all"
+    date: 2021-03-03
+    url: https://indico.fnal.gov/event/47040/contributions/208458/attachments/140618/176779/StashCache-Weitzel-2021.pdf
+    meeting: OSG All Hands Meeting 2021
+    meetingurl: https://indico.fnal.gov/event/47040/
+    focus-area: osglhc, doma
   - title: "OSG's use of XCache"
     date: 2020-04-23
     url: https://docs.google.com/presentation/d/1gpd9UH7aYXFU09-ijT1BYQnAFHGCjtfZsvWV038poqM/edit?usp=sharing
