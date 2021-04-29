@@ -60,7 +60,7 @@
     <div class="container-fluid">
     <div class="videos row">
     {% endif %}
-    
+
     <div class="card videos">
           <div class="card-body d-flex flex-column">
             <div class="card-text card-title">
@@ -71,12 +71,12 @@
             {% assign v_speaker = person.name %}
             {% endif %}
             {% endfor %}
-            {{v_speaker}} on {{video.title}} 
+            {{v_speaker}} on {{video.title}}
             </div>
             <div class="card-text card-body">
 	       <iframe width="90%" height="60%" src="{{video.url}}?start={{video.startsec}}" title="IRIS-HEP video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-	       </iframe>  <br/> 
-       	    {{ video.date | date: "%-d %b %Y" }}  
+	       </iframe>  <br/>
+       	    {{ video.date | date: "%-d %b %Y" }}
             </div>
          </div>
        </div>
