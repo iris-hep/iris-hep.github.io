@@ -18,7 +18,7 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
 
 {% for focus-area-page in activities %}
   {% assign focus-area-title = focus-area-page.title %}
-  {% assign focus-area-name = focus-area-page.short_title | strip %}
+  {% assign focus-area-name = focus-area-page.name | remove: ".md" %}
   <h4>{{ focus-area-title }}</h4>
   <ul>
   {% for talk in sorted_presentations %}

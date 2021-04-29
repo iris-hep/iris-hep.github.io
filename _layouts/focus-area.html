@@ -17,7 +17,8 @@
 {% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
 {% if mypage.pagetype == 'project' %}
-{% if mypage.focus-area contains page.short_title %}
+{% assign page_focus_area = page.name | remove: ".md" %}
+{% if mypage.focus-area contains page_focus_area %}
 {% assign doProjects = 1 %}
 {% break %}
 {% endif %}
@@ -31,7 +32,8 @@
   <div class="row">
 {% for mypage in sorted %}
 {% if mypage.pagetype == 'project' %}
-{% if mypage.focus-area contains page.short_title %}
+{% assign page_focus_area = page.name | remove: ".md" %}
+{% if mypage.focus-area contains page_focus_area %}
 <div class="card" style="width: 17rem;">
 <a href=/projects/{{mypage.shortname}}.html>
 <img class="card-img-top" src="/assets/{{mypage.image | default: "logos/Iris-hep-5-just-graphic.png"}}" alt="Card image cap">
@@ -55,7 +57,7 @@
 
 
 {% include get_pres_list.html %}
-{% assign page_focus_area = page.short_title | strip %}
+{% assign page_focus_area = page.name | remove: ".md" %}
 
 {% assign pres_list = "" | split: "," %}
 {% for pres in sorted_presentations %}
@@ -95,7 +97,7 @@
 
 {% assign pubs = "" | split: "," %}
 {% for pub in sorted_publications %}
-  {% assign page_st = page.short_title | strip %}
+  {% assign page_st = page.name | remove: ".md" %}
   {% if pub.focus-area contains page_st %}
     {% assign pubs = pubs | push: pub %}
   {% endif %}
@@ -139,7 +141,8 @@
 
 {% endif %}
 
-{% include list_videos.html nvideos=5 add_header="<center><h3> Recent recordings</h3></center>" focus_areas=page.short_title %}
+{% assign focus_area = page.name | remove: ".md" %}
+{% include list_videos.html nvideos=5 add_header="<center><h3> Recent recordings</h3></center>" focus_areas=focus_area %}
 
 
 

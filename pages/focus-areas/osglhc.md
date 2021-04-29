@@ -2,7 +2,7 @@
 permalink: /osglhc.html
 layout: focus-area
 title: OSG-LHC
-short_title: osglhc
+short_title: OSG-LHC
 pagetype: focus-area
 ---
 
