@@ -15,5 +15,5 @@ team:
 
 ---
 
-    The OSG Software and Release team produces and supports the integrated software systems that comprise the OSG fabric of production services. Additionally, the team produces tooling and documentation related to the software.
-
+The OSG Software and Release team produces and supports the integrated software systems that comprise the OSG fabric of production services.
+Additionally, the team produces tooling and documentation related to the software.
