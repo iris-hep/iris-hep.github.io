@@ -14,7 +14,8 @@ presentations:
     meeting: "ACAT 2019"
     meetingurl: https://indico.cern.ch/event/708041/
     location: "Saas-Fee, Switzerland"
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "PyROOT, uproot, and awkward-arrays"
     date: 2019-04-01
@@ -22,7 +23,8 @@ presentations:
     meeting: "Software Carpentry at Fermilab"
     meetingurl: https://davidyakobovitch.github.io/2019-04-01_fnal/
     location: "Fermilab"
-    focus-area: as
+    focus-area: [as, ssc]
+    project: [uproot, awkward]
 
   - title: "High-Performance Python and Interoperability with Compiled Code"
     date: 2019-04-08
@@ -30,7 +32,7 @@ presentations:
     meeting: "Princeton PICSciE mini-courses"
     meetingurl: https://researchcomputing.princeton.edu/events/high-performance-python-and-interoperability-compiled-code-48-410
     location: "Princeton University"
-    focus-area: as
+    focus-area: [as, ssc]
 
   - title: "Aghast"
     date: 2019-04-15
@@ -38,7 +40,8 @@ presentations:
     meeting: "IRIS-HEP Topical Meetings"
     meetingurl: https://indico.cern.ch/event/803122/
     location: "online"
-    focus-area: as
+    focus-area: [as]
+    project: [histogram]
 
   - title: "Awkward Array: Numba"
     date: 2019-04-17
@@ -46,7 +49,8 @@ presentations:
     meeting: "IRIS-HEP Topical Meetings"
     meetingurl: https://indico.cern.ch/event/808630/
     location: "online"
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "Skyhook for query systems"
     date: 2019-04-24
@@ -54,7 +58,8 @@ presentations:
     meeting: "IRIS-HEP Topical Meetings"
     meetingurl: https://indico.cern.ch/event/813447/
     location: "online"
-    focus-area: as
+    focus-area: [as]
+    project: [skyhookdm]
 
   - title: "How to build your own language (hands-on demo)"
     date: 2019-05-06
@@ -62,7 +67,7 @@ presentations:
     meeting: "Analysis Description Languages Workshop"
     meetingurl: https://indico.cern.ch/event/769263/timetable/
     location: "Fermilab"
-    focus-area: as
+    focus-area: [as, ssc]
 
   - title: "Programming languages and particle physics"
     date: 2019-05-08
@@ -70,7 +75,7 @@ presentations:
     meeting: "Fermilab Colloquium"
     meetingurl: https://events.fnal.gov/colloquium/events/event/pivarski-colloq-2019/
     location: "Fermilab"
-    focus-area: as
+    focus-area: [as]
 
   - title: "Summary of the 'Analysis Description Languages for the LHC' workshop"
     date: 2019-05-09
@@ -78,15 +83,15 @@ presentations:
     meetingurl: https://indico.cern.ch/event/806811/
     url: https://indico.cern.ch/event/806811/#1-summary-of-the-analysis-desc
     location: "Fermilab"
-    focus-area: as
+    focus-area: [as]
 
   - title: "Pattern matching for decay trees"
     date: 2019-05-22
     meeting: "IRIS-HEP Topical Meetings"
     meetingurl: https://indico.cern.ch/event/820598/
-    focus-area: as
     location: "online"
     url: https://indico.cern.ch/event/820598/#2-pattern-matching-for-decay-t
+    focus-area: [as]
 
   - title: "Scientific Python and Uproot HATS"
     date: 2019-05-28
@@ -94,7 +99,8 @@ presentations:
     meetingurl: https://indico.cern.ch/event/814895/
     location: "Fermilab"
     url: https://indico.cern.ch/event/814895/
-    focus-area: as
+    focus-area: [as]
+    project: [uproot]
 
   - title: "Columnar Analysis Tools HATS"
     date: 2019-05-29
@@ -102,7 +108,8 @@ presentations:
     meetingurl: https://indico.cern.ch/event/814100/
     url: https://indico.cern.ch/event/814100/
     location: "Fermilab"
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "Numpy, Pandas, PyROOT, and Uproot"
     date: 2019-06-10
@@ -110,7 +117,8 @@ presentations:
     meetingurl: https://indico.cern.ch/event/811577/
     url: https://indico.cern.ch/event/811577/
     location: "Argonne"
-    focus-area: as
+    focus-area: [as]
+    project: [uproot]
 
   - title: "Uproot: accessing ROOT data in the scientific Python ecosystem"
     date: 2019-06-18
@@ -118,7 +126,8 @@ presentations:
     meetingurl: https://indico.cern.ch/event/798721/
     url: https://indico.cern.ch/event/798721/contributions/3461343/
     location: "online"
-    focus-area: as
+    focus-area: [as]
+    project: [uproot]
 
   - title: "Update on awkward-array, uproot, and related projects"
     date: 2019-06-19
@@ -126,14 +135,16 @@ presentations:
     meetingurl: https://indico.cern.ch/event/822074/overview
     url: https://indico.cern.ch/event/822074/contributions/3471451/
     location: "NYU Physics Department"
-    focus-area: as
+    focus-area: [as]
+    project: [uproot, awkward]
 
   - title: "Motivation and requirements for awkward 1.0"
     date: 2019-07-10
     meeting: "Analysis Systems Biweekly Meeting"
     url: https://indico.cern.ch/event/815512/
     location: "online"
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "Scientific Python Ecosystem; Columnar Data Analysis; Accelerating Python"
     date: 2019-07-23
@@ -141,7 +152,7 @@ presentations:
     meetingurl: http://codas-hep.org/
     url: https://github.com/jpivarski/2019-07-23-codas-hep#readme
     location: "Princeton University"
-    focus-area: as
+    focus-area: [as, ssc]
 
   - title: "IRIS-HEP Tutorial: Fast columnar data analysis with data science tools"
     date: 2019-07-29
@@ -149,7 +160,8 @@ presentations:
     meetingurl: https://indico.cern.ch/event/782953/overview
     url: https://indico.cern.ch/event/782953/sessions/302485/#20190729
     location: "Boston, MA"
-    focus-area: as
+    focus-area: [as, ssc]
+    project: [uproot, awkward]
 
   - title: "Jagged, ragged, awkward arrays"
     date: 2019-09-14
@@ -157,7 +169,8 @@ presentations:
     meetingurl: https://www.thestrangeloop.com/2019/jagged-ragged-awkward-arrays.html
     url: https://youtu.be/2NxWpU7NArk
     location: "St. Louis, MO"
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "Awkward 1.0"
     date: 2019-10-17
@@ -165,7 +178,8 @@ presentations:
     meetingurl: https://indico.cern.ch/event/833895/
     url: https://indico.cern.ch/event/833895/contributions/3577882/
     location: "Abingdon, U.K."
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "Ragged, jagged, nested, indirected, very awkward arrays"
     date: 2019-11-07
@@ -173,21 +187,24 @@ presentations:
     meetingurl: https://indico.cern.ch/event/773049/overview
     url: https://indico.cern.ch/event/773049/contributions/3473258/
     location: "Adelaide, Australia"
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "Awkward Arrays for Analysis Systems"
     date: 2020-02-27
     meeting: "IRIS-HEP Review"
     url: https://github.com/jpivarski/2020-02-27-irishep-poster/blob/master/pivarski-irishep-poster.pdf
     location: "Princeton University"
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "Uproot and Awkward Array tutorials for the Electron Ion Collider"
     date: 2020-04-08
     meeting: "Electron Ion Collider User's meeting"
     url: https://www.youtube.com/watch?v=FoxNS6nlbD0
     location: "online"
-    focus-area: as
+    focus-area: [as, ssc]
+    project: [awkward]
 
   - title: "Uproot Awkward columnar HATS"
     date: 2020-06-08
@@ -195,7 +212,8 @@ presentations:
     meeting: "LPC HATS: Hands-on Training for CMS"
     meetingurl: https://indico.cern.ch/event/917675/
     location: "online"
-    focus-area: as
+    focus-area: [as, ssc]
+    project: [uproot, awkward]
 
   - title: "Awkward Array: Manipulating JSON like Data with NumPy like Idioms"
     date: 2020-07-05
@@ -203,7 +221,8 @@ presentations:
     meeting: "SciPy 2020"
     meetingurl: https://www.scipy2020.scipy.org/
     location: "online"
-    focus-area: as
+    focus-area: [as]
+    project: [awkward]
 
   - title: "Uproot and Awkward Array tutorial"
     date: 2020-07-15
@@ -211,7 +230,8 @@ presentations:
     meeting: "PyHEP 2020"
     meetingurl: https://indico.cern.ch/event/882824/
     location: "online"
-    focus-area: as
+    focus-area: [as, ssc]
+    project: [uproot, awkward]
 
   - title: "Measuring Python adoption by CMS physicists using GitHub API"
     date: 2020-08-11
@@ -219,7 +239,7 @@ presentations:
     meeting: "Snowmass Computational Frontier Workshop 2020"
     meetingurl: https://indico.fnal.gov/event/43829/
     location: "online"
-    focus-area: as
+    focus-area: [as]
 
   - title: "Future of User Analysis"
     date: 2020-10-01
@@ -227,7 +247,8 @@ presentations:
     meeting: "LHCb Computing Workshop"
     meetingurl: https://indico.cern.ch/event/941919
     location: "online"
-    focus-area: as
+    focus-area: [as]
+    project: [uproot, awkward]
 
   - title: "Access & Manipulation of Complex Data Structures: Uproot & Awkward Array"
     date: 2020-10-26
@@ -235,7 +256,8 @@ presentations:
     meeting: "Future Analysis Systems and Facilities"
     meetingurl: https://indico.cern.ch/event/960587/
     location: "online"
-    focus-area: as
+    focus-area: [as]
+    project: [uproot, awkward]
 
   - title: "Survey and status of Pythonic HEP analysis tools"
     date: 2020-11-20
@@ -243,7 +265,7 @@ presentations:
     meeting: "CMS Physics Workshop on Analysis Tools and Techniques"
     meetingurl: https://indico.cern.ch/event/971994/
     location: "online"
-    focus-area: as
+    focus-area: [as]
 
   - title: "PyHEP Numba tutorial"
     date: 2021-02-03
@@ -251,5 +273,5 @@ presentations:
     meeting: "PyHEP module of the month"
     meetingurl: https://indico.cern.ch/event/985350/
     location: "online"
-    focus-area: as
+    focus-area: [as, ssc]
 
