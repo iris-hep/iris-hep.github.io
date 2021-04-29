@@ -9,22 +9,17 @@ blurb: Delivering Data.  Better.
 focus-area: doma
 team:
  - bbockelm
- - BenGalewsky
  - wguan
 ---
 
 If HL-LHC is going to process exabytes of data, it needs data access systems
-that can deliver.  The HEP community has always focused on delivering bytes
-to applications - each application must have an innate understanding of the
-data format in order to interpret the byte stream and it must understand the
-file naming scheme of the underlying storage.
-
-The intelligent data delivery system is working to raise these semantics to
-work on _delivering events_ as opposed to _delivering bytes_.  This allows
-an edge service to prepare data for production consumption (filtering out
-unnecessary events and objects), the on-disk data format to evolve
-independently of applications, and decrease the latency between the application
-and the storage.
+that can deliver.  The intelligent Data Delivery Service (iDDS) is an attempt
+to make the workflow system more aware of the data workflows and get data
+processed more effectively.  The initial use case was the "data caraousel" for
+ATLAS: orchestrating the processing of data as soon as it comes out of archival
+systems instead of waiting for entire datasets to be staged.  This minimizes
+the use of disk buffers -- especially relevant for HL-LHC as the size of the
+disk buffer shrinks compared to the total dataset volumes.
 
 The IDDS work is an ongoing project within IRIS-HEP in the DOMA and
 Analysis Systems area, as well as within the HEP Software Foundation
@@ -35,14 +30,29 @@ event delivery group.
 
 ## Use Cases
 
- * ATLAS Data Carousel(In production since May of 2020)
+ * *ATLAS Data Carousel*:  This use case, in production since May 2020 for the
+   ATLAS experiment, minimizes the delay between data being read from tape
+   archive until it's delivered to a processor.
 
-    It Solved the issues with the delayed start of processing data on tape
+ * *Hyper Parameter Optimization (HPO)*: There's a strong overlap between the
+   data management needed for detector events and what is needed for management
+   of hyperparameters in training machine learning models. iDDS has developed
+   a backend plugin for HPO and thus provides a fully-automated platform for
+   HPO on top of geographically distributed GPU resources on the grid, HPC, and
+   clouds.
 
- * HPO (Hyper Parameter Optimization)
+   We have advertised using iDDS for HPO within the ATLAS community; however,
+   its application is not limited to ATLAS. Currently, it is actively used for
+   ATLAS workflows for FastCaloGAN and ToyMC.
 
-    It is to provide a fully-automated platform for hyper-parameter optimization on top of geographically distributed GPU resources on the grid, HPC, and clouds. It is advertised to ATLAS ML users, not specific to ATLAS. For ATLAS, it is actively used for FastCaloGAN, ToyMC and so on.
+ * *DAG based workflow management*: To support its data delivery functionality,
+   iDDS internally implements a high-level workflow engine, specifying a set of
+   interdependent jobs as a directed acyclic graph (DAG).  iDDS, interacting
+   with software such as PanDA, drives workload scheduling and implements
+   management of job chains for multi-step processing with thousands of jobs
+   per step.
 
- * DAG based workflow management
-
-   It is a high-level workflows specified by DAGs driving workload scheduling, with cascade management of chains for multi-step processing with thousands of jobs per step. It is using new DOMA PanDA instance for Rubin Observatory (LSST) exercise, which improving the workflow by releasing jobs incrementally for different steps to avoid long waiting. It successfully scaled with 50K DAG jobs, scaling to test 150K DAG jobs.
+   In fact, the DAG engine can be used directly for workflow management.  Using
+   the DOMA PanDA instance, iDDS is being tested by the Rubin Observatory
+   (formerly LSST) for their data processing needs.  So far, the observatory has
+   successfully tested iDDS with DAG workflows of over 50 and 150 thousand jobs.
