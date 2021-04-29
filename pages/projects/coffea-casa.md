@@ -5,7 +5,6 @@ title: coffea-casa
 shortname: coffea-casa
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
-logowidth: 50%
 blurb: A Prototype of Analysis Facility
 focus-area:
  - doma
@@ -20,16 +19,17 @@ team:
  - zche
 ---
 
-## About coffea-casa project
+
+
+### About coffea-casa project
 
 `coffea-casa` is a prototype of analysis facility, which provides services for “low latency columnar analysis”, enabling rapid processing of data in a column-wise fashion. These services, based on Dask and Jupyter notebooks, aim to dramatically lower time for analysis and provide an easily-scalable and user-friendly computational environment that will simplify, facilitate, and accelerate the delivery of HEP results. The facility is built on top of a Kubernetes cluster and integrates dedicated resources with resources allocated via fairshare through the local HTCondor system. In addition to the user-facing interfaces such as Dask, the facility also manages access control through single-sign-on and authentication & authorization for data access.
 
 ![Generic design schema of coffea-casa analysis facility](/assets/images/coffea-casa-0.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
-![Coffea-casa Jupyterlab interface with Dask Labextention powered cluster](/assets/images/coffea-casa-1.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 
-## Coffea-casa repositories and related resources
+### Coffea-casa repositories and related resources
 
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/CoffeaTeam/coffea-casa/)
 ![GitHub issues](https://img.shields.io/github/issues/coffeateam/coffea-casa)
@@ -63,17 +63,23 @@ The code, Helm charts and Docker images could be found in the corresponding repo
  * [github.com/CoffeaTeam/coffea-casa-config](https://github.com/CoffeaTeam/coffea-casa-config)
 
 
-## Recent accomplishments and plans
+
+### Recent accomplishments and plans
 
 **Recent accomplishments**:
 - Deployed at University Nebraska-Lincoln Tier3, `coffea-casa` facility is ready to accomodate the first CMS users: [try it!](https://cmsaf-jh.unl.edu/)
+
+![Coffea-casa Jupyterlab interface with Dask Labextention powered cluster](/assets/images/coffea-casa-1.png){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
+
 
 **Future plans for 2021**:
 - Release Helm charts and other by-products to be deployable on the other facilities
 - Deploy coffea-casa functionality at least on one external facility
 - Involve more physics analysis groups to use facility.
 
-# Recent videos and tutorials
+
+
+### Recent videos and tutorials
 
 * The coffea-casa introductory Youtube video at [PyHEP 2020](https://www.youtube.com/watch?v=CDIFd1gDbSc)
 * The coffea-casa Youtube video tutorial at [PyHEP 2020](https://www.youtube.com/watch?v=oPl0t8J36-Q)
