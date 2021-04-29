@@ -3,6 +3,7 @@ shortname: masonproffitt
 title: PhD student
 active: true
 institution: University of Washington
+website: https://github.com/masonproffitt
 photo: /assets/images/team/Mason-Proffitt.jpg
 presentations:
   - title: "IRIS-HEP: A new software institute to prepare for the data from the High Luminosity Large Hadron Collider in the exabyte era"
