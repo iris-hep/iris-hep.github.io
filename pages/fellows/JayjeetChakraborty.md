@@ -52,4 +52,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/946431/
     recordingurl: https://www.youtube.com/watch?v=6gCp1BwQHdg
     focus-area: doma
+
+current_status: >
+  As of Fall 2021, Jayjeet is beginning graduate studies in Computer Science at the University of California, Santa Cruz.
 ---
