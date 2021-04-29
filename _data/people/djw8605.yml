@@ -11,7 +11,8 @@ presentations:
     url: https://indico.fnal.gov/event/47040/contributions/208458/attachments/140618/176779/StashCache-Weitzel-2021.pdf
     meeting: OSG All Hands Meeting 2021
     meetingurl: https://indico.fnal.gov/event/47040/
-    focus-area: osglhc, doma
+    focus-area: [osglhc, doma]
+    project:
   - title: "OSG's use of XCache"
     date: 2020-04-23
     url: https://docs.google.com/presentation/d/1gpd9UH7aYXFU09-ijT1BYQnAFHGCjtfZsvWV038poqM/edit?usp=sharing
