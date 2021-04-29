@@ -71,6 +71,18 @@ The code, Helm charts and Docker images could be found in the corresponding repo
  * [github.com/CoffeaTeam/coffea-casa-config](https://github.com/CoffeaTeam/coffea-casa-config)
 
 
+### Recent accomplishments and plans
+
+Recent accomplishments:
+
+- Deployed at University Nebraska-Lincoln Tier3, `coffea-casa` facility is ready to accomodate the first CMS users: [try it!](https://cmsaf-jh.unl.edu/)
+
+Future plans for 2021:
+
+- Release Helm charts and other by-products to be deployable on the other facilities
+- Deploy coffea-casa functionality at least on one external facility
+- Involve more physics analysis groups to use facility.
+
 ### Recent Talks and Tutorials
 
 * The coffea-casa introductory Youtube video at [PyHEP 2020](https://indico.cern.ch/event/882824/):
