@@ -7,7 +7,7 @@ pagetype: focus-area
 ---
 
   [OSG](https://opensciencegrid.org) is a consortium dedicated to the
-  advancement of all of open science via the practice of distributed High Throuput Computing (dHTC),
+  advancement of all of open science via the practice of distributed High Throughput Computing (dHTC),
   and the advancement of its state of the art.
   It is a collaboration between IT, software, and science organizations.
   The consortium coordinates human and computing resources from many funded projects towards the aforementioned goal.
