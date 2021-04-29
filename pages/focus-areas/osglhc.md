@@ -11,7 +11,7 @@ pagetype: focus-area
   and the advancement of its state of the art.
   It is a collaboration between IT, software, and science organizations.
   The consortium coordinates human and computing resources from many funded projects towards the aforementioned goal.
-  It is governed by the [OSG Council](https://opensciencegrid.org/council/), 
+  It is governed by the [OSG Council](https://opensciencegrid.org/council/),
   maintaining its [by-laws](https://opensciencegrid.org/council/documents/OSG-By-Laws-2020%20-%20v2.pdf),
   and electing an [executive director](https://opensciencegrid.org/about/team.html) for 2 year renewable terms to coordinate a program of work.
 
