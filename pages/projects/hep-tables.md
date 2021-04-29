@@ -22,7 +22,7 @@ Further, it does this with a fairly straightforward array-like syntax:
 
 - Initial dataset to histogram are specified in a coherent and unified way.
 - Syntax is inspired by `pandas` and `numpy` array syntax.
-- Supports awkward array usage as well. Awkward array is the standard language for manipulating 
+- Supports awkward array usage as well. Awkward array is the standard language for manipulating
 
 ## Features
 
