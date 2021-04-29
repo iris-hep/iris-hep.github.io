@@ -6,7 +6,7 @@ shortname: acts
 pagetype: project
 image: logos/ACTSlogo.gif
 logowidth: 30%
-blurb: Development of experiment-independent, inherently parallel track reconstruction.
+blurb: Development of experiment-independent, thread-safe track reconstruction.
 focus-area: ia
 team:
  - heather-gray
@@ -16,6 +16,8 @@ team:
  - gagnonlg
  - beomki-yeo
  - cvarni
+collaborators:
+ - Tomohiro Yamazaki
 ---
 
 [ACTS](http://acts.web.cern.ch/ACTS/) is international, open source project developing an experiment-independent set of track reconstruction tools. The main philosophy is to provide high-level track reconstruction modules that can be used for any tracking detector. The description of the tracking detector's geometry is optimized for efficient navigation and quick extrapolation of tracks. Converters for several common geometry description languages exist. Having a highly performant, yet largely customizable implementation of track reconstruction algorithms was a primary objective for the design of this toolset. Additionally, the applicability to real-life HEP experiments plays major role in the development process. Apart from algorithmic code, this project also provides an event data model for the description of track parameters and measurements.
