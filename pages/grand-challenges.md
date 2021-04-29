@@ -10,15 +10,20 @@ IRIS-HEP is establishing institute-wide “Grand Challenges” to assess our pro
 
 ## Data Processing Grand Challenge
 
-During a nominal year of HL-LHC data taking, ATLAS and CMS together expect to take roughly one exabyte of RAW data. Both experiments intend to process each year’s worth of data as early as possible in the year after. A reasonable working assumption is thus that one exabyte of data across both experiments will have to be processed in 100 days, or roughly 10 PB/day, or 1 Tbit/sec.
+During a nominal year of HL-LHC data taking, ATLAS and CMS together expect to take close to one exabyte of RAW data. Both experiments intend to process each year’s worth of data as early as possible in the year after. A reasonable working assumption is thus that one exabyte of data across both experiments will have to be processed in 100 days, or roughly 10 PB/day, or 1 Tbit/sec.
 
 The RAW data will reside on tape archives across the Tier-1s and CERN, and will get processed at Tier-1s, Tier-2s, and HPC centers. It is highly likely that the two experiments will overlap in time and at least some processing locations, e.g. the large DOE and NSF HPC centers. And it is virtually guaranteed that both will overlap on many network segments worldwide.
-IRIS-HEP has started a discussion with the US LHC Operations programs, the US Tier-1 centers, WLCG, ESNet, and the FABRIC networking testbed funded by the NSF, on a possible data challenge that would demonstrate the ability of the ATLAS and CMS production teams to achieve 10 PB of data processing in a single day. Ideally, such a demonstration would be end-to- end, from archives to disk buffers, to networks, to disk buffers at processing centers, to processing, and back with the results. Ideally, both experiment would run a well understood realistic but fast production workflow, e.g. AOD to MINIAOD in CMS and AOD to DAOD in ATLAS. Ideally, such a realistic challenge would be done a few years prior to the start of HL-LHC data taking to be able to react to lessons learned. An ideal schedule would thus locate such a challenge roughly 2 years after the end of the current 5 year funding of IRIS-HEP.
-11
 
-On roughly that timeline, FABRIC will be operating a Terabit/sec testbed across the USA from Washington to Chicago to Houston to San Diego. In addition, both BNL and FNAL, as well as most US LHC Tier-2 centers will be able to connect to Starlight at Chicago at an aggregate bandwidth in excess of one Terabit/sec. And the Expanse HPC system funded by NSF via the XD program will be located in the same computer room at SDSC where the FABRIC Tbit/sec supercore lands. Many investments from both NSF and DOE will thus come together to maybe make such an ideal 10 PB/day challenge feasible.
-
-IRIS-HEP will work towards such a challenge via a mix of planning, coordination, and component testing. During Y3, we will produce a plan, socialize it with the US LHC Ops programs, the DOE labs BNL and FNAL, ESNet, FABRIC leadership, choose an appropriate (set of) processing centers, and decide on a set of component tests that can be done during Y4, as well as a smaller scale end-to-end tests that can be done in Y5. Within IRIS-HEP, this will include effort from DOMA and OSG-LHC. It is directly connected to goals W3.3, W7.2 and W7.5, and will depend on work on HTTP TPC, XRootd monitoring, and network performance activities.
+IRIS-HEP, together with the US LHC Operations programs, the ATLAS and CMS global collaborations, and the WLCG
+arrived at a series of data challenges for the next several years (2021, 20203, 2025, 2027),
+during which the capabilities and performance of the global infrastructure will be slowly scaled out to reach HL-LHC requirements.
+This includes three levels of challenges that interleave and build on each other.
+First, there will be functionality evaluations during which new functionality of various infrastructure software products are tested.
+Second are scalability challenges of such individual products,
+and third, global production challenges in alternate years during which the production systems are exercised at increasing scale.
+The first two types of challenges feed into the third as new products providing new functionality, or scale,
+enter the production systems over time.
+IRIS-HEP is engaged in these challenges at all levels via projects in multiple of its focus areas.
 
 ## Analysis Grand Challenge
 
