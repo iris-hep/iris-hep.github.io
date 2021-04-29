@@ -162,12 +162,14 @@ presentations:
     meeting: Middleware and Grid Interagency Cooperation (MAGIC)  meeting
     meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC
     location: WebEx, US
+    focus-area: osglhc
   - title: "Running a GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
     date: 2019-11-19
     url: https://www.slideshare.net/igor_sfiligoi/running-a-gpu-burst-for-multimessenger-astrophysics-with-icecube-across-all-available-gpus-in-the-cloud
     meeting: SC 19 Multiple Booths
     meetingurl: https://sc19.supercomputing.org
     location: Denver, CO, USA
+    focus-area: osglhc
   - title: "OSG News"
     date: 2019-10-10
     url: https://indico.fnal.gov/event/21410/contribution/2/material/slides/0.pdf
@@ -221,57 +223,68 @@ presentations:
     meeting: "ECoM2x meeting CMS"
     url: http://uaf-8.t2.ucsd.edu/~fkw/ecom2xJuly5th2019.pptx
     project: modeling
+    focus-area: doma
   - title: "Advancing Open Science through distributed High Throughput Computing"
     date: 2019-06-25
     meeting: "NERSC Seminar talk"
     url: http://uaf-8.t2.ucsd.edu/~fkw/nerscJune25th2019.pptx
+    focus-area: osglhc
   - title: "OSG Accounting Task Force"
     date: 2019-06-12
     meeting: "OSG Area Coordinators Meeting"
     location: virtual
     url: http://uaf-8.t2.ucsd.edu/~fkw/osgAccountingTaskForceJune122019.pptx
+    focus-area: osglhc
   - title: "OSG-LHC"
     date: 2019-06-12
     meeting: "NSF IRIS-HEP meeting"
     url: https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf
     meetingurl: https://indico.cern.ch/event/820235/
+    focus-area: osglhc
   - title: "UCSD in IRIS-HEP DOMA"
     date: 2019-06-07
     meeting: "DOMA IRIS-HEP meeting"
     meetingurl: https://indico.cern.ch/event/818793/
     url: https://indico.cern.ch/event/818793/contributions/3420719/attachments/1859017/3054548/iris-hep-domaJune7th2019.pdf
+    focus-area: osglhc
   - title: "Advancing Science through distributed High Throughput Computing"
     date: 2019-06-05
     meeting: "SDX Workshop at Qualcom Institute"
     meetingurl: https://www.eventbrite.com/e/integrating-open-science-grid-osg-with-sdx-projects-workshop-june-5-6-2019-tickets-58800356449
     location: San Diego, CA
     url: http://uaf-8.t2.ucsd.edu/~fkw/sdxJune5th2019.pptx
+    focus-area: osglhc
   - title: "Data Lake — A site perspective"
     date: 2019-06-04
     meeting: "DOMA Access Meeting WLCG"
     url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune4th2019.pptx
     project: modeling
+    focus-area: doma
   - title: "OSG Value Proposition for Campuses"
     date: 2019-05-21
     url: https://drive.google.com/file/d/1WgaZMtm_DNB2qt8_-GJkVs66mlI4cORE/view?usp=drive_web
     meeting: "Great Plains Network Annual Meeting"
     meetingurl: https://conferences.k-state.edu/gpn/
     location: Kansas City, MO
+    focus-area: osglhc
   - title: "Advancing Open Science through distributed High Throughput Computing"
     date: 2019-05-21
     url: https://drive.google.com/file/d/1qZStE92CfkdN3i0zjboF-vl3Llgx4r1D/view?usp=drive_web
     meeting: "Great Plains Network Annual Meeting"
     meetingurl: https://conferences.k-state.edu/gpn/
     location: Kansas City, MO
+    focus-area: osglhc
   - title: "Big Science with Big Instruments"
     date: 2019-05-15
     meeting: "AWS Seminar talk"
     url: https://d1.awsstatic.com/WWPS/pdf/Science_at_the_Petascale.pdf
+    focus-area: osglhc
   - title: "Advancing Open Science through distributed High Throughput Computing"
     date: 2019-04-12
     url: https://drive.google.com/file/d/1M8w5ndUURkrsDDomhPFpGco4e0efHCVq/view?usp=sharing
     meeting: "CI Engineering Brown Bag"
     location: webinar
+    focus-area: osglhc
   - title: "Data Access at HPC: ATLAS/CMS Perspective"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3312490/
