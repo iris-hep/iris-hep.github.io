@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-module Jekyll
+module IrisHep
   # This will add a filter to raise an exception
   module ExceptionFilter
     def raise_error(msg)
@@ -11,4 +11,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_filter(Jekyll::ExceptionFilter)
+Liquid::Template.register_filter(IrisHep::ExceptionFilter)

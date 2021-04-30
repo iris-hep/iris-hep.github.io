@@ -9,7 +9,6 @@ module Checks
     # Main entry point for Jekyll
     def generate(site)
       @site = site
-      focus_areas = collect_focus_areas
 
       @site.data['people'].each do |name, person_hash|
         presentations = person_hash['presentations']
@@ -21,7 +20,6 @@ module Checks
           ensure_array(presentations[index], 'project')
 
           presentation = Record.new(msg, pres_hash)
-
           presentation.key 'title', :nonempty
           presentation.key 'date', :nonempty, :date
           presentation.key 'meeting', :nonempty
@@ -29,7 +27,7 @@ module Checks
           presentation.key 'meetingurl', :optional
           presentation.key 'location', :optional
           presentation.key 'focus-area', :optional, set: focus_areas
-          presentation.key 'project', :optional
+          presentation.key 'project', :optional, set: projects
 
           presentation.print_warnings
 
@@ -43,18 +41,31 @@ module Checks
 
     private
 
-    def collect_focus_areas
-      extras = @site.config['iris-hep']['extra-focus-areas'].to_set
-      focus_area_pages = @site.pages.select { |p| p['pagetype'] == 'focus-area' }
-      locals = focus_area_pages.map { |p| p.name[0...-3] }.to_set
-      extras | locals
+    def focus_areas
+      @focus_areas ||= begin
+        extras = @site.config['iris-hep']['extra-focus-areas'].to_set
+        focus_area_pages = @site.pages.select { |p| p['pagetype'] == 'focus-area' }
+        locals = focus_area_pages.map { |p| File.basename(p.name, '.*') }.to_set
+        extras | locals
+      end
+    end
+
+    def projects
+      @projects ||= begin
+        project_pages = @site.pages.select { |p| p['pagetype'] == 'project' }
+        project_pages.each do |p|
+          msg = "Filename #{p.name} must match the shortname #{p['shortname']}"
+          raise Checks::Error, msg unless File.basename(p.name, '.*') == p['shortname']
+        end
+        project_pages.map { |p| File.basename(p.name, '.*') }.to_set
+      end
     end
 
     def ensure_array(hash, key)
       return unless hash.key? key
       return if hash[key].is_a? Array
 
-      hash[key] = [hash[key]]
+      hash[key] = hash[key].nil? ? [] : [hash[key]]
     end
 
     def get_presentations(people)

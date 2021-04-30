@@ -4,6 +4,10 @@ require 'set'
 
 # System for checking yaml entries (also allows modification in a few places)
 module Checks
+  # This error is used
+  class Error < StandardError
+  end
+
   # This class holds a record (like a presentation or a user)
   # and checks the keys with a nice syntax.
   class Record
@@ -49,36 +53,40 @@ module Checks
       # rubocop:enable Style/GuardClause
     end
 
+    def raise_err(msg)
+      raise Error, "#{@name} #{msg}"
+    end
+
     private
 
     def key_missing(key, optional)
       return if @data.key? key
 
       @missing << key if optional
-      msg = "#{@name} must contain #{key}"
-      raise StandardError, msg unless optional
+      msg = "must contain '#{key}'"
+      raise_err msg unless optional
     end
 
     def key_nonempty(key, optional)
       @empty << key if optional
-      msg = "#{@name} contains #{key} which must not be empty"
-      raise StandardError, msg unless @data[key]
+      msg = "contains '#{key}' which must not be empty"
+      raise_err msg unless @data[key]
     end
 
     def key_date(key)
       d = @data[key]
-      msg = "#{@name} has a non-date #{d.class.name}. Must be of the form YYYY-MM-DD, not #{d}"
-      raise ArgumentError, msg unless d.is_a?(Date)
+      msg = "'#{key}' has a non-date #{d.class.name}. Must be of the form YYYY-MM-DD, not #{d}"
+      raise_err msg unless d.is_a?(Date)
     end
 
     def key_match(key, match)
-      msg = "#{@data[key]} != #{match}"
-      raise StandardError, msg unless match == @data[key]
+      msg = "'#{key}' has '#{@data[key]}' != '#{match}' (expected)"
+      raise_err msg unless match == @data[key]
     end
 
     def key_set(key, set)
-      msg = "#{@data[key]} < #{set.to_a}"
-      raise StandardError, msg unless @data[key].to_set < set.to_set
+      msg = "'#{key}': #{@data[key]} is not a subset of #{set.to_a}"
+      raise_err msg unless @data[key].to_set < set.to_set
     end
   end
 end
