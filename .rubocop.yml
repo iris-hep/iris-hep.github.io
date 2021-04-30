@@ -9,9 +9,9 @@ Metrics/AbcSize:
 Metrics/ClassLength:
   Max: 200
 Metrics/PerceivedComplexity:
-  Max: 12
+  Max: 16
 Metrics/CyclomaticComplexity:
-  Max: 10
+  Max: 16
 AllCops:
   NewCops: enable
   TargetRubyVersion: 2.4
