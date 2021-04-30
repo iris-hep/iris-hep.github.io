@@ -60,4 +60,4 @@ The meaning of the fields is the following:
   * url - this should be a direct URL to the presentation file (e.g. pdf)
   * meeting - the name of the meeting
   * meetingurl - the URL for the meeting in which the presentation was made
-  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc]
+  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc]. Must be a yaml list if more than one is present.

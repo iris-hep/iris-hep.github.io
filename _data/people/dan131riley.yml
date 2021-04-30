@@ -40,18 +40,18 @@ presentations:
     meeting: CMS Upgrade R&D/CMP Meeting
     meetingurl: https://indico.cern.ch/event/927203/
     focus-area: ia
-    project: mkFit
+    project: mkfit
   - title: "mkFit update: strip tracker unpacking and clustering on GPU "
     date: 2020-08-05
     url: https://indico.cern.ch/event/934806/contributions/3953697/attachments/2085045/3502700/gpu-unpacking-2020-08-05.pdf
     meeting: CMS Strip Calibration and Local Reconstruction Meeting
     meetingurl: https://indico.cern.ch/event/934806/?showDate=all&showSession=10
     focus-area: ia
-    project: mkFit
+    project: mkfit
   - title: "Accelerated Strip Local reconstruction on GPUs"
     date: 2020-12-15
     url: https://indico.cern.ch/event/934829/contributions/4146378/attachments/2163083/3650192/gpu-unpacking-2020-12-15.pdf
     meeting: CMS Tracker Detector Performance Group
     meetingurl: https://indico.cern.ch/event/934829/?showDate=all&showSession=6
     focus-area: ia
-    project: mkFit
+    project: mkfit

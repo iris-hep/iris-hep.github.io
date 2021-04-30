@@ -20,7 +20,7 @@ presentations:
     meeting: Analysis Systems Topical Meeting
     meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
     location: NYU
-    focus-area: as, ia
+    focus-area: [as, ia]
   - title: "The Machine Learning Landscape of Top Taggers"
     date: 2019-07-23
     url: https://indico.cern.ch/event/753914/contributions/3444496/

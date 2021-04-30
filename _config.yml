@@ -63,3 +63,8 @@ inspire:
   authors:
     min-len: 10
     trunc-len: 1
+
+iris-hep:
+  extra-focus-areas:
+    - core
+    - management

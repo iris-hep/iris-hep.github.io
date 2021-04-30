@@ -18,13 +18,13 @@ presentations:
     url: https://docs.google.com/presentation/d/1gpd9UH7aYXFU09-ijT1BYQnAFHGCjtfZsvWV038poqM/edit?usp=sharing
     meeting: XCache Meeting
     meetingurl: https://indico.fnal.gov/event/24246/
-    focus-area: osglhc, doma
+    focus-area: [osglhc, doma]
   - title: "XRootD Validation Plan"
     date: 2020-04-22
     url: https://docs.google.com/presentation/d/1fa7ZmYSnfJ13Z3xjGS9XzPeD-o5w23wVSc00Ju7W1Hk/edit?usp=sharing
     meeting: USCMS S&C Blueprint Meeting
     meetingurl: https://indico.cern.ch/event/909034/
-    focus-area: osglhc, doma
+    focus-area: [osglhc, doma]
   - title: "OSG Accounting and Visualization"
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3331192/22_-_GRACC-IRIS-HEP-poster_-_v1.pdf
@@ -42,10 +42,10 @@ presentations:
     url: https://drive.google.com/file/d/1689yCyAdYI2jggzLXHNvE3h8qtYLk2-5/view?usp=sharing
     meeting: Practice and Experience in Advanced Research Computing
     meetingurl: https://www.pearc19.pearc.org/
-    focus-area: osglhc, doma
+    focus-area: [osglhc, doma]
   - title: "OSG Data Federation"
     date: 2019-06-11
     url: https://indico.cern.ch/event/727208/contributions/3444610/attachments/1860176/3057002/OSG-StashCache.pdf
     meeting: XRootD Workshop at CC-IN2P3
     meetingurl: https://indico.cern.ch/event/727208/overview
-    focus-area: osglhc, doma
+    focus-area: [osglhc, doma]

@@ -53,13 +53,13 @@ presentations:
     url: https://indico.fnal.gov/event/43829/contributions/192481/attachments/134058/165615/snowmassAugust11th2020.pdf
     meeting: Snowmass computational frontier workshop
     meetingurl: https://indico.fnal.gov/event/43829/overview
-    focus-area: doma, osglhc
+    focus-area: [doma, osglhc]
   - title: Discussion of CompF4 Group Mandate
     date: 2020-08-10
     url: https://indico.fnal.gov/event/43829/contributions/193062/attachments/132700/163227/snowmassAugust10th2020.pdf
     meeting: Snowmass computational frontier workshop
     meetingurl: https://indico.fnal.gov/event/43829/overview
-    focus-area: doma, osglhc
+    focus-area: [doma, osglhc]
   - title: High Throughput Science Workshop
     date: 2020-07-31
     url: https://pearc20.sched.com/event/cnY6?iframe=no
