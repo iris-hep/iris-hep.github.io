@@ -1,6 +1,6 @@
 open: yes
 postdate: 2021-05-01
-title: 
+title:
 description: >
   A muon-collider has been proposed as a possible path for future high-energy physics.
   The design of a detector for a muon collider has to cope with a large
@@ -12,7 +12,7 @@ description: >
   The project consists of two possible phases. In the first one, we will investigate how the tracking algorithms can
   be improved by utilizing directional information from specially-arranged silicon-detector layers. In the second phase,
   if time allows, we will focus on the optimization of the algorithm and the detector layout in order to take full advantage
-  of such information.  
+  of such information.
 contacts:
 - "[Sergo Jindariani](sergo@fnal.gov)"
 - "[Simone Pagan Griso](spagangriso@lbl.gov)"
