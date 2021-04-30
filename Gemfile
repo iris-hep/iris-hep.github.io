@@ -23,7 +23,8 @@ group :development do
   gem 'rake', require: false
 
   # Verify good coding practices in Ruby files
-  gem 'rubocop', require: false
+  # Pinning 1.12.x since 1.13 drops 2.4 support
+  gem 'rubocop', '~>1.12.0', require: false
 
   # Extension for Rake files
   gem 'rubocop-rake', require: false
@@ -54,4 +55,4 @@ gem 'wdm', '~> 0.1.0' if Gem.win_platform?
 # Pinning this for now since macOS + default Ruby needs this
 # Please use rbenv to pick Ruby versions; the next Jekyll release
 # will not work with macOS's Ruby 2.3
-gem 'ffi', '= 1.10.0'
+gem 'ffi', '~> 1.10'
