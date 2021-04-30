@@ -13,11 +13,12 @@ presentations:
     meetingurl: https://indico.cern.ch/event/797510/
     location:
     focus-area: ia
+    project: caloreco-mlaas
   - title: Using GPUs and FPGAs as-a-service for LHC computing
     date: 2020-09-09
     url: https://indico.cern.ch/event/942656/contributions/3960947/attachments/2100003/3530357/irishep_aas_09sep20.pdf
     meeting: IRIS-HEP topical meeting
     meetingurl: https://indico.cern.ch/event/942656/
     focus-area: ia
-    project: ml-on-fpgas
+    project: caloreco-mlaas
 
