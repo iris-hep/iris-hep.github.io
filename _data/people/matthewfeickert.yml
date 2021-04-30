@@ -12,6 +12,7 @@ presentations:
     url: https://indico.cern.ch/event/759480/contributions/3149836/
     meeting: DIANA/HEP Meeting
     meetingurl: https://indico.cern.ch/event/759480/
+    location: Virtual
     focus-area: as
     project: pyhf
   - title: "pyhf: a pure Python statistical fitting library for High Energy Physics with tensors and autograd"
