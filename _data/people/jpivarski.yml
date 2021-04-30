@@ -33,6 +33,7 @@ presentations:
     meetingurl: https://researchcomputing.princeton.edu/events/high-performance-python-and-interoperability-compiled-code-48-410
     location: "Princeton University"
     focus-area: [as, ssc]
+    project:
 
   - title: "Aghast"
     date: 2019-04-15
@@ -68,6 +69,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/769263/timetable/
     location: "Fermilab"
     focus-area: [as, ssc]
+    project:
 
   - title: "Programming languages and particle physics"
     date: 2019-05-08
@@ -76,6 +78,7 @@ presentations:
     meetingurl: https://events.fnal.gov/colloquium/events/event/pivarski-colloq-2019/
     location: "Fermilab"
     focus-area: [as]
+    project:
 
   - title: "Summary of the 'Analysis Description Languages for the LHC' workshop"
     date: 2019-05-09
@@ -84,6 +87,7 @@ presentations:
     url: https://indico.cern.ch/event/806811/#1-summary-of-the-analysis-desc
     location: "Fermilab"
     focus-area: [as]
+    project:
 
   - title: "Pattern matching for decay trees"
     date: 2019-05-22
@@ -92,6 +96,7 @@ presentations:
     location: "online"
     url: https://indico.cern.ch/event/820598/#2-pattern-matching-for-decay-t
     focus-area: [as]
+    project:
 
   - title: "Scientific Python and Uproot HATS"
     date: 2019-05-28
@@ -142,6 +147,7 @@ presentations:
     date: 2019-07-10
     meeting: "Analysis Systems Biweekly Meeting"
     url: https://indico.cern.ch/event/815512/
+    meetingurl:
     location: "online"
     focus-area: [as]
     project: [awkward]
@@ -153,6 +159,7 @@ presentations:
     url: https://github.com/jpivarski/2019-07-23-codas-hep#readme
     location: "Princeton University"
     focus-area: [as, ssc]
+    project:
 
   - title: "IRIS-HEP Tutorial: Fast columnar data analysis with data science tools"
     date: 2019-07-29
@@ -194,6 +201,7 @@ presentations:
     date: 2020-02-27
     meeting: "IRIS-HEP Review"
     url: https://github.com/jpivarski/2020-02-27-irishep-poster/blob/master/pivarski-irishep-poster.pdf
+    meetingurl:
     location: "Princeton University"
     focus-area: [as]
     project: [awkward]
@@ -202,6 +210,7 @@ presentations:
     date: 2020-04-08
     meeting: "Electron Ion Collider User's meeting"
     url: https://www.youtube.com/watch?v=FoxNS6nlbD0
+    meetingurl:
     location: "online"
     focus-area: [as, ssc]
     project: [awkward]
@@ -240,6 +249,7 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/43829/
     location: "online"
     focus-area: [as]
+    project:
 
   - title: "Future of User Analysis"
     date: 2020-10-01
@@ -266,6 +276,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/971994/
     location: "online"
     focus-area: [as]
+    project:
 
   - title: "PyHEP Numba tutorial"
     date: 2021-02-03
@@ -274,4 +285,4 @@ presentations:
     meetingurl: https://indico.cern.ch/event/985350/
     location: "online"
     focus-area: [as, ssc]
-
+    project:
