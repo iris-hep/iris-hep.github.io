@@ -24,6 +24,45 @@
 {% endif %}
 {% endfor %}
 
+{% assign fa_team = "" | split: "," %}
+{% for mypage in sorted %}
+{% if mypage.pagetype == 'project' %}
+{% if mypage.focus-area contains page.short_title %}
+{% for person in mypage.team %}
+{% if fa_team contains person %}
+{% continue %}
+{% endif %}
+{% assign fa_team = fa_team | push: person %}
+{% endfor %}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% assign sorted_team = fa_team | sort %}
+{% if fa_team.size > 0 %}
+<div class="container-fluid">
+  <div class="row">
+    {% for fa_person in fa_team %}
+    {% for person_hash in site.data.people %}
+    {% assign person = person_hash[1] %}
+    {% unless fa_person == person.shortname %}
+    {% continue %}
+    {% endunless %}
+    <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px;">
+       <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
+      {%- if person.website -%}
+        <a href="{{person.website}}">{{ person.name }}</a> 
+      {%- else -%}
+        {{ person.name }} 
+      {%- endif -%}
+       </div>
+    {% endfor %}
+    {% endfor %}
+  </div>
+  <br>
+</div>
+{% endif %} 
+
+
 {% if doProjects ==1 %}
 <div class="container-fluid projects">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
