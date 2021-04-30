@@ -16,7 +16,7 @@ team:
  - gagnonlg
  - beomki-yeo
  - cvarni
- - toyamaza
+ - Tomohiro Yamazaki
  - xiaocong-ai
 ---
 
