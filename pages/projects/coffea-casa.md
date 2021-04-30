@@ -81,3 +81,8 @@ More information could be found in the corresponding repository:
 
 * The coffea-casa introductory Youtube video at [PyHEP 2020](https://www.youtube.com/watch?v=CDIFd1gDbSc)
 * The coffea-casa Youtube video tutorial at [PyHEP 2020](https://www.youtube.com/watch?v=oPl0t8J36-Q)
+
+
+### Fellows
+
+* [Zora Che](/pages/fellows/zche.html)
