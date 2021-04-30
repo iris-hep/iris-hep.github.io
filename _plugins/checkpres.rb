@@ -3,17 +3,13 @@
 require_relative 'checks'
 require 'set'
 
-FOCUS_AREAS = %w[
-  core management
-  as blueprint doma ia osglhc ssc ssl
-].to_set.freeze
-
 module Checks
   # This is a Jekyll Generator
   class CheckPresInfo < Jekyll::Generator
     # Main entry point for Jekyll
     def generate(site)
       @site = site
+      focus_areas = collect_focus_areas
 
       @site.data['people'].each do |name, person_hash|
         presentations = person_hash['presentations']
@@ -32,7 +28,7 @@ module Checks
           presentation.key 'url'
           presentation.key 'meetingurl', :optional
           presentation.key 'location', :optional
-          presentation.key 'focus-area', :optional, set: FOCUS_AREAS
+          presentation.key 'focus-area', :optional, set: focus_areas
           presentation.key 'project', :optional
 
           presentation.print_warnings
@@ -46,6 +42,13 @@ module Checks
     end
 
     private
+
+    def collect_focus_areas
+      extras = @site.config['iris-hep']['extra-focus-areas'].to_set
+      focus_area_pages = @site.pages.select { |p| p['pagetype'] == 'focus-area' }
+      locals = focus_area_pages.map { |p| p.name[0...-3] }.to_set
+      extras | locals
+    end
 
     def ensure_array(hash, key)
       return unless hash.key? key
