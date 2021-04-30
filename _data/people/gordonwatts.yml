@@ -68,7 +68,7 @@ presentations:
     url: https://indico.cern.ch/event/835581/contributions/3508561
     meeting: Computing infrastructures for future data analysis
     meetingurl: https://indico.cern.ch/event/835581
-    focus-area: as doma
+    focus-area: [as, doma]
   - title: func-adl to C++/xAOD backend
     date: 2019-09-13
     url: https://indico.cern.ch/event/840472/contributions/3563333/
