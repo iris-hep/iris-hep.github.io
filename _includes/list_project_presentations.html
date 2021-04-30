@@ -1,4 +1,4 @@
-{% include get_pres_list.html %}
+{% assign sorted_presentations = site.data['sorted_presentations'] %}
 
 {% assign pres_list = "" | split: "," %}
 {% for pres in sorted_presentations %}

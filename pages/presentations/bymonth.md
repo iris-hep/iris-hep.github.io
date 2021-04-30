@@ -5,7 +5,7 @@ title: Presentations by Month
 redirect_from: "/presentations/all"
 ---
 
-{% include get_pres_list.html %}
+{% assign sorted_presentations = site.data['sorted_presentations'] %}
 
 
 <!--

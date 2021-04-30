@@ -31,6 +31,15 @@ module Checks
           presentations[index]['member'] = name
         end
       end
+
+      @site.data['sorted_presentations'] = get_presentations site.data['people']
+    end
+
+    private
+
+    def get_presentations(people)
+      presentations = people.flat_map { |_, p| p['presentations'] || [] }
+      presentations.sort_by { |p| p['date'] }.reverse!
     end
   end
 end

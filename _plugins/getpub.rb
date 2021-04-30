@@ -41,9 +41,15 @@ module Publications
 
         # Highlighted publications?
       end
+
+      @site.data['sorted_publications'] = get_publications site.data['publications']
     end
 
     private
+
+    def get_publications(publications)
+      publications.values.sort_by { |p| p['date'] }.reverse!
+    end
 
     def str_to_date(input, name)
       # Fail nicely if nil
