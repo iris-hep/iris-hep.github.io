@@ -143,6 +143,7 @@ presentations:
     meetingurl: https://lpsc-indico.in2p3.fr/event/2585/
     location: Virtual
     focus-area: as
+    project:
   - title: "Fitting and Statistical Inference as a Service"
     date: 2020-12-04
     url: https://indico.cern.ch/event/972791/contributions/4121109/
