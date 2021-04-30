@@ -1,7 +1,0 @@
-{% assign sorted_publications = "" | split: "," %}
-{% for pub_hash in site.data.publications  %}
-  {% assign pub = pub_hash[1] %}
-  {% assign sorted_publications = sorted_publications | push: pub %}
-{% endfor %}
-{% assign sorted_publications = sorted_publications | sort: "date" | reverse %}
-

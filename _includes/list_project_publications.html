@@ -1,4 +1,4 @@
-{% include get_pub_list.html %}
+{% assign sorted_publications = site.data['sorted_publications'] %}
 
 {% assign pubs = "" | split: "," %}
 {% for pub in sorted_publications %}

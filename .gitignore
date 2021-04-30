@@ -17,3 +17,4 @@ _data/topical/
 node_modules/
 package.json
 .ipynb_checkpoints/
+.jekyll-cache/

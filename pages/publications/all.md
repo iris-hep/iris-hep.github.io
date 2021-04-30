@@ -7,7 +7,7 @@ draft: false
 
 ## Publications by the IRIS-HEP team
 
-{% include get_pub_list.html %}
+{% assign sorted_publications = site.data['sorted_publications'] %}
 
 <ul>
   {% for pub in sorted_publications %}

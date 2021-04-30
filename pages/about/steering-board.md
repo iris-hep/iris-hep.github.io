@@ -14,7 +14,7 @@ priorities, execution, and strategy of the Institute.**
   <div class="row">
   {% for member in site.data.orgs.steering-board.personnel  %}
        {% assign person = site.data.people[member] %}
-       {% include standard_person_card.md %}
+       {% include standard_person_card.md person=person %}
   {% endfor %}
   </div>
 </div>
