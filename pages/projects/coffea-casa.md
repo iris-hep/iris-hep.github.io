@@ -16,7 +16,6 @@ team:
  - Garhan Attebury
  - John Thiltges
  - Matous Adamec
- - zche
 ---
 
 
@@ -58,9 +57,8 @@ Docker containers:
 [![Docker Pulls for coffea-casa](https://img.shields.io/docker/pulls/coffeateam/coffea-casa.svg)](https://hub.docker.com/r/coffeateam/coffea-casa)
 [![Docker Pulls for coffea-casa (worker image)](https://img.shields.io/docker/pulls/coffeateam/coffea-casa-analysis.svg)](https://hub.docker.com/r/coffeateam/coffea-casa-analysis)
 
-The code, Helm charts and Docker images could be found in the corresponding repositories (for access to coffea-casa-config.git, please request an access from `coffea-casa` team):
+More information could be found in the corresponding repository:
  * [github.com/CoffeaTeam/coffea-casa](https://github.com/CoffeaTeam/coffea-casa)
- * [github.com/CoffeaTeam/coffea-casa-config](https://github.com/CoffeaTeam/coffea-casa-config)
 
 
 
@@ -83,3 +81,8 @@ The code, Helm charts and Docker images could be found in the corresponding repo
 
 * The coffea-casa introductory Youtube video at [PyHEP 2020](https://www.youtube.com/watch?v=CDIFd1gDbSc)
 * The coffea-casa Youtube video tutorial at [PyHEP 2020](https://www.youtube.com/watch?v=oPl0t8J36-Q)
+
+
+### Fellows
+
+* [Zora Che](/pages/fellows/zche.html)
