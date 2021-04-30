@@ -23,7 +23,7 @@ presentations:
   - title: Track Seed Finding in ACTS
     date: 2021-03-24
     url: https://indico.cern.ch/event/1004147/contributions/4219890/attachments/2215172/3749974/tomohiro_iris_20210324.pdf
-    meeting: IRIS-HEP Topical Meeting: HL-LHC R&D topics: Running FastCaloSim on GPU + ACTS
+    meeting: "IRIS-HEP Topical Meeting: HL-LHC R&D topics: Running FastCaloSim on GPU + ACTS"
     meetingurl: https://indico.cern.ch/event/1004147/
     focus-area: ia
     project: acts
