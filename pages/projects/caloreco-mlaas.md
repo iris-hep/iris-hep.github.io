@@ -1,11 +1,11 @@
 ---
-permalink: /projects/ml-on-fpgas.html
+permalink: /projects/caloreco-mlaas.html
 layout: project
-title: ML on FPGAs
-shortname: ml-on-fpgas
+title: Accelerators as a service for recosntruction
+shortname: caloreco-mlaas
 pagetype: project
 image: logos/fpga_ml_results.png
-blurb: Fast inference of deep neural networks on FPGAs
+blurb: Accelerated calorimeter reconstruction using Machine Learning as a Service
 focus-area: ia
 team:
  - dcraik
