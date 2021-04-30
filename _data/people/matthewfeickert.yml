@@ -29,6 +29,8 @@ presentations:
     meeting: 2019 USATLAS/FIRST-HEP Computing Bootcamp
     meetingurl: https://indico.cern.ch/event/816946/
     location: Lawrence Berkeley National Laboratory
+    focus-area: ssc
+    project:
   - title: "pyhf Roadmap: 2019 into 2020"
     date: 2019-09-12
     url: https://indico.cern.ch/event/840472/contributions/3564386/
