@@ -9,8 +9,8 @@ pagetype: doc
 
 This is a list of the publications, along with the NSF PAR status.
 
+{% assign sorted_publications = site.data['sorted_publications'] %}
 {% assign doPublications = 0 %}
-{% include get_pub_list.html %}
 
 ### TODO: Needs an NSF PAR ID
 
