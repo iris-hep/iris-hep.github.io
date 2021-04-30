@@ -50,9 +50,9 @@
     <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px;">
        <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
       {%- if person.website -%}
-        <a href="{{person.website}}">{{ person.name }}</a> 
+        <a href="{{person.website}}">{{ person.name }}</a>
       {%- else -%}
-        {{ person.name }} 
+        {{ person.name }}
       {%- endif -%}
        </div>
     {% endfor %}
@@ -60,7 +60,7 @@
   </div>
   <br>
 </div>
-{% endif %} 
+{% endif %}
 
 
 {% if doProjects ==1 %}
