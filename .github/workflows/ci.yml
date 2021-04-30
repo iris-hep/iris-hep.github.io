@@ -31,7 +31,7 @@ jobs:
         path: _cache
         key: ${{ runner.os }}-_cache-${{ hashFiles('_data/publications/*.yml') }}
 
-    - uses: actions/setup-ruby@v1
+    - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.7'
 
