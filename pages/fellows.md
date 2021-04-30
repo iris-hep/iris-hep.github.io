@@ -83,7 +83,7 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
 {%- endfor -%}
 
 {%- if active-fellows %}
-# IRIS-HEP Current Fellows
+# Current IRIS-HEP Fellows
 
 <div class="container-fluid">
   <div class="row">
@@ -112,7 +112,7 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
 
 {% endif %}
 
-# IRIS-HEP Former Fellows
+# Former IRIS-HEP Fellows
 <div class="container-fluid">
   <div class="row">
     {% assign sorted = site.pages | sort_natural: 'title' %}
