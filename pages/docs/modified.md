@@ -1,6 +1,7 @@
 ---
-permalink: /docs/modified.html
 layout: default
+pagetype: doc
+permalink: /docs/modified.html
 title: Last Modified Material
 ---
 
