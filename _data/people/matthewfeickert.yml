@@ -62,6 +62,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/773049/
     location: Adelaide, South Australia
     focus-area: as
+    project: pyhf
   - title: "An introduction to pyhf and HistFactory likelihoods"
     date: 2019-11-25
     url: https://matthewfeickert.github.io/talk-LHCb-Stats-Forum/index.html
@@ -118,6 +119,7 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/43829/
     location: Virtual
     focus-area: as
+    project: pyhf
   - title: "Toward Fitting as a Service with pyhf"
     date: 2020-10-26
     url: https://indico.cern.ch/event/960587/contributions/4070323/
