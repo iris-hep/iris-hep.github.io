@@ -20,7 +20,7 @@ module Checks
         person = Record.new(msg, person_hash)
 
         person.key 'name', :nonempty
-        person.key 'shortname', name
+        person.key 'shortname', match: name
         person.key 'title'
         person.key 'institution', :nonempty
         person.key 'photo', :optional
