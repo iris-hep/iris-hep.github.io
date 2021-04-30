@@ -1,7 +1,7 @@
 ---
 permalink: /projects/caloreco-mlaas.html
 layout: project
-title: Accelerators as a service for recosntruction
+title: Accelerators and ML for reconstruction
 shortname: caloreco-mlaas
 pagetype: project
 image: logos/fpga_ml_results.png
