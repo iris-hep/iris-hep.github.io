@@ -28,8 +28,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-# seems to cause problems currently (March 2019)
-#  - jekyll-redirect-from
 
 strict_front_matter: true
 
@@ -38,17 +36,7 @@ liquid:
   strict_filters: true
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  # Added
   - _cache
   - _scripts
   - bin
