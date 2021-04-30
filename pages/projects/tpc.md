@@ -23,7 +23,7 @@ data movement is regularly peaks above 250Gbps in 2021 -- and this is without
 the LHC accelerator taking new data!
 
 The HL-LHC promises a data deluge: we will need to modernize the infrastructure
-to sustain at least 1Tbps a second by 2027 and, likely, peeking at twice that
+to sustain at least 1Tbps by 2027 and, likely, peeking at twice that
 level.
 Historically, bulk data movement has been done with the GridFTP protocol; as the community looks
 to the increased data volumes of HL-LHC and GridFTP becomes increasingly
@@ -49,7 +49,7 @@ activity - is helping the LHC and HEP in general transition to using HTTP for bu
 During the initial phase of IRIS-HEP, the team worked with a variety of
 implementations to improve code and ensure interoperability.  The first goal
 was to get all commonly-used storage implementations for the LHC to provide
-aan HTTP endpoint.  Initially, the goal was set to get one
+an HTTP endpoint.  Initially, the goal was set to get one
 site to get more that 30% of its data using the HTTP protocol.  This was
 accomplished in 2020; for 2021, the goal is to have every LHC _site_ to use
 HTTP-TPC.
@@ -68,24 +68,30 @@ can support such protocol.
    </p>
   </div>
 </div>
+<br>
+
+The next goal was set to have a single site having 50% of all its data being transferred via HTTPS.
+<br>
+<div class="card" style="width: 40rem; margin: auto">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-nebraska-davs.png" alt="HTTPS vs non-HTTPS">
+  <div class="card-body">
+   <h5 class="card-title">Percentage of data transfered to/from Nebraska via HTTPS vs non-HTTPS</h5>
+   <p class="card-text">The above shows the amount of production data transferred to and from Nebraska
+    using HTTPS with respect to non-HTTPS during April 2021.
+   </p>
+  </div>
+</div>
+<br>
 
 <br>
-TPC Dashboards for Nebraska and UCSD can be found here:
-
- * [Nebraska](https://monit-grafana.cern.ch/d/aDc1qQwZk1/tpc-over-xrootd-at-nebraska?orgId=11)
- * [UCSD](https://monit-grafana.cern.ch/d/aDc1qQwZk/tpc-over-xrootd-at-ucsd?orgId=11)
-
-<br>
-On the ATLAS side, the transition has started to ramp up with 3 participating sites:
-AGLT2, PragueLCG2 and SLAC.
+On the ATLAS side, the transition has taken a faster pace having that most of their sites have adopted an HTTPS endpoint.
 
 <br>
 <div class="card" style="width: 40rem; margin: auto">
-  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-breakdown-atlas.png" alt="Atlas protocol breakdown">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-atlas-breakdown_042021.png" alt="Atlas protocol breakdown">
   <div class="card-body">
-   <h5 class="card-title">Protocol breakdown for transfers at: PragueLCG2 and AGLT2 </h5>
-   <p class="card-text">The above shows the percentage of data transferred using each of the available protocols
-    for the sites: PrageLCG2 and AGLT2 during July 2020.
+   <h5 class="card-title">Protocol breakdown for transfers at all ATLAS sites </h5>
+   <p class="card-text">The above shows the percentage of data transferred among all sites (excluding tape endpoints) using each of the available protocols during April 2021.
    </p>
   </div>
 </div>
@@ -96,4 +102,3 @@ AGLT2, PragueLCG2 and SLAC.
  * [Third Party Copy](https://twiki.cern.ch/twiki/bin/view/LCG/ThirdPartyCopy)
  * [DCache instructions](https://twiki.cern.ch/twiki/bin/view/LCG/DCacheConfig)
  * [XRootD instructions](https://twiki.cern.ch/twiki/bin/view/Main/XRootDoverHTTP)
-
