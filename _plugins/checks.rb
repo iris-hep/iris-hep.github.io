@@ -17,6 +17,13 @@ module Checks
       nonempty = !args.delete(:nonempty).nil?
       date = !args.delete(:date).nil?
 
+      if args.length == 1 && args[0].is_a?(String)
+        match = args.pop
+        nonempty = true
+      else
+        match = nil
+      end
+
       msg = "Unrecognized arguments #{args} passed to Record.key"
       raise ArgumentError, msg unless args.empty?
 
@@ -29,6 +36,11 @@ module Checks
         @empty << key if optional
         msg = "#{@name} contains #{key} which must not be empty"
         raise StandardError, msg unless @data[key]
+      end
+
+      if match && match != @data[key]
+        msg = "#{@data[key]} != #{match}"
+        raise StandardError, msg
       end
 
       return unless date
