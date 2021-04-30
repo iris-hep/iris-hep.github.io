@@ -103,7 +103,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/840472/
     location: Fermi National Accelerator Laboratory
     project: histogram
-    focus-area: as, ssc, ia
+    focus-area: [as, ssc, ia]
   - title: "Python 3.8: What's new"
     date: 2019-10-17
     url: https://indico.cern.ch/event/833895/contributions/3606920/

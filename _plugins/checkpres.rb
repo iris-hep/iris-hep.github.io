@@ -1,6 +1,12 @@
 # frozen_string_literal: true
 
 require_relative 'checks'
+require 'set'
+
+FOCUS_AREAS = %w[
+  core management
+  as blueprint doma ia osglhc ssc ssl
+].to_set.freeze
 
 module Checks
   # This is a Jekyll Generator
@@ -14,6 +20,10 @@ module Checks
 
         presentations&.each_with_index do |pres_hash, index|
           msg = "presentation ##{index} in _data/people/#{name}.yml"
+
+          ensure_array(presentations[index], 'focus-area')
+          ensure_array(presentations[index], 'project')
+
           presentation = Record.new(msg, pres_hash)
 
           presentation.key 'title', :nonempty
@@ -22,7 +32,7 @@ module Checks
           presentation.key 'url'
           presentation.key 'meetingurl', :optional
           presentation.key 'location', :optional
-          presentation.key 'focus-area', :optional
+          presentation.key 'focus-area', :optional, set: FOCUS_AREAS
           presentation.key 'project', :optional
 
           presentation.print_warnings
@@ -36,6 +46,13 @@ module Checks
     end
 
     private
+
+    def ensure_array(hash, key)
+      return unless hash.key? key
+      return if hash[key].is_a? Array
+
+      hash[key] = [hash[key]]
+    end
 
     def get_presentations(people)
       presentations = people.flat_map { |_, p| p['presentations'] || [] }
