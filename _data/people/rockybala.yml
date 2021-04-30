@@ -12,15 +12,18 @@ presentations:
     meeting: "SLAC ATLAS meeting"
     meetingurl:
     location: SLAC
+    project: acts
   - title: "Athena-ACTS Wrapper: Iterative Vertex Finder with Full Billoir Fitter"
     date: 2021-02-12
     url:
     meeting: "SLAC ATLAS meeting"
     meetingurl:
     location: SLAC
+    project: acts
   - title: "Parameter Optimization and Layer Linking in ACTS track Seeding"
     date: 2021-02-26
     url: https://indico.cern.ch/event/1010520/contributions/4249433/attachments/2197746/3716120/ACTS_ML_Meeting_Feb26.pdf
     meeting: "ACTS Machine Learning Meeting"
     meetingurl: https://indico.cern.ch/event/1010520/
     location: CERN
+    project: acts
