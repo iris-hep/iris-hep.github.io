@@ -11,7 +11,7 @@ Metrics/ClassLength:
 Metrics/PerceivedComplexity:
   Max: 12
 Metrics/CyclomaticComplexity:
-  Max: 10
+  Max: 12
 AllCops:
   NewCops: enable
   TargetRubyVersion: 2.4

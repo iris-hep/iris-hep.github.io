@@ -6,6 +6,13 @@ institution: University of California, Berkeley
 website: https://atlas.cern/authors/heather-gray
 photo: /assets/images/team/Heather-Gray.png
 presentations:
+  - title: "HEP Software over the next decade"
+    date: 2021-05-17
+    meeting: vCHEP
+    meetingurl: https://indico.cern.ch/event/948465/
+    url: https://indico.cern.ch/event/948465/
+    focus-area: ia
+    project: acts
   - title: "IRIS-HEP Report: Innovative Algorithms"
     date: 2020-08-11
     meeting: Snowmass Computational Frontier Workshop

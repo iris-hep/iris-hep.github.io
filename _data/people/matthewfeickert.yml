@@ -12,6 +12,7 @@ presentations:
     url: https://indico.cern.ch/event/759480/contributions/3149836/
     meeting: DIANA/HEP Meeting
     meetingurl: https://indico.cern.ch/event/759480/
+    location: Virtual
     focus-area: as
     project: pyhf
   - title: "pyhf: a pure Python statistical fitting library for High Energy Physics with tensors and autograd"
@@ -28,6 +29,8 @@ presentations:
     meeting: 2019 USATLAS/FIRST-HEP Computing Bootcamp
     meetingurl: https://indico.cern.ch/event/816946/
     location: Lawrence Berkeley National Laboratory
+    focus-area: ssc
+    project:
   - title: "pyhf Roadmap: 2019 into 2020"
     date: 2019-09-12
     url: https://indico.cern.ch/event/840472/contributions/3564386/
@@ -59,6 +62,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/773049/
     location: Adelaide, South Australia
     focus-area: as
+    project: pyhf
   - title: "An introduction to pyhf and HistFactory likelihoods"
     date: 2019-11-25
     url: https://matthewfeickert.github.io/talk-LHCb-Stats-Forum/index.html
@@ -115,6 +119,7 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/43829/
     location: Virtual
     focus-area: as
+    project: pyhf
   - title: "Toward Fitting as a Service with pyhf"
     date: 2020-10-26
     url: https://indico.cern.ch/event/960587/contributions/4070323/
@@ -138,6 +143,7 @@ presentations:
     meetingurl: https://lpsc-indico.in2p3.fr/event/2585/
     location: Virtual
     focus-area: as
+    project:
   - title: "Fitting and Statistical Inference as a Service"
     date: 2020-12-04
     url: https://indico.cern.ch/event/972791/contributions/4121109/

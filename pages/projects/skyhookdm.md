@@ -69,3 +69,7 @@ The above two plots shows how Parquet (top) stays bottlenecked on the client CPU
 * March, 2021 - [SkyhookDM v0.1.1](https://github.com/uccross/arrow/releases/tag/v0.1.1) Released !
 * February, 2021 - [SkyhookDM v0.1.0](https://github.com/uccross/arrow/releases/tag/v0.1.0) Released !
 * February, 2021 - [Guide](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/adapters/arrow-rados-cls/README.md) for getting started with SkyhookDM.
+
+## Fellows
+* [Jayjeet Chakraborty](/pages/fellows/JayjeetChakraborty.html)
+* [Xiongfeng Song](/pages/fellows/JayjeetChakraborty.html)
