@@ -8,29 +8,29 @@ title: Available Positions
 
  A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
-### Fermilab (CMS Physics Research and [CCE](https://hepcce.org/) Computing Research)
-
-  * [Postdoctoral Research Associate](https://academicjobsonline.org/ajo/jobs/16231)
+### University of Nebraska - Lincoln
+  * [Postdoctoral Research Associate on CMS](https://inspirehep.net/jobs/1849488)
 
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
-### Rice University 
-  * [Postdoctoral Research XENONnT and Data Science](https://jobs.rice.edu/postings/20856)
-
-### UC Berkeley
-  * [Postdoc -- ATLAS experiment (physics/tracking)](https://labs.inspirehep.net/jobs/1770850)
+### University of Notre Dame
+  * [Postdoc on CMS for ML and Analysis Frameworks](https://academicjobsonline.org/ajo/jobs/17981)
 
 ### Princeton University
 
   * [Data Scientist positions in Catalysis, Biomedical Data Science and Technology Policy](https://csml.princeton.edu/news/data-scientist-positions-available-princeton)
 
-### Argonne National Lab
-
-  * [Postdoc - Algorithm Optimization at the Exascale](https://careers.peopleclick.com/careerscp/client_argonnelab/post_doc/en_US/gateway.do?functionName=viewFromLink&localeCode=en-us&jobPostId=7071)
-
 ### ATLAS
 
   * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
+
+### University of California, San Diego
+  * [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=108447)
+
+### University of Wisconsin–Madison
+  * [Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/508915/associate-computing-infrastructure-administrator)
+
+### Others

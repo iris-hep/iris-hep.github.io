@@ -1,4 +1,4 @@
-{% include get_pres_list.html %}
+{% assign sorted_presentations = site.data['sorted_presentations'] %}
 
 {% assign pres_list = "" | split: "," %}
 {% for pres in sorted_presentations %}
@@ -12,9 +12,9 @@
 <h3>Presentations</h3>
 <ul>
 {% for talk in pres_list %}
-  {% assign member = site.data.people[talk.member].name %}
-  {% assign prettydate = talk.date | date: "%-d %b %Y" %}
-  <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{member}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+  <li>
+    {%- include print_pres.html talk=talk -%}
+  </li>
 {% endfor %}
 </ul>
 {% endif %}

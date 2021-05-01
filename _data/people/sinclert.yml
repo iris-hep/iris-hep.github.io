@@ -1,9 +1,9 @@
 name: Sinclert Pérez
 shortname: sinclert
 title: Research Software Engineer
-active: green
+active: true
 institution: New York University
-website:
+website: https://sinclert.github.io/
 photo: /assets/images/team/Sinclert-Perez.jpg
 presentations:
   - title: REANA, To reusability... and beyond!
@@ -12,9 +12,19 @@ presentations:
     meeting: CERN Openlab presentations
     meetingurl: https://indico.cern.ch/event/727275/
     location: Geneva, Switzerland
+    focus-area: as
   - title: Integrating Cyberinfrastructure components
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3331187/17_-_Sinclert-Cyberinfrastructure_components.pdf
     meeting: IRIS-HEP Poster Session
     meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, US
+    focus-area: as
+  - title: Madminer on REANA
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/attachments/2129226/3585364/IRIS-HEP%20Madminer-on-reana.pdf
+    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
+    focus-area: as
+    project: madminer

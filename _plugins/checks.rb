@@ -1,6 +1,13 @@
 # frozen_string_literal: true
 
+require 'set'
+
+# System for checking yaml entries (also allows modification in a few places)
 module Checks
+  # This error is used
+  class Error < StandardError
+  end
+
   # This class holds a record (like a presentation or a user)
   # and checks the keys with a nice syntax.
   class Record
@@ -12,30 +19,25 @@ module Checks
     end
 
     # Check to see if key is present. You can add :optional and/or :nonempty.
-    def key(key, *args)
+    # You can also add :date.
+    def key(key, *args, match: nil, set: nil)
       optional = !args.delete(:optional).nil?
       nonempty = !args.delete(:nonempty).nil?
       date = !args.delete(:date).nil?
 
+      # Require nonempty if given a match
+      nonempty = true if match
+
       msg = "Unrecognized arguments #{args} passed to Record.key"
       raise ArgumentError, msg unless args.empty?
 
-      # If the key exists
-      if !@data.key? key
-        @missing << key if optional
-        msg = "#{@name} must contain #{key}"
-        raise StandardError, msg unless optional
-      elsif nonempty
-        @empty << key if optional
-        msg = "#{@name} contains #{key} which must not be empty"
-        raise StandardError, msg unless @data[key]
-      end
+      key_missing(key, optional)
+      return unless @data.key? key
 
-      return unless date
-
-      d = @data[key]
-      dmsg = "#{@name} has a non-date #{d.class.name}. Must be of the form YYYY-MM-DD, not #{d}"
-      raise ArgumentError, dmsg unless d.is_a?(Date)
+      key_nonempty(key, optional) if nonempty
+      key_match(key, match) if match
+      key_date(key) if date
+      key_set(key, set.to_set) if set
     end
 
     def print_warnings
@@ -49,6 +51,42 @@ module Checks
         puts "#{@name} must contain non-empty #{keys}."
       end
       # rubocop:enable Style/GuardClause
+    end
+
+    def raise_err(msg)
+      raise Error, "#{@name} #{msg}"
+    end
+
+    private
+
+    def key_missing(key, optional)
+      return if @data.key? key
+
+      @missing << key if optional
+      msg = "must contain '#{key}'"
+      raise_err msg unless optional
+    end
+
+    def key_nonempty(key, optional)
+      @empty << key if optional
+      msg = "contains '#{key}' which must not be empty"
+      raise_err msg unless @data[key]
+    end
+
+    def key_date(key)
+      d = @data[key]
+      msg = "'#{key}' has a non-date #{d.class.name}. Must be of the form YYYY-MM-DD, not #{d}"
+      raise_err msg unless d.is_a?(Date)
+    end
+
+    def key_match(key, match)
+      msg = "'#{key}' has '#{@data[key]}' != '#{match}' (expected)"
+      raise_err msg unless match == @data[key]
+    end
+
+    def key_set(key, set)
+      msg = "'#{key}': #{@data[key]} is not a subset of #{set.to_a}"
+      raise_err msg unless @data[key].to_set < set.to_set
     end
   end
 end

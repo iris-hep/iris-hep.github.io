@@ -35,7 +35,7 @@ title: Institute Team
   {%- assign memberid = pair[1] -%}
   {%- if valid_people_ids contains memberid -%}
     {% assign person = site.data.people[memberid] %}
-    {% include standard_person_card.md %}
+    {% include standard_person_card.md person=person %}
   {% endif %}
 {% endfor %}
 </div>

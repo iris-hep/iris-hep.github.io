@@ -1,6 +1,7 @@
 title: "Taming performance variability"
+related-work: true
 link: https://www.usenix.org/conference/osdi18/presentation/maricq
 date: 2018-10-08
 citation: "Aleksander Maricq, Dmitry Duplyakin, Ivo Jimenez, Carlos Maltzahn, Ryan Stutsman, and Robert Ricci, 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI’18), Carlsbad, CA, October 8-10, 2018."
 focus-area: doma
-project: reproducibility
+project: skyhookdm

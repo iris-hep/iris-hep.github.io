@@ -1,8 +1,9 @@
 name: Mason Proffitt
 shortname: masonproffitt
 title: PhD student
-active: green
+active: true
 institution: University of Washington
+website: https://github.com/masonproffitt
 photo: /assets/images/team/Mason-Proffitt.jpg
 presentations:
   - title: "IRIS-HEP: A new software institute to prepare for the data from the High Luminosity Large Hadron Collider in the exabyte era"
@@ -12,6 +13,7 @@ presentations:
     meetingurl: https://www.eventbrite.com/e/northwest-data-science-summit-tickets-55037447487
     location: University of Washington
     focus-area: as
+    project: func-adl
   - title: "Prototype declarative analysis interface using uproot and awkward-array"
     date: 2019-09-12
     url: https://indico.cern.ch/event/840472/contributions/3563332/attachments/1907329/3150287/lightning-talk_2019-09-12.pdf
@@ -19,6 +21,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/840472/
     location: Fermilab
     focus-area: as
+    project: func-adl
   - title: "HEP Data Query Challenges"
     date: 2019-11-07
     url: https://indico.cern.ch/event/773049/contributions/3476178/attachments/1936838/3210025/chep_2019_poster.pdf
@@ -26,6 +29,7 @@ presentations:
     meetingurl: http://chep2019.org/
     location: Adelaide, Australia
     focus-area: as
+    project: adl-benchmarks-index
   - title: uproot Tutorial
     date: 2019-11-29
     url: https://masonproffitt.github.io/uproot-tutorial/
@@ -33,6 +37,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/834411/
     location: CERN
     focus-area: as
+    project: uproot
   - title: "Functional Analysis Description Language (FuncADL)"
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3331177/11_-_Functional_Analysis_Description_Language_FuncADL.pdf
@@ -40,3 +45,4 @@ presentations:
     meetingurl: https://indico.cern.ch/event/894127/overview
     location: Princeton University
     focus-area: as
+    project: func-adl

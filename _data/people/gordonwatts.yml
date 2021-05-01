@@ -1,16 +1,17 @@
 name: Gordon Watts
 shortname: gordonwatts
 title: Institute co-PI and Deputy Executive Director
-active: green
+active: true
 institution: University of Washington
 website: https://phys.washington.edu/people/gordon-watts
 photo: /assets/images/team/Gordon-Watts.jpg
+e-mail: gwatts@uw.edu
 presentations:
   - title: "IRIS-HEP Steering Board Meeting #1"
     date: 2019-02-06
     url: https://indico.cern.ch/event/790759/contributions/3284632/attachments/1791853/2919742/2019-02-06_-_Steering_Board_Intro.pdf
     meeting: IRIS-HEP Steering Board Meeting #1
-    meetingurl: https://indico.cern.ch/event/790759/ 
+    meetingurl: https://indico.cern.ch/event/790759/
     location: Vidyo
     focus-area: as
   - title: "LINQ To ROOT"
@@ -67,7 +68,7 @@ presentations:
     url: https://indico.cern.ch/event/835581/contributions/3508561
     meeting: Computing infrastructures for future data analysis
     meetingurl: https://indico.cern.ch/event/835581
-    focus-area: as doma
+    focus-area: [as, doma]
   - title: func-adl to C++/xAOD backend
     date: 2019-09-13
     url: https://indico.cern.ch/event/840472/contributions/3563333/
@@ -137,4 +138,80 @@ presentations:
     meeting: "2020 NSF CSSI PI MEETING"
     focus-area: management
     location: Seattle, WA
-    
+  - title: "IRIS-HEP: The Year 3 Program"
+    date: 2020-04-30
+    url: https://indico.cern.ch/event/914348/contributions/3844844/attachments/2030393/3398156/2020-04-30_-_CMS_PET_Meeting.pdf
+    meetingurl: https://indico.cern.ch/event/914348/
+    meeting: "US CMS IRIS-HEP Year 3 Program"
+    focus-area: management
+    location: Virtual
+  - title: "hep_tables: An Introduction"
+    date: 2020-05-08
+    url: https://zenodo.org/record/3818031#.XrXbwjiSn-g
+    meetingurl: https://indico.cern.ch/event/917018/
+    meeting: "Coffea Developers Meeting"
+    focus-area: as
+    location: Virtual
+  - title: "Parallel Sessions: Plans and Goals"
+    date: 2020-05-26
+    url: https://indico.cern.ch/event/896167/contributions/3870080/
+    meetingurl: https://indico.cern.ch/event/896167/
+    meeting: "IRIS-HEP Team Retreat"
+    focus-area: management
+    location: Virtual
+  - title: "ServiceX Front End Status"
+    date: 2020-10-02
+    url: https://indico.cern.ch/event/961949/contributions/4048043/
+    meetingurl: https://indico.cern.ch/event/961949
+    meeting: "ServiceX Meeting"
+    focus-area: as
+    location: Virtual
+  - title: "ServiceX Front End Status"
+    date: 2020-10-16
+    url: https://indico.cern.ch/event/967053/contributions/4070082
+    meetingurl: https://indico.cern.ch/event/967053
+    meeting: "ServiceX Meeting"
+    focus-area: as
+    location: Virtual
+  - title: "An Integrated Data Query Pipeline: HEPTables"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4077336/
+    meetingurl: https://indico.cern.ch/event/960587
+    meeting: "IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop"
+    focus-area: as
+    location: Virtual
+  - title: "Analysis tools and infrastructure"
+    date: 2020-10-27
+    url: https://indico.ihep.ac.cn/event/11444/session/12/contribution/174
+    meetingurl: https://indico.ihep.ac.cn/event/11444
+    meeting: "The 2020 International Workshop on the High Energy Circular Electron Positron Collider"
+    focus-area: management
+    location: Virtual
+  - title: "IRIS-HEP: Analysis in the HL-LHC Era"
+    date: 2020-12-15
+    url: https://indico.cern.ch/event/975046/contributions/4115843
+    meetingurl: https://indico.cern.ch/event/975046
+    meeting: "WFM SW Technical Interchange Meeting"
+    focus-area: as
+    location: Virtual
+  - title: "Using Modern Computing to Get the Most out of the LHC"
+    date: 2021-02-18
+    url: https://indico.cern.ch/event/1010438/
+    meetingurl: https://indico.cern.ch/event/1010438/
+    meeting: "UW EPE Seminar"
+    focus-area: management
+    location: "University of Washington"
+  - title: "Computing in HEP for the HL-LHC"
+    date: 2021-02-25
+    url: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
+    meetingurl: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
+    meeting: "University of California, Santa Cruz, Physics Department Colloquia"
+    focus-area: management
+    location: "University of California, Santa Cruz"
+  - title: "IRIS-HEP and ATLAS Analysis Software"
+    date: 2021-04-09
+    url: https://zenodo.org/record/4678961#.YHJMhCRlD-g
+    meetingurl: https://indico.cern.ch/event/1012997/
+    meeting: "ATLAS Analysis Model Group (AMG) Meeting"
+    focus-area: as
+    location: "CERN"

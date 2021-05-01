@@ -1,0 +1,20 @@
+{%- assign talk = include.talk -%}
+{%- assign talk-member = site.data.people[talk.member].name -%}
+{%- assign prettydate = talk.date | date: "%-d %b %Y" -%}
+{%- capture meeting -%}
+  {%- if talk.meetingurl and talk.meetingurl != "" -%}
+    <a href="{{ talk.meetingurl }}">{{ talk.meeting }}</a>
+  {%- else -%}
+    {{ talk.meeting }}
+  {%- endif -%}
+{%- endcapture -%}
+{%- capture title -%}
+  {%- if talk.url and talk.url != "" -%}
+    <a href="{{ talk.url }}">"{{ talk.title }}"</a>
+  {%- else -%}
+    "{{ talk.title }}"
+  {%- endif -%}
+{%- endcapture -%}
+
+{{ prettydate }} - {{ title }}, {{ talk-member }}, {{ meeting }}
+

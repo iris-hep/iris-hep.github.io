@@ -1,10 +1,11 @@
 name: Sebastian Macaluso
 shortname: SebastianMacaluso
-title: 
-active: green
+title:
+active: true
 institution: New York University
-website: 
+website:
 photo: /assets/images/team/Sebastian-Macaluso.jpg
+e-mail: sm4511@nyu.edu
 presentations:
   - title: "Pulling Out All the Tops with Computer Vision and Deep Learning"
     date: 2018-11-15
@@ -19,7 +20,7 @@ presentations:
     meeting: Analysis Systems Topical Meeting
     meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
     location: NYU
-    focus-area: as, ia
+    focus-area: [as, ia]
   - title: "The Machine Learning Landscape of Top Taggers"
     date: 2019-07-23
     url: https://indico.cern.ch/event/753914/contributions/3444496/
@@ -67,5 +68,19 @@ presentations:
     url: https://indico.cern.ch/event/809820/contributions/3632649
     meeting: ML4Jets 2020
     meetingurl: https://indico.cern.ch/event/809820/
+    location: New York University
+    focus-area: ia
+  - title: "New Computational Techniques and Machine Learning for Jet Physics"
+    date: 2020-09-21
+    url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/LaPlata2020.pdf
+    meeting: "Particle Theory Seminar, Instituto de Fisica La Plata, UNLP"
+    meetingurl: https://github.com/SebastianMacaluso/TalksSlides/blob/master/LaPlata2020.pdf
+    location: Instituto de Fisica La Plata, La Plata, Argentina
+    focus-area: ia
+  - title: "Reframing Jet Physics in Probabilistic Terms"
+    date: 2021-03-01
+    url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/BrownBag_March2021.pdf
+    meeting: "CCPP Brown Bag seminar, NYU"
+    meetingurl: https://as.nyu.edu/content/nyu-as/as/departments/physics/events/spring-2017/20170508-ccpp-brown-bag.html
     location: New York University
     focus-area: ia

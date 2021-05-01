@@ -6,13 +6,18 @@ title: Media, Press Releases and Press Mentions
 
 ## Media, Press Releases and Press Mentions
 
+  * 29 Jan 2021 - ["Beyond ventilators: Princeton engineers design, build and program a noninvasive breathing system for COVID-19 patients"](https://www.princeton.edu/news/2021/01/29/beyond-ventilators-princeton-engineers-design-build-and-program-noninvasive), Princeton University
+  * 21 Jan 2021 - ["Physicists submit avalanche of ideas to 'Snowmass' process"](https://www.symmetrymagazine.org/article/physicists-submit-avalanche-of-ideas-to-snowmass-process), Symmetry Magazine
+  * 14 Jan 2021 - ["ATLAS releases 'full orchestra' of analysis instruments"](https://www.symmetrymagazine.org/article/atlas-releases-full-orchestra-of-analysis-instruments), Symmetry Magazine
+  * 31 Aug 2020 - ["This is going to be a little bit awkward"](https://pythonbytes.fm/episodes/show/205/this-is-going-to-be-a-little-bit-awkward), PythonBytes podcast
+  * 13 Jan 2020 - ["Eleven tips for working with large data sets"](https://www.nature.com/articles/d41586-020-00062-z), Nature Technology Feature
   * 19 Aug 2019 - ["Princeton leads efforts to develop national data training framework for high energy physics"](https://www.princeton.edu/news/2019/08/19/princeton-leads-efforts-develop-national-data-training-framework-high-energy), Princeton University
   * 1 Oct 2018 - "US initiative to tackle data demands of HL-LHC" ([article direct link](https://cerncourier.com/us-initiative-to-tackle-data-demands-of-hl-lhc/), [pdf full issue](http://iopp.fileburst.com/ccr/archive/CERNCourier2018Oct-digitaledition.pdf)), CERN Courier
-  * 26 Sep 2018 - ["Holland Computing Center helps meet massive data demands from upgraded Large Hadron Collider project"](https://newsroom.unl.edu/announce/cse/8549/49029), University of Nebraska - Lincoln 
+  * 26 Sep 2018 - ["Holland Computing Center helps meet massive data demands from upgraded Large Hadron Collider project"](https://newsroom.unl.edu/announce/cse/8549/49029), University of Nebraska - Lincoln
   * 19 Sep 2018 - ["Next generation Large Hadron Collider relies on UW–Madison computing"](https://news.wisc.edu/next-generation-large-hadron-collider-relies-on-uw-madison-computing/), University of Wisconsin - Madison
   * 14 Sep 2018 - ["UW-Madison Center for High Throughput Computing awarded grant to develop software to process data from High-Luminosity Large Hadron Collider"](https://www.cs.wisc.edu/2018/11/28/uw-madison-center-for-high-throughput-computing-awarded-grant-to-develop-software-to-process-data-from-high-luminosity-large-hadron-collider/), University of Wisconsin - Madison
-  * 6 Sep 2018 - ["NSF-Funded Institute Lays Groundwork for Future High-Energy Physics Discoveries"](https://www.hpcwire.com/2018/09/06/nsf-invests-25m-high-energy-physics/), HPCwire 
-  * 5 Sep 2018 - ["Stanford part of $25 million NSF project to prepare for data deluge from Large Hadron Collider"](https://humsci.stanford.edu/feature/stanford-part-25-million-nsf-project-prepare-data-deluge-large-hadron-collider), Stanford University 
+  * 6 Sep 2018 - ["NSF-Funded Institute Lays Groundwork for Future High-Energy Physics Discoveries"](https://www.hpcwire.com/2018/09/06/nsf-invests-25m-high-energy-physics/), HPCwire
+  * 5 Sep 2018 - ["Stanford part of $25 million NSF project to prepare for data deluge from Large Hadron Collider"](https://humsci.stanford.edu/feature/stanford-part-25-million-nsf-project-prepare-data-deluge-large-hadron-collider), Stanford University
   * 5 Sep 2018 - ["UC Santa Cruz helps address massive data demands from Large Hadron Collider as part of $25 million NSF project "](https://news.ucsc.edu/2018/09/iris-hep-grant.html), University of California, Santa Cruz
   * 5 Sep 2018 - ["NSF Institute to Include Lab Physicists in Big Data R&D"](http://today.lbl.gov/2018/09/05/nsf-institute-to-include-lab-physicists-in-big-data-rd/), University of California, Berkeley
   * 4 Sep 2018 - ["Cornell part of $25M NSF effort to untangle future physics data"](http://news.cornell.edu/stories/2018/09/cornell-part-25m-nsf-effort-untangle-future-physics-data), Cornell University
@@ -22,8 +27,8 @@ title: Media, Press Releases and Press Mentions
   * 4 Sep 2018 - ["NYU Scientists Part of New Software Institute Aimed at Making Discoveries in High-Energy Physics"](https://www.nyu.edu/about/news-publications/news/2018/september/nyu-scientists-part-of-new-software-institute-aimed-at-making-di.html), New York University
   * 4 Sep 2018 - ["University of Illinois part of $25 Million Software Institute to Enable Discoveries in High-Energy Physics"](https://physics.illinois.edu/news/article/27401), University of Illinois at Urbana-Champaign
   * 4 Sep 2018 - ["UC awarded part of $25 million science grant"](https://www.uc.edu/news/articles/2018/09/n201067.html), University of Cincinnati
-  * 4 Sep 2018 - ["Princeton to lead new software institute to enable discoveries in high-energy physics"](https://www.princeton.edu/news/2018/09/04/princeton-lead-new-software-institute-enable-discoveries-high-energy-physics), Princeton University 
-  * 4 Sep 2018 - ["New institute to address massive data demands from upgraded Large Hadron Collider"](https://www.nsf.gov/news/news_summ.jsp?cntn_id=296456&org=NSF&from=news), National Science Foundation 
+  * 4 Sep 2018 - ["Princeton to lead new software institute to enable discoveries in high-energy physics"](https://www.princeton.edu/news/2018/09/04/princeton-lead-new-software-institute-enable-discoveries-high-energy-physics), Princeton University
+  * 4 Sep 2018 - ["New institute to address massive data demands from upgraded Large Hadron Collider"](https://www.nsf.gov/news/news_summ.jsp?cntn_id=296456&org=NSF&from=news), National Science Foundation
 
 
 

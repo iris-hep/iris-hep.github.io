@@ -1,9 +1,9 @@
 name: Tommaso Boccali
 shortname: t_boccali
 title: CMS Experiment
-active: 
+active: false
 institution: INFN-Pisa
-website: 
+website:
 photo: /assets/images/team/Tommaso-Boccali.png
 hidden: true
 presentations:

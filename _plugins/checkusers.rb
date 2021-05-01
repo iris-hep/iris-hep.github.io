@@ -20,18 +20,18 @@ module Checks
         person = Record.new(msg, person_hash)
 
         person.key 'name', :nonempty
-        person.key 'shortname', :nonempty
+        person.key 'shortname', match: name
         person.key 'title'
         person.key 'institution', :nonempty
         person.key 'photo', :optional
 
         person.print_warnings
 
-        if person_hash.dig('hidden')
-          msg = "#{name} is listed in a univerisity and hidden is True"
+        if person_hash['hidden']
+          msg = "#{name} is listed in a university and hidden is True"
           raise StandardError, msg if people_in_inst.include? person_hash['shortname']
         else
-          msg = "#{name} is not listed in a univerisity and hidden is not True"
+          msg = "#{name} is not listed in a university and hidden is not True"
           raise StandardError, msg unless people_in_inst.include? person_hash['shortname']
         end
       end

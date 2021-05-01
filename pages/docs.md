@@ -16,7 +16,7 @@ title: "Documentation pages for the IRIS-HEP team"
 #### New team members
 * [Reimbursement](/docs/reimbursement)
 * [New team member page](/docs/newteammember)
-* [Vidyo web conferencing](/docs/vidyo)
+* [Fellow page](/docs/fellow)
 
 #### Website
 * [Website GitHub repo](https://github.com/iris-hep/iris-hep.github.io-source)
@@ -25,3 +25,4 @@ title: "Documentation pages for the IRIS-HEP team"
 * [Add new focus-area page](/docs/add_focusarea_page)
 * [Add new project page](/docs/add_project_page)
 * [Add new publication](/docs/add_publication)
+* [Last modified](/docs/modified)

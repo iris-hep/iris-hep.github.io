@@ -1,0 +1,7 @@
+title: "Skyhook: Programmable storage for databases"
+link: https://users.soe.ucsc.edu/~carlosm/dev/publication/lefevre-vault-19/
+date: 2019-02-25
+citation: "Jeff LeFevre, Noah Watkins, Michael Sevilla, and Carlos Maltzahn, 2020 Linux Storage and Filesystems Conference (Vault'19, co-located with FAST'19), Santa Clara, CA, February 25-26 2019"
+focus-area: doma
+project: skyhookdm
+comment: This is a presentation at Usenix conference

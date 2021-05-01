@@ -1,6 +1,6 @@
 <!doctype html>
 
-{% include layout_header_navbar.html %}
+{% include_cached layout_header_navbar.html %}
 
   <div id="container">
       <div class="container">
@@ -19,15 +19,17 @@
           {% include list_project_team.html team=page.team %}
 
           {% include list_project_presentations.html shortname=page.shortname %}
-        
+
           {% include list_project_publications.html shortname=page.shortname %}
+
+          {% include list_videos.html projects=page.shortname nvideos=6 add_header="<h3> Recent recordings</h3>"%}
 
         </main>
       </div>
-      {% include footer.html %}
+      {% include_cached footer.html %}
     </div>
 
-  {% include layout_analytics.html %}
+  {% include_cached layout_analytics.html %}
 
   </body>
 </html>

@@ -1,4 +1,9 @@
+# https://papers.nips.cc/paper/8785-efficient-probabilistic-inference-in-the-quest-for-physics-beyond-the-standard-model
+# NIPS proceedings, but no DOI?
 inspire-id: 1683311
-project: 
+needs-nsf-par: true
+comment: published, and acknowledges IRIS-HEP, but no DOI from NIPS proceedings website?
+project:
 - ppx
 - exploratory-ml
+citation: Advances in Neural Information Processing Systems 33 (NeurIPS)

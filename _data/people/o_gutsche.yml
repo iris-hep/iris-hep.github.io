@@ -1,9 +1,9 @@
 name: Oliver Gutsche
 shortname: o_gutsche
 title: US CMS Ops Program
-active: 
+active: true
 institution: FNAL
-website: 
+website:
 photo: /assets/images/team/Oliver_Gutsche.jpg
 hidden: true
 presentations:
