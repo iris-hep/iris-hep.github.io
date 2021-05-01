@@ -167,7 +167,7 @@ presentations:
     url: https://indico.cern.ch/event/896167/contributions/3870080/
     meetingurl: https://indico.cern.ch/event/896167/
     meeting: "IRIS-HEP Team Retreat"
-    focus-area: doma as
+    focus-area: ["doma", "as"]
     project: servicex
     location: Virtual
   - title: "ServiceX Front End Status"
@@ -175,7 +175,7 @@ presentations:
     url: https://indico.cern.ch/event/961949/contributions/4048043/
     meetingurl: https://indico.cern.ch/event/961949
     meeting: "ServiceX Meeting"
-    focus-area: doma as
+    focus-area: ["doma", "as"]
     project: servicex
     location: Virtual
   - title: "ServiceX Front End Status"
@@ -183,7 +183,7 @@ presentations:
     url: https://indico.cern.ch/event/967053/contributions/4070082
     meetingurl: https://indico.cern.ch/event/967053
     meeting: "ServiceX Meeting"
-    focus-area: doma as
+    focus-area: ["doma", "as"]
     project: servicex
     location: Virtual
   - title: "An Integrated Data Query Pipeline: HEPTables"
