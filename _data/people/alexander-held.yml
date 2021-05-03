@@ -62,6 +62,7 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/43829/
     location: (Virtual)
     focus-area: as
+    project:
   - title: "Template-based Fitting: cabinetry"
     date: 2020-10-26
     url: https://indico.cern.ch/event/960587/contributions/4070322/

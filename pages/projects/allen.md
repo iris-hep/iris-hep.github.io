@@ -30,4 +30,21 @@ In June 2020, the LHCb collaboration officially adopted Allen as the baseline ch
 
 IRIS-HEP members are now working to make Allen fully production ready for deployment in time for the start of data taking in 2022.
 
-The Allen software is availble open source, and able to run without linking to LHCb software, on [gitlab](https://gitlab.cern.ch/lhcb/Allen).
+The Allen software is available open source, and able to run without linking to LHCb software, on [gitlab](https://gitlab.cern.ch/lhcb/Allen).
+
+----
+
+## Monitoring
+
+It is necessary for data quality purposes to monitor the acceptance rates of trigger lines as well as features of reconstructed tracks and vertices live during data taking.
+For the demonstration of Allen, monitoring histograms were populated in a dedicated monitoring thread using information from the output data banks as well as additional data copied back to the host specifically for monitoring purposes. The flow of monitoring-related data is shown in the diagram below.
+
+<img width="60%" src ="/assets/images/allen-currentMonitoring.png" />
+
+We are currently working to move the monitoring accumulation from the dedicated thread into the threads responsible for running the Allen trigger pipeline. This will allow any CPU algorithm to define and populate monitoring counters and histograms.
+
+<img width="60%" src ="/assets/images/allen-nextMonitoring.png" />
+
+We also intend to allow GPU algorithms within the pipeline to define and populate monitoring counters. This will significantly reduce the amount of information that must be copied from the GPU device to the host CPU and also opens up the possibility of monitoring features of events that are not selected by the trigger.
+
+<img width="60%" src ="/assets/images/allen-finalMonitoring.png" />
