@@ -1,5 +1,5 @@
 ---
-permalink: /projects/osglhc-networking.html
+permalink: /projects/osg-networking.html
 layout: project
 title: OSG Network Monitoring
 shortname: osg-networking
