@@ -1,5 +1,5 @@
 ---
-permalink: /projects/osglhc-software.html
+permalink: /projects/osg-software.html
 layout: project
 title: OSG Software and Release
 shortname: osg-software
@@ -12,7 +12,6 @@ team:
 - edquist
 - matyasselmeci
 - timtheisen
-
 ---
 
 The OSG Software and Release team produces and supports the integrated software systems
