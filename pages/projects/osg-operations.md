@@ -22,7 +22,7 @@ The [OSG Operations](https://opensciencegrid.org/operations/) team is responsibl
 
 [GRACC](https://gracc.opensciencegrid.org) is the OSG accounting system that tracks usage for all projects that run on OSG provided compute resources.
 
-<iframe src="https://gracc.opensciencegrid.org/d-solo/000000074/gracc-home?orgId=1&from=1136073600000&to=now&panelId=15" width="450" height="200" frameborder="0"></iframe>
+<iframe src="https://gracc.opensciencegrid.org/d-solo/000000074/gracc-home?orgId=1&from=1136073600000&to=now&panelId=15" width="1000" height="450" frameborder="0"></iframe>
 
 ## Reports
 
