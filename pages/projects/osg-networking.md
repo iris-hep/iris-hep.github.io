@@ -9,9 +9,9 @@ blurb: Provide network monitoring for LHC and OSG sites
 focus-area: osglhc
 team:
 - smckee
-- dweitzel
-- jthiltges
-- petya
+- djw8605
+- petya-vasileva
+- "[John Thiltges](https://hcc.unl.edu/contact-us)"
 ---
 
 The OSG Network Monitoring team designs, deploys, and maintains an infrastructure for
@@ -26,15 +26,15 @@ This project collaborates with a number of projects including:
 *   **SAND** ([Service Analysis and Network Diagnosis](https://sand-ci.org/), NSF Grant #1827116):
     They provide analytics using data from the OSG-LHC network metrics repository.
 
-*   **WLCG Throughput Working Group**:
+*   **WLCG Throughput Working Group:**
     This group manages the perfSONAR parameters, test configurations, and host meshes
     that define which tests and sets of hosts are measured.
 
-*   **HEPiX Network Function Virtualization Working Group**:
+*   **HEPiX Network Function Virtualization Working Group:**
     This group explore technology and tools in the area of software defined networking and
     future networking technologies of interest to OSG-LHC and others.
 
-*   **Research Networking Technical Working Group**:
+*   **Research Networking Technical Working Group:**
     This group focuses on specific networking technology implementations
     requested by researchers involved in distributed collaborations (primarily HEP but others as well).
     See [their charter](https://docs.google.com/document/d/1l4U5dpH556kCnoIHzyRpBl74IPc0gpgAG3VPUp98lo0/).
