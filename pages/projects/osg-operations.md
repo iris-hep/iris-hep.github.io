@@ -16,7 +16,11 @@ team:
  - zvada
 ---
 
-The OSG Operations team is responsible for deploying, configuring, and running the OSG-owned services that contribute to the overall OSG fabric of services. These central services include the OSG software and data repositories, the accounting database containing all OSG usage, and user and systems administrator facing web pages.
+The [OSG Operations](https://opensciencegrid.org/operations/) team is responsible for deploying, configuring, and running the OSG-owned services that contribute to the overall OSG fabric of services. These central services include the OSG software repositories, infrastructure for staging and caching data for access across OSG, the accounting database containing all OSG usage, and user and systems administrator facing web pages.
+
+## GRACC
+
+[GRACC](https://gracc.opensciencegrid.org) is the OSG accounting system that tracks usage for all projects that run on OSG provided compute resources.
 
 <iframe src="https://gracc.opensciencegrid.org/d-solo/000000074/gracc-home?orgId=1&from=1136073600000&to=now&panelId=15" width="450" height="200" frameborder="0"></iframe>
 
