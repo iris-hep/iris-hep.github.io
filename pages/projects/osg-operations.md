@@ -7,13 +7,13 @@ pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Operate OSG-LHC services
 focus-area:
- - doma
- - osglhc
+- doma
+- osglhc
 team:
- - jdost321
- - djw8605
- - hzhu16
- - zvada
+- "[Jeff Dost](https://profiles.ucsd.edu/jeffrey.dost)"
+- djw8605
+- hzhu16
+- zvada
 ---
 
 The [OSG Operations](https://opensciencegrid.org/operations/) team is responsible for
