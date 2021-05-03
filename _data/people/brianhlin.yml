@@ -172,7 +172,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/759388/
     location: Jefferson Lab
     focus-area: osglhc
-    project: osg-software    
+    project: osg-software
   - title: "OSG-LHC and XCache"
     date: 2018-12-12
     url: https://indico.cern.ch/event/770941/contributions/3230458/
