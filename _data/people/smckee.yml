@@ -53,7 +53,7 @@ presentations:
     meetingurl: http://grp-workshop-2019.ucsd.edu/
     location: San Diego, California
     focus-area: doma
-    project: 
+    project:
   - title: "WLCG/OSG Network Activities, Status and Plans"
     date: 2019-10-16
     url: https://indico.cern.ch/event/810635/contributions/3593246/attachments/1926442/3223199/HEPiX_Fall_2019_OSG_WLCG_Networking_Update.pdf
@@ -93,7 +93,7 @@ presentations:
     meetingurl: http://chep2019.org/
     location: Adelaide, Australia
     focus-area: doma
-    project: 
+    project:
   - title: "Network Capabilities for the HL-LHC Era"
     date: 2019-11-07
     url: https://indico.cern.ch/event/773049/contributions/3473832/attachments/1939678/3215613/CHEP_Network_Capabilities_for_HL-LHC_Nov_19.pdf
