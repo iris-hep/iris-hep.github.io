@@ -1,8 +1,13 @@
 # frozen_string_literal: true
 
 module IrisHep
-  # Adding useful file filters
-  module SmartSort
+  # Adding useful filters
+  module Filters
+    # Access the basename (all extensions)
+    def basename(input)
+      File.basename(input, '.*')
+    end
+
     # Sort by title, within groups of position if present
     def smart_title_sort(input)
       input.sort_by { |p| [p['position'] || 0, p['title'].downcase] }
@@ -20,4 +25,4 @@ module IrisHep
   end
 end
 
-Liquid::Template.register_filter(IrisHep::SmartSort)
+Liquid::Template.register_filter(IrisHep::Filters)

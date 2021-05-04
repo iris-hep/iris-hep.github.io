@@ -1,6 +1,7 @@
 {%- unless include.person -%}
-    {{ "Empty person card! Please check." | raise_error }}
+    {% raise_error "Empty person card! Please check." %}
 {%- endunless %}
+
        <div class="card" style="width: 12rem;">
          <img class="card-img-top" src="{{ include.person.photo }}" alt="Card image cap">
          <div class="card-body d-flex flex-column">
