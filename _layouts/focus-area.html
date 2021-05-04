@@ -99,24 +99,24 @@
 <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
 
-<ul>
-{% assign max_disp = 15 %}
-{% assign counter = 0 %}
-  {% for pub in pubs %}
-    {% assign counter = counter | plus: 1 %}
-    <li> {% include print_pub.html pub=pub %} </li>
-    {% if counter == max_disp %}
-    </ul>
-    <p>[expand]</p>
-    <ul>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
+{% assign vis_pub = pubs | slice: 0, 15 %}
+{% assign exp_pub = pubs | slice: 15, pubs.size %}
 
-{% if counter >= max_disp %}
-<p>[/expand]</p>
+<ul>
+{% for pub in vis_pub %}
+  <li> {% include print_pub.html pub=pub %} </li>
+{% endfor %}
+</ul>
+{% if exp_pub.size > 0 %}
+  <p>[expand]</p>
+  <ul>
+  {% for pub in exp_pub %}
+    <li> {% include print_pub.html pub=pub %} </li>
+  {% endfor %}
+  </ul>
+  <p>[/expand]</p>
 {% endif %}
+</div>
 
 </section>
 
