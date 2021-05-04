@@ -69,25 +69,9 @@
 <section class="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
-
-<ul>
-{% assign max_disp = 15 %}
-{% assign counter = 0 %}
-{% for talk in pres_list %}
-  {% assign counter = counter | plus: 1 %}
-  <li>
-    {%- include print_pres.html talk=talk -%}
-  </li>
-  {% if counter == max_disp %}
-    </ul>
-    <p>[expand]</p>
-    <ul>
-  {% endif %}
-{% endfor %}
-</ul>
-{% if counter >= max_disp %}
-<p>[/expand]</p>
-{% endif %}
+    {% expandable pres_list 15 %}
+      {% include print_pres.html talk=expandable %}
+    {% endexpandable %}
 </div>
 </section>
 {% endif %}
@@ -95,31 +79,13 @@
 {% assign pubs = site.data['sorted_publications'] | where_exp: "item", "item.focus-area contains page_focus_area" %}
 
 {% if pubs.size > 0 %}
-
 <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
-
-{% assign vis_pub = pubs | slice: 0, 15 %}
-{% assign exp_pub = pubs | slice: 15, pubs.size %}
-
-<ul>
-{% for pub in vis_pub %}
-  <li> {% include print_pub.html pub=pub %} </li>
-{% endfor %}
-</ul>
-{% if exp_pub.size > 0 %}
-  <p>[expand]</p>
-  <ul>
-  {% for pub in exp_pub %}
-    <li> {% include print_pub.html pub=pub %} </li>
-  {% endfor %}
-  </ul>
-  <p>[/expand]</p>
-{% endif %}
+    {% expandable pubs 15 %}
+      {% include print_pub.html pub=expandable %}
+    {% endexpandable %}
 </div>
-
 </section>
-
 {% endif %}
 
 {% assign focus_area = page.name | basename %}
