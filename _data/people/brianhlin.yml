@@ -60,6 +60,7 @@ presentations:
     url: https://indico.egi.eu/event/5137/attachments/12966/15338/2020-06-17.htcondorce-intro_FINAL.pdf
     meeting: EGI Community Webinar Programme
     meetingurl: https://indico.egi.eu/event/5137/
+    location: Virtual
     focus-area: osglhc
     project: osg-software
   - title: "GridFTP and GSI Migration Plan (Poster)"
@@ -69,6 +70,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, New Jersey, US
     focus-area: osglhc
+    project: osg-software
   - title: "Infrastructure Software Delivery (Poster)"
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3331202/26_-_OSG-LHC_Infrastructure_Software_Delivery_-_FINAL.pdf
