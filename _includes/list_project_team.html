@@ -10,31 +10,21 @@
 {%- endif -%}
 
 {% for contact in include.team %}
-  {% assign written = false %}
-  {% if contact contains "](" %}
+  {% assign person = site.data.people | find: "shortname", contact %}
+
+  {% if person %}
+    {%- if inline and person.e-mail -%}
+      {{ li }} <a href="mailto:{{person.e-mail}}">{{person.name}}</a> {{ eli }}
+    {%- elsif person.website -%}
+      {{ li }} <a href="{{person.website}}">{{ person.name }}</a> {{ eli }}
+    {% else %}
+      {{ li }} {{person.name}} {{ eli }}
+    {% endif %}
   {% elsif contact contains "@" %}
     <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a>
-    {% assign written = true %}
-  {% else %}
-    {% for person_hash in site.data.people -%}
-      {% assign person = person_hash[1] -%}
-      {% if person.shortname == contact %}
-        {%- if inline and person.e-mail -%}
-          {{ li }} <a href="mailto:{{person.e-mail}}">{{person.name}}</a> {{ eli }}
-          {% assign written = true %}
-        {%- elsif person.website -%}
-          {{ li }} <a href="{{person.website}}">{{ person.name }}</a> {{ eli }}
-          {% assign written = true %}
-        {% else %}
-          {{ li }} {{person.name}} {{ eli }}
-          {% assign written = true %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-  {% unless written %}
+  {{ else }}
     {{ li }} {{ contact | markdownify | remove: '<p>' | remove: '</p>' }} {{ eli }}
-  {% endunless %}
+  {% endif %}
 {% endfor %}
 
 {%- unless include.inline  %}
