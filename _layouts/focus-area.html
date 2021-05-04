@@ -15,7 +15,7 @@
 
 {% assign page_focus_area = page.name | basename %}
 {% assign sorted = site.pages | smart_page_sort: "focus-area", page_focus_area %}
-          
+
 {% assign fa_team = "" | split: "," %}
 {% for mypage in sorted %}
 {% for person in mypage.team %}
