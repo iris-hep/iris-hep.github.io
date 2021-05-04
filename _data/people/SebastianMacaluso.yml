@@ -14,7 +14,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/745718/
     location: Fermilab, Illinois, USA
     focus-area: ia
-    focus-area: ml4jets
+    project: ml4jets
   - title: "SCAILFIN: Reproducible Open Benchmarks"
     date: 2019-06-19
     url: https://indico.cern.ch/event/822074/contributions/3471463/
