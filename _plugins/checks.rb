@@ -16,11 +16,12 @@ module Checks
       @data = data
       @missing = []
       @empty = []
+      @names = []
     end
 
     # Check to see if key is present. You can add :optional and/or :nonempty.
     # You can also add :date.
-    def key(key, *args, match: nil, set: nil)
+    def key(key, *args, match: nil, set: nil, usernames: nil)
       optional = !args.delete(:optional).nil?
       nonempty = !args.delete(:nonempty).nil?
       date = !args.delete(:date).nil?
@@ -38,6 +39,7 @@ module Checks
       key_match(key, match) if match
       key_date(key) if date
       key_set(key, set.to_set) if set
+      key_usernames(key, usernames.to_set) if usernames
     end
 
     def print_warnings
@@ -87,6 +89,15 @@ module Checks
     def key_set(key, set)
       msg = "'#{key}': #{@data[key]} is not a subset of #{set.to_a}"
       raise_err msg unless @data[key].to_set < set.to_set
+    end
+
+    # Like key_set, but filters names with spaces, and shows only unmatched items
+    def key_usernames(key, usernames)
+      team = @data[key].reject { |v| v.include?(' ') || v.include?('@') }.to_set
+      extras = team - usernames
+
+      msg = "'#{key}': Unrecognized usernames: #{extras.to_a} "
+      raise_err msg unless extras.empty?
     end
   end
 end

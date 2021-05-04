@@ -11,7 +11,7 @@ focus-area: doma
 team:
 - jlefevre
 - ivotron
-- esmaeil-mirvakili
+- "[Esmaeil Mirvakili](mailto:smirvaki@ucsc.edu)" # esmaeil-mirvakili
 - JayjeetAtGithub
 - xweichu
 - carlosmalt
