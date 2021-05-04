@@ -16,39 +16,25 @@
 {% assign page_focus_area = page.name | basename %}
 {% assign sorted = site.pages | smart_page_sort: "focus-area", page_focus_area %}
 
-{% assign fa_team = "" | split: "," %}
-{% for mypage in sorted %}
-{% for person in mypage.team %}
-{% if fa_team contains person %}
-{% continue %}
-{% endif %}
-{% assign fa_team = fa_team | push: person %}
-{% endfor %}
-{% endfor %}
-{% assign sorted_team = fa_team | sort %}
-{% if fa_team.size > 0 %}
+{% assign fa_team = sorted | get_set: "team" | sort | key_to_value: site.data.people %}
+
+{% unless fa_team.empty %}
 <div class="container-fluid">
   <div class="row">
-    {% for fa_person in fa_team %}
-    {% for person_hash in site.data.people %}
-    {% assign person = person_hash[1] %}
-    {% unless fa_person == person.shortname %}
-    {% continue %}
-    {% endunless %}
+    {% for person in fa_team %}
     <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px;">
-       <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
+      <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
       {%- if person.website -%}
         <a href="{{person.website}}">{{ person.name }}</a>
       {%- else -%}
         {{ person.name }}
       {%- endif -%}
-       </div>
-    {% endfor %}
+      </div>
     {% endfor %}
   </div>
   <br>
 </div>
-{% endif %}
+{% endunless %}
 
 {% unless sorted.empty %}
 <div class="container-fluid projects">
