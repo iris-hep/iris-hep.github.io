@@ -6,7 +6,7 @@ shortname: osg-operations
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Operate OSG-LHC services
-position: -1
+position: 1
 focus-area:
 - doma
 - osglhc
