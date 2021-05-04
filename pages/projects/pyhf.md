@@ -35,10 +35,11 @@ team:
 [![CodeFactor](https://www.codefactor.io/repository/github/scikit-hep/pyhf/badge)](https://www.codefactor.io/repository/github/scikit-hep/pyhf)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-### Featured on CERN homepage and in Symmetry Magazine
+### Featured on CERN homepage, in Symmetry Magazine, and CERN Courier
 
 - The CERN homepage featured an article on pyhf: [New open release allows theorists to explore LHC data in a new way](https://home.cern/news/news/knowledge-sharing/new-open-release-allows-theorists-explore-lhc-data-new-way):  The ATLAS collaboration releases full analysis likelihoods, a first for an LHC experiment. (January, 2020)
 - Symmetry Magazine: [ATLAS releases 'full orchestra' of analysis instruments](https://www.symmetrymagazine.org/article/atlas-releases-full-orchestra-of-analysis-instruments) (January, 2021)
+- CERN Courier May/June 2021 Issue: [LHC reinterpreters think long-term] (May, 2021)
 
 ### Recent Talks and Tutorials
 
