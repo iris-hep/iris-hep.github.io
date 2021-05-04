@@ -10,49 +10,49 @@ presentations:
     date: 2020-11-12
     url: https://www2.slideshare.net/igor_sfiligoi/dataintensive-icecube-cloud-burst
     meeting: NRP Pilot weekly meeting
-    location: virtual, USA
+    location: Virtual, USA
     focus-area: osglhc
   - title: "Unified Cyber Infrastructure with Kubernetes"
     date: 2020-11-09
     url: https://gitlab.com/ucsd-prp/tutorials/sc20
     meeting: SC 20 Tutorial
     meetingurl: https://sc20.supercomputing.org/presentation/?id=tut136&sess=sess256
-    location: virtual, USA
+    location: Virtual, USA
     focus-area: osglhc
   - title: "Scheduling a Kubernetes Federation with Admiralty"
     date: 2020-09-04
     url: https://indico.fnal.gov/event/22127/contributions/194933/attachments/133961/165464/osg20_lhc_admiralty_rc3.pdf
     meeting: OSG All-Hands Meeting 2020
     meetingurl: https://indico.fnal.gov/event/22127
-    location: virtual, US
+    location: Virtual, US
     focus-area: osglhc
   - title: "Demonstrating a Pre-Exascale, Cost-Effective Multi-Cloud Environment for Scientific Computing"
     date: 2020-07-29
     url: https://www.slideshare.net/igor_sfiligoi/demonstrating-a-preexascale-costeffective-multicloud-environment-for-scientific-computing
     meeting: PEARC20
     meetingurl: https://pearc.acm.org/pearc20/
-    location: virtual, US
+    location: Virtual, US
     focus-area: osglhc
   - title: "Demonstrating 100 Gbps in and out of the public Clouds"
     date: 2020-07-28
     url: https://doi.org/10.1145/3311790.3399612
     meeting: PEARC20
     meetingurl: https://pearc.acm.org/pearc20/
-    location: virtual, US
+    location: Virtual, US
     focus-area: doma
   - title: "High Throughput Science Workshop"
     date: 2020-07-31
     meeting: PEARC20
     url: https://pearc20.sched.com/event/cnY6/high-throughput-science
     meetingurl: https://pearc.acm.org/pearc20/
-    location: virtual, US
+    location: Virtual, US
     focus-area: osglhc
   - title: "Running a Pre-exascale, Geographically Distributed, Multi-cloud Scientific Simulation"
     date: 2020-06-28
     url: https://doi.org/10.1007/978-3-030-50743-5_2
     meeting: ISC20
     meetingurl: https://www.isc-hpc.com
-    location: virtual
+    location: Virtual
     focus-area: osglhc
   - title: "TransAtlantic networking using Cloud links"
     date: 2020-05-27
