@@ -14,6 +14,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/745718/
     location: Fermilab, Illinois, USA
     focus-area: ia
+    focus-area: ml4jets
   - title: "SCAILFIN: Reproducible Open Benchmarks"
     date: 2019-06-19
     url: https://indico.cern.ch/event/822074/contributions/3471463/
@@ -28,6 +29,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/753914/overview
     location: Massachusetts Institute of Technology (MIT)
     focus-area: ia
+    focus-area: ml4jets
   - title: "Looking into Jets with Machine Learning"
     date: 2019-09-24
     url: https://phy.princeton.edu/events/pheno-vino-seminar-sebastian-macaluso-nyu-looking-jets-machine-learning-jadwin-303
@@ -35,6 +37,7 @@ presentations:
     meetingurl: https://phy.princeton.edu/events/pheno-vino-seminar-sebastian-macaluso-nyu-looking-jets-machine-learning-jadwin-303
     location: Princeton University
     focus-area: ia
+    focus-area: ml4jets
   - title: "Benchmarks for ML4Jets research"
     date: 2019-09-25
     url: https://indico.cern.ch/event/841905/
@@ -42,6 +45,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/841905/
     location: Vidyo
     focus-area: ia
+    focus-area: ml4jets
   - title: "Looking into Jets with Machine Learning"
     date: 2019-11-01
     url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/physicsxML_v2.pdf
@@ -49,6 +53,7 @@ presentations:
     meetingurl: https://docs.google.com/spreadsheets/d/1eETvm0Uwr_vl6Bm7VUL6JnrHy8QraGzyK4kXztjNZlk/edit#gid=0
     location: CDS New York University
     focus-area: ia
+    focus-area: ml4jets
   - title: "Looking into Jets with Machine Learning"
     date: 2019-11-04
     url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/UMassDS.pdf
@@ -56,6 +61,7 @@ presentations:
     meetingurl: https://ds.cs.umass.edu/event/sebastian-macaluso-nyu
     location: CDS UMass Amherst
     focus-area: ia
+    focus-area: ml4jets
   - title: "Looking into Jets with Machine Learning"
     date: 2019-11-19
     url: https://hetg.physics.harvard.edu/seminar-schedule
@@ -63,6 +69,7 @@ presentations:
     meetingurl: https://hetg.physics.harvard.edu/seminar-schedule
     location: Harvard University
     focus-area: ia
+    focus-area: ml4jets
   - title: "Looking into Jets with Machine Learning"
     date: 2020-01-17
     url: https://indico.cern.ch/event/809820/contributions/3632649
@@ -70,6 +77,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/809820/
     location: New York University
     focus-area: ia
+    focus-area: ml4jets
   - title: "New Computational Techniques and Machine Learning for Jet Physics"
     date: 2020-09-21
     url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/LaPlata2020.pdf
@@ -77,6 +85,7 @@ presentations:
     meetingurl: https://github.com/SebastianMacaluso/TalksSlides/blob/master/LaPlata2020.pdf
     location: Instituto de Fisica La Plata, La Plata, Argentina
     focus-area: ia
+    focus-area: ml4jets
   - title: "Reframing Jet Physics in Probabilistic Terms"
     date: 2021-03-01
     url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/BrownBag_March2021.pdf
@@ -84,3 +93,4 @@ presentations:
     meetingurl: https://as.nyu.edu/content/nyu-as/as/departments/physics/events/spring-2017/20170508-ccpp-brown-bag.html
     location: New York University
     focus-area: ia
+    focus-area: ml4jets

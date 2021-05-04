@@ -19,12 +19,14 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/43829/overview
     url: https://indico.fnal.gov/event/43829/contributions/193723/
     focus-area: ia
+    project:
   - title: "Machine learning in high-energy particle physics experiments, from simulation, through reconstruction to physics analysis"
     date: 2019-05-29
     meeting: Physics in Machine Learning Workshop
     meetingurl: https://www.ml4science.org/agenda-physics-in-ml
     url: https://www.ml4science.org/agenda-physics-in-ml
     focus-area: ia
+    project:
   - title: "IRIS-HEP Innovative Algorithms"
     date: 2019-02-06
     url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271529/attachments/1791453/2919650/Innovative_Algorithms_3.pdf
@@ -38,6 +40,7 @@ presentations:
     meeting: 25th ICEPP Symposium
     meetingurl: http://www.icepp.s.u-tokyo.ac.jp/symposium/25/timetable.html
     focus-area: ia
+    project:
   - title: "Ambiguity Resolution Studies with ACTS"
     date: 2019-01-13
     url: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/attachments/1761/2138/go
