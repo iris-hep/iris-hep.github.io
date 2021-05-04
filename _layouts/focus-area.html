@@ -14,7 +14,7 @@
 </div>
 
 {% assign page_focus_area = page.name | basename %}
-{% assign sorted = site.pages | smart_page_sort: "focus-area", page_focus_area %}
+{% assign sorted = site.pages | where: "pagetype", "project" | where_exp: "item", "item.focus-area contains page_focus_area" | smart_title_sort %}
 
 {% assign fa_team = sorted | get_set: "team" | sort | key_to_value: site.data.people %}
 
@@ -62,15 +62,8 @@
 {% endif %}
 
 
-{% assign sorted_presentations = site.data['sorted_presentations'] %}
 {% assign page_focus_area = page.name | basename %}
-
-{% assign pres_list = "" | split: "," %}
-{% for pres in sorted_presentations %}
-  {% if pres.focus-area contains page_focus_area %}
-    {% assign pres_list = pres_list | push: pres %}
-  {% endif %}
-{% endfor %}
+{% assign pres_list = site.data['sorted_presentations'] | where_exp: "item", "item.focus-area contains page_focus_area"  %}
 
 {% if pres_list.size > 0 %}
 <section class="">
@@ -99,36 +92,18 @@
 </section>
 {% endif %}
 
-{% assign sorted_publications = site.data['sorted_publications'] %}
-
-{% assign pubs = "" | split: "," %}
-{% for pub in sorted_publications %}
-  {% assign page_st = page.name | basename %}
-  {% if pub.focus-area contains page_st %}
-    {% assign pubs = pubs | push: pub %}
-  {% endif %}
-{% endfor %}
+{% assign pubs = site.data['sorted_publications'] | where_exp: "item", "item.focus-area contains page_focus_area" %}
 
 {% if pubs.size > 0 %}
 
-
 <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
-
 
 <ul>
 {% assign max_disp = 15 %}
 {% assign counter = 0 %}
   {% for pub in pubs %}
     {% assign counter = counter | plus: 1 %}
-    {% if pub.citation-count and pub.citation-count > 0 %}
-      {% assign cited = " [" | append: pub.citation-count | append: " citations]" %}
-      {% if pub.inspire-id %}
-        {% capture cited %} <a href='http://inspirehep.net/record/{{pub.inspire-id}}/citations'>{{cited}}</a>{% endcapture %}
-      {% endif %}
-    {% else %}
-      {% assign cited = "" %}
-    {% endif %}
     <li> {% include print_pub.html pub=pub %} </li>
     {% if counter == max_disp %}
     </ul>
