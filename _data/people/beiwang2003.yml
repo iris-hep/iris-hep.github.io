@@ -21,6 +21,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/814979
     location: Princeton University
     focus-area: ia
+    project:
   - title: Introduction to Performance Tuning & Optimization Tools
     date: 2019-07-25
     url: https://indico.cern.ch/event/814979/contributions/3401196/attachments/1831466/3109819/PerformanceTools.pdf
@@ -28,3 +29,4 @@ presentations:
     meetingurl: https://indico.cern.ch/event/814979
     location: Princeton University
     focus-area: ia
+    project:
