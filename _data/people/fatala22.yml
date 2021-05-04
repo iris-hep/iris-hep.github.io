@@ -11,11 +11,13 @@ presentations:
     url: https://indico.jlab.org/event/420/contributions/7597/attachments/6352/8417/HSF_Training_SoftCompRoundTable_12Jan_2021.pdf
     meeting: Software & Computing Round Table (2021) - Nuclear Physics
     meetingurl: https://indico.jlab.org/event/420/
+    focus-area: ssc
   - title: "Strategies and needs for training"
     date: 2019-11-21
     url: https://indico.cern.ch/event/813325/contributions/3603530/attachments/1949453/3235462/Training_FIRST-LAWSCEHP2019_Mexico.pdf
     meeting: Latin American Workshop on Software and Computing challenges in High-Energy Particle Physics (LAWSCHEP 2019)
     meetingurl: https://indico.cern.ch/event/813325/
+    focus-area: ssc
   - title: "Training WG update"
     date: 2018-07-11
     url: https://indico.cern.ch/event/785587/contributions/3266731/attachments/1776030/3097240/HSF_TEO_WG_update_11July_2019-2.pdf

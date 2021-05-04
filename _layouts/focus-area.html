@@ -18,7 +18,7 @@
 
 {% assign fa_team = sorted | get_set: "team" | sort | key_to_value: site.data.people %}
 
-{% unless fa_team.empty %}
+{% if fa_team.size > 0 %}
 <div class="container-fluid">
   <div class="row">
     {% for person in fa_team %}
@@ -34,9 +34,9 @@
   </div>
   <br>
 </div>
-{% endunless %}
+{% endif %}
 
-{% unless sorted.empty %}
+{% if sorted.size > 0 %}
 <div class="container-fluid projects">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
 <center>
@@ -59,7 +59,7 @@
 </center>
   <br>
 </div>
-{% endunless %}
+{% endif %}
 
 
 {% assign sorted_presentations = site.data['sorted_presentations'] %}

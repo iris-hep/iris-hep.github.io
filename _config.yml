@@ -67,4 +67,8 @@ inspire:
 iris-hep:
   extra-focus-areas:
     - core
-    - management
+  projectless-focus-areas:
+    - core
+    - ssc
+    - blueprint
+    - ssl
