@@ -13,27 +13,15 @@
 {{content}}
 </div>
 
-{% assign doProjects = 0 %}
-{% assign sorted = site.pages | sort_natural: 'title' %}
-{% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %}
 {% assign page_focus_area = page.name | basename %}
-{% if mypage.focus-area contains page_focus_area %}
-{% assign doProjects = 1 %}
-{% break %}
-{% endif %}
-{% endif %}
-{% endfor %}
+{% assign sorted = site.pages | smart_page_sort: "focus-area", page_focus_area %}
 
-{% if doProjects ==1 %}
+{% unless sorted.empty %}
 <div class="container-fluid projects">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
 <center>
   <div class="row">
 {% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %}
-{% assign page_focus_area = page.name | basename %}
-{% if mypage.focus-area contains page_focus_area %}
 <div class="card" style="width: 17rem;">
 <a href=/projects/{{mypage.shortname}}.html>
 <img class="card-img-top" src="/assets/{{mypage.image | default: "logos/Iris-hep-5-just-graphic.png"}}" alt="Card image cap">
@@ -46,14 +34,12 @@
 </div>
 </div>
 </div>
-{% endif %}
-{% endif %}
 {% endfor %}
   </div>
 </center>
   <br>
 </div>
-{% endif %}
+{% endunless %}
 
 
 {% assign sorted_presentations = site.data['sorted_presentations'] %}
