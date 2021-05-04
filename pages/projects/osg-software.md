@@ -6,7 +6,7 @@ shortname: osg-software
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Provide integrated software for running dHTC services
-position: 2
+position: -3
 focus-area: osglhc
 team:
 - brianhlin
