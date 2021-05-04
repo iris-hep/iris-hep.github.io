@@ -13,6 +13,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/727275/
     location: Geneva, Switzerland
     focus-area: as
+    project:
   - title: Integrating Cyberinfrastructure components
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3331187/17_-_Sinclert-Cyberinfrastructure_components.pdf
@@ -20,6 +21,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, US
     focus-area: as
+    project:
   - title: Madminer on REANA
     date: 2020-10-26
     url: https://indico.cern.ch/event/960587/attachments/2129226/3585364/IRIS-HEP%20Madminer-on-reana.pdf

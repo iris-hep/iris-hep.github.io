@@ -12,7 +12,7 @@ presentations:
     meeting: IRIS-HEP Steering Board Meeting #1
     meetingurl: https://indico.cern.ch/event/790759/
     focus-area: doma
-    project: idds,tpc
+    project: [idds, tpc]
   - title: "WLCG DOMA TPC Updates"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3312485/attachments/1815438/2968872/DOMA-TPC-HOW2019-v4.pdf

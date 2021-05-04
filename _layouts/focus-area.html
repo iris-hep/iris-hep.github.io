@@ -13,29 +13,17 @@
 {{content}}
 </div>
 
-{% assign doProjects = 0 %}
-{% assign sorted = site.pages | sort_natural: 'title' %}
-{% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %}
-{% if mypage.focus-area contains page.short_title %}
-{% assign doProjects = 1 %}
-{% break %}
-{% endif %}
-{% endif %}
-{% endfor %}
-
+{% assign page_focus_area = page.name | basename %}
+{% assign sorted = site.pages | smart_page_sort: "focus-area", page_focus_area %}
+          
 {% assign fa_team = "" | split: "," %}
 {% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %}
-{% if mypage.focus-area contains page.short_title %}
 {% for person in mypage.team %}
 {% if fa_team contains person %}
 {% continue %}
 {% endif %}
 {% assign fa_team = fa_team | push: person %}
 {% endfor %}
-{% endif %}
-{% endif %}
 {% endfor %}
 {% assign sorted_team = fa_team | sort %}
 {% if fa_team.size > 0 %}
@@ -62,15 +50,12 @@
 </div>
 {% endif %}
 
-
-{% if doProjects ==1 %}
+{% unless sorted.empty %}
 <div class="container-fluid projects">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
 <center>
   <div class="row">
 {% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %}
-{% if mypage.focus-area contains page.short_title %}
 <div class="card" style="width: 17rem;">
 <a href=/projects/{{mypage.shortname}}.html>
 <img class="card-img-top" src="/assets/{{mypage.image | default: "logos/Iris-hep-5-just-graphic.png"}}" alt="Card image cap">
@@ -83,18 +68,16 @@
 </div>
 </div>
 </div>
-{% endif %}
-{% endif %}
 {% endfor %}
   </div>
 </center>
   <br>
 </div>
-{% endif %}
+{% endunless %}
 
 
-{% include get_pres_list.html %}
-{% assign page_focus_area = page.short_title | strip %}
+{% assign sorted_presentations = site.data['sorted_presentations'] %}
+{% assign page_focus_area = page.name | basename %}
 
 {% assign pres_list = "" | split: "," %}
 {% for pres in sorted_presentations %}
@@ -130,11 +113,11 @@
 </section>
 {% endif %}
 
-{% include get_pub_list.html %}
+{% assign sorted_publications = site.data['sorted_publications'] %}
 
 {% assign pubs = "" | split: "," %}
 {% for pub in sorted_publications %}
-  {% assign page_st = page.short_title | strip %}
+  {% assign page_st = page.name | basename %}
   {% if pub.focus-area contains page_st %}
     {% assign pubs = pubs | push: pub %}
   {% endif %}
@@ -178,7 +161,8 @@
 
 {% endif %}
 
-{% include list_videos.html nvideos=5 add_header="<center><h3> Recent recordings</h3></center>" focus_areas=page.short_title %}
+{% assign focus_area = page.name | basename %}
+{% include list_videos.html nvideos=5 add_header="<center><h3> Recent recordings</h3></center>" focus_areas=focus_area %}
 
 
 
@@ -201,10 +185,10 @@
 
         </main>
       </div>
-      {% include footer.html %}
+      {% include_cached footer.html %}
     </div>
 
-  {% include layout_analytics.html %}
+  {% include_cached layout_analytics.html %}
   </body>
 </html>
 

@@ -11,7 +11,7 @@ focus-area: doma
 team:
 - jlefevre
 - ivotron
-- esmaeil-mirvakili
+- "[Esmaeil Mirvakili](mailto:smirvaki@ucsc.edu)" # esmaeil-mirvakili
 - JayjeetAtGithub
 - xweichu
 - carlosmalt
@@ -69,3 +69,7 @@ The above two plots shows how Parquet (top) stays bottlenecked on the client CPU
 * March, 2021 - [SkyhookDM v0.1.1](https://github.com/uccross/arrow/releases/tag/v0.1.1) Released !
 * February, 2021 - [SkyhookDM v0.1.0](https://github.com/uccross/arrow/releases/tag/v0.1.0) Released !
 * February, 2021 - [Guide](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/adapters/arrow-rados-cls/README.md) for getting started with SkyhookDM.
+
+## Fellows
+* [Jayjeet Chakraborty](/fellows/JayjeetChakraborty.html) (current)
+* [Xiongfeng Song](/fellows/XiongfengSong.html) (former)

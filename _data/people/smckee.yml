@@ -13,6 +13,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/765497
     location: San Diego, CA, US
     focus-area: osglhc
+    project: osg-networking
   - title: "OSG Networking: Status, Collaborations and Plans"
     date: 2019-03-20
     url: https://indico.cern.ch/event/759388/contributions/3352523/attachments/1815087/2966245/OSG_Networking__Status_Collaborations_and_Plans.pdf
@@ -20,6 +21,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/759388
     location: Newport News, VA, US
     focus-area: osglhc
+    project: osg-networking
   - title: "Scientific Data Lifecycle: Perspectives from an LHC Physicist"
     date: 2019-03-06
     url: https://www.nitrd.gov/nitrdgroups/images/9/98/Scientific-Data-Lifecycle-Shawn-McKee.pdf
@@ -27,6 +29,7 @@ presentations:
     meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC-Meetings-2019
     location: Videoconference
     focus-area: doma
+    project:
   - title: "LHCOPN/LHCONE perfSONAR Update"
     date: 2019-06-04
     url: https://indico.cern.ch/event/772031/contributions/3360614/attachments/1855592/3047650/LHCOPN_LHCONE_perfSONAR_Update_2019spring.pdf
@@ -34,6 +37,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/772031
     location: Umea, Sweden
     focus-area: osglhc
+    project: osg-networking
   - title: "The Service Analysis and Network Diagnostic (SAND) Project"
     date: 2019-07-02
     url: https://wiki.geant.org/download/attachments/123774072/SIG-PMV-DUblin-SAND-McKee-02-Jul-2019.pdf?version=2&modificationDate=1562073472330&api=v2
@@ -41,6 +45,7 @@ presentations:
     meetingurl: https://wiki.geant.org/display/PMV/6th+SIG-PMV+Meeting+@+Dublin
     location: Dublin, Ireland
     focus-area: osglhc
+    project: osg-networking
   - title: "Data Lakes, Data Caching for Science and the OSIRIS Distributed Storage System"
     date: 2019-09-18
     url: http://grp-workshop-2019.ucsd.edu/presentations/3_McKEE-GRP-2019-OSIRIS-Caching.pdf
@@ -48,6 +53,7 @@ presentations:
     meetingurl: http://grp-workshop-2019.ucsd.edu/
     location: San Diego, California
     focus-area: doma
+    project:
   - title: "WLCG/OSG Network Activities, Status and Plans"
     date: 2019-10-16
     url: https://indico.cern.ch/event/810635/contributions/3593246/attachments/1926442/3223199/HEPiX_Fall_2019_OSG_WLCG_Networking_Update.pdf
@@ -55,6 +61,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/810635/
     location: Amsterdam, Netherlands
     focus-area: osglhc
+    project: osg-networking
   - title: "Network Function Virtualization Working Group Update"
     date: 2019-10-16
     url: https://indico.cern.ch/event/810635/contributions/3593247/attachments/1927128/3223214/HEPiX_Network_Virtualisation_Working_Group_Update_Oct_2019_HEPiX.pdf
@@ -62,6 +69,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/810635/
     location: Amsterdam, Netherlands
     focus-area: osglhc
+    project: osg-networking
   - title: "The SAND Project a the Halfway Point"
     date: 2019-10-16
     url: https://indico.cern.ch/event/810635/contributions/3593348/attachments/1926847/3223164/HEPiX-SAND-Fall-2019.pdf
@@ -69,6 +77,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/810635/
     location: Amsterdam, Netherlands
     focus-area: osglhc
+    project: osg-networking
   - title: "WLCG Networks: Update on Monitoring and Analytics"
     date: 2019-11-04
     url: https://indico.cern.ch/event/773049/contributions/3473823/attachments/1937475/3213791/CHEP_2019_OSG_WLCG_Networking_Update.pdf
@@ -76,6 +85,7 @@ presentations:
     meetingurl: http://chep2019.org/
     location: Adelaide, Australia
     focus-area: osglhc
+    project: osg-networking
   - title: "A distributed R&D storage platform implementing quality of service"
     date: 2019-11-05
     url: https://indico.cern.ch/event/773049/contributions/3474403/attachments/1937924/3212138/CHEP-RandD-DataLake-v2.pdf
@@ -83,6 +93,7 @@ presentations:
     meetingurl: http://chep2019.org/
     location: Adelaide, Australia
     focus-area: doma
+    project:
   - title: "Network Capabilities for the HL-LHC Era"
     date: 2019-11-07
     url: https://indico.cern.ch/event/773049/contributions/3473832/attachments/1939678/3215613/CHEP_Network_Capabilities_for_HL-LHC_Nov_19.pdf
@@ -90,6 +101,7 @@ presentations:
     meetingurl: http://chep2019.org/
     location: Adelaide, Australia
     focus-area: osglhc
+    project: osg-networking
   - title: "perfSONAR Analytics"
     date: 2019-12-03
     url: https://indico.cern.ch/event/823341/contributions/3645036/attachments/1955228/3247468/perfSONAR_Analytics.pdf
@@ -97,6 +109,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/823341/
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
+    project: osg-networking
   - title: "Network Function Virtualization Report and Next Steps for Experiments"
     date: 2020-01-14
     url: https://indico.cern.ch/event/828520/contributions/3699233/attachments/1968544/3274004/Network-Discussion-LHCOPN_LHCONE-2020.pdf
@@ -104,6 +117,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/828520/
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
+    project: osg-networking
   - title: "Updates on OSG/WLCG perfSONAR Network Monitoring and Analytics"
     date: 2020-01-15
     url: https://indico.cern.ch/event/813757/contributions/3698520/attachments/1969584/3276449/Updates_on_OSG_WLCG_perfSONAR_Network_Monitoring_and_Analytics_2.pdf
@@ -111,6 +125,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/813757/
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
+    project: osg-networking
   - title: "LHCONE/LHCOPN Meeting Summary"
     date: 2020-01-15
     url: https://indico.cern.ch/event/813757/contributions/3698521/attachments/1969608/3276108/LHCOPNE-20200114-CERN-meeting-report-v1.0.pptx_1.pdf
@@ -118,6 +133,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/813757/
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
+    project: osg-networking
   - title: "OSG Network Monitoring (poster)"
     date: 2020-02-27
     url: https://indico.cern.ch/event/894127/attachments/1996570/3331193/23_-_IRIS-HEP_LHC-OSG_Network_Monitoring.pdf
@@ -125,6 +141,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/894127/
     location: Princeton, New Jersey, US
     focus-area: osglhc
+    project: osg-networking
   - title: "USATLAS: OSG/WLCG perfSONAR Network Monitoring and Analytics"
     date: 2020-04-01
     url: https://indico.cern.ch/event/895416/contributions/3775747/attachments/2013505/3364898/go
@@ -132,6 +149,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/895416/
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "New National Science Foundation International Research and education Network Connections Testbed Solicitation"
     date: 2020-04-14
     url: https://indico.cern.ch/event/870360/contributions/3670577/attachments/2019180/3376379/WLCG-IRNC-April-14-2020.pdf
@@ -139,6 +157,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/870360/
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "FABRIC for High-Energy Physics Prototyping"
     date: 2020-04-16
     url: https://drive.google.com/drive/u/0/folders/1Sp_m_9j1_x747B6CR0zhc2dM-JcoDvcz
@@ -146,6 +165,7 @@ presentations:
     meetingurl: https://fabric-testbed.net/events/fabric-community-workshop-2020
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "Networking: Status and Discussion"
     date: 2020-05-05
     url: https://docs.google.com/presentation/d/1OIKGxvq4vkPzUkXtx06LJ8Ka569Zyi8PFWYYrQNkmsE/edit#slide=id.g76f5dacfb4_0_90
@@ -153,6 +173,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/915025/
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "The SAND Project and a New Research Networking Technical Working Group"
     date: 2020-05-12
     url: https://docs.google.com/presentation/d/1ui5cVngu72c3DsiAtpBJWKZ3jKiC_1nCCxS-kmG9NCM/edit?usp=sharing
@@ -160,6 +181,7 @@ presentations:
     meetingurl: https://docs.google.com/document/d/1A_6Ooowm33MZR3A-fuTnhGwIUX6UEeaPumRfGUSBEgI/edit?usp=sharing
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "Report on the Research Networking Technical WG"
     date: 2020-05-12
     url: https://docs.google.com/presentation/d/1Rfr-zLrd2gYhiIgTag9XMIEPRcD9ireGOisGY3xRfOY/edit#slide=id.g8036819354_0_7
@@ -167,6 +189,7 @@ presentations:
     meetingurl: https://docs.google.com/document/d/1A_6Ooowm33MZR3A-fuTnhGwIUX6UEeaPumRfGUSBEgI/edit?usp=sharing
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "LHCOPN/LHCONE perfSONAR Update"
     date: 2020-05-13
     url: https://indico.cern.ch/event/888924/contributions/3792412/attachments/2037674/3412900/LHCOPN_LHCONE_perfSONAR_Update_2020spring.pdf
@@ -174,6 +197,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/888924/
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "Research Network Technology Working Group"
     date: 2020-05-13
     url: https://indico.cern.ch/event/888924/contributions/3792419/attachments/2037093/3411000/Research_Networking_Technical_Working_Group.pdf
@@ -181,6 +205,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/888924/
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "IPv6 and RNTWG Sub-groups"
     date: 2020-06-03
     url: https://indico.cern.ch/event/924996/contributions/3887247/attachments/2049467/3436039/IPv6_and_RNTWG_Sub-Groups.pdf
@@ -188,6 +213,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/924996/
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "Research Networking Technical WG (RNTWG) Update"
     date: 2020-09-16
     url: https://indico.cern.ch/event/932306/contributions/3937507/attachments/2104416/3538776/Research_Networking_Technical_Working_Group_Update.pdf
@@ -195,6 +221,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/932306/
     location: Zoom
     focus-area: osglhc
+    project: osg-networking
   - title: "Update from RNTWG - Packet Marking Subgroup"
     date: 2020-09-29
     url: https://indico.cern.ch/event/959585/contributions/4034267/attachments/2111250/3551438/Update_from_RNTWG_-_Packet_Marking_Subgroup.pdf
@@ -202,3 +229,4 @@ presentations:
     meetingurl: https://indico.cern.ch/event/959585/
     location: Zoom
     focus-area: osglhc
+    project: osg-networking

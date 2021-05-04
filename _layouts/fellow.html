@@ -72,6 +72,12 @@
         </ul>
         <hr>
 
+        <b>Current Status</b>
+        <br>
+        {{page.current_status}}
+        <br>
+        <br>
+
         <b>Contact me:</b><br>
         <ul>
           {% if page.e-mail.size > 4 %}
@@ -86,6 +92,7 @@
           {% endif %}
         </ul>
 
+
         <div>
           {{content}}
         </div>
@@ -93,9 +100,9 @@
       </div>
     </main>
   </div>
-  {% include footer.html %}
+  {% include_cached footer.html %}
 </div>
 
-{% include layout_analytics.html %}
+{% include_cached layout_analytics.html %}
 </body>
 </html>

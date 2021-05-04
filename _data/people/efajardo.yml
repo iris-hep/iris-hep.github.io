@@ -104,5 +104,5 @@ presentations:
   url: https://indico.cern.ch/event/967159/contributions/4070185/attachments/2127549/3582326/go
   meeting: DOMA / TPC Meeting
   meetingurl: https://indico.cern.ch/event/967159/
-  focus-area: tpc
+  focus-area: [doma, osglhc]
   projet: tpc
