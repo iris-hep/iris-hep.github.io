@@ -12,6 +12,7 @@ presentations:
     meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
     meetingurl: https://indico.cern.ch/event/814979
     location: Princeton University
+    focus-area: ssc
   - title: "mkFit update: strip tracker unpacking and clustering on CPU and GPU"
     date: 2020-02-05
     url: https://indico.cern.ch/event/879441/contributions/3724608/attachments/1982379/3301769/gpu-unpacking-2020-02-05.pdf

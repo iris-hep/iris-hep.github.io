@@ -12,6 +12,7 @@ presentations:
     meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
     meetingurl: https://indico.cern.ch/event/814979
     location: Princeton
+    project: mkfit
   - title: "Reconstruction R&D for HEP in the next decade"
     date: 2019-11-22
     url: https://indico.cern.ch/event/813325/contributions/3603480/attachments/1949438/3235400/lawshepRECO_112119.pdf
@@ -19,6 +20,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/813325
     location: Mexico City, Mexico
     focus-area: ia
+    project: mkfit
   - title: "Update on mkFit developments"
     date: 2019-12-16
     url: https://indico.cern.ch/event/869552/contributions/3669454
@@ -26,6 +28,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/869552
     location: CERN
     focus-area: ia
+    project: mkfit
   - title: "mkFit report: plans for offline tracking in Run3"
     date: 2020-10-06
     url: https://indico.cern.ch/event/934824/contributions/4042760
@@ -33,6 +36,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/934824/#b-382385-tracker-dpg-tracking
     location: CERN
     focus-area: ia
+    project: mkfit
   - title: "mkFit report: plans for offline tracking in Run3"
     date: 2020-10-19
     url: https://indico.cern.ch/event/961478/contributions/4056656
@@ -40,3 +44,4 @@ presentations:
     meetingurl: https://indico.cern.ch/event/961478
     location: CERN
     focus-area: ia
+    project: mkfit

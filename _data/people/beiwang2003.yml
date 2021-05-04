@@ -13,6 +13,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/831165/
     location: Virtual
     focus-area: ia
+    project: mkfit
   - title: Floating Point Arithmetic Is Not Real
     date: 2019-07-24
     url: https://indico.cern.ch/event/814979/contributions/3401175/attachments/1831476/3107964/FloatingPointArithmetic.pdf

@@ -13,6 +13,7 @@ presentations:
     meetingurl:
     location: SLAC
     project: acts
+    focus-area: ia
   - title: "Athena-ACTS Wrapper: Iterative Vertex Finder with Full Billoir Fitter"
     date: 2021-02-12
     url:
@@ -20,6 +21,7 @@ presentations:
     meetingurl:
     location: SLAC
     project: acts
+    focus-area: ia
   - title: "Parameter Optimization and Layer Linking in ACTS track Seeding"
     date: 2021-02-26
     url: https://indico.cern.ch/event/1010520/contributions/4249433/attachments/2197746/3716120/ACTS_ML_Meeting_Feb26.pdf
@@ -27,3 +29,4 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1010520/
     location: CERN
     project: acts
+    focus-area: ia
