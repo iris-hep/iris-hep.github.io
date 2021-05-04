@@ -230,3 +230,43 @@ presentations:
     location: Zoom
     focus-area: osglhc
     project: osg-networking
+  - title: "Update on the Packet Marking WG"
+    date: 2021-01-19
+    url: https://indico.cern.ch/event/995980/contributions/4185460/attachments/2174072/3670811/Update%20on%20the%20Packet%20Marking%20WG%20%281%29.pdf
+    meeting: HEPiX IPv6 Working Group Virtual F2F
+    meetingurl: https://indico.cern.ch/event/995980/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: "Network Topics For Discussion"
+    date: 2021-03-05
+    url: https://indico.fnal.gov/event/47040/contributions/209607/subcontributions/7880/attachments/140685/176868/OSG-AHM-2021_Network_Topics_Part_1.pdf
+    meeting: Open Science Grid All-Hands Meeting, Joint USATLAS-USCMS Session
+    meetingurl: https://indico.fnal.gov/event/47040/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: "WLCG/OSG Network Activities, Status and Plans"
+    date: 2021-03-16
+    url: https://indico.cern.ch/event/995485/contributions/4256471/attachments/2209460/3739050/HEPiX%20perfSONAR%20Update%20Spring%202021.pdf
+    meeting: HEPiX Spring 2021 Meeting
+    meetingurl: https://indico.cern.ch/event/995485/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: "LHCOPN/LHCONE Monitoring Updated"
+    date: 2021-03-23
+    url: https://indico.cern.ch/event/983436/contributions/4232157/attachments/2213899/3748225/LHCONE%20Monitoring%20Update%20Spring%202021.pdf
+    meeting: LHCONE/LHCOPN Spring 2021 Meeting
+    meetingurl: https://indico.cern.ch/event/983436/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: "Network Monitoring R&D (and data challenge needs)"
+    date: 2021-04-27
+    url: https://indico.cern.ch/event/1027287/contributions/4335184/attachments/2234157/3786307/Network%20Monitoring%20R%26D.pdf
+    meeting: Data Challenge Monitoring Mini-Workshop
+    meetingurl: https://indico.cern.ch/event/1027287/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
