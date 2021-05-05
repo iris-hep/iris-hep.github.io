@@ -1,69 +1,71 @@
+active: true
+hidden: true
+institution: University of Sussex
 name: Meirin Oan Evans
+photo: "/assets/images/team/Meirin-Evans.jpg"
 shortname: meevans1
 title: HSF Training Coordinator
-active: true
-institution: University of Sussex
 website: https://meirinoanevans.wixsite.com/portfolio
-photo: /assets/images/team/Meirin-Evans.jpg
-hidden: True
 presentations:
-  - title: Introduction to Machine Learning
-    date: 2020-11-02
-    url: https://indico.cern.ch/event/958112/sessions/370197/#20201103
-    meeting: ML + GPU Training
-    meetingurl: https://indico.cern.ch/event/958112/
-    location: Online
-  - title: Teaching Machine Learning with ATLAS Open Data
-    date: 2020-10-23
-    url: https://indico.cern.ch/event/852553/contributions/4057691/attachments/2128826/3584684/TeachingMachineLearning.pdf
-    meeting: 4th Inter-experiment Machine Learning Workshop
-    meetingurl: https://indico.cern.ch/event/852553/
-    location: Online
-  - title: Introduction to Machine Learning
-    date: 2020-10-12
-    url: https://indico.ph.liv.ac.uk/event/103/contributions/1221/
-    meeting: STFC School on Data Intensive Science 2020
-    meetingurl: https://indico.ph.liv.ac.uk/event/103
-    location: Online
-  - title: "Connecting teaching to research: ATLAS Open Data in Sussex courses"
-    date: 2020-10-01
-    url: https://epp.phys.sussex.ac.uk/Seminars_2020_21
-    meeting: University of Sussex Experimental Particle Physics seminars
-    meetingurl: https://epp.phys.sussex.ac.uk/Seminars_2020_21
-    location: Online
-  - title: The ATLAS public website - Evolution to Drupal 8
-    date: 2020-07-28
-    url: https://indico.cern.ch/event/868940/contributions/3814042/
-    meeting: ICHEP 2020
-    meetingurl: https://indico.cern.ch/event/868940
-    location: Online
-  - title: LHC Open Data for the world to see
-    date: 2020-05-29
-    url: https://indico.cern.ch/event/856696/contributions/3855377/
-    meeting: LHCP 2020
-    meetingurl: https://indico.cern.ch/event/856696
-    location: Online
-  - title: "ATLAS Open Data: Data visualisation and educational physics analysis to re-discover the Higgs"
-    date: 2020-05-28
-    url: https://indico.cern.ch/event/856696/contributions/3856041/
-    meeting: LHCP 2020
-    meetingurl: https://indico.cern.ch/event/856696
-    location: Online
-  - title: Optimising for signal to background ratio using statistical techniques
-    date: 2018-07-06
-    url: https://github.com/meevans1/How-to-rediscover-the-Higgs
-    meeting: STFC Data Intensive, Artificial Intelligence and Machine Learning Summer School 2019
-    meetingurl: https://www.sussex.ac.uk/discus/contact/stfcsummerschool2019
-    location: Sussex
-  - title: ATLAS Open Data for Run 2
-    date: 2019-05-29
-    url: http://indico.ictp.it/event/8679/session/74/contribution/241/material/poster/0.pdf
-    meeting: Interpreting the LHC Run 2 Data and Beyond
-    meetingurl: http://indico.ictp.it/event/8679/overview
-    location: ICTP Trieste
-  - title: ATLAS Open Data project
-    date: 2018-07-06
-    url: https://indico.cern.ch/event/686555/contributions/2971025/
-    meeting: ICHEP 2018
-    meetingurl: https://indico.cern.ch/event/686555
-    location: Seoul
+- title: Introduction to Machine Learning
+  date: 2020-11-02
+  url: https://indico.cern.ch/event/958112/sessions/370197/#20201103
+  meeting: ML + GPU Training
+  meetingurl: https://indico.cern.ch/event/958112/
+  location: Online
+- title: Teaching Machine Learning with ATLAS Open Data
+  date: 2020-10-23
+  url: https://indico.cern.ch/event/852553/contributions/4057691/attachments/2128826/3584684/TeachingMachineLearning.pdf
+  meeting: 4th Inter-experiment Machine Learning Workshop
+  meetingurl: https://indico.cern.ch/event/852553/
+  location: Online
+- title: Introduction to Machine Learning
+  date: 2020-10-12
+  url: https://indico.ph.liv.ac.uk/event/103/contributions/1221/
+  meeting: STFC School on Data Intensive Science 2020
+  meetingurl: https://indico.ph.liv.ac.uk/event/103
+  location: Online
+- title: 'Connecting teaching to research: ATLAS Open Data in Sussex courses'
+  date: 2020-10-01
+  url: https://epp.phys.sussex.ac.uk/Seminars_2020_21
+  meeting: University of Sussex Experimental Particle Physics seminars
+  meetingurl: https://epp.phys.sussex.ac.uk/Seminars_2020_21
+  location: Online
+- title: The ATLAS public website - Evolution to Drupal 8
+  date: 2020-07-28
+  url: https://indico.cern.ch/event/868940/contributions/3814042/
+  meeting: ICHEP 2020
+  meetingurl: https://indico.cern.ch/event/868940
+  location: Online
+- title: LHC Open Data for the world to see
+  date: 2020-05-29
+  url: https://indico.cern.ch/event/856696/contributions/3855377/
+  meeting: LHCP 2020
+  meetingurl: https://indico.cern.ch/event/856696
+  location: Online
+- title: 'ATLAS Open Data: Data visualisation and educational physics analysis to
+    re-discover the Higgs'
+  date: 2020-05-28
+  url: https://indico.cern.ch/event/856696/contributions/3856041/
+  meeting: LHCP 2020
+  meetingurl: https://indico.cern.ch/event/856696
+  location: Online
+- title: Optimising for signal to background ratio using statistical techniques
+  date: 2018-07-06
+  url: https://github.com/meevans1/How-to-rediscover-the-Higgs
+  meeting: STFC Data Intensive, Artificial Intelligence and Machine Learning Summer
+    School 2019
+  meetingurl: https://www.sussex.ac.uk/discus/contact/stfcsummerschool2019
+  location: Sussex
+- title: ATLAS Open Data for Run 2
+  date: 2019-05-29
+  url: http://indico.ictp.it/event/8679/session/74/contribution/241/material/poster/0.pdf
+  meeting: Interpreting the LHC Run 2 Data and Beyond
+  meetingurl: http://indico.ictp.it/event/8679/overview
+  location: ICTP Trieste
+- title: ATLAS Open Data project
+  date: 2018-07-06
+  url: https://indico.cern.ch/event/686555/contributions/2971025/
+  meeting: ICHEP 2018
+  meetingurl: https://indico.cern.ch/event/686555
+  location: Seoul

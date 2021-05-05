@@ -1,8 +1,10 @@
+active: true
+focus-area:
+- doma
+institution: University of Chicago
 name: Andrew Eckart
+photo: "/assets/images/team/Andrew-Eckart.jpg"
 shortname: AndrewEckart
 title:
-active: true
-institution: University of Chicago
 website:
-photo: /assets/images/team/Andrew-Eckart.jpg
 presentations:

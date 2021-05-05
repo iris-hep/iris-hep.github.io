@@ -1,12 +1,15 @@
+active: true
+focus-area:
+- doma
+- as
+institution: University of Nebraska - Lincoln
 name: Oksana Shadura
+photo: "/assets/images/team/Oksana-Shadura_.jpg"
 shortname: oshadura
 title:
-active: true
-institution: University of Nebraska - Lincoln
 website: https://github.com/oshadura
-photo: /assets/images/team/Oksana-Shadura_.jpg
 presentations:
-- title: "Future analysis facilities"
+- title: Future analysis facilities
   date: 2021-02-03
   url: https://indico.cern.ch/event/998431/contributions/4207282/attachments/2183405/3689404/CMS%20Analysis%20Facility%20-%20CMS%20Week.pdf
   meeting: CMS Week
@@ -14,7 +17,7 @@ presentations:
   location: Virtual
   focus-area: doma
   project: coffea-casa
-- title: "U.S. CMS Managed Analysis Facilities"
+- title: U.S. CMS Managed Analysis Facilities
   date: 2020-11-24
   url: https://indico.cern.ch/event/941278/contributions/4104696/attachments/2149035/3623381/U.S.%20CMS%20Managed%20Analysis%20Facilities-1.pdf
   meeting: HSF WLCG Virtual Workshop
@@ -22,7 +25,7 @@ presentations:
   location: Virtual
   focus-area: doma
   project: coffea-casa
-- title: "Analysis on LHC-Managed Facilities: Coffea-Casa"
+- title: 'Analysis on LHC-Managed Facilities: Coffea-Casa'
   date: 2020-10-27
   url: https://indico.cern.ch/event/960587/contributions/4070335/attachments/2130432/3587698/Analysis%20on%20LHC-Managed%20Facilities%20Coffea-Casa.pdf
   meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
@@ -30,10 +33,10 @@ presentations:
   location: Virtual
   focus-area: doma
   project: coffea-casa
-- title: "Analysis facilities"
+- title: Analysis facilities
   date: 2020-09-23
   url: https://indico.cern.ch/event/956958/contributions/4021690/attachments/2108039/3545396/US_CMS_Analysis_Facilities_RD_and_first_prototypes.pdf
-  meeting: "Upgrade R&D/CMP Meeting (Presented on Weekly CMS O&C Meeting slot)"
+  meeting: Upgrade R&D/CMP Meeting (Presented on Weekly CMS O&C Meeting slot)
   meetingurl: https://indico.cern.ch/event/956958/
   location: Virtual
   focus-area: doma
