@@ -20,10 +20,10 @@ OSG-LHC Security collaborates with WLCG cybersecurity groups and stakeholders, i
 
 *  **WLCG Federated Operations Security Working Group:**
    This group is working to develop a trust model and policies for federated service operations across the WLCG.
-   
+
 *  **WLCG Authorization Working Group:**
    This group focuses on addressing authorization requirements for WLCG experiments and WLCG infrastructure.
-   
+
 *  **WLCG shared incident response:**
    OSG-LHC security collaborates with U.S. ATLAS Security, U.S. CMS Security, and EGI CSIRT teams to facilitate incident response within the WLCG.
 
