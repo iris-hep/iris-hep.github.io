@@ -1,9 +1,10 @@
+---
 name: Graeme Stewart
 shortname: g_stewart
 title: HEP Software Foundation (HSF)
 active: true
 institution: CERN
 website:
-photo: /assets/images/team/Graeme-Stewart.jpeg
+photo: "/assets/images/team/Graeme-Stewart.jpeg"
 hidden: true
 presentations:

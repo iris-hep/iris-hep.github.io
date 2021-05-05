@@ -1,9 +1,10 @@
+---
 name: David Swanson
 shortname: d_swanson
 title: The OSG Council
 active: true
 institution: U. Nebraska-Lincoln
 website:
-photo: /assets/images/team/David_Swanson.jpg
+photo: "/assets/images/team/David_Swanson.jpg"
 hidden: true
 presentations:

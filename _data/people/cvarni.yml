@@ -1,15 +1,16 @@
+---
 name: Carlo Varni
 title: Postdoctoral researcher
 shortname: cvarni
 active: true
 institution: University of California, Berkeley
-photo: /assets/images/team/CarloVarni.jpg
+photo: "/assets/images/team/CarloVarni.jpg"
 e-mail: carlo.varni@berkeley.edu
 presentations:
-  - title: ACTS integration into athena
-    date: 2021-03-26
-    url:
-    meeting: ACTS-ITk meeting
-    meetingurl:
-    project: acts
-    location: CERN
+- title: ACTS integration into athena
+  date: 2021-03-26
+  url:
+  meeting: ACTS-ITk meeting
+  meetingurl:
+  project: acts
+  location: CERN

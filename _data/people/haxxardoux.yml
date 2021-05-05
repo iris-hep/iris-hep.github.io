@@ -1,7 +1,8 @@
-name:  Will Tepe
+---
+name: Will Tepe
 shortname: haxxardoux
 title: Undergraduate Research Assistant
 active: true
 institution: University of Cincinnati
-photo: /assets/images/team/Will-Tepe.jpg
+photo: "/assets/images/team/Will-Tepe.jpg"
 hidden: true

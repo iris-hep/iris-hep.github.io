@@ -1,9 +1,10 @@
+---
 name: David Costanzo
 shortname: d_costanzo
 title: ATLAS Experiment
 active: true
 institution: Sheffield
 website:
-photo: /assets/images/team/David_Costanzo.png
+photo: "/assets/images/team/David_Costanzo.png"
 hidden: true
 presentations:
