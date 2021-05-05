@@ -1,8 +1,6 @@
 
 {%- include get_all_videos.html -%}
 
-{% assign max_vid = include.nvideos | default: 8000 %}
-
 {% assign selected_videos = "" | split: "," %}
 
 {% assign projects = include.projects | ensure_array %}
@@ -23,6 +21,9 @@
   {% assign selected_videos = selected_videos | concat: videos %}
 {% endif %}
 
+{% if include.nvideos %}
+  {% assign selected_videos = selected_videos | slice: 0, include.nvideos %}
+{% endif %}
 
 {% if selected_videos.size > 0 %}
   {% assign full_person_list = site.data.people | values %}

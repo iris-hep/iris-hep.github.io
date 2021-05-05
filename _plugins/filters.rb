@@ -24,9 +24,9 @@ module IrisHep
 
     # Force an item to be an array
     def ensure_array(input)
-      return [] if v.nil?
+      return [] if input.nil?
 
-      v.is_a?(Array) ? v : [v]
+      input.is_a?(Array) ? input : [input]
     end
 
     # Flatten an array of arrays
@@ -51,7 +51,7 @@ module IrisHep
 
     # Selects items where there is an overlap between items
     def where_overlap(input, key, values)
-      input.select{ |v| ensure_array(v[key]).to_set.intersect? values.to_set }
+      input.select { |v| ensure_array(v[key]).to_set.intersect? values.to_set }
     end
 
     # Print to console
