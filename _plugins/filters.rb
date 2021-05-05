@@ -13,17 +13,26 @@ module IrisHep
       input.sort_by { |p| [p['position'] || 0, p['title'].downcase] }
     end
 
-    # Get a set from a key in a collection of hashes
-    def get_set(input, key)
-      input.flat_map { |p| p[key] || [] }.uniq
+    # Force an array to be an array of arrays
+    def ensure_arrays(input)
+      input.map do |v|
+        return [] if v.nil?
+
+        v.is_a?(Array) ? v : [v]
+      end
     end
 
-    # Convert array of keys to array of values using a hash
-    def key_to_value(input, hash)
-      input.map { |k| hash.fetch(k, nil) }.compact
+    # Flatten an array of arrays
+    def flat_map(input)
+      ensure_arrays(input.lazy).flat_map { |p| p || [] }.to_a
     end
 
-    # second item
+    # Convert array of keys to array of values using a hash, nil where no mapping exists
+    def hash_fetch(input, hash)
+      input.map { |k| hash.fetch(k, nil) }
+    end
+
+    # Values of a hash
     def values(input)
       input.values
     end
