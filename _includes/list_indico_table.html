@@ -1,15 +1,5 @@
 
-{%- assign currentdatecmp = 'now' | date: "%s" -%}
-{%- assign selected_events = "" | split: ',' -%}
-{%- for event_pair in site.data.indico[include.name] -%}
-  {%- assign event = event_pair[1] -%}
-  {%- assign startdatecmp = event.startdate | date: "%s" -%}
-  {%- if startdatecmp < currentdatecmp -%}
-    {%- assign selected_events = selected_events | push: event -%}
-  {%- endif-%}
-{%- endfor -%}
-{%- assign selected_events = selected_events | sort: 'startdate' | reverse -%}
-
+{%- assign selected_events = site.data.indico[include.name] | values | day_range: "startdate", nil, 1 | sort: 'startdate' | reverse -%}
 
 <table>
   <thead>
