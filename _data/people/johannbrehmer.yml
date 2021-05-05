@@ -1,176 +1,186 @@
+active: false
+focus-area:
+- as
+- ia
+institution: New York University
 name: Johann Brehmer
+photo: "/assets/images/team/Johann-Brehmer.jpg"
 shortname: johannbrehmer
 title:
-active: false
-institution: New York University
 website: https://johannbrehmer.github.io
-photo: /assets/images/team/Johann-Brehmer.jpg
 presentations:
-  - title: "How machine learning can help us get the most out of high-precision particle physics models"
-    date: 2020-11-23
-    url: https://www.jlab.org/sites/default/files/theory/files/simulation_based_inference_jlab_2020.pdf
-    meeting: JLab theory seminar
-    meetingurl: https://www.jlab.org/theory/seminars/theorysem
-    location: Jefferson Lab, USA
-    focus-area: as
-    project: madminer
-  - title: "How machine learning can help us get the most out of high-precision particle physics models"
-    date: 2020-11-12
-    url: https://theorieseminar.desy.de/sites2009/site_theorieseminar/content/e41199/e308614/Brehmer121120.pdf
-    meeting: DESY-HU theory seminar
-    meetingurl: https://theorieseminar.desy.de/zeuthen/
-    location: Berlin, Germany
-    focus-area: as
-    project: madminer
-  - title: "NOTAGAN: Normalizing flows for simultaneous manifold learning and density estimation"
-    date: 2020-07-18
-    url: https://invertibleworkshop.github.io/accepted_papers/index.html
-    meeting: "INNF+: Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models"
-    meetingurl: https://invertibleworkshop.github.io/
-    location: remote
-    focus-area: as
-    project:
-  - title: "Flows for simultaneous manifold learning and density estimation"
-    date: 2020-07-15
-    url:
-    meeting: mlclub.net
-    meetingurl:
-    location: remote
-    focus-area: as
-    project:
-  - title: "Mining for Dark Matter substructure:  Learning from lenses without a likelihood"
-    date: 2020-02-17
-    url: https://ithems.riken.jp/ja/events/mining-for-dark-matter-substructure-learning-from-lenses-without-a-likelihood
-    meeting: Dark Matter Working Group seminar
-    meetingurl:
-    location: RIKEN, Tokyo, Japan
-    focus-area: as
-    project: madminer
-  - title: The frontier of simulation-based inference
-    date: 2020-02-05
-    url: https://agenda.hepl.phys.nagoya-u.ac.jp/indico/contributionDisplay.py?sessionId=1&contribId=6&confId=1336
-    meeting: Workshop on Machine Learning at the LHC
-    meetingurl: https://agenda.hepl.phys.nagoya-u.ac.jp/indico/conferenceDisplay.py?confId=1336
-    location: Nagoya University, Japan
-    focus-area: as
-    project: madminer
-  - title: Normalizing flows and the likelihood ratio trick in particle physics
-    date: 2020-01-06
-    url:
-    meeting: Deep learning seminar
-    meetingurl:
-    location: University of Bremen, Germany
-    focus-area: as
-    project: madminer
-  - title: "Mining gold: Improving simulation-based inference with latent information (poster)"
-    date: 2019-12-14
-    url: https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_16.pdf
-    meeting: NeurIPS 2019 workshop on Machine Learning and the Physical Sciences
-    meetingurl: https://ml4physicalsciences.github.io
-    location: Vancouver, Canada
-    focus-area: as
-    project: madminer
-  - title: MadMiner Update
-    date: 2019-06-19
-    url: https://indico.cern.ch/event/822074/contributions/3471461/
-    meeting: Analysis Systems Topical Meeting
-    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
-    location: NYU
-    focus-area: as
-    project: madminer
-  - title: "Constraining effective field theories with machine learning"
-    date: 2019-06-06
-    url:
-    meeting: INFN Padova seminar
-    meetingurl:
-    location: Padova, Italy
-    focus-area: as
-    project: madminer
-  - title: "Constraining effective field theories with machine learning"
-    date: 2019-04-18
-    url: https://agenda.irmp.ucl.ac.be/event/3283/contributions/3930/
-    meeting: Higgs and Effective Field Theory 2019
-    meetingurl: https://agenda.irmp.ucl.ac.be/event/3283/
-    location: Louvain-la-Neuve, Belgium
-    focus-area: as
-    project: madminer
-  - title: "'Mining gold' from simulators to improve likelihood-free inference"
-    date: 2019-03-18
-    url: https://lfitaskforce.github.io/FlatironMeeting/
-    meeting: Likelihood-free inference workshop
-    meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
-    location: New York, USA
-    focus-area: as
-    project: madminer
-  - title: "Keynote: Constraining effective field theories with machine learning"
-    date: 2019-03-14
-    url: https://indico.cern.ch/event/708041/contributions/3308812/
-    meeting: International Workshop on Advanced Computing and Analysis Techniques in Physics Research
-    meetingurl: https://indico.cern.ch/event/708041/
-    location: Saas-Fee, Switzerland
-    focus-area: as
-    project: madminer
-  - title: "Bringing together simulations, physics insight, and machine learning to constrain new physics"
-    date: 2019-02-28
-    url: https://www.brandeis.edu/physics/news-events/dark-universe.html
-    meeting: Dark universe seminar
-    meetingurl: https://www.brandeis.edu/physics/news-events/dark-universe.html
-    location: Brandeis University, Boston, USA
-    focus-area: as
-    project: madminer
-  - title: "Meticulous measurements with matrix elements and machine learning"
-    date: 2019-01-14
-    url: https://pages.uoregon.edu/its/seminars/
-    meeting: ITS/CHEP joint seminar
-    meetingurl: https://pages.uoregon.edu/its/seminars/
-    location: U Oregon, Eugene, USA
-    focus-area: as
-    project: madminer
-  - title: Improving inference with matrix elements and machine learning
-    date: 2019-01-11
-    url: http://ias.ust.hk/program/shared_doc/2019/201901hep/program/20190111_4042_pm_Johann_Brehmer.pdf
-    meeting: HK IAS Program on High Energy Physics
-    meetingurl: http://iasprogram.ust.hk/hep/2019/
-    location: Hong Kong
-    focus-area: as
-    project: madminer
-  - title: Learning to constrain new physics
-    date: 2018-09-20
-    url: https://conference.ippp.dur.ac.uk/event/738/
-    meeting: IPPP seminar
-    meetingurl: https://phy.princeton.edu/events
-    location: Durham, UK
-    focus-area: as
-    project: madminer
-  - title: Learning to constrain new physics
-    date: 2018-09-13
-    url: https://phy.princeton.edu/events/pheno-vino-seminar-johann-brehmer-nyu-learning-constrain-new-physics-jadwin-111
-    meeting: Pheno & Vino Seminar
-    meetingurl: https://phy.princeton.edu/events/pheno-vino-seminar-johann-brehmer-nyu-learning-constrain-new-physics-jadwin-111
-    location: Princeton University, USA
-    focus-area: as
-    project: madminer
-  - title: Learning to constrain new physics
-    date: 2018-08-27
-    url: https://mcfp.physics.umd.edu/images/EPTSeminarSlides/Johann_Brehmer_Aug2018.pdf
-    meeting: Elementary particle seminar
-    meetingurl: http://www.physics.umd.edu/ep/seminars/
-    location: University of Maryland, USA
-    focus-area: as
-    project: madminer
-  - title: Machine Learning to Probe a BSM Higgs Sector
-    date: 2018-07-23
-    url: https://indico.lal.in2p3.fr/event/4754/#sc-19-8-machine-learning-to-pr
-    meeting: Higgs Hunting
-    meetingurl: http://wpsist.lal.in2p3.fr/higgshunting2018/
-    location: Paris, France
-    focus-area: as
-    project: madminer
-  - title: Constraining Effective Theories with Machine Learning
-    date: 2018-06-27
-    url:  https://www.bnl.gov/physics/HET/events/
-    meeting: Theory seminar
-    meetingurl: https://www.bnl.gov/physics/HET/events/
-    location: Brookhaven National Lab, USA
-    focus-area: as
-    project: madminer
+- title: How machine learning can help us get the most out of high-precision particle
+    physics models
+  date: 2020-11-23
+  url: https://www.jlab.org/sites/default/files/theory/files/simulation_based_inference_jlab_2020.pdf
+  meeting: JLab theory seminar
+  meetingurl: https://www.jlab.org/theory/seminars/theorysem
+  location: Jefferson Lab, USA
+  focus-area: as
+  project: madminer
+- title: How machine learning can help us get the most out of high-precision particle
+    physics models
+  date: 2020-11-12
+  url: https://theorieseminar.desy.de/sites2009/site_theorieseminar/content/e41199/e308614/Brehmer121120.pdf
+  meeting: DESY-HU theory seminar
+  meetingurl: https://theorieseminar.desy.de/zeuthen/
+  location: Berlin, Germany
+  focus-area: as
+  project: madminer
+- title: 'NOTAGAN: Normalizing flows for simultaneous manifold learning and density
+    estimation'
+  date: 2020-07-18
+  url: https://invertibleworkshop.github.io/accepted_papers/index.html
+  meeting: 'INNF+: Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood
+    Models'
+  meetingurl: https://invertibleworkshop.github.io/
+  location: remote
+  focus-area: as
+  project:
+- title: Flows for simultaneous manifold learning and density estimation
+  date: 2020-07-15
+  url:
+  meeting: mlclub.net
+  meetingurl:
+  location: remote
+  focus-area: as
+  project:
+- title: 'Mining for Dark Matter substructure:     Learning from lenses without a likelihood'
+  date: 2020-02-17
+  url: https://ithems.riken.jp/ja/events/mining-for-dark-matter-substructure-learning-from-lenses-without-a-likelihood
+  meeting: Dark Matter Working Group seminar
+  meetingurl:
+  location: RIKEN, Tokyo, Japan
+  focus-area: as
+  project: madminer
+- title: The frontier of simulation-based inference
+  date: 2020-02-05
+  url: https://agenda.hepl.phys.nagoya-u.ac.jp/indico/contributionDisplay.py?sessionId=1&contribId=6&confId=1336
+  meeting: Workshop on Machine Learning at the LHC
+  meetingurl: https://agenda.hepl.phys.nagoya-u.ac.jp/indico/conferenceDisplay.py?confId=1336
+  location: Nagoya University, Japan
+  focus-area: as
+  project: madminer
+- title: Normalizing flows and the likelihood ratio trick in particle physics
+  date: 2020-01-06
+  url:
+  meeting: Deep learning seminar
+  meetingurl:
+  location: University of Bremen, Germany
+  focus-area: as
+  project: madminer
+- title: 'Mining gold: Improving simulation-based inference with latent information
+    (poster)'
+  date: 2019-12-14
+  url: https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_16.pdf
+  meeting: NeurIPS 2019 workshop on Machine Learning and the Physical Sciences
+  meetingurl: https://ml4physicalsciences.github.io
+  location: Vancouver, Canada
+  focus-area: as
+  project: madminer
+- title: MadMiner Update
+  date: 2019-06-19
+  url: https://indico.cern.ch/event/822074/contributions/3471461/
+  meeting: Analysis Systems Topical Meeting
+  meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+  location: NYU
+  focus-area: as
+  project: madminer
+- title: Constraining effective field theories with machine learning
+  date: 2019-06-06
+  url:
+  meeting: INFN Padova seminar
+  meetingurl:
+  location: Padova, Italy
+  focus-area: as
+  project: madminer
+- title: Constraining effective field theories with machine learning
+  date: 2019-04-18
+  url: https://agenda.irmp.ucl.ac.be/event/3283/contributions/3930/
+  meeting: Higgs and Effective Field Theory 2019
+  meetingurl: https://agenda.irmp.ucl.ac.be/event/3283/
+  location: Louvain-la-Neuve, Belgium
+  focus-area: as
+  project: madminer
+- title: "'Mining gold' from simulators to improve likelihood-free inference"
+  date: 2019-03-18
+  url: https://lfitaskforce.github.io/FlatironMeeting/
+  meeting: Likelihood-free inference workshop
+  meetingurl: https://lfitaskforce.github.io/FlatironMeeting/
+  location: New York, USA
+  focus-area: as
+  project: madminer
+- title: 'Keynote: Constraining effective field theories with machine learning'
+  date: 2019-03-14
+  url: https://indico.cern.ch/event/708041/contributions/3308812/
+  meeting: International Workshop on Advanced Computing and Analysis Techniques in
+    Physics Research
+  meetingurl: https://indico.cern.ch/event/708041/
+  location: Saas-Fee, Switzerland
+  focus-area: as
+  project: madminer
+- title: Bringing together simulations, physics insight, and machine learning to constrain
+    new physics
+  date: 2019-02-28
+  url: https://www.brandeis.edu/physics/news-events/dark-universe.html
+  meeting: Dark universe seminar
+  meetingurl: https://www.brandeis.edu/physics/news-events/dark-universe.html
+  location: Brandeis University, Boston, USA
+  focus-area: as
+  project: madminer
+- title: Meticulous measurements with matrix elements and machine learning
+  date: 2019-01-14
+  url: https://pages.uoregon.edu/its/seminars/
+  meeting: ITS/CHEP joint seminar
+  meetingurl: https://pages.uoregon.edu/its/seminars/
+  location: U Oregon, Eugene, USA
+  focus-area: as
+  project: madminer
+- title: Improving inference with matrix elements and machine learning
+  date: 2019-01-11
+  url: http://ias.ust.hk/program/shared_doc/2019/201901hep/program/20190111_4042_pm_Johann_Brehmer.pdf
+  meeting: HK IAS Program on High Energy Physics
+  meetingurl: http://iasprogram.ust.hk/hep/2019/
+  location: Hong Kong
+  focus-area: as
+  project: madminer
+- title: Learning to constrain new physics
+  date: 2018-09-20
+  url: https://conference.ippp.dur.ac.uk/event/738/
+  meeting: IPPP seminar
+  meetingurl: https://phy.princeton.edu/events
+  location: Durham, UK
+  focus-area: as
+  project: madminer
+- title: Learning to constrain new physics
+  date: 2018-09-13
+  url: https://phy.princeton.edu/events/pheno-vino-seminar-johann-brehmer-nyu-learning-constrain-new-physics-jadwin-111
+  meeting: Pheno & Vino Seminar
+  meetingurl: https://phy.princeton.edu/events/pheno-vino-seminar-johann-brehmer-nyu-learning-constrain-new-physics-jadwin-111
+  location: Princeton University, USA
+  focus-area: as
+  project: madminer
+- title: Learning to constrain new physics
+  date: 2018-08-27
+  url: https://mcfp.physics.umd.edu/images/EPTSeminarSlides/Johann_Brehmer_Aug2018.pdf
+  meeting: Elementary particle seminar
+  meetingurl: http://www.physics.umd.edu/ep/seminars/
+  location: University of Maryland, USA
+  focus-area: as
+  project: madminer
+- title: Machine Learning to Probe a BSM Higgs Sector
+  date: 2018-07-23
+  url: https://indico.lal.in2p3.fr/event/4754/#sc-19-8-machine-learning-to-pr
+  meeting: Higgs Hunting
+  meetingurl: http://wpsist.lal.in2p3.fr/higgshunting2018/
+  location: Paris, France
+  focus-area: as
+  project: madminer
+- title: Constraining Effective Theories with Machine Learning
+  date: 2018-06-27
+  url: https://www.bnl.gov/physics/HET/events/
+  meeting: Theory seminar
+  meetingurl: https://www.bnl.gov/physics/HET/events/
+  location: Brookhaven National Lab, USA
+  focus-area: as
+  project: madminer

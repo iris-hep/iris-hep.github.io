@@ -1,15 +1,17 @@
+active: false
+focus-area:
+- ia
+institution: University of California, Berkeley
 name: Irina Ene
+photo: "/assets/images/team/Irina-Ene.jpg"
 shortname: irinaene
 title:
-active: false
-institution: University of California, Berkeley
 website:
-photo: /assets/images/team/Irina-Ene.jpg
 presentations:
-  - title: Ambiguity Resolution in ACTS
-    date: 2020-09-02
-    url: https://indico.cern.ch/event/945364/contributions/3972551/attachments/2095760/3522537/IrinaEne-IRIS-HEP_topical_meeting_090220.pdf
-    meeting: IRIS-HEP topical meeting
-    meetingurl: https://indico.cern.ch/event/945364/
-    focus-area: ia
-    project: acts
+- title: Ambiguity Resolution in ACTS
+  date: 2020-09-02
+  url: https://indico.cern.ch/event/945364/contributions/3972551/attachments/2095760/3522537/IrinaEne-IRIS-HEP_topical_meeting_090220.pdf
+  meeting: IRIS-HEP topical meeting
+  meetingurl: https://indico.cern.ch/event/945364/
+  focus-area: ia
+  project: acts

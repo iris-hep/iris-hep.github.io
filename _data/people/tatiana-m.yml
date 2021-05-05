@@ -1,10 +1,9 @@
+active: false
+hidden: true
+institution: Princeton University
 name: Tatiana Medvedeva
+photo: "/assets/images/atom.png"
 shortname: tatiana-m
 title:
-active: false
-institution: Princeton University
 website:
-photo: /assets/images/atom.png
-hidden: true
 presentations:
-

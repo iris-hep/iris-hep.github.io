@@ -1,17 +1,18 @@
+active: true
+focus-area:
+- ia
+institution: Cornell University
 name: Steve Lantz
+photo: "/assets/images/team/Steve-Lantz.jpg"
 shortname: srlantz
 title:
-active: true
-institution: Cornell University
 website: https://www.cac.cornell.edu/slantz/index.html
-photo: /assets/images/team/Steve-Lantz.jpg
 presentations:
-  - title: "Vector Parallelism on Multi-Core Processors"
-    date: 2019-07-25
-    url: https://indico.cern.ch/event/814979/contributions/3401203/attachments/1831468/3115808/VectorParallelismMultiCoreProc.pdf
-    meeting: "Third Computational and Data Science school for HEP (CoDaS-HEP 2019)"
-    meetingurl: https://indico.cern.ch/event/814979/timetable/
-    location: Princeton University
-    focus-area: ia
-    project: mkfit
-
+- title: Vector Parallelism on Multi-Core Processors
+  date: 2019-07-25
+  url: https://indico.cern.ch/event/814979/contributions/3401203/attachments/1831468/3115808/VectorParallelismMultiCoreProc.pdf
+  meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+  meetingurl: https://indico.cern.ch/event/814979/timetable/
+  location: Princeton University
+  focus-area: ia
+  project: mkfit

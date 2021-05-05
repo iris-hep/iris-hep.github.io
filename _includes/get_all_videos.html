@@ -2,4 +2,4 @@
 Collect all the videos, merging lists as appropriate.
 {%- endcomment -%}
 
-{% assign sorted_videos = site.data.videos | values | sort: "date" | reverse %}
+{% assign all_videos = site.data.videos | values | sort: "date" | reverse %}

@@ -16,7 +16,7 @@
 {% assign page_focus_area = page.name | basename %}
 {% assign sorted = site.pages | where: "pagetype", "project" | where_exp: "item", "item.focus-area contains page_focus_area" | smart_title_sort %}
 
-{% assign fa_team = sorted | map: "team" | flat_map | uniq | sort | hash_fetch: site.data.people | compact %}
+{% assign fa_team = site.data.people | where_exp: "item", "item.focus-area contains page_focus_area" %}
 
 {% if fa_team.size > 0 %}
 <div class="container-fluid">

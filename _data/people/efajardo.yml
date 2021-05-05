@@ -1,12 +1,15 @@
+active: false
+focus-area:
+- doma
+- osglhc
+institution: University of California, San Diego
 name: Edgar Fajardo
+photo: "/assets/images/team/Edgar-Fajardo.jpeg"
 shortname: efajardo
 title: OSG Software Team Developer
-active: false
-institution: University of California, San Diego
 website:
-photo: /assets/images/team/Edgar-Fajardo.jpeg
 presentations:
-- title: "GeoIP HTTPS Redirector"
+- title: GeoIP HTTPS Redirector
   date: 2021-02-25
   url: https://indico.fnal.gov/event/48049/attachments/140452/176530/GeoIP_Redirector.pdf
   meeting: XCache DevOps Meeting
@@ -36,14 +39,16 @@ presentations:
   location: IN2P3
   focus-area: doma
   project: tpc
-- title: Moving the California distributed CMS xcache from bare metal into containers using Kubernetes
+- title: Moving the California distributed CMS xcache from bare metal into containers
+    using Kubernetes
   date: 2019-11-05
   url: https://indico.cern.ch/event/773049/contributions/3474397/
   meeting: CHEP 2019
   location: Adelaide
   focus-area: doma
   project: caching
-- title: Creating a content delivery network for general science on the backbone of the Internet using xcaches.
+- title: Creating a content delivery network for general science on the backbone of
+    the Internet using xcaches.
   date: 2019-11-05
   url: https://indico.cern.ch/event/773049/contributions/3474397/
   meeting: CHEP 2019
@@ -78,7 +83,7 @@ presentations:
   meetingurl: https://indico.fnal.gov/event/24246/
   focus-area: doma
   project: caching
-- title: "Stashcache: CDN for Science"
+- title: 'Stashcache: CDN for Science'
   date: 2020-09-02
   url: https://indico.fnal.gov/event/22127/contributions/194782/attachments/133874/165317/StashCache__CDN_for_science_1.pdf
   meeting: OSG All Hands Meeting
@@ -104,5 +109,7 @@ presentations:
   url: https://indico.cern.ch/event/967159/contributions/4070185/attachments/2127549/3582326/go
   meeting: DOMA / TPC Meeting
   meetingurl: https://indico.cern.ch/event/967159/
-  focus-area: [doma, osglhc]
+  focus-area:
+  - doma
+  - osglhc
   projet: tpc
