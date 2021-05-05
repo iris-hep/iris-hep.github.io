@@ -1,3 +1,7 @@
+{%- unless include.pub -%}
+    {% raise_error "Empty publication! Please check." %}
+{%- endunless %}
+
     {%- if include.pub.citation-count and include.pub.citation-count > 0 -%}
       {%- assign cited = " [" | append: include.pub.citation-count | append: " citation" -%}
       {%- if include.pub.citation-count > 1 -%}

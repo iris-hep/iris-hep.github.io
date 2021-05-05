@@ -1,6 +1,11 @@
+{%- unless include.talk -%}
+    {% raise_error "Empty publication! Please check." %}
+{%- endunless %}
+
 {%- assign talk = include.talk -%}
 {%- assign talk-member = site.data.people[talk.member].name -%}
 {%- assign prettydate = talk.date | date: "%-d %b %Y" -%}
+
 {%- capture meeting -%}
   {%- if talk.meetingurl and talk.meetingurl != "" -%}
     <a href="{{ talk.meetingurl }}">{{ talk.meeting }}</a>

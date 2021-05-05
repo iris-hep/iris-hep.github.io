@@ -79,6 +79,7 @@
 {% assign pubs = site.data['sorted_publications'] | where_exp: "item", "item.focus-area contains page_focus_area" %}
 
 {% if pubs.size > 0 %}
+<section class="">
 <div class="container-lg p-responsive py-5 py-md-6 ">
     <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
     {% expandable pubs 15 %}
