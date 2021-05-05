@@ -22,7 +22,7 @@ module IrisHep
       end
     end
 
-    # Flatten an array of arrays, optionally works like map
+    # Flatten an array of arrays
     def flat_map(input)
       ensure_arrays(input.lazy).flat_map { |p| p || [] }.to_a
     end
