@@ -116,7 +116,7 @@ ongoing events don't get prematurely flagged as recent.
       <a href="{{event.meetingurl}}">
         <div class="event">
           <div class="date">
-            {% include daterange.html start=event.startdate end=event.enddate %}
+            {{ event.startdate | print_date_range: event.enddate }}
           </div>
           <div class="location">
             {{event.location}}
@@ -154,7 +154,7 @@ ongoing events don't get prematurely flagged as recent.
     <a href="{{event.meetingurl}}">
       <div class="event">
         <div class="date">
-          {% include daterange.html start=event.startdate end=event.enddate %}
+          {{ event.startdate | print_date_range: event.enddate }}
         </div>
         <div class="location">
         </div>

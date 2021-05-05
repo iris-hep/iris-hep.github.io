@@ -77,6 +77,20 @@ module IrisHep
         start && stop
       end
     end
+
+    # Pretty-print a daterange
+    def print_date_range(start, stop = nil)
+      stop = stop.nil? ? start : stop
+      if start.year != stop.year
+        "#{start.strftime '%b&nbsp;%-d, %Y'}&ndash;#{stop.strftime '%b&nbsp;%-d, %Y'}"
+      elsif start.month != stop.month
+        "#{start.strftime '%b&nbsp;%-d'}&ndash;#{stop.strftime '%b&nbsp;%-d, %Y'}"
+      elsif start.day != stop.day
+        "#{start.strftime '%b&nbsp;%-d'}&ndash;#{stop.strftime '%-d, %Y'}"
+      else
+        start.strftime '%b&nbsp;%-d, %Y'
+      end
+    end
   end
 end
 
