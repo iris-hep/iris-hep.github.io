@@ -5,7 +5,7 @@
 
 {% assign projects = include.projects | ensure_array %}
 {% if projects.size > 0 %}
-  {% assign videos = all_videos | where_overlap: "projects", projects %}
+  {% assign videos = all_videos | where_overlap: "project", projects %}
   {% assign selected_videos = selected_videos | concat: videos %}
 {% endif %}
 
@@ -17,7 +17,7 @@
 
 {% assign f_areas = include.focus_areas | ensure_array %}
 {% if f_areas.size > 0 %}
-  {% assign videos = all_videos | where_overlap: "focus_areas", f_areas %}
+  {% assign videos = all_videos | where_overlap: "focus-area", f_areas %}
   {% assign selected_videos = selected_videos | concat: videos %}
 {% endif %}
 
