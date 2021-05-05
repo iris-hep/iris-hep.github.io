@@ -22,7 +22,7 @@ module IrisHep
 
       output = "<ul>#{results[0..@number].join("\n")}</ul>"
 
-      return if results.size <= @number
+      return output if results.size <= @number
 
       output + "<p>[expand]</p>\n<ul>#{results[@number..-1].join("\n")}</ul>\n<p>[/expand]</p>\n"
     end
