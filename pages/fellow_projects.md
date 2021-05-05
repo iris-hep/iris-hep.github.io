@@ -16,7 +16,7 @@ Contact the mentors for more information about any of these projects! Be sure yo
 {%- include get_all_fellow_projects.html -%}
 
 <ul>
-{% for project in sorted_fellow_projects  %}
+{% for project in all_fellow_projects  %}
 
   {% if project.open %}
     {% capture full-proj %}**{{ project.title }}**: {{ project.description }}{% endcapture %}

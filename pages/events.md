@@ -21,7 +21,6 @@ chronological order, grouped by months
 
 {%- include get_all_events.html -%}
 
-
 {% for yearidx in yearlist %}
 {% for monthidx in monthlist %}
  {% assign selected_array = "" | split: "," %}
@@ -32,8 +31,6 @@ chronological order, grouped by months
       {% assign selected_array = selected_array | push: event %}
    {% endif %}
  {% endfor %}
-
-  {% assign selected_array = selected_array | sort: 'startdate' | reverse %}
 
 <ul>
 {% assign hdrprint = true %}
