@@ -91,6 +91,16 @@ module IrisHep
         start.strftime '%b&nbsp;%-d, %Y'
       end
     end
+
+    # Pretty print month date range
+    def print_date_range_month(start, stop = nil)
+      stop = stop.nil? ? start : stop
+      if start.year == stop.year
+        "#{start.strftime '%b'} &ndash; #{stop.strftime '%b, %Y'}"
+      else
+        "#{start.strftime '%b, %Y'} &ndash; #{stop.strftime '%b, %Y'}"
+      end
+    end
   end
 end
 
