@@ -1,11 +1,13 @@
----
+active: true
+focus-area:
+- doma
+- osglhc
+institution: University of California, San Diego
 name: Diego Davila
+photo: "/assets/images/team/Diego-Davila.jpg"
 shortname: ddavila0
 title: Scientific Software Developer and Researcher
-active: true
-institution: University of California, San Diego
 website:
-photo: "/assets/images/team/Diego-Davila.jpg"
 presentations:
 - title: 'HTTP Third-Party Copy: Getting rid of GridFTP'
   date: 2021-03-03
@@ -58,6 +60,3 @@ presentations:
   location: Princeton University
   focus-area: doma
   project: modeling
-focus-area:
-- doma
-- osglhc

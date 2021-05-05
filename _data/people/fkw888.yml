@@ -1,11 +1,13 @@
----
+active: true
+focus-area:
+- osglhc
+- doma
+institution: University of California, San Diego
 name: Frank Wuerthwein
+photo: "/assets/images/team/Frank-Wuerthwein.jpg"
 shortname: fkw888
 title: OSG-LHC Area Lead and OSG Executive Director
-active: true
-institution: University of California, San Diego
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
-photo: "/assets/images/team/Frank-Wuerthwein.jpg"
 presentations:
 - title: State of the OSG
   date: 2021-03-01
@@ -323,6 +325,3 @@ presentations:
   meeting: IRIS-HEP Steering Board Meeting
   focus-area: osglhc
   meetingurl: https://indico.cern.ch/event/790759/
-focus-area:
-- osglhc
-- doma

@@ -1,11 +1,14 @@
----
+active: false
+focus-area:
+- doma
+- as
+- ssl
+institution: University of Chicago
 name: Marc Weinberg
+photo: "/assets/images/team/Marc-Weinberg.jpg"
 shortname: mweinberg2718
 title:
-active: false
-institution: University of Chicago
 website:
-photo: "/assets/images/team/Marc-Weinberg.jpg"
 presentations:
 - title: Delivery of columnar data to analysis systems
   date: 2019-06-24
@@ -47,7 +50,3 @@ presentations:
   - doma
   - as
   - ssl
-focus-area:
-- doma
-- as
-- ssl

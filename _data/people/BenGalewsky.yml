@@ -1,11 +1,15 @@
----
+active: true
+focus-area:
+- ssl
+- doma
+- as
+- ssc
+institution: National Center for Supercomputing Applications
 name: Ben Galewsky
+photo: "/assets/images/team/Ben-Galewsky.jpg"
 shortname: BenGalewsky
 title:
-active: true
-institution: National Center for Supercomputing Applications
 website: https://github.com/BenGalewsky
-photo: "/assets/images/team/Ben-Galewsky.jpg"
 presentations:
 - title: Data Engineering at the Large Hadron Collider
   date: 2020-09-21
@@ -67,8 +71,3 @@ presentations:
   meetingurl: https://2020esipwintermeeting.sched.com
   location: Bethesda, MD
   focus-area: ssc
-focus-area:
-- ssl
-- doma
-- as
-- ssc

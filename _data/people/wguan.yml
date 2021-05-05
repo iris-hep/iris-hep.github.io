@@ -1,11 +1,12 @@
----
+active: true
+focus-area:
+- doma
+institution: University of Wisconsin-Madison
 name: Wen Guan
+photo: "/assets/images/team/Wen-Guan.png"
 shortname: wguan
 title:
-active: true
-institution: University of Wisconsin-Madison
 website:
-photo: "/assets/images/team/Wen-Guan.png"
 presentations:
 - title: IDDS
   date: 2019-09-30
@@ -92,5 +93,3 @@ presentations:
   url: https://indico.cern.ch/event/1006816/contributions/4226051/attachments/2217725/3754939/iDDS_iris_hep_20210329-2.pdf
   focus-area: doma
   project: idds
-focus-area:
-- doma

@@ -32,5 +32,8 @@ people_files.each do |fn|
   all_fa = (user_fa || Set.new) | (proj_fa || Set.new)
   info['focus-area'] = all_fa.to_a unless all_fa.empty?
 
-  fn.write(info.to_yaml)
+  sorted = info.sort_by { _1 }.to_h
+  sorted['presentations'] = sorted.delete 'presentations'
+
+  fn.write(sorted.to_yaml.lines[1..-1].join)
 end

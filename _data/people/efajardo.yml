@@ -1,11 +1,13 @@
----
+active: false
+focus-area:
+- doma
+- osglhc
+institution: University of California, San Diego
 name: Edgar Fajardo
+photo: "/assets/images/team/Edgar-Fajardo.jpeg"
 shortname: efajardo
 title: OSG Software Team Developer
-active: false
-institution: University of California, San Diego
 website:
-photo: "/assets/images/team/Edgar-Fajardo.jpeg"
 presentations:
 - title: GeoIP HTTPS Redirector
   date: 2021-02-25
@@ -111,6 +113,3 @@ presentations:
   - doma
   - osglhc
   projet: tpc
-focus-area:
-- doma
-- osglhc

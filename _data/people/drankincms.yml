@@ -1,11 +1,12 @@
----
+active: true
+focus-area:
+- ia
+institution: Massachusetts Institute of Technology
 name: Dylan Rankin
+photo: "/assets/images/team/Dylan-Rankin.jpg"
 shortname: drankincms
 title:
-active: true
-institution: Massachusetts Institute of Technology
 website:
-photo: "/assets/images/team/Dylan-Rankin.jpg"
 presentations:
 - title: Using ML on FPGAs to enhance reconstruction output
   date: 2019-02-13
@@ -22,5 +23,3 @@ presentations:
   meetingurl: https://indico.cern.ch/event/942656/
   focus-area: ia
   project: caloreco-mlaas
-focus-area:
-- ia

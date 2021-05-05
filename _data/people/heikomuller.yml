@@ -1,11 +1,13 @@
----
+active: true
+focus-area:
+- as
+- ia
+institution: New York University
 name: Heiko Mueller
+photo: "/assets/images/team/Heiko-Mueller.jpg"
 shortname: heikomuller
 title: Research Software Engineer (SCAILFIN)
-active: true
-institution: New York University
 website: https://cims.nyu.edu/~hmueller/
-photo: "/assets/images/team/Heiko-Mueller.jpg"
 presentations:
 - title: 'SCAILFIN: Reproducible Open Benchmarks'
   date: 2019-06-19
@@ -32,6 +34,3 @@ presentations:
   focus-area:
   - ia
   - core
-focus-area:
-- as
-- ia

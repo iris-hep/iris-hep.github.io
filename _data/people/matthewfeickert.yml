@@ -1,12 +1,14 @@
----
+active: true
+e-mail: matthew.feickert@cern.ch
+focus-area:
+- as
+- ssc
+institution: University of Illinois at Urbana-Champaign
 name: Matthew Feickert
+photo: "/assets/images/team/matthewfeickert.jpeg"
 shortname: matthewfeickert
 title: Postdoctoral researcher
-active: true
-institution: University of Illinois at Urbana-Champaign
 website: https://www.matthewfeickert.com
-photo: "/assets/images/team/matthewfeickert.jpeg"
-e-mail: matthew.feickert@cern.ch
 presentations:
 - title: 'pyhf: a pure Python implementation of HistFactory with tensors and autograd'
   date: 2018-10-29
@@ -165,6 +167,3 @@ presentations:
   location: Virtual
   focus-area: as
   project: pyhf
-focus-area:
-- as
-- ssc

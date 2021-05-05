@@ -1,12 +1,14 @@
----
+active: true
+e-mail: Peter.Elmer@cern.ch
+focus-area:
+- ssc
+- ia
+institution: Princeton University
 name: Peter Elmer
+photo: "/assets/images/team/Peter-Elmer.jpg"
 shortname: pelmer
 title: Institute PI and Executive Director
-active: true
-institution: Princeton University
 website: https://scholar.princeton.edu/elmer/home
-photo: "/assets/images/team/Peter-Elmer.jpg"
-e-mail: Peter.Elmer@cern.ch
 presentations:
 - title: Institute for Research and Innovation in Software for High Energy Physics
     (IRIS-HEP)
@@ -159,6 +161,3 @@ presentations:
   location: Zoom
   focus-area:
   project:
-focus-area:
-- ssc
-- ia

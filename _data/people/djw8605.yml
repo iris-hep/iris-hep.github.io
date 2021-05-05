@@ -1,11 +1,13 @@
----
+active: true
+focus-area:
+- osglhc
+- doma
+institution: University of Nebraska - Lincoln
 name: Derek Weitzel
+photo: "/assets/images/team/Derek-Weitzel.jpg"
 shortname: djw8605
 title:
-active: true
-institution: University of Nebraska - Lincoln
 website: https://derekweitzel.com
-photo: "/assets/images/team/Derek-Weitzel.jpg"
 presentations:
 - title: 'Moving science data: One CDN to rule them all'
   date: 2021-03-03
@@ -73,6 +75,3 @@ presentations:
   - doma
   project: osg-operations
   location: Virtual
-focus-area:
-- osglhc
-- doma

@@ -1,11 +1,14 @@
----
+active: true
+focus-area:
+- doma
+- osglhc
+- as
+institution: Morgridge Institute
 name: Brian Bockelman
+photo: "/assets/images/team/Brian-Bockelman.jpg"
 shortname: bbockelm
 title: Institute co-PI and DOMA R&D Area Lead
-active: true
-institution: Morgridge Institute
 website: http://iris-hep.org
-photo: "/assets/images/team/Brian-Bockelman.jpg"
 presentations:
 - title: IRIS-HEP DOMA
   date: 2019-02-06
@@ -151,7 +154,3 @@ presentations:
   url: https://indico.cern.ch/event/957103/contributions/4330982/attachments/2234425/3786796/IRIS-HEP%20-%20DOMA%20-%20EB%20retreat.pdf
   focus-area: doma
   date: 2021-04-27
-focus-area:
-- doma
-- osglhc
-- as

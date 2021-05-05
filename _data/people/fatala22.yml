@@ -1,11 +1,12 @@
----
+active: true
+focus-area:
+- ssc
+institution: University of Puerto Rico at Mayaguez
 name: Sudhir Malik
+photo: "/assets/images/team/Sudhir-Malik.png"
 shortname: fatala22
 title: Training, Education and Outreach Coordinator
-active: true
-institution: University of Puerto Rico at Mayaguez
 website: http://charma.uprm.edu/~malik/
-photo: "/assets/images/team/Sudhir-Malik.png"
 presentations:
 - title: IRIS-HEP Training Challenge
   date: 2021-04-27
@@ -97,5 +98,3 @@ presentations:
   meetingurl: https://indico.cern.ch/event/840472/
   location: Fermilab
   focus-area: ssc
-focus-area:
-- ssc

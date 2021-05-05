@@ -1,12 +1,11 @@
----
+active: true
+hidden: true
+institution: University of Sussex
 name: Meirin Oan Evans
+photo: "/assets/images/team/Meirin-Evans.jpg"
 shortname: meevans1
 title: HSF Training Coordinator
-active: true
-institution: University of Sussex
 website: https://meirinoanevans.wixsite.com/portfolio
-photo: "/assets/images/team/Meirin-Evans.jpg"
-hidden: true
 presentations:
 - title: Introduction to Machine Learning
   date: 2020-11-02

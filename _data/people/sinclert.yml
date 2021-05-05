@@ -1,11 +1,12 @@
----
+active: true
+focus-area:
+- as
+institution: New York University
 name: Sinclert Pérez
+photo: "/assets/images/team/Sinclert-Perez.jpg"
 shortname: sinclert
 title: Research Software Engineer
-active: true
-institution: New York University
 website: https://sinclert.github.io/
-photo: "/assets/images/team/Sinclert-Perez.jpg"
 presentations:
 - title: REANA, To reusability... and beyond!
   date: 2018-08-16
@@ -31,5 +32,3 @@ presentations:
   location: Virtual
   focus-area: as
   project: madminer
-focus-area:
-- as

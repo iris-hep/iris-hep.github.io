@@ -1,12 +1,11 @@
----
-name: Marian Zvada
-shortname: zvada
-title: Systems Integrator
 active: true
-institution: University of Nebraska - Lincoln
-website:
-photo: "/assets/images/team/Marian-Zvada.jpg"
-presentations:
 focus-area:
 - doma
 - osglhc
+institution: University of Nebraska - Lincoln
+name: Marian Zvada
+photo: "/assets/images/team/Marian-Zvada.jpg"
+shortname: zvada
+title: Systems Integrator
+website:
+presentations:

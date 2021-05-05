@@ -1,10 +1,11 @@
----
+active: false
+focus-area:
+- ia
+institution: University of California, Berkeley
 name: Xiaocong Ai
+photo: "/assets/images/team/Xiaocong-Ai.jpg"
 shortname: xiaocong-ai
 title: Postdoc and ACTS
-active: false
-institution: University of California, Berkeley
-photo: "/assets/images/team/Xiaocong-Ai.jpg"
 presentations:
 - title: Initial studies of ACTS tracking performance with GPUs
   date: 2020-08-26
@@ -69,5 +70,3 @@ presentations:
   meetingurl: https://indico.cern.ch/event/782953/
   focus-area: ia
   project: acts
-focus-area:
-- ia

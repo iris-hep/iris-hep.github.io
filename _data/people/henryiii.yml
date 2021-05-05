@@ -1,13 +1,16 @@
----
-name: Henry Schreiner
-shortname: henryiii
-title:
-inspire-id: Henry.F.Schreiner.1
 active: true
 e-mail: henryfs@princeton.edu
+focus-area:
+- ia
+- as
+- ssc
+inspire-id: Henry.F.Schreiner.1
 institution: Princeton University
-website: https://iscinumpy.gitlab.io
+name: Henry Schreiner
 photo: "/assets/images/team/Henry-Schreiner.jpg"
+shortname: henryiii
+title:
+website: https://iscinumpy.gitlab.io
 presentations:
 - title: A hybrid deep learning approach to vertexing
   date: 2019-04-17
@@ -247,7 +250,3 @@ presentations:
   focus-area: ssc
   project:
   location: Virtual
-focus-area:
-- ia
-- as
-- ssc

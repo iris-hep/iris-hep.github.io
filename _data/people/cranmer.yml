@@ -1,12 +1,14 @@
----
+active: true
+e-mail: kyle.cranmer@nyu.edu
+focus-area:
+- as
+- ia
+institution: New York University
 name: Kyle Cranmer
+photo: "/assets/images/team/Kyle-Cranmer.jpg"
 shortname: cranmer
 title: Analysis Systems Area Lead
-active: true
-institution: New York University
 website: http://theoryandpractice.org
-photo: "/assets/images/team/Kyle-Cranmer.jpg"
-e-mail: kyle.cranmer@nyu.edu
 presentations:
 - title: What does the Revolution in Artificial Intelligence Mean for Physics?
   date: 2018-09-07
@@ -508,6 +510,3 @@ presentations:
   meetingurl: https://indico.cern.ch/event/957103/
   location: "(Virtual)"
   focus-area: as
-focus-area:
-- as
-- ia

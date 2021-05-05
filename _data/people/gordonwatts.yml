@@ -1,12 +1,14 @@
----
+active: true
+e-mail: gwatts@uw.edu
+focus-area:
+- as
+- doma
+institution: University of Washington
 name: Gordon Watts
+photo: "/assets/images/team/Gordon-Watts.jpg"
 shortname: gordonwatts
 title: Institute co-PI and Deputy Executive Director
-active: true
-institution: University of Washington
 website: https://phys.washington.edu/people/gordon-watts
-photo: "/assets/images/team/Gordon-Watts.jpg"
-e-mail: gwatts@uw.edu
 presentations:
 - title: 'IRIS-HEP Steering Board Meeting #1'
   date: 2019-02-06
@@ -241,6 +243,3 @@ presentations:
   meeting: ATLAS Analysis Model Group (AMG) Meeting
   focus-area: as
   location: CERN
-focus-area:
-- as
-- doma

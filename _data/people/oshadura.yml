@@ -1,11 +1,13 @@
----
+active: true
+focus-area:
+- doma
+- as
+institution: University of Nebraska - Lincoln
 name: Oksana Shadura
+photo: "/assets/images/team/Oksana-Shadura_.jpg"
 shortname: oshadura
 title:
-active: true
-institution: University of Nebraska - Lincoln
 website: https://github.com/oshadura
-photo: "/assets/images/team/Oksana-Shadura_.jpg"
 presentations:
 - title: Future analysis facilities
   date: 2021-02-03
@@ -39,6 +41,3 @@ presentations:
   location: Virtual
   focus-area: doma
   project: coffea-casa
-focus-area:
-- doma
-- as

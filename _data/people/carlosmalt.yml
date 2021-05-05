@@ -1,12 +1,13 @@
----
+active: true
+e-mail: carlosm@ucsc.edu
+focus-area:
+- doma
+institution: University of California, Santa Cruz
 name: Carlos Maltzahn
+photo: "/assets/images/team/Carlos-Maltzahn.png"
 shortname: carlosmalt
 title: Adjunct Professor of Computer Science and Engineering
-active: true
-institution: University of California, Santa Cruz
 website: https://people.ucsc.edu/carlosm
-e-mail: carlosm@ucsc.edu
-photo: "/assets/images/team/Carlos-Maltzahn.png"
 presentations:
 - title: 'IN53A-04: Reproducible, Automated and Portable Computational and Data Science
     Experimentation Pipelines with Popper (with Ivo Jimenez)'
@@ -167,5 +168,3 @@ presentations:
   url: https://drive.google.com/file/d/10RReGuL0XvFDAcUqf_ftDbMVngHZtk5G/view?usp=sharing
   focus-area: doma
   project: skyhookdm
-focus-area:
-- doma

@@ -1,11 +1,13 @@
----
+active: true
+focus-area:
+- osglhc
+- doma
+institution: University of Michigan-Ann Arbor
 name: Shawn McKee
+photo: "/assets/images/team/Shawn-McKee.jpg"
 shortname: smckee
 title: OSG Networking Area Coordinator
-active: true
-institution: University of Michigan-Ann Arbor
 website: https://lsa.umich.edu/physics/people/research-scientists/smckee.html
-photo: "/assets/images/team/Shawn-McKee.jpg"
 presentations:
 - title: WLCG/OSG Network Activities, Status and Plans
   date: 2019-03-26
@@ -273,6 +275,3 @@ presentations:
   location: Zoom
   focus-area: osglhc
   project: osg-networking
-focus-area:
-- osglhc
-- doma

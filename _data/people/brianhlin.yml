@@ -1,12 +1,13 @@
----
+active: true
+e-mail: blin@cs.wisc.edu
+focus-area:
+- osglhc
+institution: University of Wisconsin–Madison
 name: Brian Lin
+photo: "/assets/images/team/Brian-Lin.jpg"
 shortname: brianhlin
 title: OSG Software Team Manager
-active: true
-institution: University of Wisconsin–Madison
 website:
-photo: "/assets/images/team/Brian-Lin.jpg"
-e-mail: blin@cs.wisc.edu
 presentations:
 - title: OSG Services and Kubernetes
   date: 2021-02-11
@@ -192,5 +193,3 @@ presentations:
   location: Argonne National Lab
   focus-area: osglhc
   project: osg-software
-focus-area:
-- osglhc

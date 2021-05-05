@@ -1,12 +1,14 @@
----
+active: true
+e-mail: sthais@princeton.edu
+focus-area:
+- ia
+- ssc
+institution: Princeton University
 name: Savannah Thais
+photo: "/assets/images/team/Savannah-Thais.jpg"
 shortname: savvy379
 title: Post-doctoral researcher
-active: true
-institution: Princeton University
 website:
-photo: "/assets/images/team/Savannah-Thais.jpg"
-e-mail: sthais@princeton.edu
 presentations:
 - title: Introduction and Plans
   date: 2019-09-12
@@ -63,6 +65,3 @@ presentations:
   meetingurl: https://indico.cern.ch/event/963422
   focus-area: ia
   project: accel-gnn-tracking
-focus-area:
-- ia
-- ssc

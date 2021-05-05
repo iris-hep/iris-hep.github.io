@@ -1,12 +1,17 @@
----
+active: true
+e-mail: msn@illinois.edu
+focus-area:
+- as
+- ia
+- ssl
+- doma
+- ssc
+institution: University of Illinois at Urbana-Champaign
 name: Mark Neubauer
+photo: "/assets/images/team/Mark-Neubauer.png"
 shortname: msneubauer
 title: Blueprint Coordinator
-active: true
-institution: University of Illinois at Urbana-Champaign
 website: http://msneubauer.github.io
-photo: "/assets/images/team/Mark-Neubauer.png"
-e-mail: msn@illinois.edu
 presentations:
 - title: Design Roadmap for Future Collaborations
   date: 2018-10-19
@@ -115,9 +120,3 @@ presentations:
   focus-area:
   - as
   - doma
-focus-area:
-- as
-- ia
-- ssl
-- doma
-- ssc

@@ -1,12 +1,13 @@
----
+active: true
+e-mail: jlefevre@ucsc.edu
+focus-area:
+- doma
+institution: University of California, Santa Cruz
 name: Jeff LeFevre
+photo: "/assets/images/team/Jeff-LeFevre.jpg"
 shortname: jlefevre
 title:
-active: true
-institution: University of California, Santa Cruz
 website: https://users.soe.ucsc.edu/~jlefevre/
-photo: "/assets/images/team/Jeff-LeFevre.jpg"
-e-mail: jlefevre@ucsc.edu
 presentations:
 - title: SkyhookDB - Leveraging object storage toward database elasticity in the cloud
   date: 2017-11-16
@@ -51,5 +52,3 @@ presentations:
   meetingurl: https://www.fujitsu.com/jp/group/labs/en/
   focus-area: doma
   project: skyhookdm
-focus-area:
-- doma

@@ -1,11 +1,13 @@
----
+active: false
+focus-area:
+- as
+- ia
+institution: New York University
 name: Johann Brehmer
+photo: "/assets/images/team/Johann-Brehmer.jpg"
 shortname: johannbrehmer
 title:
-active: false
-institution: New York University
 website: https://johannbrehmer.github.io
-photo: "/assets/images/team/Johann-Brehmer.jpg"
 presentations:
 - title: How machine learning can help us get the most out of high-precision particle
     physics models
@@ -182,6 +184,3 @@ presentations:
   location: Brookhaven National Lab, USA
   focus-area: as
   project: madminer
-focus-area:
-- as
-- ia

@@ -1,11 +1,12 @@
----
+active: true
+focus-area:
+- ia
+institution: University of Cincinnati
 name: Marian Stahl
+photo: "/assets/images/team/Marian_Stahl.jpg"
 shortname: marianstahl
 title:
-active: true
-institution: University of Cincinnati
 website:
-photo: "/assets/images/team/Marian_Stahl.jpg"
 presentations:
 - title: LHCb HLT performance- and regression-tests A hybrid deep learning approach
     to vertexing
@@ -23,5 +24,3 @@ presentations:
   date: 2020-04-20
   focus-area: ia
   project: pv-finder
-focus-area:
-- ia

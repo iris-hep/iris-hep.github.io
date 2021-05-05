@@ -1,12 +1,14 @@
----
+active: true
+e-mail: sm4511@nyu.edu
+focus-area:
+- ia
+- as
+institution: New York University
 name: Sebastian Macaluso
+photo: "/assets/images/team/Sebastian-Macaluso.jpg"
 shortname: SebastianMacaluso
 title:
-active: true
-institution: New York University
 website:
-photo: "/assets/images/team/Sebastian-Macaluso.jpg"
-e-mail: sm4511@nyu.edu
 presentations:
 - title: Pulling Out All the Tops with Computer Vision and Deep Learning
   date: 2018-11-15
@@ -98,6 +100,3 @@ presentations:
   location: New York University
   focus-area: ia
   project: ml4jets
-focus-area:
-- ia
-- as

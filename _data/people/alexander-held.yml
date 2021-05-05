@@ -1,12 +1,13 @@
----
+active: true
+e-mail: alexander.held@cern.ch
+focus-area:
+- as
+institution: New York University
 name: Alexander Held
+photo: "/assets/images/team/alexander-held.jpeg"
 shortname: alexander-held
 title: Postdoctoral researcher
-active: true
-institution: New York University
 website: https://github.com/alexander-held
-photo: "/assets/images/team/alexander-held.jpeg"
-e-mail: alexander.held@cern.ch
 presentations:
 - title: 'Template Fits: HistFitter / TRExFitter'
   date: 2019-06-19
@@ -80,5 +81,3 @@ presentations:
   location: "(Virtual)"
   focus-area: as
   project: cabinetry
-focus-area:
-- as

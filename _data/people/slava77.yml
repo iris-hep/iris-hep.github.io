@@ -1,11 +1,12 @@
----
+active: true
+focus-area:
+- ia
+institution: University of California, San Diego
 name: Slava Krutelyov
+photo: "/assets/images/team/Slava-Krutelyov.jpg"
 shortname: slava77
 title:
-active: true
-institution: University of California, San Diego
 website:
-photo: "/assets/images/team/Slava-Krutelyov.jpg"
 presentations:
 - title: Charged Particle Tracking Reconstruction (Guest Lecture)
   date: 2019-07-25
@@ -47,5 +48,3 @@ presentations:
   location: CERN
   focus-area: ia
   project: mkfit
-focus-area:
-- ia

@@ -1,11 +1,14 @@
----
+active: true
+focus-area:
+- as
+- ssc
+- doma
+institution: Princeton University
 name: Jim Pivarski
+photo: "/assets/images/team/Jim-Pivarski.jpg"
 shortname: jpivarski
 title:
-active: true
-institution: Princeton University
 website: https://github.com/jpivarski
-photo: "/assets/images/team/Jim-Pivarski.jpg"
 presentations:
 - title: Nested data structures in array and SIMD frameworks
   date: 2019-03-14
@@ -326,7 +329,3 @@ presentations:
   - as
   - ssc
   project:
-focus-area:
-- as
-- ssc
-- doma

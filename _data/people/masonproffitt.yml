@@ -1,11 +1,12 @@
----
+active: true
+focus-area:
+- as
+institution: University of Washington
 name: Mason Proffitt
+photo: "/assets/images/team/Mason-Proffitt.jpg"
 shortname: masonproffitt
 title: PhD student
-active: true
-institution: University of Washington
 website: https://github.com/masonproffitt
-photo: "/assets/images/team/Mason-Proffitt.jpg"
 presentations:
 - title: 'IRIS-HEP: A new software institute to prepare for the data from the High
     Luminosity Large Hadron Collider in the exabyte era'
@@ -48,5 +49,3 @@ presentations:
   location: Princeton University
   focus-area: as
   project: func-adl
-focus-area:
-- as

@@ -1,11 +1,12 @@
----
+active: true
+focus-area:
+- ia
+institution: University of California, San Diego
 name: Mario Masciovecchio
+photo: "/assets/images/team/Mario-Masciovecchio.jpg"
 shortname: mmasciov
 title:
-active: true
-institution: University of California, San Diego
 website: https://github.com/mmasciov
-photo: "/assets/images/team/Mario-Masciovecchio.jpg"
 presentations:
 - title: mkfit and HL-LHC tracking in CMS
   meeting: Joint HSF event reconstruction/trigger working group and IRIS-HEP Topical
@@ -22,5 +23,3 @@ presentations:
   date: 2020-02-11
   focus-area: ia
   project: mkfit
-focus-area:
-- ia

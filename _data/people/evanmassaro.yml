@@ -1,11 +1,10 @@
----
-name: Evan Massaro
-shortname: evanmassaro
-title:
 active: true
 institution: Massachusetts Institute of Technology
-website:
+name: Evan Massaro
 photo: "/assets/images/team/Evan-Massaro.jpg"
+shortname: evanmassaro
+title:
+website:
 presentations:
 - title: Modeling computing resource needs/costs
   date: 2020-02-03

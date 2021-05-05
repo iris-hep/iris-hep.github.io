@@ -1,9 +1,8 @@
----
-name: Aaron Moate
-shortname: aaronmoate
-title: Systems Administrator
 active: true
 institution: University of Wisconsin–Madison
-website:
+name: Aaron Moate
 photo: "/assets/images/team/Aaron-Moate.png"
+shortname: aaronmoate
+title: Systems Administrator
+website:
 presentations:

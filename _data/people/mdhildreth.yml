@@ -1,9 +1,8 @@
----
-name: Mike Hildreth
-shortname: mdhildreth
-title:
 active: true
 institution: University of Notre Dame
-website: https://physics.nd.edu/people/faculty/michael-hildreth/
+name: Mike Hildreth
 photo: "/assets/images/team/Mike-Hildreth.jpg"
+shortname: mdhildreth
+title:
+website: https://physics.nd.edu/people/faculty/michael-hildreth/
 presentations:

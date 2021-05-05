@@ -1,11 +1,11 @@
----
-name: Philip Harris
-shortname: pharris
-title:
 active: true
-institution: Massachusetts Institute of Technology
-website:
-photo: "/assets/images/team/Phil_Harris.jpg"
 focus-area:
 - ia
 - as
+institution: Massachusetts Institute of Technology
+name: Philip Harris
+photo: "/assets/images/team/Phil_Harris.jpg"
+shortname: pharris
+title:
+website:
+presentations:

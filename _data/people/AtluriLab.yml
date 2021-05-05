@@ -1,11 +1,10 @@
----
-name: Gowtham Atluri
-shortname: AtluriLab
-title:
 active: true
-institution: University of Cincinnati
-website:
-photo: "/assets/images/team/Gowtham-Atluri.jpg"
-presentations:
 focus-area:
 - ia
+institution: University of Cincinnati
+name: Gowtham Atluri
+photo: "/assets/images/team/Gowtham-Atluri.jpg"
+shortname: AtluriLab
+title:
+website:
+presentations:

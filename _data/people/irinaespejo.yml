@@ -1,11 +1,13 @@
----
+active: true
+focus-area:
+- as
+- ia
+institution: New York University
 name: Irina Espejo
+photo: "/assets/images/team/irinaespejo.jpeg"
 shortname: irinaespejo
 title:
-active: true
-institution: New York University
 website:
-photo: "/assets/images/team/irinaespejo.jpeg"
 presentations:
 - title: 'SCAILFIN: Madminer deployment using REANA'
   date: 2019-06-19
@@ -32,6 +34,3 @@ presentations:
   meeting: Frontiers in Machine Learning for the Physical Sciences, UC Southern Hub
   meetingurl: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
   location: Virtual
-focus-area:
-- as
-- ia
