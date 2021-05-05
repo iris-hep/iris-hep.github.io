@@ -10,7 +10,7 @@
 {% assign f_areas = include.focus_areas | split: ','%}
 {% assign n_vid = 0 %}
 
-    {% for video in sorted_videos %}
+    {% for video in all_videos %}
     {% if n_vid == max_vid %}
        {% continue %}
     {% endif %}
