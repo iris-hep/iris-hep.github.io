@@ -22,6 +22,11 @@ module IrisHep
     def key_to_value(input, hash)
       input.map { |k| hash.fetch(k, nil) }.compact
     end
+
+    # second item
+    def values(input)
+      input.values
+    end
   end
 end
 
