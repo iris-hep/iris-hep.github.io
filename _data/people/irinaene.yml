@@ -14,3 +14,5 @@ presentations:
   meetingurl: https://indico.cern.ch/event/945364/
   focus-area: ia
   project: acts
+focus-area:
+- ia

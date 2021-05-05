@@ -49,3 +49,6 @@ presentations:
   focus-area: ia
   date: 2020-05-26
   project:
+focus-area:
+- ia
+- ssc

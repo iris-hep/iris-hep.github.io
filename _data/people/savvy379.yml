@@ -63,3 +63,6 @@ presentations:
   meetingurl: https://indico.cern.ch/event/963422
   focus-area: ia
   project: accel-gnn-tracking
+focus-area:
+- ia
+- ssc

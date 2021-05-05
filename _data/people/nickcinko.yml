@@ -20,3 +20,5 @@ presentations:
   meetingurl: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/
   focus-area: ia
   project: acts
+focus-area:
+- ia

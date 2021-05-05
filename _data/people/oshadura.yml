@@ -39,3 +39,6 @@ presentations:
   location: Virtual
   focus-area: doma
   project: coffea-casa
+focus-area:
+- doma
+- as

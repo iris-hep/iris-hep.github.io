@@ -273,3 +273,6 @@ presentations:
   location: Zoom
   focus-area: osglhc
   project: osg-networking
+focus-area:
+- osglhc
+- doma

@@ -97,3 +97,5 @@ presentations:
   meetingurl: https://indico.cern.ch/event/840472/
   location: Fermilab
   focus-area: ssc
+focus-area:
+- ssc

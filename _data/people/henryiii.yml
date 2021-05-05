@@ -247,3 +247,7 @@ presentations:
   focus-area: ssc
   project:
   location: Virtual
+focus-area:
+- ia
+- as
+- ssc

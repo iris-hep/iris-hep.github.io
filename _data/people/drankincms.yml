@@ -22,3 +22,5 @@ presentations:
   meetingurl: https://indico.cern.ch/event/942656/
   focus-area: ia
   project: caloreco-mlaas
+focus-area:
+- ia

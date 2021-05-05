@@ -192,3 +192,5 @@ presentations:
   location: Argonne National Lab
   focus-area: osglhc
   project: osg-software
+focus-area:
+- osglhc

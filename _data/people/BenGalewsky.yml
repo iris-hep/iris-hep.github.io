@@ -67,3 +67,8 @@ presentations:
   meetingurl: https://2020esipwintermeeting.sched.com
   location: Bethesda, MD
   focus-area: ssc
+focus-area:
+- ssl
+- doma
+- as
+- ssc

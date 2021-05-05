@@ -6,3 +6,6 @@ active: true
 institution: Massachusetts Institute of Technology
 website:
 photo: "/assets/images/team/Phil_Harris.jpg"
+focus-area:
+- ia
+- as

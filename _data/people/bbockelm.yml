@@ -151,3 +151,7 @@ presentations:
   url: https://indico.cern.ch/event/957103/contributions/4330982/attachments/2234425/3786796/IRIS-HEP%20-%20DOMA%20-%20EB%20retreat.pdf
   focus-area: doma
   date: 2021-04-27
+focus-area:
+- doma
+- osglhc
+- as

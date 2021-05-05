@@ -32,3 +32,5 @@ presentations:
   location: Princeton University
   focus-area: ia
   project:
+focus-area:
+- ia

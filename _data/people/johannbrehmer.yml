@@ -182,3 +182,6 @@ presentations:
   location: Brookhaven National Lab, USA
   focus-area: as
   project: madminer
+focus-area:
+- as
+- ia

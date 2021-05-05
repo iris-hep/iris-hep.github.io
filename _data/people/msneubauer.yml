@@ -115,3 +115,9 @@ presentations:
   focus-area:
   - as
   - doma
+focus-area:
+- as
+- ia
+- ssl
+- doma
+- ssc

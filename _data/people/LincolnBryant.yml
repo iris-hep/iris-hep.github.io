@@ -25,3 +25,5 @@ presentations:
   meeting: K8s-HEP Meetup ('Chicagoland')
   meetingurl: https://indico.cern.ch/event/882955/
   focus-area: ssl
+focus-area:
+- ssl

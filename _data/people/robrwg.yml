@@ -39,3 +39,6 @@ presentations:
     (CHEP2019)
   meetingurl: http://chep2019.org/
   focus-area: ssl
+focus-area:
+- ssl
+- doma

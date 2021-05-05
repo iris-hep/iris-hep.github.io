@@ -323,3 +323,6 @@ presentations:
   meeting: IRIS-HEP Steering Board Meeting
   focus-area: osglhc
   meetingurl: https://indico.cern.ch/event/790759/
+focus-area:
+- osglhc
+- doma

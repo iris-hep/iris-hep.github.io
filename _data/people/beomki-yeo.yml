@@ -6,3 +6,5 @@ active: true
 institution: University of California, Berkeley
 photo: "/assets/images/team/beomki-yeo.png"
 e-mail: beomki.yeo@berkeley.edu
+focus-area:
+- ia

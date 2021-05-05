@@ -57,3 +57,5 @@ presentations:
   meetingurl: https://indico.physics.lbl.gov/indico/event/712/timetable/#20190114
   focus-area: ia
   project: acts
+focus-area:
+- ia

@@ -45,3 +45,5 @@ presentations:
   url: https://slideslive.com/38926198/autoencoders-for-compression-and-simulation-in-particle-physics
   focus-area: ia
   project: allen
+focus-area:
+- ia

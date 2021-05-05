@@ -7,3 +7,6 @@ institution: University of Cincinnati
 website: https://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof
 photo: "/assets/images/team/Mike-Sokoloff.jpg"
 presentations:
+focus-area:
+- ia
+- as

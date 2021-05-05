@@ -241,3 +241,6 @@ presentations:
   meeting: ATLAS Analysis Model Group (AMG) Meeting
   focus-area: as
   location: CERN
+focus-area:
+- as
+- doma

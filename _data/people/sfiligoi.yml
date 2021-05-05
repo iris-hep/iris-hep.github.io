@@ -143,3 +143,6 @@ presentations:
   meetingurl: http://www.pragma-grid.net/pragma37-program/
   location: San Diego, CA, US
   focus-area: osglhc
+focus-area:
+- osglhc
+- doma

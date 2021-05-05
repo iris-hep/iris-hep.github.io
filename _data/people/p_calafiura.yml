@@ -8,3 +8,6 @@ website:
 photo: "/assets/images/team/Paolo_Calafiura.jpg"
 hidden: true
 presentations:
+focus-area:
+- as
+- ia

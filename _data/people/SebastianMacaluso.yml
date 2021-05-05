@@ -98,3 +98,6 @@ presentations:
   location: New York University
   focus-area: ia
   project: ml4jets
+focus-area:
+- ia
+- as

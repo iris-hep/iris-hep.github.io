@@ -7,3 +7,5 @@ institution: University of California, San Diego
 website: https://physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=688
 photo: "/assets/images/team/Avi-Yagil.jpg"
 presentations:
+focus-area:
+- ia

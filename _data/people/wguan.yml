@@ -92,3 +92,5 @@ presentations:
   url: https://indico.cern.ch/event/1006816/contributions/4226051/attachments/2217725/3754939/iDDS_iris_hep_20210329-2.pdf
   focus-area: doma
   project: idds
+focus-area:
+- doma

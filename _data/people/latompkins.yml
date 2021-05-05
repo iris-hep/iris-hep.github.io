@@ -7,3 +7,6 @@ institution: Stanford University
 website: https://profiles.stanford.edu/lauren-tompkins
 photo: "/assets/images/team/Lauren-Tompkins.jpg"
 presentations:
+focus-area:
+- as
+- ia

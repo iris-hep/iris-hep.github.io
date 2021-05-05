@@ -165,3 +165,6 @@ presentations:
   location: Virtual
   focus-area: as
   project: pyhf
+focus-area:
+- as
+- ssc

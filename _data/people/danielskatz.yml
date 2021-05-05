@@ -14,3 +14,5 @@ presentations:
   meetingurl: https://indico.bnl.gov/event/9023/
   location: Virtual
   focus-area: ssc
+focus-area:
+- ssc

@@ -47,3 +47,5 @@ presentations:
   location: CERN
   focus-area: ia
   project: mkfit
+focus-area:
+- ia

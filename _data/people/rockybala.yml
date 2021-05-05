@@ -31,3 +31,5 @@ presentations:
   location: CERN
   project: acts
   focus-area: ia
+focus-area:
+- ia

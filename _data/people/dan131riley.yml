@@ -62,3 +62,6 @@ presentations:
   location: Virtual
   focus-area: ia
   project: mkfit
+focus-area:
+- ssc
+- ia
