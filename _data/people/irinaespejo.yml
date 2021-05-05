@@ -1,33 +1,36 @@
+active: true
+focus-area:
+- as
+- ia
+institution: New York University
 name: Irina Espejo
+photo: "/assets/images/team/irinaespejo.jpeg"
 shortname: irinaespejo
 title:
-active: true
-institution: New York University
 website:
-photo: /assets/images/team/irinaespejo.jpeg
 presentations:
-  - title: "SCAILFIN: Madminer deployment using REANA"
-    date: 2019-06-19
-    url: https://indico.cern.ch/event/822074/contributions/3471463/
-    meeting: Analysis Systems Topical Meeting
-    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
-    location: NYU
-    focus-area: as
-  - title: "Scalable cyberinfraestructure applications"
-    date: 2020-02-27
-    url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/
-    location: Princeton
-  - title: "Excursion: Efficient Reinterpretation Campaigns with Active Learning"
-    date: 2020-10-27
-    url: https://indico.cern.ch/event/960587/contributions/4081701/
-    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
-    meetingurl: https://indico.cern.ch/event/960587/
-    location: Virtual
-  - title: "Excursion - Active Learning and Gaussian Processes for black box inference"
-    date: 2020-10-26
-    url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
-    meeting: Frontiers in Machine Learning for the Physical Sciences, UC Southern Hub
-    meetingurl: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
-    location: Virtual
+- title: 'SCAILFIN: Madminer deployment using REANA'
+  date: 2019-06-19
+  url: https://indico.cern.ch/event/822074/contributions/3471463/
+  meeting: Analysis Systems Topical Meeting
+  meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+  location: NYU
+  focus-area: as
+- title: Scalable cyberinfraestructure applications
+  date: 2020-02-27
+  url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton
+- title: 'Excursion: Efficient Reinterpretation Campaigns with Active Learning'
+  date: 2020-10-27
+  url: https://indico.cern.ch/event/960587/contributions/4081701/
+  meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+  meetingurl: https://indico.cern.ch/event/960587/
+  location: Virtual
+- title: Excursion - Active Learning and Gaussian Processes for black box inference
+  date: 2020-10-26
+  url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
+  meeting: Frontiers in Machine Learning for the Physical Sciences, UC Southern Hub
+  meetingurl: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
+  location: Virtual

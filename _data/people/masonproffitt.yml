@@ -1,48 +1,51 @@
+active: true
+focus-area:
+- as
+institution: University of Washington
 name: Mason Proffitt
+photo: "/assets/images/team/Mason-Proffitt.jpg"
 shortname: masonproffitt
 title: PhD student
-active: true
-institution: University of Washington
 website: https://github.com/masonproffitt
-photo: /assets/images/team/Mason-Proffitt.jpg
 presentations:
-  - title: "IRIS-HEP: A new software institute to prepare for the data from the High Luminosity Large Hadron Collider in the exabyte era"
-    date: 2019-05-08
-    url: https://indico.cern.ch/event/821258/contributions/3433444/attachments/1844402/3025513/Northwest_Data_Science_Summit_Poster_Final.pdf
-    meeting: Northwest Data Science Summit
-    meetingurl: https://www.eventbrite.com/e/northwest-data-science-summit-tickets-55037447487
-    location: University of Washington
-    focus-area: as
-    project: func-adl
-  - title: "Prototype declarative analysis interface using uproot and awkward-array"
-    date: 2019-09-12
-    url: https://indico.cern.ch/event/840472/contributions/3563332/attachments/1907329/3150287/lightning-talk_2019-09-12.pdf
-    meeting: IRIS-HEP Institute Retreat
-    meetingurl: https://indico.cern.ch/event/840472/
-    location: Fermilab
-    focus-area: as
-    project: func-adl
-  - title: "HEP Data Query Challenges"
-    date: 2019-11-07
-    url: https://indico.cern.ch/event/773049/contributions/3476178/attachments/1936838/3210025/chep_2019_poster.pdf
-    meeting: CHEP 2019
-    meetingurl: http://chep2019.org/
-    location: Adelaide, Australia
-    focus-area: as
-    project: adl-benchmarks-index
-  - title: uproot Tutorial
-    date: 2019-11-29
-    url: https://masonproffitt.github.io/uproot-tutorial/
-    meeting: Software Carpentry at CERN
-    meetingurl: https://indico.cern.ch/event/834411/
-    location: CERN
-    focus-area: as
-    project: uproot
-  - title: "Functional Analysis Description Language (FuncADL)"
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/894127/attachments/1996570/3331177/11_-_Functional_Analysis_Description_Language_FuncADL.pdf
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/overview
-    location: Princeton University
-    focus-area: as
-    project: func-adl
+- title: 'IRIS-HEP: A new software institute to prepare for the data from the High
+    Luminosity Large Hadron Collider in the exabyte era'
+  date: 2019-05-08
+  url: https://indico.cern.ch/event/821258/contributions/3433444/attachments/1844402/3025513/Northwest_Data_Science_Summit_Poster_Final.pdf
+  meeting: Northwest Data Science Summit
+  meetingurl: https://www.eventbrite.com/e/northwest-data-science-summit-tickets-55037447487
+  location: University of Washington
+  focus-area: as
+  project: func-adl
+- title: Prototype declarative analysis interface using uproot and awkward-array
+  date: 2019-09-12
+  url: https://indico.cern.ch/event/840472/contributions/3563332/attachments/1907329/3150287/lightning-talk_2019-09-12.pdf
+  meeting: IRIS-HEP Institute Retreat
+  meetingurl: https://indico.cern.ch/event/840472/
+  location: Fermilab
+  focus-area: as
+  project: func-adl
+- title: HEP Data Query Challenges
+  date: 2019-11-07
+  url: https://indico.cern.ch/event/773049/contributions/3476178/attachments/1936838/3210025/chep_2019_poster.pdf
+  meeting: CHEP 2019
+  meetingurl: http://chep2019.org/
+  location: Adelaide, Australia
+  focus-area: as
+  project: adl-benchmarks-index
+- title: uproot Tutorial
+  date: 2019-11-29
+  url: https://masonproffitt.github.io/uproot-tutorial/
+  meeting: Software Carpentry at CERN
+  meetingurl: https://indico.cern.ch/event/834411/
+  location: CERN
+  focus-area: as
+  project: uproot
+- title: Functional Analysis Description Language (FuncADL)
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331177/11_-_Functional_Analysis_Description_Language_FuncADL.pdf
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/overview
+  location: Princeton University
+  focus-area: as
+  project: func-adl

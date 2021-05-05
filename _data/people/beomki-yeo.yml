@@ -1,7 +1,10 @@
+active: true
+e-mail: beomki.yeo@berkeley.edu
+focus-area:
+- ia
+institution: University of California, Berkeley
 name: Beomki Yeo
+photo: "/assets/images/team/beomki-yeo.png"
 shortname: beomki-yeo
 title: Post-doctoral researcher
-active: true
-institution: University of California, Berkeley
-photo: /assets/images/team/beomki-yeo.png
-e-mail: beomki.yeo@berkeley.edu
+presentations:

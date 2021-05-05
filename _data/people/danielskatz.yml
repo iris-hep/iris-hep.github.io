@@ -1,15 +1,17 @@
+active: true
+focus-area:
+- ssc
+institution: University of Illinois at Urbana-Champaign
 name: Daniel S. Katz
+photo: "/assets/images/team/Dan-Katz.png"
 shortname: danielskatz
 title:
-active: true
-institution: University of Illinois at Urbana-Champaign
 website: http://danielskatz.org
-photo: /assets/images/team/Dan-Katz.png
 presentations:
-  - title: Software Sustainability
-    date: 2020-09-20
-    url: https://indico.bnl.gov/event/9023/contributions/40346/
-    meeting: Future Trends in Nuclear Physics Computing
-    meetingurl: https://indico.bnl.gov/event/9023/
-    location: Virtual
-    focus-area: ssc
+- title: Software Sustainability
+  date: 2020-09-20
+  url: https://indico.bnl.gov/event/9023/contributions/40346/
+  meeting: Future Trends in Nuclear Physics Computing
+  meetingurl: https://indico.bnl.gov/event/9023/
+  location: Virtual
+  focus-area: ssc

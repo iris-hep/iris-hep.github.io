@@ -1,9 +1,9 @@
-name:  Alessandro Di Girolamo
+active: true
+hidden: true
+institution: CERN
+name: Alessandro Di Girolamo
+photo: "/assets/images/team/Alessandro_Di_Girolamo.png"
 shortname: a_digirolamo
 title: ATLAS Computing Coordinator
-active: true
-institution: CERN
 website:
-photo: /assets/images/team/Alessandro_Di_Girolamo.png
-hidden: true
 presentations:

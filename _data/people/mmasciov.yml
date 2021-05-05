@@ -1,22 +1,25 @@
+active: true
+focus-area:
+- ia
+institution: University of California, San Diego
 name: Mario Masciovecchio
+photo: "/assets/images/team/Mario-Masciovecchio.jpg"
 shortname: mmasciov
 title:
-active: true
-institution: University of California, San Diego
 website: https://github.com/mmasciov
-photo: /assets/images/team/Mario-Masciovecchio.jpg
 presentations:
-  - title: mkfit and HL-LHC tracking in CMS
-    meeting: Joint HSF event reconstruction/trigger working group and IRIS-HEP Topical Meeting
-    meetingurl: https://indico.cern.ch/event/882106/
-    url: https://indico.cern.ch/event/882106/contributions/3741028/attachments/1986653/3310542/MkFit_Mario-Masciovecchio_IrisHEP.pdf
-    date: 2020-02-12
-    focus-area: ia
-    project: mkfit
-  - title: Accelerated Full Tracking at (CMS) HLT
-    meeting: CMS scouting kick-off workshop
-    meetingurl: https://indico.cern.ch/event/880405/
-    url: https://indico.cern.ch/event/880405/contributions/3709436/attachments/1985482/3308174/MkFit_Mario-Masciovecchio_ScoutingWorkshop.pdf
-    date: 2020-02-11
-    focus-area: ia
-    project: mkfit
+- title: mkfit and HL-LHC tracking in CMS
+  meeting: Joint HSF event reconstruction/trigger working group and IRIS-HEP Topical
+    Meeting
+  meetingurl: https://indico.cern.ch/event/882106/
+  url: https://indico.cern.ch/event/882106/contributions/3741028/attachments/1986653/3310542/MkFit_Mario-Masciovecchio_IrisHEP.pdf
+  date: 2020-02-12
+  focus-area: ia
+  project: mkfit
+- title: Accelerated Full Tracking at (CMS) HLT
+  meeting: CMS scouting kick-off workshop
+  meetingurl: https://indico.cern.ch/event/880405/
+  url: https://indico.cern.ch/event/880405/contributions/3709436/attachments/1985482/3308174/MkFit_Mario-Masciovecchio_ScoutingWorkshop.pdf
+  date: 2020-02-11
+  focus-area: ia
+  project: mkfit

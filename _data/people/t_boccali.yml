@@ -1,9 +1,9 @@
+active: false
+hidden: true
+institution: INFN-Pisa
 name: Tommaso Boccali
+photo: "/assets/images/team/Tommaso-Boccali.png"
 shortname: t_boccali
 title: CMS Experiment
-active: false
-institution: INFN-Pisa
 website:
-photo: /assets/images/team/Tommaso-Boccali.png
-hidden: true
 presentations:

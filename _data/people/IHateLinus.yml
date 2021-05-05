@@ -1,8 +1,10 @@
+active: true
+focus-area:
+- ia
+institution: University of California, San Diego
 name: Avi Yagil
+photo: "/assets/images/team/Avi-Yagil.jpg"
 shortname: IHateLinus
 title:
-active: true
-institution: University of California, San Diego
 website: https://physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=688
-photo: /assets/images/team/Avi-Yagil.jpg
 presentations:

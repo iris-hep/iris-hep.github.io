@@ -1,24 +1,25 @@
+active: true
+focus-area:
+- ia
+institution: Massachusetts Institute of Technology
 name: Dylan Rankin
+photo: "/assets/images/team/Dylan-Rankin.jpg"
 shortname: drankincms
 title:
-active: true
-institution: Massachusetts Institute of Technology
 website:
-photo: /assets/images/team/Dylan-Rankin.jpg
 presentations:
-  - title: Using ML on FPGAs to enhance reconstruction output
-    date: 2019-02-13
-    url: https://indico.cern.ch/event/797510/contributions/3313676/attachments/1795772/2927344/irishep_dsr_hls4ml_13feb2019.pdf
-    meeting: IRIS-HEP Topical Meeting
-    meetingurl: https://indico.cern.ch/event/797510/
-    location:
-    focus-area: ia
-    project: caloreco-mlaas
-  - title: Using GPUs and FPGAs as-a-service for LHC computing
-    date: 2020-09-09
-    url: https://indico.cern.ch/event/942656/contributions/3960947/attachments/2100003/3530357/irishep_aas_09sep20.pdf
-    meeting: IRIS-HEP topical meeting
-    meetingurl: https://indico.cern.ch/event/942656/
-    focus-area: ia
-    project: caloreco-mlaas
-
+- title: Using ML on FPGAs to enhance reconstruction output
+  date: 2019-02-13
+  url: https://indico.cern.ch/event/797510/contributions/3313676/attachments/1795772/2927344/irishep_dsr_hls4ml_13feb2019.pdf
+  meeting: IRIS-HEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/797510/
+  location:
+  focus-area: ia
+  project: caloreco-mlaas
+- title: Using GPUs and FPGAs as-a-service for LHC computing
+  date: 2020-09-09
+  url: https://indico.cern.ch/event/942656/contributions/3960947/attachments/2100003/3530357/irishep_aas_09sep20.pdf
+  meeting: IRIS-HEP topical meeting
+  meetingurl: https://indico.cern.ch/event/942656/
+  focus-area: ia
+  project: caloreco-mlaas

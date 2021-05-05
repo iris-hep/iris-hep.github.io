@@ -1,8 +1,11 @@
+active: true
+focus-area:
+- ia
+- as
+institution: University of Cincinnati
 name: Mike Sokoloff
+photo: "/assets/images/team/Mike-Sokoloff.jpg"
 shortname: mdsokoloff
 title:
-active: true
-institution: University of Cincinnati
 website: https://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof
-photo: /assets/images/team/Mike-Sokoloff.jpg
 presentations:

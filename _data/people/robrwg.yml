@@ -1,37 +1,43 @@
+active: true
+focus-area:
+- ssl
+- doma
+institution: University of Chicago
 name: Rob Gardner
+photo: "/assets/images/team/Rob-Gardner.png"
 shortname: robrwg
 title: SSL Area Lead
-active: true
-institution: University of Chicago
 website: https://efi.uchicago.edu/people/profile/rob-gardner/
-photo: /assets/images/team/Rob-Gardner.png
 presentations:
-  - title: "IRIS-HEP Scalable Systems Laboratory for Innovation & Integration"
-    date: 2019-02-06
-    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271530/attachments/1791890/2919772/2019.02.06_SSL_for_IRIS-HEP_SB_2.pdf
-    meeting: IRIS-HEP Steering Board Meeting #1
-    meetingurl: https://indico.cern.ch/event/790759/
-  - title: "Scalable Systems Laboratory (IRIS-HEP) - challenges, opportunities"
-    date: 2019-06-21
-    url: https://indico.cern.ch/event/820946/contributions/3461590/attachments/1866979/3070394/2019.06.21_SSL_Overview_Rob.pdf
-    meeting: "Analysis Systems R&D on Scalable Platforms (AS-SSL Blueprint)"
-    meetingurl: https://indico.cern.ch/event/820946/
-    focus-area: ssl
-  - title: "Lightning talk: ideas on evolution of grid sites in Run 4"
-    date: 2019-10-02
-    url: https://indico.cern.ch/event/823340/#69-lightning-talk-ideas-on-evo
-    meeting: "ATLAS Software & Computing Week No. 63"
-    meetingurl: https://indico.cern.ch/event/823340/
-    focus-area: ssl
-  - title: "DOMA Facilities"
-    date: 2019-11-01
-    url: https://indico.cern.ch/event/805983/contributions/3569723/
-    meeting: "Joint WLCG & HSF Workshop 2019 - Analysis Systems: From Future Facilities to Final Plots"
-    meetingurl: https://indico.cern.ch/event/805983/
-    focus-area: ssl
-  - title: "The Scalable Systems Laboratory: a Platform for Software Innovation for HEP"
-    date: 2019-11-05
-    url: https://indico.cern.ch/event/773049/contributions/3473260/
-    meeting: "24th International Conference on Computing in High Energy and Nuclear Physics (CHEP2019)"
-    meetingurl: http://chep2019.org/
-    focus-area: ssl
+- title: IRIS-HEP Scalable Systems Laboratory for Innovation & Integration
+  date: 2019-02-06
+  url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271530/attachments/1791890/2919772/2019.02.06_SSL_for_IRIS-HEP_SB_2.pdf
+  meeting: IRIS-HEP Steering Board Meeting
+  meetingurl: https://indico.cern.ch/event/790759/
+- title: Scalable Systems Laboratory (IRIS-HEP) - challenges, opportunities
+  date: 2019-06-21
+  url: https://indico.cern.ch/event/820946/contributions/3461590/attachments/1866979/3070394/2019.06.21_SSL_Overview_Rob.pdf
+  meeting: Analysis Systems R&D on Scalable Platforms (AS-SSL Blueprint)
+  meetingurl: https://indico.cern.ch/event/820946/
+  focus-area: ssl
+- title: 'Lightning talk: ideas on evolution of grid sites in Run 4'
+  date: 2019-10-02
+  url: https://indico.cern.ch/event/823340/#69-lightning-talk-ideas-on-evo
+  meeting: ATLAS Software & Computing Week No. 63
+  meetingurl: https://indico.cern.ch/event/823340/
+  focus-area: ssl
+- title: DOMA Facilities
+  date: 2019-11-01
+  url: https://indico.cern.ch/event/805983/contributions/3569723/
+  meeting: 'Joint WLCG & HSF Workshop 2019 - Analysis Systems: From Future Facilities
+    to Final Plots'
+  meetingurl: https://indico.cern.ch/event/805983/
+  focus-area: ssl
+- title: 'The Scalable Systems Laboratory: a Platform for Software Innovation for
+    HEP'
+  date: 2019-11-05
+  url: https://indico.cern.ch/event/773049/contributions/3473260/
+  meeting: 24th International Conference on Computing in High Energy and Nuclear Physics
+    (CHEP2019)
+  meetingurl: http://chep2019.org/
+  focus-area: ssl

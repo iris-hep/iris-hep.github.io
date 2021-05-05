@@ -18,20 +18,24 @@ not mentioned here, or missing/unclear information, please [contribute an improv
 * Add a "`<your github username>.yml`" file to the [people folder in the website repository][people]. Here is an example:
 
 ```yml
+active: true
+focus-area:
+- <primary focus area(s), a list>
+institution: <Your University>
 name: <Your name>
+photo: /assets/images/team/<First name>-<Last name>.jpg
 shortname: <Your GitHub user ID>
 title: <Can be blank - will show a title under your picture>
-active: true
-institution: <Your University>
 website: <Optional, your website>
-photo: /assets/images/team/<First name>-<Last name>.jpg
 presentations:
   - title: How to make green eggs and ham
     date: 2018-09-10
     url: https://indico.cern.ch/event/697389/contributions/3062046/attachments/1712602/2761531/ROOT2018-Union.pdf
     meeting: ROOT 2018 Users Workshop
     meetingurl: https://cern.ch/root2018
-    location: Sarajevo
+    project: greeneggs
+    focus-area: as
+    location: Virtual
 ```
 
 * Add your GitHub username to the proper [university file][]. Note that you will *not* show up in the full team page if you are not in a university file!
@@ -67,11 +71,11 @@ the following criteria:
 
 The meaning of the fields is the following:
 
-  * title - the title of the talk: you made need to place it in double quotes, if certain characters like a colon (":") are included in the title
-  * date - the date on which the presentation was made, in the numeric format "YYYY-MM-DD"
-  * url - this should be a direct URL to the presentation file (e.g. pdf)
-  * meeting - the name of the meeting
-  * meetingurl - the URL for the meeting in which the presentation was made
-  * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can just omit this.
-  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc]
-  * project - optionally list the relevant project for this presentation, using its short name, i.e. those found in the [pages/projects/](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/pages/projects) area
+  * title - the title of the talk: you made need to place it in double quotes if certain characters like a colon space ": " are included in the title.
+  * date - the date on which the presentation was made, in the numeric format "YYYY-MM-DD".
+  * url - this should be a direct URL to the presentation file (e.g. pdf).
+  * meeting - the name of the meeting.
+  * meetingurl - the URL for the meeting in which the presentation was made.
+  * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can use "Virtual".
+  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc,blueprint,core]. Can be a list, leave blank if none.
+  * project - optionally list the relevant project for this presentation, using its short name, i.e. those found in the [pages/projects/](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/pages/projects) area. Can be a list, leave blank if none.

@@ -1,9 +1,9 @@
+active: true
+hidden: true
+institution: FNAL
 name: Oliver Gutsche
+photo: "/assets/images/team/Oliver_Gutsche.jpg"
 shortname: o_gutsche
 title: US CMS Ops Program
-active: true
-institution: FNAL
 website:
-photo: /assets/images/team/Oliver_Gutsche.jpg
-hidden: true
 presentations:

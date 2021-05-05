@@ -1,8 +1,10 @@
+active: true
+focus-area:
+- osglhc
+institution: Indiana University
 name: Mike Stanfield
+photo: "/assets/images/team/mike-standfield.jpg"
 shortname: mtstanfield
 title: Senior Security Analyst
-active: true
-institution: Indiana University
 website: https://cacr.iu.edu/about/people/mike-stanfield.html
-photo: /assets/images/team/mike-standfield.jpg
 presentations:

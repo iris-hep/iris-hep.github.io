@@ -1,8 +1,10 @@
+active: true
+focus-area:
+- doma
+institution: National Institute Of Technology, Durgapur
 name: Jayjeet Chakraborty
+photo: "/assets/images/team/Jayjeet-Chakraborty.png"
 shortname: JayjeetAtGithub
 title:
-active: true
-institution: National Institute Of Technology, Durgapur
 website: https://github.com/JayjeetAtGithub
-photo: /assets/images/team/Jayjeet-Chakraborty.png
 presentations:

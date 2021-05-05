@@ -1,26 +1,28 @@
+active: true
+focus-area:
+- ssl
+institution: University of Chicago
 name: Lincoln Bryant
+photo: "/assets/images/team/Lincoln-Bryant.png"
 shortname: LincolnBryant
 title: DevOps Engineer
-active: true
-institution: University of Chicago
 website: https://efi.uchicago.edu/people/profile/lincoln-bryant/
-photo: /assets/images/team/Lincoln-Bryant.png
 presentations:
-  - title: "SSL patterns: hybrid models, developer support, deployments"
-    date: 2019-06-21
-    url: https://indico.cern.ch/event/820946/contributions/3461592/attachments/1866998/3119402/2019.06.21_SSL_Patterns__Deployments_Lincoln.pdf
-    meeting: "Analysis Systems R&D on Scalable Platforms (AS-SSL Blueprint)"
-    meetingurl: https://indico.cern.ch/event/820946/
-    focus-area: ssl
-  - title: "Towards Lighter Operations"
-    date: 2019-08-07
-    url: https://indico.cern.ch/event/837130/contributions/3509789/attachments/1891363/3119277/Towards_Lighter_Operations.pdf
-    meeting: "US ATLAS Computing Facility"
-    meetingurl: https://indico.cern.ch/event/837130/
-    focus-area: ssl
-  - title: "k8s for the IRIS-HEP SSLab"
-    date: 2020-01-30
-    url: https://indico.cern.ch/event/882955/contributions/3724855/attachments/1978233/3295037/Chicago-K8S-Workshop-Jan-2020.pdf
-    meeting: "K8s-HEP Meetup ('Chicagoland')"
-    meetingurl: https://indico.cern.ch/event/882955/
-    focus-area: ssl
+- title: 'SSL patterns: hybrid models, developer support, deployments'
+  date: 2019-06-21
+  url: https://indico.cern.ch/event/820946/contributions/3461592/attachments/1866998/3119402/2019.06.21_SSL_Patterns__Deployments_Lincoln.pdf
+  meeting: Analysis Systems R&D on Scalable Platforms (AS-SSL Blueprint)
+  meetingurl: https://indico.cern.ch/event/820946/
+  focus-area: ssl
+- title: Towards Lighter Operations
+  date: 2019-08-07
+  url: https://indico.cern.ch/event/837130/contributions/3509789/attachments/1891363/3119277/Towards_Lighter_Operations.pdf
+  meeting: US ATLAS Computing Facility
+  meetingurl: https://indico.cern.ch/event/837130/
+  focus-area: ssl
+- title: k8s for the IRIS-HEP SSLab
+  date: 2020-01-30
+  url: https://indico.cern.ch/event/882955/contributions/3724855/attachments/1978233/3295037/Chicago-K8S-Workshop-Jan-2020.pdf
+  meeting: K8s-HEP Meetup ('Chicagoland')
+  meetingurl: https://indico.cern.ch/event/882955/
+  focus-area: ssl

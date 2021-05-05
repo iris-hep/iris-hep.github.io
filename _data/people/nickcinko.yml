@@ -1,21 +1,23 @@
+active: false
+focus-area:
+- ia
+institution: University of California, Berkeley
 name: Nicholas Cinko
+photo: "/assets/images/atom.png"
 shortname: nickcinko
 title: Graduate Student
-active: false
-photo: /assets/images/atom.png
-institution: University of California, Berkeley
 presentations:
-  - title: "Ambiguity Resolution: Using Machine Learning"
-    date: 2019-07-31
-    url: https://docs.google.com/presentation/d/10KrWxl0Z07Vp2Scx1k7Dow3JUV5Z7uziEQR56L3FPRs/edit#slide=id.p
-    meeting: ACTS Developers Meetings
-    meetingurl: https://indico.cern.ch/event/832703/
-    focus-area: ia
-    project: acts
-  - title: "Ambiguity Resolution Studies with ACTS"
-    date: 2019-01-13
-    url: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/attachments/1761/2138/go
-    meeting: Berkeley Tracking Workshop
-    meetingurl: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/
-    focus-area: ia
-    project: acts
+- title: 'Ambiguity Resolution: Using Machine Learning'
+  date: 2019-07-31
+  url: https://docs.google.com/presentation/d/10KrWxl0Z07Vp2Scx1k7Dow3JUV5Z7uziEQR56L3FPRs/edit#slide=id.p
+  meeting: ACTS Developers Meetings
+  meetingurl: https://indico.cern.ch/event/832703/
+  focus-area: ia
+  project: acts
+- title: Ambiguity Resolution Studies with ACTS
+  date: 2019-01-13
+  url: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/attachments/1761/2138/go
+  meeting: Berkeley Tracking Workshop
+  meetingurl: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/
+  focus-area: ia
+  project: acts

@@ -1,9 +1,9 @@
+active: true
+hidden: true
+institution: VU/NIKHEF
 name: Gerhard Raven
+photo: "/assets/images/team/Gerhard-Raven.jpg"
 shortname: g_raven
 title: LHCb Experiment
-active: true
-institution: VU/NIKHEF
 website:
-photo: /assets/images/team/Gerhard-Raven.jpg
-hidden: true
 presentations:

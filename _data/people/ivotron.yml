@@ -1,21 +1,25 @@
+active: true
+e-mail: ivotron@ucsc.edu
+focus-area:
+- doma
+institution: UC Santa Cruz
 name: Ivo Jimenez
+photo: "/assets/images/team/ivotron.png"
 shortname: ivotron
 title: Research Scientist
-active: true
-institution: UC Santa Cruz
 website: http://ivotron.me
-photo: /assets/images/team/ivotron.png
-e-mail: ivotron@ucsc.edu
 presentations:
-- title: "Towards Arrow-native and Coffea Analysis Support in SkyhookDM"
+- title: Towards Arrow-native and Coffea Analysis Support in SkyhookDM
   date: 2020-10-27
   url: https://indico.cern.ch/event/960587/contributions/4077725/attachments/2130844/3588510/20201026-arrow-native-support-in-skyhook.pdf
   meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
   meetingurl: https://indico.cern.ch/event/960587/
   location: Virtual
-- title: "Enabling Seamless Execution of Computational and Data Science Workflows on HPC and Cloud with the Popper Container-Native Automation Engine"
+- title: Enabling Seamless Execution of Computational and Data Science Workflows on
+    HPC and Cloud with the Popper Container-Native Automation Engine
   date: 2020-11-12
   url: https://youtu.be/tV5HmKRanvA
-  meeting: "2020 2nd International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)"
+  meeting: 2020 2nd International Workshop on Containers and New Orchestration Paradigms
+    for Isolated Environments in HPC (CANOPIE-HPC)
   meetingurl: https://www.canopie-hpc.org/program/
   location: Virtual

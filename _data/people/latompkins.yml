@@ -1,8 +1,11 @@
+active: true
+focus-area:
+- as
+- ia
+institution: Stanford University
 name: Lauren Tompkins
+photo: "/assets/images/team/Lauren-Tompkins.jpg"
 shortname: latompkins
 title:
-active: true
-institution: Stanford University
 website: https://profiles.stanford.edu/lauren-tompkins
-photo: /assets/images/team/Lauren-Tompkins.jpg
 presentations:

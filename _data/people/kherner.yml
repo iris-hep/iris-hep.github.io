@@ -1,9 +1,9 @@
+active: true
+hidden: true
+institution: FNAL
 name: Kenneth Herner
+photo: "/assets/images/team/KH_cropped.jpg"
 shortname: kherner
 title: OSG Council, DUNE Collaboration
-active: true
-institution: FNAL
 website:
-photo: /assets/images/team/KH_cropped.jpg
-hidden: true
 presentations:

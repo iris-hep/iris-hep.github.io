@@ -1,9 +1,9 @@
+active: true
+hidden: true
+institution: CERN
 name: Danilo Piparo
+photo: "/assets/images/team/danilo-piparo.jpg"
 shortname: dpiparo
 title: CMS Experiment
-active: true
-institution: CERN
 website:
-photo: /assets/images/team/danilo-piparo.jpg
-hidden: true
 presentations:
