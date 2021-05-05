@@ -2,7 +2,5 @@
 Collect all the events, merging lists as appropriate.
 {%- endcomment -%}
 
-{%- assign site_events = site.data.events | values -%}
 {%- assign blueprint = site.data.indico["blueprint"] | values -%}
-{%- assign sorted_events = site_events | concat: blueprint | sort: "startdate" | reverse -%}
-
+{%- assign sorted_events = site.data.events | values | concat: blueprint | sort: "startdate" | reverse -%}
