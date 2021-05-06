@@ -15,6 +15,33 @@ team:
 - timtheisen
 ---
 
-The OSG Software and Release team produces and supports the integrated software systems
-that comprise the OSG fabric of production services.
-Additionally, the team produces tooling and documentation related to the software.
+The [OSG Software and Release](https://opensciencegrid.org/technology/) team produces and supports the integrated
+software systems that comprise the OSG fabric of production services.
+
+### Activities
+
+-   **Software curation:** the team works with external software providers, ensures the continued functionality of
+    abandoned software, and develops tools to fill any gaps to provide a software stack suitable for WLCG sites.
+    This software stack is distributed through packages used widely by the community, such as RPMs and container images.
+
+-   **Integration testing:** the team coordinates tests of the integrated software stack among internal staff, external
+    stakeholders, and automated means.
+
+-   **Site documentation:** the team maintains [documentation](https://opensciencegrid.org/docs/) for sites contributing
+    to the WLCG.
+
+-   **Registration:** the team provides tools for sites to register services and their downtimes with the WLCG.
+
+### Major Accomplishments
+
+-   **Authentication and transfer protocol transitions:** the OSG Software and Release team has been working with the
+    [DOMA group](../focus-area/doma.md) to lead the transition to a bearer token-based authentication and authorization
+    infrastructure and HTTP/S-based transfer protocol.
+
+-   **Container images:** the OSG Software and Release team has supported the LHC community's exploration into DevOps
+    deployment models by distributing select production services as container images.
+    In particular, the team developed and maintains the [caching](caching.md) container image used by multiple LHC
+    experiments.
+
+-   **Streamlining the release process:** to get new software into the hands of site administrators more quickly, the
+    team has implemented rolling-style releases along with a policy to make release candidates available more quickly.
