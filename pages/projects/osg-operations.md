@@ -75,7 +75,7 @@ up to tape in case of a failure of the database. The usage records can be replay
 base restored from the tape backups.
 
 Visualization of GRACC usage records is done using either Grafana or Kibana visualization tools. The GRACC team maintains numerous preformatted dashboards displaying
-usage of the Open Science Grid.
+usage of the OSG.
 
 **References:**
 - Weitzel, D., Bockelman, B., Zvada, M., Retzke, K., & Bhat, S. (2019). GRACC: GRid ACcounting Collector. In EPJ Web of Conferences (Vol. 214, p. 03032). EDP Sciences. [https://doi.org/10.1051/epjconf/201921403032](https://doi.org/10.1051/epjconf/201921403032)
