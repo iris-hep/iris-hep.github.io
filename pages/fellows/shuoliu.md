@@ -17,7 +17,7 @@ project_title: Histograms Using Numba
 project_goal: >
     Recent developments in Scikit-HEP libraries have enabled efficient histogramming powered by boost-histogram and fitting into a larger ecosystem of users. Numba is a high-performance Python compiler that uses the industry-standard LLVM compiler library. To enable a fully Numba-enabled event loop for analyses, histogramming step needs to be implemented. In this summer, I will investigate ways to enable boost-histogram’s histogramming fill from inside the LLVM Numba loop without stepping through Python.
 mentors:
-  - Henry Schreiner (Princeton University)
+  - henryiii
   - Hans Dembinski (TU Dortmund University)
 proposal: /assets/pdf/Fellow-ShuoLiu-proposal.pdf
 presentations:
