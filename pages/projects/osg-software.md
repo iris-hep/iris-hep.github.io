@@ -38,10 +38,11 @@ software systems that comprise the OSG fabric of production services.
     [DOMA group](../focus-area/doma.md) to lead the transition to a bearer token-based authentication and authorization
     infrastructure and HTTP/S-based transfer protocol.
 
--   **Container images:** the OSG Software and Release team has supported the LHC community's exploration into DevOps
+-   **Container images:** the OSG Software and Release team has supported the LHC community’s exploration into DevOps
     deployment models by distributing select production services as container images.
-    In particular, the team developed and maintains the [caching](caching.md) container image used by multiple LHC
-    experiments.
+    In particular, the team developed and maintains the [caching](caching.md) container image used by multiple LHC experiments.
+    The team follows a strategy of providing a common base container across all communities, plus community-specific refinements.
+    The team currently supports three communities, U.S. ATLAS, U.S. CMS, and the general OSG community, with [caching](caching.md) container images.
 
 -   **Streamlining the release process:** to get new software into the hands of site administrators more quickly, the
     team has implemented rolling-style releases along with a policy to make release candidates available more quickly.
