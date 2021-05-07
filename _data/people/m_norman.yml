@@ -1,12 +1,12 @@
+about: OAC / CI representative.
+active: true
+hidden: true
+institution: San Diego Supercomputer Center & University of California, San Diego
 name: Mike Norman
+photo: "/assets/images/team/Mike_Norman.jpg"
+role: Provide expertise and input from a member of the NSF/OAC community that leads
+  significant CI projects.
 shortname: m_norman
 title:
-active: true
-institution: San Diego Supercomputer Center & University of California, San Diego
 website:
-photo: /assets/images/team/Mike_Norman.jpg
 presentations:
-about: OAC / CI representative.
-role: Provide expertise and input from a member
-   of the NSF/OAC community that leads significant CI projects.
-hidden: true

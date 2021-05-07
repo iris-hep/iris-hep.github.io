@@ -1,162 +1,195 @@
+active: true
+e-mail: blin@cs.wisc.edu
+focus-area:
+- osglhc
+institution: University of Wisconsin–Madison
 name: Brian Lin
+photo: "/assets/images/team/Brian-Lin.jpg"
 shortname: brianhlin
 title: OSG Software Team Manager
-active: true
-institution: University of Wisconsin–Madison
 website:
-photo: /assets/images/team/Brian-Lin.jpg
-e-mail: blin@cs.wisc.edu
 presentations:
-  - title: "OSG Services and Kubernetes"
-    date: 2021-02-11
-    url: https://docs.google.com/presentation/d/1c25EB9LrvjRxTI0Vv6XhiV7SjybGjb8frHq7Kqo7oGA/edit?usp=sharing
-    meeting: GP-ARGO Technical Meeting
-    focus-area: osglhc
-  - title: "What is next for the HTCondor-CE?"
-    date: 2020-09-23
-    url: https://indico.cern.ch/event/936993/contributions/4022138/
-    meeting: HTCondor Workshop Autumn 2020
-    meetingurl: https://indico.cern.ch/event/936993/
-    focus-area: osglhc
-  - title: "HTCondor-CE Troubleshooting"
-    date: 2020-09-23
-    url: https://indico.cern.ch/event/936993/contributions/4022137/
-    meeting: HTCondor Workshop Autumn 2020
-    meetingurl: https://indico.cern.ch/event/936993/
-    focus-area: osglhc
-  - title: "HTCondor-CE Live Installation"
-    date: 2020-09-23
-    url: https://indico.cern.ch/event/936993/contributions/4022136/
-    meeting: HTCondor Workshop Autumn 2020
-    meetingurl: https://indico.cern.ch/event/936993/
-    focus-area: osglhc
-  - title: "HTCondor-CE Configuration"
-    date: 2020-09-23
-    url: https://indico.cern.ch/event/936993/contributions/4022135/
-    meeting: HTCondor Workshop Autumn 2020
-    meetingurl: https://indico.cern.ch/event/936993/
-    focus-area: osglhc
-  - title: "HTCondor-CE Overview"
-    date: 2020-09-23
-    url: https://indico.cern.ch/event/936993/contributions/4022131/
-    meeting: HTCondor Workshop Autumn 2020
-    meetingurl: https://indico.cern.ch/event/936993/
-    focus-area: osglhc
-  - title: "Introduction to HTCondor-CE"
-    date: 2020-06-17
-    url: https://indico.egi.eu/event/5137/attachments/12966/15338/2020-06-17.htcondorce-intro_FINAL.pdf
-    meeting: EGI Community Webinar Programme
-    meetingurl: https://indico.egi.eu/event/5137/
-    focus-area: osglhc
-  - title: "GridFTP and GSI Migration Plan (Poster)"
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/894127/attachments/1996570/3331191/21_-_OSG-LHC_GridFTP_and_GSI_Migration_Plan_-_FINAL.pdf
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/
-    location: Princeton, New Jersey, US
-    focus-area: osglhc
-  - title: "Infrastructure Software Delivery (Poster)"
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/894127/attachments/1996570/3331202/26_-_OSG-LHC_Infrastructure_Software_Delivery_-_FINAL.pdf
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/
-    location: Princeton, New Jersey, US
-    focus-area: osglhc
-  - title: "HTCondor-CE What's Next?"
-    date: 2019-09-26
-    url: https://indico.cern.ch/event/817927/contributions/3570564/
-    meeting: "European HTCondor Week"
-    meetingurl: https://indico.cern.ch/event/817927
-    location: EU Joint Research Centre
-    focus-area: osglhc
-  - title: "HTCondor-CE Troubleshooting"
-    date: 2019-09-26
-    url: https://indico.cern.ch/event/817927/contributions/3570561/
-    meeting: "European HTCondor Week"
-    meetingurl: https://indico.cern.ch/event/817927
-    location: EU Joint Research Centre
-    focus-area: osglhc
-  - title: "HTCondor-CE Integration with APEL and BDII"
-    date: 2019-09-26
-    url: https://indico.cern.ch/event/817927/contributions/3570558/
-    meeting: "European HTCondor Week"
-    meetingurl: https://indico.cern.ch/event/817927
-    location: EU Joint Research Centre
-    focus-area: osglhc
-  - title: "HTCondor-CE Configuration"
-    date: 2019-09-26
-    url: https://indico.cern.ch/event/817927/contributions/3570557/
-    meeting: "European HTCondor Week"
-    meetingurl: https://indico.cern.ch/event/817927
-    location: EU Joint Research Centre
-    focus-area: osglhc
-  - title: "HTCondor-CE Basics and Architecture"
-    date: 2019-09-26
-    url: https://indico.cern.ch/event/817927/contributions/3570555/
-    meeting: "European HTCondor Week"
-    meetingurl: https://indico.cern.ch/event/817927
-    location: EU Joint Research Centre
-    focus-area: osglhc
-  - title: "Security Model for Containerized Grid Services"
-    date: 2019-06-27
-    url: https://indico.cern.ch/event/765245/timetable/#111-security-model-for-contain
-    meeting: "Atlas Software & Computing Week #62"
-    meetingurl: https://indico.cern.ch/event/765245
-    location: New York University
-    focus-area: osglhc
-  - title: "XCache Packaging"
-    date: 2019-06-11
-    url: https://indico.cern.ch/event/727208/contributions/3444631/
-    meeting: XRootD Workshop
-    meetingurl: https://indico.cern.ch/event/727208
-    location: CC-IN2P3
-    focus-area: osglhc
-  - title: "OSG Software: The Year in Review"
-    date: 2019-03-19
-    url: https://indico.cern.ch/event/759388/contributions/3353297/
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/
-    location: Jefferson Lab
-    focus-area: osglhc
-  - title: "OSG Site Installation Overview"
-    date: 2019-03-21
-    url: https://indico.cern.ch/event/759388/contributions/3364839/
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/
-    location: Jefferson Lab
-    focus-area: osglhc
-  - title: "HTCondor-CE Overview"
-    date: 2019-03-21
-    url: https://indico.cern.ch/event/759388/contributions/3364839/
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/
-    location: Jefferson Lab
-    focus-area: osglhc
-  - title: "Container Basics"
-    date: 2019-03-21
-    url: https://indico.cern.ch/event/759388/contributions/3364840/
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/
-    location: Jefferson Lab
-    focus-area: osglhc
-  - title: "OSG Software Containers"
-    date: 2019-03-21
-    url: https://indico.cern.ch/event/759388/contributions/3364840/
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/
-    location: Jefferson Lab
-    focus-area: osglhc
-  - title: "OSG-LHC and XCache"
-    date: 2018-12-12
-    url: https://indico.cern.ch/event/770941/contributions/3230458/
-    meeting: ATLAS Software & Computing Week \#61
-    meetingurl: https://indico.cern.ch/event/646947/
-    location: CERN
-    focus-area: osglhc
-  - title: "OSG-LHC and ATLAS"
-    date: 2018-12-03
-    url: https://indico.cern.ch/event/766802/contributions/3223347/
-    meeting: US-ATLAS Facilities Meeting
-    meetingurl: https://indico.cern.ch/event/766802/
-    location: Argonne National Lab
-    focus-area: osglhc
+- title: OSG Services and Kubernetes
+  date: 2021-02-11
+  url: https://docs.google.com/presentation/d/1c25EB9LrvjRxTI0Vv6XhiV7SjybGjb8frHq7Kqo7oGA/edit?usp=sharing
+  meeting: GP-ARGO Technical Meeting
+  meetingurl:
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
+- title: What is next for the HTCondor-CE?
+  date: 2020-09-23
+  url: https://indico.cern.ch/event/936993/contributions/4022138/
+  meeting: HTCondor Workshop Autumn 2020
+  meetingurl: https://indico.cern.ch/event/936993/
+  location: Madison, WI
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Troubleshooting
+  date: 2020-09-23
+  url: https://indico.cern.ch/event/936993/contributions/4022137/
+  meeting: HTCondor Workshop Autumn 2020
+  meetingurl: https://indico.cern.ch/event/936993/
+  location: Madison, WI
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Live Installation
+  date: 2020-09-23
+  url: https://indico.cern.ch/event/936993/contributions/4022136/
+  meeting: HTCondor Workshop Autumn 2020
+  meetingurl: https://indico.cern.ch/event/936993/
+  location: Madison, WI
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Configuration
+  date: 2020-09-23
+  url: https://indico.cern.ch/event/936993/contributions/4022135/
+  meeting: HTCondor Workshop Autumn 2020
+  meetingurl: https://indico.cern.ch/event/936993/
+  location: Madison, WI
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Overview
+  date: 2020-09-23
+  url: https://indico.cern.ch/event/936993/contributions/4022131/
+  meeting: HTCondor Workshop Autumn 2020
+  meetingurl: https://indico.cern.ch/event/936993/
+  location: Madison, WI
+  focus-area: osglhc
+  project: osg-software
+- title: Introduction to HTCondor-CE
+  date: 2020-06-17
+  url: https://indico.egi.eu/event/5137/attachments/12966/15338/2020-06-17.htcondorce-intro_FINAL.pdf
+  meeting: EGI Community Webinar Programme
+  meetingurl: https://indico.egi.eu/event/5137/
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
+- title: GridFTP and GSI Migration Plan (Poster)
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331191/21_-_OSG-LHC_GridFTP_and_GSI_Migration_Plan_-_FINAL.pdf
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton, New Jersey, US
+  focus-area: osglhc
+  project: osg-software
+- title: Infrastructure Software Delivery (Poster)
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331202/26_-_OSG-LHC_Infrastructure_Software_Delivery_-_FINAL.pdf
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton, New Jersey, US
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE What's Next?
+  date: 2019-09-26
+  url: https://indico.cern.ch/event/817927/contributions/3570564/
+  meeting: European HTCondor Week
+  meetingurl: https://indico.cern.ch/event/817927
+  location: EU Joint Research Centre
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Troubleshooting
+  date: 2019-09-26
+  url: https://indico.cern.ch/event/817927/contributions/3570561/
+  meeting: European HTCondor Week
+  meetingurl: https://indico.cern.ch/event/817927
+  location: EU Joint Research Centre
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Integration with APEL and BDII
+  date: 2019-09-26
+  url: https://indico.cern.ch/event/817927/contributions/3570558/
+  meeting: European HTCondor Week
+  meetingurl: https://indico.cern.ch/event/817927
+  location: EU Joint Research Centre
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Configuration
+  date: 2019-09-26
+  url: https://indico.cern.ch/event/817927/contributions/3570557/
+  meeting: European HTCondor Week
+  meetingurl: https://indico.cern.ch/event/817927
+  location: EU Joint Research Centre
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Basics and Architecture
+  date: 2019-09-26
+  url: https://indico.cern.ch/event/817927/contributions/3570555/
+  meeting: European HTCondor Week
+  meetingurl: https://indico.cern.ch/event/817927
+  location: EU Joint Research Centre
+  focus-area: osglhc
+  project: osg-software
+- title: Security Model for Containerized Grid Services
+  date: 2019-06-27
+  url: https://indico.cern.ch/event/765245/timetable/#111-security-model-for-contain
+  meeting: 'Atlas Software & Computing Week #62'
+  meetingurl: https://indico.cern.ch/event/765245
+  location: New York University
+  focus-area: osglhc
+  project: osg-software
+- title: XCache Packaging
+  date: 2019-06-11
+  url: https://indico.cern.ch/event/727208/contributions/3444631/
+  meeting: XRootD Workshop
+  meetingurl: https://indico.cern.ch/event/727208
+  location: CC-IN2P3
+  focus-area: osglhc
+  project: caching
+- title: 'OSG Software: The Year in Review'
+  date: 2019-03-19
+  url: https://indico.cern.ch/event/759388/contributions/3353297/
+  meeting: 2019 Joint HSF/OSG/WLCG Workshop
+  meetingurl: https://indico.cern.ch/event/759388/
+  location: Jefferson Lab
+  focus-area: osglhc
+  project: osg-software
+- title: OSG Site Installation Overview
+  date: 2019-03-21
+  url: https://indico.cern.ch/event/759388/contributions/3364839/
+  meeting: 2019 Joint HSF/OSG/WLCG Workshop
+  meetingurl: https://indico.cern.ch/event/759388/
+  location: Jefferson Lab
+  focus-area: osglhc
+  project: osg-software
+- title: HTCondor-CE Overview
+  date: 2019-03-21
+  url: https://indico.cern.ch/event/759388/contributions/3364839/
+  meeting: 2019 Joint HSF/OSG/WLCG Workshop
+  meetingurl: https://indico.cern.ch/event/759388/
+  location: Jefferson Lab
+  focus-area: osglhc
+  project: osg-software
+- title: Container Basics
+  date: 2019-03-21
+  url: https://indico.cern.ch/event/759388/contributions/3364840/
+  meeting: 2019 Joint HSF/OSG/WLCG Workshop
+  meetingurl: https://indico.cern.ch/event/759388/
+  location: Jefferson Lab
+  focus-area: osglhc
+  project: osg-software
+- title: OSG Software Containers
+  date: 2019-03-21
+  url: https://indico.cern.ch/event/759388/contributions/3364840/
+  meeting: 2019 Joint HSF/OSG/WLCG Workshop
+  meetingurl: https://indico.cern.ch/event/759388/
+  location: Jefferson Lab
+  focus-area: osglhc
+  project: osg-software
+- title: OSG-LHC and XCache
+  date: 2018-12-12
+  url: https://indico.cern.ch/event/770941/contributions/3230458/
+  meeting: ATLAS Software & Computing Week \#61
+  meetingurl: https://indico.cern.ch/event/646947/
+  location: CERN
+  focus-area: osglhc
+  project: caching
+- title: OSG-LHC and ATLAS
+  date: 2018-12-03
+  url: https://indico.cern.ch/event/766802/contributions/3223347/
+  meeting: US-ATLAS Facilities Meeting
+  meetingurl: https://indico.cern.ch/event/766802/
+  location: Argonne National Lab
+  focus-area: osglhc
+  project: osg-software

@@ -102,40 +102,21 @@ list of events in the past 90 days. Treat 6 days ago as "now" so that
 ongoing events don't get prematurely flagged as recent.
 {% endcomment %}
 
-{% assign currentdatecmp = 'now' | date: "%s" %}
-{% assign onedayago = 'now' | date: "%s" | minus: 86400 | date: "%b %d, %Y %I:%M %p -0500" | replace: "+","%20" | date: "%s"%}
-{% assign sixdaysago = 'now' | date: "%s" | minus: 518400 | date: "%b %d, %Y %I:%M %p -0500" | replace: "+","%20" | date: "%s"%}
-{% assign ninetydaysago = 'now' | date: "%s" | minus: 7776000| date: "%b %d, %Y %I:%M %p -0500" | replace: "+","%20" | date: "%s"%}
-
-{% assign selected_events = "" | split: ',' %}
-
 <div class="mainpage-sidebar-text">
 <h4>Upcoming Events:</h4>
 </div>
 
 {%- include get_all_events.html -%}
 
-{% for event in all_events %}
-  {% assign startdatecmp = event.startdate | date: "%s" %}
-  {% if startdatecmp >= sixdaysago %}
-  {% unless event.skipfrontpage %}
-     {% assign selected_events = selected_events | push: event %}
-  {% endunless %}
-  {% endif %}
-{% endfor %}
-
+{% assign selected_events = all_events | day_range: "startdate", 6 | where_exp: "item", "item.skipfrontpage != true" | reverse %}
 
 <ul>
-  {% assign selected_events = selected_events | sort: 'startdate' %}
-  {%- assign has-event = false %}
   {% for event in selected_events %}
-    {% assign startdatecmp = event.startdate | date: "%s" %}
-    {%- assign has-event = true %}
     <li>
       <a href="{{event.meetingurl}}">
         <div class="event">
           <div class="date">
-            {% include daterange.html start=event.startdate end=event.enddate %}
+            {{ event.startdate | print_date_range: event.enddate }}
           </div>
           <div class="location">
             {{event.location}}
@@ -148,11 +129,11 @@ ongoing events don't get prematurely flagged as recent.
     </li>
   {% endfor %}
 </ul>
-{%- unless has-event %}
+{%- if selected_events.size == 0 %}
   <div class="empty">
     No events currently scheduled. Check back again soon!
   </div>
-{%- endunless %}
+{%- endif %}
 
 <div class="mainpage-sidebar-links">
 <a href="/events.html">View all past events</a>
@@ -165,34 +146,33 @@ ongoing events don't get prematurely flagged as recent.
 <h4>Upcoming Topical Meetings:</h4>
 </div>
 {% include get_indico_list.html %}
-{%- assign has-event = false %}
+{% assign upcoming_topical = indico_list | day_range: "startdate", 1 %}
+
 <ul>
-{% for event in selected_array %}
-  {% assign startdatecmp = event.startdate | date: "%s" %}
-  {% if onedayago <= startdatecmp %}
-    {%- assign has-event = true %}
-    <li>
-      <a href="{{event.meetingurl}}">
-        <div class="event">
-          <div class="date">
-            {% include daterange.html start=event.startdate end=event.enddate %}
-          </div>
-          <div class="location">
-          </div>
-          <div class="name">
-            {{event.name}}
-          </div>
+{% for event in upcoming_topical %}
+  <li>
+    <a href="{{event.meetingurl}}">
+      <div class="event">
+        <div class="date">
+          {{ event.startdate | print_date_range: event.enddate }}
         </div>
-      </a>
-    </li>
-  {% endif %}
+        <div class="location">
+        </div>
+        <div class="name">
+          {{event.name}}
+        </div>
+      </div>
+    </a>
+  </li>
 {% endfor %}
 </ul>
-{%- unless has-event %}
+
+{%- if upcoming_topical.size == 0 %}
   <div class="empty">
     No meetings currently scheduled. Check back again soon!
   </div>
-{%- endunless %}
+{%- endif %}
+
 <div class="mainpage-sidebar-links">
 <a href="/topical.html" aria-label="View all topical meetings">View all</a>
 &bull;

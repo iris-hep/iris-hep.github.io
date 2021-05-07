@@ -1,217 +1,245 @@
+active: true
+e-mail: gwatts@uw.edu
+focus-area:
+- as
+- doma
+institution: University of Washington
 name: Gordon Watts
+photo: "/assets/images/team/Gordon-Watts.jpg"
 shortname: gordonwatts
 title: Institute co-PI and Deputy Executive Director
-active: true
-institution: University of Washington
 website: https://phys.washington.edu/people/gordon-watts
-photo: /assets/images/team/Gordon-Watts.jpg
-e-mail: gwatts@uw.edu
 presentations:
-  - title: "IRIS-HEP Steering Board Meeting #1"
-    date: 2019-02-06
-    url: https://indico.cern.ch/event/790759/contributions/3284632/attachments/1791853/2919742/2019-02-06_-_Steering_Board_Intro.pdf
-    meeting: IRIS-HEP Steering Board Meeting #1
-    meetingurl: https://indico.cern.ch/event/790759/
-    location: Vidyo
-    focus-area: as
-  - title: "LINQ To ROOT"
-    date: 2019-02-13
-    url: https://indico.cern.ch/event/789007/contributions/3317126/attachments/1795120/2927037/2019-02-13_-_Analysis_Languages.pdf
-    meeting: 1st DAWG Technology and Innovation Survey (HSF)
-    meetingurl: https://indico.cern.ch/event/789007/
-    focus-area: as
-  - title: "The C# LINQ Analysis Language"
-    date: 2019-02-25
-    url: https://indico.cern.ch/event/799590/contributions/3322885/attachments/1801294/2938216/2019-02-25_-_The_C_LINQ_Analysis_Language.pdf
-    meeting: IRIS-HEP Topical Meeting on Analysis Description Languages
-    meetingurl: https://indico.cern.ch/event/799590/
-    location: Vidyo
-    focus-area: as
-  - title: "Aligning the MATHUSA Test Stand Detector: Using Tensorflow"
-    date: 2019-03-11
-    url: https://indico.cern.ch/event/708041/contributions/3272137/attachments/1813161/2962373/2019-03-11_-_ACAT_TF_and_Alignment.pdf
-    meeting: ACAT 2019
-    meetingurl: https://indico.cern.ch/event/708041
-    focus-area: as
-  - title: "Beyond the Roadmap: HL-LHC HEP Software"
-    date: 2019-03-14
-    url: https://indico.cern.ch/event/708041/contributions/3308813/attachments/1811660
-    meeting: ACAT 2019
-    meetingurl: https://indico.cern.ch/event/708041
-    focus-area: as
-  - title: IRIS-HEP and ATLAS
-    date: 2019-02-20
-    url: https://indico.cern.ch/event/799375/contributions/3321753/attachments/1799577/2934794/2019-02-20_-_US_ATLAS_IB_Meeting.pdf
-    meeting: US ATLAS IB Meeting
-    meetingurl: https://indico.cern.ch/event/799375/
-    focus-area: as
-  - title: Thinking about Analysis Languages and Recent Progress
-    date: 2019-05-07
-    url: https://indico.cern.ch/event/769263/contributions/3406076/
-    meeting: Analysis Description Languages
-    meetingurl: https://indico.cern.ch/event/769263
-    focus-area: as
-  - title: Analysis in Run 4
-    date: 2019-06-27
-    url: https://indico.cern.ch/event/765245/contributions/3442554/
-    meeting: ATLAS Software and Computing Week #62
-    meetingurl: https://indico.cern.ch/event/765245
-    focus-area: as
-  - title: Functional/Declarative Selection Languages
-    date: 2019-06-19
-    url: https://indico.cern.ch/event/822074/contributions/3471457/
-    meeting: Analysis Systems Topical Workshop
-    meetingurl: https://indico.cern.ch/event/822074/
-    focus-area: as
-  - title: IRIS-HEP View
-    date: 2019-07-22
-    url: https://indico.cern.ch/event/835581/contributions/3508561
-    meeting: Computing infrastructures for future data analysis
-    meetingurl: https://indico.cern.ch/event/835581
-    focus-area: as doma
-  - title: func-adl to C++/xAOD backend
-    date: 2019-09-13
-    url: https://indico.cern.ch/event/840472/contributions/3563333/
-    meeting: IRIS-HEP Institute Retreat
-    meetingurl: https://indico.cern.ch/event/840472
-    focus-area: as
-  - title: Milestones - We don't need roads...
-    date: 2019-09-12
-    url: https://indico.cern.ch/event/840472/contributions/3561605/
-    meeting: IRIS-HEP Institute Retreat
-    meetingurl: https://indico.cern.ch/event/840472
-    focus-area: as
-  - title: "Declarative programming: A paradigm shift in data analysis in preparation for the HL-LHC"
-    date: 2019-09-26
-    url: https://doi.org/10.5281/zenodo.3471337
-    meetingurl: https://escience2019.sdsc.edu/
-    meeting: eScience2019
-    focus-area: as
-  - title: "Run 3/Run 4 Perspectives - Event Delivery Impacts?"
-    date: 2019-09-30
-    url: https://indico.cern.ch/event/849155/contributions/3576913/
-    meetingurl: https://indico.cern.ch/event/849155/
-    meeting: "HSF & ATLAS Joint Event Delivery Workshop"
-    focus-area: as
-  - title: "Lightning Talk: A Living HEP Analysis"
-    date: 2019-10-16
-    url: https://indico.cern.ch/event/833895/sessions/319481/
-    meetingurl: https://indico.cern.ch/event/833895
-    meeting: "PyHEP"
-    focus-area: as
-  - title: "Aligning the MATHUSLA Detector Test Stand with Tensor Flow"
-    date: 2019-11-07
-    url: https://indico.cern.ch/event/773049/contributions/3476185/
-    meetingurl: https://indico.cern.ch/event/773049/
-    meeting: "CHEP 2019"
-    focus-area: as
-  - title: "Using Analysis Declarative Languages for the HL-LHC"
-    date: 2019-11-05
-    url: https://indico.cern.ch/event/773049/contributions/3476174/
-    meetingurl: https://indico.cern.ch/event/773049/
-    meeting: "CHEP 2019"
-    focus-area: as
-  - title: "Analysis workflows"
-    date: 2019-11-02
-    url: https://indico.cern.ch/event/805983/contributions/3569725/
-    meetingurl: https://indico.cern.ch/event/805983/
-    meeting: "CHEP 2019"
-    focus-area: as
-  - title: "The IRIS-HEP Institute in the US"
-    date: 2019-11-20
-    url: https://indico.cern.ch/event/813325/contributions/3601405/
-    meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
-    meeting: "Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy Particle Physics (HEP)"
-    focus-area: management
-    location: Mexico City
-  - title: "Analysis Tools in the 2020's and 2030's"
-    date: 2019-11-21
-    url: https://indico.cern.ch/event/813325/contributions/3603496/
-    meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
-    meeting: "Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy Particle Physics (HEP)"
-    focus-area: as
-    location: Mexico City
-  - title: "S2I2: Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 2020-02-14
-    url: https://figshare.com/articles/Untitled_ItemS2I2_Institute_for_Research_and_Innovation_in_Software_for_High_Energy_Physics_IRIS-HEP_/11839302
-    meetingurl: https://cssi-pi-community.github.io/2020-meeting/#talks
-    meeting: "2020 NSF CSSI PI MEETING"
-    focus-area: management
-    location: Seattle, WA
-  - title: "IRIS-HEP: The Year 3 Program"
-    date: 2020-04-30
-    url: https://indico.cern.ch/event/914348/contributions/3844844/attachments/2030393/3398156/2020-04-30_-_CMS_PET_Meeting.pdf
-    meetingurl: https://indico.cern.ch/event/914348/
-    meeting: "US CMS IRIS-HEP Year 3 Program"
-    focus-area: management
-    location: Virtual
-  - title: "hep_tables: An Introduction"
-    date: 2020-05-08
-    url: https://zenodo.org/record/3818031#.XrXbwjiSn-g
-    meetingurl: https://indico.cern.ch/event/917018/
-    meeting: "Coffea Developers Meeting"
-    focus-area: as
-    location: Virtual
-  - title: "Parallel Sessions: Plans and Goals"
-    date: 2020-05-26
-    url: https://indico.cern.ch/event/896167/contributions/3870080/
-    meetingurl: https://indico.cern.ch/event/896167/
-    meeting: "IRIS-HEP Team Retreat"
-    focus-area: management
-    location: Virtual
-  - title: "ServiceX Front End Status"
-    date: 2020-10-02
-    url: https://indico.cern.ch/event/961949/contributions/4048043/
-    meetingurl: https://indico.cern.ch/event/961949
-    meeting: "ServiceX Meeting"
-    focus-area: as
-    location: Virtual
-  - title: "ServiceX Front End Status"
-    date: 2020-10-16
-    url: https://indico.cern.ch/event/967053/contributions/4070082
-    meetingurl: https://indico.cern.ch/event/967053
-    meeting: "ServiceX Meeting"
-    focus-area: as
-    location: Virtual
-  - title: "An Integrated Data Query Pipeline: HEPTables"
-    date: 2020-10-26
-    url: https://indico.cern.ch/event/960587/contributions/4077336/
-    meetingurl: https://indico.cern.ch/event/960587
-    meeting: "IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop"
-    focus-area: as
-    location: Virtual
-  - title: "Analysis tools and infrastructure"
-    date: 2020-10-27
-    url: https://indico.ihep.ac.cn/event/11444/session/12/contribution/174
-    meetingurl: https://indico.ihep.ac.cn/event/11444
-    meeting: "The 2020 International Workshop on the High Energy Circular Electron Positron Collider"
-    focus-area: management
-    location: Virtual
-  - title: "IRIS-HEP: Analysis in the HL-LHC Era"
-    date: 2020-12-15
-    url: https://indico.cern.ch/event/975046/contributions/4115843
-    meetingurl: https://indico.cern.ch/event/975046
-    meeting: "WFM SW Technical Interchange Meeting"
-    focus-area: as
-    location: Virtual
-  - title: "Using Modern Computing to Get the Most out of the LHC"
-    date: 2021-02-18
-    url: https://indico.cern.ch/event/1010438/
-    meetingurl: https://indico.cern.ch/event/1010438/
-    meeting: "UW EPE Seminar"
-    focus-area: management
-    location: "University of Washington"
-  - title: "Computing in HEP for the HL-LHC"
-    date: 2021-02-25
-    url: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
-    meetingurl: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
-    meeting: "University of California, Santa Cruz, Physics Department Colloquia"
-    focus-area: management
-    location: "University of California, Santa Cruz"
-  - title: "IRIS-HEP and ATLAS Analysis Software"
-    date: 2021-04-09
-    url: https://zenodo.org/record/4678961#.YHJMhCRlD-g
-    meetingurl: https://indico.cern.ch/event/1012997/
-    meeting: "ATLAS Analysis Model Group (AMG) Meeting"
-    focus-area: as
-    location: "CERN"
+- title: 'IRIS-HEP Steering Board Meeting #1'
+  date: 2019-02-06
+  url: https://indico.cern.ch/event/790759/contributions/3284632/attachments/1791853/2919742/2019-02-06_-_Steering_Board_Intro.pdf
+  meeting: IRIS-HEP Steering Board Meeting
+  meetingurl: https://indico.cern.ch/event/790759/
+  location: Vidyo
+  focus-area: core
+- title: LINQ To ROOT
+  date: 2019-02-13
+  url: https://indico.cern.ch/event/789007/contributions/3317126/attachments/1795120/2927037/2019-02-13_-_Analysis_Languages.pdf
+  meeting: 1st DAWG Technology and Innovation Survey (HSF)
+  meetingurl: https://indico.cern.ch/event/789007/
+  focus-area: as
+  project: func-adl
+- title: The C# LINQ Analysis Language
+  date: 2019-02-25
+  url: https://indico.cern.ch/event/799590/contributions/3322885/attachments/1801294/2938216/2019-02-25_-_The_C_LINQ_Analysis_Language.pdf
+  meeting: IRIS-HEP Topical Meeting on Analysis Description Languages
+  meetingurl: https://indico.cern.ch/event/799590/
+  location: Vidyo
+  focus-area: as
+  project: func-adl
+- title: 'Aligning the MATHUSA Test Stand Detector: Using Tensorflow'
+  date: 2019-03-11
+  url: https://indico.cern.ch/event/708041/contributions/3272137/attachments/1813161/2962373/2019-03-11_-_ACAT_TF_and_Alignment.pdf
+  meeting: ACAT 2019
+  meetingurl: https://indico.cern.ch/event/708041
+  focus-area: as
+  location: Sass-Fee, Switzerland
+- title: 'Beyond the Roadmap: HL-LHC HEP Software'
+  date: 2019-03-14
+  url: https://indico.cern.ch/event/708041/contributions/3308813/attachments/1811660
+  meeting: ACAT 2019
+  meetingurl: https://indico.cern.ch/event/708041
+  focus-area: core
+- title: IRIS-HEP and ATLAS
+  date: 2019-02-20
+  url: https://indico.cern.ch/event/799375/contributions/3321753/attachments/1799577/2934794/2019-02-20_-_US_ATLAS_IB_Meeting.pdf
+  meeting: US ATLAS IB Meeting
+  meetingurl: https://indico.cern.ch/event/799375/
+  focus-area: core
+- title: Thinking about Analysis Languages and Recent Progress
+  date: 2019-05-07
+  url: https://indico.cern.ch/event/769263/contributions/3406076/
+  meeting: Analysis Description Languages
+  meetingurl: https://indico.cern.ch/event/769263
+  focus-area: as
+  project: func-adl
+- title: Analysis in Run 4
+  date: 2019-06-27
+  url: https://indico.cern.ch/event/765245/contributions/3442554/
+  meeting: ATLAS Software and Computing Week
+  meetingurl: https://indico.cern.ch/event/765245
+  focus-area: as
+- title: Functional/Declarative Selection Languages
+  date: 2019-06-19
+  url: https://indico.cern.ch/event/822074/contributions/3471457/
+  meeting: Analysis Systems Topical Workshop
+  meetingurl: https://indico.cern.ch/event/822074/
+  focus-area: as
+  project: func-adl
+- title: IRIS-HEP View
+  date: 2019-07-22
+  url: https://indico.cern.ch/event/835581/contributions/3508561
+  meeting: Computing infrastructures for future data analysis
+  meetingurl: https://indico.cern.ch/event/835581
+  focus-area: core
+- title: func-adl to C++/xAOD backend
+  date: 2019-09-13
+  url: https://indico.cern.ch/event/840472/contributions/3563333/
+  meeting: IRIS-HEP Institute Retreat
+  meetingurl: https://indico.cern.ch/event/840472
+  focus-area: as
+  project: func-adl
+- title: Milestones - We don't need roads...
+  date: 2019-09-12
+  url: https://indico.cern.ch/event/840472/contributions/3561605/
+  meeting: IRIS-HEP Institute Retreat
+  meetingurl: https://indico.cern.ch/event/840472
+  focus-area: core
+- title: 'Declarative programming: A paradigm shift in data analysis in preparation
+    for the HL-LHC'
+  date: 2019-09-26
+  url: https://doi.org/10.5281/zenodo.3471337
+  meetingurl: https://escience2019.sdsc.edu/
+  meeting: eScience2019
+  focus-area: as
+  project: func-adl
+- title: Run 3/Run 4 Perspectives - Event Delivery Impacts?
+  date: 2019-09-30
+  url: https://indico.cern.ch/event/849155/contributions/3576913/
+  meetingurl: https://indico.cern.ch/event/849155/
+  meeting: HSF & ATLAS Joint Event Delivery Workshop
+  focus-area: as
+- title: 'Lightning Talk: A Living HEP Analysis'
+  date: 2019-10-16
+  url: https://indico.cern.ch/event/833895/sessions/319481/
+  meetingurl: https://indico.cern.ch/event/833895
+  meeting: PyHEP
+  focus-area: as
+  project: func-adl
+- title: Aligning the MATHUSLA Detector Test Stand with Tensor Flow
+  date: 2019-11-07
+  url: https://indico.cern.ch/event/773049/contributions/3476185/
+  meetingurl: https://indico.cern.ch/event/773049/
+  meeting: CHEP 2019
+  focus-area: as
+- title: Using Analysis Declarative Languages for the HL-LHC
+  date: 2019-11-05
+  url: https://indico.cern.ch/event/773049/contributions/3476174/
+  meetingurl: https://indico.cern.ch/event/773049/
+  meeting: CHEP 2019
+  focus-area: as
+  project: func-adl
+- title: Analysis workflows
+  date: 2019-11-02
+  url: https://indico.cern.ch/event/805983/contributions/3569725/
+  meetingurl: https://indico.cern.ch/event/805983/
+  meeting: CHEP 2019
+  focus-area: as
+- title: The IRIS-HEP Institute in the US
+  date: 2019-11-20
+  url: https://indico.cern.ch/event/813325/contributions/3601405/
+  meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
+  meeting: Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy
+    Particle Physics (HEP)
+  focus-area: core
+  location: Mexico City
+- title: Analysis Tools in the 2020's and 2030's
+  date: 2019-11-21
+  url: https://indico.cern.ch/event/813325/contributions/3603496/
+  meetingurl: https://indico.cern.ch/event/813325/sessions/330057/
+  meeting: Latin American Workshop on Software and Computing (S&C) Challenges in High-Energy
+    Particle Physics (HEP)
+  focus-area: as
+  location: Mexico City
+- title: 'S2I2: Institute for Research and Innovation in Software for High Energy
+    Physics (IRIS-HEP)'
+  date: 2020-02-14
+  url: https://figshare.com/articles/Untitled_ItemS2I2_Institute_for_Research_and_Innovation_in_Software_for_High_Energy_Physics_IRIS-HEP_/11839302
+  meetingurl: https://cssi-pi-community.github.io/2020-meeting/#talks
+  meeting: 2020 NSF CSSI PI MEETING
+  focus-area: core
+  location: Seattle, WA
+- title: 'IRIS-HEP: The Year 3 Program'
+  date: 2020-04-30
+  url: https://indico.cern.ch/event/914348/contributions/3844844/attachments/2030393/3398156/2020-04-30_-_CMS_PET_Meeting.pdf
+  meetingurl: https://indico.cern.ch/event/914348/
+  meeting: US CMS IRIS-HEP Year 3 Program
+  focus-area: core
+  location: Virtual
+- title: 'hep_tables: An Introduction'
+  date: 2020-05-08
+  url: https://zenodo.org/record/3818031#.XrXbwjiSn-g
+  meetingurl: https://indico.cern.ch/event/917018/
+  meeting: Coffea Developers Meeting
+  focus-area: as
+  project: hep-tables
+  location: Virtual
+- title: 'Parallel Sessions: Plans and Goals'
+  date: 2020-05-26
+  url: https://indico.cern.ch/event/896167/contributions/3870080/
+  meetingurl: https://indico.cern.ch/event/896167/
+  meeting: IRIS-HEP Team Retreat
+  focus-area:
+  - doma
+  - as
+  project: servicex
+  location: Virtual
+- title: ServiceX Front End Status
+  date: 2020-10-02
+  url: https://indico.cern.ch/event/961949/contributions/4048043/
+  meetingurl: https://indico.cern.ch/event/961949
+  meeting: ServiceX Meeting
+  focus-area:
+  - doma
+  - as
+  project: servicex
+  location: Virtual
+- title: ServiceX Front End Status
+  date: 2020-10-16
+  url: https://indico.cern.ch/event/967053/contributions/4070082
+  meetingurl: https://indico.cern.ch/event/967053
+  meeting: ServiceX Meeting
+  focus-area:
+  - doma
+  - as
+  project: servicex
+  location: Virtual
+- title: 'An Integrated Data Query Pipeline: HEPTables'
+  date: 2020-10-26
+  url: https://indico.cern.ch/event/960587/contributions/4077336/
+  meetingurl: https://indico.cern.ch/event/960587
+  meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+  focus-area: as
+  project: hep-tables
+  location: Virtual
+- title: Analysis tools and infrastructure
+  date: 2020-10-27
+  url: https://indico.ihep.ac.cn/event/11444/session/12/contribution/174
+  meetingurl: https://indico.ihep.ac.cn/event/11444
+  meeting: The 2020 International Workshop on the High Energy Circular Electron Positron
+    Collider
+  focus-area: core
+  location: Virtual
+- title: 'IRIS-HEP: Analysis in the HL-LHC Era'
+  date: 2020-12-15
+  url: https://indico.cern.ch/event/975046/contributions/4115843
+  meetingurl: https://indico.cern.ch/event/975046
+  meeting: WFM SW Technical Interchange Meeting
+  focus-area: as
+  location: Virtual
+- title: Using Modern Computing to Get the Most out of the LHC
+  date: 2021-02-18
+  url: https://indico.cern.ch/event/1010438/
+  meetingurl: https://indico.cern.ch/event/1010438/
+  meeting: UW EPE Seminar
+  focus-area: core
+  location: University of Washington
+- title: Computing in HEP for the HL-LHC
+  date: 2021-02-25
+  url: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
+  meetingurl: https://zenodo.org/record/4579182#.YD_sGn2Ib-g
+  meeting: University of California, Santa Cruz, Physics Department Colloquia
+  focus-area: core
+  location: University of California, Santa Cruz
+- title: IRIS-HEP and ATLAS Analysis Software
+  date: 2021-04-09
+  url: https://zenodo.org/record/4678961#.YHJMhCRlD-g
+  meetingurl: https://indico.cern.ch/event/1012997/
+  meeting: ATLAS Analysis Model Group (AMG) Meeting
+  focus-area: as
+  location: CERN

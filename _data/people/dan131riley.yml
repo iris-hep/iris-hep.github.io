@@ -1,57 +1,66 @@
+active: true
+focus-area:
+- ssc
+- ia
+institution: Cornell University
 name: Dan Riley
+photo: "/assets/images/team/Dan-Riley.JPG"
 shortname: dan131riley
 title:
-active: true
-institution: Cornell University
 website: https://github.com/dan131riley
-photo: /assets/images/team/Dan-Riley.JPG
 presentations:
-  - title: Use and Abuse of Random Numbers
-    date: 2019-07-24
-    url: https://indico.cern.ch/event/814979/contributions/3401176/attachments/1831472/3107702/RandomAbuse2019.pdf
-    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
-    meetingurl: https://indico.cern.ch/event/814979
-    location: Princeton University
-  - title: "mkFit update: strip tracker unpacking and clustering on CPU and GPU"
-    date: 2020-02-05
-    url: https://indico.cern.ch/event/879441/contributions/3724608/attachments/1982379/3301769/gpu-unpacking-2020-02-05.pdf
-    meeting: CMS Tracker DPG/Strip Calibration and Local Reconstruction Weekly Meeting
-    meetingurl: https://indico.cern.ch/event/879441/
-    location: CERN
-    focus-area: ia
-    project: mkfit
-  - title: "mkFit update: strip tracker unpacking and clustering on GPU"
-    date: 2020-04-28
-    url: https://indico.cern.ch/event/879448/contributions/3832308/attachments/2028104/3393518/gpu-unpacking-2020-04-28.pdf
-    meeting: CMS Tracker DPG - Tracking POG general Weekly Meeting
-    meetingurl: https://indico.cern.ch/event/879448/
-    focus-area: ia
-    project: mkfit
-  - title: "mkFit update: strip tracker unpacking and clustering on GPU"
-    date: 2020-05-05
-    url: https://indico.cern.ch/event/909499/contributions/3850945/attachments/2032289/3401593/gpu-unpacking-2020-05-05.pdf
-    meeting: CMS HLT Upgrade TSG Weekly Meeting
-    meetingurl: https://indico.cern.ch/event/909499/
-    focus-area: ia
-    project: mkfit
-  - title: "Local tracker reconstruction on accelerators"
-    date: 2020-06-09
-    url: https://indico.cern.ch/event/927203/contributions/3898325/attachments/2053965/3443446/gpu-tracking-2020-06-09.pdf
-    meeting: CMS Upgrade R&D/CMP Meeting
-    meetingurl: https://indico.cern.ch/event/927203/
-    focus-area: ia
-    project: mkFit
-  - title: "mkFit update: strip tracker unpacking and clustering on GPU "
-    date: 2020-08-05
-    url: https://indico.cern.ch/event/934806/contributions/3953697/attachments/2085045/3502700/gpu-unpacking-2020-08-05.pdf
-    meeting: CMS Strip Calibration and Local Reconstruction Meeting
-    meetingurl: https://indico.cern.ch/event/934806/?showDate=all&showSession=10
-    focus-area: ia
-    project: mkFit
-  - title: "Accelerated Strip Local reconstruction on GPUs"
-    date: 2020-12-15
-    url: https://indico.cern.ch/event/934829/contributions/4146378/attachments/2163083/3650192/gpu-unpacking-2020-12-15.pdf
-    meeting: CMS Tracker Detector Performance Group
-    meetingurl: https://indico.cern.ch/event/934829/?showDate=all&showSession=6
-    focus-area: ia
-    project: mkFit
+- title: Use and Abuse of Random Numbers
+  date: 2019-07-24
+  url: https://indico.cern.ch/event/814979/contributions/3401176/attachments/1831472/3107702/RandomAbuse2019.pdf
+  meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+  meetingurl: https://indico.cern.ch/event/814979
+  location: Princeton University
+  focus-area: ssc
+- title: 'mkFit update: strip tracker unpacking and clustering on CPU and GPU'
+  date: 2020-02-05
+  url: https://indico.cern.ch/event/879441/contributions/3724608/attachments/1982379/3301769/gpu-unpacking-2020-02-05.pdf
+  meeting: CMS Tracker DPG/Strip Calibration and Local Reconstruction Weekly Meeting
+  meetingurl: https://indico.cern.ch/event/879441/
+  location: CERN
+  focus-area: ia
+  project: mkfit
+- title: 'mkFit update: strip tracker unpacking and clustering on GPU'
+  date: 2020-04-28
+  url: https://indico.cern.ch/event/879448/contributions/3832308/attachments/2028104/3393518/gpu-unpacking-2020-04-28.pdf
+  meeting: CMS Tracker DPG - Tracking POG general Weekly Meeting
+  meetingurl: https://indico.cern.ch/event/879448/
+  location: Virtual
+  focus-area: ia
+  project: mkfit
+- title: 'mkFit update: strip tracker unpacking and clustering on GPU'
+  date: 2020-05-05
+  url: https://indico.cern.ch/event/909499/contributions/3850945/attachments/2032289/3401593/gpu-unpacking-2020-05-05.pdf
+  meeting: CMS HLT Upgrade TSG Weekly Meeting
+  meetingurl: https://indico.cern.ch/event/909499/
+  location: Virtual
+  focus-area: ia
+  project: mkfit
+- title: Local tracker reconstruction on accelerators
+  date: 2020-06-09
+  url: https://indico.cern.ch/event/927203/contributions/3898325/attachments/2053965/3443446/gpu-tracking-2020-06-09.pdf
+  meeting: CMS Upgrade R&D/CMP Meeting
+  meetingurl: https://indico.cern.ch/event/927203/
+  location: Virtual
+  focus-area: ia
+  project: mkfit
+- title: 'mkFit update: strip tracker unpacking and clustering on GPU '
+  date: 2020-08-05
+  url: https://indico.cern.ch/event/934806/contributions/3953697/attachments/2085045/3502700/gpu-unpacking-2020-08-05.pdf
+  meeting: CMS Strip Calibration and Local Reconstruction Meeting
+  meetingurl: https://indico.cern.ch/event/934806/?showDate=all&showSession=10
+  location: Virtual
+  focus-area: ia
+  project: mkfit
+- title: Accelerated Strip Local reconstruction on GPUs
+  date: 2020-12-15
+  url: https://indico.cern.ch/event/934829/contributions/4146378/attachments/2163083/3650192/gpu-unpacking-2020-12-15.pdf
+  meeting: CMS Tracker Detector Performance Group
+  meetingurl: https://indico.cern.ch/event/934829/?showDate=all&showSession=6
+  location: Virtual
+  focus-area: ia
+  project: mkfit

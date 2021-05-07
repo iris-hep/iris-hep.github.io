@@ -1,93 +1,122 @@
+active: true
+e-mail: msn@illinois.edu
+focus-area:
+- as
+- ia
+- ssl
+- doma
+- ssc
+institution: University of Illinois at Urbana-Champaign
 name: Mark Neubauer
+photo: "/assets/images/team/Mark-Neubauer.png"
 shortname: msneubauer
 title: Blueprint Coordinator
-active: true
-institution: University of Illinois at Urbana-Champaign
 website: http://msneubauer.github.io
-photo: /assets/images/team/Mark-Neubauer.png
-e-mail: msn@illinois.edu
 presentations:
-  - title: Design Roadmap for Future Collaborations
-    date: 2018-10-19
-    url: http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST/agenda.html
-    meeting: Deep Learning for Multimessenger Astrophysics Real-time Discovery at Scale
-    meetingurl: http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST
-    location: NCSA
-    focus-area: as, ia
-  - title: Scalable Cyberinfrastructure for Artificial Intelligence and Likelihood-Free Inference
-    date: 2019-04-05
-    url: http://www.largefacilitiesworkshop.com/agenda-3/
-    meeting: NSF Large Facilities Workshop
-    meetingurl: https://www.largefacilitiesworkshop.com/19workshop/
-    location: TACC
-    focus-area: as, ia
-  - title: Deep Learning for Higgs Boson Identification and Searches for New Physics at the Large Hadron Collider
-    date: 2019-06-04
-    url: http://bluewaterssymposium2019.sched.com/event/NRlw/physics-mark-neubauer-university-of-illinois-at-urbana-champaign-deep-learning-for-higgs-boson-identification-and-searches-for-new-physics-at-the-large-hadron-collider
-    meeting: Blue Waters Symposium for Petascale Science and Beyond
-    meetingurl: https://bluewaters.ncsa.illinois.edu/blue-waters-symposium-2019
-    location: Sunriver, OR
-    focus-area: as, ia
-  - title: IRIS-HEP Blueprint Concepts and Process
-    date: 2019-06-21
-    url: https://indico.cern.ch/event/820946/contributions/3461588/attachments/1866577/3069573/IRIS-HEP_BluePrint_AS_SSL.pdf
-    meeting: Blueprint Meeting on Analysis Systems on Scalable Platforms
-    meetingurl: https://indico.cern.ch/event/820946/
-    location: NYU
-    focus-area: as, ssl
-  - title: The IRIS-HEP Blueprint Concepts and Process
-    date: 2019-09-10
-    url: https://indico.cern.ch/event/822126/contributions/3500165/attachments/1905471/3146855/IRIS-HEP_BluePrint_FML.pdf
-    meeting: Blueprint Meeting on Fast Machine Learning and Inference
-    meetingurl: https://indico.cern.ch/event/822126/
-    location: FNAL
-    focus-area: as
-  - title: Artifical Intelligence for High-Energy Physics
-    date: 2020-03-05
-    url: https://www.jlab.org/indico/event/357/contribution/21/material/slides/0.pdf
-    meeting: Artificial Intelligence for Nuclear Physics Workshop
-    meetingurl: https://www.jlab.org/indico/event/357/
-    location: Jefferson Laboratory
-    focus-area: as, ia
-  - title: "Future Blueprint Topics: Year 3 Plans, 4 and 5 Year Thoughts"
-    date: 2020-05-29
-    url: https://indico.cern.ch/event/896167/contributions/3876784/attachments/2047955/3431686/IRIS-HEP_Retreat_Blueprint.pdf
-    meeting: IRIS-HEP Team Retreat
-    meetingurl: https://indico.cern.ch/event/896167/
-    location: Virtual
-    focus-area: as, ia, doma
-  - title: The IRIS-HEP Blueprint Process
-    date: 2020-07-22
-    url: https://indico.cern.ch/event/930127/contributions/3914364/attachments/2077932/3489689/Blueprint_Intro_SustainableSoftware.pdf
-    meeting: Sustainable Software in HEP Blueprint Workshop
-    meetingurl: https://indico.cern.ch/event/930127/
-    location: Virtual
-    focus-area: ssc
-  - title: Particle Physics and Machine Learning in Education
-    date: 2020-08-11
-    url: https://indico.fnal.gov/event/43829/contributions/193606/attachments/132815/163444/Snomass_Comp_msn.pdf
-    meeting: Snowmass Computational Frontier Workshop
-    meetingurl: https://indico.fnal.gov/event/43829/
-    location: Virtual
-    focus-area: ia, ssc
-  - title: Welcome, IRIS-HEP Blueprint Activity and Workshop Overview
-    date: 2020-10-26
-    url: https://indico.cern.ch/event/960587/contributions/4070316/attachments/2129580/3586070/Blueprint_Intro_ASAF.pdf
-    meeting: Future Analysis Systems and Facilities Blueprint Workshop
-    meetingurl: https://indico.cern.ch/event/960587/
-    location: Virtual
-    focus-area: as, doma
-  - title: Workshop Overview and Goals
-    date: 2020-12-04
-    url: https://indico.cern.ch/event/972791/contributions/4121084
-    meeting: Mini-Workshop on Portable Inference
-    meetingurl: https://indico.cern.ch/event/972791
-    location: Virtual
-    focus-area: as, ia
-  - title: Summary of Future Analysis Systems and Facilities Workshop
-    date: 2020-12-15
-    url: https://indico.cern.ch/event/972791/contributions/4121084
-    meeting: Workflow Management System Software Technical Interchange Meeting
-    meetingurl: https://indico.cern.ch/event/975046
-    location: Virtual
-    focus-area: as, doma
+- title: Design Roadmap for Future Collaborations
+  date: 2018-10-19
+  url: http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST/agenda.html
+  meeting: Deep Learning for Multimessenger Astrophysics Real-time Discovery at Scale
+  meetingurl: http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST
+  location: NCSA
+  focus-area:
+  - as
+  - ia
+- title: Scalable Cyberinfrastructure for Artificial Intelligence and Likelihood-Free
+    Inference
+  date: 2019-04-05
+  url: http://www.largefacilitiesworkshop.com/agenda-3/
+  meeting: NSF Large Facilities Workshop
+  meetingurl: https://www.largefacilitiesworkshop.com/19workshop/
+  location: TACC
+  focus-area:
+  - as
+  - ia
+- title: Deep Learning for Higgs Boson Identification and Searches for New Physics
+    at the Large Hadron Collider
+  date: 2019-06-04
+  url: http://bluewaterssymposium2019.sched.com/event/NRlw/physics-mark-neubauer-university-of-illinois-at-urbana-champaign-deep-learning-for-higgs-boson-identification-and-searches-for-new-physics-at-the-large-hadron-collider
+  meeting: Blue Waters Symposium for Petascale Science and Beyond
+  meetingurl: https://bluewaters.ncsa.illinois.edu/blue-waters-symposium-2019
+  location: Sunriver, OR
+  focus-area:
+  - as
+  - ia
+- title: IRIS-HEP Blueprint Concepts and Process
+  date: 2019-06-21
+  url: https://indico.cern.ch/event/820946/contributions/3461588/attachments/1866577/3069573/IRIS-HEP_BluePrint_AS_SSL.pdf
+  meeting: Blueprint Meeting on Analysis Systems on Scalable Platforms
+  meetingurl: https://indico.cern.ch/event/820946/
+  location: NYU
+  focus-area:
+  - as
+  - ssl
+- title: The IRIS-HEP Blueprint Concepts and Process
+  date: 2019-09-10
+  url: https://indico.cern.ch/event/822126/contributions/3500165/attachments/1905471/3146855/IRIS-HEP_BluePrint_FML.pdf
+  meeting: Blueprint Meeting on Fast Machine Learning and Inference
+  meetingurl: https://indico.cern.ch/event/822126/
+  location: FNAL
+  focus-area: as
+- title: Artifical Intelligence for High-Energy Physics
+  date: 2020-03-05
+  url: https://www.jlab.org/indico/event/357/contribution/21/material/slides/0.pdf
+  meeting: Artificial Intelligence for Nuclear Physics Workshop
+  meetingurl: https://www.jlab.org/indico/event/357/
+  location: Jefferson Laboratory
+  focus-area:
+  - as
+  - ia
+- title: 'Future Blueprint Topics: Year 3 Plans, 4 and 5 Year Thoughts'
+  date: 2020-05-29
+  url: https://indico.cern.ch/event/896167/contributions/3876784/attachments/2047955/3431686/IRIS-HEP_Retreat_Blueprint.pdf
+  meeting: IRIS-HEP Team Retreat
+  meetingurl: https://indico.cern.ch/event/896167/
+  location: Virtual
+  focus-area:
+  - as
+  - ia
+  - doma
+- title: The IRIS-HEP Blueprint Process
+  date: 2020-07-22
+  url: https://indico.cern.ch/event/930127/contributions/3914364/attachments/2077932/3489689/Blueprint_Intro_SustainableSoftware.pdf
+  meeting: Sustainable Software in HEP Blueprint Workshop
+  meetingurl: https://indico.cern.ch/event/930127/
+  location: Virtual
+  focus-area: ssc
+- title: Particle Physics and Machine Learning in Education
+  date: 2020-08-11
+  url: https://indico.fnal.gov/event/43829/contributions/193606/attachments/132815/163444/Snomass_Comp_msn.pdf
+  meeting: Snowmass Computational Frontier Workshop
+  meetingurl: https://indico.fnal.gov/event/43829/
+  location: Virtual
+  focus-area:
+  - ia
+  - ssc
+- title: Welcome, IRIS-HEP Blueprint Activity and Workshop Overview
+  date: 2020-10-26
+  url: https://indico.cern.ch/event/960587/contributions/4070316/attachments/2129580/3586070/Blueprint_Intro_ASAF.pdf
+  meeting: Future Analysis Systems and Facilities Blueprint Workshop
+  meetingurl: https://indico.cern.ch/event/960587/
+  location: Virtual
+  focus-area:
+  - as
+  - doma
+- title: Workshop Overview and Goals
+  date: 2020-12-04
+  url: https://indico.cern.ch/event/972791/contributions/4121084
+  meeting: Mini-Workshop on Portable Inference
+  meetingurl: https://indico.cern.ch/event/972791
+  location: Virtual
+  focus-area:
+  - as
+  - ia
+- title: Summary of Future Analysis Systems and Facilities Workshop
+  date: 2020-12-15
+  url: https://indico.cern.ch/event/972791/contributions/4121084
+  meeting: Workflow Management System Software Technical Interchange Meeting
+  meetingurl: https://indico.cern.ch/event/975046
+  location: Virtual
+  focus-area:
+  - as
+  - doma

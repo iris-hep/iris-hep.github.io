@@ -1,80 +1,83 @@
+active: true
+e-mail: alexander.held@cern.ch
+focus-area:
+- as
+institution: New York University
 name: Alexander Held
+photo: "/assets/images/team/alexander-held.jpeg"
 shortname: alexander-held
 title: Postdoctoral researcher
-active: true
-institution: New York University
-website:  https://github.com/alexander-held
-photo: /assets/images/team/alexander-held.jpeg
-e-mail: alexander.held@cern.ch
+website: https://github.com/alexander-held
 presentations:
-  - title: "Template Fits: HistFitter / TRExFitter"
-    date: 2019-06-19
-    url: https://indico.cern.ch/event/822074/contributions/3471458/
-    meeting: Analysis Systems Topical Meeting
-    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
-    location: NYU
-    focus-area: as
-    project: cabinetry
-  - title: "Harmonizing statistics tools - ideas"
-    date: 2019-10-29
-    url: https://indico.cern.ch/event/859742/contributions/3620507/
-    meeting: ATLAS Statistics Committee Meeting
-    meetingurl: https://indico.cern.ch/event/859742/
-    location: CERN
-    focus-area: as
-    project: cabinetry
-  - title: "Constraining effective field theories with machine learning"
-    date: 2019-11-07
-    url: https://indico.cern.ch/event/773049/contributions/3476179/
-    meeting: 24th International Conference on Computing in High Energy & Nuclear Physics
-    meetingurl: https://indico.cern.ch/event/773049/
-    location: Adelaide, Australia
-    focus-area: as
-    project: madminer
-  - title: "Rethinking final analysis stages (poster)"
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/894127/attachments/1996570/3331188/18_-_AS_Final_analysis_stages.pdf
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/
-    location: Princeton, USA
-    focus-area: as
-    project: cabinetry
-  - title: "pyhf and thoughts about analysis workflow"
-    date: 2020-03-12
-    url: https://indico.cern.ch/event/897232/contributions/3784156/
-    meeting: ATLAS Statistics Committee Meeting
-    meetingurl: https://indico.cern.ch/event/897232/
-    location: CERN
-    focus-area: as
-    project: cabinetry
-  - title: "Cabinetry introduction"
-    date: 2020-05-27
-    url: https://indico.cern.ch/event/896167/contributions/3880230/
-    meeting: 2020 IRIS-HEP Team Retreat
-    meetingurl: https://indico.cern.ch/event/896167/
-    location: (Virtual)
-    focus-area: as
-    project: cabinetry
-  - title: "Differentiable physics analyses"
-    date: 2020-08-11
-    url: https://indico.fnal.gov/event/43829/contributions/193761/
-    meeting: Snowmass Computational Frontier Workshop
-    meetingurl: https://indico.fnal.gov/event/43829/
-    location: (Virtual)
-    focus-area: as
-  - title: "Template-based Fitting: cabinetry"
-    date: 2020-10-26
-    url: https://indico.cern.ch/event/960587/contributions/4070322/
-    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
-    meetingurl: https://indico.cern.ch/event/960587/
-    location: (Virtual)
-    focus-area: as
-    project: cabinetry
-  - title: "The cabinetry library"
-    date: 2021-02-25
-    url: https://indico.cern.ch/event/1005890/contributions/4222699/
-    meeting: ATLAS Statistics Forum Meeting
-    meetingurl: https://indico.cern.ch/event/1005890/
-    location: (Virtual)
-    focus-area: as
-    project: cabinetry
+- title: 'Template Fits: HistFitter / TRExFitter'
+  date: 2019-06-19
+  url: https://indico.cern.ch/event/822074/contributions/3471458/
+  meeting: Analysis Systems Topical Meeting
+  meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+  location: NYU
+  focus-area: as
+  project: cabinetry
+- title: Harmonizing statistics tools - ideas
+  date: 2019-10-29
+  url: https://indico.cern.ch/event/859742/contributions/3620507/
+  meeting: ATLAS Statistics Committee Meeting
+  meetingurl: https://indico.cern.ch/event/859742/
+  location: CERN
+  focus-area: as
+  project: cabinetry
+- title: Constraining effective field theories with machine learning
+  date: 2019-11-07
+  url: https://indico.cern.ch/event/773049/contributions/3476179/
+  meeting: 24th International Conference on Computing in High Energy & Nuclear Physics
+  meetingurl: https://indico.cern.ch/event/773049/
+  location: Adelaide, Australia
+  focus-area: as
+  project: madminer
+- title: Rethinking final analysis stages (poster)
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331188/18_-_AS_Final_analysis_stages.pdf
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton, USA
+  focus-area: as
+  project: cabinetry
+- title: pyhf and thoughts about analysis workflow
+  date: 2020-03-12
+  url: https://indico.cern.ch/event/897232/contributions/3784156/
+  meeting: ATLAS Statistics Committee Meeting
+  meetingurl: https://indico.cern.ch/event/897232/
+  location: CERN
+  focus-area: as
+  project: cabinetry
+- title: Cabinetry introduction
+  date: 2020-05-27
+  url: https://indico.cern.ch/event/896167/contributions/3880230/
+  meeting: 2020 IRIS-HEP Team Retreat
+  meetingurl: https://indico.cern.ch/event/896167/
+  location: "(Virtual)"
+  focus-area: as
+  project: cabinetry
+- title: Differentiable physics analyses
+  date: 2020-08-11
+  url: https://indico.fnal.gov/event/43829/contributions/193761/
+  meeting: Snowmass Computational Frontier Workshop
+  meetingurl: https://indico.fnal.gov/event/43829/
+  location: "(Virtual)"
+  focus-area: as
+  project:
+- title: 'Template-based Fitting: cabinetry'
+  date: 2020-10-26
+  url: https://indico.cern.ch/event/960587/contributions/4070322/
+  meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+  meetingurl: https://indico.cern.ch/event/960587/
+  location: "(Virtual)"
+  focus-area: as
+  project: cabinetry
+- title: The cabinetry library
+  date: 2021-02-25
+  url: https://indico.cern.ch/event/1005890/contributions/4222699/
+  meeting: ATLAS Statistics Forum Meeting
+  meetingurl: https://indico.cern.ch/event/1005890/
+  location: "(Virtual)"
+  focus-area: as
+  project: cabinetry

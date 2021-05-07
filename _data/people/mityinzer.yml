@@ -1,8 +1,11 @@
+active: true
+focus-area:
+- ia
+- as
+institution: Massachusetts Institute of Technology
 name: Mike Williams
+photo: "/assets/images/team/Mike-Williams.jpg"
 shortname: mityinzer
 title:
-active: true
-institution: Massachusetts Institute of Technology
 website: http://web.mit.edu/physics/people/faculty/williams_mike.html
-photo: /assets/images/team/Mike-Williams.jpg
 presentations:

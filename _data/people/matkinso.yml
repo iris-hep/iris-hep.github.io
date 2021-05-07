@@ -1,64 +1,66 @@
+active: true
+focus-area:
+- ia
+institution: University of Illinois at Urbana-Champaign
 name: Markus Atkinson
+photo: "/assets/images/team/Markus-Atkinson.png"
 shortname: matkinso
 title:
-active: true
-institution: University of Illinois at Urbana-Champaign
 website:
-photo: /assets/images/team/Markus-Atkinson.png
 presentations:
-  - title: "Introduction and Plans"
-    date: 2019-09-12
-    url: https://indico.cern.ch/event/840472/contributions/3563439/attachments/1907817/3151491/Introduction_and_Plan.pdf
-    meeting: IRIS-HEP Institute Retreat
-    meetingurl: https://indico.cern.ch/event/840472/overview
-    location: FNAL
-    focus-area: ia
-  - title: "FPGA ML inference as a service on AWS"
-    date: 2019-10-19
-    url: https://indico.cern.ch/event/858899/contributions/3619146/attachments/1933518/3203232/AWS_talk.pdf
-    meeting: FastML Co-processors Meeting
-    meetingurl: https://indico.cern.ch/event/858899/
-    location: Vidyo
-    focus-area: ia
-  - title: "GNN Tracking and FPGA Acceleration (poster)"
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/894127/attachments/1996570/3331186/16%20-%20IRIS-HEP-poster-GNNTrackingFPGA.pdf
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/
-    location: Princeton, USA
-    focus-area: ia
-  - title: "Pixel Detector Tracklet Finding"
-    date: 2020-05-04
-    url: https://exatrkx.github.io
-    meeting: Exa.Trkx Weekly Meeting
-    meetingurl: https://exatrkx.github.io
-    location: Virtual
-    focus-area: ia
-  - title: "Graph Neural Network Tracking using the Endcaps"
-    date: 2020-05-18
-    url: https://exatrkx.github.io
-    meeting: Exa.Trkx Weekly Meeting
-    meetingurl: https://exatrkx.github.io
-    location: Virtual
-    focus-area: ia
-  - title: "Graph Neural Networks Architectures"
-    date: 2020-10-21
-    url: https://indico.cern.ch/event/955026/contributions/4012924/attachments/2127589/3582355/IRIS-Topical_GNN_Tracking.pdf
-    meeting: IRIS-HEP Topical Meeting
-    meetingurl: https://indico.cern.ch/event/955026/
-    location: Virtual
-    focus-area: ia
-  - title: "Graph Neural Networks Architectures"
-    date: 2020-10-23
-    url: https://indico.cern.ch/event/968452/contributions/4078571/attachments/2129154/3585214/IRIS-Topical%20GNN%20Tracking.pdf
-    meeting: FastML Co-processors Meeting
-    meetingurl: https://indico.cern.ch/event/968452/
-    location: Virtual
-    focus-area: ia
-  - title: "Hough Transforms and GNN"
-    date: 2020-11-30
-    url: https://indico.cern.ch/event/977132/contributions/4115380/attachments/2146099/3631008/GNN%20Hough.pdf
-    meeting: Exa.Trkx Weekly Meeting
-    meetingurl: https://exatrkx.github.io
-    location: Virtual
-    focus-area: ia
+- title: Introduction and Plans
+  date: 2019-09-12
+  url: https://indico.cern.ch/event/840472/contributions/3563439/attachments/1907817/3151491/Introduction_and_Plan.pdf
+  meeting: IRIS-HEP Institute Retreat
+  meetingurl: https://indico.cern.ch/event/840472/overview
+  location: FNAL
+  focus-area: ia
+- title: FPGA ML inference as a service on AWS
+  date: 2019-10-19
+  url: https://indico.cern.ch/event/858899/contributions/3619146/attachments/1933518/3203232/AWS_talk.pdf
+  meeting: FastML Co-processors Meeting
+  meetingurl: https://indico.cern.ch/event/858899/
+  location: Vidyo
+  focus-area: ia
+- title: GNN Tracking and FPGA Acceleration (poster)
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331186/16%20-%20IRIS-HEP-poster-GNNTrackingFPGA.pdf
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton, USA
+  focus-area: ia
+- title: Pixel Detector Tracklet Finding
+  date: 2020-05-04
+  url: https://exatrkx.github.io
+  meeting: Exa.Trkx Weekly Meeting
+  meetingurl: https://exatrkx.github.io
+  location: Virtual
+  focus-area: ia
+- title: Graph Neural Network Tracking using the Endcaps
+  date: 2020-05-18
+  url: https://exatrkx.github.io
+  meeting: Exa.Trkx Weekly Meeting
+  meetingurl: https://exatrkx.github.io
+  location: Virtual
+  focus-area: ia
+- title: Graph Neural Networks Architectures
+  date: 2020-10-21
+  url: https://indico.cern.ch/event/955026/contributions/4012924/attachments/2127589/3582355/IRIS-Topical_GNN_Tracking.pdf
+  meeting: IRIS-HEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/955026/
+  location: Virtual
+  focus-area: ia
+- title: Graph Neural Networks Architectures
+  date: 2020-10-23
+  url: https://indico.cern.ch/event/968452/contributions/4078571/attachments/2129154/3585214/IRIS-Topical%20GNN%20Tracking.pdf
+  meeting: FastML Co-processors Meeting
+  meetingurl: https://indico.cern.ch/event/968452/
+  location: Virtual
+  focus-area: ia
+- title: Hough Transforms and GNN
+  date: 2020-11-30
+  url: https://indico.cern.ch/event/977132/contributions/4115380/attachments/2146099/3631008/GNN%20Hough.pdf
+  meeting: Exa.Trkx Weekly Meeting
+  meetingurl: https://exatrkx.github.io
+  location: Virtual
+  focus-area: ia

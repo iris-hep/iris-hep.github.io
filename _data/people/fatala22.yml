@@ -1,88 +1,100 @@
+active: true
+focus-area:
+- ssc
+institution: University of Puerto Rico at Mayaguez
 name: Sudhir Malik
+photo: "/assets/images/team/Sudhir-Malik.png"
 shortname: fatala22
 title: Training, Education and Outreach Coordinator
-active: true
-institution: University of Puerto Rico at Mayaguez
 website: http://charma.uprm.edu/~malik/
-photo: /assets/images/team/Sudhir-Malik.png
 presentations:
-  - title: "HSF: Training"
-    date: 2021-01-12
-    url: https://indico.jlab.org/event/420/contributions/7597/attachments/6352/8417/HSF_Training_SoftCompRoundTable_12Jan_2021.pdf
-    meeting: Software & Computing Round Table (2021) - Nuclear Physics
-    meetingurl: https://indico.jlab.org/event/420/
-  - title: "Strategies and needs for training"
-    date: 2019-11-21
-    url: https://indico.cern.ch/event/813325/contributions/3603530/attachments/1949453/3235462/Training_FIRST-LAWSCEHP2019_Mexico.pdf
-    meeting: Latin American Workshop on Software and Computing challenges in High-Energy Particle Physics (LAWSCHEP 2019)
-    meetingurl: https://indico.cern.ch/event/813325/
-  - title: "Training WG update"
-    date: 2018-07-11
-    url: https://indico.cern.ch/event/785587/contributions/3266731/attachments/1776030/3097240/HSF_TEO_WG_update_11July_2019-2.pdf
-    meeting: HEP Software Foundation Weekly Meeting
-    meetingurl: https://indico.cern.ch/event/785587/
-    focus-area: ssc
-  - title: "Training and Outreach"
-    date: 2018-10-31
-    url: https://indico.cern.ch/event/755573/contributions/3175492/attachments/1745033/2827577/TEO_IRIS_HEP_KickOff_31Oct2018.pdf
-    meeting: IRIS-HEP Kickoff Workshop
-    meetingurl: https://indico.cern.ch/event/755573/
-    location: University of Chicago
-    focus-area: ssc
-  - title: "A Framework for Integrated Research Software Training in HEP"
-    date: 2018-12-11
-    url: https://indico.fnal.gov/event/18104/session/23/contribution/19/material/0/0.pdf
-    meeting: 2018 CPAD Instrumentation Frontier Workshop
-    meetingurl: https://indico.fnal.gov/event/18104/
-    focus-area: ssc
-  - title: "Training Activities - FIRST-HEP and IRIS-HEP"
-    date: 2019-02-04
-    url: https://indico.cern.ch/event/794278/contributions/3299576/attachments/1790342/2916570/IRIS_TopicalMeeting_TrainingforSoftwareCoDASHEP.pdf
-    meeting: IRIS-HEP Topical Meeting
-    meetingurl: https://indico.cern.ch/event/794278/
-    focus-area: ssc
-  - title: "IRIS-HEP Software Sustainability Core"
-    date: 2019-02-06
-    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271531/attachments/1791306/2919793/IRIS_steering_update_6Feb2019.pdf
-    meeting: IRIS-HEP Steering Board Meeting #1
-    meetingurl: https://indico.cern.ch/event/790759/
-    focus-area: ssc
-  - title: "FIRST-HEP Training Program"
-    date: 2019-03-21
-    url: https://indico.cern.ch/event/759388/contributions/3315849/attachments/1816168/2968373/FIRST-HEP-JLAB-HOW2019.pdf
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/overview
-    location: Jefferson Lab
-    focus-area: ssc
-  - title: "Training Working Group Update"
-    date: 2019-04-25
-    url: https://indico.cern.ch/event/785576/contributions/3266720/attachments/1776008/3004837/HSF_TEO_WG_update_25April2019.pdf
-    meeting: HEP Software Foundation Weekly Meeting
-    meetingurl: https://indico.cern.ch/event/785576/
-    focus-area: ssc
-  - title: "Training and Outreach"
-    date: 2019-05-20
-    url: https://indico.cern.ch/event/812745/contributions/3437349/attachments/1847280/3031287/IRIS-HEP_ExecBoard_SSC_20May2019.pdf
-    meeting: IRIS-HEP Executive Board Meeting
-    meetingurl: https://indico.cern.ch/event/812745/
-    focus-area: ssc
-  - title: "Software Sustainability Core"
-    date: 2019-09-03
-    url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/277985/attachments/1901696/3139916/IRIS-HEP_SteeringBoard_SSC_3Sep2019.pdf
-    meeting: IRIS-HEP Steering Board Meeting
-    meetingurl: https://indico.cern.ch/event/809178/
-    focus-area: ssc
-  - title: "SSC - News, Status, Plans"
-    date: 2019-09-13
-    url: https://indico.cern.ch/event/840472/contributions/3561673/attachments/1907927/3151527/IRIS-HEP_RetreatAdvisory_SSC_CloseOut_9to13Sep2019.pdf
-    meeting: IRIS-HEP Institute Retreat
-    meetingurl: https://indico.cern.ch/event/840472/
-    location: Fermilab
-    focus-area: ssc
-  - title: "IRIS-HEP area SSC"
-    date: 2019-09-13
-    url: https://indico.cern.ch/event/840472/contributions/3564743/attachments/1907744/3151135/IRIS-HEP_RetreatAdvisory_SSC_9to13Sep2019.pdf
-    meeting: IRIS-HEP Institute Retreat
-    meetingurl: https://indico.cern.ch/event/840472/
-    location: Fermilab
-    focus-area: ssc
+- title: IRIS-HEP Training Challenge
+  date: 2021-04-27
+  url: https://indico.cern.ch/event/957103/contributions/4330986/attachments/2234461/3787011/IRIS_HEP_Training_Plans2021.pdf
+  meeting: IRIS-HEP PI/EB Meeting
+  meetingurl: https://indico.cern.ch/event/957103/
+  focus-area: ssc
+  location: Virtual
+- title: 'HSF: Training'
+  date: 2021-01-12
+  url: https://indico.jlab.org/event/420/contributions/7597/attachments/6352/8417/HSF_Training_SoftCompRoundTable_12Jan_2021.pdf
+  meeting: Software & Computing Round Table (2021) - Nuclear Physics
+  meetingurl: https://indico.jlab.org/event/420/
+  focus-area: ssc
+- title: Strategies and needs for training
+  date: 2019-11-21
+  url: https://indico.cern.ch/event/813325/contributions/3603530/attachments/1949453/3235462/Training_FIRST-LAWSCEHP2019_Mexico.pdf
+  meeting: Latin American Workshop on Software and Computing challenges in High-Energy
+    Particle Physics (LAWSCHEP 2019)
+  meetingurl: https://indico.cern.ch/event/813325/
+  focus-area: ssc
+- title: Training WG update
+  date: 2018-07-11
+  url: https://indico.cern.ch/event/785587/contributions/3266731/attachments/1776030/3097240/HSF_TEO_WG_update_11July_2019-2.pdf
+  meeting: HEP Software Foundation Weekly Meeting
+  meetingurl: https://indico.cern.ch/event/785587/
+  focus-area: ssc
+- title: Training and Outreach
+  date: 2018-10-31
+  url: https://indico.cern.ch/event/755573/contributions/3175492/attachments/1745033/2827577/TEO_IRIS_HEP_KickOff_31Oct2018.pdf
+  meeting: IRIS-HEP Kickoff Workshop
+  meetingurl: https://indico.cern.ch/event/755573/
+  location: University of Chicago
+  focus-area: ssc
+- title: A Framework for Integrated Research Software Training in HEP
+  date: 2018-12-11
+  url: https://indico.fnal.gov/event/18104/session/23/contribution/19/material/0/0.pdf
+  meeting: 2018 CPAD Instrumentation Frontier Workshop
+  meetingurl: https://indico.fnal.gov/event/18104/
+  focus-area: ssc
+- title: Training Activities - FIRST-HEP and IRIS-HEP
+  date: 2019-02-04
+  url: https://indico.cern.ch/event/794278/contributions/3299576/attachments/1790342/2916570/IRIS_TopicalMeeting_TrainingforSoftwareCoDASHEP.pdf
+  meeting: IRIS-HEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/794278/
+  focus-area: ssc
+- title: IRIS-HEP Software Sustainability Core
+  date: 2019-02-06
+  url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271531/attachments/1791306/2919793/IRIS_steering_update_6Feb2019.pdf
+  meeting: IRIS-HEP Steering Board Meeting
+  meetingurl: https://indico.cern.ch/event/790759/
+  focus-area: ssc
+- title: FIRST-HEP Training Program
+  date: 2019-03-21
+  url: https://indico.cern.ch/event/759388/contributions/3315849/attachments/1816168/2968373/FIRST-HEP-JLAB-HOW2019.pdf
+  meeting: 2019 Joint HSF/OSG/WLCG Workshop
+  meetingurl: https://indico.cern.ch/event/759388/overview
+  location: Jefferson Lab
+  focus-area: ssc
+- title: Training Working Group Update
+  date: 2019-04-25
+  url: https://indico.cern.ch/event/785576/contributions/3266720/attachments/1776008/3004837/HSF_TEO_WG_update_25April2019.pdf
+  meeting: HEP Software Foundation Weekly Meeting
+  meetingurl: https://indico.cern.ch/event/785576/
+  focus-area: ssc
+- title: Training and Outreach
+  date: 2019-05-20
+  url: https://indico.cern.ch/event/812745/contributions/3437349/attachments/1847280/3031287/IRIS-HEP_ExecBoard_SSC_20May2019.pdf
+  meeting: IRIS-HEP Executive Board Meeting
+  meetingurl: https://indico.cern.ch/event/812745/
+  focus-area: ssc
+- title: Software Sustainability Core
+  date: 2019-09-03
+  url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/277985/attachments/1901696/3139916/IRIS-HEP_SteeringBoard_SSC_3Sep2019.pdf
+  meeting: IRIS-HEP Steering Board Meeting
+  meetingurl: https://indico.cern.ch/event/809178/
+  focus-area: ssc
+- title: SSC - News, Status, Plans
+  date: 2019-09-13
+  url: https://indico.cern.ch/event/840472/contributions/3561673/attachments/1907927/3151527/IRIS-HEP_RetreatAdvisory_SSC_CloseOut_9to13Sep2019.pdf
+  meeting: IRIS-HEP Institute Retreat
+  meetingurl: https://indico.cern.ch/event/840472/
+  location: Fermilab
+  focus-area: ssc
+- title: IRIS-HEP area SSC
+  date: 2019-09-13
+  url: https://indico.cern.ch/event/840472/contributions/3564743/attachments/1907744/3151135/IRIS-HEP_RetreatAdvisory_SSC_9to13Sep2019.pdf
+  meeting: IRIS-HEP Institute Retreat
+  meetingurl: https://indico.cern.ch/event/840472/
+  location: Fermilab
+  focus-area: ssc

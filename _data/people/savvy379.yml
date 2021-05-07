@@ -1,59 +1,67 @@
+active: true
+e-mail: sthais@princeton.edu
+focus-area:
+- ia
+- ssc
+institution: Princeton University
 name: Savannah Thais
+photo: "/assets/images/team/Savannah-Thais.jpg"
 shortname: savvy379
 title: Post-doctoral researcher
-active: true
-institution: Princeton University
 website:
-photo: /assets/images/team/Savannah-Thais.jpg
-e-mail: sthais@princeton.edu
 presentations:
-  - title: "Introduction and Plans"
-    date: 2019-09-12
-    url: https://indico.cern.ch/event/840472/contributions/3563440/attachments/1907910/3151492/iris_intro.pdf
-    meeting: IRIS-HEP Institute Retreat
-    location: Fermilab, Chicago IL
-    focus-area: ia
-  - title: "Semantic Segmentation for CMS Pixel Clustering"
-    date: 2019-10-16
-    url: https://indico.cern.ch/event/844493/contributions/3601262/attachments/1928404/3193177/uslua_2019.pdf
-    meeting: "US LHC Users' Association Meeting"
-    location: Rice University, Houston TX
-    focus-area: ia
-  - title: "Education and Engagement of ML Skills"
-    date : 2020-08-11
-    url: https://indico.fnal.gov/event/43829/contributions/192878/
-    meeting: Snowmass Computing Frontier Kickoff Meeting
-    location: Virtual
-    focus-area: ssc
-  - title: "Accelerated Pixed Detector Tracklet Finding with GNNs on FPGAS"
-    date: 2020-10-21
-    url: https://indico.cern.ch/event/852553/contributions/4058173/
-    meeting: 4th Annual Inter-Experiment Machine Learning Workshop
-    focus-area: ia
-  - title: "New Algorithms and Computing Architectures for Tracking"
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/855317/contributions/3671721/attachments/1992247/3328035/iris_18mo_review.pdf
-    meeting: IRIS-HEP 18 Month Review
-    focus-area: ia
-  - title: "GNNs for Tracking"
-    date: 2020-09-30
-    url: https://indico.cern.ch/event/952419/contributions/4041556/attachments/2112096/3553019/tracking_gnns_cmsml_09302020.pdf
-    meeting: CMS Machine Learning Forum
-    focus-area: ia
-  - title: "Big Data and Open Science to Fight COVID-19"
-    date: 2020-04-20
-    url: https://meetings.aps.org/Meeting/APR20/Session/Q08.3
-    meeting: APS April Meeting
-    focus-area: ssc
-  - title: "Machine Learning and Your Research"
-    date: 2020-10-20
-    url: https://researchcomputing.princeton.edu/events/machine-learning-your-research
-    meeting: Princeton Research Computing Training Series
-    focus-area: ssc
-  - title: Tracking with GNN
-    date: 2020-11-02
-    url: https://indico.cern.ch/event/963422/contributions/4074299/attachments/2134891/3595882/tracking_gnns_cmstrackingpog_10192020_NOONESHOT.pdf
-    meeting: CMS Tracking POG meeting (CMS internal)
-    meetingurl: https://indico.cern.ch/event/963422
-    focus-area: ia
-    project:
+- title: Introduction and Plans
+  date: 2019-09-12
+  url: https://indico.cern.ch/event/840472/contributions/3563440/attachments/1907910/3151492/iris_intro.pdf
+  meeting: IRIS-HEP Institute Retreat
+  location: Fermilab, Chicago IL
+  focus-area: ia
+  project: accel-gnn-tracking
+- title: Semantic Segmentation for CMS Pixel Clustering
+  date: 2019-10-16
+  url: https://indico.cern.ch/event/844493/contributions/3601262/attachments/1928404/3193177/uslua_2019.pdf
+  meeting: US LHC Users' Association Meeting
+  location: Rice University, Houston TX
+  focus-area: ia
+  project: accel-gnn-tracking
+- title: Education and Engagement of ML Skills
+  date: 2020-08-11
+  url: https://indico.fnal.gov/event/43829/contributions/192878/
+  meeting: Snowmass Computing Frontier Kickoff Meeting
+  location: Virtual
+  focus-area: ssc
+- title: Accelerated Pixed Detector Tracklet Finding with GNNs on FPGAS
+  date: 2020-10-21
+  url: https://indico.cern.ch/event/852553/contributions/4058173/
+  meeting: 4th Annual Inter-Experiment Machine Learning Workshop
+  focus-area: ia
+  project: accel-gnn-tracking
+- title: New Algorithms and Computing Architectures for Tracking
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/855317/contributions/3671721/attachments/1992247/3328035/iris_18mo_review.pdf
+  meeting: IRIS-HEP 18 Month Review
+  focus-area: ia
+  project: accel-gnn-tracking
+- title: GNNs for Tracking
+  date: 2020-09-30
+  url: https://indico.cern.ch/event/952419/contributions/4041556/attachments/2112096/3553019/tracking_gnns_cmsml_09302020.pdf
+  meeting: CMS Machine Learning Forum
+  focus-area: ia
+  project: accel-gnn-tracking
+- title: Big Data and Open Science to Fight COVID-19
+  date: 2020-04-20
+  url: https://meetings.aps.org/Meeting/APR20/Session/Q08.3
+  meeting: APS April Meeting
+  focus-area: ssc
+- title: Machine Learning and Your Research
+  date: 2020-10-20
+  url: https://researchcomputing.princeton.edu/events/machine-learning-your-research
+  meeting: Princeton Research Computing Training Series
+  focus-area: ssc
+- title: Tracking with GNN
+  date: 2020-11-02
+  url: https://indico.cern.ch/event/963422/contributions/4074299/attachments/2134891/3595882/tracking_gnns_cmstrackingpog_10192020_NOONESHOT.pdf
+  meeting: CMS Tracking POG meeting (CMS internal)
+  meetingurl: https://indico.cern.ch/event/963422
+  focus-area: ia
+  project: accel-gnn-tracking

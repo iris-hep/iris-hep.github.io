@@ -1,7 +1,7 @@
 title: "Sherpa performence study - Glibc"
 speaker: Rui Wang
-focus_areas:
-projects:
+focus-area:
+project:
 date: 2021-03-01
 startsec: 1927
 url: https://www.youtube.com/embed/gOVg4qvyw0w

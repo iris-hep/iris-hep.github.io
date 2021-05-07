@@ -1,8 +1,11 @@
+active: true
+focus-area:
+- doma
+- as
+institution: University of Nebraska - Lincoln
 name: Ken Bloom
+photo: "/assets/images/team/Ken-Bloom.jpg"
 shortname: kenbloom
 title:
-active: true
-institution: University of Nebraska - Lincoln
 website: https://www.unl.edu/physics/ken-bloom-bio
-photo: /assets/images/team/Ken-Bloom.jpg
 presentations:

@@ -1,51 +1,77 @@
+active: true
+focus-area:
+- osglhc
+- doma
+institution: University of Nebraska - Lincoln
 name: Derek Weitzel
+photo: "/assets/images/team/Derek-Weitzel.jpg"
 shortname: djw8605
 title:
-active: true
-institution: University of Nebraska - Lincoln
 website: https://derekweitzel.com
-photo: /assets/images/team/Derek-Weitzel.jpg
 presentations:
-  - title: "Moving science data: One CDN to rule them all"
-    date: 2021-03-03
-    url: https://indico.fnal.gov/event/47040/contributions/208458/attachments/140618/176779/StashCache-Weitzel-2021.pdf
-    meeting: OSG All Hands Meeting 2021
-    meetingurl: https://indico.fnal.gov/event/47040/
-    focus-area: [osglhc, doma]
-    project:
-  - title: "OSG's use of XCache"
-    date: 2020-04-23
-    url: https://docs.google.com/presentation/d/1gpd9UH7aYXFU09-ijT1BYQnAFHGCjtfZsvWV038poqM/edit?usp=sharing
-    meeting: XCache Meeting
-    meetingurl: https://indico.fnal.gov/event/24246/
-    focus-area: osglhc, doma
-  - title: "XRootD Validation Plan"
-    date: 2020-04-22
-    url: https://docs.google.com/presentation/d/1fa7ZmYSnfJ13Z3xjGS9XzPeD-o5w23wVSc00Ju7W1Hk/edit?usp=sharing
-    meeting: USCMS S&C Blueprint Meeting
-    meetingurl: https://indico.cern.ch/event/909034/
-    focus-area: osglhc, doma
-  - title: "OSG Accounting and Visualization"
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/894127/attachments/1996570/3331192/22_-_GRACC-IRIS-HEP-poster_-_v1.pdf
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/
-    focus-area: osglhc
-  - title: "OSG GRid ACCounting system::GRACC"
-    date: 2019-09-30
-    url: https://indico.fnal.gov/event/20809/session/6/contribution/4/material/slides/0.pdf
-    meeting: Elasticsearch Workshop @FNAL
-    meetingurl: https://indico.fnal.gov/event/20809/
-    focus-area: osglhc
-  - title: "StashCache: A Distributed Caching Federation for the Open Science Grid"
-    date: 2019-07-30
-    url: https://drive.google.com/file/d/1689yCyAdYI2jggzLXHNvE3h8qtYLk2-5/view?usp=sharing
-    meeting: Practice and Experience in Advanced Research Computing
-    meetingurl: https://www.pearc19.pearc.org/
-    focus-area: osglhc, doma
-  - title: "OSG Data Federation"
-    date: 2019-06-11
-    url: https://indico.cern.ch/event/727208/contributions/3444610/attachments/1860176/3057002/OSG-StashCache.pdf
-    meeting: XRootD Workshop at CC-IN2P3
-    meetingurl: https://indico.cern.ch/event/727208/overview
-    focus-area: osglhc, doma
+- title: 'Moving science data: One CDN to rule them all'
+  date: 2021-03-03
+  url: https://indico.fnal.gov/event/47040/contributions/208458/attachments/140618/176779/StashCache-Weitzel-2021.pdf
+  meeting: OSG All Hands Meeting 2021
+  meetingurl: https://indico.fnal.gov/event/47040/
+  focus-area:
+  - osglhc
+  - doma
+  project: osg-operations
+  location: Virtual
+- title: OSG's use of XCache
+  date: 2020-04-23
+  url: https://docs.google.com/presentation/d/1gpd9UH7aYXFU09-ijT1BYQnAFHGCjtfZsvWV038poqM/edit?usp=sharing
+  meeting: XCache Meeting
+  meetingurl: https://indico.fnal.gov/event/24246/
+  focus-area:
+  - osglhc
+  - doma
+  project: osg-operations
+  location: Virtual
+- title: XRootD Validation Plan
+  date: 2020-04-22
+  url: https://docs.google.com/presentation/d/1fa7ZmYSnfJ13Z3xjGS9XzPeD-o5w23wVSc00Ju7W1Hk/edit?usp=sharing
+  meeting: USCMS S&C Blueprint Meeting
+  meetingurl: https://indico.cern.ch/event/909034/
+  focus-area:
+  - osglhc
+  - doma
+  project: osg-operations
+  location: Virtual
+- title: OSG Accounting and Visualization
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331192/22_-_GRACC-IRIS-HEP-poster_-_v1.pdf
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  focus-area: osglhc
+  project: osg-operations
+  location: Princeton
+- title: OSG GRid ACCounting system::GRACC
+  date: 2019-09-30
+  url: https://indico.fnal.gov/event/20809/session/6/contribution/4/material/slides/0.pdf
+  meeting: Elasticsearch Workshop @FNAL
+  meetingurl: https://indico.fnal.gov/event/20809/
+  focus-area: osglhc
+  project: osg-operations
+  location: Virtual
+- title: 'StashCache: A Distributed Caching Federation for the Open Science Grid'
+  date: 2019-07-30
+  url: https://drive.google.com/file/d/1689yCyAdYI2jggzLXHNvE3h8qtYLk2-5/view?usp=sharing
+  meeting: Practice and Experience in Advanced Research Computing
+  meetingurl: https://www.pearc19.pearc.org/
+  focus-area:
+  - osglhc
+  - doma
+  project: osg-operations
+  location: Chicago, IL
+- title: OSG Data Federation
+  date: 2019-06-11
+  url: https://indico.cern.ch/event/727208/contributions/3444610/attachments/1860176/3057002/OSG-StashCache.pdf
+  meeting: XRootD Workshop at CC-IN2P3
+  meetingurl: https://indico.cern.ch/event/727208/overview
+  focus-area:
+  - osglhc
+  - doma
+  project: osg-operations
+  location: Virtual

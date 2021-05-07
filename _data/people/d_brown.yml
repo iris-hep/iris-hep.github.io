@@ -1,12 +1,13 @@
+about: HEP, Non-LHC representative. Mu2e, formerly BaBar, formerly Aleph, formerly
+  CDF Run1
+active: true
+hidden: true
+institution: Lawrence Berkeley National Laboratory
 name: Dave Brown
+photo: "/assets/images/team/Dave_Brown.jpg"
+role: Provide expertise and input from a    member of the HEP community with a non-LHC
+  point-of-view.
 shortname: d_brown
 title:
-active: true
-institution: Lawrence Berkeley National Laboratory
 website:
-photo: /assets/images/team/Dave_Brown.jpg
 presentations:
-about: HEP, Non-LHC representative. Mu2e, formerly BaBar, formerly Aleph, formerly CDF Run1
-role: Provide expertise and input from a    member of the HEP community with a non-LHC
- point-of-view.
-hidden: true
