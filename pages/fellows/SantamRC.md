@@ -27,13 +27,13 @@ mentors:
 
 proposal: /assets/pdf/Fellow-Santam-Roy-Choudhury-Proposal.pdf
 presentations:
-  - title: 
-    date: 
-    url: 
+  - title:
+    date:
+    url:
     meeting:
-    meetingurl: 
-    recordingurl: 
-    focus-area: 
+    meetingurl:
+    recordingurl:
+    focus-area:
 current_status: >
 
 ---
