@@ -11,7 +11,7 @@ dates:
   start: 2021-05-10
   end: 2021-05-10
 photo: /assets/images/team/Shravan-Chaudhari.jpg
-institution: Manipal Institute of Technology
+institution: Birla Institute of Technology and Science Pilani
 website:
 e-mail: f20170736@goa.bits-pilani.ac.in
 mentors:
