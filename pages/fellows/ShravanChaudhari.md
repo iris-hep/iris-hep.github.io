@@ -8,7 +8,7 @@ fellow-name: Shravan Chaudhari
 shortname: Shra1-25
 dates:
   start: 2021-05-10
-  end: 2021-05-10
+  end: 2021-08-10
 photo: /assets/images/team/Shravan-Chaudhari.jpg
 institution: Birla Institute of Technology and Science Pilani
 e-mail: f20170736@goa.bits-pilani.ac.in
