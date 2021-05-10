@@ -4,7 +4,7 @@ layout: project
 title: coffea-casa
 shortname: coffea-casa
 pagetype: project
-image: logos/Iris-hep-5-just-graphic.png
+image: logos/coffea-casa.png
 blurb: A Prototype of Analysis Facility
 focus-area:
  - doma
