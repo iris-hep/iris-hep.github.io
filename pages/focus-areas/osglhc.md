@@ -13,7 +13,7 @@ pagetype: focus-area
   The consortium coordinates human and computing resources from a wide range of funded projects towards the aforementioned goal.
   It is governed by the [OSG Council](https://opensciencegrid.org/council/),
   maintaining its [by-laws](https://opensciencegrid.org/council/documents/OSG-By-Laws-2020%20-%20v2.pdf),
-  and electing an [executive director](https://opensciencegrid.org/about/team.html) for 2 year renewable terms. 
+  and electing an [executive director](https://opensciencegrid.org/about/team.html) for 2 year renewable terms.
   The Executive Director works with an Executive Team to coordinate the program of work across funded projects.
 
   OSG-LHC contributes to the larger mission of the OSG Consortium
