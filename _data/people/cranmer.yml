@@ -510,3 +510,12 @@ presentations:
   meetingurl: https://indico.cern.ch/event/957103/
   location: "(Virtual)"
   focus-area: as
+- title: "Explorations at the Physics ∩ ML Interface"
+  date: 2021-05-05
+  url: https://www.youtube.com/watch?v=s5y-13elZrs
+  meeting: "Physics ∩ ML seminar series"
+  meetingurl: http://www.physicsmeetsml.org/posts/sem_2021_05_06/
+  location: (Virtual)
+  focus-area:
+  - as
+  - ia
