@@ -38,5 +38,5 @@ mentors:
 
 proposal: /assets/pdf/Fellow-Ali-Hariri-Proposal.pdf
 presentations:
-current_status: 
+current_status:
 ---
