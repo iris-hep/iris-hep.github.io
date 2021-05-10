@@ -10,6 +10,9 @@ focus-area: doma
 team:
  - bbockelm
  - wguan
+ - Tadashi Maeno
+ - Rui Zhang
+ - Tuan Minh Pham
 ---
 
 If HL-LHC is going to process exabytes of data, it needs data access systems
