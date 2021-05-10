@@ -54,6 +54,14 @@ module IrisHep
       input.select { |v| ensure_array(v[key]).to_set.intersect? values.to_set }
     end
 
+    # Sort "First ..., Last" by "last, first, ..."
+    def last_name_sort(input, key)
+      input.sort_by do |v|
+        vals = v[key].downcase.split
+        vals[-1..-1] + vals[0..-2]
+      end
+    end
+
     # Print to console
     def puts(input, msg = '')
       print "#{msg} #{input}\n"
