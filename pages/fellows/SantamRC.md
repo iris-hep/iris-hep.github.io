@@ -23,7 +23,7 @@ project_goal: >
     correct and good to work with.
 mentors:
   - Jim Pivarski (Princeton)
-  - Ianna Osborne (CERN)
+  - Ianna Osborne (Princeton)
 
 proposal: /assets/pdf/Fellow-Santam-Roy-Choudhury-Proposal.pdf
 presentations:
