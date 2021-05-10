@@ -7,8 +7,8 @@ fellow-name: Sammy Edwards
 title: Sammy Edwards - IRIS-HEP Fellow
 active: true
 dates:
- start: 05/24/2021
- end: 08/13/2021
+ start: 2021-05-24
+ end: 2021-08-13
 photo: /assets/images/team/Sammy-Edwards.jpg
 institution: University of Wisconsin - Platteville
 e-mail: sam@reddan.net
