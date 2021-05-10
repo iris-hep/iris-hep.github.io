@@ -12,9 +12,9 @@ focus-area:
 team:
  - oshadura
  - kenbloom
- - bbockelm
  - Garhan Attebury
  - John Thiltges
+ - bbockelm
  - Matous Adamec
 ---
 
