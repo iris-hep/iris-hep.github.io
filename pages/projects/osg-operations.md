@@ -49,6 +49,9 @@ OSG-LHC collaborates with the XRootD software team and DOMA in IRIS-HEP on provi
 
 The GRACC ecosystem consists of 5 main components: probes, data collection, message
 broker, data sinks and visualization.
+It was designed for dHTC in that it supports large rates of records from a large number of different types of probes.
+As of Spring 2021, the GRACC message bus receives records at a rate in excess of 100Hz from close to 300 probes.
+A diverse set of consumers read record from the bus at more than 200 Hz.
 
 
 <figure class="figure">
