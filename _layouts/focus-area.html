@@ -36,6 +36,24 @@
 </div>
 {% endif %}
 
+{% assign fa_fellows = site.pages | sort_natural: 'title' | where_exp: "item", "item.pagetype == 'fellow'" | where_exp: "item", "item.focus-area contains page_focus_area" %}
+{% if fa_fellows.size > 0 %}
+<h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">Current and Previous {{page.short_title | upcase }} Fellows</h2>
+
+<div class="container-fluid">
+  <div class="row">
+    {% for person in fa_fellows %}
+    <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px;">
+      <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
+        <a href="{{person.permalink}}">{{ person.fellow-name }}</a>
+      </div>
+    {% endfor %}
+  </div>
+  <br>
+</div>
+{% endif %}
+
+
 {% if sorted.size > 0 %}
 <div class="container-fluid projects">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>

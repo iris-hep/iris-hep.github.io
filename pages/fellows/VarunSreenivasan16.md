@@ -13,6 +13,7 @@ photo: /assets/images/team/Varun-Sreenivasan.jpg
 institution: University of Wisconsin-Madison
 e-mail: vsreenivasan@wisc.edu
 project_title: Graph Methods for Particle Tracking
+focus-area: ia
 project_goal: >
     Use Machine Learning and domain knowledge to adapt Nearest Neighbors algorithm for efficient graph construction. Developing this solution will pave the way for achieving enhancements in the particle track reconstruction process.
 mentors:

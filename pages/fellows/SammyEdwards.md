@@ -13,6 +13,7 @@ photo: /assets/images/team/Sammy-Edwards.jpg
 institution: University of Wisconsin - Platteville
 e-mail: sam@reddan.net
 project_title: Analyzing Neutrino Interactions
+focus-area: ia
 project_goal: >
  When neutrinos interact with each other, the result is close to a pixelated image. Once the image comes through it
  can be broken down and analyzed, and then put back together. This project will develop an algorithm to help
