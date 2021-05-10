@@ -7,16 +7,16 @@ fellow-name: Sammy Edwards
 title: Sammy Edwards - IRIS-HEP Fellow
 active: true
 dates:
-  start: 05/24/2021
-  end: 08/13/2021
+ start: 05/24/2021
+ end: 08/13/2021
 photo: /assets/images/team/Sammy-Edwards.jpg
 institution: University of Wisconsin - Platteville
 e-mail: sam@reddan.net
 project_title: Analyzing Neutrino Interactions
-project_goal:
-    When neutrinos interact with each other, the result is close to a pixelated image. Once the image comes through it
-	can be broken down and analyzed, and then put back together. This project will develop an algorithm to help
-	analyze these images using simulated events from the DUNE experiment.
+project_goal: >
+ When neutrinos interact with each other, the result is close to a pixelated image. Once the image comes through it
+ can be broken down and analyzed, and then put back together. This project will develop an algorithm to help
+ analyze these images using simulated events from the DUNE experiment.
 mentors:
   - Jane Nachtman - (University of Iowa)
   - Arghya Das - (University of Wisconsin - Platteville)
