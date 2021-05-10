@@ -10,10 +10,11 @@ pagetype: focus-area
   advancement of all of open science via the practice of distributed High Throughput Computing (dHTC),
   and the advancement of its state of the art.
   It is a collaboration between IT, software, and science organizations.
-  The consortium coordinates human and computing resources from many funded projects towards the aforementioned goal.
+  The consortium coordinates human and computing resources from a wide range of funded projects towards the aforementioned goal.
   It is governed by the [OSG Council](https://opensciencegrid.org/council/),
   maintaining its [by-laws](https://opensciencegrid.org/council/documents/OSG-By-Laws-2020%20-%20v2.pdf),
-  and electing an [executive director](https://opensciencegrid.org/about/team.html) for 2 year renewable terms to coordinate a program of work.
+  and electing an [executive director](https://opensciencegrid.org/about/team.html) for 2 year renewable terms. 
+  The Executive Director works with an Executive Team to coordinate the program of work across funded projects.
 
   OSG-LHC contributes to the larger mission of the OSG Consortium
   by evolving the production infrastructure the LHC collaborations depend on in the USA
