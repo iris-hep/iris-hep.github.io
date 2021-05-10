@@ -1,14 +1,14 @@
-name: Evan Massaro
-shortname: evanmassaro
-title:
 active: true
 institution: Massachusetts Institute of Technology
+name: Evan Massaro
+photo: "/assets/images/team/Evan-Massaro.jpg"
+shortname: evanmassaro
+title:
 website:
-photo: /assets/images/team/Evan-Massaro.jpg
 presentations:
-  - title: Modeling computing resource needs/costs
-    date: 2020-02-03
-    url: https://indico.cern.ch/event/865098/contributions/3644997/attachments/1980699/3298308/CMS_resource_modeling.pdf
-    meeting: IRIS-HEP Topical Meeting
-    meetingurl: https://indico.cern.ch/event/865098/
-    location: 40/R-B10 (CERN)
+- title: Modeling computing resource needs/costs
+  date: 2020-02-03
+  url: https://indico.cern.ch/event/865098/contributions/3644997/attachments/1980699/3298308/CMS_resource_modeling.pdf
+  meeting: IRIS-HEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/865098/
+  location: 40/R-B10 (CERN)

@@ -1,20 +1,32 @@
+
+{%- if include.inline -%}
+{%- assign li = "" -%}
+{%- assign eli = "" -%}
+{%- else -%}
+{%- assign li = "<li>" -%}
+{%- assign eli = "</li>" -%}
 <h3>Team</h3>
 <ul>
-{%- for member in include.team -%}
-  {%- assign found=false -%}
-  {%- for person_hash in site.data.people -%}
-    {%- assign person = person_hash[1] -%}
-    {%- if person.shortname == member -%}
-      {%- assign found=true -%}
-      {%- if person.website -%}
-        <li> <a href="{{person.website}}">{{ person.name }}</a> </li>
-      {%- else -%}
-        <li> {{ person.name }} </li>
-      {%- endif -%}
-    {%- endif -%}
-  {%- endfor -%}
-  {%- unless found -%}
-    <li> {{ member }} </li>
-  {%- endunless -%}
-{%- endfor -%}
+{%- endif -%}
+
+{% for contact in include.team %}
+  {% assign person = site.data.people | find: "shortname", contact %}
+
+  {% if person %}
+    {%- if inline and person.e-mail -%}
+      {{ li }} <a href="mailto:{{person.e-mail}}">{{person.name}}</a> {{ eli }}
+    {%- elsif person.website -%}
+      {{ li }} <a href="{{person.website}}">{{ person.name }}</a> {{ eli }}
+    {% else %}
+      {{ li }} {{person.name}} {{ eli }}
+    {% endif %}
+  {% elsif contact contains "@" %}
+    <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a>
+  {{ else }}
+    {{ li }} {{ contact | markdownify | remove: '<p>' | remove: '</p>' }} {{ eli }}
+  {% endif %}
+{% endfor %}
+
+{%- unless include.inline  %}
 </ul>
+{% endunless -%}

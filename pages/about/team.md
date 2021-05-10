@@ -28,8 +28,8 @@ title: Institute Team
            {%- assign item = member | split:";" -%}
            {%- assign item = item[1] -%}
            {% assign person = site.data.people[item] %}
-           {% if person.active and person.active == true %}
-           {% include standard_person_card.md %}
+           {% if person.active %}
+           {% include standard_person_card.md person=person %}
            {% endif %}
       {% endfor %}
     {% endfor %}
@@ -61,7 +61,7 @@ title: Institute Team
            {% assign person = site.data.people[item] %}
            {% if person.active and person.active == true %}
            {% else %}
-           {% include standard_person_card.md %}
+           {% include standard_person_card.md person=person %}
            {% endif %}
       {% endfor %}
     {% endfor %}

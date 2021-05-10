@@ -2,6 +2,7 @@
 permalink: /fellows/PeterChatain.html
 layout: fellow
 pagetype: fellow
+active: false
 fellow-name: Peter Chatain
 shortname: peter
 title: Peter Chatain - IRIS-HEP Fellow

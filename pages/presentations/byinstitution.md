@@ -4,7 +4,7 @@ layout: presentations
 title: Presentations by Institution
 ---
 
-{% include get_pres_list.html %}
+{% assign sorted_presentations = site.data['sorted_presentations'] %}
 
 <!--
   0     1       2      3       4          5           6          7            8
@@ -22,9 +22,10 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
 <ul>
   {% for talk in sorted_presentations %}
     {% if site.data.people[talk.member].institution contains uni.name %}
-      {% assign member = site.data.people[talk.member].name %}
-      {% assign prettydate = talk.date | date: "%-d %b %Y" %}
-      <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{member}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+      <li>
+        {%- include print_pres.html talk=talk -%}
+      </li>
+
       {% assign prescount = prescount | plus: "1" %}
     {% endif %}
   {% endfor %}

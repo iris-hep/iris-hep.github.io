@@ -5,7 +5,7 @@ shortname: vovechkin
 permalink: /fellows/vovechkin.html
 fellow-name: Vladimir Ovechkin
 title: Vladimir Ovechkin - IRIS-HEP Fellow
-active: green
+active: false
 dates:
   start: 2020-06-01
   end: 2020-08-31

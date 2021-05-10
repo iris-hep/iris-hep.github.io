@@ -17,3 +17,13 @@ bundle install
 bundle exec rake serve
 ```
 
+Alternatively, you can test your changes out using the Jekyll docker image:
+```bash
+docker run --rm -it \
+      --volume="$PWD:/srv/jekyll"  \
+      -p 4000:4000 \
+      jekyll/builder:stable jekyll serve --incremental
+```
+This will mount your checked out copy of this repo, then build and start the
+jekyll server mapping it to port 4000 on your computer. You can make changes
+locally and view them at http://localhost:4000

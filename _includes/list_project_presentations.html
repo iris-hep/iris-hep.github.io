@@ -1,20 +1,12 @@
-{% include get_pres_list.html %}
-
-{% assign pres_list = "" | split: "," %}
-{% for pres in sorted_presentations %}
-  {% if pres.project contains include.shortname  %}
-    {% assign pres_list = pres_list | push: pres %}
-  {% endif %}
-{% endfor %}
-
+{% assign pres_list = site.data['sorted_presentations'] | where_exp: "pres", "pres.project contains include.shortname" %}
 
 {% if pres_list.size > 0 %}
 <h3>Presentations</h3>
 <ul>
 {% for talk in pres_list %}
-  {% assign member = site.data.people[talk.member].name %}
-  {% assign prettydate = talk.date | date: "%-d %b %Y" %}
-  <li> {{prettydate}} - <a href="{{talk.url}}">"{{talk.title}}"</a>, {{member}}, <a href="{{talk.meetingurl}}">{{talk.meeting}}</a></li>
+  <li>
+    {%- include print_pres.html talk=talk -%}
+  </li>
 {% endfor %}
 </ul>
 {% endif %}

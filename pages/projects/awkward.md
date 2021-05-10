@@ -12,7 +12,7 @@ team:
 - jpivarski
 ---
 
-[awkward-array](https://github.com/scikit-hep/awkward-array)
+[awkward-array](https://github.com/scikit-hep/awkward-1.0)
 is a pure Python+Numpy library for manipulating complex data structures as you would Numpy arrays. Even if your data structures
 
 * contain variable-length lists (jagged or ragged),

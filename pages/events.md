@@ -3,7 +3,7 @@ permalink: /events.html
 layout: default
 title: IRIS-HEP Events
 ---
-<center> 
+<center>
 <h3> IRIS-HEP Events</h3>
 </center>
 
@@ -15,25 +15,22 @@ Events that IRIS-HEP team members are involved in organizing, planning to partic
 {% assign monthlist= "12, 11, 10, 09, 08, 07, 06, 05, 04, 03, 02, 01" | split: ", " %}
 
 {% comment %}
-Go through the list and produce a breakdown of the events in reverse 
+Go through the list and produce a breakdown of the events in reverse
 chronological order, grouped by months
 {% endcomment %}
 
 {%- include get_all_events.html -%}
 
-
-{% for yearidx in yearlist %}		
-{% for monthidx in monthlist %}		
- {% assign selected_array = "" | split: "," %}		
- {% for event in all_events  %}		
-   {% assign eventyear = event.startdate | date: "%Y" %}		
-   {% assign eventmonth = event.startdate | date: "%m" %}		
-   {% if eventyear == yearidx and eventmonth == monthidx %}		
+{% for yearidx in yearlist %}
+{% for monthidx in monthlist %}
+ {% assign selected_array = "" | split: "," %}
+ {% for event in all_events  %}
+   {% assign eventyear = event.startdate | date: "%Y" %}
+   {% assign eventmonth = event.startdate | date: "%m" %}
+   {% if eventyear == yearidx and eventmonth == monthidx %}
       {% assign selected_array = selected_array | push: event %}
-   {% endif %}		
- {% endfor %}		
-
-  {% assign selected_array = selected_array | sort: 'startdate' | reverse %}
+   {% endif %}
+ {% endfor %}
 
 <ul>
 {% assign hdrprint = true %}

@@ -1,8 +1,10 @@
-name: Kendrick Li
-shortname: likt1
-title: 
-active: true
+active: false
+focus-area:
+- ia
 institution: University of Cincinnati
-website: 
-photo: /assets/images/team/Kendrick-Li.jpg
-presentations: 
+name: Kendrick Li
+photo: "/assets/images/team/Kendrick-Li.jpg"
+shortname: likt1
+title:
+website:
+presentations:

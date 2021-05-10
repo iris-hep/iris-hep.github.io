@@ -2,6 +2,7 @@
 permalink: /fellows/RaghavKansal.html
 layout: fellow
 pagetype: fellow
+active: false
 fellow-name: Raghav Kansal
 shortname: raghsthebest
 title: Raghav Kansal - IRIS-HEP Fellow
@@ -26,9 +27,17 @@ project_goal: >
   of the hit distribution and embed it in a regular array, where traditional computing vision techniques can be used.
 
 proposal:
-active: green
 mentors:
   - Maurizio Pierini (CERN)
 presentations:
+  - title: "Fast HGCAL Simulation with Graph Network"
+    date: 2019-08-21
+    url: https://indico.cern.ch/event/840376/contributions/3525647/attachments/1895521/3127116/GNNs_for_Fast_HGCAL_Simulation_IRIS-HEP.pdf#search=Raghav%20Kansal
+    meeting: Summer student project presentations
+    meetingurl: https://indico.cern.ch/event/840376/
+    recordingurl: https://www.youtube.com/watch?v=wzN_rT-l1S0&t=2614s
+    focus-area: ia
 
+current_status: >
+  As of Fall 2020, Raghav is beginning graduate studies in Physics at the University of California, San Diego
 ---

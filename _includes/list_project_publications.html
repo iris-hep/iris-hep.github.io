@@ -1,11 +1,4 @@
-{% include get_pub_list.html %}
-
-{% assign pubs = "" | split: "," %}
-{% for pub in sorted_publications %}
-  {% if pub.project contains include.shortname  %}
-    {% assign pubs = pubs | push: pub %}
-  {% endif %}
-{% endfor %}
+{% assign pubs = site.data['sorted_publications'] | where_exp: "pub", "pub.project contains include.shortname" %}
 
 {% if pubs.size > 0 %}
 <h3>Publications</h3>

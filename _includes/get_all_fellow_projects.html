@@ -2,11 +2,4 @@
 Collect all the events, merging lists as appropriate.
 {%- endcomment -%}
 
-{%- assign all_fellow_projects = "" | split: "," -%}
-
-{%- for proj_hash in site.data.fellow_projects -%}
-  {%- assign proj = proj_hash[1] -%}
-  {%- assign all_fellow_projects = all_fellow_projects | push: proj -%}
-{%- endfor -%}
-
-{% assign sorted_fellow_projects = all_fellow_projects | sort: "postdate" | reverse %}
+{% assign all_fellow_projects = site.data.fellow_projects | values | sort: "postdate" | reverse %}

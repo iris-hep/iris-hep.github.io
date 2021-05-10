@@ -2,7 +2,7 @@
 permalink: /fellows/XiongfengSong.html
 layout: fellow
 pagetype: fellow
-active: green
+active: false
 title: Xiongfeng Song - IRIS-HEP Fellow
 fellow-name: Xiongfeng Song
 shortname: Xiongfeng

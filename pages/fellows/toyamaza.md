@@ -5,7 +5,7 @@ shortname: toyamaza
 permalink: /fellows/TomohiroYamazaki.html
 fellow-name: Tomohiro Yamazaki
 title: Tomohiro Yamazaki - IRIS-HEP Fellow
-active: green
+active: false
 dates:
   start: 2020-07-01
   end: 2020-09-30
@@ -20,4 +20,12 @@ mentors:
   - heather-gray
 proposal: /assets/pdf/Fellow-TomohiroYamazaki-Proposal.pdf
 presentations:
+  - title: Track Seed Finding in ACTS
+    date: 2021-03-24
+    url: https://indico.cern.ch/event/1004147/contributions/4219890/attachments/2215172/3749974/tomohiro_iris_20210324.pdf
+    meeting: "IRIS-HEP Topical Meeting: HL-LHC R&D topics: Running FastCaloSim on GPU + ACTS"
+    meetingurl: https://indico.cern.ch/event/1004147/
+    focus-area: ia
+    project: acts
+
 ---

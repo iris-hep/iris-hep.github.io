@@ -2,99 +2,107 @@
 
 {% include layout_header_navbar.html %}
 
-    <div id="container">
-      <div class="container">
-        <main role="main">
+<div id="container">
+  <div class="container">
+    <main role="main">
 
-<div>
-<br>
-<center><h1>IRIS-HEP Fellow: {{ page.fellow-name }}</h1>
+      <div>
+        <br>
+        <center><h1>IRIS-HEP Fellow: {{ page.fellow-name }}</h1>
 
-<img src="{{page.photo}}" width="150px">
-<br>
-<br>
-<b> Fellowship dates: </b>
-{% include fellow_dates.html dates=page.dates %}
-<br>
-<b> Home Institution:</b> {{ page.institution }}
-<br>
-<br>
-</center>
+          <img src="{{page.photo}}" width="150px">
+          <br>
+          <br>
+          <b> Fellowship dates: </b>
+          {% include fellow_dates.html dates=page.dates %}
+          <br>
+          <b> Home Institution:</b> {{ page.institution }}
+          <br>
+          <br>
+        </center>
 
-{%- if page.projects -%}
-{%-   assign projects = page.projects -%}
-{%- else -%}
-{%-   assign projects = "" | split: "," -%}
-{%-   assign projects = projects | push: page -%}
-{%- endif -%}
+        {%- if page.projects -%}
+        {%-   assign projects = page.projects -%}
+        {%- else -%}
+        {%-   assign projects = "" | split: "," -%}
+        {%-   assign projects = projects | push: page -%}
+        {%- endif -%}
 
-{% for project in projects %}
+        {% for project in projects %}
 
-  <br>
-  <h3>Project: {{project.project_title}}</h3>
+        <br>
+        <h3>Project: {{project.project_title}}</h3>
 
-  {{project.project_goal}}
-  <br>
-  <br>
-   More information: <a href = "{{project.proposal}}">My project proposal</a><br>
+        {{project.project_goal}}
+        <br>
+        <br>
+        More information: <a href = "{{project.proposal}}">My project proposal</a><br>
 
-  <br>
-  <b>Mentors: </b> <br>
-  <ul>
-  {% for mentor in project.mentors %}
-  <li>
-  {% assign ok = 0 %}
-  {% for person_hash in site.data.people %}
-  {% assign person = person_hash[1] %}
-  {% if person.shortname == mentor %}
-  {{ person.name }} ({{person.institution}})
-  {% assign ok = 1 %}
-  {% endif %}
-  {% endfor %}
-  {% if ok == 0 %}
-  {{ mentor | markdownify }}
-  {%endif%}
-  </li>
-  {% endfor %}
-  </ul>
-{% endfor %}
+        <br>
+        <b>Mentors: </b> <br>
+        <ul>
+          {% for mentor in project.mentors %}
+          <li>
+            {% assign ok = 0 %}
+            {% for person_hash in site.data.people %}
+            {% assign person = person_hash[1] %}
+            {% if person.shortname == mentor %}
+            {{ person.name }} ({{person.institution}})
+            {% assign ok = 1 %}
+            {% endif %}
+            {% endfor %}
+            {% if ok == 0 %}
+            {{ mentor | markdownify }}
+            {%endif%}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
 
 
-<b>Presentations</b>
-<ul>
-{% for presentation in page.presentations %}
-  {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
-  <li>{{prettydate}} - <a href="{{presentation.url}}">"{{presentation.title}}"</a>, {{page.fellow-name}}, <a href="{{presentation.meetingurl}}">{{presentation.meeting}}</a>
-    {% if presentation.recordingurl %}
-      Recording: <a href="{{presentation.recordingurl}}">{{presentation.title}}</a></li>
-    {% endif %}
-{% endfor %}
-</ul>
-<hr>
+        <b>Presentations</b>
+        <ul>
+          {% for presentation in page.presentations %}
+          {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
+          <li>{{prettydate}} - <a href="{{presentation.url}}">"{{presentation.title}}"</a>, {{page.fellow-name}}, <a href="{{presentation.meetingurl}}">{{presentation.meeting}}</a>
+            {% if presentation.recordingurl %}
+            Recording: <a href="{{presentation.recordingurl}}">{{presentation.title}}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+        <hr>
 
-<b>Contact me:</b><br>
-<ul>
-{% if page.e-mail.size > 4 %}
-<li>
-<a href = "mailto:{{page.e-mail}}">Send me an email</a><br>
-</li>
-{% endif %}
-{% if page.website.size > 4 %}
-<li>
-<a href = {{page.website}}>Visit my website</a><br>
-</li>
-{% endif %}
-</ul>
+        <b>Current Status</b>
+        <br>
+        {{page.current_status}}
+        <br>
+        <br>
 
-<div>
-{{content}}
+        <b>Contact me:</b><br>
+        <ul>
+          {% if page.e-mail.size > 4 %}
+          <li>
+            <a href = "mailto:{{page.e-mail}}">Send me an email</a><br>
+          </li>
+          {% endif %}
+          {% if page.website.size > 4 %}
+          <li>
+            <a href = {{page.website}}>Visit my website</a><br>
+          </li>
+          {% endif %}
+        </ul>
+
+
+        <div>
+          {{content}}
+        </div>
+
+      </div>
+    </main>
+  </div>
+  {% include_cached footer.html %}
 </div>
 
-</main>
-{% include footer.html %}
-</div>
-</div>
-
-{% include layout_analytics.html %}
+{% include_cached layout_analytics.html %}
 </body>
 </html>
