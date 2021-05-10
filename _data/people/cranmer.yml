@@ -127,6 +127,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: The interplay between physically motivated simulations and machine learning
   date: 2019-09-09
   url: http://www.ipam.ucla.edu/programs/workshops/machine-learning-for-physics-and-the-physics-of-learning-tutorials/?tab=speaker-list
@@ -146,6 +148,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: What does the Revolution in Artificial Intelligence Mean for Physics?
   date: 2019-09-30
   url: https://ai2019.ethz.ch/program.html
@@ -164,6 +168,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: Simulation-based inference, interpretability, and experimental design
   date: 2019-10-17
   url: http://www.ipam.ucla.edu/abstract/?tid=15943&pcode=MLPWS2
@@ -174,6 +180,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: Flows three ways
   date: 2019-11-19
   url: http://pcts.princeton.edu/programs/current/deep-learning-for-physics-seminar-series/121
@@ -203,6 +211,8 @@ presentations:
   - as
   - ia
   - core
+  labels:
+  - conference
 - title: Machine Learning and Physics
   date: 2020-03-05
   url: https://indico.desy.de/indico/event/25451/
@@ -305,6 +315,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: 'Panel Discussion: A community perspective on Equity in HEP'
   date: 2020-07-09
   url: https://science.osti.gov/hep/hepap/Meetings/202007
@@ -322,6 +334,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: 'Graphs, Trees, and Sets: structured data in physics'
   date: 2020-07-17
   url: https://grlplus.github.io/schedule/
@@ -331,6 +345,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: How machine learning can help us get the most out of our highest fidelity
     physical models
   date: 2020-07-21
@@ -341,6 +357,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: Lectures on Statistics
   date: 2020-08-10
   url: https://indico.fnal.gov/event/22840/
@@ -425,6 +443,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: Some fun examples from the intersection of machine learning and physics
   date: 2020-12-18
   url: https://virtual-event.mlinpl.org
@@ -434,6 +454,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: 'MadMiner: Machine learning–based inference for particle physics'
   date: 2021-01-11
   url: https://indico.cern.ch/event/971725/#5-madminer-machine-learning-ba
@@ -457,6 +479,8 @@ presentations:
   meetingurl: http://www.ipam.ucla.edu/programs/workshops/deep-learning-and-combinatorial-optimization/?tab=overview
   location: Institute Pure and Applied Mathematics (IPAM) (virtual)
   focus-area: ia
+  labels:
+  - conference
 - title: Machine Learning for Precision Measurements
   date: 2021-03-02
   url: https://indico.tlabs.ac.za/event/100/contributions/1727/
@@ -487,6 +511,8 @@ presentations:
   meetingurl: https://aistats.org/aistats2021/
   location: "(Virtual)"
   focus-area: as
+  labels:
+  - conference
 - title: Towards a white paper on public likelihoods
   date: 2021-04-22
   url: https://indico.cern.ch/event/1015891/attachments/2231688/3781529/Likelihood-whitepaper-RAMP-2021.pdf
@@ -503,6 +529,8 @@ presentations:
   focus-area:
   - as
   - ia
+  labels:
+  - conference
 - title: Analysis Systems Overview
   date: 2021-04-27
   url: https://indico.cern.ch/event/957103/contributions/4330981/
