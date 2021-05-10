@@ -51,6 +51,9 @@ current_status: >
 ---
 ```
 
+### Dates
+Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2021-12-31
+
 ### Presentations
 
 The meaning of the fields is the following:
