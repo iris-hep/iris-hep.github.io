@@ -20,3 +20,5 @@ presentations:
     date: 2020-04-20
     focus-area: ia
     project: pv-finder
+    labels:
+    - conference

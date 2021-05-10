@@ -32,6 +32,8 @@ presentations:
     location: Valencia, Spain
     focus-area: ia
     project: pv-finder
+    labels:
+    - conference
   - title: "Conda: a complete reproducible ROOT environment in under 5 minutes"
     date: 2019-03-21
     url: https://indico.cern.ch/event/759388/contributions/3306849/
@@ -48,6 +50,8 @@ presentations:
     location: Jefferson Lab
     focus-area: ia
     project: pv-finder
+    labels:
+    - conference
   - title: "A hybrid deep learning approach to vertexing"
     date: 2019-03-11
     url: https://indico.cern.ch/event/708041/contributions/3269692/attachments/1809272/2954230/PvFinder_ACAT2019.pdf

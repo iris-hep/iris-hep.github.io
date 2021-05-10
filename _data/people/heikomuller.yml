@@ -27,3 +27,5 @@ presentations:
     meetingurl: https://indico.cern.ch/event/809820/
     location: New York University
     focus-area: [ia, core]
+    labels:
+    - conference

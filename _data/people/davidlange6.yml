@@ -40,6 +40,8 @@ presentations:
     meetingurl: https://indico.cern.ch/event/831165/
     focus-area: ia
     project:
+    labels:
+    - conference
   - title: "Innovative Algorithms - Years 3, and 4+5"
     meeting: IRIS-HEP team retreat
     url: https://indico.cern.ch/event/896167/contributions/3870074/attachments/2044699/3426314/IA_retreat_day1_6.pdf

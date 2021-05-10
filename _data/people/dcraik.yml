@@ -22,6 +22,8 @@ presentations:
     location: Madison, WI
     focus-area: ia
     project: allen
+    labels:
+    - conference
   - title: The Allen Project
     date: 2020-01-27
     meeting: IRIS-HEP Topical Meeting
@@ -44,3 +46,5 @@ presentations:
     url: https://slideslive.com/38926198/autoencoders-for-compression-and-simulation-in-particle-physics
     focus-area: ia
     project: allen
+    labels:
+    - conference

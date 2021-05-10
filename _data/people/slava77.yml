@@ -21,6 +21,8 @@ presentations:
     location: Mexico City, Mexico
     focus-area: ia
     project: mkfit
+    labels:
+    - conference
   - title: "Update on mkFit developments"
     date: 2019-12-16
     url: https://indico.cern.ch/event/869552/contributions/3669454
