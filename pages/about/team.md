@@ -12,7 +12,9 @@ title: Institute Team
 <div class="container-fluid">
   <div class="row">
     {% for univ in univs %}
-      {% assign members = univ.personnel | hash_fetch: site.data.people | where_exp:"item", "item.active and item.hidden != true" | last_name_sort: "name" %}
+      {% assign members = univ.personnel | hash_fetch: site.data.people
+                                         | where_exp:"item", "item.active and item.hidden != true"
+                                         | last_name_sort: "name" %}
 
       {% for person in members %}
         {% include standard_person_card.md person=person %}
@@ -27,7 +29,9 @@ title: Institute Team
 <div class="container-fluid">
   <div class="row">
     {% for univ in univs %}
-      {% assign members = univ.personnel | hash_fetch: site.data.people | where_exp: "item", "item.active == nil or item.active == false and item.hidden != true" | last_name_sort: "name" %}
+      {% assign members = univ.personnel | hash_fetch: site.data.people
+                                         | where_exp: "item", "item.active == nil or item.active == false and item.hidden != true"
+                                         | last_name_sort: "name" %}
 
       {% for person in members %}
         {% include standard_person_card.md person=person %}
