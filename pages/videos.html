@@ -12,7 +12,8 @@ Recent Recordings of IRIS-HEP and other related events
 
 Go to <a href="https://www.youtube.com/channel/UC8Dmx4MYjp6RQ9ngc58Ujmg">our youtube channel</a> for all videos. <br/>
 
-{%- include list_videos.html nvideos=21 -%}
+{% include get_selected_videos.html nvideos=21 %}
+{% include display_videos.html videos=selected_videos %}
 
 <br/>
 

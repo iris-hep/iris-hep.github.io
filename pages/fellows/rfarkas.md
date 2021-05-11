@@ -14,6 +14,7 @@ institution: Universität Bonn (Germany)
 website:
 e-mail: ralf.farkas@uni-bonn.de
 project_title: Combinatorial Kalman Filter for the ACTS tracking software
+focus-area: ia
 project_goal: >
   The reconstruction of trajectories of charged particles is a crucial task for most HEP experiments. The ACTS (A Common Tracking Software) aims to provide an experiment-independent suite of tools that enable future high-energy particle physics experiments to implement their full track reconstruction chain. I will be working on the implementation and validation of a Combinatorial Kalman Filter (CKF) in the ACTS framework.
 mentors:
