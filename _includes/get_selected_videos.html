@@ -1,0 +1,26 @@
+
+{%- include get_all_videos.html -%}
+
+{% assign selected_videos = "" | split: "," %}
+
+{% assign projects = include.projects | ensure_array %}
+{% if projects.size > 0 %}
+  {% assign videos = all_videos | where_overlap: "project", projects %}
+  {% assign selected_videos = selected_videos | concat: videos %}
+{% endif %}
+
+{% assign people = include.person | ensure_array %}
+{% if people.size > 0 %}
+  {% assign videos = all_videos | where_overlap: "people", people %}
+  {% assign selected_videos = selected_videos | concat: videos %}
+{% endif %}
+
+{% assign f_areas = include.focus_areas | ensure_array %}
+{% if f_areas.size > 0 %}
+  {% assign videos = all_videos | where_overlap: "focus-area", f_areas %}
+  {% assign selected_videos = selected_videos | concat: videos %}
+{% endif %}
+
+{% if include.nvideos %}
+  {% assign selected_videos = selected_videos | slice: 0, include.nvideos %}
+{% endif %}
