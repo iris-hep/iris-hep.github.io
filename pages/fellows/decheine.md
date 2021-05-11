@@ -20,5 +20,5 @@ mentors:
 
 proposal: /assets/pdf/Fellow-Nicholas-Decheine-Proposal.pdf
 presentations:
-current_status: 
+current_status:
 
