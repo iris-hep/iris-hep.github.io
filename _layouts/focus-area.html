@@ -14,7 +14,7 @@
 {% assign pubs = site.data['sorted_publications'] | where_exp: "item", "item.focus-area contains page_focus_area" %}
 {% include get_selected_videos.html nvideos=6 focus_areas=page_focus_area %}
 
-{% assign quicklinks "" = split: "," %}
+{% assign quicklinks = "" | split: "," %}
 {% if fa_fellows.size > 0 %}
 {% assign quicklinks = quicklinks | push: '<a href="#fellows"> Fellows</a>' %}
 {% endif %}
@@ -30,7 +30,9 @@
 {% if selected_videos.size > 0 %}
 {% assign quicklinks = quicklinks | push: '<a href="#videos"> Videos</a>' %}
 {% endif %}
-Jump to: {{ quicklinks | join: " - " }}
+{% if quicklinks.size > 0 %}
+  Jump to: {{ quicklinks | join: " - " }}
+{% endif %}
 
 <div>
 <br>
