@@ -13,6 +13,7 @@ photo: /assets/images/team/Raghav-Kansal.jpg
 institution: University of California, San Diego
 website: https://github.com/raghsthebest/
 e-mail: NoEmailYet
+focus-area: ia
 
 project_goal: >
   High granular calorimeters will be the biggest novelty of the CMS Phase II upgrade and, in general,

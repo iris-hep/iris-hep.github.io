@@ -18,6 +18,8 @@ presentations:
   location: Fermilab, Illinois, USA
   focus-area: ia
   project: ml4jets
+  labels:
+  - conference
 - title: 'SCAILFIN: Reproducible Open Benchmarks'
   date: 2019-06-19
   url: https://indico.cern.ch/event/822074/contributions/3471463/
@@ -36,6 +38,8 @@ presentations:
   location: Massachusetts Institute of Technology (MIT)
   focus-area: ia
   project: ml4jets
+  labels:
+  - conference
 - title: Looking into Jets with Machine Learning
   date: 2019-09-24
   url: https://phy.princeton.edu/events/pheno-vino-seminar-sebastian-macaluso-nyu-looking-jets-machine-learning-jadwin-303
@@ -92,6 +96,8 @@ presentations:
   location: Instituto de Fisica La Plata, La Plata, Argentina
   focus-area: ia
   project: ml4jets
+  labels:
+  - conference
 - title: Reframing Jet Physics in Probabilistic Terms
   date: 2021-03-01
   url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/BrownBag_March2021.pdf
