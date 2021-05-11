@@ -23,13 +23,13 @@ brew install rbenv
 You'll need to run `rbenv init` and follow the instructions for your current shell. After you've installed rbenv on your system, use:
 
 ```bash
-rbenv install 2.7.1
+rbenv install 2.7.3
 ```
 
 to get a current version of ruby. Then, inside the main iris-hep website directory, run:
 
 ```bash
-rbenv local 2.7.1
+rbenv local 2.7.3
 ```
 
 This will run the Ruby you just built whenever you enter this directory. You'll want to install bundler too:

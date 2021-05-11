@@ -108,7 +108,7 @@ ongoing events don't get prematurely flagged as recent.
 
 {%- include get_all_events.html -%}
 
-{% assign selected_events = all_events | day_range: "startdate", 6 | where_exp: "item", "item.skipfrontpage != true" | reverse %}
+{% assign selected_events = all_events | where_day_range: "startdate", 6 | where_exp: "item", "item.skipfrontpage != true" | reverse %}
 
 <ul>
   {% for event in selected_events %}
@@ -146,7 +146,7 @@ ongoing events don't get prematurely flagged as recent.
 <h4>Upcoming Topical Meetings:</h4>
 </div>
 {% include get_indico_list.html %}
-{% assign upcoming_topical = indico_list | day_range: "startdate", 1 %}
+{% assign upcoming_topical = indico_list | where_day_range: "startdate", 1 %}
 
 <ul>
 {% for event in upcoming_topical %}
