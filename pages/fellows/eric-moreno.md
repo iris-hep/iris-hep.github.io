@@ -7,7 +7,7 @@ fellow-name: Eric Moreno
 title: Eric Moreno - IRIS-HEP Fellow
 active: True
 dates:
-  start: 2021-06-1
+  start: 2021-06-01
   end: 2021-08-31
 photo: /assets/images/team/Eric-Moreno.jpg
 institution: MIT
