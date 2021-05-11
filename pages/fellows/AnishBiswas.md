@@ -7,6 +7,7 @@ title: Anish Biswas - IRIS-HEP Fellow
 fellow-name: Anish Biswas
 shortname: Anish
 project_title: Enabling auto-differentiation for Awkward Array functions
+focus-area:
 dates:
   start: 2021-01-09
   end: 2021-04-03

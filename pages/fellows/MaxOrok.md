@@ -7,6 +7,7 @@ title: Max Orok - IRIS-HEP Fellow
 fellow-name: Max Orok
 shortname: Max
 project_title: CMSSW Generating ROOT RNTuple NanoAODs
+focus-area:
 dates:
   start: 2021-01-11
   end: 2021-07-11

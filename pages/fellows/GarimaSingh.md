@@ -7,6 +7,7 @@ title: Garima Singh- IRIS-HEP Fellow
 fellow-name: Garima Singh
 shortname: Garima
 project_title: Floating Point Error Evaluation With Clad
+focus-area: ia
 dates:
   start: 2021-01-11
   end: 2021-05-30

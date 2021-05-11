@@ -13,6 +13,7 @@ photo: /assets/images/team/Santam-Roy-Choudhury.jpg
 institution: National Institute of Technology, Durgapur
 e-mail: santamdev404@gmail.com
 project_title: Automating Awkward Array Testing
+focus-area:
 project_goal: >
     Awkward Array is a popular library for nested, variable-sized data, including
     arbitrary-length lists, records, mixed types, and missing data, using NumPy-like idioms.

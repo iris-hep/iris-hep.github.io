@@ -7,6 +7,7 @@ title: David Liu - IRIS-HEP Fellow
 fellow-name: David Liu
 shortname: dwliu
 project_title: Verification of the Fidelity of ServiceX Data Set Extractions Using Python and C++
+focus-area:
 dates:
   start: 2020-05-01
   end: 2020-09-30

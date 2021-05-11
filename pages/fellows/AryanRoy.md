@@ -7,6 +7,7 @@ title: Aryan Roy - IRIS-HEP Fellow
 fellow-name: Aryan Roy
 shortname: Aryan
 project_title: Modernizing FastJet Interfaces With pybind11 and interfacing with Awkward Arrays
+focus-area:
 dates:
   start: 2021-04-04
   end: 2021-08-30

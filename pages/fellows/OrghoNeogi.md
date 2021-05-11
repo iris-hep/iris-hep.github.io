@@ -7,6 +7,7 @@ title: Orgho Neogi - IRIS-HEP Fellow
 fellow-name: Orgho Neogi
 shortname: Orgho
 project_title: Machine Learning inference as a Service optimization in neutrino reconstruction
+focus-area: ia
 dates:
   start: 2021-02-15
   end: 2021-08-14

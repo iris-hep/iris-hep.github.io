@@ -13,6 +13,7 @@ photo: /assets/images/team/Nupur-Oza.JPG
 institution: University of Pennsylvania
 e-mail: nupoza@sas.upenn.edu
 project_title: Implementation of ML algorithms for ambiguity resolution in ACTS track reconstruction
+focus-area:
 project_goal: >
     The high-pileup of collisions associated with the upgrade of the HL-LHC will offer serious computational limitations to particle tracking. ACTS, an experiment independent tool for track reconstruction, is especially CPU-expensive in its ambiguity solving step. To mitigate this, this project seeks to implement ML-based algorithms for ambiguity solving and final track resolution within ACTS.
 mentors:

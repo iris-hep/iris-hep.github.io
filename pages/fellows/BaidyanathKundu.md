@@ -7,6 +7,7 @@ title: Baidyanath Kundu - IRIS-HEP Fellow
 fellow-name: Baidyanath Kundu
 shortname: Baidyanath
 project_title: Reading CMS Run 1/2 miniAOD files with ServiceX and func_adl
+focus-area:
 dates:
   start: 2021-02-01
   end: 2021-04-30
