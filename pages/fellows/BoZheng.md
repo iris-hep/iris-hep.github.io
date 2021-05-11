@@ -7,6 +7,7 @@ title: Bo Zheng - IRIS-HEP Fellow
 fellow-name: Bo Zheng
 shortname: Bo
 project_title: pyhf Hardware Acceleration Benchmarking with GPUs and TPUs
+focus-area:
 dates:
   start: 2020-06-01
   end: 2020-08-31

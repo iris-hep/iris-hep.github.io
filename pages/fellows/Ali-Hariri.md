@@ -13,6 +13,7 @@ photo: /assets/images/team/Ali_Hariri.jpg
 institution: University of Alabama
 e-mail: hariri.ali961@gmail.com
 project_title: Graph Generative Models For Fast Detector Simulations in Particle Physics
+focus-area:
 project_goal: >
   The Large Hadron Collider (LHC) at CERN is the world’s highest energy particle accelerator,
   delivering the highest energy proton-proton collisions ever recorded in the
