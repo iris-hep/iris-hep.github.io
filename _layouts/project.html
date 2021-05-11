@@ -22,8 +22,12 @@
 
           {% include list_project_publications.html shortname=page.shortname %}
 
-          {% include list_videos.html projects=page.shortname nvideos=6 add_header="<h3> Recent recordings</h3>"%}
+          {% include get_selected_videos.html nvideos=6 projects=page.shortname %}
 
+          {% if selected_videos.size > 0 %}
+          <h3> Recent recordings</h3>
+          {% include display_videos.html videos=selected_videos %}
+          {% endif %}
         </main>
       </div>
       {% include_cached footer.html %}
