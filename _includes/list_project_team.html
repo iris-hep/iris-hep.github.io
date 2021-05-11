@@ -20,8 +20,10 @@
     {% else %}
       {{ li }} {{person.name}} {{ eli }}
     {% endif %}
+  {% elsif contact contains "](" %}
+    {{ li }} {{ contact | markdownify | remove: '<p>' | remove: '</p>' }} {{ eli }}
   {% elsif contact contains "@" %}
-    <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a>
+    {{ li }} <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a> {{ eli }}
   {{ else }}
     {{ li }} {{ contact | markdownify | remove: '<p>' | remove: '</p>' }} {{ eli }}
   {% endif %}
