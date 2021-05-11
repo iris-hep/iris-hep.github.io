@@ -49,6 +49,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/831165/
   focus-area: ia
   project: acts
+  labels:
+  - conference
 - title: Track fitting/finding with ACTS
   date: 2020-02-19
   url: https://indico.cern.ch/event/889047/contributions/3749030/attachments/1990315/3319040/IRIS_HEP_topical_meeting_Xiaocong.pdf
