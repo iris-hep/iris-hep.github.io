@@ -36,7 +36,7 @@
 </div>
 {% endif %}
 
-{% assign fa_fellows = site.pages | sort_natural: 'title' | where_exp: "item", "item.pagetype == 'fellow'" | where_exp: "item", "item.focus-area contains page_focus_area" %}
+{% assign fa_fellows = site.pages | sort_natural: 'title' | where_exp: "item", "item.pagetype == 'fellow' and item.focus-area contains page_focus_area" %}
 {% if fa_fellows.size > 0 %}
 <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">Current and Previous {{page.short_title | upcase }} Fellows</h2>
 
@@ -137,5 +137,4 @@
   {% include_cached layout_analytics.html %}
   </body>
 </html>
-
 
