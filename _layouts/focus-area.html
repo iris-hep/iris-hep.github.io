@@ -14,23 +14,23 @@
 {% assign pubs = site.data['sorted_publications'] | where_exp: "item", "item.focus-area contains page_focus_area" %}
 {% include get_selected_videos.html nvideos=6 focus_areas=page_focus_area %}
 
-{% assign quicklinks = "Jump to " %}
+{% assign quicklinks "" = split: "," %}
 {% if fa_fellows.size > 0 %}
-{% assign quicklinks = quicklinks | append: '- <a href="#fellows"> Fellows</a> ' %}
+{% assign quicklinks = quicklinks | push: '<a href="#fellows"> Fellows</a>' %}
 {% endif %}
 {% if sorted.size > 0 %}
-{% assign quicklinks = quicklinks | append: '- <a href="#projects"> Projects</a> ' %}
+{% assign quicklinks = quicklinks | push: '<a href="#projects"> Projects</a>' %}
 {% endif %}
 {% if pres_list.size > 0 %}
-{% assign quicklinks = quicklinks | append: '- <a href="#presentations"> Presentations</a> ' %}
+{% assign quicklinks = quicklinks | push: '<a href="#presentations"> Presentations</a>' %}
 {% endif %}
 {% if pubs.size > 0 %}
-{% assign quicklinks = quicklinks | append: '- <a href="#publications"> Publications</a> ' %}
+{% assign quicklinks = quicklinks | push: '<a href="#publications"> Publications</a>' %}
 {% endif %}
 {% if selected_videos.size > 0 %}
-{% assign quicklinks = quicklinks | append: '- <a href="#videos"> Videos</a> ' %}
+{% assign quicklinks = quicklinks | push: '<a href="#videos"> Videos</a>' %}
 {% endif %}
-{{ quicklinks }}
+Jump to: {{ quicklinks | join: " - " }}
 
 <div>
 <br>
@@ -152,4 +152,3 @@
   {% include_cached layout_analytics.html %}
   </body>
 </html>
-
