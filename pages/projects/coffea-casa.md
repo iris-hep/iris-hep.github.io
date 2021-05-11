@@ -4,7 +4,8 @@ layout: project
 title: coffea-casa
 shortname: coffea-casa
 pagetype: project
-image: logos/Iris-hep-5-just-graphic.png
+image: logos/coffea-casa.png
+logowidth: 70%
 blurb: A Prototype of Analysis Facility
 focus-area:
  - doma
@@ -12,9 +13,9 @@ focus-area:
 team:
  - oshadura
  - kenbloom
- - bbockelm
  - Garhan Attebury
  - John Thiltges
+ - bbockelm
  - Matous Adamec
 ---
 

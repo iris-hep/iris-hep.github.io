@@ -1,4 +1,6 @@
 active: true
+focus-area:
+  - osglhc
 institution: University of Wisconsin–Madison
 name: Tim Cartwright
 photo: "/assets/images/team/Tim-Cartwright.jpg"
@@ -6,3 +8,11 @@ shortname: osg-cat
 title: OSG Deputy Executive Director
 website: http://pages.cs.wisc.edu/~cat/
 presentations:
+  - title: OSG Virtual Meetings
+    date: 2021-05-05
+    url: https://indico.cern.ch/event/1026363/contributions/4309498/
+    meeting: Virtual Meeting on Virtual Meetings
+    meetingurl: https://indico.cern.ch/event/1026363/
+    location: Virtual
+    focus-area: osglhc
+    project:

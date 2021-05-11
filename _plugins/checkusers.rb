@@ -29,11 +29,11 @@ module Checks
         person.print_warnings
 
         if person_hash['hidden']
-          msg = "#{name} is listed in a university and hidden is True"
-          raise StandardError, msg if people_in_inst.include? person_hash['shortname']
+          msg = 'is listed in a university and hidden is True'
+          person.raise_err msg if people_in_inst.include? person_hash['shortname']
         else
-          msg = "#{name} is not listed in a university and hidden is not True"
-          raise StandardError, msg unless people_in_inst.include? person_hash['shortname']
+          msg = 'is not listed in a university and hidden is not True'
+          person.raise_err msg unless people_in_inst.include? person_hash['shortname']
         end
       end
     end

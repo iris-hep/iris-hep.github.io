@@ -7,6 +7,7 @@ title: Omar Alterkait - IRIS-HEP Fellow
 fellow-name: Omar Alterkait
 shortname: Omar
 project_title: Offline Track Selection
+focus-area: ia
 dates:
   start: 2021-01-04
   end: 2021-06-04

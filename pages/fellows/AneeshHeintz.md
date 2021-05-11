@@ -52,6 +52,7 @@ website:
 e-mail: ah2263@cornell.edu
 
 project_title: Implementation of graph neural networks on CPU + FPGA co-processors for scalable track reconstruction tasks
+focus-area: ia
 
 
 project_goal: >

@@ -7,6 +7,7 @@ title: Kaitlin Salyer - IRIS-HEP Fellow
 fellow-name: Kaitlin Salyer
 shortname: Kaitlin
 project_title: AutoDQM A Machine Learning Approach to Data Quality Monitoring at CMS
+focus-area:
 dates:
   start: 2021-06-01
   end: 2021-12-31
