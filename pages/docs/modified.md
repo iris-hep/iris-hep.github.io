@@ -14,7 +14,7 @@ title: Last Modified Material
 
 ### Updated in the last month:
 
-{% assign current = sorted-modified | month_range: "last_modified_date", 1 %}
+{% assign current = sorted-modified | where_month_range: "last_modified_date", 1 %}
 
 {% for mypage in current -%}
 * [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_date | date: "%b %d, %Y" }}
@@ -22,7 +22,7 @@ title: Last Modified Material
 
 ### Updated in the last 1--3 months:
 
-{% assign current = sorted-modified | month_range: "last_modified_date", 3, 1 %}
+{% assign current = sorted-modified | where_month_range: "last_modified_date", 3, 1 %}
 
 {% for mypage in current -%}
 * [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_date | date: "%b %d, %Y" }}
@@ -30,7 +30,7 @@ title: Last Modified Material
 
 ### Updated in the last 3+ months:
 
-{% assign current = sorted-modified | month_range: "last_modified_date", nil, 3 %}
+{% assign current = sorted-modified | where_month_range: "last_modified_date", nil, 3 %}
 
 {% for mypage in current -%}
 * [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_date | date: "%b %d, %Y" }}

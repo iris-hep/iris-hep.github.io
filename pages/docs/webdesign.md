@@ -66,17 +66,15 @@ This will return the overlapping items between an array of hashes (dicts) and an
 ```
 {% endraw %}
 
-#### `day_range` / `month_range`
+#### `where_day_range` / `where_month_range`
 
 These select objects with dates from a range of values. You can specify the start and end day (or month), in time before today. If you leave of the stop (nil), it is endless. You specify the key to look up the date on.
 
-> Could be renamed `where_*`, since it selects original objects, "where" style.
-
 {% raw %}
 ```
-{{ object_array | day_range: "eventdate", 10, 0 }} -> Select events during the last 10 days
-{{ object_array | day_range: "eventdate", 0 }} -> Select upcoming events
-{{ object_array | month_range: "eventdate", 3, 1 }} -> Select events from 1-3 months ago.
+{{ object_array | where_day_range: "eventdate", 10, 0 }} -> Select events during the last 10 days
+{{ object_array | where_day_range: "eventdate", 0 }} -> Select upcoming events
+{{ object_array | where_month_range: "eventdate", 3, 1 }} -> Select events from 1-3 months ago.
 ```
 {% endraw %}
 

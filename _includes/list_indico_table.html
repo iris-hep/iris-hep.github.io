@@ -1,5 +1,5 @@
 
-{%- assign selected_events = site.data.indico[include.name] | values | day_range: "startdate", nil, 1 | sort: 'startdate' | reverse -%}
+{%- assign selected_events = site.data.indico[include.name] | values | where_day_range: "startdate", nil, 1 | sort: 'startdate' | reverse -%}
 
 <table>
   <thead>
