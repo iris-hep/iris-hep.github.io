@@ -161,9 +161,20 @@ This block will make an expandable list. You give it the number of non-expanded 
 {% raw %}
 ```
 {% expandable my_array 10 %}
-- {{ expandable }}
+  {{ expandable }}
 {% endexpandable%}
 ```
 {% endraw %}
 
+#### `display_by_month` (block)
+
+This block will make a list grouped by month. You give it the array of items and the key to expand (currently an unquoted string), and this will make the list. Inside the block, you have access to the "display_by_month" item, which is the current looping item. The contents will be list items.
+
+{% raw %}
+```
+{% display_by_month my_list date %}
+  {{ display_by_month.name }} at {{ display_by_month.date }}
+{% enddisplay_by_month %}
+```
+{% endraw %}
 
