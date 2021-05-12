@@ -3,5 +3,5 @@ link: https://conferences.computer.org/scwpub/pdfs/CANOPIE-HPC2020-6GN8joymhwMWp
 date: 2020-11-12
 citation: "Chakraborty J, Maltzahn C, and Jimenez I. 2020 2nd International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC, co-located with SC'20)"
 focus-area: doma
-project: popper
+# project: popper
 submitted-to: CANOPIE 2020
