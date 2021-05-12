@@ -10,7 +10,6 @@ summary: |
     Software is now fundamental to scientific research. Until recently, the people who build it have lacked recognition.
 ---
 
-
 From a \$25 archaeologists’ trowel to a multibillion-dollar particle
 collider, the variety of tools used in scientific research is
 staggering. But if there's one scientific instrument common to all
@@ -92,8 +91,6 @@ its 11th member. He says modern research software is far too complex and
 fragile to be left solely to students or other researchers whose
 positions are transient.
 
- 
-
 "RSEs are professional software engineers," he says,  a professor of
 geosciences and applied and computational mathematics at Princeton.
 "They are highly trained individuals with the ability to make
@@ -130,8 +127,7 @@ credential, with the first ones being conferred in June.
    alt="Princeton RSEs mentor students and postdocs at the GPU Hackathon at Princeton University in 2019"
    caption=" Caption: Princeton RSEs including Vineet Bansal, Troy Comi, and David Turner mentor students and postdocs at the NVIDIA-ORNL-Princeton GPU Hackathon at Princeton University in 2019. Credit: Floe Fusin-Wischusen, Princeton Institute for Computational Science and Engineering." %}
 
-
- Since 2018, PICSciE has provided RSEs and scientific programmers as
+Since 2018, PICSciE has provided RSEs and scientific programmers as
 mentors for its [computing
 bootcamps](https://www.princeton.edu/news/2018/11/09/princeton-launches-computing-bootcamp-graduate-students-and-postdocs)
 which train grad students and postdocs on computational tools and
