@@ -129,8 +129,8 @@ credential, with the first ones being conferred in June.
    file="/assets/images/posts/20210512-Princeton-RSE.jpg"
    alt="Princeton RSEs mentor students and postdocs at the GPU Hackathon at Princeton University in 2019"
    caption=" Caption: Princeton RSEs including Vineet Bansal, Troy Comi, and David Turner mentor students and postdocs at the NVIDIA-ORNL-Princeton GPU Hackathon at Princeton University in 2019. Credit: Floe Fusin-Wischusen, Princeton Institute for Computational Science and Engineering." %}
-   
-  
+
+
  Since 2018, PICSciE has provided RSEs and scientific programmers as
 mentors for its [computing
 bootcamps](https://www.princeton.edu/news/2018/11/09/princeton-launches-computing-bootcamp-graduate-students-and-postdocs)
