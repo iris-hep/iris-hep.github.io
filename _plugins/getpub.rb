@@ -13,6 +13,10 @@ class String
     l, f = split ', '
     "#{f[0, 1]}. #{l}"
   end
+
+  def strip_latex
+    gsub(/\$(.*?)\$/) { Regexp.last_match(1).gsub '\\&', '&' }
+  end
 end
 
 module Publications
@@ -151,7 +155,7 @@ module Publications
       data = JSON.parse(response.body)['metadata']
 
       # Set these *only* if not already set
-      pub['title'] ||= data.dig('titles', 0, 'title')
+      pub['title'] ||= data.dig('titles', 0, 'title')&.strip_latex
       pub['link'] ||= "http://inspirehep.net/record/#{recid}"
       pub['date'] ||= data['preprint_date']
 
