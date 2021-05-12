@@ -10,7 +10,7 @@ dates:
   start: 2021-06-14
   end: 2021-09-13
 photo: /assets/images/team/Rohith-Karur.jpg
-Institution: UC Berkeley/LBNL
+institution: UC Berkeley/LBNL
 e-mail: r_karur137@berkeley.edu
 project_title: Implement hashing-based particle track reconstruction in ACTS
 project_goal: >
