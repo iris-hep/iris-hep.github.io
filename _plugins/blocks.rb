@@ -11,11 +11,10 @@ module IrisHep
 
     def render(context)
       results = context[@variable].map do |item|
-        content = context.stack do
+        context.stack do
           context['expandable'] = item
-          super
+          "<li>#{super}</li>"
         end
-        "<li>#{content}</li>"
       end
 
       return '' if results.empty?
