@@ -90,11 +90,12 @@ module Publications
       # Looks up focus areas from projects
       prepare_focus_area(pub, name) if pub['focus-area'].empty?
 
-      msg = 'You must have a project or focus-area in every publication'
-      raise msg unless pub.key? 'focus-area'
-
       # Make sure the focus-area is a list
       force_array(pub, 'focus-area')
+
+      # Make sure there is a focus-area
+      msg = "Publication #{name} must contain a focus-area or project"
+      raise StandardError, msg if pub['focus-area'].empty?
     end
 
     # Verify that an item is an Array
