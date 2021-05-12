@@ -69,7 +69,7 @@ module IrisHep
     end
 
     # Filter in range of days, can use nil
-    def day_range(input, key, start_day, stop_day = nil)
+    def where_day_range(input, key, start_day, stop_day = nil)
       input.select do |v|
         start = start_day ? v[key] >= (Date.today - start_day) : true
         stop = stop_day ? v[key] < (Date.today - stop_day) : true
@@ -78,7 +78,7 @@ module IrisHep
     end
 
     # Filter in range of months, can use nil
-    def month_range(input, key, start_month, stop_month = nil)
+    def where_month_range(input, key, start_month, stop_month = nil)
       input.select do |v|
         start = start_month ? v[key] >= (Date.today << start_month) : true
         stop = stop_month ? v[key] < (Date.today << stop_month) : true

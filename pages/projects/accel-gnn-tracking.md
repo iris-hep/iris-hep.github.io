@@ -19,18 +19,30 @@ team:
  - Isobel Ojalvo
  - Caitlin Patterson
  - Vesal Razavimaleki
- - savvy379
+ - Savannah Thais
  - Emily Tsai
  - Bei Wang
 ---
 
-The tracking of charged particles produced in collisions at colliders is a crucial aspect of the science program in the experiments. One of the primary challenges for the HL-LHC is the ability to efficiently, accurately, and rapidly perform tracking in collision events with large interaction pile-up. This project aims to improve charged-particle tracking in the ATLAS and CMS experiments through the use of accelerators such as field-programmable gate arrays (FPGAs) and machine learning algorithms such as Graph Neural Networks (GNNs).
+The tracking of charged particles produced in collisions at colliders is a crucial aspect of the science program in the experiments. One of the primary challenges for the HL-LHC is the ability to efficiently, accurately, and rapidly perform tracking in collision events with large interaction pile-up. This project aims to improve charged-particle tracking in the ATLAS and CMS experiments through the use of Geometric Deep Learn methods (particularly Graph Neural Networks
+(GNNs)) and hardware-based acceleration (currently focused on FPGAs).
+---
+
+Most current GNN-based approaches to tracking proceed in three distinct stages: graphs are constructed from point cloud
+of hits in the tracker, the graphs are processed through a GNN to predict a score for each edge (high scores indicate
+that the edge like belongs to a true particle track, low scores indicate it is a spurious or noise edge), and finally
+a clustering or graph walk algorithm is used to group the high-scored edges into track candidates. We are studying
+innovations and optimizations at all three stages of this pipeline. We are also exploring alternate 'one-shot'
+architectures that are trainable end-to-end and go from point-clouds to track candidates with fit parameters in a
+single pass.
+
+<img width="60%" src ="/assets/images/gnn_tracking_stages.png" />
 
 ---
-<img width="60%" src ="/assets/images/gnn_tracking.png" />
+We are also studying two complimentary approaches to accelerate the inference of these GNN tracking pipelines on FPGAs
+ with the goal of assessing feasibility of these algorithms for use at the trigger level at the HL-LHC..
+The first uses the OpenCL Framework to optimize a co-processor approach where kernels are initiated on a CPU and
+executed on the FPGA. The second uses the hls4ml package to translate different components of the GNN pipeline
+directly into FPGA firmware code.
 
 ----
-## A poster
-Markus Atkinson made this poster on [GNN-based Tracking and FPGA Acceleration](https://indico.cern.ch/event/894127/attachments/1996570/3331186/16%20-%20IRIS-HEP-poster-GNNTrackingFPGA.pdf)
-
-<img  width="60%" src="/assets/images/GNNTrackingFPGA.png" alt="poster" />
