@@ -22,7 +22,7 @@ chronological order, grouped by months
 {% endcomment %}
 
 {% include get_indico_list.html %}
-{% assign selected_array = selected_array | reverse %}
+{% assign selected_array = indico_list | reverse %}
 
 {% assign hdrprint = "" %}
 {% for event in selected_array %}
