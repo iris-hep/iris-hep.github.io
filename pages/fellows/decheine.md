@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: decheine
@@ -19,3 +20,4 @@ mentors:
 proposal: /assets/pdf/Fellow-Nicholas-Decheine-Proposal.pdf
 presentations:
 current_status:
+---
