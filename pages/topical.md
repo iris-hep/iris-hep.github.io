@@ -14,7 +14,6 @@ typically held Mondays 17:30 GVA and Wednesdays 18:00 GVA. Vidyo
 connections are always available and meetings are usually recorded.
 Find all topical meeting agendas
 [here](https://indico.cern.ch/category/10570/).
-<ul>
 
 {% comment %}
 Go through the list and produce a breakdown of the events in reverse
@@ -22,27 +21,16 @@ chronological order, grouped by months
 {% endcomment %}
 
 {% include get_indico_list.html %}
-{% assign selected_array = indico_list | reverse %}
+{% assign grouping = indico_list | reverse | group_by_exp: "item", "item.startdate | date: '%B, %Y'"%}
 
-{% assign hdrprint = "" %}
-{% for event in selected_array %}
-  {% assign eventyear = event.startdate | date: "%Y" %}
-  {% assign eventmonth = event.startdate | date: "%m" %}
-  {% assign newprint = event.startdate | date: "%B, %Y"%}
-  {% if hdrprint != newprint %}
-    {% if hdrprint != "" %}
-      </ul>
-    {% endif %}
-    <br><h5>{{newprint}}</h5>
-    <ul>
-    {% assign hdrprint = newprint %}
-  {% endif %}
-  <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a>
-  {% if event.youtube.size > 4 %}
-  - (<a href="{{event.youtube}}">Watch the meeting recording</a>)
-  {% endif %}
-  </li>
+{% for pair in grouping %}
+  <h5>{{ pair.name }}</h5>
+  <ul>
+  {% for event in pair.items %}
+    <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a>
+    {%- if event.youtube.size > 4 %} - (<a href="{{event.youtube}}">Watch the meeting recording</a>){%- endif -%}
+    </li>
+  {% endfor %}
+  </ul>
 {% endfor %}
-</ul>
-<br>
 

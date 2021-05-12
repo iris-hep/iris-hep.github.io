@@ -161,9 +161,8 @@ This block will make an expandable list. You give it the number of non-expanded 
 {% raw %}
 ```
 {% expandable my_array 10 %}
-- {{ expandable }}
+  {{ expandable }}
 {% endexpandable%}
 ```
 {% endraw %}
-
 
