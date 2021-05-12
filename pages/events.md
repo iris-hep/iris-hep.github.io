@@ -20,14 +20,19 @@ chronological order, grouped by months
 
 {%- include get_all_events.html -%}
 
-{% display_by_month all_events startdate %}
-  {% assign event = display_by_month %}
-  {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)
-  {% if event.abstractdeadline != nil %}
-    {% assign abs_date = event.abstractdeadline | date_to_long_string %}
-    (Abstract deadline: {{abs_date}})
-  {% endif %}
-{% enddisplay_by_month %}
+{% assign grouping = all_events | group_by_exp: "item", "item.startdate | date: '%B, %Y'"%}
 
-<br/>
+{% for pair in grouping %}
+  <h5>{{ pair.name }}</h5>
+  <ul>
+    {% for event in pair.items %}
+      <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)
+      {% if event.abstractdeadline != nil %}
+        {% assign abs_date = event.abstractdeadline | date_to_long_string %}
+        (Abstract deadline: {{abs_date}})
+      {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 

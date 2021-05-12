@@ -21,14 +21,16 @@ chronological order, grouped by months
 {% endcomment %}
 
 {% include get_indico_list.html %}
-{% assign selected_array = indico_list | reverse %}
+{% assign grouping = indico_list | reverse | group_by_exp: "item", "item.startdate | date: '%B, %Y'"%}
 
-{% display_by_month selected_array startdate %}
-  {% assign event = display_by_month %}
-  {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a>
-  {% if event.youtube.size > 4 %}
-  - (<a href="{{event.youtube}}">Watch the meeting recording</a>)
-  {% endif %}
-{% enddisplay_by_month %}
-
+{% for pair in grouping %}
+  <h5>{{ pair.name }}</h5>
+  <ul>
+  {% for event in pair.items %}
+    <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a>
+    {%- if event.youtube.size > 4 %} - (<a href="{{event.youtube}}">Watch the meeting recording</a>){%- endif -%}
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
 
