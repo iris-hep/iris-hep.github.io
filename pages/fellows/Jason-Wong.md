@@ -16,8 +16,8 @@ project_title: Developing Lorentz Equivariant Graph Neural Networks for Top Quar
 project_goal: >
     Top quark tagging is the process of labeling quarks and gluons from particle accelerator data. Machine learning helps automate this labeling process to help us understand physics and test theories. The goal of this project is to use graph neural networks to improve the accuracy of the labeling process and also imposing Lorentz symmetry into the network architecture to greatly reduce the training time.
 mentors:
-  - Savannah Thais (PU)
-  - Daniel Murnane (UCB)
+  - savvy379
+  - Daniel Murnane (Lawrence Berkeley National Laboratory)
 proposal: /assets/pdf/Fellow-Jason-Wong-Proposal.pdf
 presentations:
 current_status: >
