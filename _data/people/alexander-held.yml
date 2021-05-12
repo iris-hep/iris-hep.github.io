@@ -2,6 +2,7 @@ active: true
 e-mail: alexander.held@cern.ch
 focus-area:
 - as
+inspire-id: Alexander.Held.1
 institution: New York University
 name: Alexander Held
 photo: "/assets/images/team/alexander-held.jpeg"
@@ -78,6 +79,14 @@ presentations:
   url: https://indico.cern.ch/event/1005890/contributions/4222699/
   meeting: ATLAS Statistics Forum Meeting
   meetingurl: https://indico.cern.ch/event/1005890/
+  location: "(Virtual)"
+  focus-area: as
+  project: cabinetry
+- title: Building and steering template fits with cabinetry
+  date: 2021-05-19
+  url: https://indico.cern.ch/event/948465/contributions/4324154/
+  meeting: 25th International Conference on Computing in High Energy & Nuclear Physics
+  meetingurl: https://indico.cern.ch/event/948465/
   location: "(Virtual)"
   focus-area: as
   project: cabinetry
