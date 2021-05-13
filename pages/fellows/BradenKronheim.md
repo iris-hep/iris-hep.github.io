@@ -1,7 +1,7 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname: Braden-Kronheim
+shortname: brkronheim
 permalink: /fellows/BradenKronheim.html
 fellow-name: Braden Kronheim
 title: Braden Kronheim - IRIS-HEP Fellow
