@@ -180,7 +180,10 @@ for High Energy Physics
 a software institute funded by the National Science Foundation to
 develop a sustainable cyberinfrastructure to meet high-energy physics'
 computational and data-science challenges. "It's not something we should
-always be improvising."
+always be improvising." IRIS-HEP recently held a workshop on
+[Software Sustainability & High Energy Physics](https://arxiv.org/abs/2010.05102),
+which led to recommendations for HEP software developers, including around
+training, software, and people.
 
 Education forms a core element of IRIS-HEP's mission. Working with the
 [HEP Software
