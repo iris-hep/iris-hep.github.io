@@ -8,7 +8,7 @@ title: Braden Kronheim - IRIS-HEP Fellow
 active: True
 dates:
   start: 2021-05-31
-  end: 2021-08-80
+  end: 2021-08-20
 photo: /assets/images/team/Braden-Kronheim.jpg
 institution: Davidson College
 e-mail: brkronheim@davidson.edu
