@@ -19,7 +19,7 @@ Computer software permeates every stage of the research process, from
 conducting literature reviews to analyzing data to typesetting journal
 articles. A 2017 survey of members of the US National Postdoctoral
 Association found that [95
-percent](https://core.ac.uk/download/pdf/144828152.pdf)
+percent](https://doi.org/10.6084/m9.figshare.5328442.v3)
 respondents reported using research software.
 
 Yet the ones who code, test, and patch it often lack a defined career
