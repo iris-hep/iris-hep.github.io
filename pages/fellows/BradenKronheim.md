@@ -20,5 +20,5 @@ mentors:
   - Michelle Kuchera (Davidson College)
 proposal: /assets/pdf/Fellow-Braden-Kronheim-Proposal.pdf
 presentations:
-current_status: >
+current_status:
 ---
