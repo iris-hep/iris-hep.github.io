@@ -2,7 +2,7 @@
 layout: fellow
 pagetype: fellow
 shortname: brkronheim
-permalink: /fellows/BradenKronheim.html
+permalink: /fellows/brkronheim.html
 fellow-name: Braden Kronheim
 title: Braden Kronheim - IRIS-HEP Fellow
 active: True
