@@ -5,7 +5,7 @@ author: Eoin O'Carroll
 postimage: /assets/images/posts/20210512-Ianna-Osborne-CERN.jpg
 postimage-whole: true
 postimage-caption: |
-    Caption:  Ianna Osborne in the cavern with CMS detector and in the control room at CERN expecting first collisions. Credit: Ianna Osborne; CERN; and collage by PICSciE staff.
+    Ianna Osborne in the cavern with CMS detector and in the control room at CERN expecting first collisions. Credit: Ianna Osborne; CERN; and collage by PICSciE staff.
 summary: |
     Software is now fundamental to scientific research. Until recently, the people who build it have lacked recognition.
 ---
@@ -125,7 +125,7 @@ credential, with the first ones being conferred in June.
 {% include figure.html
    file="/assets/images/posts/20210512-Princeton-RSE.jpg"
    alt="Princeton RSEs mentor students and postdocs at the GPU Hackathon at Princeton University in 2019"
-   caption=" Caption: Princeton RSEs including Vineet Bansal, Troy Comi, and David Turner mentor students and postdocs at the NVIDIA-ORNL-Princeton GPU Hackathon at Princeton University in 2019. Credit: Floe Fusin-Wischusen, Princeton Institute for Computational Science and Engineering." %}
+   caption=" Princeton RSEs including Vineet Bansal, Troy Comi, and David Turner mentor students and postdocs at the NVIDIA-ORNL-Princeton GPU Hackathon at Princeton University in 2019. Credit: Floe Fusin-Wischusen, Princeton Institute for Computational Science and Engineering." %}
 
 Since 2018, PICSciE has provided RSEs and scientific programmers as
 mentors for its [computing
