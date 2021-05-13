@@ -169,7 +169,7 @@ inefficient."
 high-energy physics, where research projects can span decades. Beginning
 in 2027, the Large Hadron Collider is set to dramatically boost the
 amount of data it yields. Researchers expect the collider's "[exabyte
-era](https://iris-hep.org/2021/04/10/exabyte-era.html)
+era](https://iris-hep.org/2021/04/10/exabyte-era.html)"
 to extend through the 2030s.
 
 "We needed more structure, and not just grad students typing and then
