@@ -5,9 +5,9 @@
 {%- endif -%}
 
 {%- if include.caption -%}
-<figure class="{{include.class | default: "right"}} caption" style="{{include.figure-style}}">
+<figure class="{{include.class | default: "right"}} caption iris-figure" style="{{include.figure-style}}">
 {%- else -%}
-<figure class="{{include.class | default: "right"}}" style="{{include.figure-style}}">
+<figure class="{{include.class | default: "right"}} iris-figure" style="{{include.figure-style}}">
 {%- endif -%}
 <a href="{{url}}">
   <img alt="{{include.alt}}" src="{{include.file}}" style="{{include.img-style}}">
