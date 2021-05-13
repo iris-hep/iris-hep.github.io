@@ -53,7 +53,7 @@ gathering aimed to unite scientists with trained programmers.
    file="/assets/images/posts/20210512-Ian-Cosden-RSE-Leaders.png"
    alt="Ian Cosden, Sandra Gesing and other participants at the International RSE Leaders Meeting, January, 2018"
    caption=" Ian Cosden and other participants at the International RSE Leaders Meeting gather around an Enigma M4 machine on display at the Turing Institute in London in January 2018.
-Credit: UK Research Software Engineers Association" %}
+Credit: UK Research Software Engineers Association." %}
 
 A breakout discussion at the workshop raised concerns that academic
 programmers lacked institutional support, a defined career track, and,
