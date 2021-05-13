@@ -85,8 +85,8 @@ confidence that we were on the right path."
 
 In 2016,  Jeroen Tromp, the director of the [Princeton Institute for
 Computational Science and Engineering
-(PICSciE)](https://researchcomputing.princeton.edu/about/about-picscie)
-a key role in creating Princeton’s RSE team, which is now about to hire
+(PICSciE)](https://researchcomputing.princeton.edu/about/about-picscie),
+played a key role in creating Princeton’s RSE team, which is now about to hire
 its 11th member. He says modern research software is far too complex and
 fragile to be left solely to students or other researchers whose
 positions are transient.
