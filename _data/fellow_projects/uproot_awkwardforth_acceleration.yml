@@ -1,0 +1,22 @@
+open: yes
+postdate: 2021-05-13
+title: Accelerating Uproot with AwkwardForth
+description: >
+  [Uproot](https://github.com/scikit-hep/uproot4#readme) is a Python library that
+  reads and writes ROOT files, the file format for nearly all particle physics data.
+  ([Over an exabyte](https://root.cern/) of data is stored in the ROOT format.) As
+  described [in this talk](https://indico.cern.ch/event/948465/contributions/4324131),
+  Uproot can only read data types that have a columnar layout _quickly_; data types
+  with a record-oriented layout are hundreds of times slower. The same talk describes
+  a solution: generating AwkwardForth code to read the data, rather than generating
+  Python code to read the data, where AwkwardForth is a dialect of Forth, specialized
+  for deserializing record-oriented data into columnar data. A successful candidate
+  would add routines to generate AwkwardForth code in Python to deserialize C++
+  objects into [Awkward Arrays](https://github.com/scikit-hep/awkward-1.0#readme)—a
+  very multilingual experience! The successful candidate would also monitor
+  performance: adding these routines is expected to speed up deserialization of types
+  like `std::vector<std::vector<float>>` by over 100× (see talk and the accompanying
+  [paper](https://arxiv.org/abs/2102.13516)).
+contacts:
+  - jpivarski
+  - ianna
