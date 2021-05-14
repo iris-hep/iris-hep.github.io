@@ -15,7 +15,7 @@ presentations:
   meeting: 12 May 2021 GDB
   meetingurl: https://indico.cern.ch/event/876789/
   location: Virtual
-  focus-area: osg-lhc
+  focus-area: osglhc
   project: osg-software
 - title: OSG Services and Kubernetes
   date: 2021-02-11
