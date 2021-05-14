@@ -9,6 +9,14 @@ shortname: brianhlin
 title: OSG Software Team Manager
 website:
 presentations:
+- title: OSG/GlideinWMS Token Auth Update
+  date: 2021-05-12
+  url: https://indico.cern.ch/event/876789/contributions/4349454/
+  meeting: 12 May 2021 GDB
+  meetingurl: https://indico.cern.ch/event/876789/
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
 - title: OSG Services and Kubernetes
   date: 2021-02-11
   url: https://docs.google.com/presentation/d/1c25EB9LrvjRxTI0Vv6XhiV7SjybGjb8frHq7Kqo7oGA/edit?usp=sharing
