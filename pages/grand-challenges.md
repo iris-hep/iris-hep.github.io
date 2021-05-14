@@ -29,7 +29,7 @@ IRIS-HEP is engaged in these challenges at all levels via projects in multiple o
 
 The large increase in data volume at the HL-LHC requires rethinking how physicists interact with the data when developing and performing analysis. In addition to raw throughput, it is critical that analysis systems are flexible, easy to use, and have low latency to facilitate the design stages. The Analysis Grand Challenge was designed to span the scope of Analysis Systems focus area, transverse a vertical slice through the tools being developed by the Analysis Systems focus area, and increase intra-Institute connections with DOMA and SSL. The goal is to demonstrate that the analysis system can not only cope with the increased data volume, but can also deliver enhanced functionality compared to the analysis systems used at the LHC today. The challenge is formulated as a user story with assumptions, and acceptance criteria.
 
-The Analysis Grand Challenge includes both integration of software components for analyzing the data as well as the deployment of the analysis software at analysis facilities. The vertical slice implements the functionality needed for a prototypical analysis use case with a moderately complex analysis with multiple event selection requirements, observables to be histogrammed, and systematic uncertainties that must be taken into account. The image below gives an overview of the software tools that must be integrated for this vertical slice. 
+The Analysis Grand Challenge includes both integration of software components for analyzing the data as well as the deployment of the analysis software at analysis facilities. The vertical slice implements the functionality needed for a prototypical analysis use case with a moderately complex analysis with multiple event selection requirements, observables to be histogrammed, and systematic uncertainties that must be taken into account. The image below gives an overview of the software tools that must be integrated for this vertical slice.
 
 {% include figure.html
   alt="Analysis Systems Scope"
@@ -40,8 +40,8 @@ The Analysis Grand Challenge includes both integration of software components fo
 
 
 In addition, the challenge incorporates enhanced functionality relative to the  the analysis systems used at the LHC today
-- End-to-end analysis optimization including systematics on a realistically sized HL-LHC (∼200 TB) end-user analysis dataset 
-- Analysis Preservation & Reinterpretation: The ability to preserve the optimized analysis (in git repositories, docker images, workflow components, etc.), reproduce results, and reinterpret the analysis with a new signal hypothesis. 
+- End-to-end analysis optimization including systematics on a realistically sized HL-LHC (∼200 TB) end-user analysis dataset
+- Analysis Preservation & Reinterpretation: The ability to preserve the optimized analysis (in git repositories, docker images, workflow components, etc.), reproduce results, and reinterpret the analysis with a new signal hypothesis.
 
 
 The inclusion of differentiable programming, a relatively new concept in HEP, into the challenge carries some risks. We note however that it has the potential to move the field forward in several important ways:
