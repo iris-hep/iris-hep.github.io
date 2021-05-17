@@ -81,8 +81,9 @@ If you believe someone is violating the code of conduct or if you have specific
 concerns, please report this in a timely manner. Code of conduct violations
 reduce the value of the community for everyone and we take them seriously.
 
-Please contact any member of the [IRIS-HEP Executive Board][] or email Floe
-Fusin-Wischusen.
+Please contact any member of the IRIS-HEP Executive Board or email Floe
+Fusin-Wischusen, Institute Manager, Princeton Institute for Computational
+Science & Engineering at [floe@princeton.edu](mailto:floe@princeton.edu).
 
 [Parts of this Code of Conduct was adapted from the Project JupyterHub’s Code
 of Conduct (Some content on this page is licensed under a [Creative Commons
