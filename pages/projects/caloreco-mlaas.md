@@ -18,9 +18,9 @@ Machine learning has become an extremely popular solution for a broad range of p
 While the application of machine learning can offer unrivaled performance, its use can also be expensive from both a latency and a computation perspective.
 Out of the machine learning revolution new processor technologies have emerged, which lead to large algorithmic speedups. These new processors include GPUs, and Field Programmable Gate Arrays (FPGAs).
 Both GPUs, and FPGAs have different advantages. GPUs yield very large speed ups in algorithmic throughput. Whereas, FPGAs yield very large single algorithmic inference speed ups.
-The speed-ups presented through both these new processor technologies are remarkable, and it is the goal of this project to demonstrate the effectiveness of this new processor technologies within realistic workflows at the LHC and eventually to deploy them.  
+The speed-ups presented through both these new processor technologies are remarkable, and it is the goal of this project to demonstrate the effectiveness of this new processor technologies within realistic workflows at the LHC and eventually to deploy them.
 The strategy of this project is to find specfic algorithms that take long latencies and replace them with machine learning algorithm that is significantly faster.
-The focus so far of this work has been on the reconstruction of the CMS Hadronic calorimeter. 
+The focus so far of this work has been on the reconstruction of the CMS Hadronic calorimeter.
 
 This work consists of both the further development of the [hls4ml](https://fastmachinelearning.org/hls4ml/) tool ([J. Duarte et al. 2018](https://arxiv.org/abs/1804.06913)) as well as the study of applications for fast inference on FPGAs and GPUs.
 Ongoing developments of the hls4ml tool itself include wider support for neural network layer architectures and machine learning libraries, and improvements to the performance of the tools for large networks.
@@ -37,6 +37,6 @@ AWS has been used extensively for prototyping applications in heterogeneous envi
 
 Out of this work has emerged the SONIC framework. This framework exploits asynchronous scheduling from IntelTBB to simultaneously run CMS reconstruction, and remote neural network algorithms at the LHC.
 In particular, we have now developed an Hcal reconstruction algorith, which yields improved Hcal reconstruction, MET/Jet performance, and can be run within SONIC.
-We observe a 10% reduction in the operation of the CMS HLT reconstruction, and we have constructed a set of guidelines that we can use for deploying as-aservice computing at teh LHC. 
+We observe a 10% reduction in the operation of the CMS HLT reconstruction, and we have constructed a set of guidelines that we can use for deploying as-aservice computing at teh LHC.
 
 
