@@ -16,10 +16,12 @@ presentations:
   location:
   focus-area: ia
   project: caloreco-mlaas
-- title: Using GPUs and FPGAs as-a-service for LHC computing
+
+- title: FPGAs-as-a-Service Toolkit (FaaST)
   date: 2020-09-09
-  url: https://indico.cern.ch/event/942656/contributions/3960947/attachments/2100003/3530357/irishep_aas_09sep20.pdf
-  meeting: IRIS-HEP topical meeting
-  meetingurl: https://indico.cern.ch/event/942656/
+  url: https://sc20.supercomputing.org/proceedings/workshops/workshop_pages/ws_h2rc103.html
+  meeting: H2RC'20 (SC20)
+  meetingurl: https://sc20.supercomputing.org/proceedings/workshops/workshop_sessions.html#sess225
   focus-area: ia
   project: caloreco-mlaas
+

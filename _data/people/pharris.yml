@@ -5,6 +5,33 @@ institution: Massachusetts Institute of Technology
 name: Philip Harris
 photo: "/assets/images/team/Phil_Harris.jpg"
 shortname: pharris
-title:
-website:
+title: Assistant Professor of Physics
+website: https://physics.mit.edu/faculty/philip-harris/
 presentations:
+- title: ML Acceleration with Heterogenous computing for big data Physics
+  date: 2019-11-17
+  url: https://h2rc.cse.sc.edu/2019/slides/invited1_Harris.pdf
+  meeting: SC19, H2RC
+  meetingurl: https://sc19.supercomputing.org/presentation/?id=wksp128&sess=sess110
+  location:
+  focus-area: ia
+  project: caloreco-mlaas
+
+- title: Scientific Applications of FPGAs at the LHC
+  date: 2021-03-01
+  url: https://dl.acm.org/doi/10.1145/3431920.3437119
+  meeting: FPGA' 21
+  meetingurl: https://dl.acm.org/doi/proceedings/10.1145/3431920
+  location:
+  focus-area: ia
+  project: caloreco-mlaas
+
+- title:  Quick and Quirk with Quarks
+  date: 2021-03-01
+  url: https://www.youtube.com/watch?v=9_vNh09qqmw
+  meeting: IAIFI colloquium
+  meetingurl: https://twitter.com/iaifi_news
+  location:
+  focus-area: ia
+  project: caloreco-mlaas
+
