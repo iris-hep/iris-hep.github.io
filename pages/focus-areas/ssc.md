@@ -69,15 +69,28 @@ scientists.
 
 ---
 
-Links to the training activities are provided below:
+#### Recent Events
+{% include get_all_events.html %}
+{% assign sorted_events = all_events | sort: 'startdate' | reverse %}
+{% assign training_events = "" | split: "," %}
+{% for event in sorted_events %}
+{% if event.labels %}
+{% if event.labels contains "training" %}
+{% assign training_events = training_events | push: event %}
+{% endif %}
+{% endif %}
+{% endfor %}
 
+{% expandable training_events 5 %}
+{% include print_event.html event=expandable %}
+{% endexpandable %}
 
-**Events**: Check out [ongoing training activities here.](https://indico.cern.ch/category/11386/)<br/>
-**Training Modules**: All the [training modules can be found here.][introductory HEP software curriculum]<br/>
-**Community:** [Engage and find out more about our training community here.][HSF community]<br/>
-**Request Training:** [Click here to request and organize a training.](https://hepsoftwarefoundation.org/training/howto-event.html)<br/>
-**Questions?** Contact Sudhir Malik (sudhir.malik@upr.edu)<br/>
-
+### Links for more information:
+- **Events**: Check out [ongoing training activities here.](https://indico.cern.ch/category/11386/)<br/>
+- **Training Modules**: All the [training modules can be found here.][introductory HEP software curriculum]<br/>
+- **Community:** [Engage and find out more about our training community here.][HSF community]<br/>
+- **Request Training:** [Click here to request and organize a training.](https://hepsoftwarefoundation.org/training/howto-event.html)<br/>
+- **Questions?** Contact Sudhir Malik (sudhir.malik@upr.edu)<br/>
 
 
 [HSF]: https://hepsoftwarefoundation.org

@@ -5,3 +5,5 @@ location: CERN
 meetingurl: https://indico.cern.ch/event/834411
 image:
 description:
+labels:
+- training
