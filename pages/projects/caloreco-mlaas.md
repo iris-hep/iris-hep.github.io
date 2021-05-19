@@ -37,6 +37,6 @@ AWS has been used extensively for prototyping applications in heterogeneous envi
 
 Out of this work has emerged the SONIC framework. This framework exploits asynchronous scheduling from IntelTBB to simultaneously run CMS reconstruction, and remote neural network algorithms at the LHC.
 In particular, we have now developed an Hcal reconstruction algorith, which yields improved Hcal reconstruction, MET/Jet performance, and can be run within SONIC.
-We observe a 10% reduction in the operation of the CMS HLT reconstruction, and we have constructed a set of guidelines that we can use for deploying as-aservice computing at teh LHC.
+We observe a 10% reduction in the operation of the CMS HLT reconstruction, and we have constructed a set of guidelines that we can use for deploying as-aservice computing at the LHC.
 
 
