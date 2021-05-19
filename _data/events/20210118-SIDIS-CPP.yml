@@ -1,0 +1,10 @@
+name: C++ Course and Hands-on Training
+startdate: 2021-01-18
+enddate: 2021-01-22
+location: Virtual
+meetingurl: https://indico.cern.ch/event/979067/
+image:
+students: 75
+description: Second iteration of a C++ course for the high energy physics community organised in collaboration between the Software Institute for Data Intensive Sciences and the Training Working Group of the HEP Software Foundation.
+labels:
+- training
