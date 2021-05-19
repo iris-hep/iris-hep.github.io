@@ -88,7 +88,7 @@ scientists.
 {% endfor %}
 
 {% expandable training_events 7 %}
-{% include print_event.html event=expandable %}
+{% include print_event.html students=1 event=expandable %}
 {% endexpandable %}
 
 ### Links for more information:
