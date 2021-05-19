@@ -5,3 +5,5 @@ location: FNAL
 meetingurl: https://indico.fnal.gov/event/20233
 image:
 description: Software Carpentry Workshop
+labels:
+- training
