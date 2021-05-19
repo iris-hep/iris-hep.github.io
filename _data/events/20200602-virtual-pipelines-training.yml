@@ -3,5 +3,6 @@ startdate: 2020-06-02
 enddate: 2020-06-04
 location: Virtual
 meetingurl: https://indico.cern.ch/event/904759/
+students: 250
 image:
 description: This is the first attempt at a fully virtual HEP Software Foundation training event to help you learn a single tools that is becoming ubiquitous in our community - "CI/CD" (if you aren't sure what that means and how to use it, you'll probably want to join us).
