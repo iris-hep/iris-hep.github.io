@@ -6,6 +6,12 @@ short_title: ssc
 pagetype: focus-area
 ---
 
+#### Quick links
+- <a href="#tr_events">Upcoming and recent events</a>
+- [Training Modules and videos][introductory HEP software curriculum]
+- [HSF Training Events][HSF events]
+
+#### Introduction
 
 The long-term sustainability of the research software ecosystem is particularly
 important for HEP, given that the HL-LHC and other facilities of the 2020s will
@@ -69,7 +75,7 @@ scientists.
 
 ---
 
-#### Recent Events
+<h4 id="tr_events" style="padding-top:90px; margin-top: -90px;">Upcoming and Recent Training and Outreach Events</h4> 
 {% include get_all_events.html %}
 {% assign sorted_events = all_events | sort: 'startdate' | reverse %}
 {% assign training_events = "" | split: "," %}
@@ -81,13 +87,13 @@ scientists.
 {% endif %}
 {% endfor %}
 
-{% expandable training_events 5 %}
+{% expandable training_events 7 %}
 {% include print_event.html event=expandable %}
 {% endexpandable %}
 
 ### Links for more information:
-- **Events**: Check out [ongoing training activities here.](https://indico.cern.ch/category/11386/)<br/>
-- **Training Modules**: All the [training modules can be found here.][introductory HEP software curriculum]<br/>
+- **HSF Training Events**: Check out [ongoing training activities here.][HSF events]<br/>
+- **Training Modules and videos**: All the [training modules can be found here.][introductory HEP software curriculum]<br/>
 - **Community:** [Engage and find out more about our training community here.][HSF community]<br/>
 - **Request Training:** [Click here to request and organize a training.](https://hepsoftwarefoundation.org/training/howto-event.html)<br/>
 - **Questions?** Contact Sudhir Malik (sudhir.malik@upr.edu)<br/>
@@ -95,6 +101,7 @@ scientists.
 
 [HSF]: https://hepsoftwarefoundation.org
 [HSF community]: https://hepsoftwarefoundation.org/training/community.html
+[HSF events]: https://hepsoftwarefoundation.org/Schools/events.html
 [FIRST-HEP]: https://first-hep.org
 [Carpentries]: https://software-carpentry.org
 [introductory HEP software curriculum]: https://hepsoftwarefoundation.org/training/curriculum.html
