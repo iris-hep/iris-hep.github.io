@@ -21,6 +21,16 @@
   {% assign selected_videos = selected_videos | concat: videos %}
 {% endif %}
 
+{% if projects.size == 0 %}
+{% if people.size == 0 %}
+{% if f_areas.size == 0 %}
+{% assign selected_videos = all_videos %}
+{% endif %}
+{% endif %}
+{% endif %}
+
+
+
 {% if include.nvideos %}
   {% assign selected_videos = selected_videos | slice: 0, include.nvideos %}
 {% endif %}
