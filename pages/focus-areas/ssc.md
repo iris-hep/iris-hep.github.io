@@ -75,7 +75,7 @@ scientists.
 
 ---
 
-<h4 id="tr_events" style="padding-top:90px; margin-top: -90px;">Upcoming and Recent Training and Outreach Events</h4> 
+<h4 id="tr_events" style="padding-top:90px; margin-top: -90px;">Upcoming and Recent Training and Outreach Events</h4>
 {% include get_all_events.html %}
 {% assign sorted_events = all_events | sort: 'startdate' | reverse %}
 {% assign training_events = "" | split: "," %}
