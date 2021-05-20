@@ -97,6 +97,7 @@ scientists.
 - **Request or help organize training:** [Click here to request and organize a training.](https://hepsoftwarefoundation.org/training/howto-event.html)
 - **Selected training resources**
   - [All HSF training modules.][introductory HEP software curriculum]<br/>
+  - [OSG 2020 Virtual School Pilot](https://opensciencegrid.org/virtual-school-pilot-2020/#materials)
   - [HSF training videos](https://www.youtube.com/c/HEPSoftwareFoundation/playlists) on YouTube.
   - [Software Carpentry lessons](https://software-carpentry.org/lessons/).
   - Most recent SIDIS/HSF [C++ course lectures](https://indico.cern.ch/event/979067/) (Scroll to the end of the page to find them)
