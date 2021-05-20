@@ -93,10 +93,17 @@ scientists.
 
 ### Links for more information:
 - **HSF Training Events**: Check out [ongoing training activities here.][HSF events]<br/>
-- **Training Modules and videos**: All the [training modules can be found here.][introductory HEP software curriculum]<br/>
-- **Community:** [Engage and find out more about our training community here.][HSF community]<br/>
-- **Request Training:** [Click here to request and organize a training.](https://hepsoftwarefoundation.org/training/howto-event.html)<br/>
-- **Questions?** Contact Sudhir Malik (sudhir.malik@upr.edu)<br/>
+- **Community:** [Engage and find out more about the HSF training community here.][HSF community]<br/>
+- **Request or help organize training:** [Click here to request and organize a training.](https://hepsoftwarefoundation.org/training/howto-event.html)
+- **Selected training resources**
+  - [All HSF training modules.][introductory HEP software curriculum]<br/>
+  - [OSG 2020 Virtual School Pilot](https://opensciencegrid.org/virtual-school-pilot-2020/#materials)
+  - [HSF training videos](https://www.youtube.com/c/HEPSoftwareFoundation/playlists) on YouTube.
+  - [Software Carpentry lessons](https://software-carpentry.org/lessons/).
+  - Most recent SIDIS/HSF [C++ course lectures](https://indico.cern.ch/event/979067/) (Scroll to the end of the page to find them)
+<br/>
+
+**Questions/Ideas?** Contact Sudhir Malik (sudhir.malik@upr.edu)<br/>
 
 
 [HSF]: https://hepsoftwarefoundation.org
