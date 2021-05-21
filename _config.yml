@@ -19,9 +19,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has been established to meet the software and computing challenges of the planned upgrades to the Large Hadron Collider, the world's most powerful particle accelerator.  IRIS-HEP pursues R&D for the software needed to acquire, manage, process and analyze the torrent of data that will be produced by the upgrade accelerator and its detectors as part of the search for discoveries beyond the Standard Model of Particle Physics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://iris-hep.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: iris_hep
+twitter:
+  username: iris_hep
 github_username:  iris-hep
 excerpt_separator: <!--more-->
+logo: /assets/logos/Iris-hep-5-just-graphic.png
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/logos/Iris-hep-5-just-graphic.png
 
 # Build settings
 markdown: kramdown
