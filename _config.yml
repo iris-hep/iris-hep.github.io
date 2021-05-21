@@ -22,6 +22,7 @@ url: "http://iris-hep.org" # the base hostname & protocol for your site, e.g. ht
 twitter_username: iris_hep
 github_username:  iris-hep
 excerpt_separator: <!--more-->
+twitter-img: /assets/logos/Iris-hep-5-just-graphic.png
 
 # Build settings
 markdown: kramdown
