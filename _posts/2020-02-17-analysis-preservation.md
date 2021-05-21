@@ -2,8 +2,8 @@
 layout: irispost
 title: Analysis Preservation Bootcamp
 author: Lukas Heinrich and Kyle Cranmer
-postimage: /assets/images/posts/2020-02-17-preservation-reproduced-plots.jpeg
-postimage-caption: "Participants in [Analysis Preservation Bootcamp](https://indico.cern.ch/event/awesome) showing off their ability to reproduce an LHC analysis. Photo Credit: Samuel Meehan"
+image: /assets/images/posts/2020-02-17-preservation-reproduced-plots.jpeg
+image-caption: "Participants in [Analysis Preservation Bootcamp](https://indico.cern.ch/event/awesome) showing off their ability to reproduce an LHC analysis. Photo Credit: Samuel Meehan"
 postbanner: /assets/images/posts/2020-02-17-preservation-thumbs-up.jpeg
 summary: "The first [Analysis Preservation Bootcamp](https://indico.cern.ch/event/awesome) was held at CERN from February 17-19, 2020. Thirty graduate students and postdocs learned these new technologies aimed at ensuring reproducibility, streamlining onboarding, and extending the impact of LHC analyses through reuse."
 ---

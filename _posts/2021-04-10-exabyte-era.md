@@ -2,9 +2,9 @@
 layout: irispost
 title: High-energy physics opens its doors to the exabyte era
 author: Eoin O'Carroll
-postimage: /assets/images/posts/20210410-Oksana-Shadura-CERN.jpg
-postimage-whole: true
-postimage-caption: |
+image: /assets/images/posts/20210410-Oksana-Shadura-CERN.jpg
+image-whole: true
+image-caption: |
     Oksana Shadura, a software developer at University of Nebraska-Lincoln based at CERN, Switzerland, is creating an interactive analysis facility for the high-energy physics community. Working with IRIS-HEP’s Data Organization, Management and Access team (DOMA@IRIS-HEP), Dr. Shadura helps physicists work with the wider Python ecosystem and other novel programming paradigms. Credit: CERN
 summary: |
     As the high-energy physics community prepares for the High-Luminosity LHC, new data science challenges await.

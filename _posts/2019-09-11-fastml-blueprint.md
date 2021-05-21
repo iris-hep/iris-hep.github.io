@@ -2,8 +2,8 @@
 layout: irispost
 title: Workshop on Accelerated Machine Learning and Inference (FastML)
 author: Melissa Moss and Peter Elmer
-postimage: /assets/images/20190911-fastml-georgia-karagiorgi.jpg
-postimage-caption: "Georgia Karagiorgi (Columbia University) describes the opportunities for fast machine learning for the neutrino physics program. Photo Credit: Marguerite Tonjes (FNAL)."
+image: /assets/images/20190911-fastml-georgia-karagiorgi.jpg
+image-caption: "Georgia Karagiorgi (Columbia University) describes the opportunities for fast machine learning for the neutrino physics program. Photo Credit: Marguerite Tonjes (FNAL)."
 postbanner: /assets/images/20190911-fastml-workshop-19-0152-01.jpg
 summary: "From September 10-11 at Fermi National Accelerator Laboratory (Fermilab), over 200 scientists gathered for a workshop to explore ultrafast deep learning algorithms and inference technologies, as well as the strategies driving cutting-edge ML for high energy physics."
 ---

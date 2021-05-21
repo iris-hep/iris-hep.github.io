@@ -2,9 +2,9 @@
 layout: irispost
 title: Building a career path for research software engineers
 author: Eoin O'Carroll
-postimage: /assets/images/posts/20210512-Ianna-Osborne-CERN.jpg
-postimage-whole: true
-postimage-caption: |
+image: /assets/images/posts/20210512-Ianna-Osborne-CERN.jpg
+image-whole: true
+image-caption: |
     Ianna Osborne in the cavern with CMS detector and in the control room at CERN expecting first collisions. Credit: Ianna Osborne; CERN; and collage by PICSciE staff.
 summary: |
     Software is now fundamental to scientific research. Until recently, the people who build it have lacked recognition.
