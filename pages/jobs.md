@@ -30,9 +30,6 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
 
-### University of California, San Diego
-  * [Scientific Software Developer and Researcher](https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=108447)
-
 ### University of Wisconsin–Madison
   * [Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/508915/associate-computing-infrastructure-administrator)
 
