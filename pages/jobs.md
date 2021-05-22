@@ -6,10 +6,13 @@ title: Available Positions
 
 # IRIS-HEP and Collaborating Projects
 
- A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
+A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
 ### University of Nebraska - Lincoln
   * [Postdoctoral Research Associate on CMS](https://inspirehep.net/jobs/1849488)
+
+### University of Washington, Seattle
+  * [Postdoc on Exotics Physics and IRIS-HEP Analysis Software](https://inspirehep.net/jobs/1863400)
 
 # Other positions of interest for HEP people
 
