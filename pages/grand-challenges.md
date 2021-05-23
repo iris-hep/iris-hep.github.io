@@ -15,7 +15,7 @@ During a nominal year of HL-LHC data taking, ATLAS and CMS together expect to ta
 The RAW data will reside on tape archives across the Tier-1s and CERN, and will get processed at Tier-1s, Tier-2s, and HPC centers. It is highly likely that the two experiments will overlap in time and at least some processing locations, e.g. the large DOE and NSF HPC centers. And it is virtually guaranteed that both will overlap on many network segments worldwide.
 
 IRIS-HEP, together with the US LHC Operations programs, the ATLAS and CMS global collaborations, and the WLCG
-arrived at a series of data challenges for the next several years (2021, 20203, 2025, 2027),
+arrived at a series of data challenges for the next several years (2021, 2023, 2025, 2027),
 during which the capabilities and performance of the global infrastructure will be slowly scaled out to reach HL-LHC requirements.
 This includes three levels of challenges that interleave and build on each other.
 First, there will be functionality evaluations during which new functionality of various infrastructure software products are tested.
