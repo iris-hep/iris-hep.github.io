@@ -1,8 +1,10 @@
+active: true
+focus-area:
+- osglhc
+institution: Indiana University
 name: Zalak Shah
+photo: "/assets/images/team/Zalak-Shah.jpg"
 shortname: zsshah
 title: Systems Analyst
-active: true
-institution: Indiana University
-website: https://cacr.iu.edu/about/people/staff/zalak-shah.php
-photo: /assets/images/team/Zalak-Shah.jpg
+website: https://cacr.iu.edu/about/people/zalak-shah.html
 presentations:

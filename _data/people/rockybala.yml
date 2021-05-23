@@ -1,26 +1,34 @@
+active: true
+focus-area:
+- ia
+institution: Stanford University
 name: Rocky Bala Garg
+photo: "/assets/images/team/Rocky-Garg.jpg"
 shortname: rockybala
 title:
-active: true
-institution: Stanford University
 website: https://github.com/rockybala
-photo: /assets/images/team/Rocky-Garg.jpg
 presentations:
-  - title: "Acts Integration into Athena"
-    date: 2020-05-15
-    url:
-    meeting: "SLAC ATLAS meeting"
-    meetingurl:
-    location: SLAC
-  - title: "Athena-ACTS Wrapper: Iterative Vertex Finder with Full Billoir Fitter"
-    date: 2021-02-12
-    url:
-    meeting: "SLAC ATLAS meeting"
-    meetingurl:
-    location: SLAC
-  - title: "Parameter Optimization and Layer Linking in ACTS track Seeding"
-    date: 2021-02-26
-    url: https://indico.cern.ch/event/1010520/contributions/4249433/attachments/2197746/3716120/ACTS_ML_Meeting_Feb26.pdf
-    meeting: "ACTS Machine Learning Meeting"
-    meetingurl: https://indico.cern.ch/event/1010520/
-    location: CERN
+- title: Acts Integration into Athena
+  date: 2020-05-15
+  url:
+  meeting: SLAC ATLAS meeting
+  meetingurl:
+  location: SLAC
+  project: acts
+  focus-area: ia
+- title: 'Athena-ACTS Wrapper: Iterative Vertex Finder with Full Billoir Fitter'
+  date: 2021-02-12
+  url:
+  meeting: SLAC ATLAS meeting
+  meetingurl:
+  location: SLAC
+  project: acts
+  focus-area: ia
+- title: Parameter Optimization and Layer Linking in ACTS track Seeding
+  date: 2021-02-26
+  url: https://indico.cern.ch/event/1010520/contributions/4249433/attachments/2197746/3716120/ACTS_ML_Meeting_Feb26.pdf
+  meeting: ACTS Machine Learning Meeting
+  meetingurl: https://indico.cern.ch/event/1010520/
+  location: CERN
+  project: acts
+  focus-area: ia

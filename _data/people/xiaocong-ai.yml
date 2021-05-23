@@ -1,70 +1,74 @@
+active: false
+focus-area:
+- ia
+institution: University of California, Berkeley
 name: Xiaocong Ai
+photo: "/assets/images/team/Xiaocong-Ai.jpg"
 shortname: xiaocong-ai
 title: Postdoc and ACTS
-active: false
-institution: University of California, Berkeley
-photo: /assets/images/team/Xiaocong-Ai.jpg
 presentations:
-  - title: Initial studies of ACTS tracking performance with GPUs
-    date: 2020-08-26
-    url: https://indico.cern.ch/event/939577/contributions/3947654/attachments/2091938/3515237/IRIS_HEP_GPU_Xiaocong.pdf
-    meeting: IRIS-HEP Topical meeting
-    meetingurl: https://indico.cern.ch/event/939577
-    focus-area: ia
-    project: acts
-  - title: "Summary of Wednesday Session: Core Developments"
-    date: 2020-05-29
-    url: https://indico.cern.ch/event/917970/contributions/3884685/attachments/2047803/3431426/ACTS_workshop_CoreDev_Summary.pdf
-    meeting: ACTS Tracking for HEP Workshop
-    meetingurl: https://indico.cern.ch/event/917970/
-    focus-area: ia
-    project: acts
-  - title: "ACTS Propagation on GPUs"
-    date: 2020-05-28
-    url: https://indico.cern.ch/event/917970/contributions/3878405/attachments/2046225/3429441/ACTS_workshop_propagator_GPU.pdf
-    meeting: ACTS Tracking for HEP Workshop
-    meetingurl: https://indico.cern.ch/event/917970/
-    focus-area: ia
-    project: acts
-  - title: "ACTS Track fitting/finding Tutorial"
-    date: 2020-05-26
-    url: https://indico.cern.ch/event/917970/contributions/3862004/attachments/2043773/3426210/ACTS_Track_fitting_finding_Tutorial.pdf
-    meeting: ACTS Tracking for HEP Workshop
-    meetingurl: https://indico.cern.ch/event/917970/
-    focus-area: ia
-    project: acts
-  - title: "ACTS Project Status"
-    date: 2020-05-25
-    url: https://indico.cern.ch/event/917970/contributions/3861752/attachments/2043758/3424088/ACTS_workshop_Xiaocong.pdf
-    meeting: ACTS Tracking for HEP Workshop
-    meetingurl: https://indico.cern.ch/event/917970/
-    focus-area: ia
-    project: acts
-  - title: "Tracking performance with ACTS"
-    date: 2020-04-22
-    url: https://indico.cern.ch/event/831165/contributions/3717113/attachments/2024363/3396410/ACTS_CTD_Xiaocong.pdf
-    meeting: Connecting The Dots 2020
-    meetingurl: https://indico.cern.ch/event/831165/
-    focus-area: ia
-    project: acts
-  - title: "Track fitting/finding with ACTS"
-    date: 2020-02-19
-    url: https://indico.cern.ch/event/889047/contributions/3749030/attachments/1990315/3319040/IRIS_HEP_topical_meeting_Xiaocong.pdf
-    meeting: Iris-hep topical meeting
-    meetingurl: https://indico.cern.ch/event/889047/
-    focus-area: ia
-    project: acts
-  - title: "ACTS Status"
-    date: 2019-08-08
-    url: https://indico.cern.ch/event/813855/contributions/3504321/attachments/1891443/3119406/USATLAS_ACTS_Xiaocong.pdf
-    meeting: USATLAS Summer Workshop
-    meetingurl: https://indico.cern.ch/event/813855/
-    focus-area: ia
-    project: acts
-  - title: "ACTS: a common track reconstruction software"
-    date: 2019-07-31
-    url: https://indico.cern.ch/event/782953/contributions/3462562/attachments/1888325/3115216/DPF2019_ACTS_Xiaocong.pdf
-    meeting: DPF 2019
-    meetingurl: https://indico.cern.ch/event/782953/
-    focus-area: ia
-    project: acts
+- title: Initial studies of ACTS tracking performance with GPUs
+  date: 2020-08-26
+  url: https://indico.cern.ch/event/939577/contributions/3947654/attachments/2091938/3515237/IRIS_HEP_GPU_Xiaocong.pdf
+  meeting: IRIS-HEP Topical meeting
+  meetingurl: https://indico.cern.ch/event/939577
+  focus-area: ia
+  project: acts
+- title: 'Summary of Wednesday Session: Core Developments'
+  date: 2020-05-29
+  url: https://indico.cern.ch/event/917970/contributions/3884685/attachments/2047803/3431426/ACTS_workshop_CoreDev_Summary.pdf
+  meeting: ACTS Tracking for HEP Workshop
+  meetingurl: https://indico.cern.ch/event/917970/
+  focus-area: ia
+  project: acts
+- title: ACTS Propagation on GPUs
+  date: 2020-05-28
+  url: https://indico.cern.ch/event/917970/contributions/3878405/attachments/2046225/3429441/ACTS_workshop_propagator_GPU.pdf
+  meeting: ACTS Tracking for HEP Workshop
+  meetingurl: https://indico.cern.ch/event/917970/
+  focus-area: ia
+  project: acts
+- title: ACTS Track fitting/finding Tutorial
+  date: 2020-05-26
+  url: https://indico.cern.ch/event/917970/contributions/3862004/attachments/2043773/3426210/ACTS_Track_fitting_finding_Tutorial.pdf
+  meeting: ACTS Tracking for HEP Workshop
+  meetingurl: https://indico.cern.ch/event/917970/
+  focus-area: ia
+  project: acts
+- title: ACTS Project Status
+  date: 2020-05-25
+  url: https://indico.cern.ch/event/917970/contributions/3861752/attachments/2043758/3424088/ACTS_workshop_Xiaocong.pdf
+  meeting: ACTS Tracking for HEP Workshop
+  meetingurl: https://indico.cern.ch/event/917970/
+  focus-area: ia
+  project: acts
+- title: Tracking performance with ACTS
+  date: 2020-04-22
+  url: https://indico.cern.ch/event/831165/contributions/3717113/attachments/2024363/3396410/ACTS_CTD_Xiaocong.pdf
+  meeting: Connecting The Dots 2020
+  meetingurl: https://indico.cern.ch/event/831165/
+  focus-area: ia
+  project: acts
+  labels:
+  - conference
+- title: Track fitting/finding with ACTS
+  date: 2020-02-19
+  url: https://indico.cern.ch/event/889047/contributions/3749030/attachments/1990315/3319040/IRIS_HEP_topical_meeting_Xiaocong.pdf
+  meeting: Iris-hep topical meeting
+  meetingurl: https://indico.cern.ch/event/889047/
+  focus-area: ia
+  project: acts
+- title: ACTS Status
+  date: 2019-08-08
+  url: https://indico.cern.ch/event/813855/contributions/3504321/attachments/1891443/3119406/USATLAS_ACTS_Xiaocong.pdf
+  meeting: USATLAS Summer Workshop
+  meetingurl: https://indico.cern.ch/event/813855/
+  focus-area: ia
+  project: acts
+- title: 'ACTS: a common track reconstruction software'
+  date: 2019-07-31
+  url: https://indico.cern.ch/event/782953/contributions/3462562/attachments/1888325/3115216/DPF2019_ACTS_Xiaocong.pdf
+  meeting: DPF 2019
+  meetingurl: https://indico.cern.ch/event/782953/
+  focus-area: ia
+  project: acts

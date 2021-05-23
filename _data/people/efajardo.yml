@@ -1,18 +1,20 @@
+active: false
+focus-area:
+institution: University of California, San Diego
 name: Edgar Fajardo
+photo: "/assets/images/team/Edgar-Fajardo.jpeg"
 shortname: efajardo
 title: OSG Software Team Developer
-active: false
-institution: University of California, San Diego
 website:
-photo: /assets/images/team/Edgar-Fajardo.jpeg
 presentations:
-- title: "GeoIP HTTPS Redirector"
+- title: GeoIP HTTPS Redirector
   date: 2021-02-25
   url: https://indico.fnal.gov/event/48049/attachments/140452/176530/GeoIP_Redirector.pdf
   meeting: XCache DevOps Meeting
   meetingurl: https://indico.fnal.gov/event/48049/
-  focusarea: doma
+  focus-area: doma
   project: caching
+  location: virtual
 - title: Current production use of caching for CMS in Southern California
   date: 2018-10-02
   url: https://indico.cern.ch/event/760850/contributions/3156949/attachments/1724585/2785286/SoCalCache.pdf
@@ -33,27 +35,35 @@ presentations:
   date: 2019-06-12
   url: https://indico.cern.ch/event/727208/contributions/3444623/
   meeting: XrootD Workshop@CC-IN2P3
+  meetingurl: https://indico.cern.ch/event/727208/
   location: IN2P3
   focus-area: doma
   project: tpc
-- title: Moving the California distributed CMS xcache from bare metal into containers using Kubernetes
+- title: Moving the California distributed CMS xcache from bare metal into containers
+    using Kubernetes
   date: 2019-11-05
   url: https://indico.cern.ch/event/773049/contributions/3474397/
   meeting: CHEP 2019
+  meetingurl: https://indico.cern.ch/event/773049/
   location: Adelaide
   focus-area: doma
   project: caching
-- title: Creating a content delivery network for general science on the backbone of the Internet using xcaches.
+- title: Creating a content delivery network for general science on the backbone of
+    the Internet using xcaches.
   date: 2019-11-05
   url: https://indico.cern.ch/event/773049/contributions/3474397/
   meeting: CHEP 2019
+  meetingurl: https://indico.cern.ch/event/773049/
   location: Adelaide
+  focus-area: doma
   project: caching
 - title: Benchmarking xrootd HTTP tests
   date: 2019-11-27
   url: https://indico.cern.ch/event/866244/contributions/3650022/
   meeting: WLCG DOMA General Meeting
+  meetingurl: https://indico.cern.ch/event/866244/
   location: CERN
+  focus-area: doma
   project: tpc
 - title: Modernizing the LHC’s transfer infrastructure
   date: 2020-02-27
@@ -76,27 +86,31 @@ presentations:
   url: https://docs.google.com/presentation/d/1vofUOf9dK7R1j75IF9EY1tcbCB9WTqTonhgnX4k8yg8/edit#slide=id.p
   meeting: XCache DevOps SPECIAL
   meetingurl: https://indico.fnal.gov/event/24246/
+  location: virtual
   focus-area: doma
   project: caching
-- title: "Stashcache: CDN for Science"
+- title: 'Stashcache: CDN for Science'
   date: 2020-09-02
   url: https://indico.fnal.gov/event/22127/contributions/194782/attachments/133874/165317/StashCache__CDN_for_science_1.pdf
   meeting: OSG All Hands Meeting
   meetingurl: https://indico.fnal.gov/event/22127
+  location: virtual
   focus-area: doma
-  projet: caching
+  project: caching
 - title: A US Data Lake
   date: 2020-09-04
   url: https://indico.fnal.gov/event/22127/contributions/194932/attachments/133991/165499/US_CMS_Data_Lake_Proposal_AHM.pdf
   meeting: OSG All Hands Meeting (US ATLAS/CMS Combined session)
   meetingurl: https://indico.fnal.gov/event/24246
+  location: virtual
   focus-area: doma
-  projet: caching
+  project: caching
 - title: Data lake prototyping for US CMS
   date: 2020-09-15
   url: https://docs.google.com/presentation/u/1/d/1YtEMczj-T1fnxuoINcSoHV0IUjcEeXI9IgWYAmerU8w/edit
   meeting: DOMA / ACCESS Meeting
   meetingurl: https://indico.cern.ch/event/953032
+  location: virtual
   focus-area: doma
   project: caching
 - title: Benchmarking TPC Transfers on 100G links
@@ -104,5 +118,8 @@ presentations:
   url: https://indico.cern.ch/event/967159/contributions/4070185/attachments/2127549/3582326/go
   meeting: DOMA / TPC Meeting
   meetingurl: https://indico.cern.ch/event/967159/
-  focus-area: tpc
-  projet: tpc
+  location: virtual
+  focus-area:
+  - doma
+  - osglhc
+  project: tpc

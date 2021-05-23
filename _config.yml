@@ -19,17 +19,24 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has been established to meet the software and computing challenges of the planned upgrades to the Large Hadron Collider, the world's most powerful particle accelerator.  IRIS-HEP pursues R&D for the software needed to acquire, manage, process and analyze the torrent of data that will be produced by the upgrade accelerator and its detectors as part of the search for discoveries beyond the Standard Model of Particle Physics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://iris-hep.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: iris_hep
+twitter:
+  username: iris_hep
 github_username:  iris-hep
 excerpt_separator: <!--more-->
+logo: /assets/logos/Iris-hep-5-just-graphic.png
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/logos/Iris-hep-5-just-graphic.png
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-# seems to cause problems currently (March 2019)
-#  - jekyll-redirect-from
+  - jekyll-include-cache
 
 strict_front_matter: true
 
@@ -38,17 +45,7 @@ liquid:
   strict_filters: true
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  # Added
   - _cache
   - _scripts
   - bin
@@ -74,3 +71,13 @@ inspire:
   authors:
     min-len: 10
     trunc-len: 1
+
+iris-hep:
+  extra-focus-areas:
+    - core
+    - outreach
+  projectless-focus-areas:
+    - core
+    - ssc
+    - blueprint
+    - ssl

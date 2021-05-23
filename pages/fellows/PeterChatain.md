@@ -14,6 +14,7 @@ institution: Stanford University
 website: https://github.com/Pchatain
 e-mail: pchatain@stanford.edu
 project_title: Example Track Seeding Algorithm for ACTS
+focus-area: ia
 project_goal: >
   A Common Tracking Software (ACTS) is an experiment-independent project designed to leverage modern computing architecture to reconstruct particle paths in HEP experiments. My goal is to create an example track seeding algorithm for ACTS. Once that is complete, I will work on testing and implementing track seeding algorithms.
 proposal: /assets/pdf/Project_Proposal_Peter_Chatain.pdf

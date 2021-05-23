@@ -1,8 +1,10 @@
-name: Aaron Moate
-shortname: aaronmoate
-title: Systems Administrator
 active: true
+focus-area:
+  - osglhc
 institution: University of Wisconsin–Madison
+name: Aaron Moate
+photo: "/assets/images/team/Aaron-Moate.png"
+shortname: aaronmoate
+title: OSG Systems Engineer
 website:
-photo: /assets/images/team/Aaron-Moate.png
 presentations:

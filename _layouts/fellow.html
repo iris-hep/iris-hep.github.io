@@ -3,7 +3,7 @@
 {% include layout_header_navbar.html %}
 
 <div id="container">
-  <div class="container">
+  <div class="container page">
     <main role="main">
 
       <div>
@@ -21,12 +21,7 @@
           <br>
         </center>
 
-        {%- if page.projects -%}
-        {%-   assign projects = page.projects -%}
-        {%- else -%}
-        {%-   assign projects = "" | split: "," -%}
-        {%-   assign projects = projects | push: page -%}
-        {%- endif -%}
+        {%- assign projects = page.projects | default: page | ensure_array -%}
 
         {% for project in projects %}
 
@@ -43,17 +38,12 @@
         <ul>
           {% for mentor in project.mentors %}
           <li>
-            {% assign ok = 0 %}
-            {% for person_hash in site.data.people %}
-            {% assign person = person_hash[1] %}
-            {% if person.shortname == mentor %}
-            {{ person.name }} ({{person.institution}})
-            {% assign ok = 1 %}
+            {% assign person = site.data.people | values | find: "shortname", mentor %}
+            {% if person %}
+              {{ person.name }} ({{person.institution}})
+            {% else %}
+              {{ mentor | markdownify }}
             {% endif %}
-            {% endfor %}
-            {% if ok == 0 %}
-            {{ mentor | markdownify }}
-            {%endif%}
           </li>
           {% endfor %}
         </ul>
@@ -63,14 +53,20 @@
         <b>Presentations</b>
         <ul>
           {% for presentation in page.presentations %}
-          {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
-          <li>{{prettydate}} - <a href="{{presentation.url}}">"{{presentation.title}}"</a>, {{page.fellow-name}}, <a href="{{presentation.meetingurl}}">{{presentation.meeting}}</a>
+            {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
+            <li>{{prettydate}} - <a href="{{presentation.url}}">"{{presentation.title}}"</a>, {{page.fellow-name}}, <a href="{{presentation.meetingurl}}">{{presentation.meeting}}</a>
             {% if presentation.recordingurl %}
-            Recording: <a href="{{presentation.recordingurl}}">{{presentation.title}}</a></li>
-          {% endif %}
+              Recording: <a href="{{presentation.recordingurl}}">{{presentation.title}}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
         <hr>
+
+        <b>Current Status</b>
+        <br>
+        {{page.current_status}}
+        <br>
+        <br>
 
         <b>Contact me:</b><br>
         <ul>
@@ -86,6 +82,7 @@
           {% endif %}
         </ul>
 
+
         <div>
           {{content}}
         </div>
@@ -93,9 +90,9 @@
       </div>
     </main>
   </div>
-  {% include footer.html %}
+  {% include_cached footer.html %}
 </div>
 
-{% include layout_analytics.html %}
+{% include_cached layout_analytics.html %}
 </body>
 </html>

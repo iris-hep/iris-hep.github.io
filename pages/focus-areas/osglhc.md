@@ -1,30 +1,30 @@
 ---
 permalink: /osglhc.html
 layout: focus-area
-title: Open Science Grid (OSG-LHC)
-short_title: osglhc
+title: OSG-LHC
+short_title: OSG-LHC
 pagetype: focus-area
 ---
 
-  The Open Science Grid (OSG) facilitates access to distributed high throughput computing
-  for research in the U.S. and worldwide.
-  The resources accessible through the OSG are contributed by the community,
-  organized by the OSG, and governed by the OSG Consortium.
-  The OSG-LHC part of the IRIS-HEP project contains those aspects of the overall OSG program of work
-  that are specific to the U.S. LHC projects.
+  [OSG](https://opensciencegrid.org) is a consortium dedicated to the
+  advancement of all of open science via the practice of distributed High Throughput Computing (dHTC),
+  and the advancement of its state of the art.
+  It is a collaboration between IT, software, and science organizations.
+  The consortium coordinates human and computing resources from a wide range of funded projects towards the aforementioned goal.
+  It is governed by the [OSG Council](https://opensciencegrid.org/council/),
+  maintaining its [by-laws](https://opensciencegrid.org/council/documents/OSG-By-Laws-2020%20-%20v2.pdf),
+  and electing an [executive director](https://opensciencegrid.org/about/team.html) for 2 year renewable terms.
+  The Executive Director works with an Executive Team to coordinate the program of work across funded projects.
 
-  U.S. ATLAS (contributing to ATLAS as a whole) relies extensively on services and software provided by OSG,
-  as well as on processes and support systems that have been developed and implemented by OSG.
-  OSG is essential for the operation of the worldwide-distributed ATLAS computing facility
-  and the OSG efforts have aided the integration with WLCG partners in Europe and Asia.
+  OSG-LHC contributes to the larger mission of the OSG Consortium
+  by evolving the production infrastructure the LHC collaborations depend on in the USA
+  towards the needs of the HL-LHC science program.
+  As such, OSG-LHC is specifically focused on those aspects of the infrastructure
+  that are shared between the US ATLAS and US CMS Operations programs.
 
-  OSG provides infrastructure software maintenance and integration,
-  through its packaging of all of the components that make up the OSG software releases.
-  This software forms the backbone of the U.S. CMS distributed high-throughput computing efforts.
-  OSG distributes the CMS software to U.S. CMS sites through its CernVM File System (CVMFS) service.
-  It handles registration, monitoring and accounting activities for sites
-  (the latter via the GRÅCC product), allowing CMS to track usage of OSG resources
-  and then report it to the Worldwide LHC Computing Grid (WLCG).
+  As of 2021, the production infrastructure accessible via OSG-LHC supported infrastructure software comprises
+  roughly 1/3 of the global computing infrastructure of the LHC science program,
+  thus being the single largest national contribution to the Worldwide LHC Computing Grid.
 
   For more information, see the [OSG home page](https://opensciencegrid.org).
 

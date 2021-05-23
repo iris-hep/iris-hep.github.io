@@ -1,46 +1,54 @@
+active: true
+focus-area:
+- doma
+- osglhc
+institution: University of California, San Diego
 name: Diego Davila
+photo: "/assets/images/team/Diego-Davila.jpg"
 shortname: ddavila0
 title: Scientific Software Developer and Researcher
-active: true
-institution: University of California, San Diego
 website:
-photo: /assets/images/team/Diego-Davila.jpg
 presentations:
-- title: "HTTP Third-Party Copy: Getting rid of GridFTP"
+- title: 'HTTP Third-Party Copy: Getting rid of GridFTP'
   date: 2021-03-03
   url: https://indico.fnal.gov/event/47040/contributions/208459/attachments/140622/176781/HTTP_Third-Party_Copy__Getting_rid_of_GridFTP.pdf
   meeting: OSG All-Hands Meeting 2021
   meetingurl: https://indico.fnal.gov/event/47040/overview
-  focusarea: doma
+  focus-area: doma
   project: tpc
-- title: "Update on the adoption of WebDAV for Third Party Copy transfers"
+  location: virtual
+- title: Update on the adoption of WebDAV for Third Party Copy transfers
   date: 2021-02-24
   url: https://indico.cern.ch/event/1007732/contributions/4229157/attachments/2195647/3713100/Update%20on%20the%20adoption%20of%20WebDAV%2C%20February%202021%20%281%29.pdf
   meeting: Offline and Computing Weekly meeting
   meetingurl: https://indico.cern.ch/event/1007732/
-  focusarea: doma
+  focus-area: doma
   project: tpc
-- title: "Progress on transferring with HTTP-TPC"
+  location: virtual
+- title: Progress on transferring with HTTP-TPC
   date: 2020-08-05
   url: https://indico.cern.ch/event/943367/contributions/3963678/attachments/2085027/3502669/Progress_on_transferring_with_HTTP-TPC.pdf
   meeting: Offline and Computing Weekly meeting
   meetingurl: https://indico.cern.ch/event/943367/
-  focusarea: doma
+  focus-area: doma
   project: tpc
+  location: virtual
 - title: XRootD Transfer Accounting Validation Plan
   date: 2020-04-22
   url: https://indico.cern.ch/event/909034/contributions/3834200/attachments/2025127/3387442/XRootD_Validation_Plan.pdf
   meeting: S&C Blueprint Meeting
   meetingurl: https://indico.cern.ch/event/909034/
-  focusarea: osglhc
+  focus-area: osglhc
   project: caching
+  location: virtual
 - title: CMS XCache Monitoring Dashboard
   date: 2019-07-31
   url: https://drive.google.com/file/d/1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q/view
   meeting: OSG Area Coordination
   meetingurl: https://unl.zoom.us/j/136424859
-  focusarea: doma
+  focus-area: doma
   project: caching
+  location: virtual
 - title: Proposal for Sharing of Data on Data Access
   date: 2019-06-04
   url: https://indico.cern.ch/event/769508/contributions/3197792/attachments/1856188/3048855/proposal_data_share_wlcg.pdf

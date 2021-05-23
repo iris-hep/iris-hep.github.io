@@ -1,12 +1,4 @@
-{% include get_pres_list.html %}
-
-{% assign pres_list = "" | split: "," %}
-{% for pres in sorted_presentations %}
-  {% if pres.project contains include.shortname  %}
-    {% assign pres_list = pres_list | push: pres %}
-  {% endif %}
-{% endfor %}
-
+{% assign pres_list = site.data['sorted_presentations'] | where_exp: "pres", "pres.project contains include.shortname" %}
 
 {% if pres_list.size > 0 %}
 <h3>Presentations</h3>

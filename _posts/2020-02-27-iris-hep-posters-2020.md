@@ -2,8 +2,8 @@
 layout: irispost
 title: IRIS-HEP Poster Session 2020 at Princeton University
 author: Robert Tuck
-postimage: /assets/images/posts/2020-02-27-iris-hep-posters-2020-main.jpg
-postimage-caption: "Irina Espejo, a graduate student at NYU, with the poster for Scalable Cyberinfrastructure Applications Photo Credit: Kyle Cranmer"
+image: /assets/images/posts/2020-02-27-iris-hep-posters-2020-main.jpg
+image-caption: "Irina Espejo, a graduate student at NYU, with the poster for Scalable Cyberinfrastructure Applications Photo Credit: Kyle Cranmer"
 postbanner: /assets/images/posts/20200227-iris-hep-posters-2020-banner.jpg
 summary: "IRIS-HEP held a Poster Session at Princeton University on February 27, 2020, to highlight the work of members from the first 18 months of IRIS-HEP."
 ---

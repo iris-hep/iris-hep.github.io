@@ -14,6 +14,8 @@ jobs:
     steps:
 
     - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
 
     - name: Restore bundle cache
       uses: actions/cache@v2
@@ -29,7 +31,7 @@ jobs:
         path: _cache
         key: ${{ runner.os }}-_cache-${{ hashFiles('_data/publications/*.yml') }}
 
-    - uses: actions/setup-ruby@v1
+    - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.7'
 
@@ -64,7 +66,11 @@ jobs:
         echo "# WARNING: Do not edit this generated repository; edit [iris-hep.github.io-source](https://github.com/iris-hep/iris-hep.github.io-source) instead!" > _site/README.md
 
     - name: Deploy
-      if: success() && github.ref == 'refs/heads/master' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+      if: >
+        success()
+        && github.ref == 'refs/heads/master'
+        && (github.event_name == 'push' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule')
+        && github.repository == 'iris-hep/iris-hep.github.io-source'
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}

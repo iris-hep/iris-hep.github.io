@@ -1,126 +1,161 @@
+active: true
+focus-area:
+- osglhc
+- doma
+institution: University of California, San Diego
 name: Igor Sfiligoi
+photo: "/assets/images/team/Igor-Sfiligoi.jpg"
 shortname: sfiligoi
 title: Lead Scientific Software Developer and Researcher
-active: true
-institution: University of California, San Diego
 website:
-photo: /assets/images/team/Igor-Sfiligoi.jpg
 presentations:
-  - title: "Data-intensive IceCube Cloud Burst"
-    date: 2020-11-12
-    url: https://www2.slideshare.net/igor_sfiligoi/dataintensive-icecube-cloud-burst
-    meeting: NRP Pilot weekly meeting
-    location: virtual, USA
-  - title: "Unified Cyber Infrastructure with Kubernetes"
-    date: 2020-11-09
-    url: https://gitlab.com/ucsd-prp/tutorials/sc20
-    meeting: SC 20 Tutorial
-    meetingurl: https://sc20.supercomputing.org/presentation/?id=tut136&sess=sess256
-    location: virtual, USA
-  - title: "Scheduling a Kubernetes Federation with Admiralty"
-    date: 2020-09-04
-    url: https://indico.fnal.gov/event/22127/contributions/194933/attachments/133961/165464/osg20_lhc_admiralty_rc3.pdf
-    meeting: OSG All-Hands Meeting 2020
-    meetingurl: https://indico.fnal.gov/event/22127
-    location: virtual, US
-    focus-area: osglhc
-  - title: "Demonstrating a Pre-Exascale, Cost-Effective Multi-Cloud Environment for Scientific Computing"
-    date: 2020-07-29
-    url: https://www.slideshare.net/igor_sfiligoi/demonstrating-a-preexascale-costeffective-multicloud-environment-for-scientific-computing
-    meeting: PEARC20
-    meetingurl: https://pearc.acm.org/pearc20/
-    location: virtual, US
-  - title: "Demonstrating 100 Gbps in and out of the public Clouds"
-    date: 2020-07-28
-    url: https://doi.org/10.1145/3311790.3399612
-    meeting: PEARC20
-    meetingurl: https://pearc.acm.org/pearc20/
-    location: virtual, US
-  - title: "High Throughput Science Workshop"
-    date: 2020-07-31
-    meeting: PEARC20
-    url: https://pearc20.sched.com/event/cnY6/high-throughput-science
-    meetingurl: https://pearc.acm.org/pearc20/
-    location: virtual, US
-  - title: "Running a Pre-exascale, Geographically Distributed, Multi-cloud Scientific Simulation"
-    date: 2020-06-28
-    url: https://doi.org/10.1007/978-3-030-50743-5_2
-    meeting: ISC20
-    meetingurl: https://www.isc-hpc.com
-    location: virtual
-  - title: "TransAtlantic networking using Cloud links"
-    date: 2020-05-27
-    url: https://indico.cern.ch/event/923131/contributions/3878486/attachments/2045504/3426871/CMS20_05_CloudNetwork_rc2.pdf
-    meeting: S&C Blueprint Meeting
-    meetingurl: https://indico.cern.ch/event/923131/
-    focus-area: osglhc
-  - title: "Hybrid, multi-Cloud HPC for Multi-Messenger Astrophysics with IceCube"
-    date: 2020-01-28
-    url: https://docs.google.com/presentation/d/1NT5DiCudME7OoU_zxOsw_nkZoNNNKIm3DEfD3miKd0A/edit?usp=sharing
-    meeting: Google Cloud HPC Day San Diego
-    meetingurl: https://events.withgoogle.com/google-cloud-hpc-day-san-diego/
-    location: San Diego, CA ,USA
-  - title: "Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube across all available GPUs in the Cloud"
-    date: 2020-01-27
-    url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
-    meeting: NRP Engagement webinar
-    meetingurl: https://spaces.at.internet2.edu/display/NRPWG/National+Research+Platform+%28NRP%29+Space
-    location: WebEx, US
-  - title: "OSG use of PRP Kubernetes cluster"
-    date: 2019-12-10
-    url: https://indico.cern.ch/event/739899/contributions/3662270/attachments/1959449/3256032/cern19_prp_osg_191210.pdf
-    meeting: pre-GDB meeting
-    meetingurl: https://indico.cern.ch/event/739899/
-    location: CERN
-  - title: "Serving HTC Users in Kubernetes by Leveraging HTCondor"
-    date: 2019-11-21
-    url: https://kccncna19.sched.com/event/77ed0cf42f37809c9640ee8fe1dc5415
-    meeting: KubeCon North America 2019
-    meetingurl: https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/
-    location: San Diego, CA, USA
-  - title: "Burst data retrieval after 50k GPU Cloud run"
-    date: 2019-11-19
-    url: https://www.slideshare.net/igor_sfiligoi/burst-data-retrieval-after-50k-gpu-cloud-run
-    meeting: SC 19 Internet2 Booth
-    meetingurl: https://sc19.supercomputing.org
-    location: Denver, CO, USA
-  - title: "Unified Cyber Infrastructure with Kubernetes"
-    date: 2019-11-18
-    url: https://gitlab.com/ucsd-prp/tutorials/sc19
-    meeting: SC 19 Tutorial
-    meetingurl: https://sc19.supercomputing.org/presentation/?id=tut130&sess=sess190
-    location: Denver, CO, USA
-  - title: "Characterizing network paths in and out of the Clouds"
-    date: 2019-11-04
-    url: https://indico.cern.ch/event/773049/contributions/3473824/attachments/1935023/3206398/CHEP19_Networks.pptx
-    meeting: CHEP 2019
-    meetingurl: http://chep2019.org
-    location: Adelaide, Australia
-  - title: "Creating a content delivery network for general science on the backbone of the Internet using xcaches."
-    date: 2019-11-05
-    url: https://indico.cern.ch/event/773049/contributions/3474435/attachments/1937430/3211155/Stashcache_CHEP_2019.pdf
-    meeting: CHEP 2019
-    meetingurl: http://chep2019.org
-    location: Adelaide, Australia
-  - title: "A Lightweight Door into Non-grid Sites"
-    date: 2019-11-05
-    url: https://indico.cern.ch/event/773049/contributions/3473860/attachments/1935962/3208177/chep2019-hosted-ce.pdf
-    meeting: CHEP 2019
-    meetingurl: http://chep2019.org
-    location: Adelaide, Australia
-  - title: " Nautilus & IceCUBE/LIGO"
-    date: 2019-09-17
-    url: http://grp-workshop-2019.ucsd.edu/presentations/1_SFILIGOI-GRP-2019-IceCubeLigo.pdf
-    meeting: Global Research Platform Workshop 2019
-    meetingurl: http://grp-workshop-2019.ucsd.edu
-    location: San Diego, CA, US
-  - title: "The Open Science Grid"
-    date: 2019-09-13
-    url: https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk2-osg.pdf
-    meeting: PRAGMA 37
-    meetingurl: http://www.pragma-grid.net/pragma37-program/
-    location: San Diego, CA, US
-
-
-
-
+- title: Data-intensive IceCube Cloud Burst
+  date: 2020-11-12
+  url: https://www2.slideshare.net/igor_sfiligoi/dataintensive-icecube-cloud-burst
+  meeting: NRP Pilot weekly meeting
+  location: Virtual, USA
+  focus-area: doma
+  project: osg-networking
+- title: Unified Cyber Infrastructure with Kubernetes
+  date: 2020-11-09
+  url: https://gitlab.com/ucsd-prp/tutorials/sc20
+  meeting: SC 20 Tutorial
+  meetingurl: https://sc20.supercomputing.org/presentation/?id=tut136&sess=sess256
+  location: Virtual, USA
+  focus-area: ssl
+- title: Scheduling a Kubernetes Federation with Admiralty
+  date: 2020-09-04
+  url: https://indico.fnal.gov/event/22127/contributions/194933/attachments/133961/165464/osg20_lhc_admiralty_rc3.pdf
+  meeting: OSG All-Hands Meeting 2020
+  meetingurl: https://indico.fnal.gov/event/22127
+  location: Virtual, US
+  focus-area: ssl
+- title: Demonstrating a Pre-Exascale, Cost-Effective Multi-Cloud Environment for
+    Scientific Computing
+  date: 2020-07-29
+  url: https://www.slideshare.net/igor_sfiligoi/demonstrating-a-preexascale-costeffective-multicloud-environment-for-scientific-computing
+  meeting: PEARC20
+  meetingurl: https://pearc.acm.org/pearc20/
+  location: Virtual, US
+  focus-area: osglhc
+  project: osg-operations
+- title: Demonstrating 100 Gbps in and out of the public Clouds
+  date: 2020-07-28
+  url: https://doi.org/10.1145/3311790.3399612
+  meeting: PEARC20
+  meetingurl: https://pearc.acm.org/pearc20/
+  location: Virtual, US
+  focus-area: doma
+  project: osg-networking
+- title: High Throughput Science Workshop
+  date: 2020-07-31
+  meeting: PEARC20
+  url: https://pearc20.sched.com/event/cnY6/high-throughput-science
+  meetingurl: https://pearc.acm.org/pearc20/
+  location: Virtual, US
+  focus-area: osglhc
+  project: osg-operations
+- title: Running a Pre-exascale, Geographically Distributed, Multi-cloud Scientific
+    Simulation
+  date: 2020-06-28
+  url: https://doi.org/10.1007/978-3-030-50743-5_2
+  meeting: ISC20
+  meetingurl: https://www.isc-hpc.com
+  location: Virtual
+  focus-area: osglhc
+  project: osg-operations
+- title: TransAtlantic networking using Cloud links
+  date: 2020-05-27
+  url: https://indico.cern.ch/event/923131/contributions/3878486/attachments/2045504/3426871/CMS20_05_CloudNetwork_rc2.pdf
+  meeting: S&C Blueprint Meeting
+  meetingurl: https://indico.cern.ch/event/923131/
+  focus-area: osglhc
+  project: osg-networking
+- title: Hybrid, multi-Cloud HPC for Multi-Messenger Astrophysics with IceCube
+  date: 2020-01-28
+  url: https://docs.google.com/presentation/d/1NT5DiCudME7OoU_zxOsw_nkZoNNNKIm3DEfD3miKd0A/edit?usp=sharing
+  meeting: Google Cloud HPC Day San Diego
+  meetingurl: https://events.withgoogle.com/google-cloud-hpc-day-san-diego/
+  location: San Diego, CA ,USA
+  focus-area: osglhc
+  project: osg-operations
+- title: Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube
+    across all available GPUs in the Cloud
+  date: 2020-01-27
+  url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
+  meeting: NRP Engagement webinar
+  meetingurl: https://spaces.at.internet2.edu/display/NRPWG/National+Research+Platform+%28NRP%29+Space
+  location: WebEx, US
+  focus-area: osglhc
+  project: osg-operations
+- title: OSG use of PRP Kubernetes cluster
+  date: 2019-12-10
+  url: https://indico.cern.ch/event/739899/contributions/3662270/attachments/1959449/3256032/cern19_prp_osg_191210.pdf
+  meeting: pre-GDB meeting
+  meetingurl: https://indico.cern.ch/event/739899/
+  location: CERN
+  focus-area: ssl
+- title: Serving HTC Users in Kubernetes by Leveraging HTCondor
+  date: 2019-11-21
+  url: https://kccncna19.sched.com/event/77ed0cf42f37809c9640ee8fe1dc5415
+  meeting: KubeCon North America 2019
+  meetingurl: https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/
+  location: San Diego, CA, USA
+  focus-area: osglhc
+  project: osg-operations
+- title: Burst data retrieval after 50k GPU Cloud run
+  date: 2019-11-19
+  url: https://www.slideshare.net/igor_sfiligoi/burst-data-retrieval-after-50k-gpu-cloud-run
+  meeting: SC 19 Internet2 Booth
+  meetingurl: https://sc19.supercomputing.org
+  location: Denver, CO, USA
+  focus-area: doma
+  project: osg-networking
+- title: Unified Cyber Infrastructure with Kubernetes
+  date: 2019-11-18
+  url: https://gitlab.com/ucsd-prp/tutorials/sc19
+  meeting: SC 19 Tutorial
+  meetingurl: https://sc19.supercomputing.org/presentation/?id=tut130&sess=sess190
+  location: Denver, CO, USA
+  focus-area: ssl
+- title: Characterizing network paths in and out of the Clouds
+  date: 2019-11-04
+  url: https://indico.cern.ch/event/773049/contributions/3473824/attachments/1935023/3206398/CHEP19_Networks.pptx
+  meeting: CHEP 2019
+  meetingurl: http://chep2019.org
+  location: Adelaide, Australia
+  focus-area: doma
+  project: osg-networking
+- title: Creating a content delivery network for general science on the backbone of
+    the Internet using xcaches.
+  date: 2019-11-05
+  url: https://indico.cern.ch/event/773049/contributions/3474435/attachments/1937430/3211155/Stashcache_CHEP_2019.pdf
+  meeting: CHEP 2019
+  meetingurl: http://chep2019.org
+  location: Adelaide, Australia
+  focus-area: doma
+  project: caching
+- title: A Lightweight Door into Non-grid Sites
+  date: 2019-11-05
+  url: https://indico.cern.ch/event/773049/contributions/3473860/attachments/1935962/3208177/chep2019-hosted-ce.pdf
+  meeting: CHEP 2019
+  meetingurl: http://chep2019.org
+  location: Adelaide, Australia
+  focus-area: osglhc
+  project: osg-operations
+- title: " Nautilus & IceCUBE/LIGO"
+  date: 2019-09-17
+  url: http://grp-workshop-2019.ucsd.edu/presentations/1_SFILIGOI-GRP-2019-IceCubeLigo.pdf
+  meeting: Global Research Platform Workshop 2019
+  meetingurl: http://grp-workshop-2019.ucsd.edu
+  location: San Diego, CA, US
+  focus-area: osglhc
+  project: osg-operations
+- title: The Open Science Grid
+  date: 2019-09-13
+  url: https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk2-osg.pdf
+  meeting: PRAGMA 37
+  meetingurl: http://www.pragma-grid.net/pragma37-program/
+  location: San Diego, CA, US
+  focus-area: osglhc
+  project: osg-operations

@@ -1,115 +1,163 @@
+active: true
+e-mail: Peter.Elmer@cern.ch
+focus-area:
+- ssc
+- ia
+institution: Princeton University
 name: Peter Elmer
+photo: "/assets/images/team/Peter-Elmer.jpg"
 shortname: pelmer
 title: Institute PI and Executive Director
-active: true
-institution: Princeton University
 website: https://scholar.princeton.edu/elmer/home
-photo: /assets/images/team/Peter-Elmer.jpg
-e-mail: Peter.Elmer@cern.ch
 presentations:
-  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 2019-08-01
-    url: https://indico.cern.ch/event/782953/contributions/3462566/attachments/1889484/3115717/IRIS-HEP-APS-DPF-2019.pdf
-    meeting: "2019 Meeting of the Division of Particles & Fields of the American Physical Society"
-    meetingurl: https://indico.cern.ch/event/782953/overview
-    location: Northeastern University (Boston)
-  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 2019-03-22
-    url: https://indico.cern.ch/event/759388/contributions/3302394/attachments/1816794/2969628/IRIS-HEP-HOW2019.pdf
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop
-    meetingurl: https://indico.cern.ch/event/759388/overview
-    location: Jefferson Lab
-  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 2019-03-21
-    url: https://indico.cern.ch/event/759388/contributions/3364938/attachments/1816067/2968165/IRIS-HEP-OSG-Council-HOW2019-Elmer.pdf
-    meeting: OSG Council Meeting at HOW2019
-    meetingurl: https://indico.cern.ch/event/759388/overview
-    location: Jefferson Lab
-  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 2018-10-23
-    url: https://indico.cern.ch/event/765782/contributions/3178944/attachments/1739581/2814524/20181023-iris-hep-cms-offline-computing.pdf
-    meeting: CMS ECOM2X WG7
-    meetingurl: https://indico.cern.ch/event/765782/overview
-  - title:  Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)
-    date: 2018-09-20
-    url: https://indico.cern.ch/event/713888/contributions/2933014/attachments/1719328/2775216/20180920-iris-hep-cern-scf.pdf
-    meeting: 5th Scientific Computing Forum
-    meetingurl: https://indico.cern.ch/event/713888/
-  - title: "The HEP S&C Roadmap & the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 2018-07-30
-    url: https://indico.cern.ch/event/732285/contributions/3021320/
-    meeting: US ATLAS Workshop 2018
-    meetingurl: https://indico.cern.ch/event/732285/
-    location: Pittsburgh
-  - title: "Building Research Software Collaborations"
-    date: 2019-05-10
-    url: https://researchcomputing.princeton.edu/events/picscie-conference-cross-disciplinary-collaboration-accelerated-scientific-discovery
-    meeting: "PICSciE Conference: Cross-Disciplinary Collaboration for Accelerated Scientific Discovery"
-    meetingurl: https://researchcomputing.princeton.edu/events/picscie-conference-cross-disciplinary-collaboration-accelerated-scientific-discovery
-    location: Princeton University
-  - title: "Goals for the Retreat & Institute Overview and Status"
-    date: 2019-09-12
-    url: https://indico.cern.ch/event/840472/contributions/3561603/attachments/1907132/3149892/IRIS-HEP_Retreat_Sep2019.pdf
-    meeting: IRIS-HEP Institute Retreat
-    meetingurl: https://indico.cern.ch/event/840472/overview
-    location: FNAL
-  - title: "Institute Overview"
-    date: 2019-09-09
-    url: https://indico.cern.ch/event/840467/contributions/3544994/attachments/1904318/3144662/IRIS-HEP-Advisory-Panel-Sep2019-overview.pdf
-    meeting: IRIS-HEP Advisory Panel Meeting
-    meetingurl: https://indico.cern.ch/event/840467/overview
-    location: Big Ten Conference Center
-  - title: "Workshop Intro"
-    date: 2019-10-23
-    url: https://indico.cern.ch/event/834880/contributions/3609731/attachments/1932064/3200466/A-Coordinated-Ecosystem-for-HL-LHC-Computing-RD-Workshop-Intro.pdf
-    meeting: "A Coordinated Ecosystem for HL-LHC Computing R&D"
-    meetingurl: https://indico.cern.ch/event/834880/
-    location: Catholic University of America
-  - title: "Enabling HEP software development for the 2020s - a coherent vision for training"
-    date: 2019-11-06
-    url: https://indico.cern.ch/event/773049/contributions/3474846/attachments/1940542/3217448/CHEP2019-training.pdf
-    meeting: "CHEP 2019"
-    meetingurl: http://chep2019.org/index.html
-    location: Adelaide, Australia
-  - title: "Collider Community Building toward IRIS-HEP"
-    date: 2019-10-28
-    url: https://indico.cern.ch/event/824917/contributions/3571650/attachments/1934373/3205044/DANCE-Workshop-IRIS-HEP-Community-Building.pdf
-    meeting: "DANCE: Dark-matter And Neutrino Computation Explored"
-    meetingurl: https://dance.rice.edu
-    location: Rice University
-  - title: "Updates on the NSF IRIS-HEP Software Institute"
-    date: 2020-02-13
-    url: https://indico.cern.ch/event/852994/contributions/3723989/attachments/1987060/3311388/IRIS-HEP-CERN-SCF-13-Feb-2020.pdf
-    meeting: "8th Scientific Computing Forum"
-    meetingurl: https://indico.cern.ch/event/852994/
-    location: CERN
-  - title: "The IRIS-HEP Software Institute: Motivation and Activities"
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/855317/contributions/3671702/attachments/1992234/3327748/IRIS-HEP-18-Month-Overview-v2.pdf
-    meeting: "NSF 18-Month Review of IRIS-HEP"
-    meetingurl: https://indico.cern.ch/event/855317/timetable/
-    location: Princeton University
-  - title: "Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)"
-    date: 2020-03-26
-    url: https://docs.google.com/presentation/d/1OXSJDHtzlip9F215YW7AHbUynpr3kWawIQ5zo75Mga0/edit#slide=id.g7f5f2e8030_8_0
-    meeting: "CMS Offline and Computing Week - Discussion of External Projects"
-    meetingurl: https://indico.cern.ch/event/902343/
-    location: Zoom-only
-  - title: "IRIS-HEP - US-ATLAS"
-    date: 2020-05-07
-    url: https://docs.google.com/presentation/d/1R64LuoEK_1PHwO7cOU6cO8xmU1IASa9QdQqQQNMAGq4/edit#slide=id.g776ba7baaf_2_86
-    meeting: "US ATLAS Operations L2/L3 Managers Meeting"
-    meetingurl: https://indico.cern.ch/e/901076
-    location: Zoom
-  - title: "IRIS-HEP - Impact Beyond HEP"
-    date: 2020-12-04
-    url: https://indico.cern.ch/event/976594/contributions/4112994/attachments/2157050/3638425/IRIS-HEP-Impact-Beyond-HEP.pdf
-    meeting: "NSF / IRIS-HEP Meeting - Impact Beyond HEP"
-    meetingurl: https://indico.cern.ch/event/976594/
-    location: Zoom
-  - title: "IRIS-HEP Covid 19 impact on work survey results"
-    date: 2021-02-10
-    url: https://indico.cern.ch/event/876773/contributions/4222233/attachments/2187909/3697123/IRIS-HEP-COVID-Effects-Survey.pdf
-    meeting: "GDB"
-    meetingurl: https://indico.cern.ch/event/876773/
-    location: Zoom
+- title: Institute for Research and Innovation in Software for High Energy Physics
+    (IRIS-HEP)
+  date: 2019-08-01
+  url: https://indico.cern.ch/event/782953/contributions/3462566/attachments/1889484/3115717/IRIS-HEP-APS-DPF-2019.pdf
+  meeting: 2019 Meeting of the Division of Particles & Fields of the American Physical
+    Society
+  meetingurl: https://indico.cern.ch/event/782953/overview
+  location: Northeastern University (Boston)
+  focus-area:
+  project:
+- title: Institute for Research and Innovation in Software for High Energy Physics
+    (IRIS-HEP)
+  date: 2019-03-22
+  url: https://indico.cern.ch/event/759388/contributions/3302394/attachments/1816794/2969628/IRIS-HEP-HOW2019.pdf
+  meeting: 2019 Joint HSF/OSG/WLCG Workshop
+  meetingurl: https://indico.cern.ch/event/759388/overview
+  location: Jefferson Lab
+  focus-area:
+  project:
+- title: Institute for Research and Innovation in Software for High Energy Physics
+    (IRIS-HEP)
+  date: 2019-03-21
+  url: https://indico.cern.ch/event/759388/contributions/3364938/attachments/1816067/2968165/IRIS-HEP-OSG-Council-HOW2019-Elmer.pdf
+  meeting: OSG Council Meeting at HOW2019
+  meetingurl: https://indico.cern.ch/event/759388/overview
+  location: Jefferson Lab
+  focus-area:
+  project:
+- title: Institute for Research and Innovation in Software for High Energy Physics
+    (IRIS-HEP)
+  date: 2018-10-23
+  url: https://indico.cern.ch/event/765782/contributions/3178944/attachments/1739581/2814524/20181023-iris-hep-cms-offline-computing.pdf
+  meeting: CMS ECOM2X WG7
+  meetingurl: https://indico.cern.ch/event/765782/overview
+  focus-area:
+  project:
+- title: Institute for Research and Innovation in Software for High Energy Physics
+    (IRIS-HEP)
+  date: 2018-09-20
+  url: https://indico.cern.ch/event/713888/contributions/2933014/attachments/1719328/2775216/20180920-iris-hep-cern-scf.pdf
+  meeting: 5th Scientific Computing Forum
+  meetingurl: https://indico.cern.ch/event/713888/
+  focus-area:
+  project:
+- title: The HEP S&C Roadmap & the Institute for Research and Innovation in Software
+    for High Energy Physics (IRIS-HEP)
+  date: 2018-07-30
+  url: https://indico.cern.ch/event/732285/contributions/3021320/
+  meeting: US ATLAS Workshop 2018
+  meetingurl: https://indico.cern.ch/event/732285/
+  location: Pittsburgh
+  focus-area:
+  project:
+- title: Building Research Software Collaborations
+  date: 2019-05-10
+  url: https://researchcomputing.princeton.edu/events/picscie-conference-cross-disciplinary-collaboration-accelerated-scientific-discovery
+  meeting: 'PICSciE Conference: Cross-Disciplinary Collaboration for Accelerated Scientific
+    Discovery'
+  meetingurl: https://researchcomputing.princeton.edu/events/picscie-conference-cross-disciplinary-collaboration-accelerated-scientific-discovery
+  location: Princeton University
+  focus-area:
+  project:
+- title: Goals for the Retreat & Institute Overview and Status
+  date: 2019-09-12
+  url: https://indico.cern.ch/event/840472/contributions/3561603/attachments/1907132/3149892/IRIS-HEP_Retreat_Sep2019.pdf
+  meeting: IRIS-HEP Institute Retreat
+  meetingurl: https://indico.cern.ch/event/840472/overview
+  location: FNAL
+  focus-area:
+  project:
+- title: Institute Overview
+  date: 2019-09-09
+  url: https://indico.cern.ch/event/840467/contributions/3544994/attachments/1904318/3144662/IRIS-HEP-Advisory-Panel-Sep2019-overview.pdf
+  meeting: IRIS-HEP Advisory Panel Meeting
+  meetingurl: https://indico.cern.ch/event/840467/overview
+  location: Big Ten Conference Center
+  focus-area:
+  project:
+- title: Workshop Intro
+  date: 2019-10-23
+  url: https://indico.cern.ch/event/834880/contributions/3609731/attachments/1932064/3200466/A-Coordinated-Ecosystem-for-HL-LHC-Computing-RD-Workshop-Intro.pdf
+  meeting: A Coordinated Ecosystem for HL-LHC Computing R&D
+  meetingurl: https://indico.cern.ch/event/834880/
+  location: Catholic University of America
+  focus-area:
+  project:
+- title: Enabling HEP software development for the 2020s - a coherent vision for training
+  date: 2019-11-06
+  url: https://indico.cern.ch/event/773049/contributions/3474846/attachments/1940542/3217448/CHEP2019-training.pdf
+  meeting: CHEP 2019
+  meetingurl: http://chep2019.org/index.html
+  location: Adelaide, Australia
+  focus-area: ssc
+  project:
+- title: Collider Community Building toward IRIS-HEP
+  date: 2019-10-28
+  url: https://indico.cern.ch/event/824917/contributions/3571650/attachments/1934373/3205044/DANCE-Workshop-IRIS-HEP-Community-Building.pdf
+  meeting: 'DANCE: Dark-matter And Neutrino Computation Explored'
+  meetingurl: https://dance.rice.edu
+  location: Rice University
+  focus-area:
+  project:
+- title: Updates on the NSF IRIS-HEP Software Institute
+  date: 2020-02-13
+  url: https://indico.cern.ch/event/852994/contributions/3723989/attachments/1987060/3311388/IRIS-HEP-CERN-SCF-13-Feb-2020.pdf
+  meeting: 8th Scientific Computing Forum
+  meetingurl: https://indico.cern.ch/event/852994/
+  location: CERN
+  focus-area:
+  project:
+- title: 'The IRIS-HEP Software Institute: Motivation and Activities'
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/855317/contributions/3671702/attachments/1992234/3327748/IRIS-HEP-18-Month-Overview-v2.pdf
+  meeting: NSF 18-Month Review of IRIS-HEP
+  meetingurl: https://indico.cern.ch/event/855317/timetable/
+  location: Princeton University
+  focus-area:
+  project:
+- title: Institute for Research and Innovation in Software for High Energy Physics
+    (IRIS-HEP)
+  date: 2020-03-26
+  url: https://docs.google.com/presentation/d/1OXSJDHtzlip9F215YW7AHbUynpr3kWawIQ5zo75Mga0/edit#slide=id.g7f5f2e8030_8_0
+  meeting: CMS Offline and Computing Week - Discussion of External Projects
+  meetingurl: https://indico.cern.ch/event/902343/
+  location: Zoom-only
+  focus-area:
+  project:
+- title: IRIS-HEP - US-ATLAS
+  date: 2020-05-07
+  url: https://docs.google.com/presentation/d/1R64LuoEK_1PHwO7cOU6cO8xmU1IASa9QdQqQQNMAGq4/edit#slide=id.g776ba7baaf_2_86
+  meeting: US ATLAS Operations L2/L3 Managers Meeting
+  meetingurl: https://indico.cern.ch/e/901076
+  location: Zoom
+  focus-area:
+  project:
+- title: IRIS-HEP - Impact Beyond HEP
+  date: 2020-12-04
+  url: https://indico.cern.ch/event/976594/contributions/4112994/attachments/2157050/3638425/IRIS-HEP-Impact-Beyond-HEP.pdf
+  meeting: NSF / IRIS-HEP Meeting - Impact Beyond HEP
+  meetingurl: https://indico.cern.ch/event/976594/
+  location: Zoom
+  focus-area:
+  project:
+- title: IRIS-HEP Covid 19 impact on work survey results
+  date: 2021-02-10
+  url: https://indico.cern.ch/event/876773/contributions/4222233/attachments/2187909/3697123/IRIS-HEP-COVID-Effects-Survey.pdf
+  meeting: GDB
+  meetingurl: https://indico.cern.ch/event/876773/
+  location: Zoom
+  focus-area:
+  project:

@@ -1,8 +1,11 @@
+active: true
+focus-area:
+- ia
+- doma
+institution: University of California, San Diego
 name: Matevz Tadel
+photo: "/assets/images/team/Matevz-Tadel.jpg"
 shortname: osschar
 title:
-active: true
-institution: University of California, San Diego
 website:
-photo: /assets/images/team/Matevz-Tadel.jpg
 presentations:

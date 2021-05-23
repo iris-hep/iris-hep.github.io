@@ -7,9 +7,10 @@ title: Zora Che - IRIS-HEP Fellow
 fellow-name: Zora Che
 shortname: Zora
 project_title: Scaling Coffea-Casa Analysis Facility
+focus-area:
 dates:
   start: 2021-01-01
-  end: 2021-06-31
+  end: 2021-05-31
 photo: /assets/images/team/Zora-Che.png
 institution: Boston University
 website:

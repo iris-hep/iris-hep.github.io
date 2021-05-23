@@ -1,4 +1,4 @@
-open: yes
+open: no
 postdate: 2021-04-01
 title: Automating Awkward Array testing
 description: >
@@ -16,7 +16,7 @@ description: >
   programming model and the faults encountered may be specific to the GPU
   architecture. Hypothesis is a Python library for creating unit tests which
   are simpler to write and more powerful when run, finding edge cases in your
-  code you wouldn’t have thought to look for. It is stable, powerful and easy
+  code you wouldn't have thought to look for. It is stable, powerful and easy
   to add to any existing test suite.
 contacts:
 - ianna

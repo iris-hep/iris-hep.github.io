@@ -1,36 +1,52 @@
+active: false
+focus-area:
+- doma
+- as
+- ssl
+institution: University of Chicago
 name: Marc Weinberg
+photo: "/assets/images/team/Marc-Weinberg.jpg"
 shortname: mweinberg2718
 title:
-active: false
-institution: University of Chicago
 website:
-photo: /assets/images/team/Marc-Weinberg.jpg
 presentations:
-  - title: Delivery of columnar data to analysis systems
-    date: 2019-06-24
-    url: https://indico.cern.ch/event/765245/contributions/3470867/attachments/1869892/3076485/weinbergServiceX190626.pdf
-    meeting: "ATLAS Software & Computing Week #62"
-    meetingurl: https://indico.cern.ch/event/765245/
-    location: New York City, New York
-    focus-area: doma, as, ssl
-    project: idds
-  - title: Delivery of columnar data to analysis systems
-    date: 2019-07-17
-    url: https://indico.cern.ch/event/811101/contributions/3498875/attachments/1882426/3102062/weinbergServiceX190717.pdf
-    meeting: Annual US ATLAS Computing, Software and Physics Support Technical Meeting
-    meetingurl: https://indico.cern.ch/event/811101/
-    location: Seattle, Washington
-    focus-area: doma, as, ssl
-  - title: ServiceX
-    date: 2020-02-27
-    url: https://indico.cern.ch/event/894127/attachments/1996570/3331175/8_-_weinbergGalewsky-serviceX-irisHepReview.pdf
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/
-    location: Princeton, New Jersey
-    focus-area: doma, as, ssl
-  - title: "ServiceX: A distributed, caching, columnar data delivery service"
-    date: 2020-03-23
-    url: https://indico.cern.ch/event/890991/contributions/3778330/attachments/2007255/3352709/weinbergServiceX200323.pdf
-    meeting: "HSF DAWG -- DOMA Access joint meeting"
-    meetingurl: https://indico.cern.ch/event/890991/
-    focus-area: doma, as, ssl
+- title: Delivery of columnar data to analysis systems
+  date: 2019-06-24
+  url: https://indico.cern.ch/event/765245/contributions/3470867/attachments/1869892/3076485/weinbergServiceX190626.pdf
+  meeting: 'ATLAS Software & Computing Week #62'
+  meetingurl: https://indico.cern.ch/event/765245/
+  location: New York City, New York
+  focus-area:
+  - doma
+  - as
+  - ssl
+  project: idds
+- title: Delivery of columnar data to analysis systems
+  date: 2019-07-17
+  url: https://indico.cern.ch/event/811101/contributions/3498875/attachments/1882426/3102062/weinbergServiceX190717.pdf
+  meeting: Annual US ATLAS Computing, Software and Physics Support Technical Meeting
+  meetingurl: https://indico.cern.ch/event/811101/
+  location: Seattle, Washington
+  focus-area:
+  - doma
+  - as
+  - ssl
+- title: ServiceX
+  date: 2020-02-27
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331175/8_-_weinbergGalewsky-serviceX-irisHepReview.pdf
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton, New Jersey
+  focus-area:
+  - doma
+  - as
+  - ssl
+- title: 'ServiceX: A distributed, caching, columnar data delivery service'
+  date: 2020-03-23
+  url: https://indico.cern.ch/event/890991/contributions/3778330/attachments/2007255/3352709/weinbergServiceX200323.pdf
+  meeting: HSF DAWG -- DOMA Access joint meeting
+  meetingurl: https://indico.cern.ch/event/890991/
+  focus-area:
+  - doma
+  - as
+  - ssl

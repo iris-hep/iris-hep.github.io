@@ -1,8 +1,10 @@
+active: true
+focus-area:
+- osglhc
+institution: University of Wisconsin–Madison
 name: Mátyás (Mat) Selmeci
+photo: "/assets/images/team/Mat-Selmeci.png"
 shortname: matyasselmeci
 title: Software Integration Developer
-active: true
-institution: University of Wisconsin–Madison
 website:
-photo: /assets/images/team/Mat-Selmeci.png
 presentations:

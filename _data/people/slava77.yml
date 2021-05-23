@@ -1,42 +1,52 @@
+active: true
+focus-area:
+- ia
+institution: University of California, San Diego
 name: Slava Krutelyov
+photo: "/assets/images/team/Slava-Krutelyov.jpg"
 shortname: slava77
 title:
-active: true
-institution: University of California, San Diego
 website:
-photo: /assets/images/team/Slava-Krutelyov.jpg
 presentations:
-  - title: "Charged Particle Tracking Reconstruction (Guest Lecture)"
-    date: 2019-07-25
-    url: https://indico.cern.ch/event/814979/contributions/3401167/attachments/1831465/3110068/trackingCODAS19.pdf
-    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
-    meetingurl: https://indico.cern.ch/event/814979
-    location: Princeton
-  - title: "Reconstruction R&D for HEP in the next decade"
-    date: 2019-11-22
-    url: https://indico.cern.ch/event/813325/contributions/3603480/attachments/1949438/3235400/lawshepRECO_112119.pdf
-    meeting: Latin American Workshop on Software and Computing challenges in High-Energy Particle Physics (LAWSCHEP 2019)
-    meetingurl: https://indico.cern.ch/event/813325
-    location: Mexico City, Mexico
-    focus-area: ia
-  - title: "Update on mkFit developments"
-    date: 2019-12-16
-    url: https://indico.cern.ch/event/869552/contributions/3669454
-    meeting: CMS Tracking POG Meeting (CMS restricted)
-    meetingurl: https://indico.cern.ch/event/869552
-    location: CERN
-    focus-area: ia
-  - title: "mkFit report: plans for offline tracking in Run3"
-    date: 2020-10-06
-    url: https://indico.cern.ch/event/934824/contributions/4042760
-    meeting: CMS Tracker DPG - Tracking POG General Meeting (CMS restricted)
-    meetingurl: https://indico.cern.ch/event/934824/#b-382385-tracker-dpg-tracking
-    location: CERN
-    focus-area: ia
-  - title: "mkFit report: plans for offline tracking in Run3"
-    date: 2020-10-19
-    url: https://indico.cern.ch/event/961478/contributions/4056656
-    meeting: CMS Tracking POG Meeting (CMS restricted)
-    meetingurl: https://indico.cern.ch/event/961478
-    location: CERN
-    focus-area: ia
+- title: Charged Particle Tracking Reconstruction (Guest Lecture)
+  date: 2019-07-25
+  url: https://indico.cern.ch/event/814979/contributions/3401167/attachments/1831465/3110068/trackingCODAS19.pdf
+  meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+  meetingurl: https://indico.cern.ch/event/814979
+  location: Princeton
+  project: mkfit
+- title: Reconstruction R&D for HEP in the next decade
+  date: 2019-11-22
+  url: https://indico.cern.ch/event/813325/contributions/3603480/attachments/1949438/3235400/lawshepRECO_112119.pdf
+  meeting: Latin American Workshop on Software and Computing challenges in High-Energy
+    Particle Physics (LAWSCHEP 2019)
+  meetingurl: https://indico.cern.ch/event/813325
+  location: Mexico City, Mexico
+  focus-area: ia
+  project: mkfit
+  labels:
+  - conference
+- title: Update on mkFit developments
+  date: 2019-12-16
+  url: https://indico.cern.ch/event/869552/contributions/3669454
+  meeting: CMS Tracking POG Meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/869552
+  location: CERN
+  focus-area: ia
+  project: mkfit
+- title: 'mkFit report: plans for offline tracking in Run3'
+  date: 2020-10-06
+  url: https://indico.cern.ch/event/934824/contributions/4042760
+  meeting: CMS Tracker DPG - Tracking POG General Meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/934824/#b-382385-tracker-dpg-tracking
+  location: CERN
+  focus-area: ia
+  project: mkfit
+- title: 'mkFit report: plans for offline tracking in Run3'
+  date: 2020-10-19
+  url: https://indico.cern.ch/event/961478/contributions/4056656
+  meeting: CMS Tracking POG Meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/961478
+  location: CERN
+  focus-area: ia
+  project: mkfit

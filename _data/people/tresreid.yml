@@ -1,14 +1,17 @@
+active: true
+focus-area:
+- ia
+institution: Cornell University
 name: Michael (Tres) Reid
+photo: "/assets/images/team/Tres-Reid.jpg"
 shortname: tresreid
 title: PhD Student
-active: true
-institution: Cornell University
 website: https://github.com/
-photo: /assets/images/team/Tres-Reid.jpg
 presentations:
-  - title: "Segment Linking Development on GPUs"
-    date: 2020-12-07
-    url: https://indico.cern.ch/event/962048/contributions/4126142/attachments/2157798/3640167/Segment%20Linking%20HLT-GPU%2012-7.pdf
-    meeting: HLT developments with GPUs
-    meetingurl: https://indico.cern.ch/event/962048/
-    project: Segment Linking
+- title: Segment Linking Development on GPUs
+  date: 2020-12-07
+  url: https://indico.cern.ch/event/962048/contributions/4126142/attachments/2157798/3640167/Segment%20Linking%20HLT-GPU%2012-7.pdf
+  meeting: HLT developments with GPUs
+  meetingurl: https://indico.cern.ch/event/962048/
+  project: mkfit
+  focus-area: ia

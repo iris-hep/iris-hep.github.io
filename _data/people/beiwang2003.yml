@@ -1,29 +1,37 @@
+active: true
+focus-area:
+- ia
+institution: Princeton University
 name: Bei Wang
+photo: "/assets/images/team/Bei-Wang.jpg"
 shortname: beiwang2003
 title: HPC Software Engineer
-active: true
-institution: Princeton University
 website:
-photo: /assets/images/team/Bei-Wang.jpg
 presentations:
-  - title: Parallelizing the unpacking and clustering of detector data for reconstruction of charged particle tracks on multi-core CPUs and many-core GPUs
-    date: 2020-04-22
-    url: https://indico.cern.ch/event/831165/contributions/3717156/attachments/2025214/3387680/CTD_BeiWang.pdf
-    meeting: Connecting The Dots (2020)
-    meetingurl: https://indico.cern.ch/event/831165/
-    location: Virtual
-    focus-area: ia
-  - title: Floating Point Arithmetic Is Not Real
-    date: 2019-07-24
-    url: https://indico.cern.ch/event/814979/contributions/3401175/attachments/1831476/3107964/FloatingPointArithmetic.pdf
-    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
-    meetingurl: https://indico.cern.ch/event/814979
-    location: Princeton University
-    focus-area: ia
-  - title: Introduction to Performance Tuning & Optimization Tools
-    date: 2019-07-25
-    url: https://indico.cern.ch/event/814979/contributions/3401196/attachments/1831466/3109819/PerformanceTools.pdf
-    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
-    meetingurl: https://indico.cern.ch/event/814979
-    location: Princeton University
-    focus-area: ia
+- title: Parallelizing the unpacking and clustering of detector data for reconstruction
+    of charged particle tracks on multi-core CPUs and many-core GPUs
+  date: 2020-04-22
+  url: https://indico.cern.ch/event/831165/contributions/3717156/attachments/2025214/3387680/CTD_BeiWang.pdf
+  meeting: Connecting The Dots (2020)
+  meetingurl: https://indico.cern.ch/event/831165/
+  location: Virtual
+  focus-area: ia
+  project: mkfit
+  labels:
+  - conference
+- title: Floating Point Arithmetic Is Not Real
+  date: 2019-07-24
+  url: https://indico.cern.ch/event/814979/contributions/3401175/attachments/1831476/3107964/FloatingPointArithmetic.pdf
+  meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+  meetingurl: https://indico.cern.ch/event/814979
+  location: Princeton University
+  focus-area: ia
+  project:
+- title: Introduction to Performance Tuning & Optimization Tools
+  date: 2019-07-25
+  url: https://indico.cern.ch/event/814979/contributions/3401196/attachments/1831466/3109819/PerformanceTools.pdf
+  meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+  meetingurl: https://indico.cern.ch/event/814979
+  location: Princeton University
+  focus-area: ia
+  project:

@@ -1,41 +1,52 @@
+active: true
+focus-area:
+- ia
+institution: Massachusetts Institute of Technology
 name: Daniel Craik
+photo: "/assets/images/team/Daniel-Craik.jpg"
 shortname: dcraik
 title: Postdoctoral Research Associate
-active: true
-institution: Massachusetts Institute of Technology
 website:
-photo: /assets/images/team/Daniel-Craik.jpg
 presentations:
-  - title: LHCb Status and Outlook
-    date: 2019-10-16
-    url: https://indico.cern.ch/event/844493/contributions/3547458/attachments/1927340/3190928/20191016_dcraik_lua.pdf
-    meeting: LHC Users Association Annual Meeting 2019
-    meetingurl: https://indico.cern.ch/event/844493
-    location: Rice University
-    focus-area: ia
-  - title: The Trigger and Real-time Reconstruction at LHCb
-    date: 2019-12-09
-    url: https://agenda.hep.wisc.edu/event/1391/session/11/contribution/119/material/slides/0.pdf
-    meeting: CPAD Instrumentation Frontier Workshop 2019
-    meetingurl: https://wp.physics.wisc.edu/cpad2019/
-    location: Madison, WI
-    focus-area: ia
-  - title: The Allen Project
-    date: 2020-01-27
-    meeting: IRIS-HEP Topical Meeting
-    meetingurl: https://indico.cern.ch/event/871092/
-    url: https://indico.cern.ch/event/871092/contributions/3673777/attachments/1976291/3289494/20200127_dcraik_irishep_v2.pdf
-    focus-area: ia
-  - title: "Allen: a GPU trigger for LHCb"
-    date: 2020-02-27
-    meeting: IRIS-HEP Poster Session
-    meetingurl: https://indico.cern.ch/event/894127/
-    location: Princeton, NJ
-    url: https://indico.cern.ch/event/894127/attachments/1996570/3331184/13_-_iris-hep-allen-dcraik-40-30.pdf
-    focus-area: ia
-  - title: Autoencoders for Compression and Simulation in Particle Physics
-    date: 2020-04-26
-    meeting: International Conference on Learning Representations 2020
-    meetingurl: https://iclr.cc/virtual/workshops_1.html
-    url: https://slideslive.com/38926198/autoencoders-for-compression-and-simulation-in-particle-physics
-    focus-area: ia
+- title: LHCb Status and Outlook
+  date: 2019-10-16
+  url: https://indico.cern.ch/event/844493/contributions/3547458/attachments/1927340/3190928/20191016_dcraik_lua.pdf
+  meeting: LHC Users Association Annual Meeting 2019
+  meetingurl: https://indico.cern.ch/event/844493
+  location: Rice University
+  focus-area: ia
+  project: allen
+- title: The Trigger and Real-time Reconstruction at LHCb
+  date: 2019-12-09
+  url: https://agenda.hep.wisc.edu/event/1391/session/11/contribution/119/material/slides/0.pdf
+  meeting: CPAD Instrumentation Frontier Workshop 2019
+  meetingurl: https://wp.physics.wisc.edu/cpad2019/
+  location: Madison, WI
+  focus-area: ia
+  project: allen
+  labels:
+  - conference
+- title: The Allen Project
+  date: 2020-01-27
+  meeting: IRIS-HEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/871092/
+  url: https://indico.cern.ch/event/871092/contributions/3673777/attachments/1976291/3289494/20200127_dcraik_irishep_v2.pdf
+  focus-area: ia
+  project: allen
+- title: 'Allen: a GPU trigger for LHCb'
+  date: 2020-02-27
+  meeting: IRIS-HEP Poster Session
+  meetingurl: https://indico.cern.ch/event/894127/
+  location: Princeton, NJ
+  url: https://indico.cern.ch/event/894127/attachments/1996570/3331184/13_-_iris-hep-allen-dcraik-40-30.pdf
+  focus-area: ia
+  project: allen
+- title: Autoencoders for Compression and Simulation in Particle Physics
+  date: 2020-04-26
+  meeting: International Conference on Learning Representations 2020
+  meetingurl: https://iclr.cc/virtual/workshops_1.html
+  url: https://slideslive.com/38926198/autoencoders-for-compression-and-simulation-in-particle-physics
+  focus-area: ia
+  project: allen
+  labels:
+  - conference

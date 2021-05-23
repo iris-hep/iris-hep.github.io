@@ -1,0 +1,18 @@
+open: yes
+postdate: 2021-05-01
+title: Muon Collider Tracking Software
+description: >
+  A muon-collider has been proposed as a possible path for future high-energy physics.
+  The design of a detector for a muon collider has to cope with a large
+  rate of beam-induced background, resulting in an unprecedentedly large multplicity of particles entering the
+  detector that are unrelated to the main muon-muon collision.
+  The algorithms used for charged particle reconstruction (tracking) need to cope with such "noise" and be
+  able to successfully reconstruct the trajectories of the particles of interest, which results
+  in a very large conbinatorial problem that challenges the approaches adopted so far.
+  The project consists of two possible phases. In the first one, we will investigate how the tracking algorithms can
+  be improved by utilizing directional information from specially-arranged silicon-detector layers. In the second phase,
+  if time allows, we will focus on the optimization of the algorithm and the detector layout in order to take full advantage
+  of such information.
+contacts:
+- "[Sergo Jindariani](sergo@fnal.gov)"
+- "[Simone Pagan Griso](spagangriso@lbl.gov)"

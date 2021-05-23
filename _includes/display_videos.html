@@ -1,0 +1,29 @@
+
+
+{% if include.videos.size > 0 %}
+  {% assign full_person_list = site.data.people | values %}
+
+  <div class="container-fluid">
+    <div class="videos row">
+
+
+      {% for video in include.videos %}
+
+        <div class="card videos">
+          <div class="card-body d-flex flex-column">
+            <div class="card-text card-title" style="font-size:15px;">
+              {% assign v_speaker_person = full_person_list | find: "shortname", video.speaker %}
+              {% assign v_speaker = v_speaker_person.name | default: video.speaker %}
+              {{v_speaker}} on {{video.title}}
+            </div>
+            <div class="card-text card-body" style="font-size:12px;">
+               <iframe width="90%" height="60%" src="{{video.url}}?start={{video.startsec}}" title="IRIS-HEP video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+               </iframe>  <br/>
+            {{ video.date | date: "%-d %b %Y" }}
+            </div>
+         </div>
+       </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

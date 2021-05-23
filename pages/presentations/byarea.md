@@ -4,7 +4,7 @@ layout: presentations
 title: Presentations by Area
 ---
 
-{% include get_pres_list.html %}
+{% assign sorted_presentations = site.data['sorted_presentations'] %}
 
 <!--
   0     1       2      3       4          5           6          7            8
@@ -18,7 +18,7 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
 
 {% for focus-area-page in activities %}
   {% assign focus-area-title = focus-area-page.title %}
-  {% assign focus-area-name = focus-area-page.short_title | strip %}
+  {% assign focus-area-name = focus-area-page.name | basename %}
   <h4>{{ focus-area-title }}</h4>
   <ul>
   {% for talk in sorted_presentations %}

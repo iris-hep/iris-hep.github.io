@@ -1,57 +1,73 @@
+active: true
+focus-area:
+- ssl
+- doma
+- as
+- ssc
+institution: National Center for Supercomputing Applications
 name: Ben Galewsky
+photo: "/assets/images/team/Ben-Galewsky.jpg"
 shortname: BenGalewsky
 title:
-active: true
-institution: National Center for Supercomputing Applications
 website: https://github.com/BenGalewsky
-photo: /assets/images/team/Ben-Galewsky.jpg
 presentations:
-  - title: "Data Engineering at the Large Hadron Collider"
-    date: 2020-09-21
-    url: https://docs.google.com/presentation/d/1QNLn6MFVatzHOJRwQ2nyHGf2ZJAD61tvZgdVIC8Py2g/edit?usp=sharing
-    meeting: "Chicago Cloud Conference"
-    meetingurl: https://www.chicagocloudconference.com
-    location: Virtual
-    focus-area: ssl, doma
-  - title: "Controlling AWS Costs Using a Data Carousel"
-    date: 2020-07-21
-    url: https://www.ideals.illinois.edu/handle/2142/107801
-    meeting: "Earth Science Information Partners Summer Meeting"
-    meetingurl: https://2020esipsummermeeting.sched.com/event/e485fae5c61bd3f8e974da2793dd3760
-    location: Virtual
-    focus-area: ssl, doma
-  - title: "ServiceX and Kubernetes"
-    date: 2020-07-08
-    url: https://indico.cern.ch/event/813749/contributions/3932531/attachments/2070530/3476782/ServiceX_and_Kubernetes.pdf
-    meeting: "LHCG Grid Deployment Board meeting"
-    meetingurl: https://indico.cern.ch/event/813749/
-    location: Virtual
-    focus-area: ssl, doma
-  - title: ServiceX
-    date: 2019-06-19
-    url: https://indico.cern.ch/event/822074/contributions/3471452/attachments/1865411/3067262/ServiceX_For_AS_Workshop.pdf
-    meeting: Analysis Systems Topical Workshop
-    meetingurl: https://indico.cern.ch/event/822074
-    location: NYU
-    focus-area: as, doma
-  - title: "Analysis Systems team meetings/process efficacy"
-    date: 2019-09-12
-    url: https://indico.cern.ch/event/840472/contributions/3564364/attachments/1907330/3150288/go
-    meeting: IRIS-HEP Institute Retreat
-    meetingurl: https://indico.cern.ch/event/840472/overview
-    location: FNAL
-    focus-area: as
-  - title: "A Distributed, Caching, Columnar Data Delivery Service(X)"
-    date: 2019-11-04
-    url: https://indico.cern.ch/event/773049/contributions/3474438/
-    meeting: CHEP 2019 Conference
-    meetingurl: https://indico.cern.ch/event/773049
-    location: Adelaide, South Australia
-    focus-area: doma
-  - title: "Open Source Community Building"
-    date: 2020-01-08
-    url: https://esip.figshare.com/articles/Open_Source_Community_Building/11553147
-    meeting: ESIP 2020 Winter Meeting
-    meetingurl: https://2020esipwintermeeting.sched.com
-    location: Bethesda, MD
-    focus-area: ssc
+- title: Data Engineering at the Large Hadron Collider
+  date: 2020-09-21
+  url: https://docs.google.com/presentation/d/1QNLn6MFVatzHOJRwQ2nyHGf2ZJAD61tvZgdVIC8Py2g/edit?usp=sharing
+  meeting: Chicago Cloud Conference
+  meetingurl: https://www.chicagocloudconference.com
+  location: Virtual
+  focus-area:
+  - ssl
+  - doma
+- title: Controlling AWS Costs Using a Data Carousel
+  date: 2020-07-21
+  url: https://www.ideals.illinois.edu/handle/2142/107801
+  meeting: Earth Science Information Partners Summer Meeting
+  meetingurl: https://2020esipsummermeeting.sched.com/event/e485fae5c61bd3f8e974da2793dd3760
+  location: Virtual
+  focus-area:
+  - ssl
+  - doma
+- title: ServiceX and Kubernetes
+  date: 2020-07-08
+  url: https://indico.cern.ch/event/813749/contributions/3932531/attachments/2070530/3476782/ServiceX_and_Kubernetes.pdf
+  meeting: LHCG Grid Deployment Board meeting
+  meetingurl: https://indico.cern.ch/event/813749/
+  location: Virtual
+  focus-area:
+  - ssl
+  - doma
+  project: servicex
+- title: ServiceX
+  date: 2019-06-19
+  url: https://indico.cern.ch/event/822074/contributions/3471452/attachments/1865411/3067262/ServiceX_For_AS_Workshop.pdf
+  meeting: Analysis Systems Topical Workshop
+  meetingurl: https://indico.cern.ch/event/822074
+  location: NYU
+  focus-area:
+  - as
+  - doma
+  project: servicex
+- title: Analysis Systems team meetings/process efficacy
+  date: 2019-09-12
+  url: https://indico.cern.ch/event/840472/contributions/3564364/attachments/1907330/3150288/go
+  meeting: IRIS-HEP Institute Retreat
+  meetingurl: https://indico.cern.ch/event/840472/overview
+  location: FNAL
+  focus-area: as
+- title: A Distributed, Caching, Columnar Data Delivery Service(X)
+  date: 2019-11-04
+  url: https://indico.cern.ch/event/773049/contributions/3474438/
+  meeting: CHEP 2019 Conference
+  meetingurl: https://indico.cern.ch/event/773049
+  location: Adelaide, South Australia
+  focus-area: doma
+  project: servicex
+- title: Open Source Community Building
+  date: 2020-01-08
+  url: https://esip.figshare.com/articles/Open_Source_Community_Building/11553147
+  meeting: ESIP 2020 Winter Meeting
+  meetingurl: https://2020esipwintermeeting.sched.com
+  location: Bethesda, MD
+  focus-area: ssc
