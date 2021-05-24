@@ -243,3 +243,12 @@ presentations:
   meeting: ATLAS Analysis Model Group (AMG) Meeting
   focus-area: as
   location: CERN
+- title: hep_tables: Heterogeneous Array Programming for HEP
+  date: 2021-05-19
+  url: https://indico.cern.ch/event/948465/contributions/4324133/
+  meetingurl: https://indico.cern.ch/event/948465
+  meeting: CHEP 2021
+  focus-area: as
+  location: CERN
+  project: hep_tables
+  
