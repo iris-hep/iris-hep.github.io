@@ -55,6 +55,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- Belle II Collaboration. Search for B⁺→ K⁺νν̅  decays using an inclusive tagging method at Belle II. Contribution to the 2021 EW session of the 55th Rencontres de Moriond. May 2021. [arXiv:2105.05754](https://arxiv.org/abs/2105.05754).
 - Belle II Collaboration. Search for B⁺→ K⁺νν̅  decays using an inclusive tagging method at Belle II. Apr 2021. [arXiv:2104.12624](https://arxiv.org/abs/2104.12624).
 - Andrei Angelescu, Damir Bečirević, Darius A. Faroughy, Florentin Jaffredo, and Olcyr Sumensari. On the single leptoquark solutions to the _B_-physics anomalies. Mar 2021. [arXiv:2103.12504](https://arxiv.org/abs/2103.12504).
 - Rodolfo Capdevilla, Federico Meloni, Rosa Simoniello, and Jose Zurita. Hunting wino and higgsino dark matter at the muon collider with disappearing tracks. Feb 2021. [arXiv:2102.11292](https://arxiv.org/abs/2102.11292).
