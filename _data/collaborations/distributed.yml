@@ -20,7 +20,7 @@
   awards:
     - type: OAC
       number: 2115148
-- name: SciAuth: Deploying Interoperable and Usable Authorization Tokens to Enable Scientific Collaborations
+- name: "SciAuth: Deploying Interoperable and Usable Authorization Tokens to Enable Scientific Collaborations"
   short: SciAuth
   description: Working to transition the distributed high throughput computing ecosystem to use token-based authorization.
   url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2114989
