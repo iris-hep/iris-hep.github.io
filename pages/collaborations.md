@@ -15,8 +15,8 @@ include:
 #### {{ collab.name }}
 {%    for proj in site.data.collaborations[collab.id] %}
 * [{{ proj.name }}]({{ proj.url }})
-      {%- if proj.shortname -%}
-          ({{ proj.shortname }})
+      {%- if proj.short -%}
+          ({{ proj.short }})
       {%- endif -%}
       {%- if proj.description -%}
         : {{ proj.description }}
