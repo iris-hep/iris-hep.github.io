@@ -183,17 +183,16 @@ ongoing events don't get prematurely flagged as recent.
 <h4>Related projects:</h4>
 {%- assign projlist = "" | split: "," -%}
 {{ " " }}
-{%- for cat in site.data.collabcats -%}
-  {%- for proj in site.data.collaborations[cat.id] -%}
-    {%- capture projtxt -%}
-      {%- if proj.short %}
-          [{{ proj.short }}]({{ proj.url }})
-      {% else %}
-          [{{ proj.name }}]({{ proj.url }})
-      {%- endif -%}
-    {%- endcapture -%}
-    {%- assign projlist = projlist | push: projtxt -%}
-  {%- endfor -%}
+{%- assign projs = site.data.collabcats | hash_fetch: site.data.collaborations, "id" | flat_map | puts -%}
+{%- for proj in projs -%}
+  {%- capture projtxt -%}
+    {%- if proj.short -%}
+      [{{ proj.short }}]({{ proj.url }})
+    {%- else -%}
+      [{{ proj.name }}]({{ proj.url }})
+    {%- endif -%}
+  {%- endcapture -%}
+  {%- assign projlist = projlist | push: projtxt -%}
 {%- endfor -%}
 
 <ul>

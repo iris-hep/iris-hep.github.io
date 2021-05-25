@@ -102,11 +102,14 @@ This does nothing, but prints out the contents to the screen when compiling. Onl
 
 #### `hash_fetch`
 
-This will fetch items from a hash (dict) using an array, returning the value if the key is in the hash, and nil for array items that are not keys in the hash.
+This will fetch items from a hash (dict) using an array, returning the value if
+the key is in the hash, and nil for array items that are not keys in the hash.
+If you have a nested key, you can pass that as an option.
 
 {% raw %}
 ```
 {{ key_array | hash_fetch: hash }} -> value_array
+{{ key_hash_array | hash_fetch: hash, "id" }} -> value_array
 ```
 {% endraw %}
 
