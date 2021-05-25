@@ -89,7 +89,7 @@ module IrisHep
       # If we have multiple dates, just pick the last one
       input.stable_sort_by do |v|
         dates = v['dates']
-        dates = dates[-1] if dates.is_a? Array
+        dates = dates.max_by { |vv| vv['start'] } if dates.is_a? Array
         dates['start']
       end
     end
