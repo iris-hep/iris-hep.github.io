@@ -42,7 +42,7 @@ to be very valuable for inference.
 [![Documentation Status](https://readthedocs.org/projects/madminer/badge/?version=latest)](https://madminer.readthedocs.io/en/latest/?badge=latest)
 [![CI Status](https://github.com/diana-hep/madminer/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/diana-hep/madminer/actions/workflows/ci.yml?query=branch%3Amaster)
 [![Docker pulls](https://img.shields.io/docker/pulls/madminertool/docker-madminer.svg)](https://hub.docker.com/r/madminertool/docker-madminer)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/johannbrehmer/madminer/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/diana-hep/madminer/master)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1489147.svg)](https://doi.org/10.5281/zenodo.1489147)
