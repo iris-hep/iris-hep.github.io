@@ -27,7 +27,8 @@
   awards:
     - type: OAC
       number: 2114989
-- name: Event Workflow Management Service (EWMS)
+- name: Event Workflow Management Service
+  short: EWMS
   url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103963
   description: "Working to manage extremely large numbers of independent computational tasks - represented as 'events' - as part of a manaager-worker paraadigm"
   awards:
