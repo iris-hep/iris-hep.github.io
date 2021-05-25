@@ -51,8 +51,9 @@ module IrisHep
     end
 
     # Convert array of keys to array of values using a hash, nil where no mapping exists
-    def hash_fetch(input, hash)
-      input.map { |k| hash.fetch(k, nil) }
+    # Supports optionally passing a key to lookup.
+    def hash_fetch(input, hash, key = nil)
+      input.map { |k| hash.fetch(key.nil? ? k : k[key], nil) }
     end
 
     # Keys of a hash
