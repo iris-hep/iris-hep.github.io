@@ -5,7 +5,7 @@ title: coffea-casa
 shortname: coffea-casa
 pagetype: project
 image: logos/coffea-casa.png
-logowidth: 70%
+logowidth: 15%
 blurb: A Prototype of Analysis Facility
 focus-area:
  - doma
