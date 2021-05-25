@@ -183,7 +183,7 @@ ongoing events don't get prematurely flagged as recent.
 <h4>Related projects:</h4>
 {%- assign projlist = "" | split: "," -%}
 {{ " " }}
-{%- assign projs = site.data.collabcats | hash_fetch: site.data.collaborations, "id" | flat_map | puts -%}
+{%- assign projs = site.data.collabcats | hash_fetch: site.data.collaborations, "id" | flat_map -%}
 {%- for proj in projs -%}
   {%- capture projtxt -%}
     {%- if proj.short -%}
