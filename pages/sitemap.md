@@ -13,53 +13,45 @@ different page categories (using our custom frontmatter tag "pagetype").
 <br>
 <b>Focus Area pages:</b>
 <ul>
-{% assign sorted = site.pages | sort_natural: 'title' %}
+{% assign sorted = site.pages | where: 'pagetype', 'focus-area' | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'focus-area' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
-  {% endif %}
 {% endfor %}
 </ul>
 
 <br>
 <b>Project pages:</b>
 <ul>
-{% assign sorted = site.pages | sort_natural: 'title' %}
+{% assign sorted = site.pages | where: 'pagetype', 'project' | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'project' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
-  {% endif %}
 {% endfor %}
 </ul>
 
 <br>
 <b>Documentation pages:</b>
 <ul>
-{% assign sorted = site.pages | sort_natural: 'title' %}
+{% assign sorted = site.pages | where: 'pagetype', 'doc' | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'doc' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
-  {% endif %}
 {% endfor %}
 </ul>
 
 <br>
 <b>IRIS-HEP Fellow pages:</b>
 <ul>
-{% assign sorted = site.pages | sort_natural: 'title' %}
+{% assign sorted = site.pages | where: 'pagetype', 'fellow' | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype == 'fellow' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
-  {% endif %}
 {% endfor %}
 </ul>
 
 <br>
 <b>Other pages:</b>
 <ul>
-{% assign sorted = site.pages | sort_natural: 'title' %}
+{% assign sorted = site.pages | select: 'title' | sort_natural: 'title' %}
 {% for mypage in sorted %}
-  {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.pagetype != 'fellow' and mypage.title %}
+  {% if mypage.pagetype != 'doc' and mypage.pagetype != 'focus-area' and mypage.pagetype != 'project' and mypage.pagetype != 'fellow' %}
   <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
   {% endif %}
 {% endfor %}
