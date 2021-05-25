@@ -186,7 +186,11 @@ ongoing events don't get prematurely flagged as recent.
 {%- for cat in site.data.collabcats -%}
   {%- for proj in site.data.collaborations[cat.id] -%}
     {%- capture projtxt -%}
-      [{{ proj.name }}]({{ proj.url }})
+      {%- if proj.short %}
+          [{{ proj.short }}]({{ proj.url }})
+      {% else %}
+          [{{ proj.name }}]({{ proj.url }})
+      {%- endif -%}
     {%- endcapture -%}
     {%- assign projlist = projlist | push: projtxt -%}
   {%- endfor -%}
