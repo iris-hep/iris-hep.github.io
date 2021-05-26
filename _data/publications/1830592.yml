@@ -3,4 +3,4 @@ related-work: false
 focus-area: ia
 project:
 - ml4jets
-
+citation: "Machine Learning and the Physical Sciences, Workshop at the 34th Conference on Neural Information Processing Systems (NeurIPS), December 11, 2020"
