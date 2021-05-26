@@ -4,6 +4,11 @@ layout: default
 title: Grand Challenges
 ---
 
+Jump to: [Data processing GC](#data-processing-grand-challenge) -
+[Analysis GC](#analysis-grand-challenge) -
+[Training GC](#training-grand-challenge)
+
+
 # Grand Challenges
 
 IRIS-HEP is establishing institute-wide “Grand Challenges” to assess our progress toward the primary institute high-level goals. These challenges are meant to frame and organize many of the specific milestones and deliverables in IRIS-HEP. As these challenges will be organized together with the US LHC Operations programs, the LHC experiments and other partners, we expect some future evolution and iteration in the overall scope and timeline.
@@ -81,7 +86,7 @@ The video below provides an overview of the tools being developed by the Analysi
 
 
 -->
-
+<br/>
 ## Training Grand Challenge
 
 We are now working to define, with the larger community, a series of specific goals for the period 2021-2023 in four categories and to work with the community to achieve them.

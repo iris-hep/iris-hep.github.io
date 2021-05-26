@@ -587,3 +587,10 @@ div#covid {
 #twitter-widget-0 {
   max-width: 340px !important;
 }
+
+:target:before {
+content:"";
+display:block;
+height:90px; /* fixed header height*/
+margin:-90px 0 0; /* negative fixed header height */
+}
