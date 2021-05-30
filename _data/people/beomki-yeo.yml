@@ -8,3 +8,10 @@ photo: "/assets/images/team/beomki-yeo.png"
 shortname: beomki-yeo
 title: Post-doctoral researcher
 presentations:
+- title: GPU Demonstrator for ACTS Track Reconstruction
+  date: 2021-05-15
+  meeting: NSF review
+  meetingurl:
+  url: https://www.youtube.com/watch?v=1ygS0ESDxd4
+  focus-area: ia
+  project: acts
