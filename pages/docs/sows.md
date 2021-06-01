@@ -53,8 +53,8 @@ budget is required.
 In addition you should write a budget justification which contains the
 information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to
 funds required for a _single_ year and the defined time period, which should
-be noted explicitly in the justification. For example, "IRIS-HEP Year 3:
-1 September, 2020 - 31 August, 2021" or similar should appear near the top
+be noted explicitly in the justification. For example, "IRIS-HEP Year 4:
+1 September, 2021 - 31 August, 2022" or similar should appear near the top
 of the document.
 
   In addition to the standard budget justification information, additional
