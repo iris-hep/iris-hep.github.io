@@ -186,11 +186,11 @@ presentations:
   focus-area: as
   project: pyhf
 
-- title: 'Distributed statistical inference with pyhf enabled through funcX'
-  date: 2021-05-20
-  url: https://indico.cern.ch/event/948465/contributions/4324013/
-  meeting: vCHEP 2021 Conference
-  meetingurl: https://indico.cern.ch/event/948465/
+- title: 'PyHEP pyhf Tutorial'
+  date: 2021-04-07
+  url: https://indico.cern.ch/event/985425/
+  meeting: PyHEP Python Module of the Month, April 2021
+  meetingurl: https://indico.cern.ch/event/985425/
   location: Virtual
   focus-area: as
   project: pyhf
