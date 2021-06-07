@@ -55,7 +55,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
-- ATLAS Collaboration. Search for chargino--neutralino pair production in final states with three leptons and missing transverse momentum in s√=13 TeV pp collisions with the ATLAS detector. Jun2021. [arXiv:2106.01676](https://arxiv.org/abs/2106.01676).
+- ATLAS Collaboration. Search for chargino&ndash;neutralino pair production in final states with three leptons and missing transverse momentum in s√=13 TeV pp collisions with the ATLAS detector. June 2021. [arXiv:2106.01676](https://arxiv.org/abs/2106.01676).
 - Belle II Collaboration. Search for B⁺→ K⁺νν̅  decays using an inclusive tagging method at Belle II. Contribution to the 2021 EW session of the 55th Rencontres de Moriond. May 2021. [arXiv:2105.05754](https://arxiv.org/abs/2105.05754).
 - Belle II Collaboration. Search for B⁺→ K⁺νν̅  decays using an inclusive tagging method at Belle II. Apr 2021. [arXiv:2104.12624](https://arxiv.org/abs/2104.12624).
 - Andrei Angelescu, Damir Bečirević, Darius A. Faroughy, Florentin Jaffredo, and Olcyr Sumensari. On the single leptoquark solutions to the _B_-physics anomalies. Mar 2021. [arXiv:2103.12504](https://arxiv.org/abs/2103.12504).
