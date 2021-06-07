@@ -18,4 +18,4 @@ mentors:
   - Sergo Jindariani - (Fermilab)
   - Simone Pagan - (Lawrence Berkeley National Laboratory)
  proposal: /assets/pdf/Fellows-Kyle-Feist-Proposal.pdf
- ---
+---
