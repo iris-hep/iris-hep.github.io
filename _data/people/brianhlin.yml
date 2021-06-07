@@ -9,6 +9,14 @@ shortname: brianhlin
 title: OSG Software Team Manager
 website:
 presentations:
+- title: HTCondor CE 5 and Job Router Transform Language
+  date: 2021-05-27
+  url: https://agenda.hep.wisc.edu/event/1579/contributions/23068/
+  meeting: HTCondor Week 2021
+  meetingurl: https://agenda.hep.wisc.edu/event/1579
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
 - title: OSG/GlideinWMS Token Auth Update
   date: 2021-05-12
   url: https://indico.cern.ch/event/876789/contributions/4349454/
