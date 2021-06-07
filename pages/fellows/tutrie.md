@@ -30,5 +30,5 @@ mentors:
 proposal: /assets/pdf/Fellow-jason-hipkins-Proposal.pdf
 presentations:
 current_status: >
-	Working on the first deliverable
+ Working on the first deliverable
 ---
