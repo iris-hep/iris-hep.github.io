@@ -3,7 +3,7 @@ layout: fellow
 pagetype: fellow
 shortname: FeistKyle
 permalink: /fellows/FeistKyle.html
-fellow-name: Kyle Feist - IRIS-HEP Fellow
+fellow-name: Kyle Feist
 active: True
 dates:
  start: 2021-06-01
