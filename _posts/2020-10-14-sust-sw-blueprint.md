@@ -2,9 +2,9 @@
 layout: irispost
 title: Software Sustainability & High Energy Physics Blueprint Workshop
 author: Daniel S. Katz
-postimage: /assets/images/blueprint-process.png
-postimage-whole: true
-postimage-caption: "This workshop was part of the Blueprint process, which is designed to inform the development and evolution of the IRIS-HEP strategic vision, in this case regarding sustainable software."
+image: /assets/images/blueprint-process.png
+image-whole: true
+image-caption: "This workshop was part of the Blueprint process, which is designed to inform the development and evolution of the IRIS-HEP strategic vision, in this case regarding sustainable software."
 summary: "On July 22, about 80 researchers interested in both sustainable software and high energy physics gathered virtually to talk about how the high energy physics community could make its software more sustainable, wanting it to be easier to develop and maintain so that it remains available in the future on new platforms, meets new needs, and is as reusable as possible."
 ---
 
@@ -84,4 +84,4 @@ won the Young Physicist prize and was cited, amongst other things, for 'software
 The list of APS awards does not seem to have such an award. What is needed and recommended is not one award but a few number of them for
 software contributions and even software training recognition. These rewards will be a good way to keep the talent motivated.
 
-The material from the workshop is available online in an [Indico agenda](https://indico.cern.ch/event/930127/timetable/). 
+The material from the workshop is available online in an [Indico agenda](https://indico.cern.ch/event/930127/timetable/).

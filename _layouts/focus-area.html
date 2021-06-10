@@ -1,10 +1,38 @@
 <!doctype html>
-  
+
 {% include layout_header_navbar.html %}
 
     <div id="container">
-      <div class="container">
+      <div class="container page">
         <main role="main">
+
+{% assign page_focus_area = page.name | basename %}
+{% assign sorted = site.pages | where: "pagetype", "project" | where_exp: "item", "item.focus-area contains page_focus_area" | smart_title_sort %}
+{% assign fa_team = site.data.people | where_exp: "item", "item.focus-area contains page_focus_area and item.active and item.hidden != true" | last_name_sort: "name" %}
+{% assign fa_fellows = site.pages | sort_natural: 'title' | where_exp: "item", "item.pagetype == 'fellow' and item.focus-area contains page_focus_area" %}
+{% assign pres_list = site.data['sorted_presentations'] | where_exp: "item", "item.focus-area contains page_focus_area"  %}
+{% assign pubs = site.data['sorted_publications'] | where_exp: "item", "item.focus-area contains page_focus_area" %}
+{% include get_selected_videos.html nvideos=6 focus_areas=page_focus_area %}
+
+{% assign quicklinks = "" | split: "," %}
+{% if fa_fellows.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#fellows"> Fellows</a>' %}
+{% endif %}
+{% if sorted.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#projects"> Projects</a>' %}
+{% endif %}
+{% if pres_list.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#presentations"> Presentations</a>' %}
+{% endif %}
+{% if pubs.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#publications"> Publications</a>' %}
+{% endif %}
+{% if selected_videos.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#videos"> Videos</a>' %}
+{% endif %}
+{% if quicklinks.size > 0 %}
+  Jump to: {{ quicklinks | join: " - " }}
+{% endif %}
 
 <div>
 <br>
@@ -13,25 +41,48 @@
 {{content}}
 </div>
 
-{% assign doProjects = 0 %}
-{% assign sorted = site.pages | sort_natural: 'title' %}
-{% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %} 
-{% if mypage.focus-area contains page.short_title %}
-{% assign doProjects = 1 %}
-{% break %}
-{% endif %}
-{% endif %}
-{% endfor %}
 
-{% if doProjects ==1 %}
+{% if fa_team.size > 0 %}
+<div class="container-fluid">
+  <div class="row">
+    {% for person in fa_team %}
+    <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px;">
+      <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
+      {%- if person.website -%}
+        <a href="{{person.website}}">{{ person.name }}</a>
+      {%- else -%}
+        {{ person.name }}
+      {%- endif -%}
+      </div>
+    {% endfor %}
+  </div>
+  <br>
+</div>
+{% endif %}
+
+{% if fa_fellows.size > 0 %}
+<h2 id="fellows" class="alt-h2 text-center mb-3 mt-lg-6" id="pres">Current and Previous {{page.short_title | upcase }} Fellows</h2>
+
+<div class="container-fluid">
+  <div class="row">
+    {% for person in fa_fellows %}
+    <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px;">
+      <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
+        <a href="{{person.permalink}}">{{ person.fellow-name }}</a>
+      </div>
+    {% endfor %}
+  </div>
+  <br>
+</div>
+{% endif %}
+
+
+{% if sorted.size > 0 %}
 <div class="container-fluid projects">
-  <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
+  <h2 id="projects"  class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
 <center>
   <div class="row">
 {% for mypage in sorted %}
-{% if mypage.pagetype == 'project' %} 
-{% if mypage.focus-area contains page.short_title %}
 <div class="card" style="width: 17rem;">
 <a href=/projects/{{mypage.shortname}}.html>
 <img class="card-img-top" src="/assets/{{mypage.image | default: "logos/Iris-hep-5-just-graphic.png"}}" alt="Card image cap">
@@ -44,8 +95,6 @@
 </div>
 </div>
 </div>
-{% endif %}
-{% endif %}
 {% endfor %}
   </div>
 </center>
@@ -53,92 +102,32 @@
 </div>
 {% endif %}
 
-
-{% include get_pres_list.html %}
-{% assign page_focus_area = page.short_title | strip %}
-
-{% assign pres_list = "" | split: "," %}
-{% for pres in sorted_presentations %}
-  {% if pres.focus-area contains page_focus_area %}
-    {% assign pres_list = pres_list | push: pres %}
-  {% endif %}
-{% endfor %}
-
 {% if pres_list.size > 0 %}
 <section class="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
-    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
-
-<ul>
-{% assign max_disp = 15 %}
-{% assign counter = 0 %}
-{% for talk in pres_list %}
-  {% assign counter = counter | plus: 1 %}
-  <li>
-    {%- include print_pres.html talk=talk -%}
-  </li>
-  {% if counter == max_disp %}
-    </ul>
-    <p>[expand]</p>
-    <ul>
-  {% endif %}
-{% endfor %}
-</ul>
-{% if counter >= max_disp %}
-<p>[/expand]</p>
-{% endif %}
+    <h2 id="presentations" class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
+    {% expandable pres_list 15 %}
+      {% include print_pres.html talk=expandable %}
+    {% endexpandable %}
 </div>
 </section>
 {% endif %}
-
-{% include get_pub_list.html %}
-
-{% assign pubs = "" | split: "," %}
-{% for pub in sorted_publications %}
-  {% assign page_st = page.short_title | strip %}
-  {% if pub.focus-area contains page_st %}
-    {% assign pubs = pubs | push: pub %}
-  {% endif %}
-{% endfor %}
 
 {% if pubs.size > 0 %}
-
-
+<section class="">
 <div class="container-lg p-responsive py-5 py-md-6 ">
-    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
-
-
-<ul>
-{% assign max_disp = 15 %}
-{% assign counter = 0 %}
-  {% for pub in pubs %}
-    {% assign counter = counter | plus: 1 %}
-    {% if pub.citation-count and pub.citation-count > 0 %}
-      {% assign cited = " [" | append: pub.citation-count | append: " citations]" %}
-      {% if pub.inspire-id %}
-        {% capture cited %} <a href='http://inspirehep.net/record/{{pub.inspire-id}}/citations'>{{cited}}</a>{% endcapture %}
-      {% endif %}
-    {% else %}
-      {% assign cited = "" %}
-    {% endif %}
-    <li> {% include print_pub.html pub=pub %} </li>
-    {% if counter == max_disp %}
-    </ul>
-    <p>[expand]</p>
-    <ul>
-    {% endif %}
-  {% endfor %}
-</ul>
+    <h2 id="publications" style="margin-top: -110px;" class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
+    {% expandable pubs 15 %}
+      {% include print_pub.html pub=expandable %}
+    {% endexpandable %}
 </div>
-
-{% if counter >= max_disp %}
-<p>[/expand]</p>
-{% endif %}
-
 </section>
-
 {% endif %}
 
+{% if selected_videos.size > 0 %}
+<h2 id="videos" class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">Recent {{ page.short_title | upcase }} Recordings</h2>
+{% include display_videos.html videos=selected_videos %}
+{% endif %}
 
 <section class="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
@@ -159,11 +148,9 @@
 
         </main>
       </div>
-      {% include footer.html %}
+      {% include_cached footer.html %}
     </div>
 
-  {% include layout_analytics.html %}
+  {% include_cached layout_analytics.html %}
   </body>
 </html>
-
-

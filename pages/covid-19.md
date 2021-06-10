@@ -95,7 +95,7 @@ examples of our activities include:
 
 # How our colleagues at other NSF-related initiatives are responding to COVID-19
 
-  * [Open Science Grid](https://opensciencegrid.org/covid-19.html) for COVID-19 Research   
+  * [Open Science Grid](https://opensciencegrid.org/covid-19.html) for COVID-19 Research
   * [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/2020/04/17/molssis-response-to-the-covid-19-pandemic/)
   * [Science Gateways Community Institute](https://sciencegateways.org/-/trusted-ci-nsf-ci-coe-pilot-and-sgci-offering-priority-help-to-projects-tackling-covid-19)
   * [XSEDE](https://www.xsede.org/covid19-hpc-consortium)

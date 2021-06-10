@@ -4,4 +4,6 @@ enddate: 2019-05-08
 location: Fermilab
 status: current
 meetingurl: https://indico.cern.ch/e/adl4lhcatlpc
-note: 
+note:
+labels:
+- training

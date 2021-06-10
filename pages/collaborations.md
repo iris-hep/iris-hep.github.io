@@ -6,17 +6,17 @@ title: Collaborations and Related Projects
 
 # Collaborations and Related Projects
 
-The IRIS-HEP project and team members are part of a larger ecosystem of 
-projects and collaborations focused on both high energy physics research and 
-the development of software and computing systems to support science. These 
+The IRIS-HEP project and team members are part of a larger ecosystem of
+projects and collaborations focused on both high energy physics research and
+the development of software and computing systems to support science. These
 include:
 
 {% for collab in site.data.collabcats %}
 #### {{ collab.name }}
 {%    for proj in site.data.collaborations[collab.id] %}
 * [{{ proj.name }}]({{ proj.url }})
-      {%- if proj.shortname -%}
-          ({{ proj.shortname }})
+      {%- if proj.short -%}
+          ({{ proj.short }})
       {%- endif -%}
       {%- if proj.description -%}
         : {{ proj.description }}

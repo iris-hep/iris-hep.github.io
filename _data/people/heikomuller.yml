@@ -1,29 +1,38 @@
+active: true
+focus-area:
+- as
+- ia
+institution: New York University
 name: Heiko Mueller
+photo: "/assets/images/team/Heiko-Mueller.jpg"
 shortname: heikomuller
 title: Research Software Engineer (SCAILFIN)
-active: true
-institution: New York University
 website: https://cims.nyu.edu/~hmueller/
-photo: /assets/images/team/Heiko-Mueller.jpg
 presentations:
-  - title: "SCAILFIN: Reproducible Open Benchmarks"
-    date: 2019-06-19
-    url: https://indico.cern.ch/event/822074/contributions/3471463/
-    meeting: Analysis Systems Topical Meeting
-    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
-    location: NYU
-    focus-area: as, ia
-  - title: "Benchmarks for ML4Jets research"
-    date: 2019-09-25
-    url: https://indico.cern.ch/event/841905/
-    meeting: IRIS-HEP Topical Meeting
-    meetingurl: https://indico.cern.ch/event/841905/
-    location: Vidyo
-    focus-area: ia
-  - title: "ROB: Reproducible Open Benchmarks for Data Analysis Platform"
-    date: 2020-01-17
-    url: https://indico.cern.ch/event/809820/contributions/3632640/attachments/1971191/3279096/ROB-ML4Jets.pdf
-    meeting: ML4Jets 2020
-    meetingurl: https://indico.cern.ch/event/809820/
-    location: New York University
-    focus-area: ia, core
+- title: 'SCAILFIN: Reproducible Open Benchmarks'
+  date: 2019-06-19
+  url: https://indico.cern.ch/event/822074/contributions/3471463/
+  meeting: Analysis Systems Topical Meeting
+  meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+  location: NYU
+  focus-area:
+  - as
+  - ia
+- title: Benchmarks for ML4Jets research
+  date: 2019-09-25
+  url: https://indico.cern.ch/event/841905/
+  meeting: IRIS-HEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/841905/
+  location: Vidyo
+  focus-area: ia
+- title: 'ROB: Reproducible Open Benchmarks for Data Analysis Platform'
+  date: 2020-01-17
+  url: https://indico.cern.ch/event/809820/contributions/3632640/attachments/1971191/3279096/ROB-ML4Jets.pdf
+  meeting: ML4Jets 2020
+  meetingurl: https://indico.cern.ch/event/809820/
+  location: New York University
+  focus-area:
+  - ia
+  - core
+  labels:
+  - conference

@@ -48,7 +48,7 @@
   url: https://sse-ml-lhcb.gitlab.io/
   awards:
     - type: OAC
-      number: 1739772 
+      number: 1739772
     - type: OAC
       number: 1740102
 
@@ -56,4 +56,13 @@
   url: http://www.compiler-research.org
   awards:
     - type: OAC
-    - number: 1931408
+      number: 1931408
+
+- name: Shared Data-Delivery Infrastructure to Enable Discovery with Next Generation Dark Matter and Computational Astrophysics Experiments
+  short: PONDD
+  url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104003
+  awards:
+    - type: OAC
+      number: 2104003
+    - type: OAC
+      number: 2103778

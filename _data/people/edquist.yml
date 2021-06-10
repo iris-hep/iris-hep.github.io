@@ -1,8 +1,10 @@
-name: Carl Edquist
-shortname: edquist
-title: 
 active: true
+focus-area:
+- osglhc
 institution: University of Wisconsin–Madison
-website: 
-photo: /assets/images/team/Carl-Edquist.jpg
+name: Carl Edquist
+photo: "/assets/images/team/Carl-Edquist.jpg"
+shortname: edquist
+title:
+website:
 presentations:

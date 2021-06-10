@@ -6,13 +6,18 @@
 - name: Scikit-HEP
   short: Scikit-HEP
   url: http://scikit-hep.org
-  
+
 - name: PyHEP
   url: https://hepsoftwarefoundation.org/workinggroups/pyhep.html
-  
+
+- name: FAIR4HEP
+  url: https://fair4hep.github.io
+  description: >-
+    FAIR4HEP aims to advance our understanding of the relationship between data and artificial intelligence (AI) models by exploring relationships among them through the development of FAIR (Findable, Accessible, Interoperable, and Reusable) frameworks.
+
 - name: HEP Software Foundation
   short: HSF
   url: https://hepsoftwarefoundation.org
-  
+
 - name: US-RSE
   url: http://us-rse.org
