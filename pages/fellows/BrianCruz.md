@@ -13,7 +13,7 @@ dates:
   end: 2021-06-11
 photo: /assets/images/team/Brian-Cruz.jpg
 institution: University of Puerto Rico at Mayaguez
-website: https://github.com/936-BCruz
+website: https://github.com/936-BCruz/Translating-Analyses-Into-Prototype-Analysis-Systems
 e-mail: brian.cruz2@upr.edu
 mentors:
   - Jim Pivarski (Princeton University)
