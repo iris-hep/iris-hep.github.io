@@ -29,7 +29,8 @@ support as described above) you have several non-exclusive choices: you can refe
 as above (OAC-1836650), you can reference the website and you can reference the Strategic Plan and/or
 the Community White Paper that led to IRIS-HEP. BibTex entries for the latter two are here:
 
-```@Article{S2I2HEPSP,
+```
+@Article{S2I2HEPSP,
   author        = "Elmer, Peter and Neubauer, Mark and Sokoloff, Michael D.",
   title         = "{Strategic Plan for a Scientific Software Innovation Institute (S2I2) for High Energy Physics}",
   year          = "2017",
