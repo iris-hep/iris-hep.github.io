@@ -338,7 +338,7 @@ presentations:
   focus-area:
   - as
   project:
-- title: AwkwardForth: accelerating Uproot with an internal DSL
+- title: 'AwkwardForth: accelerating Uproot with an internal DSL'
   date: 2021-05-19
   url: https://indico.cern.ch/event/948465/contributions/4324131/
   meeting: vCHEP 2021
@@ -347,6 +347,8 @@ presentations:
   focus-area:
   - as
   project:
+  - uproot
+  - awkward
 - title: New Dask collection type for Awkward Arrays
   date: 2021-05-21
   url: https://summit.dask.org/schedule/presentation/24/dask-in-high-energy-physics-community/
@@ -356,6 +358,7 @@ presentations:
   focus-area:
   - as
   project:
+  - awkward
 - title: Refactoring Awkward Array
   date: 2021-05-26
   url: https://github.com/jpivarski-talks/2021-05-26-awkward-refactoring-irishepas
@@ -365,6 +368,7 @@ presentations:
   focus-area:
   - as
   project:
+  - awkward
 - title: How to give a good Jupyter talk talk
   date: 2021-05-26
   url: https://github.com/jpivarski-talks/2021-06-02-pyhepmod-jupyter-talk-talk
@@ -383,3 +387,5 @@ presentations:
   focus-area:
   - as
   project:
+  - uproot
+  - awkward
