@@ -15,3 +15,10 @@ presentations:
   meetingurl:
   project: acts
   location: CERN
+- title: EDM ideas and Seeding Tool
+  date: 2021-05-21
+  url:
+  meeting: ACTS-ITk meeting
+  meetingurl:
+  project: acts
+  location: CERN
