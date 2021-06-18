@@ -15,14 +15,14 @@ presentations:
   meetingurl:
   project: acts
   location: CERN
-- title: Acts Tracking: EDM ideas and Seeding Tool
+- title: Acts Tracking EDM ideas and Seeding Tool
   date: 2021-05-21
   url: https://indico.cern.ch/event/1022558/contributions/4369515/attachments/2249629/3816139/EDMideasAndSeedingStep.pdf
   meeting: ACTS-ITk meeting
   meetingurl: https://indico.cern.ch/event/1022558/
   project: acts
   location: CERN
-- title: ACTS Tracking: EDM
+- title: ACTS Tracking EDM
   date: 2021-06-18
   url: https://indico.cern.ch/event/1044816/contributions/4414850/attachments/2267392/3849862/EDM.pdf
   meeting: ACTS-ITk meeting
