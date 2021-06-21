@@ -60,7 +60,7 @@ programmers lacked institutional support, a defined career track, and,
 crucially, a name. Later that year, five of the discussion's
 participants collaborated on a conference paper titled "[The Research
 Software
-Engineer](https://www.research.ed.ac.uk/en/publications/the-research-software-engineer)
+Engineer](https://www.research.ed.ac.uk/en/publications/the-research-software-engineer)"
 
 The paper struck a chord in the research software community, and the SSI
 began spearheading a campaign for recognition. The following year, it
