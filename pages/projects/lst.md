@@ -8,6 +8,7 @@ image: logos/lst-graphic.png
 blurb: Segment linking tracking for CMS
 team:
  - IHateLinus
+ - sgnoohc
  - pwittich
  - pelmer
  - srlantz
