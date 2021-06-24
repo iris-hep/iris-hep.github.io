@@ -6,7 +6,7 @@ name: Philip Chang
 photo: "/assets/images/team/Philip-Chang.jpg"
 shortname: sgnoohc
 title: Tracking Algorithms Collaborator
-website: philip.ucsd.edu
+website: https://philip.ucsd.edu
 presentations:
 - title: Line segment tracking for Phase-II Tracking
   date: 2020-11-03
