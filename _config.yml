@@ -71,6 +71,9 @@ inspire:
   authors:
     min-len: 10
     trunc-len: 1
+  open-science-categories:
+    - physics
+    - ml
 
 iris-hep:
   extra-focus-areas:
