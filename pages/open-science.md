@@ -12,11 +12,11 @@ IRIS-HEP.
 
 {% assign sorted_publications = site.data['sorted_open_science_publications'] %}
 {% assign physics_pubs = sorted_publications | where_exp: "item", "item.open-science-cat contains 'physics'" %}
-{% assign ml_pubs = sorted_publications | where_exp: "item", "item.open-science-cat contains 'ml'" %}
 {% assign algo_pubs = sorted_publications | where_exp: "item", "item.open-science-cat contains 'algo'" %}
+{% assign general_pubs = sorted_publications | where_exp: "item", "item.open-science-cat contains 'general'" %}
 
 {% if physics_pubs.size > 0 %}
-### Physics
+### Physics results obtained using Open Data
 
 <ul>
   {% for pub in physics_pubs %}
@@ -25,19 +25,8 @@ IRIS-HEP.
 </ul>
 {% endif %}
 
-{% if ml_pubs.size > 0 %}
-## ML
-
-<ul>
-  {% for pub in ml_pubs %}
-    <li> {% include print_pub.html pub=pub %} </li>
-  {% endfor %}
-</ul>
-{% endif %}
-
 {% if algo_pubs.size > 0 %}
-### Algorithms and other
-
+### Use of Open Data to support software, machine learning and algorithms development
 
 <ul>
   {% for pub in algo_pubs %}
@@ -45,3 +34,15 @@ IRIS-HEP.
   {% endfor %}
 </ul>
 {% endif %}
+
+{% if general_pubs.size > 0 %}
+### General publications about Open Data
+
+<ul>
+  {% for pub in general_pubs %}
+    <li> {% include print_pub.html pub=pub %} </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+
