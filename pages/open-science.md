@@ -21,6 +21,7 @@ IRIS-HEP.
 <ul>
   {% for pub in physics_pubs %}
     <li> {% include print_pub.html pub=pub %} </li>
+    {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
   {% endfor %}
 </ul>
 {% endif %}
@@ -31,6 +32,7 @@ IRIS-HEP.
 <ul>
   {% for pub in algo_pubs %}
     <li> {% include print_pub.html pub=pub %} </li>
+    {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
   {% endfor %}
 </ul>
 {% endif %}
@@ -41,6 +43,7 @@ IRIS-HEP.
 <ul>
   {% for pub in general_pubs %}
     <li> {% include print_pub.html pub=pub %} </li>
+    {%- if pub.comment %} <span style="color:darkgreen;font-style:italic;">{{ pub.comment }}</span> {%- endif -%}
   {% endfor %}
 </ul>
 {% endif %}
