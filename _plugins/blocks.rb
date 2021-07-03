@@ -6,21 +6,21 @@ module IrisHep
     def initialize(tag_name, markup, tokens)
       @variable, num = markup.split
       @number = num.to_i
+      @numberm1 = num.to_i - 1
       super
     end
 
     def render(context)
       results = context[@variable].map do |item|
-        content = context.stack do
+        context.stack do
           context['expandable'] = item
-          super
+          "<li>#{super}</li>"
         end
-        "<li>#{content}</li>"
       end
 
       return '' if results.empty?
 
-      output = "<ul>#{results[0..@number].join("\n")}</ul>"
+      output = "<ul>#{results[0..@numberm1].join("\n")}</ul>"
 
       return output if results.size <= @number
 

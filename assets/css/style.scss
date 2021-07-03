@@ -513,17 +513,19 @@ main {
       margin-top: 40px;
     }
   }
+}
 
+.post, .page {
   img.banner {
     width: 100%;
     padding-bottom: 20px;
   }
 
-  figure a img {
+  figure.iris-figure a img {
     width: 100%;
   }
 
-  figure.right {
+  figure.iris-figure.right {
     margin-left: auto;
     margin-right: auto;
     width: 90%;
@@ -534,7 +536,7 @@ main {
     }
   }
 
-  figure.center {
+  figure.iris-figure.center {
     margin-left: auto;
     margin-right: auto;
     width: 90%;
@@ -543,7 +545,7 @@ main {
     }
   }
 
-  figure.caption {
+  figure.iris-figure.caption {
     @media only screen and (min-width: 991px), only print {
       padding: 6px;
       background-color: scale-color($iris-100, $lightness:60%);
@@ -559,9 +561,6 @@ main {
       }
       margin-bottom: 6px;
     }
-  }
-  a img {
-    width: 100%;
   }
 }
 
@@ -587,4 +586,11 @@ div#covid {
 
 #twitter-widget-0 {
   max-width: 340px !important;
+}
+
+:target:before {
+content:"";
+display:block;
+height:90px; /* fixed header height*/
+margin:-90px 0 0; /* negative fixed header height */
 }

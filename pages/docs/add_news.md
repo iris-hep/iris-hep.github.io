@@ -22,14 +22,14 @@ Your news item will start with front matter. You should at least have:
 ---
 layout: irispost
 title: <title here>
-postimage: /assets/images/posts/<main image here>
+image: /assets/images/posts/<main image here>
 ---
 ```
 
 There are several optional fields as well:
 
 * `author`: The post author (your name, however you would like it displayed)
-* `postimage-caption`: A caption string for the main post image. Will be added to the main image on the post page. Recommended for accessibility, if nothing else.
+* `image-caption`: A caption string for the main post image. Will be added to the main image on the post page. Recommended for accessibility, if nothing else.
 * `postbanner`: A very wide image to use as a banner across the top of the post.
 * `summary`: Will replace the auto-summary with an explicit one for the IRIS-HEP main page, so the beginning text does not have to match.
 

@@ -4,4 +4,7 @@ enddate: 2020-07-30
 location: Online
 meetingurl: https://indico.cern.ch/event/934651/
 image:
+students: 173
 description: This is the second in a series of fully virtual HEP Software Foundation training events to help you learn about tools that are becoming ubiquitous in our community.  T
+labels:
+- training

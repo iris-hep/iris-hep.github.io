@@ -49,3 +49,11 @@ presentations:
   location: Princeton University
   focus-area: as
   project: func-adl
+- title: "FuncADL: Functional Analysis Description Language"
+  date: 2021-05-18
+  url: https://indico.cern.ch/event/948465/contributions/4324157/attachments/2245273/3809264/vCHEP%202021%20FuncADL%20v4%20%28final%29.pdf
+  meeting: vCHEP 2021
+  meetingurl: https://indico.cern.ch/event/948465/
+  location: Virtual
+  focus-area: as
+  project: func-adl

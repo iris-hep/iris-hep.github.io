@@ -329,3 +329,63 @@ presentations:
   - as
   - ssc
   project:
+- title: Pythonic Data Science
+  date: 2021-05-04
+  url: https://github.com/jpivarski-talks/2021-05-04-hllhc-workshop
+  meeting: HL-LHC Analysis Mini-Workshop
+  meetingurl: https://indico.cern.ch/event/1028381/
+  location: online
+  focus-area:
+  - as
+  project:
+- title: 'AwkwardForth: accelerating Uproot with an internal DSL'
+  date: 2021-05-19
+  url: https://indico.cern.ch/event/948465/contributions/4324131/
+  meeting: vCHEP 2021
+  meetingurl: https://indico.cern.ch/event/948465/
+  location: online
+  focus-area:
+  - as
+  project:
+  - uproot
+  - awkward
+- title: New Dask collection type for Awkward Arrays
+  date: 2021-05-21
+  url: https://summit.dask.org/schedule/presentation/24/dask-in-high-energy-physics-community/
+  meeting: Dask Distributed Summit
+  meetingurl: https://summit.dask.org/
+  location: online
+  focus-area:
+  - as
+  project:
+  - awkward
+- title: Refactoring Awkward Array
+  date: 2021-05-26
+  url: https://github.com/jpivarski-talks/2021-05-26-awkward-refactoring-irishepas
+  meeting: Analysis Systems biweekly meeting
+  meetingurl: https://indico.cern.ch/event/1032972/
+  location: online
+  focus-area:
+  - as
+  project:
+  - awkward
+- title: How to give a good Jupyter talk talk
+  date: 2021-05-26
+  url: https://github.com/jpivarski-talks/2021-06-02-pyhepmod-jupyter-talk-talk
+  meeting: PyHEP Module of the Month
+  meetingurl: https://indico.cern.ch/event/1044648/
+  location: online
+  focus-area:
+  - as
+  project:
+- title: Uproot Awkward Columnar HATS
+  date: 2021-05-26
+  url: https://github.com/jpivarski-talks/2021-06-14-uproot-awkward-columnar-hats
+  meeting: Hands-on Advanced Tutorial Sessions at the LPC
+  meetingurl: https://indico.cern.ch/event/1042866/
+  location: online
+  focus-area:
+  - as
+  project:
+  - uproot
+  - awkward
