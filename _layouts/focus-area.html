@@ -3,7 +3,7 @@
 {% include layout_header_navbar.html %}
 
     <div id="container">
-      <div class="container">
+      <div class="container page">
         <main role="main">
 
 {% assign page_focus_area = page.name | basename %}
@@ -61,7 +61,7 @@
 {% endif %}
 
 {% if fa_fellows.size > 0 %}
-<h2 id="fellows" style="padding-top:90px; margin-top: -90px;" class="alt-h2 text-center mb-3 mt-lg-6" id="pres">Current and Previous {{page.short_title | upcase }} Fellows</h2>
+<h2 id="fellows" class="alt-h2 text-center mb-3 mt-lg-6" id="pres">Current and Previous {{page.short_title | upcase }} Fellows</h2>
 
 <div class="container-fluid">
   <div class="row">
@@ -79,7 +79,7 @@
 
 {% if sorted.size > 0 %}
 <div class="container-fluid projects">
-  <h2 id="projects" style="padding-top:90px; margin-top: -90px;" class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
+  <h2 id="projects"  class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
 <center>
   <div class="row">
 {% for mypage in sorted %}
@@ -105,7 +105,7 @@
 {% if pres_list.size > 0 %}
 <section class="">
   <div class="container-lg p-responsive py-5 py-md-6 ">
-    <h2 id="presentations" style="padding-top:90px; margin-top: -110px;" class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
+    <h2 id="presentations" class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
     {% expandable pres_list 15 %}
       {% include print_pres.html talk=expandable %}
     {% endexpandable %}
@@ -116,7 +116,7 @@
 {% if pubs.size > 0 %}
 <section class="">
 <div class="container-lg p-responsive py-5 py-md-6 ">
-    <h2 id="publications" style="padding-top:90px; margin-top: -110px;" class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
+    <h2 id="publications" style="margin-top: -110px;" class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
     {% expandable pubs 15 %}
       {% include print_pub.html pub=expandable %}
     {% endexpandable %}
@@ -125,7 +125,7 @@
 {% endif %}
 
 {% if selected_videos.size > 0 %}
-<h2 id="videos" style="padding-top:90px; margin-top: -110px;" class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">Recent {{ page.short_title | upcase }} Recordings</h2>
+<h2 id="videos" class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">Recent {{ page.short_title | upcase }} Recordings</h2>
 {% include display_videos.html videos=selected_videos %}
 {% endif %}
 

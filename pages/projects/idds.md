@@ -59,3 +59,10 @@ event delivery group.
    the DOMA PanDA instance, iDDS is being tested by the Rubin Observatory
    (formerly LSST) for their data processing needs.  So far, the observatory has
    successfully tested iDDS with DAG workflows of over 50 and 150 thousand jobs.
+
+## Reference
+ * *[Home page](https://idds.cern.ch)*
+ * *[Code at github](https://github.com/HSF/iDDS)*
+ * *[Documents at readthedocs](https://idds.readthedocs.io)*
+ * *[ATLAS instance monitor](https://bigpanda.cern.ch/idds)*
+ * *[DOMA instance monitor](https://panda-doma.cern.ch/idds/)*

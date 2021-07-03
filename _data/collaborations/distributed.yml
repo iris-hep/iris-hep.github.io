@@ -1,8 +1,36 @@
-- name: Open Science Grid
-  short: OSG
+- name: OSG
+  description: A national, distributed computing partnership for data-intensive research
   url: https://opensciencegrid.org/
   awards:
     - type: OAC
       number: 1148698
     - type: OAC
       number: 0621704
+- name: Partnership to Advance Throughput Computing
+  description: A partnership between the OSG and the Center for High Throughput Computing to advance the science of distributed high throughput computing in the US.
+  short: PATh
+  url: https://path-cc.io
+  awards:
+    - type: OAC
+      number: 2030508
+- name: Securing an Open and Trustworthy Ecosystem for Research Infrastructure and Applications
+  short: SOTERIA
+  description: Helping the nation's scientists author secure and portable software environments using containers.
+  url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2115148
+  awards:
+    - type: OAC
+      number: 2115148
+- name: "SciAuth: Deploying Interoperable and Usable Authorization Tokens to Enable Scientific Collaborations"
+  short: SciAuth
+  description: Working to transition the distributed high throughput computing ecosystem to use token-based authorization.
+  url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2114989
+  awards:
+    - type: OAC
+      number: 2114989
+- name: Event Workflow Management Service
+  short: EWMS
+  url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103963
+  description: "Working to manage extremely large numbers of independent computational tasks - represented as 'events' - as part of a manaager-worker paraadigm"
+  awards:
+    - type: OAC
+      number: 2103963

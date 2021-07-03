@@ -4,4 +4,7 @@ enddate: 2019-08-23
 location: LBNL
 meetingurl: https://indico.cern.ch/event/816946/
 image:
+students: 40
 description: USATLAS Computing Bootcamp to educate newcomers to ATLAS, in particular graduate students, about a number of core technical computing concepts and tools used within ATLAS and more widely in the HEP
+labels:
+- training

@@ -24,7 +24,7 @@
     {{ li }} {{ contact | markdownify | remove: '<p>' | remove: '</p>' }} {{ eli }}
   {% elsif contact contains "@" %}
     {{ li }} <a href="mailto:{{contact}}"> <em>{{contact}}</em> </a> {{ eli }}
-  {{ else }}
+  {% else %}
     {{ li }} {{ contact | markdownify | remove: '<p>' | remove: '</p>' }} {{ eli }}
   {% endif %}
 {% endfor %}

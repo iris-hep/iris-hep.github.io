@@ -4,4 +4,7 @@ enddate: 2020-06-20
 location: University of Puerto Rico Mayagüez
 meetingurl: https://indico.cern.ch/event/860466/
 image:
+students: 11
 description: K-12 teachers (US and Puerto Rico) analyze dataset from the CMS and interpret their findings by making plots, in collaboration with Quarknet.
+labels:
+- training
