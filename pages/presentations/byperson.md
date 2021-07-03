@@ -4,31 +4,26 @@ layout: presentations
 title: Presentations by Person
 ---
 
-{% include institution_list.html %}
-{% assign univs = institution_list | hash_fetch: site.data.universities %}
 {% assign empty-list = "" | split: "," %}
 
 <h2>Presentations by the IRIS-HEP team</h2>
 {% assign prescount = 0 %}
 
-{% for univ in univs %}
-  {% assign members = univ.personnel | hash_fetch: site.data.people
-                                     | where_exp:"item", "item.active and item.hidden != true"
+{% assign members = site.data.people | where_exp:"item", "item.active and item.hidden != true"
                                      | last_name_sort: "name" %}
-  {% for member in members %}
-    {%- assign presentationlist = member.presentations | default: empty-list | sort: "date" | reverse -%}
-    {%- if presentationlist.size > 0 -%}
-      <h4>{{member.name}} - {{member.institution}}</h4><ul>
-        {%- for talk in presentationlist -%}
-          {%- assign prescount = prescount | plus: "1" -%}
-          <li>
-            {%- include print_pres.html talk=talk -%}
-          </li>
-        {%- endfor- %}
-      </ul>
-    {%- endif -%}
-  {%- endfor -%}
-{% endfor %}
+{% for member in members %}
+  {%- assign presentationlist = member.presentations | default: empty-list | sort: "date" | reverse -%}
+  {%- if presentationlist.size > 0 -%}
+    <h4>{{member.name}} - {{member.institution}}</h4><ul>
+      {%- for talk in presentationlist -%}
+        {%- assign prescount = prescount | plus: "1" -%}
+        <li>
+          {%- include print_pres.html talk=talk -%}
+        </li>
+      {%- endfor- %}
+    </ul>
+  {%- endif -%}
+{%- endfor -%}
 
 Total presentations: {{ prescount }}.
 
@@ -37,23 +32,20 @@ Total presentations: {{ prescount }}.
 
 {% assign prescount = 0 %}
 
-{% for univ in univs %}
-  {% assign members = univ.personnel | hash_fetch: site.data.people
-                                     | where_exp: "item", "item.active == nil or item.active == false and item.hidden != true"
+{% assign members = site.data.people | where_exp: "item", "item.active == nil or item.active == false and item.hidden != true"
                                      | last_name_sort: "name" %}
-  {% for member in members %}
-    {%- assign presentationlist = member.presentations | default: empty-list | sort: "date" | reverse -%}
-    {%- if presentationlist.size > 0 -%}
-      <h4>{{member.name}} - {{member.institution}}</h4><ul>
-        {%- for talk in presentationlist -%}
-          {%- assign prescount = prescount | plus: "1" -%}
-          <li>
-            {%- include print_pres.html talk=talk -%}
-          </li>
-        {%- endfor- %}
-      </ul>
-    {%- endif -%}
-  {%- endfor -%}
-{% endfor %}
+{% for member in members %}
+  {%- assign presentationlist = member.presentations | default: empty-list | sort: "date" | reverse -%}
+  {%- if presentationlist.size > 0 -%}
+    <h4>{{member.name}} - {{member.institution}}</h4><ul>
+      {%- for talk in presentationlist -%}
+        {%- assign prescount = prescount | plus: "1" -%}
+        <li>
+          {%- include print_pres.html talk=talk -%}
+        </li>
+      {%- endfor- %}
+    </ul>
+  {%- endif -%}
+{%- endfor -%}
 
 Total presentations: {{ prescount }}.
