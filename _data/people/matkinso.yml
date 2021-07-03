@@ -64,3 +64,11 @@ presentations:
   meetingurl: https://exatrkx.github.io
   location: Virtual
   focus-area: ia
+- title: Tracking with Graph Neural Networks
+  date: 2021-05-27
+  url: https://indico.cern.ch/event/1041179/contributions/4373827/attachments/2253279/3822793/GNNs%20%26%20Graph%20Techniques%20for%20Track%20Reconstruction%20%284%29.pdf
+  meeting: ATLAS Machine Learning Forum
+  meetingurl: https://indico.cern.ch/event/1041179
+  location: Virtual
+  focus-area: ia
+  
