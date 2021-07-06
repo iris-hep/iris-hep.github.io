@@ -35,7 +35,7 @@ presentations:
   focus-area: ia
   project:
   labels:
-- title: Nvidia Kernel Profilers Case Study: Segment Linking Algorithm in Particle Tracking
+- title: Nvidia Kernel Profilers Case Study with Segment Linking Algorithm in Particle Tracking
   date: 2021-01-13
   url: 
   meeting: Princeton Research Computing Group Meeting
