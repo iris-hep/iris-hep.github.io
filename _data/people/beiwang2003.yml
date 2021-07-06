@@ -10,9 +10,9 @@ website:
 presentations:
 - title: Using Nsight Compute to Understand Kernel Performance Bottlenecks
   date: 2021-06-30
-  url: 
+  url:
   meeting: Princeton Research Computing Group Meeting
-  meetingurl: 
+  meetingurl:
   location: Virtual
   focus-area: ia
   project:
@@ -37,9 +37,9 @@ presentations:
   labels:
 - title: Nvidia Kernel Profilers Case Study with Segment Linking Algorithm in Particle Tracking
   date: 2021-01-13
-  url: 
+  url:
   meeting: Princeton Research Computing Group Meeting
-  meetingurl: 
+  meetingurl:
   location: Virtual
   focus-area: ia
   project:
@@ -64,9 +64,9 @@ presentations:
   labels:
 - title: Introduction to FPGAs
   date: 2020-09-09
-  url: 
+  url:
   meeting: Princeton Research Computing Group Meeting
-  meetingurl: 
+  meetingurl:
   location: Virtual
   focus-area: ia
   project:
