@@ -203,3 +203,12 @@ presentations:
   location: Virtual
   focus-area: as
   project: pyhf
+
+- title: 'Distributed statistical inference with pyhf'
+  date: 2021-07-06
+  url: https://indico.cern.ch/event/1019958/contributions/4418598/
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1019958/
+  location: Virtual
+  focus-area: as
+  project: pyhf
