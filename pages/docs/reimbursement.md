@@ -5,17 +5,17 @@ title: Reimbursement for travel sponsored by IRIS-HEP
 pagetype: doc
 ---
 
-  This page documents the guidelines for reimbursement of participant travel 
+  This page documents the guidelines for reimbursement of participant travel
 expenses which are being covered by the IRIS-HEP project. Please read
 carefully the entire document, including both the general guidelines and
-any event- or workshop-specific instructions described at the end of this 
-page. Additional instructions or limitations for reimbursement may also have 
+any event- or workshop-specific instructions described at the end of this
+page. Additional instructions or limitations for reimbursement may also have
 been included in any email you received informing you that your travel is
 eligible for reimbursement from the IRIS-HEP project.
 
 ### General Guidelines for Reimbursement of Travel Expenses
 
-  Reimbursement will be provided for travel expenses for participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply: 
+  Reimbursement will be provided for travel expenses for participants, up to a specified limit, upon presentation of valid receipts. The following guidelines apply:
 
   * Participants should plan on traveling on dates agreed with the IRIS-HEP project for a particular event. These will be documented in **"Notes for specific events and workshops"** section of this webpage **or** specified in email from a designated representative of the IRIS-HEP project.
   * Travelers should pay for their travel themselves and will be reimbursed up to the specified limits after the meeting/training event has concluded.
@@ -28,14 +28,14 @@ eligible for reimbursement from the IRIS-HEP project.
   * Car rentals will not be reimbursed unless specifically authorized by the school organization.
   * Breakfast, lunches and coffee breaks will be provided at no cost to you from Monday to Friday, as well as a light reception on Monday evening and a "Social Mixer" event (with food) on Tuesday evening. Additional meals costs will not be reimbursed.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
-  * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file. 
+  * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file.
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 3 August, 2018) and submitted along with the electronic copy of the receipts described above.
 
   If you have any questions or doubts about travel reimbursement please send an email with your travel plan to [participant-reimbursement@iris-hep.org](mailto:participant-reimbursement@iris-hep.org) before booking to get confirmation on reimbursement.
 
-### Forms for reimbursement 
+### Forms for reimbursement
 
-  **Please ignore this section for now. It will be discussed on the last day of the school itself.** 
+  **Please ignore this section for now. It will be discussed on the last day of the school itself.**
 
 There are two relevant forms for travel reimbursement:
 
@@ -53,7 +53,7 @@ Please note the following:
     * Specify the departure and return date from your trip to the school (please use MM/DD/YY format)
     * Specify the city, state and country where the event was located for the "Destination"
     * For "Business Purpose", specify "Participation in CoDaS-HEP 2018 school"
-    * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars. 
+    * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars.
     * If you paid an expense in something other than U.S. Dollars, look up the exchange rate (corresponding to the date of the expense!) on some online service and make a screenshot of the rate (including the date). Include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
   * Make a readable scan or clear photo of all relevant receipts for the expenses to be reimbursed.
@@ -61,7 +61,7 @@ Please note the following:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
     * Scans of relevant receipts
-  * Please name the file using this convention: 
+  * Please name the file using this convention:
     * shorteventname-YYYYMMDD-yourfirstname-yourlastname.pdf
     * see below for the "shorteventname" to use
     * replace "YYYYMMDD" with the numeric values for the year, month and day of the month on which you are submitting the reimbursement claim

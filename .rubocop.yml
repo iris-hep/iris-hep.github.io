@@ -5,10 +5,13 @@ Metrics/MethodLength:
 Style/NumericLiterals:
   Enabled: false
 Metrics/AbcSize:
-  Max: 50
+  Max: 55
 Metrics/ClassLength:
   Max: 200
 Metrics/PerceivedComplexity:
   Max: 12
 Metrics/CyclomaticComplexity:
-  Max: 10
+  Max: 12
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 2.4

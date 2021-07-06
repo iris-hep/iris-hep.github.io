@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
+require 'fileutils'
 require 'json'
 require 'net/http'
 require 'pathname'
-require 'fileutils'
 require 'yaml'
 
 # Add a string method
@@ -12,6 +12,10 @@ class String
   def initials
     l, f = split ', '
     "#{f[0, 1]}. #{l}"
+  end
+
+  def strip_latex
+    gsub(/\$(.*?)\$/) { Regexp.last_match(1).gsub '\\&', '&' }
   end
 end
 
@@ -25,7 +29,13 @@ module Publications
 
       @site = site
 
-      @site.data['publications'].each do |name, pub|
+      @min_len = @site.config.dig('inspire', 'authors', 'min-len') || 10
+      @trunc_len = @site.config.dig('inspire', 'authors', 'trunc-len') || 1
+      @cache_dir = @site.config.dig('inspire', 'cache-dir') || '_cache'
+      @pub_dir = @site.config.dig('inspire', 'pub-dir') || 'publications'
+      @os_categories = (@site.config.dig('inspire', 'open-science-categories') || []).to_set
+
+      @site.data['publications']&.each do |name, pub|
         prepare(pub, name)
 
         # Add caching to reduce requests to INSPIRE
@@ -36,9 +46,38 @@ module Publications
 
         # Highlighted publications?
       end
+
+      @site.data['open-science']&.each do |name, pub|
+        prepare_os(pub, name)
+        caching(pub, name) { |p| inspire(p) }
+        submitted_to(pub, name)
+      end
+
+      @site.data['sorted_publications'] = get_publications site.data['publications']
+      @site.data['sorted_open_science_publications'] = get_publications site.data['open-science']
     end
 
     private
+
+    def get_publications(publications)
+      publications.values.sort_by { |p| p['date'] }.reverse!
+    end
+
+    def str_to_date(input, name)
+      # Fail nicely if nil
+      raise "No date for #{name}, a date is required" if input.nil?
+
+      # Normalize date
+      case input
+      when /^\d\d\d\d$/ # Year only
+        puts "Warning, #{name} only has a year, maybe specify date: #{input}-MM-DD"
+        Date.parse("#{input}-01-01")
+      when /^\d\d\d\d-\d\d$/ # Year and month only
+        Date.parse("#{input}-01")
+      else
+        Date.parse(input)
+      end
+    end
 
     # Check for and add submitted_to information
     def submitted_to(pub, name)
@@ -56,17 +95,29 @@ module Publications
     def prepare(pub, name)
       pub['focus-area'] ||= []
       pub['project'] ||= []
+      pub['filename'] = name
 
       force_array(pub, 'project')
 
       # Looks up focus areas from projects
       prepare_focus_area(pub, name) if pub['focus-area'].empty?
 
-      msg = 'You must have a project or focus-area in every publication'
-      raise StandardError, msg unless pub.key? 'focus-area'
-
       # Make sure the focus-area is a list
       force_array(pub, 'focus-area')
+
+      # Make sure there is a focus-area
+      msg = "Publication #{name} must contain a focus-area or project"
+      raise StandardError, msg if pub['focus-area'].empty?
+    end
+
+    # Setup a publication - ensures open-science-cat is valid
+    def prepare_os(pub, name)
+      pub['filename'] = name
+      raise "#{name} must include open-science-cat" unless pub.include? 'open-science-cat'
+
+      force_array(pub, 'open-science-cat')
+      left_over = pub['open-science-cat'].to_set - @os_categories
+      raise "#{name} must have valid open-science-cat entries, not #{left_over}" unless left_over.empty?
     end
 
     # Verify that an item is an Array
@@ -81,7 +132,7 @@ module Publications
       pub['project'].each do |p|
         pg = @site.pages.detect { |page| page.data['shortname'] == p }
         msg = "Project #{pub['project']} missing! Cannot find focus-area for #{name}."
-        raise StandardError, msg unless pg
+        raise msg unless pg
 
         new_fas = pg.data['focus-area']
         new_fas = [new_fas] if new_fas.is_a? String
@@ -93,18 +144,20 @@ module Publications
     end
 
     # Join the first N names, add et. all. if truncated
-    def join_names(names, len: 5)
+    def join_names(names)
       return names[0] if names.length == 1
 
-      mini = names[0...len].map(&:initials)
+      mini = names[0...@min_len].map(&:initials)
       truncated = names.length > mini.length
 
       if truncated
-        "#{mini.join(', ')} et. al."
+        "#{mini[0...@trunc_len].join(', ')} et. al."
       else
         "#{mini[0..-2].join(', ')} and #{mini[-1]}"
       end
     end
+
+    # rubocop:disable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity, Metrics/AbcSize
 
     # Look up inspire data *if* inspire-id given
     def inspire(pub)
@@ -120,15 +173,15 @@ module Publications
       data = JSON.parse(response.body)['metadata']
 
       # Set these *only* if not already set
-      pub['title'] ||= data.dig('titles', 0, 'title')
+      pub['title'] ||= data.dig('titles', 0, 'title')&.strip_latex
       pub['link'] ||= "http://inspirehep.net/record/#{recid}"
       pub['date'] ||= data['preprint_date']
 
       # This *only* sets data if the previous line is nil
       pub['date'] ||= data.dig('imprints', 0, 'date')
 
-      # Normalize date (if Nil, this should fail (date required))
-      pub['date'] = Date.parse(pub['date']) unless pub['date'].is_a? Date
+      # Normalize date
+      pub['date'] = str_to_date(pub['date'], recid) unless pub['date'].is_a? Date
 
       pub['citation-count'] ||= data['citation_count']
 
@@ -139,20 +192,24 @@ module Publications
       pub['authors'] ||= authors
 
       # Build the author string
-      mini_authors = join_names(pub['authors'].map { |a| a['name'] }, len: 5)
+      mini_authors = join_names(pub['authors'].map { |a| a['name'] })
 
       # Build the citation string (non-author part)
       j = data.dig('publication_info', 0) # This may be nil
       journal =
         if j&.key?('journal_title') && j&.key?('year')
+          pub['needs-nsf-par'] = true unless pub.key?('needs-nsf-par')
           "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
         elsif data.key? 'arxiv_eprints'
+          pub['needs-nsf-par'] = false unless pub.key?('needs-nsf-par')
           "arXiv #{data['arxiv_eprints'][0]['value']}"
         else
           'Unknown'
         end
       pub['citation'] ||= "#{mini_authors}, #{journal}"
     end
+    #
+    # rubocop:enable Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity, Metrics/AbcSize
 
     # Load a yaml file from the cache
     # Return a bool if an update is needed
@@ -161,7 +218,7 @@ module Publications
 
       f = YAML.load_file fname
       pub.map do |key, value|
-        oldvalue = f.dig(key)
+        oldvalue = f[key]
         return false unless oldvalue == value
       end
 
@@ -181,8 +238,8 @@ module Publications
     # Cache publications
     def caching(pub, name)
       source = Pathname @site.source
-      cache = source / '_cache'
-      cname = cache / 'publications' / "#{name}.yml"
+      cache = source / @cache_dir
+      cname = cache / @pub_dir / "#{name}.yml"
       plugin = source / '_plugins' / 'getpub.rb'
 
       if cname.exist? &&                 # Cache file must exist

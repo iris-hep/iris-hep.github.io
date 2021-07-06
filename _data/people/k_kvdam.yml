@@ -1,13 +1,12 @@
-name: Kerstin Kleese van Dam
-shortname: k_kvdam
-title: 
-active: 
-institution: Brookhaven National Laboratory
-website: 
-photo: /assets/images/team/Kerstin-Kleese-van-Dam.jpg
-presentations:
 about: Additional DOE lab representative.
-role: Provide a view point from 
-   an additional DOE lab doing significant HEP R&D. This improves the 
-   connection to the DOE lab ecosystem, including HPC expertise.
+active: true
 hidden: true
+institution: Brookhaven National Laboratory
+name: Kerstin Kleese van Dam
+photo: "/assets/images/team/Kerstin-Kleese-van-Dam.jpg"
+role: Provide a view point from an additional DOE lab doing significant HEP R&D. This
+  improves the connection to the DOE lab ecosystem, including HPC expertise.
+shortname: k_kvdam
+title:
+website:
+presentations:

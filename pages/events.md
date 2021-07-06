@@ -3,46 +3,36 @@ permalink: /events.html
 layout: default
 title: IRIS-HEP Events
 ---
-<center> 
+<center>
 <h3> IRIS-HEP Events</h3>
 </center>
 
 <br>
-IRIS-HEP team members are, or have been, involved in organizing the following events:
-<ul>
-{% assign yearlist = "2020, 2019, 2018, 2017, 2016" | split: ", " %}
+Events that IRIS-HEP team members are involved in organizing, planning to participate in or otherwise interested in:
+
+{% assign yearlist = "2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016" | split: ", " %}
 {% assign monthlist= "12, 11, 10, 09, 08, 07, 06, 05, 04, 03, 02, 01" | split: ", " %}
 
 {% comment %}
-Go through the list and produce a breakdown of the events in reverse 
+Go through the list and produce a breakdown of the events in reverse
 chronological order, grouped by months
 {% endcomment %}
 
-{% for yearidx in yearlist %}
-{% for monthidx in monthlist %}
-{% assign selected_array = "" | split: ',' %}
-{% for event_hash in site.data.events  %}
-  {% assign event = event_hash[1] %}
-  {% assign eventyear = event.startdate | date: "%Y" %}
-  {% assign eventmonth = event.startdate | date: "%m" %}
-  {% if eventyear == yearidx and eventmonth == monthidx %}
-     {% assign selected_array = selected_array | push: event %}
-  {% endif %}
-{% endfor %}
+{%- include get_all_events.html -%}
 
-{% assign selected_array = selected_array | sort: 'startdate' | reverse %}
-{% assign hdrprint = true %}
-<ul>
-{% for event in selected_array %}
-  {% if hdrprint == true %}
-    <br><h5>{{event.startdate | date: "%B, %Y"}}</h5>
-    {% assign hdrprint = false %}
-  {% endif %}
-  <li>{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)</li>
-{% endfor %}
-</ul>
+{% assign grouping = all_events | group_by_exp: "item", "item.startdate | date: '%B, %Y'"%}
 
+{% for pair in grouping %}
+  <h5>{{ pair.name }}</h5>
+  <ul>
+    {% for event in pair.items %}
+      <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>)
+      {% if event.abstractdeadline != nil %}
+        {% assign abs_date = event.abstractdeadline | date_to_long_string %}
+        (Abstract deadline: {{abs_date}})
+      {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
 {% endfor %}
-{% endfor %}
-<br>
 

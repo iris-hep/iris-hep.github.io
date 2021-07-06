@@ -1,0 +1,18 @@
+open: no
+postdate: 2020-09-29
+title: Graph Methods for Particle Tracking
+description: >
+  Particle track reconstruction is a critical software component for meeting
+  the physics goals of the HL-LHC.This project uses Graph based learning methods to
+  address this problem; the overall goal is to do accelerated track-seeding at the
+  trigger level by using Graph Neural Networks to construct tracklets in the ATLAS/CMS
+  pixel detectors and implementing the algorithms on dedicated FPGAs. There are two
+  areas within this work that a fellow could contribute to (and this project could
+  support two separate fellows depending on interest):The first is on the Machine
+  Learning side by implementing, training, and evaluating additional GNN architectures and
+  graph construction methods. The second is on the hardware and acceleration side
+  by working on translating the graph components of these algorithms efficiently onto
+  FPGAs.
+contacts:
+- savvy379
+- "[Daniel Murnane](dtmurnane@lbl.gov)"

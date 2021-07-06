@@ -3,7 +3,7 @@
 {% include layout_header_navbar.html %}
 
   <div id="container">
-      <div class="container">
+      <div class="container page">
         <main role="main">
 
           {% if page.logowidth %}
@@ -19,15 +19,21 @@
           {% include list_project_team.html team=page.team %}
 
           {% include list_project_presentations.html shortname=page.shortname %}
-        
+
           {% include list_project_publications.html shortname=page.shortname %}
 
+          {% include get_selected_videos.html nvideos=6 projects=page.shortname %}
+
+          {% if selected_videos.size > 0 %}
+          <h3> Recent recordings</h3>
+          {% include display_videos.html videos=selected_videos %}
+          {% endif %}
         </main>
       </div>
-      {% include footer.html %}
+      {% include_cached footer.html %}
     </div>
 
-  {% include layout_analytics.html %}
+  {% include_cached layout_analytics.html %}
 
   </body>
 </html>

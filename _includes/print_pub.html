@@ -1,3 +1,7 @@
+{%- unless include.pub -%}
+    {% raise_error "Empty publication! Please check." %}
+{%- endunless %}
+
     {%- if include.pub.citation-count and include.pub.citation-count > 0 -%}
       {%- assign cited = " [" | append: include.pub.citation-count | append: " citation" -%}
       {%- if include.pub.citation-count > 1 -%}
@@ -11,4 +15,11 @@
     {%- else -%}
       {%- assign cited = "" -%}
     {%- endif -%}
-    <a href="{{ include.pub.link }}">{{ include.pub.title }}</a>, {{ include.pub.citation }} ({{ include.pub.date | date_to_string }}){{ cited }}.
+
+    {%- if include.pub.nsf-par-id -%}
+      {%- capture parid %} <a href='https://par.nsf.gov/biblio/{{include.pub.nsf-par-id}}'>[NSF PAR]</a>{% endcapture -%}
+    {%- else -%}
+      {%- assign parid = "" -%}
+    {%- endif -%}
+
+    <a href="{{ include.pub.link }}">{{ include.pub.title }}</a>, {{ include.pub.citation }} ({{ include.pub.date | date_to_string }}){{ cited }}{{ parid }}.

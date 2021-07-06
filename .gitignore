@@ -14,3 +14,7 @@ _cache/
 .jekyll-metadata
 _data/indico/
 _data/topical/
+node_modules/
+package.json
+.ipynb_checkpoints/
+.jekyll-cache/

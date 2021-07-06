@@ -1,8 +1,72 @@
-name: Oksana Shadura
-shortname: oshadura
-title: DIANA/HEP collaborator
-active: green
+active: true
+focus-area:
+- doma
+- as
 institution: University of Nebraska - Lincoln
+name: Oksana Shadura
+photo: "/assets/images/team/Oksana-Shadura_.jpg"
+shortname: oshadura
+title:
 website: https://github.com/oshadura
-photo: /assets/images/team/Oksana-Shadura.JPG
 presentations:
+- title: Advances in Analysis tools/ecosystem
+  date: 2021-06-09
+  url: https://indico.cern.ch/event/905399/contributions/4291626/attachments/2260129/3837364/LHCP_AS.pdf
+  meeting: 9th Edition of the Large Hadron Collider Physics Conference
+  meetingurl: https://indico.cern.ch/event/905399/
+  location: Virtual
+  focus-area: as
+  project: coffea-casa
+- title: Dask in High-Energy Physics community (workshop)
+  date: 2021-05-21
+  url: https://summit.dask.org/schedule/presentation/24/dask-in-high-energy-physics-community/
+  meeting: Dask Distributed Summit 2021
+  meetingurl: https://summit.dask.org
+  focus-area: doma
+  project: coffea-casa
+- title: Coffea-casa an analysis facility prototype (plenary)
+  date: 2021-05-20
+  url: https://indico.cern.ch/event/948465/contributions/4323664/editing/paper/509/5997/coffea_casa20210609.pdf
+  meeting: 25th International Conference on Computing in High-Energy and Nuclear Physics
+  meetingurl: https://indico.cern.ch/event/948465/
+  focus-area: doma
+  project: coffea-casa
+- title: Challenges Designing Interactive Analysis Facilities with Dask
+  date: 2021-05-19
+  url: https://docs.google.com/presentation/d/1GCn_ji_PEaRjLW028fbuFhG1dPNT3i9S7npqnTqi8Ng/edit?usp=sharing
+  meeting: Dask Distributed Summit 2021
+  meetingurl: https://summit.dask.org/schedule/presentation/15/challenges-designing-interactive-analysis-facilities-with-dask/
+  focus-area: doma
+  project: coffea-casa
+- title: Future analysis facilities
+  date: 2021-02-03
+  url: https://indico.cern.ch/event/998431/contributions/4207282/attachments/2183405/3689404/CMS%20Analysis%20Facility%20-%20CMS%20Week.pdf
+  meeting: CMS Week
+  meetingurl:  https://indico.cern.ch/event/998431/
+  location: Virtual
+  focus-area: doma
+  project: coffea-casa
+- title: U.S. CMS Managed Analysis Facilities
+  date: 2020-11-24
+  url: https://indico.cern.ch/event/941278/contributions/4104696/attachments/2149035/3623381/U.S.%20CMS%20Managed%20Analysis%20Facilities-1.pdf
+  meeting: HSF WLCG Virtual Workshop
+  meetingurl: https://indico.cern.ch/event/941278/
+  location: Virtual
+  focus-area: doma
+  project: coffea-casa
+- title: 'Analysis on LHC-Managed Facilities: Coffea-Casa'
+  date: 2020-10-27
+  url: https://indico.cern.ch/event/960587/contributions/4070335/attachments/2130432/3587698/Analysis%20on%20LHC-Managed%20Facilities%20Coffea-Casa.pdf
+  meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+  meetingurl: https://indico.cern.ch/event/960587/
+  location: Virtual
+  focus-area: doma
+  project: coffea-casa
+- title: Analysis facilities
+  date: 2020-09-23
+  url: https://indico.cern.ch/event/956958/contributions/4021690/attachments/2108039/3545396/US_CMS_Analysis_Facilities_RD_and_first_prototypes.pdf
+  meeting: Upgrade R&D/CMP Meeting (Presented on Weekly CMS O&C Meeting slot)
+  meetingurl: https://indico.cern.ch/event/956958/
+  location: Virtual
+  focus-area: doma
+  project: coffea-casa

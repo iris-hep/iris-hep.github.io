@@ -1,0 +1,5 @@
+{%- comment -%}
+Collect all the events, merging lists as appropriate.
+{%- endcomment -%}
+
+{% assign all_fellow_projects = site.data.fellow_projects | values | sort: "postdate" | reverse %}

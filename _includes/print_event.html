@@ -1,0 +1,12 @@
+{% assign event = include.event %}
+
+{% assign students_str = '' %}
+{% if include.students == 1 %}
+{% if event.students %}
+{% assign students_str = "-- " | append: event.students | append: " students." %}
+{% endif %}
+{% endif %}
+
+
+{{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a> (<i>{{event.location}}</i>) {{students_str}}
+
