@@ -13,8 +13,9 @@ title: Presentations by Person
                                      | last_name_sort: "name" %}
 {% for member in members %}
   {%- assign presentationlist = member.presentations | default: empty-list | sort: "date" | reverse -%}
+  <h4>{{member.name}} - {{member.institution}}</h4>
   {%- if presentationlist.size > 0 -%}
-    <h4>{{member.name}} - {{member.institution}}</h4><ul>
+    <ul>
       {%- for talk in presentationlist -%}
         {%- assign prescount = prescount | plus: "1" -%}
         <li>
@@ -22,6 +23,8 @@ title: Presentations by Person
         </li>
       {%- endfor- %}
     </ul>
+  {%- else -%}
+    <p>No presentations found.</p>
   {%- endif -%}
 {%- endfor -%}
 
