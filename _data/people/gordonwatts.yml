@@ -251,4 +251,15 @@ presentations:
   focus-area: as
   location: CERN
   project: hep-tables
-
+- title: Using Python, coffea, and ServiceX to Rediscover the Higgs. Twice.
+  date: 2021-07-09
+  url: https://indico.cern.ch/event/1019958/contributions/4418552/
+  meetingurl: https://indico.cern.ch/event/1019958
+  meeting: PyHEP 2021
+  focus-area:
+    - as
+    - doma
+  location: Virtual
+  project: ServiceX
+    - servicex
+    - func_adl
