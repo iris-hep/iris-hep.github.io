@@ -260,6 +260,6 @@ presentations:
     - as
     - doma
   location: Virtual
-  project: ServiceX
+  project:
     - servicex
     - func_adl
