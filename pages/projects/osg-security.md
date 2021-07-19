@@ -12,7 +12,6 @@ team:
 - adciu
 - jcdrake
 - zsshah
-- mtstanfield
 ---
 
 The OSG Security team works on supporting operational security for OSG infrastructure, software security,
