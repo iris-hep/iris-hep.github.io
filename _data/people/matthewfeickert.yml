@@ -212,3 +212,13 @@ presentations:
   location: Virtual
   focus-area: as
   project: pyhf
+
+
+- title: 'Distributed statistical inference with pyhf'
+  date: 2021-07-015
+  url: https://indico.cern.ch/event/1019958/contributions/4418598/
+  meeting: 20th Python in Science Conference (SciPy 2021)
+  meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
+  location: Virtual
+  focus-area: as
+  project: pyhf
