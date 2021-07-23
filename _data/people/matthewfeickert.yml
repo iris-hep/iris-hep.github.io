@@ -124,6 +124,7 @@ presentations:
 - title: 'pyhf Tutorial: Accelerating analyses and preserving likelihoods'
   date: 2020-07-16
   url: https://indico.cern.ch/event/882824/contributions/3931292/
+  video: https://youtu.be/V0Li05ijv0U
   meeting: PyHEP 2020 Workshop
   meetingurl: https://indico.cern.ch/event/882824/
   location: Virtual
