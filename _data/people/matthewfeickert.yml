@@ -198,6 +198,7 @@ presentations:
 - title: 'Distributed statistical inference with pyhf enabled through funcX'
   date: 2021-05-20
   url: https://indico.cern.ch/event/948465/contributions/4324013/
+  video: https://cds.cern.ch/record/2767521
   meeting: vCHEP 2021 Conference
   meetingurl: https://indico.cern.ch/event/948465/
   location: Virtual
