@@ -215,7 +215,7 @@ presentations:
   meeting: PyHEP 2020 Workshop
   meetingurl: https://indico.cern.ch/PyHEP2020
   focus-area: ssc
-  project: 
+  project:
   location: Virtual
   video: https://youtu.be/kKroC93_jyg
 - title: 'High-performance Python: CPUs'
@@ -269,7 +269,7 @@ presentations:
   date: 2021-07-05
   url: https://indico.cern.ch/event/1019958/contributions/4430355/
   meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/e/PyHEP2021 
+  meetingurl: https://indico.cern.ch/e/PyHEP2021
   focus-area: ssc
   project:
   location: Virtual
@@ -278,7 +278,7 @@ presentations:
   date: 2021-07-06
   url: https://indico.cern.ch/event/1019958/contributions/4430422/
   meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/e/PyHEP2021 
+  meetingurl: https://indico.cern.ch/e/PyHEP2021
   focus-area: ssc
   project:
   location: Virtual
@@ -287,7 +287,7 @@ presentations:
   date: 2021-07-07
   url: https://indico.cern.ch/event/1019958/contributions/4430375/
   meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/e/PyHEP2021 
+  meetingurl: https://indico.cern.ch/e/PyHEP2021
   focus-area: as
   project: histogram
   location: Virtual
@@ -296,7 +296,7 @@ presentations:
   date: 2021-07-08
   url: https://indico.cern.ch/event/1019958/contributions/4418546/
   meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/e/PyHEP2021 
+  meetingurl: https://indico.cern.ch/e/PyHEP2021
   focus-area: as
   project:
   location: Virtual
