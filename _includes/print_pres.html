@@ -19,6 +19,11 @@
   {%- else -%}
     "{{ talk.title }}"
   {%- endif -%}
+  {%- if talk.video -%}
+  {{ " " }}<a href="{{ talk.video }}" aria-label="Video">
+      <i aria-hidden="true" class="fas fa-video" title="Video"></i>
+    </a>
+  {%- endif -%}
 {%- endcapture -%}
 
 {{ prettydate }} - {{ title }}, {{ talk-member }}, {{ meeting }}
