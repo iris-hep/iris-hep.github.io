@@ -207,6 +207,7 @@ presentations:
 - title: 'Distributed statistical inference with pyhf'
   date: 2021-07-06
   url: https://indico.cern.ch/event/1019958/contributions/4418598/
+  video: https://youtu.be/Azpa5Aa-12w
   meeting: PyHEP 2021 Workshop
   meetingurl: https://indico.cern.ch/event/1019958/
   location: Virtual
