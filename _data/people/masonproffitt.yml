@@ -59,7 +59,8 @@ presentations:
   project: func-adl
 - title: "FuncADL: Functional Analysis Description Language"
   date: 2021-07-09
-  url: https://github.com/masonproffitt/pyhep-2021_func-adl/blob/pyhep_2021_final/FuncADL%20at%20PyHEP%202021.ipynb
+  url: https://indico.cern.ch/event/1019958/timetable/#31-funcadl-functional-analysis
+  video: https://youtu.be/58KR97xdYlU
   meeting: PyHEP 2021 Workshop
   meetingurl: https://indico.cern.ch/event/1019958/
   location: Virtual
