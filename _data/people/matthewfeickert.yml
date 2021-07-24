@@ -221,6 +221,7 @@ presentations:
 - title: 'Distributed statistical inference with pyhf powered by funcX'
   date: 2021-07-15
   url: https://github.com/matthewfeickert/talk-scipy-2021
+  video: https://youtu.be/rwaxVDWZS8A
   meeting: 20th Python in Science Conference (SciPy 2021)
   meetingurl: https://conference.scipy.org/proceedings/scipy2021/slides.html
   location: Virtual
