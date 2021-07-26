@@ -2,7 +2,7 @@
 permalink: /fellows/JayjeetChakraborty.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
 fellow-name: Jayjeet Chakraborty
 shortname: JayjeetAtGithub
 title: Jayjeet Chakraborty - IRIS-HEP Fellow
@@ -57,6 +57,7 @@ presentations:
     url: https://www.slideshare.net/JayjeetChakraborty/skyhookdm-towards-an-arrownative-storage-system
     meeting: IRIS-HEP Topical Meetings
     meetingurl: https://indico.cern.ch/event/1047234/
+    recordingurl: https://youtu.be/_1Xv63HBbtE
     focus-area: doma
 
 current_status: >
