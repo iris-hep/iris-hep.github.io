@@ -52,6 +52,12 @@ presentations:
     meetingurl: https://indico.cern.ch/event/946431/
     recordingurl: https://www.youtube.com/watch?v=6gCp1BwQHdg
     focus-area: doma
+  - title: "SkyhookDM: Towards an Arrow-Native Storage System"
+    date: 2021-06-30
+    url: https://www.slideshare.net/JayjeetChakraborty/skyhookdm-towards-an-arrownative-storage-system
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1047234/
+    focus-area: doma
 
 current_status: >
   As of Fall 2021, Jayjeet is beginning graduate studies in Computer Science at the University of California, Santa Cruz.
