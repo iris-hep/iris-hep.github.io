@@ -27,6 +27,6 @@ presentations:
     url: https://indico.cern.ch/event/1040761/contributions/4371613/attachments/2268248/3851583/floating_point_error_est.pdf
     meeting: IRIS-HEP Topical Meetings
     meetingurl: https://indico.cern.ch/event/1040761/
-    recordingurl: 
+    recordingurl:
     focus-area: ia
 ---
