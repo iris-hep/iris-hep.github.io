@@ -5,7 +5,7 @@ shortname: abdelabd
 permalink: /fellows/abdelabd.html
 fellow-name: Abdelrahman Elabd
 title: Abdelrahman Elabd - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-01-04
   end: 2021-07-03
@@ -20,5 +20,11 @@ mentors:
   - Markus Atkinson (UIUC)
 proposal: /assets/pdf/Fellow-Abdelrahman-Elabd-Proposal.pdf
 presentations:
-
+  - title:  "Developing a Python Front-End for HLS Implementation of GNNs on FPGA and Studies of Quantization-aware Training"
+    date: 2021-07-07
+    url: https://indico.cern.ch/event/1047245/contributions/4399427/attachments/2278054/3870233/PyTorch%20Geometric%20to%20HLS.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1047245/
+    recordingurl: https://youtu.be/UChnsoqsHIg
+    focus-area: ia
 ---
