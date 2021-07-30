@@ -55,6 +55,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- Jean-Loup Tastet, Oleg Ruchayskiy, and Inar Timiryasov. Reinterpreting the ATLAS bounds on heavy neutral leptons in a realistic neutrino oscillation model. July 2021. [arXiv:2107.12980](https://arxiv.org/abs/2107.12980).
 - ATLAS Collaboration. Search for chargino&ndash;neutralino pair production in final states with three leptons and missing transverse momentum in s√=13 TeV pp collisions with the ATLAS detector. June 2021. [arXiv:2106.01676](https://arxiv.org/abs/2106.01676).
 - Belle II Collaboration. Search for B⁺→ K⁺νν̅  decays using an inclusive tagging method at Belle II. Contribution to the 2021 EW session of the 55th Rencontres de Moriond. May 2021. [arXiv:2105.05754](https://arxiv.org/abs/2105.05754).
 - Belle II Collaboration. Search for B⁺→ K⁺νν̅  decays using an inclusive tagging method at Belle II. Apr 2021. [arXiv:2104.12624](https://arxiv.org/abs/2104.12624).
@@ -62,7 +63,7 @@ Updating list of citations and use cases of `pyhf`:
 - Rodolfo Capdevilla, Federico Meloni, Rosa Simoniello, and Jose Zurita. Hunting wino and higgsino dark matter at the muon collider with disappearing tracks. Feb 2021. [arXiv:2102.11292](https://arxiv.org/abs/2102.11292).
 - Vincenzo Cirigliano, Kaori Fuyuto, Christopher Lee, Emanuele Mereghetti, and Bin Yan. Charged Lepton Flavor Violation at the EIC. Feb 2021. [arXiv:2102.06176](https://arxiv.org/abs/2102.06176).
 - Jack Y. Araz and others. Proceedings of the second MadAnalysis 5 workshop on LHC recasting in Korea. _Mod. Phys. Lett. A_, 36(01):2102001, 2021. [arXiv:2101.02245](https://arxiv.org/abs/2101.02245), [doi:10.1142/S0217732321020016](https://doi.org/10.1142/S0217732321020016).
-- Simone Amoroso, Deepak Kar, and Matthias Schott. How to discover QCD Instantons at the LHC. In _Topological Effects in the Standard Model: Instantons, Sphalerons and Beyond at LHC_. Dec 2020. [arXiv:2012.09120](https://arxiv.org/abs/2012.09120).
+- Simone Amoroso, Deepak Kar, and Matthias Schott. How to discover QCD Instantons at the LHC. Eur. Phys. J. C, 81(7):624, Dec 2020. [arXiv:2012.09120](https://arxiv.org/abs/2012.09120), [doi:10.1140/epjc/s10052-021-09412-1](https://doi.org/10.1140/epjc/s10052-021-09412-1).
 - Wolfgang Waltenberger, André Lessa, and Sabine Kraml. Artificial Proto-Modelling: Building Precursors of a Next Standard Model from Simplified Model Results. Dec 2020. [arXiv:2012.12246](https://arxiv.org/abs/2012.12246), [doi: 10.1007/JHEP03(2021)207](https://doi.org/10.1007/JHEP03(2021)207).
 - Gaël Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-González, Wolfgang Waltenberger, and Alicia Wongel. New developments in SModelS. In _Tools for High Energy Physics and Cosmology_. Dec 2020. [arXiv:2012.08192](https://arxiv.org/abs/2012.08192).
 - Matthew Feickert, Lukas Heinrich, and Giordon Stark. Likelihood preservation and statistical reproduction of searches for new physics. EPJ Web Conf., Nov 2020. [doi:10.1051/epjconf/202024506017](https://doi.org/10.1051/epjconf/202024506017).
