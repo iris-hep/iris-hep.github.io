@@ -604,14 +604,13 @@ presentations:
   meetingurl: https://msml21.github.io/
   focus-area: as
   location: Virtual
-
 - title: TBD
   date: 2021-09-13
   url: https://conference.astro.dur.ac.uk/event/3/sessions/25/#20210913
   meeting: STFC Summer School on Data Intensive Science 2021
   meetingurl: https://conference.astro.dur.ac.uk/event/3/
   focus-area: as
-  location: Durham / Virtual
+  location: "Durham / Virtual"
 - title: TBD
   date: 2021-09-18
   url: https://indico.cern.ch/event/908069/
@@ -632,7 +631,7 @@ presentations:
   meeting: ML in PL (Machine Learning in Poland)
   meetingurl: https://conference2021.mlinpl.org
   focus-area: as
-  location: Virtual 
+  location: Virtual
 - title: Simulation-based inference for gravitational wave astronomy
   date: 2021-11-16
   url: http://www.ipam.ucla.edu/programs/workshops/workshop-iii-source-inference-and-parameter-estimation-in-gravitational-wave-astronomy/?tab=speaker-list
@@ -646,4 +645,4 @@ presentations:
   meeting: Physical Reasoning and Inductive Biases for the Real World workshop at NeurIPS 2021
   meetingurl: https://physical-reasoning.github.io
   focus-area: as
-  location: Virtual 
+  location: Virtual
