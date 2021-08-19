@@ -153,7 +153,7 @@ presentations:
 - title: Virtual Meetings Workshop Summary
   date: 2021-08-19
   url: https://indico.cern.ch/event/1034113/contributions/4452694/attachments/2295587/3904122/IUPAP-C11_IRIS-HEP_Virtual_Meetings.pptx.pdf
-  meeting: International Union of Pure & Applied Physics: Particles and Fields Meeting
+  meeting: "International Union of Pure & Applied Physics: Particles and Fields Meeting"
   meetingurl: https://indico.cern.ch/event/1034113
   location: Virtual
   focus-area:
