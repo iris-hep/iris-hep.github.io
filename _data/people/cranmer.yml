@@ -540,10 +540,110 @@ presentations:
   focus-area: as
 - title: "Explorations at the Physics ∩ ML Interface"
   date: 2021-05-05
-  url: https://www.youtube.com/watch?v=s5y-13elZrs
+  url: http://www.physicsmeetsml.org/posts/sem_2021_05_06/
   meeting: "Physics ∩ ML seminar series"
-  meetingurl: http://www.physicsmeetsml.org/posts/sem_2021_05_06/
+  meetingurl: http://www.physicsmeetsml.org/
   location: (Virtual)
   focus-area:
   - as
   - ia
+  video: https://www.youtube.com/watch?v=s5y-13elZrs
+- title: "MadMiner: a python based tool for simulation-based inference in HEP"
+  date: 2021-07-07
+  url: https://indico.cern.ch/event/1019958/timetable/#29-madminer-a-python-based-too
+  meeting: PyHEP 2021
+  meetingurl: https://indico.cern.ch/event/1019958/
+  focus-area: as
+  project: madminer
+  location: Virtual
+  video: https://youtu.be/w8vHZy__438
+- title: Thoughts on the expressive power and inductive bias of DeepSets and Tree-Based models
+  date: 2021-07-08
+  url: https://indico.cern.ch/event/980214/contributions/4413693/
+  meeting: ML4Jets
+  meetingurl: https://indico.cern.ch/event/980214/
+  focus-area: ia
+  project: ml4jets
+  location: Virtual
+  video: https://indico.cern.ch/event/980214/contributions/4413693/attachments/2278819/3871903/Kyle_Cranmer.mp4
+- title: Simulation-Based Inference
+  date: 2021-07-08
+  url: https://pasc21.pasc-conference.org/program/minisymposia/
+  meeting: "Applied Cutting-Edge Machine Learning in Cosmology and Particle Physics @ PASC21"
+  meetingurl: https://pasc21.pasc-conference.org/program/minisymposia/
+  focus-area: as
+  location: Virtual
+  video: https://www.youtube.com/watch?v=zeQpgMD91t0&list=PLeU4yWBiw8jZHBlCd1KKGXeD7wBUK8aQa&index=13
+- title: Explorations at the Physics-AI Interface
+  date: 2021-07-12
+  url: http://www-hep.phys.cmu.edu/~paulini/AI_QtC2021/Cranmer_quarks-cosmos-CMU-AI.pdf
+  meeting: From Quarks to Cosmos with AI 2021 (NSF AI Planning Institute for Data-Driven Discovery in Physics)
+  meetingurl: https://events.mcs.cmu.edu/qtc2021/
+  focus-area: as
+  location: Virtual
+  video: https://cmu.zoom.us/rec/share/T0UIsRsCCKoYcw-5Js5vr_KaT9sV0vCkgLTCh2BDPQ4A7M4dFWQPpNvnOGkMSeLC._OamLnGqZ3bAKYl9?startTime=1626102064000
+- title: "Simulation-based inference: recent progress and open questions"
+  date: 2021-08-04
+  url: https://drive.google.com/file/d/1Lw65CFO0u-kG9dmmqi81erwwMxE_Iejh/view?usp=drive_web
+  meeting: Statistical Approaches to Understanding Modern ML Methods
+  meetingurl: https://ifds.info/ifds-madlab-workshop/
+  focus-area: as
+  location: Institute for the Foundations of Data Science, University of Wisconsin-Madison
+- title: Machine learning round-table discussion
+  date: 2021-08-04
+  url: https://indico.uis.no/event/12/sessions/40/#20210804
+  meeting: A Virtual Tribute to Quark Confinement and the Hadron Spectrum 2021
+  meetingurl: https://indico.uis.no/event/12/
+  focus-area: as
+  location: Virtual
+  video: https://www.youtube.com/watch?v=QbVujTHlgIg
+- title: Studying the effectiveness of inductive bias with a physics-inspired generative model
+  date: 2021-08-18
+  url: https://msml21.github.io/workshop_phys/
+  meeting: Mathematical and Scientific Machine Learning (MSML21)
+  meetingurl: https://msml21.github.io/
+  focus-area: as
+  location: Virtual
+
+- title: TBD
+  date: 2021-09-13
+  url: https://conference.astro.dur.ac.uk/event/3/sessions/25/#20210913
+  meeting: STFC Summer School on Data Intensive Science 2021
+  meetingurl: https://conference.astro.dur.ac.uk/event/3/
+  focus-area: as
+  location: Durham / Virtual
+- title: TBD
+  date: 2021-09-18
+  url: https://indico.cern.ch/event/908069/
+  meeting: "Sparks! Serendipity Forum"
+  meetingurl: https://indico.cern.ch/event/908069/
+  focus-area: as
+  location: CERN
+- title: Systematics in the context of machine learning
+  date: 2021-08-18
+  url: https://indico.cern.ch/event/1051224/
+  meeting: PhyStat-Systematics
+  meetingurl: https://indico.cern.ch/event/1051224/
+  focus-area: as
+  location: Virtual
+- title: "Panel: Sins and marvels of AI research"
+  date: 2021-11-06
+  url: https://conference2021.mlinpl.org
+  meeting: ML in PL (Machine Learning in Poland)
+  meetingurl: https://conference2021.mlinpl.org
+  focus-area: as
+  location: Virtual 
+- title: Simulation-based inference for gravitational wave astronomy
+  date: 2021-11-16
+  url: http://www.ipam.ucla.edu/programs/workshops/workshop-iii-source-inference-and-parameter-estimation-in-gravitational-wave-astronomy/?tab=speaker-list
+  meeting: "Workshop III: Source Inference and Parameter Estimation in Gravitational Wave Astronomy"
+  meetingurl: http://www.ipam.ucla.edu/programs/workshops/workshop-iii-source-inference-and-parameter-estimation-in-gravitational-wave-astronomy/
+  focus-area: as
+  location: Institute for Pure and Applied Mathematics (IPAM)
+- title: "Inductive bias: lessons learned from physics"
+  date: 2021-12-13
+  url: https://physical-reasoning.github.io/speakers/
+  meeting: Physical Reasoning and Inductive Biases for the Real World workshop at NeurIPS 2021
+  meetingurl: https://physical-reasoning.github.io
+  focus-area: as
+  location: Virtual 
