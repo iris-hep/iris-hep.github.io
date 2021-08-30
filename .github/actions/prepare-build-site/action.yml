@@ -1,12 +1,5 @@
 name: 'Build site'
 description: 'Build an IRIS-HEP style website. INDICO keys should be set, and rake should be supported.'
-inputs:
-  indico-api-key:
-    description: Indico API key
-    required: true
-  indico-secret-key:
-    description: Indico secret key
-    required: true
 runs:
   using: composite
   steps:
@@ -42,16 +35,4 @@ runs:
       bundle install --jobs 4 --retry 3
     env:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-
-  - name: Check RuboCop
-    shell: bash
-    run: bundle exec rake rubocop
-
-  - name: Build the site
-    shell: bash
-    run: bundle exec rake build
-    env:
-      JEKYLL_ENV: production
-      INDICO_API_KEY: ${{ inputs.indico-api-key }}
-      INDICO_SECRET_KEY: ${{ inputs.indico-secret-key }}
 

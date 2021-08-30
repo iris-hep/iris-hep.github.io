@@ -14,7 +14,17 @@ jobs:
       with:
         fetch-depth: 0
 
-    - uses: ./.github/actions/build-site
-      with:
-        indico-api-key: ${{ secrets.INDICO_API_KEY }}
-        indico-secret-key: ${{ secrets.INDICO_SECRET_KEY }}
+    - name: Prepare to build site
+      uses: ./.github/actions/prepare-build-site
+
+    - name: Check RuboCop
+      shell: bash
+      run: bundle exec rake rubocop
+
+    - name: Build the site
+      shell: bash
+      run: bundle exec rake build
+      env:
+        JEKYLL_ENV: production
+        INDICO_API_KEY: ${{ secrets.INDICO_API_KEY }}
+        INDICO_SECRET_KEY: ${{ secrets.INDICO_SECRET_KEY }}
