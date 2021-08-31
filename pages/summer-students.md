@@ -11,6 +11,7 @@ In addition to [students funded directly as part of the IRIS-HEP project](https:
 #### Summer 2021 DIANA Undergraduate Fellowship
 
 * **Rida Shahid** (mentor Rocky Bala Garg, Lauren Tompkins) - [Implementation of Deep Learning Algorithm for identifying and locating primary vertices in ATLAS data](https://iris-hep.org/projects/pv-finder.html)
+* **Elliott Kauffman** (mentor Henry Fredrick Schreiner, Michael Sokoloff) - [Implementation of Deep Learning Algorithm for identifying and locating primary vertices in CMS data](https://iris-hep.org/projects/pv-finder.html)
 
 
 #### Google Summer of Code 2021
