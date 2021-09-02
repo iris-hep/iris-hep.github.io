@@ -370,7 +370,7 @@ presentations:
   project:
   - awkward
 - title: How to give a good Jupyter talk talk
-  date: 2021-05-26
+  date: 2021-06-02
   url: https://github.com/jpivarski-talks/2021-06-02-pyhepmod-jupyter-talk-talk
   meeting: PyHEP Module of the Month
   meetingurl: https://indico.cern.ch/event/1044648/
@@ -379,7 +379,7 @@ presentations:
   - as
   project:
 - title: Uproot Awkward Columnar HATS
-  date: 2021-05-26
+  date: 2021-06-14
   url: https://github.com/jpivarski-talks/2021-06-14-uproot-awkward-columnar-hats
   meeting: Hands-on Advanced Tutorial Sessions at the LPC
   meetingurl: https://indico.cern.ch/event/1042866/
@@ -388,4 +388,25 @@ presentations:
   - as
   project:
   - uproot
+  - awkward
+- title: Uproot/Awkward Array tutorial
+  date: 2021-07-06
+  url: https://indico.cern.ch/event/1019958/contributions/4430420/
+  meeting: PyHEP 2021
+  meetingurl: https://indico.cern.ch/event/1019958/
+  location: online
+  focus-area:
+  - as
+  project:
+  - uproot
+  - awkward
+- title: Awkward Array 3-minute update
+  date: 2021-07-14
+  url: https://youtu.be/hvHedn8bORU?t=1221
+  meeting: SciPy 2021 (Tools plenary)
+  meetingurl: https://www.scipy2021.scipy.org/
+  location: online
+  focus-area:
+  - as
+  project:
   - awkward
