@@ -66,3 +66,11 @@ presentations:
   location: Virtual
   focus-area: as
   project: func-adl
+- title: Uproot Tutorial
+  date: 2021-08-27
+  url: https://indico.cern.ch/event/1058873/timetable/#b-430459-python-for-analysis-2
+  meeting: Software Carpentry (Virtual)
+  meetingurl: https://indico.cern.ch/event/1058873/
+  location: Virtual
+  focus-area: as
+  project: uproot
