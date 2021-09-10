@@ -15,6 +15,9 @@ A number of employment opportunities exist with the universities involved in IRI
 ### University of Washington, Seattle
   * [Postdoc on Exotics Physics and IRIS-HEP Analysis Software](https://inspirehep.net/jobs/1863400)
 
+### University of Nebraska-Lincoln
+  * [System Administrator](https://employment.unl.edu/postings/74814)
+
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
