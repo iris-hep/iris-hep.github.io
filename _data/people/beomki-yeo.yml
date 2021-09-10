@@ -22,3 +22,10 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1042735/
   project: acts
   location: CERN
+- title: Track Reconstruction using GPUs
+  date: 2021-08-10
+  url: https://indico.cern.ch/event/1066033/
+  meeting: LBML ATLAS Meeting
+  meetingurl: https://indico.cern.ch/event/1066033/
+  project: acts
+  location: CERN
