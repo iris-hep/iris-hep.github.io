@@ -10,7 +10,10 @@
 {%- endif -%}
 
 {% for contact in include.team %}
-  {% assign person = site.data.people | find: "shortname", contact %}
+  {%- assign person = site.data.people | find: "shortname", contact -%}
+  {%- unless person -%}
+    {%- assign person = site.pages | where: 'pagetype', 'fellow' | find: "shortname", contact -%}
+  {%- endunless -%}
 
   {% if person %}
     {%- if inline and person.e-mail -%}
@@ -18,7 +21,7 @@
     {%- elsif person.website -%}
       {{ li }} <a href="{{person.website}}">{{ person.name }}</a> {{ eli }}
     {% else %}
-      {{ li }} {{person.name}} {{ eli }}
+      {{ li }} {{person.fellow-name | default: person.name}} {{ eli }}
     {% endif %}
   {% elsif contact contains "](" %}
     {{ li }} {{ contact | markdownify | remove: '<p>' | remove: '</p>' }} {{ eli }}
