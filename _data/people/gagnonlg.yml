@@ -9,19 +9,19 @@ shortname: gagnonlg
 title:
 presentations:
 - title: Update on pixel clusterization with ACTS in ITk
-  date: 2020-06-18
+  date: 2021-06-18
   meeting: ACTS-ITk meeting
   meetingurl: https://indico.cern.ch/event/1044816/
   project: acts
   location: CERN
-- title:Update on pixel clustering with ACTS
-  date: 2020-07-16
+- title: Update on pixel clustering with ACTS
+  date: 2021-07-16
   meeting: ACTS-ITk meeting
   meetingurl: https://indico.cern.ch/event/1044821/
   project: acts
   location: CERN
 - title: Machine Learning for Track Reconstruction at the LHC
-  date: 2020-09-08
+  date: 2021-09-08
   meeting: AI4EIC-Exp Workshop
   meetingurl: https://indico.bnl.gov/event/10699/contributions/51456/
   project: acts
