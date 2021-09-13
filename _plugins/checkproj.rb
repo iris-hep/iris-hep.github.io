@@ -33,7 +33,13 @@ module Checks
     private
 
     def people
-      @people ||= @site.data['people'].keys.to_set
+      @people ||= people_gen
+    end
+
+    def people_gen
+      fellow_pages = @site.pages.select { |v| v.data['pagetype'] == 'fellow' }.compact
+      fellow_shortnames = fellow_pages.map { |v| v.data['shortname'] }.to_set
+      @site.data['people'].keys.to_set | fellow_shortnames
     end
   end
 end

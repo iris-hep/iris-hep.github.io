@@ -12,11 +12,16 @@ team:
 - henryiii
 - Hans Dembinski
 - jpivarski
+- amangoel185
+- shuoliu
 ---
 
-Members of the IRIS-HEP team are working on histogramming technology for Python. The trio of projects are:
+Members of the IRIS-HEP team are working on histogramming technology for Python. The projects are:
 
 * [boost-histogram](https://github.com/scikit-hep/boost-histogram): High performance filling using Boost.Histogram from the Boost C++ libraries.
 * [Hist](https://github.com/scikit-hep/hist): Analysis routines and plotting for histograms, built on top of boost-histogram.
-* [Aghast](https://github.com/scikit-hep/aghast): Conversions between Histogram formats, such as boost-histogram and ROOT.
+* [UHI](https://github.com/scikit-hep/uhi): Universal Histogram Interface, describing how histogram libraries interact, like these projects and Uproot.
+* [histoprint](https://github.com/scikit-hep/histoprint): Displaying histograms on the command line.
+* [mplhep](https://github.com/scikit-hep/mplhep) (related): Utilities for HEP plots, including histograms.
+* [Aghast](https://github.com/scikit-hep/aghast) (on hold): Conversions between Histogram formats, such as boost-histogram and ROOT.
 
