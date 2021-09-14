@@ -31,7 +31,7 @@ presentations:
   location: CERN
 - title: ATLAS Track Reconstruction for HL-LHC using ACTS software
   date: 2021-07-20
-  url: https://indico.cern.ch/event/1061445/contributions/4460829/attachments/2284847/3883288/TrackRecoATLAS.pdf
+  url: https://indico.cern.ch/event/1061445/contributions/4460829/
   meeting: LBL Weekly meeting
   meetingurl: https://indico.cern.ch/event/1061445/
   project: acts
