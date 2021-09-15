@@ -1,6 +1,17 @@
-**IRIS-HEP Profile: Henry Schreiner
-
-By Eoin O'Carroll
+---
+layout: irispost
+title: "IRIS-HEP Profile: Henry Schreiner"
+author:  Eoin O'Carroll
+image: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters.jpg
+image-caption: >
+  Caption: Henry Schreiner attends the IRIS-HEP Poster Session in February
+  2020. Schreiner is one of three IRIS-HEP team members working on
+  developing histogramming technology for Python, a widely used
+  programming language. Photo Credit: Jim Pivarski, Princeton University
+postbanner: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters.jpg
+summary: >
+    Highlights the work of Henry Schreiner, a computational physicist and research software engineer with IRIS-HEP
+---
 
 In April 2020, as hospitals faced a dire shortage of ventilators, Henry
 Schreiner had to shift his attention from tracking subatomic particles
@@ -28,7 +39,11 @@ the University of Texas, Austin, where he
 that uses cosmic-ray muons to map the interior of a sealed Mayan pyramid
 in Belize.
 
-\[Insert an image here of the Belize project?\]
+{% include figure.html
+    file="/assets/images/posts/2021-09-15-Henry-Schreiner-rse-Belize.png"
+    alt="Schreiner's work with muon tomography and Mayan archaeology"
+    caption="Using cosmic-ray muons to map a Mayan pyramid interior. Photo Credit: Henry Schreiner."
+%}
 
 "It was really very similar", he says. "Both had to work with minimal
 user interaction and without developer intervention once it was
@@ -66,3 +81,10 @@ to worry about that with my position with IRIS-HEP."
 Plus, the job comes with its own rewards. "The best way to be on the
 cutting edge," says Schreiner, "is to build on something that someone
 else has built on."
+
+{% include figure.html
+    file="/assets/images/posts/2021-09-15-Henry-Schreiner-rse-vent-monitor.png"
+    alt="Schreiner's work with Princeton Open Ventilation Monitor"
+    caption=Testing the Princeton Open Ventilation Monitor with a helmet respiration device. The single-device display can be seen on the monitor on the left. Several devices can be seen on the bottom left, one connected to the breathing apparatus and two disconnected devices showing red screens in the alarm state.
+Photo Credit: Chris Tully, Princeton University"
+%}
