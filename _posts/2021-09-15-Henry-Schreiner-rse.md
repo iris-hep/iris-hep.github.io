@@ -42,7 +42,7 @@ in Belize.
 {% include figure.html
     file="/assets/images/posts/2021-09-15-Henry-Schreiner-rse-Belize.png"
     alt="Schreiner's work with muon tomography and Mayan archaeology"
-    caption="Using cosmic-ray muons to map a Mayan pyramid interior. Photo Credit: Henry Schreiner."
+    caption="One of two cosmic ray muon detectors at the base of a Belizean Pyramid, with debugging monitor attached (left). The power source was a solar array (top right) with a battery bank and backup generator (lower right) placed in the nearest clearing. Photo Credit: Henry Schreiner, Princeton University"
 %}
 
 "It was really very similar", he says. "Both had to work with minimal
