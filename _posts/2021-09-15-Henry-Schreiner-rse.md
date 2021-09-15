@@ -2,13 +2,13 @@
 layout: irispost
 title: "IRIS-HEP Profile: Henry Schreiner"
 author:  Eoin O'Carroll
-image: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters.jpg
+image: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters.png
 image-caption: >
   Caption: Henry Schreiner attends the IRIS-HEP Poster Session in February
   2020. Schreiner is one of three IRIS-HEP team members working on
   developing histogramming technology for Python, a widely used
   programming language. Photo Credit: Jim Pivarski, Princeton University
-postbanner: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters.jpg
+postbanner: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters-banner.png
 summary: >
     Highlights the work of Henry Schreiner, a computational physicist and research software engineer with IRIS-HEP
 ---
@@ -85,6 +85,6 @@ else has built on."
 {% include figure.html
     file="/assets/images/posts/2021-09-15-Henry-Schreiner-rse-vent-monitor.png"
     alt="Schreiner's work with Princeton Open Ventilation Monitor"
-    caption=Testing the Princeton Open Ventilation Monitor with a helmet respiration device. The single-device display can be seen on the monitor on the left. Several devices can be seen on the bottom left, one connected to the breathing apparatus and two disconnected devices showing red screens in the alarm state.
-Photo Credit: Chris Tully, Princeton University"
+    caption="Testing the Princeton Open Ventilation Monitor with a helmet respiration device. The single-device display can be seen on the monitor on the left. Several devices can be seen on the bottom left, one connected to the breathing apparatus and two disconnected devices showing red screens in the alarm state. Photo Credit: Chris Tully, Princeton University"
+    class="center"
 %}
