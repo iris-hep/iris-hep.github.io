@@ -1,5 +1,5 @@
-**IRIS-HEP Profile: Henry Schreiner  
-  
+**IRIS-HEP Profile: Henry Schreiner
+
 By Eoin O'Carroll
 
 In April 2020, as hospitals faced a dire shortage of ventilators, Henry
@@ -52,7 +52,7 @@ award from the National Science Foundation. Originally developed to
 simplify the interface for high-energy physicists using graphics
 processing units and other systems that can perform multiple
 calculations at once, today it is now used in many places, including the
-Microsoft Terminal. 
+Microsoft Terminal.
 
 "When I write something, I try to avoid specializing it to the last
 possible second," he says. "I like it when we can use the same tools."
