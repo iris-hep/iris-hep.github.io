@@ -1,6 +1,6 @@
 ---
 layout: irispost
-title: "IRIS-HEP Profile: Henry Schreiner"
+title: "Team Member Spotlight: Henry Schreiner"
 author:  Eoin O'Carroll
 image: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters.png
 image-caption: >
@@ -10,7 +10,7 @@ image-caption: >
   programming language. Photo Credit: Jim Pivarski, Princeton University
 postbanner: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters-banner.png
 summary: >
-    Highlights the work of Henry Schreiner, a computational physicist and research software engineer with IRIS-HEP
+    Highlights the work of Henry Schreiner, a computational physicist and research software engineer with IRIS-HEP.
 ---
 
 In April 2020, as hospitals faced a dire shortage of ventilators, Henry
