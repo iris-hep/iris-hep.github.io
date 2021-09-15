@@ -4,11 +4,10 @@ title: "Team Member Spotlight: Henry Schreiner"
 author:  Eoin O'Carroll
 image: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters.png
 image-caption: >
-  Caption: Henry Schreiner attends the IRIS-HEP Poster Session in February
+  Henry Schreiner attends the IRIS-HEP Poster Session in February
   2020. Schreiner is one of three IRIS-HEP team members working on
   developing histogramming technology for Python, a widely used
   programming language. Photo Credit: Jim Pivarski, Princeton University
-postbanner: /assets/images/posts/2021-09-15-Henry-Schreiner-rse-posters-banner.png
 summary: >
     Highlights the work of Henry Schreiner, a computational physicist and research software engineer with IRIS-HEP.
 ---
@@ -35,7 +34,7 @@ time."
 He would have had to work even longer if he had started from scratch.
 Instead, Schreiner built on techniques he learned as a grad student at
 the University of Texas, Austin, where he
-[*built*](http://hdl.handle.net/2152/39757) a data acquisition system
+[built](http://hdl.handle.net/2152/39757) a data acquisition system
 that uses cosmic-ray muons to map the interior of a sealed Mayan pyramid
 in Belize.
 
@@ -62,10 +61,10 @@ variety of far-flung applications. His supporting work on
 [*pybind11*](https://pybind11.readthedocs.io/en/stable/), which helps
 the popular programming languages Python and C++ work together, is used
 by Facebook, Google, and in thousands of Python packages. He wrote
-CLI11, which translates commands sent to C++ applications, under an
-award from the National Science Foundation. Originally developed to
-simplify the interface for high-energy physicists using graphics
-processing units and other systems that can perform multiple
+[*CLI11*](https://github.com/CLIUtils/CLI11), which translates commands sent to
+C++ applications, under an award from the National Science Foundation.
+Originally developed to simplify the interface for high-energy physicists using
+graphics processing units and other systems that can perform multiple
 calculations at once, today it is now used in many places, including the
 Microsoft Terminal.
 
