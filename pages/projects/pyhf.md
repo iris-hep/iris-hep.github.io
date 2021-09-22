@@ -55,6 +55,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- Michael J. Baker, Darius A. Faroughy, and Sokratis Trifinopoulos. Collider Signatures of Coannihilating Dark Matter in Light of the B-Physics Anomalies. Sep 2021. arXiv:2109.08689.
 - Kyle Cranmer and others. Publishing statistical models: Getting the most out of particle physics experiments. Sep 2021. [arXiv:2109.04981](https://arxiv.org/abs/2109.04981).
 - Kyle Cranmer and Alexander Held. Building and steering binned template fits with cabinetry. _EPJ Web Conf._, 251:03067, 2021. [doi:10.1051/epjconf/202125103067](https://doi.org/10.1051/epjconf/202125103067).
 - Jean-Loup Tastet, Oleg Ruchayskiy, and Inar Timiryasov. Reinterpreting the ATLAS bounds on heavy neutral leptons in a realistic neutrino oscillation model. July 2021. [arXiv:2107.12980](https://arxiv.org/abs/2107.12980).
