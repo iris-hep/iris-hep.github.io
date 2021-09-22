@@ -13,16 +13,19 @@ team:
  - alexander-held
 ---
 
-[![CI status](https://github.com/alexander-held/cabinetry/workflows/CI/badge.svg)](https://github.com/alexander-held/cabinetry/actions?query=workflow%3ACI)
+[![CI status](https://github.com/scikit-hep/cabinetry/workflows/CI/badge.svg)](https://github.com/scikit-hep/cabinetry/actions?query=workflow%3ACI)
 [![Documentation Status](https://readthedocs.org/projects/cabinetry/badge/?version=latest)](https://cabinetry.readthedocs.io/en/latest/?badge=latest)
-[![codecov](https://codecov.io/gh/alexander-held/cabinetry/branch/master/graph/badge.svg)](https://codecov.io/gh/alexander-held/cabinetry)
+[![codecov](https://codecov.io/gh/scikit-hep/cabinetry/branch/master/graph/badge.svg)](https://codecov.io/gh/scikit-hep/cabinetry)
 [![PyPI version](https://badge.fury.io/py/cabinetry.svg)](https://badge.fury.io/py/cabinetry)
-[![python version](https://img.shields.io/pypi/pyversions/cabinetry.svg)](https://pypi.org/project/cabinetry/)
+[![Python version](https://img.shields.io/pypi/pyversions/cabinetry.svg)](https://pypi.org/project/cabinetry/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-[`cabinetry`](https://github.com/alexander-held/cabinetry) is a Python package to build and steer (profile likelihood) template fits.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4742752.svg)](https://doi.org/10.5281/zenodo.4742752)
+[![Scikit-HEP](https://scikit-hep.org/assets/images/Scikit--HEP-Project-blue.svg)](https://scikit-hep.org/)
+
+[`cabinetry`](https://github.com/scikit-hep/cabinetry) is a Python package to build and steer (profile likelihood) template fits.
 It interfaces libraries developed within IRIS-HEP and the wider HEP Python ecosystem to make it easier for an analyzer to run their statistical inference pipeline.
-The code can be found on [![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/alexander-held/cabinetry), while [documentation is provided on readthedocs](https://cabinetry.readthedocs.io/).
+The code can be found on GitHub: [scikit-hep/cabinetry](https://github.com/scikit-hep/cabinetry), while [documentation is provided on readthedocs](https://cabinetry.readthedocs.io/).
 An [example notebook runs through Binder](https://mybinder.org/v2/gh/cabinetry/cabinetry-tutorials/master?filepath=example.ipynb) to see `cabinetry` in action.
 
 Many analyses at the LHC use the `ROOT` implementation of [HistFactory](https://cds.cern.ch/record/1456844) or the newer pythonic implementation [pyhf](pyhf) to construct their statistical model.
