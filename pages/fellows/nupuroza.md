@@ -27,7 +27,7 @@ presentations:
     url: https://indico.cern.ch/event/1071399/contributions/4505116/attachments/2306008/3923111/Deep%20Learning%20for%20Ambiguity%20Resolution%20in%20ACTS.pdf
     meeting: IRIS-HEP Topical Meetings
     meetingurl: https://indico.cern.ch/event/1071399/
-    recordingurl: 
+    recordingurl: https://www.youtube.com/watch?v=XIq9DyWIOP8&t=1174s
     focus-area: ia
 current_status: >
 ---
