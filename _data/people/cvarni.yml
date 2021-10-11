@@ -40,7 +40,7 @@ presentations:
   date: 2021-09-17
   url: https://indico.cern.ch/event/1076499/
   meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/event/1076499/ 
+  meetingurl: https://indico.cern.ch/event/1076499/
   project: acts
   location: CERN
 - title: Discussion on seeding algorithm EDM
