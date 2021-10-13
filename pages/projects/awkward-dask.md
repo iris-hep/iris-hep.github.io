@@ -2,7 +2,7 @@
 permalink: /projects/awkward-dask.html
 layout: project
 title: Awkward-Dask
-shortname: Awkward-Dask
+shortname: awkward-dask
 pagetype: project
 image: logos/awkward-dask.svg
 logowidth: 50%
