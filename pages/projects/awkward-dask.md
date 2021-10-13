@@ -1,0 +1,18 @@
+---
+permalink: /projects/awkward-dask.html
+layout: project
+title: Awkward-Dask
+shortname: Awkward-Dask
+pagetype: project
+image: logos/awkward-dask.svg
+logowidth: 50%
+blurb: Developing a new high-level Dask collection for Awkward Arrays
+focus-area: as
+team:
+ - jpivarski
+ - 
+---
+
+First component of the Awkward Array CSSI ([OAC-2103945](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103945), a spin-off project of IRIS-HEP,
+is the development of a new Dask container type representing Awkward Arrays. This work is in developement at
+[ContinuumIO/dask-awkward](https://github.com/ContinuumIO/dask-awkward/) in collaboration with [Anaconda](https://www.anaconda.com/).
