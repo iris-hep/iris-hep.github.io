@@ -10,7 +10,11 @@ blurb: Developing a new high-level Dask collection for Awkward Arrays
 focus-area: as
 team:
  - jpivarski
- -
+ - douglasdavis (Anaconda)
+ - martindurant (Anaconda)
+ - ioifrim
+ - ianna
+ - and others
 ---
 
 First component of the Awkward Array CSSI ([OAC-2103945](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103945), a spin-off project of IRIS-HEP,
