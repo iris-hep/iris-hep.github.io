@@ -50,3 +50,11 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1081289/
   project: acts
   location: CERN
+- title: ACTS Seeding Algorithm and Tool in Athena
+  date: 2021-10-15
+  url: https://indico.cern.ch/event/1081290/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1081290/
+  project: acts
+  location: CERN
+
