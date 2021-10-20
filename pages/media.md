@@ -6,6 +6,7 @@ title: Media, Press Releases and Press Mentions
 
 ## Media, Press Releases and Press Mentions
 
+  * 14 Oct 2021 - [Using cibuildwheel to manage the scikit-HEP packages (Heny Schreiner)](https://youtu.be/8MfmY0IaeT4), Talk Python To Me podcast
   * 13 Jul 2021 - [Blink and it’s gone](https://www.symmetrymagazine.org/article/blink-and-its-gone)
   * 19 May 2021 - ["Building a Career Path for Research Software Engineers"](https://research.nd.edu/news/building-a-career-path-for-research-software-engineers/), Notre Dame Research (repost from IRIS-HEP website)
   * 29 Jan 2021 - ["Beyond ventilators: Princeton engineers design, build and program a noninvasive breathing system for COVID-19 patients"](https://www.princeton.edu/news/2021/01/29/beyond-ventilators-princeton-engineers-design-build-and-program-noninvasive), Princeton University
