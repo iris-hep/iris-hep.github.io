@@ -5,7 +5,7 @@ shortname: Jason-Wong
 permalink: /fellows/Jason-Wong.html
 fellow-name: Jason Wong
 title: Jason Wong - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-05-19
   end: 2021-08-24
@@ -20,5 +20,12 @@ mentors:
   - Daniel Murnane (Lawrence Berkeley National Laboratory)
 proposal: /assets/pdf/Fellow-Jason-Wong-Proposal.pdf
 presentations:
+  - title:  "LEGNN Jet Tagging Network"
+    date: 2021-09-14
+    url: https://indico.cern.ch/event/1074442/contributions/4518232/attachments/2308996/3928812/Lorentz-Equivariant-Network-Presentation.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1074442/
+    recordingurl: https://youtu.be/HBETq2zCyY8
+    focus-area: ia
 current_status: >
 ---

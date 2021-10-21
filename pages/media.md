@@ -6,6 +6,7 @@ title: Media, Press Releases and Press Mentions
 
 ## Media, Press Releases and Press Mentions
 
+  * 21 Oct 2021 - [Kyle Cranmer chosen to lead American Family Insurance Data Science Institute](https://news.wisc.edu/kyle-cranmer-chosen-to-lead-american-family-insurance-data-science-institute/), UW-Madison
   * 14 Oct 2021 - [Using cibuildwheel to manage the scikit-HEP packages (Heny Schreiner)](https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages), Talk Python To Me podcast [<i aria-hidden="true" class="fas fa-video" title="Video"></i>](https://youtu.be/8MfmY0IaeT4)
   * 13 Jul 2021 - [Blink and it’s gone](https://www.symmetrymagazine.org/article/blink-and-its-gone)
   * 19 May 2021 - ["Building a Career Path for Research Software Engineers"](https://research.nd.edu/news/building-a-career-path-for-research-software-engineers/), Notre Dame Research (repost from IRIS-HEP website)
