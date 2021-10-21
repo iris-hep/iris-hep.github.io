@@ -13,7 +13,6 @@ photo: /assets/images/team/Santam-Roy-Choudhury.jpg
 institution: National Institute of Technology, Durgapur
 e-mail: santamdev404@gmail.com
 project_title: Automating Awkward Array Testing
-focus-area:
 project_goal: >
     Awkward Array is a popular library for nested, variable-sized data, including
     arbitrary-length lists, records, mixed types, and missing data, using NumPy-like idioms.
@@ -28,13 +27,13 @@ mentors:
 
 proposal: /assets/pdf/Fellow-Santam-Roy-Choudhury-Proposal.pdf
 presentations:
-  - title:
-    date:
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
+  - title: Automaing Awkward Array Testing
+    date: 2021-09-20
+    url: https://indico.cern.ch/event/1071402/contributions/4505119/attachments/2309188/3929152/IRIS-HEP%202021%20-%20Santam%20Roy%20Choudhury%20Google%20Slides.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1071402/
+    recordingurl: https://youtu.be/uSCABMAsd64
+    focus-area: Producing Tests Data
 current_status: >
 
 ---
