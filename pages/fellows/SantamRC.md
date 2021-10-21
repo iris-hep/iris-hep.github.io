@@ -5,7 +5,7 @@ shortname: SantamRC
 permalink: /fellows/SantamRC.html
 fellow-name: Santam Roy Choudhury
 title: Santam Roy Choudhury - IRIS-HEP Fellow
-active: true
+active: false
 dates:
   start: 2021-06-01
   end: 2021-08-31
