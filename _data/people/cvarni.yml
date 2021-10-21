@@ -36,3 +36,25 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1061445/
   project: acts
   location: LBNL
+- title: EDM Timing Studies
+  date: 2021-09-17
+  url: https://indico.cern.ch/event/1076499/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1076499/
+  project: acts
+  location: CERN
+- title: Discussion on seeding algorithm EDM
+  date: 2021-10-01
+  url: https://indico.cern.ch/event/1081289/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1081289/
+  project: acts
+  location: CERN
+- title: ACTS Seeding Algorithm and Tool in Athena
+  date: 2021-10-15
+  url: https://indico.cern.ch/event/1081290/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1081290/
+  project: acts
+  location: CERN
+
