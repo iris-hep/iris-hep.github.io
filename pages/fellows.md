@@ -80,8 +80,8 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
                                | reverse
                                | iris_hep_fellow_sort
                                | reverse %}
-{% assign active-fellows = fellows | select: "active" %}
-{% assign inactive-fellows = fellows | reject: "active" %}
+{% assign active-fellows = fellows | select: "active" | where_exp: "item", "item.hidden != true" %}
+{% assign inactive-fellows = fellows | reject: "active" | where_exp: "item", "item.hidden != true" %}
 
 
 {%- if active-fellows.size > 0 %}
