@@ -2,7 +2,8 @@
 permalink: /fellows/MaggieRamsay.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
+hidden: true
 title: Maggie Ramsay - IRIS-HEP Fellow
 fellow-name: Maggie Ramsay
 shortname: Maggie

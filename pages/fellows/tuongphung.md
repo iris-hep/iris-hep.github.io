@@ -5,7 +5,8 @@ shortname: tuongphung
 permalink: /fellows/tuongphung.html
 fellow-name: Tuong Phung
 title: Tuong Phung - IRIS-HEP Fellow
-active: True
+active: false
+hidden: true
 dates:
   start: 2021-06-01
   end: 2021-08-31
