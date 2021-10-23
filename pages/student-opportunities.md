@@ -1,10 +1,10 @@
 ---
 permalink: /student-opportunities.html
 layout: default
-title: Opportunities for students
+title: Research Experience Opportunities for students
 ---
 
-## Opportunities for students
+## Research Experience Opportunities for students
 
   * The [IRIS-HEP Fellows program](https://iris-hep.org/fellows.html) provides summer projects for undergraduates to work remotely with experienced researcher mentors on research software projects and for graduate students to travel for 3 months to work with a mentor.
   * The [Univ. of Michigan - CERN Summer Research Experience for Undergraduates program](http://www.um-cern-reu.org/) provides undergraduate students from around the United States an opportunity to conduct nine weeks of summer research with some of the world's leading physicists at CERN in different research fields.
