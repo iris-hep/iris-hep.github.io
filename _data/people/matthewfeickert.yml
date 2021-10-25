@@ -115,6 +115,7 @@ presentations:
 - title: 'pyhf: a pure Python statistical fitting library with tensors and autograd'
   date: 2020-07-07
   url: https://doi.org/10.25080/Majora-342d178e-023
+  video: https://youtu.be/FrH9s3eB6fU
   meeting: 19th Python in Science Conference (SciPy 2020)
   meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
   location: Virtual
@@ -124,6 +125,7 @@ presentations:
 - title: 'pyhf Tutorial: Accelerating analyses and preserving likelihoods'
   date: 2020-07-16
   url: https://indico.cern.ch/event/882824/contributions/3931292/
+  video: https://youtu.be/V0Li05ijv0U
   meeting: PyHEP 2020 Workshop
   meetingurl: https://indico.cern.ch/event/882824/
   location: Virtual
@@ -189,6 +191,7 @@ presentations:
 - title: 'PyHEP pyhf Tutorial'
   date: 2021-04-07
   url: https://indico.cern.ch/event/985425/
+  video: https://youtu.be/2s5JpVnC7OY
   meeting: PyHEP Python Module of the Month (April 2021)
   meetingurl: https://indico.cern.ch/event/985425/
   location: Virtual
@@ -198,8 +201,29 @@ presentations:
 - title: 'Distributed statistical inference with pyhf enabled through funcX'
   date: 2021-05-20
   url: https://indico.cern.ch/event/948465/contributions/4324013/
+  video: https://cds.cern.ch/record/2767521
   meeting: vCHEP 2021 Conference
   meetingurl: https://indico.cern.ch/event/948465/
+  location: Virtual
+  focus-area: as
+  project: pyhf
+
+- title: 'Distributed statistical inference with pyhf'
+  date: 2021-07-06
+  url: https://indico.cern.ch/event/1019958/contributions/4418598/
+  video: https://youtu.be/Azpa5Aa-12w
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1019958/
+  location: Virtual
+  focus-area: as
+  project: pyhf
+
+- title: 'Distributed statistical inference with pyhf powered by funcX'
+  date: 2021-07-15
+  url: https://doi.org/10.25080/majora-1b6fd038-023
+  video: https://youtu.be/rwaxVDWZS8A
+  meeting: 20th Python in Science Conference (SciPy 2021)
+  meetingurl: https://conference.scipy.org/proceedings/scipy2021/slides.html
   location: Virtual
   focus-area: as
   project: pyhf

@@ -71,6 +71,10 @@ inspire:
   authors:
     min-len: 10
     trunc-len: 1
+  open-science-categories:
+    - algo
+    - general
+    - physics
 
 iris-hep:
   extra-focus-areas:

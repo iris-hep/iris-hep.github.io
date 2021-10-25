@@ -10,9 +10,13 @@ A number of employment opportunities exist with the universities involved in IRI
 
 ### Princeton University
   * [Postdoc on Computational High Energy Physics](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=21021)
+  * [Postdoc on High Energy Physics / Machine Learning / Trigger](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=21061)
 
 ### University of Washington, Seattle
   * [Postdoc on Exotics Physics and IRIS-HEP Analysis Software](https://inspirehep.net/jobs/1863400)
+
+### University of Nebraska-Lincoln
+  * [System Administrator](https://employment.unl.edu/postings/74814)
 
 # Other positions of interest for HEP people
 

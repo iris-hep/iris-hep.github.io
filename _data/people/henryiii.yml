@@ -199,14 +199,25 @@ presentations:
   focus-area: as
   project: histogram
   location: Virtual
+  video: https://youtu.be/ERraTfHkPd0
 - title: The boost-histogram package
   date: 2020-07-17
   url: https://zenodo.org/record/4147611
   meeting: PyHEP 2020 Workshop
-  meetingurl: https://indico.cern.ch/event/882824/
+  meetingurl: https://indico.cern.ch/PyHEP2020
   focus-area: as
   project: histogram
   location: Virtual
+  video: https://youtu.be/-g0mxopCJT8
+- title: High-performance Python
+  date: 2020-07-15
+  url: https://indico.cern.ch/event/882824/contributions/3931295/
+  meeting: PyHEP 2020 Workshop
+  meetingurl: https://indico.cern.ch/PyHEP2020
+  focus-area: ssc
+  project:
+  location: Virtual
+  video: https://youtu.be/kKroC93_jyg
 - title: 'High-performance Python: CPUs'
   date: 2020-11-04
   url: https://researchcomputing.princeton.edu/events/high-performance-python-cpus-1
@@ -254,3 +265,48 @@ presentations:
   focus-area: ssc
   project:
   location: Virtual
+- title: Level Up Your Python (Part I)
+  date: 2021-07-05
+  url: https://indico.cern.ch/event/1019958/contributions/4430355/
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/e/PyHEP2021
+  focus-area: ssc
+  project:
+  location: Virtual
+  video: https://youtu.be/qW6DA52cpv4
+- title: Level Up Your Python (Part II)
+  date: 2021-07-06
+  url: https://indico.cern.ch/event/1019958/contributions/4430422/
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/e/PyHEP2021
+  focus-area: ssc
+  project:
+  location: Virtual
+  video: https://youtu.be/Kfspje3s1y8
+- title: High-Performance Histogramming for HEP Analysis
+  date: 2021-07-07
+  url: https://indico.cern.ch/event/1019958/contributions/4430375/
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/e/PyHEP2021
+  focus-area: as
+  project: histogram
+  location: Virtual
+  video: https://youtu.be/tmBA4zwpiO0
+- title: Powerful Python Packaging for Scientific Codes
+  date: 2021-07-08
+  url: https://indico.cern.ch/event/1019958/contributions/4418546/
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/e/PyHEP2021
+  focus-area: as
+  project:
+  location: Virtual
+  video: https://youtu.be/jewb5q6_Rpk
+- title: pybind11
+  date: 2021-07-16
+  url: https://na.eventscloud.com/ehome/index.php?eventid=604197&tabid=1110004
+  meeting: SciPy 2021
+  meetingurl: https://www.scipy2021.scipy.org
+  focus-area: as
+  project: histogram
+  location: Virtual
+  video: https://youtu.be/l3TuzZpPewY?t=1325

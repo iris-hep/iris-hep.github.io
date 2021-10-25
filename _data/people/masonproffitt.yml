@@ -57,3 +57,20 @@ presentations:
   location: Virtual
   focus-area: as
   project: func-adl
+- title: "FuncADL: Functional Analysis Description Language"
+  date: 2021-07-09
+  url: https://indico.cern.ch/event/1019958/timetable/#31-funcadl-functional-analysis
+  video: https://youtu.be/58KR97xdYlU
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1019958/
+  location: Virtual
+  focus-area: as
+  project: func-adl
+- title: Uproot Tutorial
+  date: 2021-08-27
+  url: https://indico.cern.ch/event/1058873/timetable/#b-430459-python-for-analysis-2
+  meeting: Software Carpentry (Virtual)
+  meetingurl: https://indico.cern.ch/event/1058873/
+  location: Virtual
+  focus-area: as
+  project: uproot

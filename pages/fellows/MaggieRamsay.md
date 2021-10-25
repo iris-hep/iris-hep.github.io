@@ -2,7 +2,8 @@
 permalink: /fellows/MaggieRamsay.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
+hidden: true
 title: Maggie Ramsay - IRIS-HEP Fellow
 fellow-name: Maggie Ramsay
 shortname: Maggie
@@ -11,7 +12,7 @@ focus-area:
 dates:
   start: 2021-06-01
   end: 2021-08-31
-# photo: /assets/images/team/addlater.png
+photo: /assets/images/team/maggie-ramsay.png
 institution: University of Nebraska Lincoln
 e-mail: mramsay4@huskers.unl.edu
 mentors:

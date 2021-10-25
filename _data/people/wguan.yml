@@ -100,3 +100,24 @@ presentations:
   url: https://indico.cern.ch/event/948465/contributions/4324004/
   focus-area: doma
   project: idds
+- title: update on iDDS
+  date: 2021-06-03
+  meeting: ATLAS ADC WFMS meeting
+  meetingurl: https://indico.cern.ch/event/1045313/
+  url: https://indico.cern.ch/event/1045313/contributions/4391372/attachments/2257750/3831377/iDDS_status_updates%281%29.pdf
+  focus-area: doma
+  project: idds
+- title: iDDS
+  date: 2021-06-16
+  meeting: ADC @ ATLAS Software & Computing Week
+  meetingurl: https://indico.cern.ch/event/1040142/
+  url: https://indico.cern.ch/event/1040142/contributions/4397646/subcontributions/341340/attachments/2265319/3846219/idds_atlas_s%26c_20210614.pdf
+  focus-area: doma
+  project: idds
+- title: An intelligent Data Delivery Service (iDDS) for and beyond the ATLAS experiment
+  date: 2021-07-12
+  meeting: 2021 Meeting of the Division of Particles and Fields of the American Physical Society (DPF21)
+  meetingurl: https://indico.cern.ch/event/1034469/
+  url: https://indico.cern.ch/event/1034469/contributions/4434634/
+  focus-area: doma
+  project: idds

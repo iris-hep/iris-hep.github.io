@@ -2,7 +2,7 @@
 permalink: /fellows/OmarAlterkait.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
 title: Omar Alterkait - IRIS-HEP Fellow
 fellow-name: Omar Alterkait
 shortname: Omar

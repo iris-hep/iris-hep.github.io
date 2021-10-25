@@ -5,7 +5,7 @@ shortname: awang
 permalink: /fellows/awang.html
 fellow-name: Aaron Wang
 title: Aaron Wang - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-01-04
   end: 2021-06-12
@@ -20,5 +20,11 @@ mentors:
   - Heiko Mueller (NYU)
 proposal: /assets/pdf/Fellow-Aaron-Wang-Proposal.pdf
 presentations:
-
+  - title:  "Jupyter Notebook Compatibility with ROB (Reproducible Open Benchmarks for Data Analysis Platform"
+    date: 2021-06-28
+    url: https://indico.cern.ch/event/1041106/contributions/4373474/attachments/2272487/3859697/6_28%20IRIS-HEP.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1041106/
+    recordingurl: https://www.youtube.com/watch?v=2BnMALmU5CQ
+    focus-area: as
 ---

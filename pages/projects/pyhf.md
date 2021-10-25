@@ -55,19 +55,25 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- ATLAS Collaboration. Implementation of simplified likelihoods in HistFactory for searches for supersymmetry. Geneva, Sep 2021. [https://cds.cern.ch/record/2782654](https://cds.cern.ch/record/2782654).
+- Michael J. Baker, Darius A. Faroughy, and Sokratis Trifinopoulos. Collider Signatures of Coannihilating Dark Matter in Light of the B-Physics Anomalies. Sep 2021. [arXiv:2109.08689](https://arxiv.org/abs/2109.08689).
+- Kyle Cranmer and others. Publishing statistical models: Getting the most out of particle physics experiments. Sep 2021. [arXiv:2109.04981](https://arxiv.org/abs/2109.04981).
+- Kyle Cranmer and Alexander Held. Building and steering binned template fits with cabinetry. _EPJ Web Conf._, 251:03067, 2021. [doi:10.1051/epjconf/202125103067](https://doi.org/10.1051/epjconf/202125103067).
+- Jean-Loup Tastet, Oleg Ruchayskiy, and Inar Timiryasov. Reinterpreting the ATLAS bounds on heavy neutral leptons in a realistic neutrino oscillation model. July 2021. [arXiv:2107.12980](https://arxiv.org/abs/2107.12980).
 - ATLAS Collaboration. Search for chargino&ndash;neutralino pair production in final states with three leptons and missing transverse momentum in s√=13 TeV pp collisions with the ATLAS detector. June 2021. [arXiv:2106.01676](https://arxiv.org/abs/2106.01676).
 - Belle II Collaboration. Search for B⁺→ K⁺νν̅  decays using an inclusive tagging method at Belle II. Contribution to the 2021 EW session of the 55th Rencontres de Moriond. May 2021. [arXiv:2105.05754](https://arxiv.org/abs/2105.05754).
 - Belle II Collaboration. Search for B⁺→ K⁺νν̅  decays using an inclusive tagging method at Belle II. Apr 2021. [arXiv:2104.12624](https://arxiv.org/abs/2104.12624).
 - Andrei Angelescu, Damir Bečirević, Darius A. Faroughy, Florentin Jaffredo, and Olcyr Sumensari. On the single leptoquark solutions to the _B_-physics anomalies. Mar 2021. [arXiv:2103.12504](https://arxiv.org/abs/2103.12504).
+- Matthew Feickert, Lukas Heinrich, Giordon Stark, and Ben Galewsky. Distributed statistical inference with pyhf enabled through funcX. _EPJ Web Conf._, 251:02070, 2021. [arXiv:2103.02182](https://arxiv.org/abs/2103.02182), [doi:10.1051/epjconf/202125102070](https://doi.org/10.1051/epjconf/202125102070).
 - Rodolfo Capdevilla, Federico Meloni, Rosa Simoniello, and Jose Zurita. Hunting wino and higgsino dark matter at the muon collider with disappearing tracks. Feb 2021. [arXiv:2102.11292](https://arxiv.org/abs/2102.11292).
 - Vincenzo Cirigliano, Kaori Fuyuto, Christopher Lee, Emanuele Mereghetti, and Bin Yan. Charged Lepton Flavor Violation at the EIC. Feb 2021. [arXiv:2102.06176](https://arxiv.org/abs/2102.06176).
 - Jack Y. Araz and others. Proceedings of the second MadAnalysis 5 workshop on LHC recasting in Korea. _Mod. Phys. Lett. A_, 36(01):2102001, 2021. [arXiv:2101.02245](https://arxiv.org/abs/2101.02245), [doi:10.1142/S0217732321020016](https://doi.org/10.1142/S0217732321020016).
-- Simone Amoroso, Deepak Kar, and Matthias Schott. How to discover QCD Instantons at the LHC. In _Topological Effects in the Standard Model: Instantons, Sphalerons and Beyond at LHC_. Dec 2020. [arXiv:2012.09120](https://arxiv.org/abs/2012.09120).
+- Simone Amoroso, Deepak Kar, and Matthias Schott. How to discover QCD Instantons at the LHC. Eur. Phys. J. C, 81(7):624, Dec 2020. [arXiv:2012.09120](https://arxiv.org/abs/2012.09120), [doi:10.1140/epjc/s10052-021-09412-1](https://doi.org/10.1140/epjc/s10052-021-09412-1).
 - Wolfgang Waltenberger, André Lessa, and Sabine Kraml. Artificial Proto-Modelling: Building Precursors of a Next Standard Model from Simplified Model Results. Dec 2020. [arXiv:2012.12246](https://arxiv.org/abs/2012.12246), [doi: 10.1007/JHEP03(2021)207](https://doi.org/10.1007/JHEP03(2021)207).
 - Gaël Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-González, Wolfgang Waltenberger, and Alicia Wongel. New developments in SModelS. In _Tools for High Energy Physics and Cosmology_. Dec 2020. [arXiv:2012.08192](https://arxiv.org/abs/2012.08192).
 - Matthew Feickert, Lukas Heinrich, and Giordon Stark. Likelihood preservation and statistical reproduction of searches for new physics. EPJ Web Conf., Nov 2020. [doi:10.1051/epjconf/202024506017](https://doi.org/10.1051/epjconf/202024506017).
 - Gaël Alguero, Sabine Kraml, and Wolfgang Waltenberger. A SModelS interface for pyhf likelihoods. Sep 2020. [arXiv:2009.01809](https://arxiv.org/abs/2009.01809).
-- ATLAS Collaboration. Search for new phenomena in events with two opposite-charge leptons, jets and missing transverse momentum in pp collisions at s√=13 TeV with the ATLAS detector. Geneva, Aug 2020. URL: [https://cds.cern.ch/record/2684863](https://cds.cern.ch/record/2728056).
+- ATLAS Collaboration. Search for new phenomena in events with two opposite-charge leptons, jets and missing transverse momentum in pp collisions at s√=13 TeV with the ATLAS detector. Geneva, Aug 2020. [https://cds.cern.ch/record/2684863](https://cds.cern.ch/record/2728056).
 - Jeffrey Krupa and others. GPU coprocessors as a service for deep learning inference in high energy physics. July 2020. [arXiv:2007.10359](https://arxiv.org/abs/2007.10359).
 - Charanjit K. Khosa, Sabine Kraml, Andre Lessa, Philipp Neuhuber, and Wolfgang Waltenberger. SModelS database update v1.2.3. LHEP, 158:2020, May 2020. [arXiv:2005.00555](https://arxiv.org/abs/2005.00555), [doi:10.31526/lhep.2020.158](https://doi.org/10.31526/lhep.2020.158).
 - Waleed Abdallah and others. Reinterpretation of LHC Results for New Physics: Status and Recommendations after Run 2. 2020. [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
@@ -75,7 +81,7 @@ Updating list of citations and use cases of `pyhf`:
 - Andrei Angelescu, Darius A. Faroughy, and Olcyr Sumensari. Lepton Flavor Violation and Dilepton Tails at the LHC. Eur. Phys. J. C, 80(7):641, 2020. [arXiv:2002.05684](https://arxiv.org/abs/2002.05684), [doi:10.1140/epjc/s10052-020-8210-5](https://doi.org/10.1140/epjc/s10052-020-8210-5).
 - B.C. Allanach, Tyler Corbett, and Maeve Madigan. Sensitivity of Future Hadron Colliders to Leptoquark Pair Production in the Di-Muon Di-Jets Channel. Eur. Phys. J. C, 80(2):170, 2020. [arXiv:1911.04455](https://arxiv.org/abs/1911.04455), [doi:10.1140/epjc/s10052-020-7722-3](https://doi.org/10.1140/epjc/s10052-020-7722-3).
 - J. Alison and others. Higgs boson potential at colliders: status and perspectives. In 2019. [arXiv:1910.00012](https://arxiv.org/abs/1910.00012).
-- ATLAS Collaboration. Reproducing searches for new physics with the ATLAS experiment through publication of full statistical likelihoods. Geneva, Aug 2019. URL: [https://cds.cern.ch/record/2684863](https://cds.cern.ch/record/2684863).
+- ATLAS Collaboration. Reproducing searches for new physics with the ATLAS experiment through publication of full statistical likelihoods. Geneva, Aug 2019. [https://cds.cern.ch/record/2684863](https://cds.cern.ch/record/2684863).
 - Johann Brehmer, Felix Kling, Irina Espejo, and Kyle Cranmer. MadMiner: Machine learning-based inference for particle physics. Comput. Softw. Big Sci., 4(1):3, 2020. [arXiv:1907.10621](https://arxiv.org/abs/1907.10621), [doi:10.1007/s41781-020-0035-2](https://doi.org/10.1007/s41781-020-0035-2).
 - Lukas Heinrich, Holger Schulz, Jessica Turner, and Ye-Ling Zhou. Constraining A₄ Leptonic Flavour Model Parameters at Colliders and Beyond. 2018. [arXiv:1810.05648](https://arxiv.org/abs/1810.05648).
 
@@ -83,6 +89,7 @@ Updating list of citations and use cases of `pyhf`:
 
 Updating list of HEPData entries for publications using `HistFactory` JSON likelihoods:
 
+- Search for squarks and gluinos in final states with jets and missing transverse momentum using 139 fb−1 of s√=13 TeV pp collision data with the ATLAS detector. 2021. [doi:10.17182/hepdata.95664](https://doi.org/10.17182/hepdata.95664).
 - Search for trilepton resonances from chargino and neutralino pair production in s√=13 TeV pp collisions with the ATLAS detector. 2020. [doi:10.17182/hepdata.99806](https://doi.org/10.17182/hepdata.99806).
 - Search for displaced leptons in s√=13 TeV pp collisions with the ATLAS detector. 2020. [doi:10.17182/hepdata.98796](https://doi.org/10.17182/hepdata.98796).
 - Search for squarks and gluinos in final states with same-sign leptons and jets using 139 fb−1 of data collected with the ATLAS detector. 2020. [doi:10.17182/hepdata.91214](https://doi.org/10.17182/hepdata.91214).
