@@ -2,7 +2,7 @@
 permalink: /fellows/CaitlinPatterson.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
 title: Caitlin Patterson - IRIS-HEP Fellow
 fellow-name: Caitlin Patterson
 project_title: Scaling up implementations of GNNs with FPGA co-processors for charged particle track reconstruction

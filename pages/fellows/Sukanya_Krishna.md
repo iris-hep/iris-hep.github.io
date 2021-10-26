@@ -5,7 +5,7 @@ shortname: Suki
 permalink: /fellows/SukanyaKrishna.html
 fellow-name: Sukanya Krishna
 title: Sukanya Krishna - IRIS-HEP Fellow
-active: true
+active: false
 dates:
  start: 2021-06-21
  end: 2021-09-10

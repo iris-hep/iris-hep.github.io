@@ -5,7 +5,7 @@ shortname: 4eshanb
 permalink: /fellows/4eshanb.html
 fellow-name: Eshan Bhargava
 title: Eshan Bhargava - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-06-14
   end: 2021-09-10
