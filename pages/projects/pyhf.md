@@ -89,11 +89,13 @@ Updating list of citations and use cases of `pyhf`:
 
 Updating list of HEPData entries for publications using `HistFactory` JSON likelihoods:
 
-- Search for squarks and gluinos in final states with jets and missing transverse momentum using 139 fb−1 of s√=13 TeV pp collision data with the ATLAS detector. 2021. [doi:10.17182/hepdata.95664](https://doi.org/10.17182/hepdata.95664).
 - Search for trilepton resonances from chargino and neutralino pair production in s√=13 TeV pp collisions with the ATLAS detector. 2020. [doi:10.17182/hepdata.99806](https://doi.org/10.17182/hepdata.99806).
 - Search for displaced leptons in s√=13 TeV pp collisions with the ATLAS detector. 2020. [doi:10.17182/hepdata.98796](https://doi.org/10.17182/hepdata.98796).
-- Search for squarks and gluinos in final states with same-sign leptons and jets using 139 fb−1 of data collected with the ATLAS detector. 2020. [doi:10.17182/hepdata.91214](https://doi.org/10.17182/hepdata.91214).
-- Search for direct production of electroweakinos in final states with one lepton, missing transverse momentum and a Higgs boson decaying into two b-jets in (pp) collisions at s√=13 TeV with the ATLAS detector. 2020. [doi:10.17182/hepdata.90607](https://doi.org/10.17182/hepdata.90607).
+- Search for squarks and gluinos in final states with jets and missing transverse momentum using 139 fb−1 of s√=13 TeV pp collision data with the ATLAS detector. 2021. [doi:10.17182/hepdata.95664](https://doi.org/10.17182/hepdata.95664).
+Search for long-lived, massive particles in events with a displaced vertex and a muon with large impact parameter in  collisions at  TeV with the ATLAS detector. 2019. [doi: 10.17182/hepdata.91760](https://doi.org/10.17182/hepdata.91760)
 - Search for chargino-neutralino production with mass splittings near the electroweak scale in three-lepton final states in s√ = 13 TeV pp collisions with the ATLAS detector. 2019. [doi:10.17182/hepdata.91127](https://doi.org/10.17182/hepdata.91127).
+- Searches for electroweak production of supersymmetric particles with compressed mass spectra in  13 TeV  collisions with the ATLAS detector. 2019. [doi:10.17182/hepdata.91374](https://doi.org/10.17182/hepdata.91374)
 - Search for direct stau production in events with two hadronic τ-leptons in s√=13 TeV pp collisions with the ATLAS detector. 2019. [doi:10.17182/hepdata.92006](https://doi.org/10.17182/hepdata.92006).
+- Search for direct production of electroweakinos in final states with one lepton, missing transverse momentum and a Higgs boson decaying into two b-jets in (pp) collisions at s√=13 TeV with the ATLAS detector. 2019. [doi:10.17182/hepdata.90607](https://doi.org/10.17182/hepdata.90607).
+- Search for squarks and gluinos in final states with same-sign leptons and jets using 139 fb−1 of data collected with the ATLAS detector. 2019. [doi:10.17182/hepdata.91214](https://doi.org/10.17182/hepdata.91214).
 - Search for bottom-squark pair production with the ATLAS detector in final states containing Higgs bosons, b-jets and missing transverse momentum. 2019. [doi:10.17182/hepdata.89408](https://doi.org/10.17182/hepdata.89408).
