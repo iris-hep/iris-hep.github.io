@@ -5,7 +5,7 @@ shortname: rkarur
 permalink: /fellows/rkarur.html
 fellow-name: Rohith Karur
 title: Rohith Karur - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-06-14
   end: 2021-09-13

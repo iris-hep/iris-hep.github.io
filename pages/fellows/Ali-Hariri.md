@@ -5,7 +5,7 @@ shortname: ahariri13
 permalink: /fellows/ahariri13.html
 fellow-name: Ali Hariri
 title: Ali Hariri - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-05-10
   end: 2021-08-10

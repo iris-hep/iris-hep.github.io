@@ -2,7 +2,7 @@
 layout: fellow
 pagetype: fellow
 permalink: /fellows/Shra1-25.html
-active: true
+active: false
 title: Shravan Chaudhari - IRIS-HEP Fellow
 fellow-name: Shravan Chaudhari
 shortname: Shra1-25
