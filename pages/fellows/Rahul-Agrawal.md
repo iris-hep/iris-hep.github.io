@@ -2,7 +2,7 @@
 permalink: /fellows/RahulAgrawal.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
 title: Rahul Agrawal - IRIS-HEP Fellow
 fellow-name: Rahul Agrawal
 shortname: Rahul

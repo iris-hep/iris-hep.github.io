@@ -5,7 +5,7 @@ shortname: mihirkatare
 permalink: /fellows/mihirkatare.html
 fellow-name: Mihir Katare
 title: Mihir Katare - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-05-31
   end: 2021-08-20
