@@ -85,10 +85,14 @@ Updating list of citations and use cases of `pyhf`:
 - Johann Brehmer, Felix Kling, Irina Espejo, and Kyle Cranmer. MadMiner: Machine learning-based inference for particle physics. Comput. Softw. Big Sci., 4(1):3, 2020. [arXiv:1907.10621](https://arxiv.org/abs/1907.10621), [doi:10.1007/s41781-020-0035-2](https://doi.org/10.1007/s41781-020-0035-2).
 - Lukas Heinrich, Holger Schulz, Jessica Turner, and Ye-Ling Zhou. Constraining A₄ Leptonic Flavour Model Parameters at Colliders and Beyond. 2018. [arXiv:1810.05648](https://arxiv.org/abs/1810.05648).
 
-### Published Likelihoods
+### Published Probability Models
 
-Updating list of HEPData entries for publications using `HistFactory` JSON likelihoods:
+Updating list of HEPData entries for publications using `HistFactory` JSON statistical models:
 
+- Search for charginos and neutralinos in final states with two boosted hadronically decaying bosons and missing transverse momentum in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.104458](https://doi.org/10.17182/hepdata.104458)
+- Search for R-parity violating supersymmetry in a final state containing leptons and many jets with the ATLAS experiment using s√=13 TeV proton-proton collision data. 2021. [doi:10.17182/hepdata.104860](https://doi.org/10.17182/hepdata.104860)
+- Search for chargino--neutralino pair production in final states with three leptons and missing transverse momentum in s√=13 TeV pp collisions with the ATLAS detector. 2021. [doi:10.17182/hepdata.95751](https://doi.org/10.17182/hepdata.95751)
+- Search for squarks and gluinos in final states with one isolated lepton, jets, and missing transverse momentum at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.97041](https://doi.org/10.17182/hepdata.97041)
 - Search for trilepton resonances from chargino and neutralino pair production in s√=13 TeV pp collisions with the ATLAS detector. 2020. [doi:10.17182/hepdata.99806](https://doi.org/10.17182/hepdata.99806).
 - Search for displaced leptons in s√=13 TeV pp collisions with the ATLAS detector. 2020. [doi:10.17182/hepdata.98796](https://doi.org/10.17182/hepdata.98796).
 - Search for squarks and gluinos in final states with jets and missing transverse momentum using 139 fb−1 of s√=13 TeV pp collision data with the ATLAS detector. 2021. [doi:10.17182/hepdata.95664](https://doi.org/10.17182/hepdata.95664).
