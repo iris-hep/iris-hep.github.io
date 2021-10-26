@@ -2,7 +2,7 @@
 permalink: /fellows/AnishBiswas.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
 title: Anish Biswas - IRIS-HEP Fellow
 fellow-name: Anish Biswas
 shortname: Anish
