@@ -22,4 +22,11 @@ mentors:
   - Hans Dembinski (TU Dortmund University)
 proposal: /assets/pdf/Fellow-ShuoLiu-proposal.pdf
 presentations:
+  - title:  https://indico.cern.ch/event/1071405/contributions/4505123/attachments/2335540/3980767/iris-hep-talk.pdf
+    date: 2021-09-27
+    url: https://indico.cern.ch/event/1071405/contributions/4505123/attachments/2335540/3980767/iris-hep-talk.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1071405/
+    recordingurl: https://youtu.be/xdryv2yeLfQ
+    focus-area: AS
 ---
