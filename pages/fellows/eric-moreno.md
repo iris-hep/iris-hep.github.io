@@ -5,7 +5,7 @@ shortname: eric-moreno
 permalink: /fellows/eric-moreno.html
 fellow-name: Eric Moreno
 title: Eric Moreno - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-06-01
   end: 2021-08-31
