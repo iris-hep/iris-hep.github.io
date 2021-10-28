@@ -161,3 +161,13 @@ presentations:
   - doma
   - as
   - ssc
+- title: "Panel: Intersection of Large-Scale Experimental Science and High-Performance Computing"
+  date: 2021-11-19
+  url: https://wordpress.cels.anl.gov/xloop-2021
+  meeting: Workshop on Extreme-Scale Experiment-in-the-Loop Computing (XLOOP 2021)
+  meetingurl: https://wordpress.cels.anl.gov/xloop-2021
+  location: Virtual
+  focus-area:
+  - ia
+  - doma
+  - as
