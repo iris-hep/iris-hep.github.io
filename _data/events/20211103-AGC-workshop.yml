@@ -1,0 +1,12 @@
+name: IRIS-HEP AGC Tools 2021 Workshop
+startdate: 2021-11-03
+enddate: 2021-11-04
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1076231/
+image:
+description: >
+  Join us on Nov 3–4 to discuss tools and workflows envisioned for use at the HL-LHC. The Analysis Grand Challenge focuses on running a physics analysis at scale,
+  and includes the handling of systematic uncertainties, binned statistical analysis, reinterpretation and end-to-end optimization. In this workshop we are going
+  to be showcasing developments within IRIS-HEP and the broader HEP ecosystem.
+labels:
+- training
