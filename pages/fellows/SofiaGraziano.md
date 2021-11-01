@@ -5,7 +5,7 @@ pagetype: fellow
 shortname: sgraziano
 fellow-name: Sofia Graziano
 title: Sofia Graziano - IRIS-HEP Fellow
-active: true
+active: false
 dates:
   start: 2021-05-14
   end: 2021-08-14
