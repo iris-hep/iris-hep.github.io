@@ -5,7 +5,7 @@ shortname: decheine
 permalink: /fellows/decheine.html
 fellow-name: Nicholas Decheine
 title: Nicholas Decheine - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-05-24
   end: 2021-08-21
