@@ -4,7 +4,7 @@ pagetype: fellow
 shortname: FeistKyle
 permalink: /fellows/FeistKyle.html
 fellow-name: Kyle Feist
-active: True
+active: false
 dates:
  start: 2021-06-01
  end: 2021-08-23
