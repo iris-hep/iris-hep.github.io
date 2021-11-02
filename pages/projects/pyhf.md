@@ -90,15 +90,15 @@ Updating list of citations and use cases of `pyhf`:
 Updating list of HEPData entries for publications using `HistFactory` JSON statistical models:
 
 - Search for charginos and neutralinos in final states with two boosted hadronically decaying bosons and missing transverse momentum in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.104458](https://doi.org/10.17182/hepdata.104458)
-- Measurement of the $t\bar tt\bar t$ production cross section in $pp$ collisions at $\sqrt s$=13 TeV with the ATLAS detector. 2021. [doi:XXX]()
+- Measurement of the tt̅tt̅ production cross section in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.105039](https://doi.org/10.17182/hepdata.105039)
 - Search for R-parity violating supersymmetry in a final state containing leptons and many jets with the ATLAS experiment using s√=13 TeV proton-proton collision data. 2021. [doi:10.17182/hepdata.104860](https://doi.org/10.17182/hepdata.104860)
 - Search for chargino--neutralino pair production in final states with three leptons and missing transverse momentum in s√=13 TeV pp collisions with the ATLAS detector. 2021. [doi:10.17182/hepdata.95751](https://doi.org/10.17182/hepdata.95751)
-- Measurements of the inclusive and differential production cross sections of a top-quark-antiquark pair in association with a $Z$ boson at $\sqrt s = 13$ TeV with the ATLAS detector. 2021. URL: https://doi.org/10.17182/hepdata.100351, doi:10.17182/hepdata.100351.
+- Measurements of the inclusive and differential production cross sections of a top-quark-antiquark pair in association with a Z boson at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.100351](https://doi.org/10.17182/hepdata.100351)
 - Search for squarks and gluinos in final states with one isolated lepton, jets, and missing transverse momentum at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.97041](https://doi.org/10.17182/hepdata.97041)
 - Search for trilepton resonances from chargino and neutralino pair production in s√=13 TeV pp collisions with the ATLAS detector. 2020. [doi:10.17182/hepdata.99806](https://doi.org/10.17182/hepdata.99806).
 - Search for displaced leptons in s√=13 TeV pp collisions with the ATLAS detector. 2020. [doi:10.17182/hepdata.98796](https://doi.org/10.17182/hepdata.98796).
 - Search for squarks and gluinos in final states with jets and missing transverse momentum using 139 fb−1 of s√=13 TeV pp collision data with the ATLAS detector. 2020. [doi:10.17182/hepdata.95664](https://doi.org/10.17182/hepdata.95664).
-- Measurement of the $t\bar t$ production cross-section in the lepton+jets channel at $\sqrt s=13$ TeV with the ATLAS experiment. 2020. URL: https://doi.org/10.17182/hepdata.95748, doi:10.17182/hepdata.95748.
+- Measurement of the tt̅ production cross-section in the lepton+jets channel at s√=13 TeV with the ATLAS experiment. 2020. [doi:10.17182/hepdata.95748](https://doi.org/10.17182/hepdata.95748).
 - Search for long-lived, massive particles in events with a displaced vertex and a muon with large impact parameter in pp collisions at s√=13 TeV with the ATLAS detector. 2020. [doi:10.17182/hepdata.91760](https://doi.org/10.17182/hepdata.91760)
 - Search for chargino-neutralino production with mass splittings near the electroweak scale in three-lepton final states in s√ = 13 TeV pp collisions with the ATLAS detector. 2019. [doi:10.17182/hepdata.91127](https://doi.org/10.17182/hepdata.91127).
 - Searches for electroweak production of supersymmetric particles with compressed mass spectra in s√=13 TeV pp collisions with the ATLAS detector. 2019. [doi:10.17182/hepdata.91374](https://doi.org/10.17182/hepdata.91374)
