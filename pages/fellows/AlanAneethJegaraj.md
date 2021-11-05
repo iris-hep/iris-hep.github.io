@@ -23,4 +23,11 @@ project_goal: >
 
 proposal: /assets/pdf/Fellow-Alan-AneethJegaraj-Proposal.pdf
 presentations:
+  - title:  "Matrix Factorization for PV finding in LHCb"
+    date: 2020-10-05
+    url: https://indico.cern.ch/event/946431/contributions/3976996/attachments/2115968/3560329/Jegaraj-Fellowship-Presentation_2020.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946431/
+    recordingurl: https://www.youtube.com/watch?v=6gCp1BwQHdg
+    focus-area: ia
 ---

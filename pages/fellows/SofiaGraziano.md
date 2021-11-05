@@ -20,4 +20,12 @@ mentors:
   - Savannah Thais (Princeton University)
   - Daniel Murnane (LBL)
 proposal: /assets/pdf/SofiaGrazianoProposal.pdf
+presentations:
+  - title:  "Rotationally Equivariant Graph Neural Networks"
+    date: 2021-11-01
+    url: https://indico.cern.ch/event/1082474/contributions/4589888/attachments/2337501/3984346/Rotationally%20Equivariant%20Graph%20Neural%20Networks.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1082474/
+    recordingurl:
+    focus-area: ia
 ---

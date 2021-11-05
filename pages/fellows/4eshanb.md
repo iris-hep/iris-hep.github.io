@@ -13,6 +13,7 @@ photo: /assets/images/team/Eshan-Bhargava.jpg
 institution: University of Southern California
 e-mail: 4eshanb@gmail.com
 project_title: SkyhookDM - Ability to push back query execution to Client in case of overloaded OSDs
+focus-area: doma
 project_goal: >
   Currently, SkyhookDM allows pushing down compute operations such as selection and projection into the Ceph file system, which is the Storage Layer. However, when a large number of clients try to push down computation into OSDs at a time, the CPU and memory pressure of the OSDs may quickly increase, causing run-time side effects such as blocked and slow OSD operations.
 
@@ -24,6 +25,13 @@ mentors:
 
 proposal: /assets/pdf/Fellow-Eshan-Bhargava-Proposal.pdf
 presentations:
+  - title:  "SkyhookDM - Ability to Push back query execution to Client in case of overload OSDs"
+    date: 2021-10-25
+    url: https://indico.cern.ch/event/1071412/contributions/4505159/attachments/2333864/3977762/Eshan_Bhargava_SkyhookDM_Query_Pushback_IRIS_HEP.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1071412/
+    recordingurl: https://youtu.be/0Z7an2D-dKc
+    focus-area: doma
 
 current_status: >
 
