@@ -7,7 +7,7 @@ title: Rahul Agrawal - IRIS-HEP Fellow
 fellow-name: Rahul Agrawal
 shortname: Rahul
 project_title: Facilitate continuous benchmarking/regression testing for the critical components of SkyhookDM
-focus-area:
+focus-area: doma
 dates:
   start: 2021-06-14
   end: 2021-09-12
@@ -25,4 +25,11 @@ project_goal: >
 
 proposal: /assets/pdf/Fellow-Rahul-Agrawal_proposal.pdf
 presentations:
+  - title:  "Facilitate continuous benchmarking/regression testing for the critical components of SkyhookDM"
+    date: 2021-10-25
+    url: https://indico.cern.ch/event/1071412/contributions/4505157/attachments/2333884/3977791/Facilitate%20continuous%20benchmarking%20for%20the%20critical%20components%20of%20SkyhookDM.pptx.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1071412/
+    recordingurl: https://youtu.be/0Z7an2D-dKc
+    focus-area: doma
 ---
