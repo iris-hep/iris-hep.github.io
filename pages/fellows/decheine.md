@@ -25,7 +25,7 @@ presentations:
     url: https://indico.cern.ch/event/1082474/contributions/4551121/attachments/2337502/3984348/ServiceX%20to%20RDataFrame%20Presentation%20%281%29.pdf
     meeting: IRIS-HEP Topical Meetings
     meetingurl: https://indico.cern.ch/event/1082474/
-    recordingurl:
+    recordingurl: https://youtu.be/k6T12vY41oA
     focus-area: as
 current_status:
 ---
