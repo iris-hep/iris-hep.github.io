@@ -25,6 +25,6 @@ presentations:
     url: https://indico.cern.ch/event/1082474/contributions/4551122/attachments/2337397/3984154/Fellowship_Project_Feist.pdf
     meeting: IRIS-HEP Topical Meetings
     meetingurl: https://indico.cern.ch/event/1082474/
-    recordingurl:
+    recordingurl: https://youtu.be/k6T12vY41oA
     focus-area: ia
 ---
