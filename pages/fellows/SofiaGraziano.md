@@ -26,6 +26,6 @@ presentations:
     url: https://indico.cern.ch/event/1082474/contributions/4589888/attachments/2337501/3984346/Rotationally%20Equivariant%20Graph%20Neural%20Networks.pdf
     meeting: IRIS-HEP Topical Meetings
     meetingurl: https://indico.cern.ch/event/1082474/
-    recordingurl:
+    recordingurl: https://youtu.be/k6T12vY41oA
     focus-area: ia
 ---
