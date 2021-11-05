@@ -28,7 +28,7 @@ presentations:
     url: https://indico.cern.ch/event/1074443/contributions/4518238/attachments/2335509/3980722/IRIS_HEP_emoreno.pdf
     meeting: IRIS-HEP Topical Meetings
     meetingurl: https://indico.cern.ch/event/1074443/
-    recordingurl:
+    recordingurl: https://youtu.be/l5ZN8fjPW9c
     focus-area: ia
 current_status: >
 ---
