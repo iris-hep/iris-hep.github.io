@@ -19,5 +19,12 @@ mentors:
 - gordonwatts
 proposal: /assets/pdf/Fellow-Nicholas-Decheine-Proposal.pdf
 presentations:
-current_status:
+  - title: Implementing ServiceX data source for ROOTs RDataFrame
+    date: 2021-11-01
+    url: https://indico.cern.ch/event/1082474/contributions/4551121/attachments/2337502/3984348/ServiceX%20to%20RDataFrame%20Presentation%20%281%29.pdf
+    meeting: IRIS-HEP Fellow presentations
+    meetingurl: https://indico.cern.ch/event/1082474/
+    recordingurl: Pending
+    focus-area: doma
+
 ---
