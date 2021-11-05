@@ -27,7 +27,6 @@ presentations:
     url: https://indico.cern.ch/event/1074443/contributions/4518237/attachments/2335480/3980758/IRIS-HEP%20Domain%20Adaptation%20Presentation%20%281%29.pdf
     meeting: IRIS-HEP Topical Meetings
     meetingurl: https://indico.cern.ch/event/1074443/
-    recordingurl:
+    recordingurl: https://youtu.be/l5ZN8fjPW9c
     focus-area: ia
-
 ---
