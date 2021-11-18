@@ -431,7 +431,7 @@ presentations:
   - as
   project: null
 - title: Lessons learned in Python-C++ integration
-  date: 0001-01-01   # (not yet assigned)
+  date: 2021-12-01
   url: https://indico.cern.ch/event/855454/contributions/4605044/
   meeting: ACAT 2021
   meetingurl: https://indico.cern.ch/event/855454/
