@@ -410,3 +410,33 @@ presentations:
   - as
   project:
   - awkward
+- title: Uproot/Awkward Array tutorial for STAR
+  date: 2021-09-13
+  url: https://github.com/jpivarski-talks/2021-09-13-star-uproot-awkward-tutorial
+  meeting: STAR Junior's meeting
+  meetingurl: https://drupal.star.bnl.gov/STAR/meetings/star-collaboration-meeting-september-2021/juniors-day
+  location: online
+  focus-area:
+  - as
+  project:
+  - awkward
+  - uproot
+- title: Awkward suggestions for the Julia Workshop
+  date: 2021-09-27
+  url: https://github.com/jpivarski-talks/2021-09-27-julia-workshop-awkward
+  meeting: Julia for HEP mini-workshop
+  meetingurl: https://indico.cern.ch/event/1074269/
+  location: online
+  focus-area:
+  - as
+  project: null
+- title: Lessons learned in Python-C++ integration
+  date: 2021-12-01
+  url: https://indico.cern.ch/event/855454/contributions/4605044/
+  meeting: ACAT 2021
+  meetingurl: https://indico.cern.ch/event/855454/
+  location: hybrid
+  focus-area:
+  - as
+  project:
+  - awkward
