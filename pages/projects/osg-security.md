@@ -11,7 +11,6 @@ focus-area: osglhc
 team:
 - adciu
 - jcdrake
-- zsshah
 - HedgeMage
 ---
 
