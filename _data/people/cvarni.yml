@@ -57,4 +57,17 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1081290/
   project: acts
   location: CERN
-
+- title: Setting the tool’s properties in the JO with different configurations
+  date: 2021-11-19
+  url: https://indico.cern.ch/event/1097299/
+  meeting: Run 3 Reconstruction Job Configuration
+  meetingurl: https://indico.cern.ch/event/1097299/ 
+  project: acts
+  location: CERN
+- title: Discussion on seeding algorithm integration in Athena
+  date: 2021-11-19
+  url: https://indico.cern.ch/event/1081293/ 
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1081293/ 
+  project: acts
+  location: CERN
