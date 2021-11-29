@@ -29,3 +29,24 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1066033/
   project: acts
   location: CERN
+- title: Status of the GPU demonstrator (traccc) for Acts
+  date: 2021-10-04
+  url: https://indico.cern.ch/event/1080186/contributions/4543540/attachments/2321865/3953925/211004_CoreSW.pdf
+  meeting: Core SW / HCAF Session in S&C Week
+  meetingurl: https://indico.cern.ch/event/1080186/
+  project: acts
+  location: CERN
+- title: Detray status update
+  date: 2021-10-15
+  url: https://indico.cern.ch/event/1087025/contributions/4569689/attachments/2329031/3968256/211015_seeding_traccc.pdf
+  meeting: ACTS Parallelization Meeting
+  meetingurl: https://indico.cern.ch/event/1087025/
+  project: acts
+  location: CERN
+- title: A compile time polymorphic tracking geometry description
+  date: 2021-12-01
+  url: https://indico.cern.ch/event/855454/contributions/4605075/
+  meeting: 20th International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+  meetingurl: https://indico.cern.ch/event/855454/contributions/4605075/
+  project: acts
+  location: CERN
