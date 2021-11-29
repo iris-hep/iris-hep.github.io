@@ -9,6 +9,52 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
+- title: Analysis Facilities
+  date: 2021-11-09
+  url: https://indico.cern.ch/event/1092691/contributions/4595036/attachments/2342325/4018500/Analysis%20Facilities%20CMS%20O%26C%20R%26D.pdf
+  meeting: CMS Operations & Computing R&D meeting
+  meetingurl: https://indico.cern.ch/event/1092691/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project: coffea-casa
+- title: Scale-out with coffea
+  date: 2021-11-04
+  url: https://indico.cern.ch/event/1076231/contributions/4560394/attachments/2339657/4018539/coffea-casa%20AF%40%20AGC%282%29.pdf
+  meeting:  IRIS-HEP AGC Tools 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1076231
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project:
+    - coffea-casa
+    - agc
+- title: Analysis Grand Challenge
+  date: 2021-11-02
+  url: https://indico.cern.ch/event/1033028/contributions/4551818/attachments/2337969/4018481/Analysis%20Grand%20Challenge.pdf
+  meeting: SwiftHep/ExcaliburHep workshop
+  meetingurl: https://indico.cern.ch/event/1033028/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project:
+    - coffea-casa
+    - agc
+- title: Coffea-casa - an analysis facility prototype
+  date: 2021-09-24
+  url: https://indico.cern.ch/event/1071685/contributions/4510234/attachments/2316062/3943371/coffea-casa%20ATLAS.pdf
+  meeting:  Joint AMG and WFMS Meeting on Analysis Facilities
+  meetingurl:  https://indico.cern.ch/event/1071685/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project:
+    - coffea-casa
+    - agc
 - title: Advances in Analysis tools/ecosystem
   date: 2021-06-09
   url: https://indico.cern.ch/event/905399/contributions/4291626/attachments/2260129/3837364/LHCP_AS.pdf
