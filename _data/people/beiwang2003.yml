@@ -17,7 +17,7 @@ presentations:
   focus-area: ia
   project:
   labels:
-  
+
 - title: Using Nsight Compute to Understand Kernel Performance Bottlenecks
   date: 2021-06-30
   url:
@@ -62,7 +62,7 @@ presentations:
   location:
   focus-area: ia
   project:
-  labels:  
+  labels:
 - title:  Introduction to Field-Programmable Gate Arrays (FPGAs)
   date: 2021-11-10
   url:
@@ -71,7 +71,7 @@ presentations:
   location: Virtual
   focus-area: ia
   project:
-  labels:  
+  labels:
 - title: Performance and Vectorization
   date: 2020-11-02
   url: https://researchcomputing.princeton.edu/events/2020/performance-and-vectorization
