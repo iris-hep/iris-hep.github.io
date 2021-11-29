@@ -28,9 +28,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project:
-    - coffea-casa
-    - agc
+  project: coffea-casa
 - title: Analysis Grand Challenge
   date: 2021-11-02
   url: https://indico.cern.ch/event/1033028/contributions/4551818/attachments/2337969/4018481/Analysis%20Grand%20Challenge.pdf
@@ -40,9 +38,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project:
-    - coffea-casa
-    - agc
+  project: coffea-casa
 - title: Coffea-casa - an analysis facility prototype
   date: 2021-09-24
   url: https://indico.cern.ch/event/1071685/contributions/4510234/attachments/2316062/3943371/coffea-casa%20ATLAS.pdf
@@ -52,9 +48,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project:
-    - coffea-casa
-    - agc
+  project: coffea-casa
 - title: Advances in Analysis tools/ecosystem
   date: 2021-06-09
   url: https://indico.cern.ch/event/905399/contributions/4291626/attachments/2260129/3837364/LHCP_AS.pdf
