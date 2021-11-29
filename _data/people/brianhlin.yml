@@ -11,7 +11,7 @@ website:
 presentations:
 - title: Token Transition Workshop Summary
   date: 2021-11-10
-  # url: CERN indico currently down
+  url: https://indico.cern.ch/event/876795/
   meeting: 10 November 2021 Grid Deployment Board
   meetingurl: https://indico.cern.ch/event/876795/
   location: Virtual
