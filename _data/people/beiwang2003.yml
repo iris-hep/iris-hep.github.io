@@ -5,9 +5,19 @@ institution: Princeton University
 name: Bei Wang
 photo: "/assets/images/team/Bei-Wang.jpg"
 shortname: beiwang2003
-title: HPC Software Engineer
+title: Senior Research Software Engineer
 website:
 presentations:
+- title: Performance and Vectorization
+  date: 2021-10-18
+  url: https://princetonuniversity.github.io/PUparallel_fall2021/sessions/M1C-perf-tuning/
+  meeting: Introduction to Parallel Computing for HPC Fall 2021
+  meetingurl: https://princetonuniversity.github.io/PUparallel_fall2021/
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
+  
 - title: Using Nsight Compute to Understand Kernel Performance Bottlenecks
   date: 2021-06-30
   url:
@@ -44,6 +54,24 @@ presentations:
   focus-area: ia
   project:
   labels:
+- title:  Fast histogram on GPU
+  date: 2021-11-17
+  url:
+  meeting: Princeton Research Software Engineer Group Meeting
+  meetingurl:
+  location:
+  focus-area: ia
+  project:
+  labels:  
+- title:  Introduction to Field-Programmable Gate Arrays (FPGAs)
+  date: 2021-11-10
+  url:
+  meeting: Princeton Research Computiong Workshop
+  meetingurl: https://researchcomputing.princeton.edu/sites/g/files/toruqf311/files/documents/primer_fpga_bei_wang_10nov2021.pdf
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:  
 - title: Performance and Vectorization
   date: 2020-11-02
   url: https://researchcomputing.princeton.edu/events/2020/performance-and-vectorization
