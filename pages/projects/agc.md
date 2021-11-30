@@ -44,8 +44,8 @@ Analysis Grand Challenge will be conducted during 2021‒2023, leaving enough ti
 
 **Future plans for 2022**:
 
-- Improve experiment-related coffea-casa setups (e.g. improve experiment specific  data access and other features)
-- Test  integration of SkyHook in coffea-casa@UNL and SSL (as a testbed)
+- Improve experiment-related coffea-casa setups (e.g. improve experiment specific data access and other features)
+- Test integration of SkyHook in coffea-casa@UNL and SSL (as a testbed)
 - Deploy and test all packages and services (e.g. related to AGC) at various analysis facilities
 - Benchmark performance of prototype system components for AGC
 - Work with HSF DAWG group about specification of new sub-benchmarks as a potential new milestone for AGC
