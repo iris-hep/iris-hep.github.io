@@ -2,7 +2,7 @@
 permalink: /projects/coffea-casa.html
 layout: project
 title: Analysis Grand Challenge
-shortname: AGC
+shortname: agc
 pagetype: project
 image: logos/Iris-hep-4-no-long-name.png
 logowidth: 15%
