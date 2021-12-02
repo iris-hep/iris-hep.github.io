@@ -236,3 +236,12 @@ presentations:
   location: Virtual
   focus-area: as
   project: pyhf
+
+- title: 'Distributed statistical inference with pyhf powered by funcX'
+  date: 2021-10-27
+  url: https://parsl-project.org/parslfest2021-files/feickert-pyhf.pdf
+  meeting: Parsl & funcX Fest 2021
+  meetingurl: https://parsl-project.org/parslfest2021.html
+  location: Virtual
+  focus-area: as
+  project: pyhf
