@@ -237,11 +237,11 @@ presentations:
   focus-area: as
   project: pyhf
 
-- title: 'Distributed statistical inference with pyhf powered by funcX'
-  date: 2021-10-27
-  url: https://parsl-project.org/parslfest2021-files/feickert-pyhf.pdf
-  meeting: Parsl & funcX Fest 2021
-  meetingurl: https://parsl-project.org/parslfest2021.html
+- title: 'pyhf: pure-Python implementation of HistFactory with tensors and automatic differentiation'
+  date: 2021-12-01
+  url: https://indico.cern.ch/event/1100873/contributions/4631656/
+  meeting: CMS Analysis Tools Task Force
+  meetingurl: https://indico.cern.ch/event/1100873/
   location: Virtual
   focus-area: as
   project: pyhf
