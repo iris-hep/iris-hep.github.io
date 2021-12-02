@@ -236,3 +236,12 @@ presentations:
   location: Virtual
   focus-area: as
   project: pyhf
+
+- title: 'pyhf: pure-Python implementation of HistFactory with tensors and automatic differentiation'
+  date: 2021-12-01
+  url: https://indico.cern.ch/event/1100873/contributions/4631656/
+  meeting: CMS Analysis Tools Task Force
+  meetingurl: https://indico.cern.ch/event/1100873/
+  location: Virtual
+  focus-area: as
+  project: pyhf
