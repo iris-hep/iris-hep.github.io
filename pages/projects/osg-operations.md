@@ -8,7 +8,6 @@ image: logos/Iris-hep-5-just-graphic.png
 blurb: Operate OSG-LHC services
 position: -4
 focus-area:
-- doma
 - osglhc
 team:
 - "[Jeff Dost](https://profiles.ucsd.edu/jeffrey.dost)"

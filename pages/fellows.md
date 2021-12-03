@@ -6,7 +6,7 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-**We are now accepting Fellow proposals/applications for Summer 2021. The deadline for application is 18 April 2021.**
+**Applications for Summer 2021 are now completed. Please check back for Fellow opportunities for the 2021-2022 academic year.**
 
   People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
   To accomplish these goals, IRIS-HEP has created a Fellows program.
@@ -75,36 +75,33 @@ Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing
 
 IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals. All proposals submitted by Sunday, 18 April, 2021, will receive full consideration.
 
-{%- assign active-fellows = false -%}
-{%- for mypage in site.pages -%}
-    {%- if mypage.pagetype == 'fellow' and mypage.active -%}
-       {%- assign active-fellows = true -%}
-    {%- endif -%}
-{%- endfor -%}
+{% assign fellows = site.pages | where: "pagetype", "fellow"
+                               | last_name_sort: "fellow-name"
+                               | reverse
+                               | iris_hep_fellow_sort
+                               | reverse %}
+{% assign active-fellows = fellows | select: "active" | where_exp: "item", "item.hidden != true" %}
+{% assign inactive-fellows = fellows | reject: "active" | where_exp: "item", "item.hidden != true" %}
 
-{%- if active-fellows %}
+
+{%- if active-fellows.size > 0 %}
 # Current IRIS-HEP Fellows
 
 <div class="container-fluid">
   <div class="row">
-    {% assign sorted = site.pages | sort_natural: 'title' %}
-    {% for mypage in sorted %}
-      {% if mypage.pagetype == 'fellow' and mypage.active %}
-         {% assign person = mypage %}
-
-         <div class="card" style="width: 12rem;">
-            <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
-            <div class="card-body d-flex flex-column">
-              <div class="card-text">
-                 <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
-                 <small>{{person.institution}}</small><br><br>
-              </div>
-              <div class="card-text mt-auto"><i>
-              {% include fellow_dates.html dates=person.dates %}
-              </i><br></div>
-            </div>
+    {% for person in active-fellows %}
+      <div class="card" style="width: 12rem;">
+         <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
+         <div class="card-body d-flex flex-column">
+           <div class="card-text">
+              <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
+              <small>{{person.institution}}</small><br><br>
+           </div>
+           <div class="card-text mt-auto"><i>
+             {% include fellow_dates.html dates=person.dates %}
+           </i><br></div>
          </div>
-      {% endif %}
+      </div>
     {% endfor %}
   </div>
   <br>
@@ -115,24 +112,19 @@ IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitte
 # Former IRIS-HEP Fellows
 <div class="container-fluid">
   <div class="row">
-    {% assign sorted = site.pages | sort_natural: 'title' %}
-    {% for mypage in sorted %}
-      {% if mypage.pagetype == 'fellow' and mypage.active == false %}
-         {% assign person = mypage %}
-
-         <div class="card" style="width: 12rem;">
-            <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
-            <div class="card-body d-flex flex-column">
-              <div class="card-text">
-                 <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
-                 <small>{{person.institution}}</small><br><br>
-              </div>
-              <div class="card-text mt-auto"><i>
-              {% include fellow_dates.html dates=person.dates %}
-              </i><br></div>
+    {% for person in inactive-fellows %}
+       <div class="card" style="width: 12rem;">
+          <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
+          <div class="card-body d-flex flex-column">
+            <div class="card-text">
+               <b><a href="{{person.permalink}}">{{person.fellow-name}}</a></b><br>
+               <small>{{person.institution}}</small><br><br>
             </div>
-         </div>
-      {% endif %}
+            <div class="card-text mt-auto"><i>
+            {% include fellow_dates.html dates=person.dates %}
+            </i><br></div>
+          </div>
+       </div>
     {% endfor %}
   </div>
   <br>

@@ -8,6 +8,21 @@ shortname: fatala22
 title: Training, Education and Outreach Coordinator
 website: http://charma.uprm.edu/~malik/
 presentations:
+- title: Software Training and Sustainable HEP
+  date: 2021-06-29
+  url: https://indico.cern.ch/event/1004432/contributions/4377762/
+  meeting: Workshop “Sustainable HEP” - transition to a sustainable future in the field of high-energy physics (HEP)
+  meetingurl: https://indico.cern.ch/event/1004432/
+  focus-area: ssc
+  location: Virtual
+  video: https://www.youtube.com/watch?v=gc2AM4p7_bM&list=PLOR0zjmGGakQ-D9NBTS-wnUkJIzYI5UZc&index=12&t=6s
+- title: Software Training in HEP
+  date: 2021-05-21
+  url: https://indico.cern.ch/event/948465/contributions/4323647/attachments/2248808/3814723/vCHEP_May2021_Malik.pdf
+  meeting: 25th International Conference on Computing in High-Energy and Nuclear Physics (vCHEP2021)
+  meetingurl: https://indico.cern.ch/event/948465/
+  focus-area: ssc
+  location: Virtual
 - title: IRIS-HEP Training Challenge
   date: 2021-04-27
   url: https://indico.cern.ch/event/957103/contributions/4330986/attachments/2234461/3787011/IRIS_HEP_Training_Plans2021.pdf

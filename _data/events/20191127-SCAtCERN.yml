@@ -4,4 +4,7 @@ enddate: 2019-11-29
 location: CERN
 meetingurl: https://indico.cern.ch/event/834411
 image:
+students: 60
 description:
+labels:
+- training

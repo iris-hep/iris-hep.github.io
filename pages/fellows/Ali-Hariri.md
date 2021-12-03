@@ -5,7 +5,7 @@ shortname: ahariri13
 permalink: /fellows/ahariri13.html
 fellow-name: Ali Hariri
 title: Ali Hariri - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2021-05-10
   end: 2021-08-10
@@ -13,7 +13,7 @@ photo: /assets/images/team/Ali_Hariri.jpg
 institution: University of Alabama
 e-mail: hariri.ali961@gmail.com
 project_title: Graph Generative Models For Fast Detector Simulations in Particle Physics
-focus-area:
+focus-area: ia
 project_goal: >
   The Large Hadron Collider (LHC) at CERN is the world’s highest energy particle accelerator,
   delivering the highest energy proton-proton collisions ever recorded in the
@@ -40,6 +40,13 @@ mentors:
 
 proposal: /assets/pdf/Fellow-Ali-Hariri-Proposal.pdf
 presentations:
+  - title:  Graph Generative Models for Fast Detector Simulations in Particle Physics
+    date: 2021-10-06
+    url: https://indico.cern.ch/event/1071461/contributions/4505361/attachments/2323601/3957274/Graph%20Generative%20Models%20For%20Fast%20Detector%20Simulations%20in%20Particle%20Physics_%20Ali%20Hariri.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/1071461/
+    recordingurl: https://youtu.be/PZbTeLk-jNs
+    focus-area: ia
 current_status: >
 
 ---

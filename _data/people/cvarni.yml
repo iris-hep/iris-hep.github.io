@@ -15,3 +15,59 @@ presentations:
   meetingurl:
   project: acts
   location: CERN
+- title: Acts Tracking EDM ideas and Seeding Tool
+  date: 2021-05-21
+  url: https://indico.cern.ch/event/1022558/contributions/4369515/attachments/2249629/3816139/EDMideasAndSeedingStep.pdf
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1022558/
+  project: acts
+  location: CERN
+- title: ACTS Tracking EDM
+  date: 2021-06-18
+  url: https://indico.cern.ch/event/1044816/contributions/4414850/attachments/2267392/3849862/EDM.pdf
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1044816/
+  project: acts
+  location: CERN
+- title: ATLAS Track Reconstruction for HL-LHC using ACTS software
+  date: 2021-07-20
+  url: https://indico.cern.ch/event/1061445/contributions/4460829/
+  meeting: LBL Weekly meeting
+  meetingurl: https://indico.cern.ch/event/1061445/
+  project: acts
+  location: LBNL
+- title: EDM Timing Studies
+  date: 2021-09-17
+  url: https://indico.cern.ch/event/1076499/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1076499/
+  project: acts
+  location: CERN
+- title: Discussion on seeding algorithm EDM
+  date: 2021-10-01
+  url: https://indico.cern.ch/event/1081289/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1081289/
+  project: acts
+  location: CERN
+- title: ACTS Seeding Algorithm and Tool in Athena
+  date: 2021-10-15
+  url: https://indico.cern.ch/event/1081290/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1081290/
+  project: acts
+  location: CERN
+- title: Setting the tool’s properties in the JO with different configurations
+  date: 2021-11-19
+  url: https://indico.cern.ch/event/1097299/
+  meeting: Run 3 Reconstruction Job Configuration
+  meetingurl: https://indico.cern.ch/event/1097299/
+  project: acts
+  location: CERN
+- title: Discussion on seeding algorithm integration in Athena
+  date: 2021-11-19
+  url: https://indico.cern.ch/event/1081293/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1081293/
+  project: acts
+  location: CERN

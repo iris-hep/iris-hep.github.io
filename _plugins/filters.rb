@@ -1,5 +1,21 @@
 # frozen_string_literal: true
 
+# Adds a stable sort
+module Enumerable
+  def stable_sort_by
+    sort_by.with_index { |x, idx| [yield(x), idx] }
+  end
+end
+
+module Jekyll
+  # Add dig (since it seems to be missing)
+  class Page
+    def dig(*args)
+      data.dig(*args)
+    end
+  end
+end
+
 module IrisHep
   # Adding useful filters
   module Filters
@@ -35,8 +51,9 @@ module IrisHep
     end
 
     # Convert array of keys to array of values using a hash, nil where no mapping exists
-    def hash_fetch(input, hash)
-      input.map { |k| hash.fetch(k, nil) }
+    # Supports optionally passing a key to lookup.
+    def hash_fetch(input, hash, key = nil)
+      input.map { |k| hash.fetch(key.nil? ? k : k[key], nil) }
     end
 
     # Keys of a hash
@@ -62,6 +79,22 @@ module IrisHep
       end
     end
 
+    # Sort using an item in a nested structure. Performs a stable sort.
+    def nested_sort(input, keys)
+      input.stable_sort_by { |v| v.dig(*keys.split('.', -1)) }
+    end
+
+    # Sorts fellows by start date. Similar to but not
+    # identical to nested_sort: "dates.start"
+    def iris_hep_fellow_sort(input)
+      # If we have multiple dates, just pick the last one
+      input.stable_sort_by do |v|
+        dates = v['dates']
+        dates = dates.max_by { |vv| vv['start'] } if dates.is_a? Array
+        dates['start']
+      end
+    end
+
     # Print to console
     def puts(input, msg = '')
       print "#{msg} #{input}\n"
@@ -84,6 +117,16 @@ module IrisHep
         stop = stop_month ? v[key] < (Date.today << stop_month) : true
         start && stop
       end
+    end
+
+    # Single argument form of where
+    def select(input, keys, match = :token)
+      input.select { |v| match == :token ? v.dig(*keys.split('.', -1)) : v.dig(*keys.split('.', -1)) == match }
+    end
+
+    # Inverse of where
+    def reject(input, keys, match = :token)
+      input.reject { |v| match == :token ? v.dig(*keys.split('.', -1)) : v.dig(*keys.split('.', -1)) == match }
     end
 
     # Pretty-print a daterange

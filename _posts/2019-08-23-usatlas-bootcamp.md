@@ -2,8 +2,8 @@
 layout: irispost
 title: First USATLAS Bootcamp held in coordination with Software Carpentries and IRIS-HEP/FIRST-HEP
 author: Henry Schreiner
-postimage: /assets/images/posts/2019-08-23-usatlas-bootcamp-main.jpg
-postimage-caption: Teachers and students pose outside at LBNL.
+image: /assets/images/posts/2019-08-23-usatlas-bootcamp-main.jpg
+image-caption: Teachers and students pose outside at LBNL.
 postbanner: /assets/images/posts/2019-08-23-usatlas-bootcamp-class.jpg
 summary: The first USATLAS Bootcamp was a huge success. 31 students and more than 8 instructors met at the Lawrence Berkeley National Laboratory to cover four topics from both a general and experiment specific viewpoint.
 ---

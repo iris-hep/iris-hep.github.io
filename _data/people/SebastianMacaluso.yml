@@ -2,7 +2,6 @@ active: true
 e-mail: sm4511@nyu.edu
 focus-area:
 - ia
-- as
 institution: New York University
 name: Sebastian Macaluso
 photo: "/assets/images/team/Sebastian-Macaluso.jpg"
@@ -113,5 +112,13 @@ presentations:
   meeting: 25th International Conference on Computing in High Energy & Nuclear Physics
   meetingurl: https://indico.cern.ch/event/948465/overview
   location: virtual event
+  focus-area: ia
+  project: ml4jets
+- title: Emerging techniques for sampling, searching, and summing over the combinatorially large space of shower histories
+  date: 2021-07-06
+  url: https://indico.cern.ch/event/980214/contributions/4413533/
+  meeting: ML4Jets 2021
+  meetingurl: https://indico.cern.ch/event/980214/
+  location: University of Heidelberg
   focus-area: ia
   project: ml4jets

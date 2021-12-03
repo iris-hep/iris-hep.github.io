@@ -120,3 +120,54 @@ presentations:
   focus-area:
   - as
   - doma
+- title: Graph Neutral Networks for Pattern Recognition
+  date: 2021-02-11
+  url: https://indico.cern.ch/event/1002733/contributions/4229593/attachments/2188191/3865965/Pattern%20Recognition%20Subgroup.pdf
+  meeting: ATLAS Commodity Event Filter Tracking Task Force Meeting
+  meetingurl: https://indico.cern.ch/event/1002733
+  location: Virtual
+  focus-area:
+  - ia
+- title: Welcome, IRIS-HEP Blueprint Activity & Workshop Overview
+  date: 2021-05-05
+  url: https://indico.cern.ch/event/1026363/contributions/4309485/attachments/2239008/3795801/Blueprint_Intro_Virtual_Meetings.pdf
+  meeting: Virtual Meetings Blueprint Workshop
+  meetingurl: https://indico.cern.ch/event/1026363
+  location: Virtual
+  focus-area:
+  - ia
+  - doma
+  - as
+  - ssc
+- title: Day 2 Topics and Goals
+  date: 2021-05-06
+  url: https://indico.cern.ch/event/1026363/contributions/4309527/attachments/2239942/3797518/Blueprint_Intro_Virtual_Meetings_Day2.pdf
+  meeting: Virtual Meetings Blueprint Workshop
+  meetingurl: https://indico.cern.ch/event/1026363
+  location: Virtual
+  focus-area:
+  - ia
+  - doma
+  - as
+  - ssc
+- title: Virtual Meetings Workshop Summary
+  date: 2021-08-19
+  url: https://indico.cern.ch/event/1034113/contributions/4452694/attachments/2295587/3904122/IUPAP-C11_IRIS-HEP_Virtual_Meetings.pptx.pdf
+  meeting: "International Union of Pure & Applied Physics: Particles and Fields Meeting"
+  meetingurl: https://indico.cern.ch/event/1034113
+  location: Virtual
+  focus-area:
+  - ia
+  - doma
+  - as
+  - ssc
+- title: "Panel: Intersection of Large-Scale Experimental Science and High-Performance Computing"
+  date: 2021-11-19
+  url: https://wordpress.cels.anl.gov/xloop-2021
+  meeting: Workshop on Extreme-Scale Experiment-in-the-Loop Computing (XLOOP 2021)
+  meetingurl: https://wordpress.cels.anl.gov/xloop-2021
+  location: Virtual
+  focus-area:
+  - ia
+  - doma
+  - as

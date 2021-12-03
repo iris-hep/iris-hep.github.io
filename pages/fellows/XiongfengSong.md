@@ -7,7 +7,7 @@ title: Xiongfeng Song - IRIS-HEP Fellow
 fellow-name: Xiongfeng Song
 shortname: Xiongfeng
 project_title: Implement Skyhook row index filter operation, Awkward list in-storage operations and Coffea processor/executor
-focus-area:
+focus-area: doma
 dates:
   start: 2020-06-01
   end: 2020-08-31
@@ -24,4 +24,11 @@ project_goal: >
 
 proposal: /assets/pdf/Fellow-Xiongfeng-Proposal.pdf
 presentations:
+  - title:  "SkyhookDM projection-only pushdown and Arrow dataset integration into Skyhook objects"
+    date: 2021-10-14
+    url: https://indico.cern.ch/event/946432/contributions/3976999/attachments/2123137/3573932/Xiongfeng_IRIS-HEP_slides.pdf
+    meeting: IRIS-HEP Topical Meetings
+    meetingurl: https://indico.cern.ch/event/946432/
+    recordingurl: https://youtu.be/ajcqHESGAQY
+    focus-area: doma
 ---

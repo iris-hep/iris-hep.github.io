@@ -13,6 +13,10 @@ class String
     l, f = split ', '
     "#{f[0, 1]}. #{l}"
   end
+
+  def strip_latex
+    gsub(/\$(.*?)\$/) { Regexp.last_match(1).gsub '\\&', '&' }
+  end
 end
 
 module Publications
@@ -29,6 +33,7 @@ module Publications
       @trunc_len = @site.config.dig('inspire', 'authors', 'trunc-len') || 1
       @cache_dir = @site.config.dig('inspire', 'cache-dir') || '_cache'
       @pub_dir = @site.config.dig('inspire', 'pub-dir') || 'publications'
+      @os_categories = (@site.config.dig('inspire', 'open-science-categories') || []).to_set
 
       @site.data['publications']&.each do |name, pub|
         prepare(pub, name)
@@ -42,7 +47,14 @@ module Publications
         # Highlighted publications?
       end
 
+      @site.data['open-science']&.each do |name, pub|
+        prepare_os(pub, name)
+        caching(pub, name) { |p| inspire(p) }
+        submitted_to(pub, name)
+      end
+
       @site.data['sorted_publications'] = get_publications site.data['publications']
+      @site.data['sorted_open_science_publications'] = get_publications site.data['open-science']
     end
 
     private
@@ -90,11 +102,22 @@ module Publications
       # Looks up focus areas from projects
       prepare_focus_area(pub, name) if pub['focus-area'].empty?
 
-      msg = 'You must have a project or focus-area in every publication'
-      raise msg unless pub.key? 'focus-area'
-
       # Make sure the focus-area is a list
       force_array(pub, 'focus-area')
+
+      # Make sure there is a focus-area
+      msg = "Publication #{name} must contain a focus-area or project"
+      raise StandardError, msg if pub['focus-area'].empty?
+    end
+
+    # Setup a publication - ensures open-science-cat is valid
+    def prepare_os(pub, name)
+      pub['filename'] = name
+      raise "#{name} must include open-science-cat" unless pub.include? 'open-science-cat'
+
+      force_array(pub, 'open-science-cat')
+      left_over = pub['open-science-cat'].to_set - @os_categories
+      raise "#{name} must have valid open-science-cat entries, not #{left_over}" unless left_over.empty?
     end
 
     # Verify that an item is an Array
@@ -150,7 +173,7 @@ module Publications
       data = JSON.parse(response.body)['metadata']
 
       # Set these *only* if not already set
-      pub['title'] ||= data.dig('titles', 0, 'title')
+      pub['title'] ||= data.dig('titles', 0, 'title')&.strip_latex
       pub['link'] ||= "http://inspirehep.net/record/#{recid}"
       pub['date'] ||= data['preprint_date']
 

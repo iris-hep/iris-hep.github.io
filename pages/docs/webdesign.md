@@ -78,6 +78,18 @@ These select objects with dates from a range of values. You can specify the star
 ```
 {% endraw %}
 
+#### `select` / `reject`
+
+This selects or rejects were something is truthy (not nil or false). It acts like what I think a one-argument form of "where" should have acted like.
+In the two-argument form, this acts like normal `where`, but allows nested lookups and rejection. Also consider `where_exp`.
+
+{% raw %}
+```
+{{ object_array | select: "active" }} -> Select items where active is not nil (missing) or False
+{{ object_array | reject: "active" }} -> Select items where active is nil (missing) or False
+```
+{% endraw %}
+
 #### `puts`
 
 This does nothing, but prints out the contents to the screen when compiling. Only useful for debugging.
@@ -90,11 +102,14 @@ This does nothing, but prints out the contents to the screen when compiling. Onl
 
 #### `hash_fetch`
 
-This will fetch items from a hash (dict) using an array, returning the value if the key is in the hash, and nil for array items that are not keys in the hash.
+This will fetch items from a hash (dict) using an array, returning the value if
+the key is in the hash, and nil for array items that are not keys in the hash.
+If you have a nested key, you can pass that as an option.
 
 {% raw %}
 ```
 {{ key_array | hash_fetch: hash }} -> value_array
+{{ key_hash_array | hash_fetch: hash, "id" }} -> value_array
 ```
 {% endraw %}
 
@@ -105,6 +120,16 @@ This sorts an array of hashes that include normal ordered names in a key by by l
 {% raw %}
 ```
 {{ people | last_name_sort: "name" }} -> {"name": "Zee Alpha", ...
+```
+{% endraw %}
+
+#### `nested_sort`
+
+This performs a nested sort. It works on Pages or on hashes. It also is stable, so you can sort by something else first.
+
+{% raw %}
+```
+{{ site.pages | nested_sort: "date.start" }} -> Sort by a date nested into a structure
 ```
 {% endraw %}
 
@@ -131,6 +156,16 @@ This sorts pages by "title", also taking into account "position", if it exists.
 {% raw %}
 ```
 {{ site.pages | smart_title_sort }} -> Sorted pages
+```
+{% endraw %}
+
+#### `iris_hep_fellows_sort`
+
+This sorts fellows pages by starting date stably. Suggested usage:
+
+{% raw %}
+```
+{{ site.pages | where: "pagetype", "fellow" | last_name_sort: "fellow-name" | reverse | iris_hep_fellow_sort | reverse }} -> Sorted fellow pages
 ```
 {% endraw %}
 
@@ -161,9 +196,8 @@ This block will make an expandable list. You give it the number of non-expanded 
 {% raw %}
 ```
 {% expandable my_array 10 %}
-- {{ expandable }}
+  {{ expandable }}
 {% endexpandable%}
 ```
 {% endraw %}
-
 

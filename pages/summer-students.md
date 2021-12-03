@@ -8,6 +8,20 @@ title: "Summer Students Mentored by IRIS-HEP Team"
 
 In addition to [students funded directly as part of the IRIS-HEP project](https://iris-hep.org/about/team) and [IRIS-HEP Fellows](https://iris-hep.org/fellows.html), IRIS-HEP team members have been mentors for software-related projects pursued by students from a number of other student programs.
 
+#### Summer 2021 DIANA Undergraduate Fellowship
+
+* **Rida Shahid** (mentor Rocky Bala Garg, Lauren Tompkins) - [Implementation of Deep Learning Algorithm for identifying and locating primary vertices in ATLAS data](https://iris-hep.org/projects/pv-finder.html)
+* **Elliott Kauffman** (mentor Henry Fredrick Schreiner, Michael Sokoloff) - [Implementation of Deep Learning Algorithm for identifying and locating primary vertices in CMS data](https://iris-hep.org/projects/pv-finder.html)
+
+
+#### Google Summer of Code 2021
+
+* **Ajay Uppili Arasanipalai** (mentor Lang Hames, Vassil Vassilev) - [Modernize the LLVM "Building A JIT" tutorial series](https://llvm.org/OpenProjects.html#llvm_build_jit_tutorial)
+* **Parth Arora** (mentor Vassil Vassilev, David Lange) - [Add support for functor objects in clad](https://hepsoftwarefoundation.org/gsoc/2021/proposal_functor_clad.html)
+* **Baidyanath Kundu** (mentor Ioana Ifrim, Vassil Vassilev) - [Utilize second order derivatives from Clad in ROOT](https://hepsoftwarefoundation.org/gsoc/2021/proposal_secondorder_clad.html)
+* **Garima Singh** (mentor Alexander Penev, Vassil Vassilev) - [Add numerical differentiation support in clad](https://hepsoftwarefoundation.org/gsoc/2021/proposal_numdiff_clad.html)
+
+
 #### Google Summer of Code 2020
 
 * **Roman Shakov** (mentor Vassil Vassilev) - [Extend clad to compute Jacobians](https://hepsoftwarefoundation.org/gsoc/2020/proposal_CLAD-Jacobians.html)

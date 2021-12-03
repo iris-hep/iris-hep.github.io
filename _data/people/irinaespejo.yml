@@ -6,7 +6,7 @@ institution: New York University
 name: Irina Espejo
 photo: "/assets/images/team/irinaespejo.jpeg"
 shortname: irinaespejo
-title:
+title: SCAILFIN collaborator
 website:
 presentations:
 - title: 'SCAILFIN: Madminer deployment using REANA'
@@ -34,3 +34,23 @@ presentations:
   meeting: Frontiers in Machine Learning for the Physical Sciences, UC Southern Hub
   meetingurl: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
   location: Virtual
+- title: Active Learning for Levet Set Estimation
+  date: 2021-03-26
+  url: https://indico.fnal.gov/event/48483/
+  meeting: CLARIPHY seminar
+  meetingurl: https://clariphy.org/
+  location: Virtual
+- title: Active Learning for Level Set Estimation
+  date: 2021-03-30
+  url: https://indico.cern.ch/event/1019958/timetable/#14-active-learning-for-level-s
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1019958/
+  location: Virtual
+- title: Active Learning for Level Set Estimation with the ATLAS detector
+  date: 2021-07-12
+  url: https://indico.cern.ch/event/1034469/contributions/4434638/
+  meeting: 2021 Meeting of the Division of Particles and Fields of the American Physical Society (DPF21)
+  meetingurl: https://indico.cern.ch/event/1034469/
+
+
+

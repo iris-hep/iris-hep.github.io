@@ -4,4 +4,7 @@ enddate: 2020-11-09
 location: Online
 meetingurl: https://indico.cern.ch/event/958112/
 image:
+students: 40
 description: This is the first iteration of a Machine Learning on GPUs course for the University of Manchester, University of Lancaster, University of Sheffield High Energy Physics, Nuclear Physics and Astronomy PhD students  organised in collaboration between the 4IR Centre for Doctoral Training, University of Manchester Physics and Astronomy Department and the Training Working Group of the HEP Software Foundation.
+labels:
+- training

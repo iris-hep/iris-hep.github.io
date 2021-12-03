@@ -11,8 +11,7 @@ focus-area: osglhc
 team:
 - adciu
 - jcdrake
-- zsshah
-- mtstanfield
+- HedgeMage
 ---
 
 The OSG Security team works on supporting operational security for OSG infrastructure, software security,
