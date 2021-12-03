@@ -9,6 +9,38 @@ shortname: brianhlin
 title: OSG Software Team Manager
 website:
 presentations:
+- title: Token Transition Workshop Summary
+  date: 2021-11-10
+  url: https://indico.cern.ch/event/876795/#8-token-transition-workshop-pr
+  meeting: 10 November 2021 Grid Deployment Board
+  meetingurl: https://indico.cern.ch/event/876795/
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
+- title: Token Transition Workshop Summary
+  date: 2021-10-25
+  url: https://indico.cern.ch/event/1088704/
+  meeting: ADC Technical Coordination Board
+  meetingurl: https://indico.cern.ch/event/1088704/#2-osg-token-workshop-summary
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
+- title: OSG Software Bearer Token Transition Plans
+  date: 2021-10-14
+  url: https://indico.fnal.gov/event/50597/contributions/225840/
+  meeting: OSG Token Transition Workshop
+  meetingurl: https://indico.fnal.gov/event/50597/
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
+- title: "HTCondor-CE: What’s new and upcoming?"
+  date: 2021-09-24
+  url: https://indico.cern.ch/event/1059494/contributions/4532565
+  meeting: European HTCondor Workshop 2021
+  meetingurl: https://indico.cern.ch/e/htcondor2021
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
 - title: HTCondor CE 5 and Job Router Transform Language
   date: 2021-05-27
   url: https://agenda.hep.wisc.edu/event/1579/contributions/23068/
