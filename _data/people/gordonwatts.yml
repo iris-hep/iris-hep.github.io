@@ -264,3 +264,11 @@ presentations:
     - servicex
     - func-adl
   video: https://youtu.be/WEagMstN_PY
+- title: ServiceX: Making everything Columnar
+  date: 2021-11-30
+  url: https://indico.cern.ch/event/855454/contributions/4596745/
+  meetingurl: https://indico.cern.ch/event/855454
+  meeting: ACAT 2021
+  focus-area:
+    - as
+    - doma
