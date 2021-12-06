@@ -1,5 +1,5 @@
 ---
-permalink: /projects/coffea-casa.html
+permalink: /projects/agc.html
 layout: project
 title: Analysis Grand Challenge
 shortname: agc
