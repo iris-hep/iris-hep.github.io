@@ -652,7 +652,7 @@ presentations:
   url: http://www.ipam.ucla.edu/abstract/?tid=17075&pcode=GWAWS3
   meeting: "Workshop III: Source Inference and Parameter Estimation in Gravitational Wave Astronomy"
   meetingurl: http://www.ipam.ucla.edu/programs/workshops/workshop-iii-source-inference-and-parameter-estimation-in-gravitational-wave-astronomy/
-  video: http://www.ipam.ucla.edu/abstract/?tid=17075&pcode=GWAWS3&wvideo=axvs5nwk0x  
+  video: http://www.ipam.ucla.edu/abstract/?tid=17075&pcode=GWAWS3&wvideo=axvs5nwk0x
   focus-area: as
   location: Institute for Pure and Applied Mathematics (IPAM)
 - title: "Inductive bias: lessons learned from physics"
@@ -677,4 +677,3 @@ presentations:
   focus-area: as
   location:  Michigan State University (Virtual)
 
-   
