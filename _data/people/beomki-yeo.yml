@@ -21,6 +21,7 @@ presentations:
   meeting: ACTS Parallelization Meeting
   meetingurl: https://indico.cern.ch/event/1042735/
   project: acts
+  focus-area: ia
   location: CERN
 - title: Track Reconstruction using GPUs
   date: 2021-08-10
@@ -28,6 +29,7 @@ presentations:
   meeting: LBML ATLAS Meeting
   meetingurl: https://indico.cern.ch/event/1066033/
   project: acts
+  focus-area: ia
   location: CERN
 - title: Status of the GPU demonstrator (traccc) for Acts
   date: 2021-10-04
@@ -35,6 +37,7 @@ presentations:
   meeting: Core SW / HCAF Session in S&C Week
   meetingurl: https://indico.cern.ch/event/1080186/
   project: acts
+  focus-area: ia
   location: CERN
 - title: Detray status update
   date: 2021-10-15
@@ -42,6 +45,7 @@ presentations:
   meeting: ACTS Parallelization Meeting
   meetingurl: https://indico.cern.ch/event/1087025/
   project: acts
+  focus-area: ia
   location: CERN
 - title: A compile time polymorphic tracking geometry description
   date: 2021-12-01
@@ -49,4 +53,5 @@ presentations:
   meeting: 20th International Workshop on Advanced Computing and Analysis Techniques in Physics Research
   meetingurl: https://indico.cern.ch/event/855454/contributions/4605075/
   project: acts
+  focus-area: ia
   location: CERN
