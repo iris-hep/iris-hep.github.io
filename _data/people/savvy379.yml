@@ -75,7 +75,7 @@ presentations:
 - title: "AI in HEP: Current Methods and Applications"
   date: 2021-07-14
   url: https://indico.cern.ch/event/1034469/contributions/4436597/
-  meeting: 2021 Meeting of the Division of Particles and Fields (DPF21) 
+  meeting: 2021 Meeting of the Division of Particles and Fields (DPF21)
   meetingurl: https://indico.cern.ch/event/1034469
   focus-area: ia
   project: accel-gnn-tracking
