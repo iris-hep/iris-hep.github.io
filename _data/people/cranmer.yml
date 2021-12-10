@@ -606,12 +606,12 @@ presentations:
   location: Virtual
 - title: TBD
   date: 2021-09-13
-  url: https://conference.astro.dur.ac.uk/event/3/sessions/25/#20210913
+  url: https://conference.astro.dur.ac.uk/event/3/sessions/25/
   meeting: STFC Summer School on Data Intensive Science 2021
-  meetingurl: https://conference.astro.dur.ac.uk/event/3/
+  meetingurl: https://www.durham.ac.uk/departments/academic/physics/about-us/events/stfc-data-intensive-science-summer-school-2021/
   focus-area: as
   location: "Durham / Virtual"
-- title: TBD
+- title: AI and Physics
   date: 2021-09-18
   url: https://indico.cern.ch/event/908069/
   meeting: "Sparks! Serendipity Forum"
@@ -625,18 +625,34 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1051224/
   focus-area: as
   location: Virtual
+- title: "A call to action: Honoring PHYSTAT's 20 year old agreement"
+  date: 2021-11-03
+  url: https://indico.cern.ch/event/1051224/timetable/#23-a-call-to-action-honoring-p
+  meeting: PhyStat Systematics
+  meetingurl: https://indico.cern.ch/event/1051224/
+  focus-area: as
+  location: Virtual
+- title: "Three approaches to Systematics with Machine Learning"
+  date: 2021-11-03
+  url: https://indico.cern.ch/event/1051224/timetable/#16-three-approaches-to-systema
+  meeting: PhyStat Systematics
+  meetingurl: https://indico.cern.ch/event/1051224/
+  focus-area: as
+  location: Virtual
 - title: "Panel: Sins and marvels of AI research"
   date: 2021-11-06
   url: https://conference2021.mlinpl.org
   meeting: ML in PL (Machine Learning in Poland)
   meetingurl: https://conference2021.mlinpl.org
   focus-area: as
+  video: https://www.youtube.com/watch?v=aD5yPpebvwg
   location: Virtual
 - title: Simulation-based inference for gravitational wave astronomy
   date: 2021-11-16
-  url: http://www.ipam.ucla.edu/programs/workshops/workshop-iii-source-inference-and-parameter-estimation-in-gravitational-wave-astronomy/?tab=speaker-list
+  url: http://www.ipam.ucla.edu/abstract/?tid=17075&pcode=GWAWS3
   meeting: "Workshop III: Source Inference and Parameter Estimation in Gravitational Wave Astronomy"
   meetingurl: http://www.ipam.ucla.edu/programs/workshops/workshop-iii-source-inference-and-parameter-estimation-in-gravitational-wave-astronomy/
+  video: http://www.ipam.ucla.edu/abstract/?tid=17075&pcode=GWAWS3&wvideo=axvs5nwk0x
   focus-area: as
   location: Institute for Pure and Applied Mathematics (IPAM)
 - title: "Inductive bias: lessons learned from physics"
@@ -646,3 +662,18 @@ presentations:
   meetingurl: https://physical-reasoning.github.io
   focus-area: as
   location: Virtual
+- title: "Causality at the intersection of simulation, inference, science, and learning"
+  date: 2021-12-15
+  url: https://physical-reasoning.github.io/speakers/
+  meeting: "Understanding the nature of Inference: Correlation and Causation. The Franke Program in Science ant the Humanities"
+  meetingurl: https://inferenceproject.yale.edu/colloquium-series
+  focus-area: as
+  location: Yale (Virtual)
+- title: "Incorporating uncertainty at the LHC"
+  date: 2021-12-15
+  url: https://indico.frib.msu.edu/event/47/contributions/520/
+  meeting: "Information and Statistics in Nuclear Experiment and Theory (ISNET 8)"
+  meetingurl: https://indico.frib.msu.edu/event/47/overview
+  focus-area: as
+  location:  Michigan State University (Virtual)
+
