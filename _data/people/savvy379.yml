@@ -65,3 +65,51 @@ presentations:
   meetingurl: https://indico.cern.ch/event/963422
   focus-area: ia
   project: accel-gnn-tracking
+- title: Tracking with GNN
+  date: 2021-03-01
+  url: https://indico.cern.ch/event/1004144/contributions/4216720/attachments/2199449/3719570/iris_topical_march21.pdf
+  meeting: "HL-LHC R&D topical meeting: Graph Neural Networks for Tracking and Sherpa"
+  meetingurl: https://indico.cern.ch/event/1004144/#1-graph-networks-for-tracking
+  focus-area: ia
+  project: accel-gnn-tracking
+- title: AI in HEP: Current Methods and Applications
+  date: 2021-07-14
+  url: https://indico.cern.ch/event/1034469/contributions/4436597/
+  meeting: 2021 Meeting of the Division of Particles and Fields (DPF21) 
+  meetingurl: https://indico.cern.ch/event/1034469
+  focus-area: ia
+  project: accel-gnn-tracking
+  labels:
+  - conference
+- title: "Maching Learning (CMS)"
+  date: 2021-08-26
+  url: https://indico.cern.ch/event/1025480/contributions/4478812/
+  meeting: "10th International Conference on New Frontiers in Physics (ICNFP 2021)"
+  meetingurl: https://indico.cern.ch/event/1025480
+  focus-area: ia
+  project: accel-gnn-tracking
+  labels:
+  - conference
+- title: "Graph Neural Networks"
+  date: 2021-07-12
+  url: https://indico.cern.ch/event/1042663/#7-graph-neural-networks
+  meeting: "Machine Learning HATS@LPC"
+  meetingurl: https://indico.cern.ch/event/1042663
+  focus-area: ia
+  project: accel-gnn-tracking
+- title: "Generative Adversarial Network (GAN)"
+  date: 2021-07-30
+  url: https://indico.cern.ch/event/1045606/contributions/4470869/
+  meeting: "2021 CMS Machine Learning Town Hall"
+  meetingurl: https://indico.cern.ch/event/1045606
+  focus-area: ia
+  project: accel-gnn-tracking
+- title: "Machine Learning for Tracking"
+  date: 2021-09-07
+  url: https://indico.cern.ch/event/1071864/#1-machine-learning-for-trackin
+  meeting: "HL-LHC R&D Initiative Meeting (USCMS internal)"
+  meetingurl: https://indico.cern.ch/event/1071864
+  focus-area: ia
+  project: accel-gnn-tracking
+
+
