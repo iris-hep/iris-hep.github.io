@@ -28,5 +28,5 @@ presentations:
     recordingurl: https://youtu.be/UChnsoqsHIg
     focus-area: ia
 current_status: >
-  Data Scientist at TDI Technologies, Inc 
+  Data Scientist at TDI Technologies, Inc
 ---
