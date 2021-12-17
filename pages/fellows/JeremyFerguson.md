@@ -17,7 +17,7 @@ e-mail: jmfergie@berkeley.edu
 mentors:
   - Daniel Murnane ()
 project_goal: >
-  Investigate post-processing algorithms for the output of graph neural networksfor particle tracks. Apply traditional graph algorithms and end-to-end machine learning techniques to the TrackML and ATLAS datasets to label tracks. This will allow for faster processing of particle tracks while still producing meaningful results.
+  Investigate post-processing algorithms for the output of graph neural networks for particle tracks. Apply traditional graph algorithms and end-to-end machine learning techniques to the TrackML and ATLAS datasets to label tracks. This will allow for faster processing of particle tracks while still producing meaningful results.
 proposal: /assets/pdf/Fellow-Jeremy-Ferguson-Proposal.pdf
 presentations:
   - title:  "Graph Methods for Particle Tracking"

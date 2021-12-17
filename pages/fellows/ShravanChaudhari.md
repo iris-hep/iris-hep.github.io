@@ -29,4 +29,5 @@ presentations:
     recordingurl: https://youtu.be/PZbTeLk-jNs
     focus-area: ia
 current_status: >
+  Graduate student in Computer Science at New York University (NYU)
 ---

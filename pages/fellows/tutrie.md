@@ -37,5 +37,4 @@ presentations:
     recordingurl: https://youtu.be/oZgESG2t1gU
     focus-area: as
 current_status: >
- Working on the first deliverable
 ---

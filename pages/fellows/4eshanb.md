@@ -34,5 +34,6 @@ presentations:
     focus-area: doma
 
 current_status: >
+  Graduate student in Computer Science at the University of Southern California
 
 ---

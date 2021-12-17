@@ -29,4 +29,6 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1071405/
     recordingurl: https://youtu.be/xdryv2yeLfQ
     focus-area: as
+current_status: >
+  Masters student in Computer Science at Columbia University
 ---

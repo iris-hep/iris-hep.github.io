@@ -3,7 +3,7 @@ permalink: /fellows/GarimaSingh.html
 layout: fellow
 pagetype: fellow
 active: false
-title: Garima Singh- IRIS-HEP Fellow
+title: Garima Singh - IRIS-HEP Fellow
 fellow-name: Garima Singh
 shortname: Garima
 project_title: Floating Point Error Evaluation With Clad
@@ -29,4 +29,6 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1040761/
     recordingurl:
     focus-area: ia
+current_status: >
+  Sutdent Software Developer Google Summer of Code
 ---
