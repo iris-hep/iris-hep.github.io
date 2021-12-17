@@ -28,4 +28,6 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1071410/
     recordingurl: https://youtu.be/oZgESG2t1gU
     focus-area: as
+current_status: >
+  Graduate student in Physics at Stony Brook University
 ---

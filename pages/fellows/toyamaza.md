@@ -28,5 +28,6 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1004147/
     focus-area: ia
     project: acts
-
+current_status: >
+  Postdoctoral Research at University of California Berkeley
 ---
