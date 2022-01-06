@@ -30,7 +30,7 @@ IRIS-HEP is composed of the following areas:
 | Open Science Grid (OSG-LHC) | [Info](osglhc) | [June, 2019](https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf) - [18 Month Review](https://indico.cern.ch/event/855317/contributions/3671709/attachments/1992228/3325449/osg-lhc.pdf) - [March, 2021](https://indico.cern.ch/event/1004476/contributions/4263554/attachments/2205659/3732176/OSG-LHCforNSFMarch10th2021.pdf) - [30 Month Review](https://youtu.be/zOXr0TLmaN0) |
 | Blueprint | - | [September, 2019](https://indico.cern.ch/event/846090/contributions/3553448/attachments/1910668/3158862/NSF_Area_Report-Blueprint_Activity.pdf) - [30 Month Review](https://youtu.be/cM5-1ykUeOQ) |
 | Management/Planning | - | [18 Month Review](https://indico.cern.ch/event/855317/contributions/3671702/attachments/1992234/3327748/IRIS-HEP-18-Month-Overview-v2.pdf) - [May, 2020](https://indico.cern.ch/event/918410/contributions/3862357/attachments/2037255/3411333/IRIS-HEP_Fellows_and_PEP_Planning_NSF_Meeting_13-May-2020_.pdf) - [July, 2020](https://indico.cern.ch/event/938625/contributions/3947250/attachments/2074844/3483882/IRIS-HEP-July2020-NSF-Meeting.pdf) - [30 Month Review](https://youtu.be/rGGHr4euXFg) |
-| Analysis Grand Challenge | - | [November, 2021](https://indico.cern.ch/event/1072896/contributions/4520882/attachments/2348094/4004513/20211117_AGC_deep_dive.pdf) |
+| Analysis Grand Challenge | [Info](projects/agc) | [November, 2021](https://indico.cern.ch/event/1072896/contributions/4520882/attachments/2348094/4004513/20211117_AGC_deep_dive.pdf) |
 
 {% if site.data.indico.nsfreport -%}
 ### Previous meetings
