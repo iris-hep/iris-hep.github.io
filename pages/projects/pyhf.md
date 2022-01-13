@@ -55,7 +55,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
-- Florentin Jaffredo. Revisiting mono-τ tails at the LHC. 12 2021. arXiv:2112.14604.
+- Florentin Jaffredo. Revisiting mono-τ tails at the LHC. Dec 2021. [arXiv:2112.14604](https://arxiv.org/abs/2112.14604).
 - ATLAS Collaboration. Implementation of simplified likelihoods in HistFactory for searches for supersymmetry. Geneva, Sep 2021. [https://cds.cern.ch/record/2782654](https://cds.cern.ch/record/2782654).
 - Michael J. Baker, Darius A. Faroughy, and Sokratis Trifinopoulos. Collider Signatures of Coannihilating Dark Matter in Light of the B-Physics Anomalies. Sep 2021. [arXiv:2109.08689](https://arxiv.org/abs/2109.08689).
 - Kyle Cranmer and others. Publishing statistical models: Getting the most out of particle physics experiments. Sep 2021. [arXiv:2109.04981](https://arxiv.org/abs/2109.04981).
