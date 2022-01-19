@@ -10,7 +10,7 @@ description: >
   and one based on columnar processing using uproot and awkward arrays.
   The C++ backend currently runs only on the ATLAS binary format (xAOD)
   and CMS binary format (CMS AOD). This project will modify the C++ backend to also run on
-  CMS MiniAOD binary files (available publicly as a part of [Run 2 CMS Opendata release](https://cms.cern/news/first-cms-open-data-lhc-run-2-released)). 
+  CMS MiniAOD binary files (available publicly as a part of [Run 2 CMS Opendata release](https://cms.cern/news/first-cms-open-data-lhc-run-2-released)).
   The MiniAOD transformer is an important ingredient for a physics analysis workflow envisioned in the [Analysis Grand Challenge](https://iris-hep.org/grand-challenges.html).
 contacts:
 - gordonwatts
