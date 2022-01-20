@@ -40,7 +40,7 @@ presentations:
   project: acts
   focus-area: ia
   location: CERN
-  - title: 'Implementation of Deep Learning Algorithm for identifying and locating primary vertices in ATLAS data'
+- title: 'Implementation of Deep Learning Algorithm for identifying and locating primary vertices in ATLAS data'
   date: 2021-10-13
   url: https://indico.cern.ch/event/1071425/contributions/4505220/attachments/2327619/3965434/DIANA%20Presentation.pdf
   meeting: DIANA/HEP Fellow Presentations
