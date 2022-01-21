@@ -16,7 +16,7 @@
   {%- endunless -%}
 
   {% if person %}
-    {%- if inline and person.e-mail -%}
+    {%- if include.inline and person.e-mail -%}
       {{ li }} <a href="mailto:{{person.e-mail}}">{{person.name}}</a> {{ eli }}
     {%- elsif person.website -%}
       {{ li }} <a href="{{person.website}}">{{ person.name }}</a> {{ eli }}
