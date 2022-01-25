@@ -5,7 +5,7 @@ shortname: HamCats
 permalink: /fellows/HamCats.html
 fellow-name: Sammy Edwards
 title: Sammy Edwards - IRIS-HEP Fellow
-active: true
+active: false
 dates:
  start: 2021-05-24
  end: 2021-08-13
