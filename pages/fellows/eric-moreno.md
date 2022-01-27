@@ -31,4 +31,5 @@ presentations:
     recordingurl: https://youtu.be/l5ZN8fjPW9c
     focus-area: ia
 current_status: >
+  Dual PhD candidate in Physics and Artificial Intelligence at Massachusetts Institute of Technology
 ---

@@ -28,4 +28,6 @@ presentations:
     meetingurl: https://indico.cern.ch/event/946429/
     recordingurl: https://www.youtube.com/watch?v=b4iMNk2m-Dc&t=845s
     focus-area: ia
+current_status:
+  PhD Candidate in Physics at University of Illinois Urbana-Champaign
 ---

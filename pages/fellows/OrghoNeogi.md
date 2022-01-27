@@ -2,7 +2,7 @@
 permalink: /fellows/OrghoNeogi.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
 title: Orgho Neogi - IRIS-HEP Fellow
 fellow-name: Orgho Neogi
 shortname: Orgho

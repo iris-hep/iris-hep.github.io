@@ -27,4 +27,6 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1047245/
     recordingurl: https://youtu.be/UChnsoqsHIg
     focus-area: ia
+current_status: >
+  Data Scientist at TDI Technologies, Inc
 ---

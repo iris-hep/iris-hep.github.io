@@ -8,7 +8,7 @@ shortname: rockybala
 title:
 website: https://github.com/rockybala
 presentations:
-- title: Acts Integration into Athena
+- title: 'Acts Integration into Athena'
   date: 2020-05-15
   url:
   meeting: SLAC ATLAS meeting
@@ -40,3 +40,11 @@ presentations:
   project: acts
   focus-area: ia
   location: CERN
+- title: 'Implementation of Deep Learning Algorithm for identifying and locating primary vertices in ATLAS data'
+  date: 2021-10-13
+  url: https://indico.cern.ch/event/1071425/contributions/4505220/attachments/2327619/3965434/DIANA%20Presentation.pdf
+  meeting: DIANA/HEP Fellow Presentations
+  meetingurl: https://indico.cern.ch/event/1071425/
+  location:
+  project: pv-finder
+  focus-area: ia

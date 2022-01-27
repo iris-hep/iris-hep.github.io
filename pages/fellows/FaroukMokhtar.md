@@ -28,4 +28,6 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1071402/
     recordingurl: https://youtu.be/uSCABMAsd64
     focus-area: ia
+current_status: >
+  PhD Candidate in Experimental High Energy Physics University of California San Diego
 ---
