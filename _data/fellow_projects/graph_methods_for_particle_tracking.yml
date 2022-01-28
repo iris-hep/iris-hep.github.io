@@ -1,18 +1,21 @@
-open: no
-postdate: 2020-09-29
-title: Graph Methods for Particle Tracking
+open: yes
+postdate: 2022-01-27
+title: Geometric Machine Learning for Particle Tracking
 description: >
-  Particle track reconstruction is a critical software component for meeting
-  the physics goals of the HL-LHC.This project uses Graph based learning methods to
-  address this problem; the overall goal is to do accelerated track-seeding at the
-  trigger level by using Graph Neural Networks to construct tracklets in the ATLAS/CMS
-  pixel detectors and implementing the algorithms on dedicated FPGAs. There are two
-  areas within this work that a fellow could contribute to (and this project could
-  support two separate fellows depending on interest):The first is on the Machine
-  Learning side by implementing, training, and evaluating additional GNN architectures and
-  graph construction methods. The second is on the hardware and acceleration side
-  by working on translating the graph components of these algorithms efficiently onto
-  FPGAs.
+  Particle track reconstruction (trajectory finding) is a critical software component for meeting
+  the physics goals of the HL-LHC.This project uses geometric machine learning methods
+  (particularly graph neural networks) to
+  address this problem. There are several possible areas a fellow could contribute to: (a) extending
+  work on 'one-shot' tracking architectures that use object condensation or instance segmentation
+  approaches to identify tracks and extract track parameters in a single algorithm, (b) contributing
+  to an on-going study of equivariant GNNs for tracking by modifying an existing Lorentz-invariant network
+  to work with tracking data, implementing rotational equivariant networks for tracking, or studying
+  explainability methods for GNNs to characterize the impact of including invariance/equivariance, and (c)
+  accelerating these tracking methods by modifying existing OpenCL implementations of the different components
+  of GNN tracking (graph construction, GNN inference, and clustering) and linking them together into a full pipeline.
+  The specific project will be developed with the fellow. For all projects a knowledge of python is necessary; for projects
+  (a) and (b), experience with Pytorch is helpful but not required, while for project (c) some experience with C++ and/or
+  FPGAs is advantageous.
 contacts:
 - savvy379
-- "[Daniel Murnane](dtmurnane@lbl.gov)"
+
