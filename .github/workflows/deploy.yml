@@ -32,8 +32,7 @@ jobs:
       run: bundle exec rake build
       env:
         JEKYLL_ENV: production
-        INDICO_API_KEY: ${{ secrets.INDICO_API_KEY }}
-        INDICO_SECRET_KEY: ${{ secrets.INDICO_SECRET_KEY }}
+        INDICO_TOKEN: ${{ secrets.INDICO_TOKEN }}
 
     - name: Check for issues
       run: bundle exec rake checkonly || true
