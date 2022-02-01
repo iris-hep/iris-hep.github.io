@@ -18,7 +18,7 @@ e-mail: aman.goel185@gmail.com
 projects:
 - project_title: Hist Serialization and Interactivity
   project_goal: >
-    This project proposes the development of the Hist library further via the implementation of new features and advanced functionality such as serialization, interpolator integration and improved reprs. It would also address bug fixes, test coverage and documentation.<br/><br/> 
+    This project proposes the development of the Hist library further via the implementation of new features and advanced functionality such as serialization, interpolator integration and improved reprs. It would also address bug fixes, test coverage and documentation.<br/><br/>
     Further, it proposes the development of the uproot-browser into a fully functional library that would be based on textual and be able to view histograms. It would have a tree-like browser on the left, a plotext based plot viewer on the right and a potential control box below the plot. It would enable a user to browse and look inside a ROOT file, completely via the terminal.
   mentors:
   - Henry Schreiner - (Princeton University)
