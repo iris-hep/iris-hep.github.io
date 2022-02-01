@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'rake/clean'
+require 'rubocop/rake_task'
 
 # If no task given, build
 task default: :build
@@ -25,10 +26,7 @@ task :cache do
   sh 'jekyll-indico-cache'
 end
 
-desc 'Run rubocop to lint the ruby code'
-task :rubocop do
-  sh 'rubocop', '_plugins', '_scripts'
-end
+RuboCop::RakeTask.new(:rubocop)
 
 # See https://github.com/gjtorikian/html-proofer#configuration
 COMMON_OPTIONS = {

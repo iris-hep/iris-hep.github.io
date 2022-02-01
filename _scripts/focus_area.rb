@@ -35,5 +35,5 @@ people_files.each do |fn|
   sorted = info.sort_by { _1 }.to_h
   sorted['presentations'] = sorted.delete 'presentations'
 
-  fn.write(sorted.to_yaml.lines[1..-1].join)
+  fn.write(sorted.to_yaml.lines[1..].join)
 end
