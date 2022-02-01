@@ -37,7 +37,7 @@ gem 'minima', '~> 2.5'
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.15'
   gem 'jekyll-include-cache'
-  gem 'jekyll-indico', '~> 0.3.0'
+  gem 'jekyll-indico', '~> 0.4.1'
   # gem 'jekyll-indico', github: 'iris-hep/jekyll-indico', branch: 'main'
 end
 
