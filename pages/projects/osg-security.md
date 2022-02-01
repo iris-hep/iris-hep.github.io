@@ -11,6 +11,7 @@ focus-area: osglhc
 team:
 - adciu
 - jcdrake
+- brchase
 ---
 
 The OSG Security team works on supporting operational security for OSG infrastructure, software security,
