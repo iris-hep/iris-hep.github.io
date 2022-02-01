@@ -64,13 +64,13 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.7.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    nokogiri (1.13.1)
-      mini_portile2 (~> 2.7.0)
+    nokogiri (1.13.1-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.1-x86_64-linux)
       racc (~> 1.4)
     parallel (1.21.0)
     parser (3.1.0.0)
@@ -114,7 +114,8 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   ffi (~> 1.15)
@@ -136,4 +137,4 @@ RUBY VERSION
    ruby 2.7.3p183
 
 BUNDLED WITH
-   2.1.4
+   2.2.23
