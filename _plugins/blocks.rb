@@ -24,7 +24,7 @@ module IrisHep
 
       return output if results.size <= @number
 
-      output + "<p>[expand]</p>\n<ul>#{results[@number..-1].join("\n")}</ul>\n<p>[/expand]</p>\n"
+      output + "<p>[expand]</p>\n<ul>#{results[@number..].join("\n")}</ul>\n<p>[/expand]</p>\n"
     end
   end
 end

@@ -14,4 +14,4 @@ Metrics/CyclomaticComplexity:
   Max: 12
 AllCops:
   NewCops: enable
-  TargetRubyVersion: 2.4
+  TargetRubyVersion: 2.6
