@@ -121,3 +121,10 @@ presentations:
   url: https://indico.cern.ch/event/1034469/contributions/4434634/
   focus-area: doma
   project: idds
+- title: An intelligent Data Delivery Service (iDDS) for and beyond the ATLAS experiment
+  date: 2022-01-10
+  meeting: 30th International Symposium on Lepton Photon Interactions at High Energies
+  meetingurl: https://indico.cern.ch/event/949705/
+  url: https://indico.cern.ch/event/949705/contributions/4555786/
+  focus-area: doma
+  project: idds

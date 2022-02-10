@@ -12,20 +12,20 @@ summary: >
 When asked to describe his job, the director of one of the world's
 most advanced high-performance computing centers uses a pre-digital
 metaphor.
- 
+
 "The key," says Frank Würthwein, director of the San Diego Supercomputer
 Center (SDSC), "is being able to play matchmaker."
- 
+
 By that Prof. Würthwein, who assumed the role on Dec. 1 after having
 served as interim director since July, refers to SDSC's mission to
 link science and cyberinfrastructure (CI) in ways that solve
 scientific and societal problems.
- 
+
 "The SDSC's core competency is translating innovation into practice,"
 he says. "Combining the elements of cyberinfrastructure – the
 experts, the software, our partners – is the key to that translation."
 
-Würthwein sits on the executive board of the [Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)](https://iris-hep.org/), 
+Würthwein sits on the executive board of the [Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)](https://iris-hep.org/),
 a software institute established
 in 2018 to meet the Large Hadron Collider's formidable computing
 challenges in the coming decades. Funded by a grant from the National
@@ -62,12 +62,12 @@ Forest Service, and others.
 A central part of the SDSC director’s role is to identify the right
 collaborators for the right projects, and Würthwein relishes the
 task.
- 
+
 "We work with industry, we work with third parties, we work with
 funding agencies, we work with NGOs, we work with various individuals,"
 he says. "It's a great pleasure to look at the customer base and
 see the diversity."
- 
+
 A particle physicist by training, Würthwein is no stranger to
 projects that call for mass coordination. Before taking the helm
 of the SDSC and its more than $40 million annual budget, he worked
@@ -79,14 +79,14 @@ Despite his background in a discipline that he describes as "esoteric,"
 Würthwein says he has always been drawn to a broad variety of
 subjects. "I've always had a hard time drawing lines around physics,"
 he says.
- 
+
 Würthwein's multidisciplinary instincts make him well suited for
 SDSC, which provides computing resources to projects across a wide
 array of disciplines, including high-energy physics, genomics, Earth
 sciences, chemistry, and economics.  "My new job description requires
 me to talk to a diverse set of people all the time," he says. "I've
 turned my eclectic interests into a day job."
- 
+
 The position affords Würthwein with the ideal perch for playing
 matchmaker. "In my role I can focus on opportunities for new
 collaborations while members of our SDSC community focus on the
@@ -103,11 +103,11 @@ we identify the problems for which we search for solutions.”
 
 Würthwein can encapsulate SDSC's mission with a single Greek letter.
 "The letter π is for us a symbol of what we do," he says.
- 
+
 The letter π's two legs represent the various scientific disciplines
 on one side, and cyberinfrastructure on the other. The crossbar on
 top represents the work of linking the two legs together.
- 
+
 Since 2014, the SDSC has recognized outstanding examples of this
 work with its "π Person of the Year" award. That year, the award
 went to Ilkay Altintas, now SDSC'S Chief Data Science Officer. Dr.
