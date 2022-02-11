@@ -31,7 +31,7 @@ A member of the [Institute for Research and Innovation in Software for High Ener
 
 ## "A question of statistics"
 
-A native of Spain's Catalonia region, Espejo has been drawn to science from an early age. One of her early memories is watching a popular astronomy documentary series called "nostra)nau" ("Our Spaceship"). 
+A native of Spain's Catalonia region, Espejo has been drawn to science from an early age. One of her early memories is watching a popular astronomy documentary series called "nostra nau" ("Our Spaceship"). 
 
 She says that the images of stars and other celestial bodies offered her a glimpse of a world that is at once transcendent and timeless. "I saw something that is there no matter what happens during your everyday life, that's going to be there for millions or more years," she says. "That's what's meaningful to me."
 
