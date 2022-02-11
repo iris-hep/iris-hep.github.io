@@ -6,7 +6,7 @@ image: /assets/images/posts/20220104-Mason-Proffitt-3.jpg
 image-caption: >
   Mason Proffitt, a PhD student in the University of Washington's physics department and a member with the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP),  poses for a photo in UW's Physics Astronomy Building. Photo Credit: Gordon Watts, University of Washington
 summary: >
-    Highlights the work of Mason Proffitt, a a PhD student in the University of Washington's physics department and a member of IRIS-HEP.
+    Highlights the work of Mason Proffitt, a PhD student in the University of Washington's physics department and a member of IRIS-HEP.
 ---
 
 When he was in the third grade, Mason Proffitt opened a book that would set his life's trajectory.
