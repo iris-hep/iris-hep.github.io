@@ -1,0 +1,7 @@
+title: "Awkward Array: JSON-like data, NumPy-like idioms"
+link: https://conference.scipy.org/proceedings/scipy2020/jim_pivarski.html
+date: 2020-07-07
+citation: "Jim Pivarski, Ianna Osborne, Pratyush Das, Anish Biswas, Peter Elmer, SciPy 2020"
+focus-area: as
+project:
+  - awkward
