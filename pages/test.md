@@ -40,7 +40,7 @@ Two types of IRIS-HEP Fellows are possible:
   * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor to develop research software relevant for HEP in one of the R&D areas listed below. Graduate fellows will receive subsistence, paid monthly, during their fellowship and their travel to relocate to work in person with the mentor will be provided. They should not in general have support via a teaching or research assistant position during the fellowship period. **Applications opening soon**
 -->
 
-**How does it work?** - After you apply, we will make make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will have to turn into a short 2-page proposal. Based on that we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step.
+**How does it work?** - After you apply, we will make make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will have to turn into a short 2-page proposal. Based on that we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step. There will be a Webinar to help people prepare their applications on Wednesday, 23 February, 2022 at 12:00 U.S. east coast time (NYC/Princeton). To participate in this Webinar, please provide your email via this [Webinar Google Form](https://docs.google.com/forms/d/11YJkjKIEDBjZBJwX0Ar56XhvV1BqU9-eNhdWt5oFQyc/edit) and we will send you a Zoom link one day before.
 
 **Which R&D areas are relevant for IRIS-HEP?** - We are particularly interested in software R&D areas where IRIS-HEP personnel are active, but may also consider proposals for other software R&D topics of larger relevance to the HEP community. The IRIS-HEP activities include:
 
@@ -73,7 +73,7 @@ these areas can be part of the program.
 Prospective fellows are encouraged to **contact specific mentors** listed on the project pages above.
 If you have a idea for a project which excites you, but do not find similar examples or are not sure which mentor to contact, please do not hesitate to contact the IRIS-HEP fellows@iris-hep.org mailing list. The lists above are not exhaustive. We will help you link up with possible mentor candidates!
 
-Prospective fellows can apply using this [Google Form](https://docs.google.com/forms/d/1Fb1cxbZ1XoGdV6sDwlDs3kc7dJFY78ohx0IoWBRMdMs/edit). You will need to provide:
+Prospective fellows can apply using this [Application Google Form](https://docs.google.com/forms/d/1Fb1cxbZ1XoGdV6sDwlDs3kc7dJFY78ohx0IoWBRMdMs/edit). You will need to provide:
 
  * Your full name, email address, the name of your university or college and your current or planned major and/or area of study
  * A resume/CV (in pdf format) with contact information
