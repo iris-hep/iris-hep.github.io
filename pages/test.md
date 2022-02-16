@@ -8,12 +8,12 @@ title: Test Page
 
 # IRIS-HEP Fellows Program
 
-**Applications for the Undergraduate Fellow progam in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).** 
+**Applications for the Undergraduate Fellow progam in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
 
   People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
 
-  To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP 
-Fellows will spend some number of months working with a mentor to build their skills while working on a research software project relevant to the Institute. 
+  To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP
+Fellows will spend some number of months working with a mentor to build their skills while working on a research software project relevant to the Institute.
 
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
