@@ -24,9 +24,6 @@ A number of employment opportunities exist with the universities involved in IRI
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
-### University of Notre Dame
-  * [Postdoc on CMS for ML and Analysis Frameworks](https://academicjobsonline.org/ajo/jobs/17981)
-
 ### Princeton University
 
   * [Manager, Research Software Engineering](https://main-princeton.icims.com/jobs/14134/manager%2c-research-software-engineering/job?mobile=false&width=1048&height=500&bga=true&needsRedirect=false&jan1offset=60&jun1offset=120)
