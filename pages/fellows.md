@@ -30,7 +30,7 @@ Two types of IRIS-HEP Fellows are possible:
   * Eligibility:
     * You must be enrolled in an undergraduate program at an accredited University or College and have completed at least 1 academic year by the start of the Fellowship.
     * Our NSF funding supports student Fellows associated to U.S. universtities and colleges, but we do have separate funding for a small number of international students.
-  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 3 FTE-months (full time equivalent) at $2400/month during Summer 2022. We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last either 10 or 12 weeks (2.5 or 3 months).
+  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 3 FTE-months (full time equivalent) at $2400/month during Summer 2022. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last either 10 or 12 weeks (2.5 or 3 months).
   * **Applications are now open - deadline 8 March**
 
 
