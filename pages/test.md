@@ -82,13 +82,19 @@ Due to COVID-19 restrictions, no travel or relocation subsistence costs can curr
 Prospective fellows are encouraged to **contact specific mentors** listed on the project pages above.
 If you have a idea for a project which excites you, but do not find similar examples or are not sure which mentor to contact, please do not hesitate to contact the IRIS-HEP fellows@iris-hep.org mailing list. The lists above are not exhaustive. We will help you link up with possible mentor candidates!
 
-Prospective fellows will eventually apply (to fellows@iris-hep.org) by providing:
+Prospective fellows can apply using this [Google Form](https://docs.google.com/forms/d/1Fb1cxbZ1XoGdV6sDwlDs3kc7dJFY78ohx0IoWBRMdMs/edit). You will need to provide:
 
- * A CV. Please include both educational status and any software-relevant coursework and/or previous software projects and activities.
+ * Your full name, email address, the name of your university or college and your current or planned major and/or area of study
+ * A resume/CV (in pdf format) with contact information
+ * An academic transcript - this can be unofficial, but should include course titles and overall GPA. At the time the Fellowship starts you must have completed at least 1 year of university/college.
+ * A short essay describing your interest in the internship program (maximum 1 page, pdf format). For example, you may wish to expand on 3 or 4 topics from the following list: your background, your skills, and strengths;  what software, computing or scientific topics appeal to you; previous research experience, if any; what you may want to pursue as a future career; and what benefits you would like to gain from this program. If you already have a potential mentor and/or particular projects which interest you from the project lists above, you can also mention them here. It is however not required to have a mentor/project finalised to submit an application. Successful applicants will be connected to mentors to select and define their projects in a 2nd step following this application
+ * [Optional] The full name and email address of a reference. This is optional. Ideally it would be someone with whom you have interacted in a STEM context (e.g. a course or a previous research activity). You should contact the person in advance to confirm that they will write a letter for you and simply provide their name/email. After you submit the application form, we will contact them to request the letter.
+
+
+<!--
  * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. **Note also the intended software project or person with whom you will collaborate as mentor. Proposals for which an initial plan has been worked out with the mentor will likely rank more strongly.** The proposal should be short, typically no more 1-2 pages to describe the project and then a short timeline with deliverables (see also examples from previous fellows). The timeline should also include the proposed FTE effort fractions by month (not to exceed 3 FTE-months total) and information on other major activities taking significant time (other research activities or jobs, coursework load, etc.)
+-->
 
-
-IRIS-HEP Fellow positions will be awarded in a rolling fashion based on submitted project proposals. All proposals submitted by Sunday, 18 April, 2021, will receive full consideration.
 
 {% assign fellows = site.pages | where: "pagetype", "fellow"
                                | last_name_sort: "fellow-name"
