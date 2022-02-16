@@ -40,6 +40,8 @@ Two types of IRIS-HEP Fellows are possible:
   * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor to develop research software relevant for HEP in one of the R&D areas listed below. Graduate fellows will receive subsistence, paid monthly, during their fellowship and their travel to relocate to work in person with the mentor will be provided. They should not in general have support via a teaching or research assistant position during the fellowship period. **Applications opening soon**
 -->
 
+**How does it work?** - After you apply, we will make make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will have to turn into a short 2-page proposal. Based on that we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step.
+
 **Which R&D areas are relevant for IRIS-HEP?** - We are particularly interested in software R&D areas where IRIS-HEP personnel are active, but may also consider proposals for other software R&D topics of larger relevance to the HEP community. The IRIS-HEP activities include:
 
   * [Analysis Systems](/as.html)
@@ -56,29 +58,16 @@ a specific project be one for which IRIS-HEP personnel are active. Any
 appropriate mentor from the larger community working in one of
 these areas can be part of the program.
 
-
-
-
-<!--
-Due to COVID-19 restrictions, no travel or relocation subsistence costs can currently be paid to support co-location of either Undergraduate or Graduate Fellows with mentors. Fellows will in general work remotely at a distance with their mentors, unless they happen to be at the same institution.
-
-For Summer 2021 we are happy to accept proposals for IRIS-HEP Fellows from undergraduate students and
-graduate students that do not have a research assistantship (e.g. Masters students).
-Due to COVID-19 restrictions, no travel or relocation subsistence costs can currently be paid to support co-location of either Fellows with mentors. Fellows will in general work remotely at a distance with their mentors, unless they happen to be at the same institution. Applicant students should be associated with a US university.
--->
-
 <!--
 **Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month. As full time research software activities are not consistent with taking classes during the academic year (as opposed to summer), most fellows will work a smaller time fraction over a larger number of calendar months. (For example, half-time for 6 months.) Applicants should include a proposed time profile for their activities in their proposal, as well as note their academic course load and/or any other activities taking significant time.
 -->
-
-
 
 **Projects:** Research software projects should in general be in the R&D areas listed above or (in some cases) be projects of more general interest to the HEP community. How do you find a project? There are several possibilities:
 
   * Examples of currently open IRIS-HEP Fellow projects can be found **[on a separate webpage](/fellow_projects.html)**. These projects are of interest to IRIS-HEP researchers (who may then act as mentors). You can write to the mentor listed to discuss or reach out to fellows@iris-hep.org for more information. *This page may be updated from time to time, so check back and reload.*
   * Additional example projects of interest in the wider HEP community can also be found on the [HEP Software Foundation Google Summer of Code (HSF GSoC) webpage](https://hepsoftwarefoundation.org/activities/gsoc.html). While GSoC is a separate program, funded by Google, many of the projects could also be appropriate for IRIS-HEP Fellows if they are related to the R&D areas listed above.
   * Recent Fellows and links to descriptions of their projects can be found below in the list of current and past Fellows. In some cases, there may be continuations of those projects.
-  * Some additional projects for Summer 2021 are listed on the [DIANA/HEP Fellows webpage](http://diana-hep.org/pages/fellows.html) and on the open projects page of the [Compiler Research](https://compiler-research.org/open_projects) project
+  * Some additional projects can be found on the open projects page of the [Compiler Research](https://compiler-research.org/open_projects) project
   * You can explore the links above to the IRIS-HEP R&D research activities. Most IRIS-HEP active projects list contacts with whom you can discuss to bring your own ideas.
 
 Prospective fellows are encouraged to **contact specific mentors** listed on the project pages above.
@@ -90,7 +79,7 @@ Prospective fellows can apply using this [Google Form](https://docs.google.com/f
  * A resume/CV (in pdf format) with contact information
  * An academic transcript - this can be unofficial, but should include course titles and overall GPA. At the time the Fellowship starts you must have completed at least 1 year of university/college.
  * A short essay describing your interest in the internship program (maximum 1 page, pdf format). For example, you may wish to expand on 3 or 4 topics from the following list: your background, your skills, and strengths;  what software, computing or scientific topics appeal to you; previous research experience, if any; what you may want to pursue as a future career; and what benefits you would like to gain from this program. If you already have a potential mentor and/or particular projects which interest you from the project lists above, you can also mention them here. It is however not required to have a mentor/project finalised to submit an application. Successful applicants will be connected to mentors to select and define their projects in a 2nd step following this application
- * [Optional] The full name and email address of a reference. This is optional. Ideally it would be someone with whom you have interacted in a STEM context (e.g. a course or a previous research activity). You should contact the person in advance to confirm that they will write a letter for you and simply provide their name/email. After you submit the application form, we will contact them to request the letter.
+ * [Optional] The full name and email address of a reference. This is optional. Ideally it would be someone with whom you have interacted in a STEM context (e.g. a course or a previous research activity). You should contact the person in advance to confirm that they will write a letter for you and simply provide their name/email in the application form. After you submit the form, we will contact them to request the letter.
 
 
 <!--
