@@ -29,7 +29,7 @@ Two types of IRIS-HEP Fellows are possible:
   * Undergraduate fellows work with a mentor to develop research software relevant in one of the R&D areas listed below. Undergraduate fellows will receive a training stipend, paid monthly, during their fellowship. In most cases, they will in general remain in their home location and work in remote with their mentor.
   * Eligibility:
     * You must be enrolled in an undergraduate program at an accredited University or College and have completed at least 1 academic year by the start of the Fellowship.
-    * Our NSF funding supports student Fellows associated to U.S. universities and colleges, but we do have separate funding for a small number of international students.
+    * Our main NSF funding supports student Fellows enrolled in U.S. universities and colleges, and U.S. citizenship is not required. We also have some separate non-NSF funding for a small number of students enrolled in international universities/colleges.
   * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 3 FTE-months (full time equivalent) at $2400/month during Summer 2022. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last either 10 or 12 weeks (2.5 or 3 months).
   * **Applications are now open - deadline 8 March**
 
