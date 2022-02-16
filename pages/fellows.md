@@ -6,7 +6,7 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-**Applications for the Undergraduate Fellows progam in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
+**Applications for the Undergraduate Fellows program in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
 
 **Applications for the Graduate Fellows program are not yet open, but are coming soon.**
 
@@ -24,12 +24,12 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
 Two types of IRIS-HEP Fellows are possible:
 -->
 
-**We are currently accepting applications for IRIS-HEP Undergradate Fellows for Summer 2022:**
+**We are currently accepting applications for IRIS-HEP Undergraduate Fellows for Summer 2022:**
 
   * Undergraduate fellows work with a mentor to develop research software relevant in one of the R&D areas listed below. Undergraduate fellows will receive a training stipend, paid monthly, during their fellowship. In most cases, they will in general remain in their home location and work in remote with their mentor.
   * Eligibility:
     * You must be enrolled in an undergraduate program at an accredited University or College and have completed at least 1 academic year by the start of the Fellowship.
-    * Our NSF funding supports student Fellows associated to U.S. universtities and colleges, but we do have separate funding for a small number of international students.
+    * Our NSF funding supports student Fellows associated to U.S. universities and colleges, but we do have separate funding for a small number of international students.
   * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 3 FTE-months (full time equivalent) at $2400/month during Summer 2022. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last either 10 or 12 weeks (2.5 or 3 months).
   * **Applications are now open - deadline 8 March**
 
