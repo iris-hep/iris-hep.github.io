@@ -8,29 +8,33 @@ title: Test Page
 
 # IRIS-HEP Fellows Program
 
-**Applications for the Undergraduate Fellow progam in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
+**Applications for the Undergraduate Fellows progam in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
 
-  People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
+**Applications for the Graduate Fellows program are not yet open, but are coming soon.**
 
-  To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP
-Fellows will spend some number of months working with a mentor to build their skills while working on a research software project relevant to the Institute.
+People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
+
+To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP Fellows will spend some number of months working with a mentor to build their skills while working on a research software project relevant to the Institute.
 
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
 with basic programming through skills acquired (for example) from coursework or
 dedicated training activities? Are you interested in building on those skills to gain experience through contributions to cutting edge open
-source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. We will also offer dedicated [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specifi software skills. *Applications from women and members of underrepresented groups in STEM activities are particularly encouraged.*
+source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. We will also offer dedicated [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specific software skills. *Applications from women and members of underrepresented groups in STEM activities are particularly encouraged.*
 
 <!--
 Two types of IRIS-HEP Fellows are possible:
 -->
 
-We are currently accepting applications for one category of IRIS-HEP Fellows:
+**We are currently accepting applications for IRIS-HEP Undergradate Fellows for Summer 2022:**
 
-  * **IRIS-HEP Undergraduate Fellows** - Undergraduate fellows work with a mentor to develop research software relevant in one of the R&D areas listed below. Undergraduate fellows will receive a training stipend, paid monthly, during their fellowship. In most cases, they will in general remain in their home location and work in remote with their mentor. - **Applications are now open - deadline 8 March**
+  * Undergraduate fellows work with a mentor to develop research software relevant in one of the R&D areas listed below. Undergraduate fellows will receive a training stipend, paid monthly, during their fellowship. In most cases, they will in general remain in their home location and work in remote with their mentor.
   * Eligibility:
     * You must be enrolled in an undergraduate program at an accredited University or College and have completed at least 1 academic year by the start of the Fellowship.
     * Our NSF funding supports student Fellows associated to U.S. universtities and colleges, but we do have separate funding for a small number of international students.
+  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 3 FTE-months (full time equivalent) at $2400/month during Summer 2022. We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last either 10 or 12 weeks (2.5 or 3 months).
+  * **Applications are now open - deadline 8 March**
+
 
 <!--
   * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor to develop research software relevant for HEP in one of the R&D areas listed below. Graduate fellows will receive subsistence, paid monthly, during their fellowship and their travel to relocate to work in person with the mentor will be provided. They should not in general have support via a teaching or research assistant position during the fellowship period. **Applications opening soon**
@@ -67,8 +71,6 @@ Due to COVID-19 restrictions, no travel or relocation subsistence costs can curr
 **Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month. As full time research software activities are not consistent with taking classes during the academic year (as opposed to summer), most fellows will work a smaller time fraction over a larger number of calendar months. (For example, half-time for 6 months.) Applicants should include a proposed time profile for their activities in their proposal, as well as note their academic course load and/or any other activities taking significant time.
 -->
 
-
-**Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2400/month during Summer 2022. We have some flexibility to accommodate different summer schedules and lengths. Most Fellowships should last either 10 or 12 weeks (2.5 or 3 months).
 
 
 **Projects:** Research software projects should in general be in the R&D areas listed above or (in some cases) be projects of more general interest to the HEP community. How do you find a project? There are several possibilities:
