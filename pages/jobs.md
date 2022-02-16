@@ -29,7 +29,7 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
 ### Princeton University
 
-  * [Data Scientist positions in Catalysis, Biomedical Data Science and Technology Policy](https://csml.princeton.edu/news/data-scientist-positions-available-princeton)
+  * [Manager, Research Software Engineering](https://main-princeton.icims.com/jobs/14134/manager%2c-research-software-engineering/job?mobile=false&width=1048&height=500&bga=true&needsRedirect=false&jan1offset=60&jun1offset=120)
 
 ### ATLAS
 
