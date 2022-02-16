@@ -4,8 +4,6 @@ layout: default
 title: Test Page
 ---
 
-# New Test page
-
 # IRIS-HEP Fellows Program
 
 **Applications for the Undergraduate Fellows progam in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
@@ -40,7 +38,10 @@ Two types of IRIS-HEP Fellows are possible:
   * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor to develop research software relevant for HEP in one of the R&D areas listed below. Graduate fellows will receive subsistence, paid monthly, during their fellowship and their travel to relocate to work in person with the mentor will be provided. They should not in general have support via a teaching or research assistant position during the fellowship period. **Applications opening soon**
 -->
 
-**How does it work?** - After you apply, we will make make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will have to turn into a short 2-page proposal. Based on that we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step. There will be a Webinar to help people prepare their applications on Wednesday, 23 February, 2022 at 12:00 U.S. east coast time (NYC/Princeton). To participate in this Webinar, please provide your email via this [Webinar Google Form](https://docs.google.com/forms/d/11YJkjKIEDBjZBJwX0Ar56XhvV1BqU9-eNhdWt5oFQyc/edit) and we will send you a Zoom link one day before.
+**How does it work?** - After you apply, we will make make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will turn into a short 2-page project proposal and timeline (with some help from your mentor). Based on that we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step. There will be a Webinar to help people prepare their applications on Wednesday, 23 February, 2022 at 12:00 U.S. east coast time (NYC/Princeton). To participate in this Webinar, please provide your email via this [Webinar Google Form](https://docs.google.com/forms/d/11YJkjKIEDBjZBJwX0Ar56XhvV1BqU9-eNhdWt5oFQyc/edit) and we will send you a Zoom link one day before.
+
+During the Fellowship, you will work with your mentor and likely other collaborators using Slack, Zoom, GitHub and other similar tools. You will also make a short
+presentation about your project to other Fellows and Mentors as you start your Fellowship, another midway through the project to show your progress and a final presentation about your results at the very end. You will also have an opportunity to attend [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specific software skills.
 
 **Which R&D areas are relevant for IRIS-HEP?** - We are particularly interested in software R&D areas where IRIS-HEP personnel are active, but may also consider proposals for other software R&D topics of larger relevance to the HEP community. The IRIS-HEP activities include:
 
