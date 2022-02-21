@@ -80,6 +80,16 @@
             <a href = {{page.website}}>Visit my website</a><br>
           </li>
           {% endif %}
+          {% if page.github-username.size > 4 %}
+          <li>
+            <a href = "https://github.com/{{page.github-username}}">Visit my GitHub Repo</a><br>
+          </li>
+          {% endif %}
+          {% if page.linkedin-profile.size > 4 %}
+          <li>
+            <a href = {{page.linkedin-profile}}>Visit my LinkedIn Profile</a><br>
+          </li>
+          {% endif %}
         </ul>
 
 
