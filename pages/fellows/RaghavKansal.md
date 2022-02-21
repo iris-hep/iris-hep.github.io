@@ -51,6 +51,6 @@ presentations:
 current_status: >
   As of Fall 2020, Raghav is beginning graduate studies in Physics at the University
   of California, San Diego
-github-username: davidlange6
+github-username: rkansal47
 
 ---
