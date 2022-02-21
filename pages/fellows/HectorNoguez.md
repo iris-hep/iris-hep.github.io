@@ -33,6 +33,6 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1074443/
   recordingurl: https://youtu.be/l5ZN8fjPW9c
   focus-area: ia
-github-username: rct225
+github-username:
 
 ---

@@ -30,6 +30,5 @@ presentations:
   recordingurl: https://youtu.be/HBETq2zCyY8
   focus-area: as
 current_status: >
-github-username: rct225
-
+github-username:
 ---

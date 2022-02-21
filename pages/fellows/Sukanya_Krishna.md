@@ -33,6 +33,6 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071402/
   recordingurl: https://youtu.be/uSCABMAsd64
   focus-area: ia
-github-username: rct225
+github-username:
 
 ---
