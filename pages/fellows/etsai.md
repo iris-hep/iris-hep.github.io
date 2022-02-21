@@ -5,6 +5,7 @@ pagetype: fellow
 active: false
 title: Emily Tsai - IRIS-HEP Fellow
 fellow-name: Emily Tsai
+shortname: etsai
 project_title: OpenCL based implementation of graph neural networks on FPGA
 focus-area: ia
 dates:
