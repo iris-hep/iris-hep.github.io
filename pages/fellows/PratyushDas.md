@@ -67,6 +67,6 @@ presentations:
 current_status: >
   As of Fall 2021, Pratyush is beginning graduate studies in Computer Science at Purdue
   University.
-github-username: davidlange6
+github-username: reikdas
 
 ---
