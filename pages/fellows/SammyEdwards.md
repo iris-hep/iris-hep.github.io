@@ -33,6 +33,6 @@ presentations: >
     recordingurl:
     focus-area:
 current_status: >
-github-username: 
+github-username:
 
 ---
