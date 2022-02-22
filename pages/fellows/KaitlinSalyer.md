@@ -5,7 +5,6 @@ pagetype: fellow
 active: true
 title: Kaitlin Salyer - IRIS-HEP Fellow
 fellow-name: Kaitlin Salyer
-shortname: Kaitlin
 project_title: AutoDQM A Machine Learning Approach to Data Quality Monitoring at CMS
 focus-area:
 dates:
@@ -16,11 +15,16 @@ institution: Boston University
 website:
 e-mail: ksalyer@bu.edu
 mentors:
-  - Indara Suarez (Boston University)
-  - Chad Freer (Northeastern University)
+- Indara Suarez (Boston University)
+- Chad Freer (Northeastern University)
 project_goal: >
-  The goal of this project is to develop a machine learning (ML) tool to highlight anomalies in detector output from the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider (LHC). This will ultimately help to simplify the data quality monitoring (DQM) process.
+  The goal of this project is to develop a machine learning (ML) tool to highlight
+  anomalies in detector output from the Compact Muon Solenoid (CMS) experiment at
+  the Large Hadron Collider (LHC). This will ultimately help to simplify the data
+  quality monitoring (DQM) process.
 
 proposal: /assets/pdf/ksalyer_proposal.pdf
 presentations:
+github-username: ksalyer
+
 ---

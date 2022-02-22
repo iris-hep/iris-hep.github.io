@@ -38,7 +38,7 @@ module Checks
 
     def people_gen
       fellow_pages = @site.pages.select { |v| v.data['pagetype'] == 'fellow' }.compact
-      fellow_shortnames = fellow_pages.map { |v| v.data['shortname'] }.to_set
+      fellow_shortnames = fellow_pages.map { |v| v.data['github-username'] }.to_set
       @site.data['people'].keys.to_set | fellow_shortnames
     end
   end
