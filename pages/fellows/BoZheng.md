@@ -12,7 +12,6 @@ dates:
   end: 2020-08-31
 photo: /assets/images/team/Bo-Zheng.jpg
 institution: Rice University
-website: https://github.com/coolalexzb
 e-mail: bz30@rice.edu
 mentors:
 - matthewfeickert

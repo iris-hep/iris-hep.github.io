@@ -13,7 +13,6 @@ dates:
   end: 2020-08-31
 photo: /assets/images/team/Sean-Condon.jpg
 institution: Massachusetts Institute of Technology
-website: https://github.com/seancondon99
 e-mail: scondon@mit.edu
 mentors:
 - Michael Williams (mwill@mit.edu)

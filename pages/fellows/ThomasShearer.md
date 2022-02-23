@@ -12,7 +12,6 @@ dates:
   end: 2020-08-31
 photo: /assets/images/team/Thomas-Shearer.jpg
 institution: University of Michigan - Ann Arbor
-website: https://github.com/shearert
 email: shearert@umich.edu
 mentors:
 - Shawn McKee
