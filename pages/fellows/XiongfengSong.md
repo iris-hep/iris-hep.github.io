@@ -13,7 +13,6 @@ dates:
   end: 2020-08-31
 photo: /assets/images/team/Xiongfeng_Song.JPG
 institution: Rice University
-website: https://github.com/kingwind123
 e-mail: xs16@rice.edu
 mentors:
 - Jeff LeFevre(University of California Santa Cruz)

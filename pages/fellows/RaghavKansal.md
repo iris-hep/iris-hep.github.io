@@ -10,7 +10,6 @@ dates:
   end: 2019-08-31
 photo: /assets/images/team/Raghav-Kansal.jpg
 institution: University of California, San Diego
-website: https://github.com/raghsthebest/
 e-mail: NoEmailYet
 focus-area: ia
 

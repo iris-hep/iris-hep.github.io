@@ -12,7 +12,6 @@ dates:
   end: 2021-07-10
 photo: /assets/images/team/Jayjeet-Chakraborty.png
 institution: National Institute Of Technology, Durgapur
-website: https://github.com/JayjeetAtGithub/
 e-mail: jayjeetchakraborty25@gmail.com
 
 projects:
