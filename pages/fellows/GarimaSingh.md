@@ -40,7 +40,7 @@ presentations:
   recordingurl:
   focus-area: ia
 current_status: >
-  Sutdent Software Developer Google Summer of Code
+  Research Software Intern for IRIS-HEP and CERN SFT
 github-username: grimmmyshini
 
 ---
