@@ -48,3 +48,11 @@ presentations:
   location:
   project: pv-finder
   focus-area: ia
+- title: "CKF parameter tuning studies"
+  date: 2022-02-25
+  url: https://indico.cern.ch/event/1132631/contributions/4752678/attachments/2397574/4099722/CKF%20Parameter%20Tuning%20Studies.pdf
+  meeting: ACTS Machine Learning Meeting
+  meetingurl: https://indico.cern.ch/event/1132631/
+  project: acts
+  focus-area: ia
+  location: CERN
