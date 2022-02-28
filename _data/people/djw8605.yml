@@ -11,7 +11,7 @@ website: https://derekweitzel.com
 presentations:
 - title: 'XRootD Monitoring Flow'
   date: 2022-01-27
-  url: https://indico.cern.ch/event/1120678/contributions/4705455/attachments/2380176/4066785/XRootD%20Monitoring%20Flow.pdf 
+  url: https://indico.cern.ch/event/1120678/contributions/4705455/attachments/2380176/4066785/XRootD%20Monitoring%20Flow.pdf
   meeting: WLCG Operations Coordination
   meetingurl: https://indico.cern.ch/event/1120678/
   focus-area:
