@@ -97,6 +97,38 @@ On the ATLAS side, the transition has taken a faster pace having that most of th
 </div>
 
 <br>
+<br>
+One of the 2022 milestones for this project was to demonstrate the ability to
+sustain aggregate 100Gbps data flows from a source storage using HTTP-TPC
+During SC21 we were able to run tests using 3 XRootD clusters in 3 different
+locations: UCSD, Caltech and Starlight, the latter 2 clusters where used as a
+source and the former as a sink. Caltech was connected to UCSD via a dedicated
+100Gbps link and Starlight had 2 x 100Gbps links available to connect to UCSD.
+<br>
+Using the k8s Nautilus cluster of PRP we were able to easily deploy the software
+and configurations necessary for these experiments.<br>
+In our test we were able to reach a transfer rate of 125Gbps out of the 300Gbps
+theoretical limit.
+<br>
+
+<div class="card" style="width: 40rem; margin: auto">
+  <img class="card-img-top" style="object-fit: contain"
+       src="/assets/images/tpc-500gbps-tests.png" alt="SC21 Tests">
+  <div class="card-body">
+   <h5 class="card-title">Data transfer rate achieved during SC21 Tests </h5>
+   <p class="card-text">This plots shows the breakdown per node and interface
+      of the transfer rate achieved from the node at Caltech and Starlight
+      during the SC21 tests.
+   </p>
+  </div>
+</div>
+
+<br>
+We found the limitation to be the amount of CPUs available on
+the Starlight cluster where we were only able to get 12.5% of the available bandwidth
+whereas on Caltech's cluster we reached 100% of its capacity.
+<br>
+
 <h3>More Information</h3>
 
  * [Third Party Copy](https://twiki.cern.ch/twiki/bin/view/LCG/ThirdPartyCopy)
