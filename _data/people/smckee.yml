@@ -283,7 +283,7 @@ presentations:
   location: Zoom
   focus-area: osglhc
   project: osg-networking
-= title: LHCOPN/LHCONE Monitoring Update
+- title: LHCOPN/LHCONE Monitoring Update
   meeting: Fall 2021 LHCOPN/LHCONE Meeting
   date: 2021-10-11
   location: Zoom
@@ -291,7 +291,7 @@ presentations:
   url: https://indico.cern.ch/event/1022426/contributions/4492282/attachments/2325716/3961710/LHCONE%20Monitoring%20Update%20Fall%202021.pdf
   focus-area: osglhc
   project: osg-networking
-= title: Research Network Technical WG Update
+- title: Research Network Technical WG Update
   meeting: Fall 2021 LHCOPN/LHCONE Meeting
   date: 2021-10-11
   location: Zoom
