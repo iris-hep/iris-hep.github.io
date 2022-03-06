@@ -299,7 +299,7 @@ presentations:
   url: https://indico.cern.ch/event/1022426/contributions/4492285/attachments/2326491/3963219/Research%20Network%20Technical%20WG%20update.pdf
   focus-area: doma
   project: osg-networking
-- title: FABRIC and FAB: Project Overviews and Status
+- title: FABRIC and FAB Project Overviews and Status
   meeting: Fall 2021 LHCOPN/LHCONE Meeting
   date: 2021-10-12
   url: https://indico.cern.ch/event/1022426/contributions/4535879/attachments/2326546/3963506/FAB%20and%20FABRIC%20at%20the%20LHCOPN_LHCONE%20Meeting.pdf
@@ -339,7 +339,7 @@ presentations:
   location: Zoom
   focus-area: doma
   project: osg-networking
-- title: Scientific Network Tags: Packet and Flow Marking
+- title: Scientific Network Tags Packet and Flow Marking
   url: https://indico.cern.ch/event/1131981/contributions/4750084/attachments/2400676/4105465/BDT_%20Scitags_%20Packet%20and%20Flow%20Marking%20.pdf
   meeting: WLCG DOMA Bulk Data Transfer (BDT) WG
   meetingurl: https://indico.cern.ch/event/1131981/
