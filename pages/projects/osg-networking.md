@@ -25,7 +25,7 @@ to better understand their distributed infrastructures, localize problems, and m
 This project collaborates with a number of projects including:
 
 *   **SAND** ([Service Analysis and Network Diagnosis](https://sand-ci.org/), NSF Grant #1827116):
-    While the SAND grant has finished in August 2021, the OSG networking area is continuing the 
+    While the SAND grant has finished in August 2021, the OSG networking area is continuing the
     work around our network metric pipeline, associated analytics, alerting and alarming.
 
 *   **WLCG Throughput Working Group:**
