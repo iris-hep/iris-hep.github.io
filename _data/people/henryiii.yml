@@ -310,3 +310,26 @@ presentations:
   project: histogram
   location: Virtual
   video: https://youtu.be/l3TuzZpPewY?t=1325
+- title: Mixing Python and Compiled Codes
+  date: 2021-11-16
+  url: https://github.com/henryiii/python-compiled-minicourse/tree/2021-11-16-pu
+  meeting: Princeton Research Computing Fall 2021 Workshop
+  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/fall-2021-workshop-materials
+  focus-area: ssc
+  project:
+  location: Princeton University
+- title: Python histogram developments (poster)
+  date: 2021-12-01
+  url: https://indico.cern.ch/event/855454/contributions/4605013/
+  meeting: ACAT 2021
+  meetingurl: https://indico.cern.ch/event/855454/
+  focus-area: as
+  project: histogram
+- title: Level Up Your Python
+  date: 2022-01-10
+  url: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/wintersession-2022-workshop-materials
+  meetingurl: https://winter.princeton.edu
+  meeting: Princeton Wintersession
+  focus-area: ssc
+  project:
+  location: Virtual

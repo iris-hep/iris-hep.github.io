@@ -1,0 +1,14 @@
+open: yes
+postdate:
+title: Continuous Deployment on Kubernetes for OSG-LHC containerized services
+description: >
+  The Open Science Grid (OSG) offers an integrated software stack and
+  infrastructure used by the High-Energy Physics community to meet
+  their computational needs. As part of this infrastructure, the OSG
+  deploys central services that are verified in a testing environment
+  before being moved to production. We seek a fellow who will join us
+  in designing a Kubernetes-based continuous deployment model to
+  automate production service updates.
+contacts:
+- brianhlin
+- matyasselmeci

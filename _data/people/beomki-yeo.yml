@@ -54,4 +54,18 @@ presentations:
   meetingurl: https://indico.cern.ch/event/855454/contributions/4605075/
   project: acts
   focus-area: ia
+- title: Tracking with ACTS on GPUs
+  date: 2022-01-12
+  url: https://indico.cern.ch/event/1108812/contributions/4664149/attachments/2372004/4051204/220112_annual_meeting_ACTS_GPU_v2.pdf
+  meeting: Annual LBNL ATLAS Meeting
+  meetingurl: https://indico.cern.ch/event/1108812/
+  project: acts
+  focus-area: ia
+- title: Discussion on the (CUDA) navigator in detray
+  date: 2022-02-04
+  url: https://indico.cern.ch/event/1123703/contributions/4717015/attachments/2385160/4076289/220204_detray_navigator.pdf
+  meeting: Acts Parallelization Meeting
+  meetingurl: https://indico.cern.ch/event/1123703/
+  project: acts
+  focus-area: ia
   location: CERN

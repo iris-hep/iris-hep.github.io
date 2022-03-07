@@ -13,7 +13,6 @@ team:
 - "[Jeff Dost](https://profiles.ucsd.edu/jeffrey.dost)"
 - djw8605
 - hzhu16
-- zvada
 ---
 
 The [OSG Operations](https://opensciencegrid.org/operations/) team is responsible for

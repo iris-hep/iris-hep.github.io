@@ -12,11 +12,11 @@
 {% for contact in include.team %}
   {%- assign person = site.data.people | find: "shortname", contact -%}
   {%- unless person -%}
-    {%- assign fellow = site.pages | where: 'pagetype', 'fellow' | find: "shortname", contact -%}
+    {%- assign fellow = site.pages | where: 'pagetype', 'fellow' | find: "github-username", contact -%}
   {%- endunless -%}
 
   {% if person %}
-    {%- if inline and person.e-mail -%}
+    {%- if include.inline and person.e-mail -%}
       {{ li }} <a href="mailto:{{person.e-mail}}">{{person.name}}</a> {{ eli }}
     {%- elsif person.website -%}
       {{ li }} <a href="{{person.website}}">{{ person.name }}</a> {{ eli }}
