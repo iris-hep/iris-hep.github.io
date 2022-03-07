@@ -35,7 +35,7 @@ presentations:
   url: https://indico.cern.ch/event/1094267/contributions/4642401/
   date: 2021-12-10
   focus-area: ia
-  project: mkfit  
+  project: mkfit
 - title: 'mkFit: status report'
   meeting: Tracking POG meeting (CMS restricted)
   meetingurl: https://indico.cern.ch/event/1098365
