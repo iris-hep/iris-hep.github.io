@@ -25,7 +25,8 @@ to better understand their distributed infrastructures, localize problems, and m
 This project collaborates with a number of projects including:
 
 *   **SAND** ([Service Analysis and Network Diagnosis](https://sand-ci.org/), NSF Grant #1827116):
-    They provide analytics using data from the OSG-LHC network metrics repository.
+    While the SAND grant has finished in August 2021, the OSG networking area is continuing the
+    work around our network metric pipeline, associated analytics, alerting and alarming.
 
 *   **WLCG Throughput Working Group:**
     This group manages the perfSONAR parameters, test configurations, and host meshes
@@ -40,7 +41,8 @@ This project collaborates with a number of projects including:
     requested by researchers involved in distributed collaborations (primarily HEP but others as well).
     See [their charter](https://docs.google.com/document/d/1l4U5dpH556kCnoIHzyRpBl74IPc0gpgAG3VPUp98lo0/).
 
-The team also coordinates (with SAND) a group of undergraduates and graduate students
-who are working on network related tools and analytics.
+The team also coordinates a group of undergraduates and graduate students
+who are working on network related tools and analytics meeting weekly to
+to discuss goals and progress.
 
 The team maintains [documentation](https://opensciencegrid.org/networking/) on the OSG website.
