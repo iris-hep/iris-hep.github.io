@@ -45,7 +45,7 @@ The team also coordinates a group of undergraduates and graduate students
 who are working on network related tools and analytics meeting weekly to
 to discuss goals and progress.
 
-We also maintain a web service that serves as a central location for finding network related tools, documentation and applications at 
+We also maintain a web service that serves as a central location for finding network related tools, documentation and applications at
 [ToolKitInfo](https://toolkitinfo.opensciencegrid.org/).
 
 The team maintains [documentation](https://opensciencegrid.org/networking/) on the OSG website.
