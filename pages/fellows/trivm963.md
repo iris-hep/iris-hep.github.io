@@ -21,7 +21,7 @@ project_goal: >
   of research and education network paths. It can be challenging to identify network
   problems and, more importantly, their location. The goal of my project is to create
   a network topology analysis web interface to aid with debugging and localizing network
-  performance issues. This will be mostly focussed on path analysis: finding commonalities
+  performance issues. This will be mostly focused on path analysis: finding commonalities
   between paths, finding paths that contain a given address, correlating paths with
   other network metrics, and the degree of path symmetry.
 mentors:

@@ -25,7 +25,7 @@ as an opportunity to efficiency of CPU use (via reduced latency) and network
 store, on-demand, certain datasets.
 
 In Southern California the UCSD CMS Tier-2 and Caltech CMS Tier-2
-joined forces to create and mantain a regional cache, commonly referred as the
+joined forces to create and maintain a regional cache, commonly referred as the
 "CMS SoCal cache", that benefits all southern California CMS
 researchers.
 
@@ -71,7 +71,7 @@ for what we cache.
   <img class="card-img-top" style="object-fit: contain"  src="/assets/images/caching-data-popularity.png" alt="CMS data popularity">
   <div class="card-body">
    <h5 class="card-title">CMS data popularity</h5>
-   <p class="card-text">The above shows the distribution of acesses in terms of volume of the CMS analysis tasks by data campaing.
+   <p class="card-text">The above shows the distribution of accesses in terms of volume of the CMS analysis tasks by data campaign.
    </p>
   </div>
 </div>
