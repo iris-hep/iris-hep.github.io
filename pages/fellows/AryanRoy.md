@@ -20,9 +20,9 @@ mentors:
 - Eduardo Rodrigues (Liverpool University)
 project_goal: >
   The currently available bindings for fastjet are old and hard to maintain, therefore,
-  in this project we aim to remake the python bindings from the groundup using pybind11
+  in this project we aim to remake the python bindings from the ground up using pybind11
   and integrating support from several different python libraries such as Vector and
-  Awkward Array to fecilitate easier handling of data and simpler maintanence in future
+  Awkward Array to facilitate easier handling of data and simpler maintenance in future
   and to ensure that the later additions to the fastjet library can be brought to
   python with little to no effort.
 proposal: /assets/pdf/AryanRoy_Proposal.pdf

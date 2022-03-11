@@ -33,7 +33,7 @@ institution: <Your institution>
 e-mail: <Your email>
 project_title: <Project title>
 project_goal: >
-    Short descrition of your project
+    Short description of your project
 mentors:
   - <Mentor Name - (<Mentor Institution>)>
 

@@ -8,7 +8,7 @@ shortname: pharris
 title: Assistant Professor of Physics
 website: https://physics.mit.edu/faculty/philip-harris/
 presentations:
-- title: ML Acceleration with Heterogenous computing for big data Physics
+- title: ML Acceleration with Heterogeneous computing for big data Physics
   date: 2019-11-17
   url: https://h2rc.cse.sc.edu/2019/slides/invited1_Harris.pdf
   meeting: SC19, H2RC
