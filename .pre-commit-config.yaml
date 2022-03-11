@@ -16,3 +16,11 @@ repos:
   - id: remove-crlf
   - id: forbid-tabs
     exclude_types: [svg]
+
+- repo: local
+  hooks:
+  - id: data-filenames
+    files: ^_data/.*(?<!\.yml)$
+    name: Force _data files to be .yml
+    entry: files in _data must end in .yml
+    language: fail
