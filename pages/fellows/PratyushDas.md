@@ -38,11 +38,11 @@ projects:
   project_goal: >
     As an IRIS-HEP undergraduate fellow, I will be working on uproot, a
     software for reading and writing ROOT files in Python with the help of
-    the Numpy library. Unlike the standard C++ ROOT implementation, uproot
+    the NumPy library. Unlike the standard C++ ROOT implementation, uproot
     is strictly an I/O library, intended to stream data into other third
     party libraries in Python. Other ROOT file readers in Python like PyROOT
     and root_numpy rely on the C++ ROOT implementation but uproot does not.
-    Instead, it uses Numpy calls to rapidly cast data blocks in the ROOT file as Numpy
+    Instead, it uses NumPy calls to rapidly cast data blocks in the ROOT file as NumPy
     arrays.
   mentors:
   - jpivarski
