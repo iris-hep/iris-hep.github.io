@@ -48,7 +48,7 @@ team:
 <!-- http://www.get-youtube-thumbnail.com/ -->
 [![SciPy 2020 talk YouTube](http://i3.ytimg.com/vi/FrH9s3eB6fU/hqdefault.jpg)](https://youtu.be/FrH9s3eB6fU)
 
-* [`pyhf` tutorial](https://pyhf.github.io/pyhf-tutorial/) (continually updated to use the lastest `pyhf` release)
+* [`pyhf` tutorial](https://pyhf.github.io/pyhf-tutorial/) (continually updated to use the latest `pyhf` release)
    - Past tutorials (with recordings on YouTube) are listed on the [tutorial GitHub project](https://github.com/pyhf/pyhf-tutorial)
 
 ### Use in Publications

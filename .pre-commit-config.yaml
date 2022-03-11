@@ -24,3 +24,14 @@ repos:
     name: Force _data files to be .yml
     entry: files in _data must end in .yml
     language: fail
+
+- repo: https://github.com/codespell-project/codespell
+  rev: v2.1.0
+  hooks:
+   - id: codespell
+     exclude: (^Gemfile.lock|\.js|\.map)$
+     args: ["-L", "hist,sur,nd,pres,ist,ect,wan,wit"]
+
+
+
+
