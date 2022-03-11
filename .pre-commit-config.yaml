@@ -32,6 +32,12 @@ repos:
      exclude: (^Gemfile.lock|\.js|\.map)$
      args: ["-L", "hist,sur,nd,pres,ist,ect,wan,wit"]
 
-
+- repo: local
+  hooks:
+  - id: disallow-caps
+    name: Disallow improper capitalization
+    language: pygrep
+    entry: PyBind|Numpy|Cmake|CCache|PyTest|UpRoot|UpROOT
+    exclude: .pre-commit-config.yaml
 
 
