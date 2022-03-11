@@ -58,9 +58,27 @@ event delivery group.
    per step.
 
    In fact, the DAG engine can be used directly for workflow management.  Using
-   the DOMA PanDA instance, iDDS is being tested by the Rubin Observatory
+   the DOMA PanDA instance, iDDS is being employed by the Rubin Observatory
    (formerly LSST) for their data processing needs.  So far, the observatory has
-   successfully tested iDDS with DAG workflows of over 50 and 150 thousand jobs.
+   selected PanDA/iDDS as its workflow managment system. The R&D instance has processed
+   thousands of jobs daily. New production instance is scheduled to be setup at SLAC
+   this summer (waiting for hardware deployments).
+
+ * *Monte Carlo Toy Based Confidence Limits with iDDS*: An efficient Monte Carlo
+   Toy generation process requires multiple steps of grid scans, where current steps
+   depends on the previous steps. The HPO framework is employed to provide a
+   fully-automated platform for Toy generations.
+
+   The test workflow has passed successfully. Working on documenting and client integration.
+   Will advertise it to users soon.
+
+ * *REANA/PanDA/iDDS integration for Active Learning*: Active Learning is one of the ideas
+   that require complex logics between tasks in an analysis workflow. Here we employ iDDS
+   for workflow managements, PanDA for task management and REANA (Reusable Analyses) for
+   analysis tasks executions.
+
+   The demo workflow has passed the tests successfully. Working to adapt real analysis
+   workflows.
 
 ## Reference
  * *[Home page](https://idds.cern.ch)*
