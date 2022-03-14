@@ -40,7 +40,7 @@ SkyhookDM is currently an incubator project at the [Center for Research on Open 
 ## Architecture
 ![SkyhookDM Architecture](/assets/images/skyhook-arch.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
-In the storage layer, we extend the Ceph Object Store with plugins built using the Object Class SDK to allow scanning objects containing Parquet data inside the Ceph OSDs. We utilize the Apache Arrow framework for building the data processing logic in the plugins. On the client side, we extend CephFS with a [DirectObjectAccess](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/dataset/file_rados_parquet.h#L98) API that allows invoking Object Class methods on RADOS objects to perform query operations. We export our implementation by creating a new [FileFormat](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/dataset/file_base.h#L120) in Apache Arrow called [SkyhookFileFormat](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/dataset/file_rados_parquet.cc#L77) that uses the DirectObjectAcess API to offload Parquet file scanning to the storage layer.
+In the storage layer, we extend the Ceph Object Store with plugins built using the Object Class SDK to allow scanning objects containing Parquet data inside the Ceph OSDs. We utilize the Apache Arrow framework for building the data processing logic in the plugins. On the client side, we extend CephFS with a [DirectObjectAccess](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/dataset/file_rados_parquet.h#L98) API that allows invoking Object Class methods on RADOS objects to perform query operations. We export our implementation by creating a new [FileFormat](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/dataset/file_base.h#L120) in Apache Arrow called [SkyhookFileFormat](https://github.com/apache/arrow/blob/master/cpp/src/skyhook/client/file_skyhook.h#L58) that uses the DirectObjectAcess API to offload Parquet file scanning to the storage layer.
 
 # Performance Evaluation
 ![performance](/assets/images/skyhook-lat.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
@@ -53,19 +53,21 @@ We compare the query latencies of filtering a 1.2 billion row dataset via Parque
 The above two plots shows how Parquet (top) stays bottlenecked on the client CPU while Rados Parquet (bottom) distributes CPU usage between the storage nodes and allows scale out.
 
 # Ongoing Work
+* Working on deploying Skyhook in the UNL and SSL clusters.
 
-* Integrating SkyhookDM with [Coffea](https://coffeateam.github.io/coffea/) to offload Nanoevents processing to the storage layer for faster analysis.
-![skyhook-coffea](/assets/images/skyhook-coffea.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
+* Working on making the Coffea-Skyhook integration more user-friendly.
+
+* Working on joining HEP datasets using DuckDB/Arrow/Fugue.
 
 * A middleware to allow writing Parquet files containing Nanoevents from [ServiceX](https://iris-hep.org/projects/servicex.html) to SkyhookDM via CephFS.
 
 # Important Links
-* [Github repository](https://github.com/uccross/arrow).
-* Getting started [instructions](https://github.com/uccross/arrow/tree/rados-dataset-dev/cpp/src/arrow/adapters/arrow-rados-cls#getting-started) and [notebook](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/adapters/arrow-rados-cls/docs/demo.ipynb).
+* [Github repository](https://github.com/apache/arrow/tree/master/cpp/src/skyhook).
+* Getting started [instructions](https://skyhookdm-arrow.readthedocs.io/en/latest/getting_started.html) and [notebook](https://github.com/uccross/arrow/blob/rados-dataset-dev/cpp/src/arrow/adapters/arrow-rados-cls/docs/demo.ipynb).
 * [Code walkthrough](https://www.youtube.com/watch?v=XfJsnadp18c) video.
 
 ## Announcements
-* March, 2022 - Our paper, Skyhook: Toward an Arrow-Native Storage System, accepted in CCGrid 2022.
+* March, 2022 - Our paper, Skyhook: Toward an Arrow-Native Storage System, to appear in CCGrid 2022.
 * October, 2021 - [Skyhook is now a part of Apache Arrow !](https://medium.com/@jayjeetc/skyhookdm-is-now-a-part-of-apache-arrow-e5d7b9a810ba)
 * December, 2021 - [SkyhookDM v0.4.0](https://github.com/uccross/skyhookdm-arrow/releases/tag/v0.4.0) Released !
 * March, 2021 - [SkyhookDM v0.1.1](https://github.com/uccross/arrow/releases/tag/v0.1.1) Released !
