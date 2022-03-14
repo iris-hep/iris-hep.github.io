@@ -47,8 +47,7 @@ In the storage layer, we extend the Ceph Object Store with plugins built using t
 
 We compare the query latencies of filtering a 1.2 billion row dataset via Parquet and Skyhook file formats with 1%, 10%, and 100% row selectivities. As shown in the above plot, Parquet performance doesn't improve on scaling out from 4 to 16 nodes as it stays bottlenecked on the client's CPUs. On the other hand, performance of Skyhook improves as it can distribute CPU consumption amongst the storage nodes and can scale out almost linearly.
 
-![pq](/assets/images/skyhook-grafana-pq.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
-![rpq](/assets/images/skyhook-grafana-rpq.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
+![rpq](/assets/images/skyhook-cpu.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 The above two plots shows how Parquet (top) stays bottlenecked on the client CPU while Skyhook (bottom) distributes CPU usage between the storage nodes and allows scale out.
 
