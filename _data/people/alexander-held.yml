@@ -134,3 +134,14 @@ presentations:
     - func-adl
     - cabinetry
     - pyhf
+
+- title: Introduction to cabinetry
+  date: 2022-03-15
+  url: https://indico.cern.ch/event/1132859/#2-introduction-to-cabinetry
+  meeting: ATLAS SUSY Background Forum
+  meetingurl: https://indico.cern.ch/event/1132859/
+  location: "CERN"
+  focus-area: as
+  project:
+    - cabinetry
+    - pyhf
