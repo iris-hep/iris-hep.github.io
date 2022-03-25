@@ -9,6 +9,14 @@ shortname: brianhlin
 title: OSG Software Team Manager
 website:
 presentations:
+- title: Distributing Production-Ready Software
+  date: 2022-03-25
+  url: https://indico.cern.ch/event/1132360/contributions/4759835/
+  meeting: Analysis Facilities Forum Kick-off Meeting
+  meetingurl: https://indico.cern.ch/event/1132360/overview
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
 - title: Token Transition Workshop Summary
   date: 2021-11-10
   url: https://indico.cern.ch/event/876795/#8-token-transition-workshop-pr
