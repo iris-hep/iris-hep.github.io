@@ -46,6 +46,12 @@ presentations:
   meetingurl: https://indico.cern.ch/event/840376/
   recordingurl: https://www.youtube.com/watch?v=wzN_rT-l1S0&t=2614s
   focus-area: ia
+- title: Particle Cloud Generation with Message Passing Generative Adversarial Networks
+  date: 2022-01-21
+  url: https://arxiv.org/abs/2106.11535
+  meeting: NeurIPS 2021
+  meetingurl: https://nips.cc/Conferences/2021
+  focus-area: ia
 
 current_status: >
   As of Fall 2020, Raghav is beginning graduate studies in Physics at the University
