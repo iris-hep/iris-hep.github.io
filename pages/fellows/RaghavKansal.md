@@ -49,7 +49,7 @@ presentations:
 - title: Particle Cloud Generation with Message Passing Generative Adversarial Networks
   date: 2022-01-21
   url: https://arxiv.org/abs/2106.11535
-  meeting: NeurIPS 2021 
+  meeting: NeurIPS 2021
   meetingurl: https://nips.cc/Conferences/2021
   focus-area: ia
 
