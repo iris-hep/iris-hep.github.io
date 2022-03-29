@@ -10,7 +10,7 @@ blurb: Pythonic particle information
 focus-area: as
 team:
 - henryiii
-- Eduardo Rodrigues
+- Eduardo Rodrigues (outside collaborator, University of Liverpool)
 ---
 
 [Particle](https://github.com/scikit-hep/particle) provides a pythonic interface to the Particle Data Group (PDG) particle data tables and particle identification codes.

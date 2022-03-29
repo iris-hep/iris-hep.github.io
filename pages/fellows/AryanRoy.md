@@ -17,7 +17,7 @@ website:
 e-mail: aryanroy5678@gmail.com
 mentors:
 - Jim Pivarski (Princeton University)
-- Eduardo Rodrigues (Liverpool University)
+- Eduardo Rodrigues (outside collaborator, University of Liverpool)
 project_goal: >
   The currently available bindings for fastjet are old and hard to maintain, therefore,
   in this project we aim to remake the python bindings from the ground up using pybind11
