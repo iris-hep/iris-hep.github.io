@@ -19,6 +19,11 @@ inspire-id: 12345678
 project: some-project
 ```
 
+To find your inspire ID:
+* Go to [https://inspirehep.net/literature](https://inspirehep.net/literature)
+* Search for you paper title
+* Click on your paper title and the URL will have the inspire-id at the end
+
 The fields are:
 
 * `inspire-id`: The ID of your paper. The other required fields in a general publication are filled out automatically from this

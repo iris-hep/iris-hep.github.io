@@ -3,6 +3,7 @@
 require 'fileutils'
 require 'pathname'
 require 'jekyll-last-modified-at'
+require 'date'
 
 module Recents
   # Generate change information for all markdown pages
@@ -11,7 +12,7 @@ module Recents
       items = site.pages.select { |p| p.path.end_with? '.md' }
       items.each do |page|
         determ = Jekyll::LastModifiedAt::Determinator.new(site.source, page.path, '%FT%T%:z')
-        page.data['last_modified_at_str'] = determ.to_s
+        page.data['last_modified_date'] = DateTime.parse determ.to_s
       end
     end
   end

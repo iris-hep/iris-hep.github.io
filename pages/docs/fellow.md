@@ -33,7 +33,7 @@ institution: <Your institution>
 e-mail: <Your email>
 project_title: <Project title>
 project_goal: >
-    Short descrition of your project
+    Short description of your project
 mentors:
   - <Mentor Name - (<Mentor Institution>)>
 
@@ -50,6 +50,9 @@ current_status: >
   A placeholder for status updates
 ---
 ```
+
+### Dates
+Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2021-12-31
 
 ### Presentations
 

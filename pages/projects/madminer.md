@@ -37,13 +37,11 @@ playfully call this process "mining gold" from the simulator, since this informa
 to be very valuable for inference.
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/diana-hep/madminer)
+[![GitHub](https://img.shields.io/badge/GitHub-555555.svg)](https://github.com/madminer-tool/madminer)
 [![PyPI version](https://badge.fury.io/py/madminer.svg)](https://badge.fury.io/py/madminer)
 [![Documentation Status](https://readthedocs.org/projects/madminer/badge/?version=latest)](https://madminer.readthedocs.io/en/latest/?badge=latest)
-[![Build Status](https://travis-ci.com/johannbrehmer/madminer.svg?branch=master)](https://travis-ci.com/johannbrehmer/madminer)
-[![Docker pulls](https://img.shields.io/docker/pulls/madminertool/docker-madminer.svg)](https://hub.docker.com/r/madminertool/docker-madminer)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/johannbrehmer/madminer/master)
+[![CI Status](https://github.com/madminer-tool/madminer/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/madminer-tool/madminer/actions/workflows/ci.yml?query=branch%3Amaster)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/madminer-tool/madminer/master)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1489147.svg)](https://doi.org/10.5281/zenodo.1489147)
-

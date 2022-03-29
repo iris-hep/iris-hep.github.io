@@ -3,7 +3,7 @@
 {% include layout_header_navbar.html %}
 
 <div id="container">
-  <div class="container">
+  <div class="container page">
     <main role="main">
 
       <div>
@@ -21,12 +21,7 @@
           <br>
         </center>
 
-        {%- if page.projects -%}
-        {%-   assign projects = page.projects -%}
-        {%- else -%}
-        {%-   assign projects = "" | split: "," -%}
-        {%-   assign projects = projects | push: page -%}
-        {%- endif -%}
+        {%- assign projects = page.projects | default: page | ensure_array -%}
 
         {% for project in projects %}
 
@@ -43,31 +38,26 @@
         <ul>
           {% for mentor in project.mentors %}
           <li>
-            {% assign ok = 0 %}
-            {% for person_hash in site.data.people %}
-            {% assign person = person_hash[1] %}
-            {% if person.shortname == mentor %}
-            {{ person.name }} ({{person.institution}})
-            {% assign ok = 1 %}
+            {% assign person = site.data.people | values | find: "shortname", mentor %}
+            {% if person %}
+              {{ person.name }} ({{person.institution}})
+            {% else %}
+              {{ mentor | markdownify }}
             {% endif %}
-            {% endfor %}
-            {% if ok == 0 %}
-            {{ mentor | markdownify }}
-            {%endif%}
           </li>
           {% endfor %}
         </ul>
         {% endfor %}
 
 
-        <b>Presentations</b>
+        <b>Presentations and Publications</b>
         <ul>
           {% for presentation in page.presentations %}
-          {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
-          <li>{{prettydate}} - <a href="{{presentation.url}}">"{{presentation.title}}"</a>, {{page.fellow-name}}, <a href="{{presentation.meetingurl}}">{{presentation.meeting}}</a>
+            {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
+            <li>{{prettydate}} - <a href="{{presentation.url}}">"{{presentation.title}}"</a>, {{page.fellow-name}}, <a href="{{presentation.meetingurl}}">{{presentation.meeting}}</a>
             {% if presentation.recordingurl %}
-            Recording: <a href="{{presentation.recordingurl}}">{{presentation.title}}</a></li>
-          {% endif %}
+              Recording: <a href="{{presentation.recordingurl}}">{{presentation.title}}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
         <hr>
@@ -79,15 +69,25 @@
         <br>
 
         <b>Contact me:</b><br>
-        <ul>
+        <ul class="list-unstyled">
           {% if page.e-mail.size > 4 %}
           <li>
-            <a href = "mailto:{{page.e-mail}}">Send me an email</a><br>
+            <i class="fas fa-envelope-square"></i><a href = "mailto:{{page.e-mail}}"> Send me an email</a><br>
           </li>
           {% endif %}
           {% if page.website.size > 4 %}
           <li>
-            <a href = {{page.website}}>Visit my website</a><br>
+            <i class="fas fa-link"></i><a href = {{page.website}}> Visit my website</a><br>
+          </li>
+          {% endif %}
+          {% if page.github-username.size > 4 %}
+          <li>
+            <i class="fab fa-github"></i><a href = "https://github.com/{{page.github-username}}"> Visit my GitHub Repo</a><br>
+          </li>
+          {% endif %}
+          {% if page.linkedin-profile.size > 4 %}
+          <li>
+            <i class="fab fa-linkedin"></i><a href = "{{page.linkedin-profile}}"> Visit my LinkedIn Profile</a><br>
           </li>
           {% endif %}
         </ul>

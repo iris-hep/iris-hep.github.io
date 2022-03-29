@@ -1,9 +1,9 @@
+active: true
+hidden: true
+institution: CERN
 name: Simone Campana
+photo: "/assets/images/team/Simone-Campana.png"
 shortname: s_campana
 title: Worldwide LHC Computing Grid (WLCG)
-active: true
-institution: CERN
 website:
-photo: /assets/images/team/Simone-Campana.png
-hidden: true
 presentations:

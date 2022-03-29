@@ -1,0 +1,7 @@
+name: Dask in High-Energy Physics community workshop at Dask Distributed Summit 2021
+startdate: 2021-05-21
+enddate: 2021-05-21
+location: Online
+meetingurl: https://summit.dask.org/schedule/presentation/24/dask-in-high-energy-physics-community/
+image:
+description: During this workshop, we would like to discuss upcoming challenges and different Dask use-case in High-Energy Physics community as well as deployment methods across HPC, on-premise high-throughput clusters and cloud providers. A key challenge is the integration of interactive scale-out systems within the existing federated scientific grid computing infrastructure.

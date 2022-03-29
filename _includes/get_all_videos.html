@@ -2,11 +2,4 @@
 Collect all the videos, merging lists as appropriate.
 {%- endcomment -%}
 
-{%- assign all_videos = "" | split: "," -%}
-
-{%- for video_hash in site.data.videos -%}
-  {%- assign video = video_hash[1] -%}
-  {%- assign all_videos = all_videos | push: video -%}
-{%- endfor -%}
-
-{% assign sorted_videos = all_videos | sort: "date" | reverse %}
+{% assign all_videos = site.data.videos | values | sort: "date" | reverse %}

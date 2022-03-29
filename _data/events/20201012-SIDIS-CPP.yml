@@ -4,4 +4,7 @@ enddate: 2020-10-16
 location: Virtual
 meetingurl: https://indico.cern.ch/event/946584/
 image:
+students: 48
 description: First iteration of a C++ course for the high energy physics community organised in collaboration between the Software Institute for Data Intensive Sciences and the Training Working Group of the HEP Software Foundation.
+labels:
+- training

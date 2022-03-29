@@ -4,4 +4,7 @@ enddate: 2020-07-16
 location: University of Puerto Rico Mayagüez
 meetingurl: https://indico.cern.ch/event/927162/
 image:
+students: 16
 description: Two day workshop organized for K-12 teachers at UPR Mayaguez to teach basic software skills.
+labels:
+- training

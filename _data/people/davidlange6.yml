@@ -1,44 +1,55 @@
+active: true
+e-mail: David.Lange@cern.ch
+focus-area:
+- ia
+- ssc
+institution: Princeton University
 name: David Lange
+photo: "/assets/images/team/David-Lange.png"
 shortname: davidlange6
 title: Innovative Algorithms Area <nobr>co-Lead</nobr>
-active: true
-institution: Princeton University
 website: https://dlange.web.cern.ch
-photo: /assets/images/team/David-Lange.png
-e-mail: David.Lange@cern.ch
 presentations:
-  - title: "IRIS-HEP Innovative Algorithms"
-    date: 2019-02-06
-    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271529/attachments/1791453/2919650/Innovative_Algorithms_3.pdf
-    meeting: IRIS-HEP Steering Board Meeting #1
-    meetingurl: https://indico.cern.ch/event/790759/
-    focus-area: ia
-  - title: "HSF Training survey"
-    date: 2019-03-21
-    url: https://indico.cern.ch/event/759388/contributions/3315848/attachments/1816082/2968198/training_how2019.pdf
-    meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
-    meetingurl: https://indico.cern.ch/event/759388
-    focus-area: ssc
-  - title: "A Worldwide Software Collaboration?"
-    date: 2020-01-17
-    url: http://ias.ust.hk/program/shared_doc/2020/202001hep/workshop/exp/20200117_1038_pm_David_LANGE.pdf
-    meeting: "Hong Kong IAS Mini-workshop: Experiment / Detector - Software and Physics Requirements for e+e- Colliders"
-    meetingurl: http://iasprogram.ust.hk/hep/2020/activities.php
-    focus-area: ia
-  - title: "Challenges and Evolution of the LHC computing model for HL-LHC"
-    date: 2020-03-05
-    meeting: "Boston University seminar"
-    url: https://drive.google.com/file/d/18MWhoYdzOYZ35rddDhcALezWSwBqgC1L/view?usp=sharing
-    focus-area: ia
-  - title: "Connecting the Dots 2020 - Workshop introduction"
-    date: 2020-04-20
-    meeting: "Connecting the Dots 2020"
-    url: https://indico.cern.ch/event/831165/contributions/3758939/
-    meetingurl: https://indico.cern.ch/event/831165/
-    focus-area: ia
-  - title: "Innovative Algorithms - Years 3, and 4+5"
-    meeting: IRIS-HEP team retreat
-    url: https://indico.cern.ch/event/896167/contributions/3870074/attachments/2044699/3426314/IA_retreat_day1_6.pdf
-    meetingurl: https://indico.cern.ch/event/896167/
-    focus-area: ia
-    date: 2020-05-26
+- title: IRIS-HEP Innovative Algorithms
+  date: 2019-02-06
+  url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271529/attachments/1791453/2919650/Innovative_Algorithms_3.pdf
+  meeting: IRIS-HEP Steering Board Meeting
+  meetingurl: https://indico.cern.ch/event/790759/
+  focus-area: ia
+  project:
+- title: HSF Training survey
+  date: 2019-03-21
+  url: https://indico.cern.ch/event/759388/contributions/3315848/attachments/1816082/2968198/training_how2019.pdf
+  meeting: 2019 Joint HSF/OSG/WLCG Workshop (HOW2019)
+  meetingurl: https://indico.cern.ch/event/759388
+  focus-area: ssc
+- title: A Worldwide Software Collaboration?
+  date: 2020-01-17
+  url: http://ias.ust.hk/program/shared_doc/2020/202001hep/workshop/exp/20200117_1038_pm_David_LANGE.pdf
+  meeting: 'Hong Kong IAS Mini-workshop: Experiment / Detector - Software and Physics
+    Requirements for e+e- Colliders'
+  meetingurl: http://iasprogram.ust.hk/hep/2020/activities.php
+  focus-area: ia
+  project:
+- title: Challenges and Evolution of the LHC computing model for HL-LHC
+  date: 2020-03-05
+  meeting: Boston University seminar
+  url: https://drive.google.com/file/d/18MWhoYdzOYZ35rddDhcALezWSwBqgC1L/view?usp=sharing
+  focus-area: ia
+  project:
+- title: Connecting the Dots 2020 - Workshop introduction
+  date: 2020-04-20
+  meeting: Connecting the Dots 2020
+  url: https://indico.cern.ch/event/831165/contributions/3758939/
+  meetingurl: https://indico.cern.ch/event/831165/
+  focus-area: ia
+  project:
+  labels:
+  - conference
+- title: Innovative Algorithms - Years 3, and 4+5
+  meeting: IRIS-HEP team retreat
+  url: https://indico.cern.ch/event/896167/contributions/3870074/attachments/2044699/3426314/IA_retreat_day1_6.pdf
+  meetingurl: https://indico.cern.ch/event/896167/
+  focus-area: ia
+  date: 2020-05-26
+  project:

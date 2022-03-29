@@ -4,4 +4,7 @@ enddate: 2019-06-04
 location: University of Puerto Rico at Mayaguez
 meetingurl: https://indico.cern.ch/event/817539/
 image:
+students: 16
 description: An introduction to programming for STEM teachers
+labels:
+- training

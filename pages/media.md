@@ -6,6 +6,12 @@ title: Media, Press Releases and Press Mentions
 
 ## Media, Press Releases and Press Mentions
 
+  * 28 Feb 2022 - [PyDev of the Week: Henry Schreiner III](https://www.blog.pythonlibrary.org/2022/02/28/pydev-of-the-week-henry-schreiner-iii/), Mouse Vs Python
+  * 30 Nov 2021 - [Frank Würthwein Named Director of the San Diego Supercomputer Center](https://ucsdnews.ucsd.edu/pressrelease/frank-wuerthwein-named-director-of-the-san-diego-supercomputer-center), University of California, San Diego
+  * 21 Oct 2021 - [Kyle Cranmer chosen to lead American Family Insurance Data Science Institute](https://news.wisc.edu/kyle-cranmer-chosen-to-lead-american-family-insurance-data-science-institute/), UW-Madison
+  * 14 Oct 2021 - [Using cibuildwheel to manage the scikit-HEP packages (Heny Schreiner)](https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages), Talk Python To Me podcast [<i aria-hidden="true" class="fas fa-video" title="Video"></i>](https://youtu.be/8MfmY0IaeT4)
+  * 13 Jul 2021 - [Blink and it’s gone](https://www.symmetrymagazine.org/article/blink-and-its-gone)
+  * 19 May 2021 - ["Building a Career Path for Research Software Engineers"](https://research.nd.edu/news/building-a-career-path-for-research-software-engineers/), Notre Dame Research (repost from IRIS-HEP website)
   * 29 Jan 2021 - ["Beyond ventilators: Princeton engineers design, build and program a noninvasive breathing system for COVID-19 patients"](https://www.princeton.edu/news/2021/01/29/beyond-ventilators-princeton-engineers-design-build-and-program-noninvasive), Princeton University
   * 21 Jan 2021 - ["Physicists submit avalanche of ideas to 'Snowmass' process"](https://www.symmetrymagazine.org/article/physicists-submit-avalanche-of-ideas-to-snowmass-process), Symmetry Magazine
   * 14 Jan 2021 - ["ATLAS releases 'full orchestra' of analysis instruments"](https://www.symmetrymagazine.org/article/atlas-releases-full-orchestra-of-analysis-instruments), Symmetry Magazine

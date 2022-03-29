@@ -2,8 +2,8 @@
 layout: irispost
 title: Preparing the Large Hadron Collider for a Data Deluge
 author: Bennett McIntosh
-postimage: /assets/images/posts/2020-05-07-bei-wang-rse-wang-das-nabili.jpg
-postimage-caption: >
+image: /assets/images/posts/2020-05-07-bei-wang-rse-wang-das-nabili.jpg
+image-caption: >
     Bei Wang with Pratyush Das, IRIS-HEP Fellow and Sara Nabili, a graduate
     student from University of Maryland at the 2019 Computational and Data
     Science Training for High Energy Physics Summer School at Princeton

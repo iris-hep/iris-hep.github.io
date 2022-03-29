@@ -1,8 +1,8 @@
+active: false
+institution: University of Chicago
 name: Andrew Chien
+photo: "/assets/images/team/Andrew-Chien.jpg"
 shortname: andrewchien
 title:
-active: true
-institution: University of Chicago
 website: http://people.cs.uchicago.edu/~aachien/
-photo: /assets/images/team/Andrew-Chien.jpg
 presentations:

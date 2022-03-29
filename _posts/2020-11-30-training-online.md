@@ -3,15 +3,15 @@ layout: irispost
 title: >
     In the future, it will all be online: IRIS-HEP adapts training and outreach for the pandemic
 author: Bennett McIntosh
-postimage: /assets/images/posts/20201130-small-zoom.png
-postimage-whole: true
-postimage-caption: |
+image: /assets/images/posts/20201130-small-zoom.png
+image-whole: true
+image-caption: |
     A screenshot showing participants of the remote workshop entitled "Data
     Analysis for STEM teachers" on July 15-16, 2020 at UPRM, Mayaguez, Puerto
     Rico.
 summary: |
     Training for IRIS-HEP has been online over this last year, providing
-    challanges, but opening up new opertunities and benifits not previously
+    challenges, but opening up new opportunities and benefits not previously
     possible.
 ---
 

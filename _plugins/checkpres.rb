@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative 'checks'
+require_relative 'checks_extend'
 require 'set'
 
 module Checks
@@ -19,6 +20,9 @@ module Checks
           ensure_array(presentations[index], 'focus-area')
           ensure_array(presentations[index], 'project')
 
+          local_fa = pres_hash['focus-area']&.to_set
+          projectless = site.config['iris-hep']['projectless-focus-areas'].to_set
+
           presentation = Record.new(msg, pres_hash)
           presentation.key 'title', :nonempty
           presentation.key 'date', :nonempty, :date
@@ -27,7 +31,7 @@ module Checks
           presentation.key 'meetingurl', :optional
           presentation.key 'location', :optional
           presentation.key 'focus-area', :optional, set: focus_areas
-          presentation.key 'project', :optional, set: projects
+          presentation.key 'project', :optional, set: projects unless local_fa && local_fa < projectless
 
           presentation.print_warnings
 
@@ -41,32 +45,7 @@ module Checks
 
     private
 
-    def focus_areas
-      @focus_areas ||= begin
-        extras = @site.config['iris-hep']['extra-focus-areas'].to_set
-        focus_area_pages = @site.pages.select { |p| p['pagetype'] == 'focus-area' }
-        locals = focus_area_pages.map { |p| File.basename(p.name, '.*') }.to_set
-        extras | locals
-      end
-    end
-
-    def projects
-      @projects ||= begin
-        project_pages = @site.pages.select { |p| p['pagetype'] == 'project' }
-        project_pages.each do |p|
-          msg = "Filename #{p.name} must match the shortname #{p['shortname']}"
-          raise Checks::Error, msg unless File.basename(p.name, '.*') == p['shortname']
-        end
-        project_pages.map { |p| File.basename(p.name, '.*') }.to_set
-      end
-    end
-
-    def ensure_array(hash, key)
-      return unless hash.key? key
-      return if hash[key].is_a? Array
-
-      hash[key] = hash[key].nil? ? [] : [hash[key]]
-    end
+    include IrisHep::GetInfoForChecks
 
     def get_presentations(people)
       presentations = people.flat_map { |_, p| p['presentations'] || [] }

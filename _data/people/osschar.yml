@@ -1,8 +1,18 @@
+active: true
+focus-area:
+- ia
+- doma
+institution: University of California, San Diego
 name: Matevz Tadel
+photo: "/assets/images/team/Matevz-Tadel.jpg"
 shortname: osschar
 title:
-active: true
-institution: University of California, San Diego
 website:
-photo: /assets/images/team/Matevz-Tadel.jpg
 presentations:
+- title: 'mkFit external integration'
+  meeting: CMS Reconstruction and Analysis Tools Meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/1116112/
+  url: https://indico.cern.ch/event/1116112/contributions/4692388/
+  date: 2022-01-21
+  focus-area: ia
+  project: mkfit

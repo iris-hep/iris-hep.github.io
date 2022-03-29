@@ -10,34 +10,28 @@ title: Last Modified Material
 ## Projects
 
 
-{% assign sorted2 = site.pages | sort: 'last_modified_at_str' | reverse -%}
-{% assign onemonthago = 'now' | date: "%s" | minus: 2592000 | date: "%b %d, %Y %I:%M %p -0500" | replace: "+","%20" | date: "%s" %}
-{% assign threemonthago = 'now' | date: "%s" | minus: 7776000 | date: "%b %d, %Y %I:%M %p -0500" | replace: "+","%20" | date: "%s" %}
+{% assign sorted-modified = site.pages | where: "pagetype", "project" | sort: 'last_modified_date' | reverse -%}
 
 ### Updated in the last month:
 
+{% assign current = sorted-modified | where_month_range: "last_modified_date", 1 %}
 
-{% for mypage in sorted2 -%}
-{% assign datecmp = mypage.last_modified_at_str | date: "%s" %}
-{%- if mypage.pagetype == 'project' and datecmp > onemonthago -%}
-* [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_at_str | date: "%b %d, %Y" }}
-{% endif -%}
+{% for mypage in current -%}
+* [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_date | date: "%b %d, %Y" }}
 {% endfor %}
 
 ### Updated in the last 1--3 months:
 
-{% for mypage in sorted2 -%}
-{% assign datecmp = mypage.last_modified_at_str | date: "%s" %}
-{%- if mypage.pagetype == 'project' and datecmp <= onemonthago and datecmp > threemonthago -%}
-* [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_at_str | date: "%b %d, %Y" }}
-{% endif -%}
+{% assign current = sorted-modified | where_month_range: "last_modified_date", 3, 1 %}
+
+{% for mypage in current -%}
+* [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_date | date: "%b %d, %Y" }}
 {% endfor %}
 
 ### Updated in the last 3+ months:
 
-{% for mypage in sorted2 -%}
-{% assign datecmp = mypage.last_modified_at_str | date: "%s" %}
-{%- if mypage.pagetype == 'project' and datecmp <= threemonthago -%}
-* [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_at_str | date: "%b %d, %Y" }}
-{% endif -%}
+{% assign current = sorted-modified | where_month_range: "last_modified_date", nil, 3 %}
+
+{% for mypage in current -%}
+* [{{mypage.title}}](/projects/{{mypage.shortname}}.html) @ {{ mypage.last_modified_date | date: "%b %d, %Y" }}
 {% endfor %}

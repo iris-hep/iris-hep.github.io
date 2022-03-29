@@ -4,7 +4,8 @@ layout: project
 title: coffea-casa
 shortname: coffea-casa
 pagetype: project
-image: logos/Iris-hep-5-just-graphic.png
+image: logos/coffea-casa.png
+logowidth: 15%
 blurb: A Prototype of Analysis Facility
 focus-area:
  - doma
@@ -12,9 +13,9 @@ focus-area:
 team:
  - oshadura
  - kenbloom
- - bbockelm
  - Garhan Attebury
  - John Thiltges
+ - bbockelm
  - Matous Adamec
 ---
 
@@ -65,7 +66,7 @@ More information could be found in the corresponding repository:
 ### Recent accomplishments and plans
 
 **Recent accomplishments**:
-- Deployed at University Nebraska-Lincoln Tier3, `coffea-casa` facility is ready to accomodate the first CMS users: [try it!](https://cmsaf-jh.unl.edu/)
+- Deployed at University Nebraska-Lincoln Tier3, `coffea-casa` facility is ready to accommodate the first CMS users: [try it!](https://cmsaf-jh.unl.edu/)
 
 ![Coffea-casa Jupyterlab interface with Dask Labextention powered cluster](/assets/images/coffea-casa-1.png){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
 

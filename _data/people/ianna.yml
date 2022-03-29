@@ -1,9 +1,12 @@
+active: true
+e-mail: Ianna.Osborne@cern.ch
+focus-area:
+- as
+inspire-id: I.Osborne.1
+institution: Princeton University
 name: Ianna Osborne
+photo: "/assets/images/team/Ianna-Osborne.png"
 shortname: ianna
 title: Research Software Engineer
-active: true
-institution: Princeton University
 website:
-photo: /assets/images/team/Ianna-Osborne.png
-e-mail: Ianna.Osborne@cern.ch
 presentations:

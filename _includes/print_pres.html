@@ -1,6 +1,11 @@
+{%- unless include.talk -%}
+    {% raise_error "Empty publication! Please check." %}
+{%- endunless %}
+
 {%- assign talk = include.talk -%}
 {%- assign talk-member = site.data.people[talk.member].name -%}
 {%- assign prettydate = talk.date | date: "%-d %b %Y" -%}
+
 {%- capture meeting -%}
   {%- if talk.meetingurl and talk.meetingurl != "" -%}
     <a href="{{ talk.meetingurl }}">{{ talk.meeting }}</a>
@@ -13,6 +18,11 @@
     <a href="{{ talk.url }}">"{{ talk.title }}"</a>
   {%- else -%}
     "{{ talk.title }}"
+  {%- endif -%}
+  {%- if talk.video -%}
+  {{ " " }}<a href="{{ talk.video }}" aria-label="Video">
+      <i aria-hidden="true" class="fas fa-video" title="Video"></i>
+    </a>
   {%- endif -%}
 {%- endcapture -%}
 
