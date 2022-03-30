@@ -17,6 +17,9 @@
 - name: VC3
   url: https://www.virtualclusters.org
 
+- name: SWIFT-HEP
+  url: https://swift-hep.github.io
+
 - name: DIANA/HEP
   url: http://diana-hep.org/
   awards:

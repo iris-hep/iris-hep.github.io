@@ -12,7 +12,7 @@ description: >
   array](https://github.com/scikit-hep/awkward-array) operations that can be offloaded
   ( pushed down ) into storage for query processing. Common list manipulations that
   perform data reduction such as filters or summary/agg methods will be most useful
-  to apply withing storage, since these will reduce network IO transferred back to
+  to apply within storage, since these will reduce network IO transferred back to
   the client from the storage layer.
 contacts:
 - fellows@iris-hep.org

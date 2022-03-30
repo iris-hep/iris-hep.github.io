@@ -134,3 +134,27 @@ presentations:
     - func-adl
     - cabinetry
     - pyhf
+    - agc
+
+- title: Introduction to cabinetry
+  date: 2022-03-15
+  url: https://indico.cern.ch/event/1132859/#2-introduction-to-cabinetry
+  meeting: ATLAS SUSY Background Forum
+  meetingurl: https://indico.cern.ch/event/1132859/
+  location: "CERN"
+  focus-area: as
+  project:
+    - cabinetry
+    - pyhf
+
+- title: AFs in the context of the IRIS-HEP AGC
+  date: 2022-03-25
+  url: https://indico.cern.ch/event/1132360/contributions/4759781/
+  meeting: Analysis Facilities Forum Kick-off Meeting
+  meetingurl: https://indico.cern.ch/event/1132360/
+  location: "(Virtual)"
+  focus-area:
+    - as
+    - doma
+    - ssl
+  project: agc

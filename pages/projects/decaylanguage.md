@@ -10,7 +10,7 @@ blurb: Describe and convert particle decays
 focus-area: as
 team:
 - henryiii
-- Eduardo Rodrigues
+- Eduardo Rodrigues (outside collaborator, University of Liverpool)
 ---
 
 [DecayLanguage](https://github.com/scikit-hep/decaylanguage) implements a language to describe and convert particle decays between digital representations, effectively making it possible to interoperate several fitting programs. Particular interest is given to programs dedicated to amplitude analyses.
