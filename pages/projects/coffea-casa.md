@@ -7,7 +7,7 @@ pagetype: project
 image: logos/coffea-casa.png
 logowidth: 15%
 blurb: A Prototype of Analysis Facility
-project_maturity: Deployed
+project_maturity: Testing
 focus-area:
  - doma
  - as

@@ -6,7 +6,7 @@ shortname: adl-benchmarks-index
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Functionality benchmarks for analysis description languages
-project_maturity: Deployed
+project_maturity: 
 focus-area: as
 team:
  - masonproffitt

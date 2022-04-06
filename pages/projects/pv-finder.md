@@ -7,7 +7,7 @@ pagetype: project
 image: /logos/pv_finder_logo_1.png
 logowidth: 60%
 blurb: CNNs to find primary vertices
-project_maturity: Deployed
+project_maturity: Testing
 focus-area: ia
 team:
  - henryiii

@@ -6,7 +6,7 @@ shortname: modeling
 pagetype: project
 image: logos/modeling.png
 blurb: Modeling HL-LHC Data flows
-project_maturity: Deployed
+project_maturity: Archived
 focus-area:
  - doma
  - osglhc
