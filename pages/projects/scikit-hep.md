@@ -7,6 +7,7 @@ pagetype: project
 image: logos/skhep-logo.svg
 logowidth: 30%
 blurb: Pythonic analysis tools
+project_maturity: Deployed
 focus-area: as
 team:
  - jpivarski
@@ -24,4 +25,3 @@ Scikit-HEP should be seen as a toolset of Python packages. The project defines a
    * **Modeling**: data models and fitting utilities.
    * **Simulation**: wrappers for Monte Carlo engines and other generators of simulated data.
    * **Visualization**: interface to graphics engines, from ROOT and Matplotlib to even beyond.
-

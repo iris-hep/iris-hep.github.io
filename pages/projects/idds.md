@@ -6,6 +6,7 @@ shortname: idds
 pagetype: project
 image: logos/idds.png
 blurb: Delivering Data.  Better.
+project_maturity: Deployed
 focus-area: doma
 team:
  - bbockelm

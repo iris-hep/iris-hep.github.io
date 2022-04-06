@@ -6,6 +6,7 @@ shortname: osg-networking
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Provide network monitoring for LHC and OSG sites
+project_maturity: Deployed
 focus-area: osglhc
 position: -1
 team:

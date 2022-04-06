@@ -16,6 +16,9 @@
 
           {{ content }}
 
+          <h3>Current SDLC Phase: {{page.project_maturity}}</h3>
+          <br>
+
           {% include list_project_team.html team=page.team %}
 
           {% include list_project_presentations.html shortname=page.shortname %}

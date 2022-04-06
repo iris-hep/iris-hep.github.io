@@ -6,6 +6,7 @@ shortname: madminer
 pagetype: project
 image: logos/madminer-square.png
 blurb: Likelihood-free Inference
+project_maturity: Deployed
 focus-area: as
 team:
  - cranmer

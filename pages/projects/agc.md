@@ -7,6 +7,7 @@ pagetype: project
 image: logos/Iris-hep-4-no-long-name.png
 logowidth: 15%
 blurb: Analysis Grand Challenge
+project_maturity: Deployed
 focus-area:
  - doma
  - as
@@ -53,4 +54,3 @@ Analysis Grand Challenge will be conducted during 2021‒2023, leaving enough ti
 
 
 ### Recent videos and tutorials
-
