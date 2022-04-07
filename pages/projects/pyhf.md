@@ -55,6 +55,7 @@ team:
 
 Updating list of citations and use cases of `pyhf`:
 
+- ATLAS Collaboration. SimpleAnalysis: Truth-level Analysis Framework. Geneva, Apr 2022. URL: https://cds.cern.ch/record/2805991.
 - Nathan Simpson and Lukas Heinrich. neos: End-to-End-Optimised Summary Statistics for High Energy Physics. Mar 2022. [arXiv:2203.05570](https://arxiv.org/abs/2203.05570).
 - ATLAS Collaboration. Search for neutral long-lived particles in pp collisions at s√=13 TeV that decay into displaced hadronic jets in the ATLAS calorimeter. Mar 2022. [arXiv:2203.01009](https://arxiv.org/abs/2203.01009).
 - ATLAS Collaboration. Search for events with a pair of displaced vertices from long-lived neutral particles decaying into hadronic jets in the ATLAS muon spectrometer in pp collisions at s√=13 TeV. Mar 2022. [arXiv:2203.00587](https://arxiv.org/abs/2203.00587).
