@@ -53,7 +53,7 @@ team:
 
 ### Citations and Use in Publications
 
-Updating list of citations and use cases of `pyhf`:
+Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
 - ATLAS Collaboration. SimpleAnalysis: Truth-level Analysis Framework. Apr 2022. [https://cds.cern.ch/record/2805991](https://cds.cern.ch/record/2805991).
 - Nathan Simpson and Lukas Heinrich. neos: End-to-End-Optimised Summary Statistics for High Energy Physics. Mar 2022. [arXiv:2203.05570](https://arxiv.org/abs/2203.05570).
