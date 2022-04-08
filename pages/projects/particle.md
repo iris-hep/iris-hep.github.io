@@ -7,7 +7,8 @@ pagetype: project
 image: logos/particle.svg
 logowidth: 50%
 blurb: Pythonic particle information
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 focus-area: as
 team:
 - henryiii

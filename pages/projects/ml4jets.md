@@ -7,7 +7,8 @@ pagetype: project
 image: logos/ml4jets-logo.png
 logowidth: 80%
 blurb: Machine learning for jets
-project_maturity: Development
+maturity:  Development
+maturity-note:
 focus-area: ia
 team:
  - cranmer

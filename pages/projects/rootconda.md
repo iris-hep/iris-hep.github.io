@@ -7,7 +7,8 @@ pagetype: project
 image: logos/root-conda-forge.png
 logowidth: 35%
 blurb: Use ROOT in Conda through Conda-Forge
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 focus-area: as
 team:
 - henryiii

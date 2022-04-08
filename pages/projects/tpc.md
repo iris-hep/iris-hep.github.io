@@ -6,7 +6,8 @@ shortname: tpc
 pagetype: project
 image: logos/tpc.png
 blurb: Envisioning a new way to move LHC data
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 focus-area:
  - doma
  - osglhc

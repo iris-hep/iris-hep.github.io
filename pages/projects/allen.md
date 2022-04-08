@@ -7,7 +7,8 @@ pagetype: project
 image: logos/allen.png
 logowidth: 25%
 blurb: "Allen: a GPU trigger for LHCb"
-project_maturity: 
+maturity:   
+maturity-note:
 focus-area: ia
 team:
  - mityinzer

@@ -6,7 +6,8 @@ shortname: mkfit
 pagetype: project
 image: logos/mkfit-graphic.png
 blurb: Modernizing Kalman filter tracking for CMS
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 team:
  - IHateLinus
  - pwittich

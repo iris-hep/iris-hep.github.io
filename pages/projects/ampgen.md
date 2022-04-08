@@ -7,7 +7,8 @@ pagetype: project
 image: logos/ampgen-logo.png
 logowidth: 80%
 blurb: Generation and fitting for multibody hadron decays
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 focus-area: as
 team:
  - henryiii

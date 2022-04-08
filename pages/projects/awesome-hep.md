@@ -7,7 +7,8 @@ pagetype: project
 image: logos/awesome-hep.png
 logowidth: 50%
 blurb: A curated list of awesome high energy and particle physics software
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 focus-area: as
 team:
  - cranmer

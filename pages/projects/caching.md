@@ -6,7 +6,8 @@ shortname: caching
 pagetype: project
 image: logos/xcache.png
 blurb: Cached-based placement of analysis datasets.
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 focus-area:
  - doma
  - osglhc

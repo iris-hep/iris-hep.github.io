@@ -6,7 +6,8 @@ shortname: accel-gnn-tracking
 pagetype: project
 image: logos/gnn_tracking.png
 blurb: accel-gnn-tracking
-project_maturity: Development
+maturity:  Development
+maturity-note:
 focus-area: ia
 team:
  - matkinso

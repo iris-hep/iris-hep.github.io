@@ -12,8 +12,8 @@ table {
 }
 </style>
 
-| Name | Focus Area(s) | Description | SDLC Phase |
-|------|-------|:------------|------|
+| Name | Focus Area(s) | SDLC Phase | Description |
+|------|-------|------|:------------|
 {% assign sorted = site.pages | sort_natural: 'title' -%}
 {%- for mypage in sorted -%}
 {%- if mypage.pagetype == 'project' -%}
@@ -27,6 +27,6 @@ table {
 [{{fa | upcase }}](/{{fa}}.html)
 {%- endfor -%}
 {%- endcapture -%}
-| [{{mypage.title}}](/projects/{{mypage.shortname}}.html) | {{focus-areas}} | {{mypage.blurb}} | {{mypage.project_maturity}} |
+| [{{mypage.title}}](/projects/{{mypage.shortname}}.html) | {{focus-areas}} | {{mypage.maturity}} | {{mypage.blurb}} |
 {% endif -%}
 {% endfor -%}

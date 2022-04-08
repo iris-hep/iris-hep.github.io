@@ -7,7 +7,8 @@ pagetype: project
 image: logos/uproot.svg
 logowidth: 70%
 blurb: Read and write ROOT files in Python
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 focus-area: as
 team:
 - jpivarski

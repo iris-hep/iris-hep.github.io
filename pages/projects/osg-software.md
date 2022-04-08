@@ -6,7 +6,8 @@ shortname: osg-software
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Provide integrated software for running dHTC services
-project_maturity: Deployed
+maturity:  Deployed
+maturity-note:
 position: -3
 focus-area: osglhc
 team:
