@@ -7,6 +7,8 @@ pagetype: project
 image: logos/awkward.svg
 logowidth: 70%
 blurb: Manipulate arrays of complex data structures
+maturity: Deployed
+maturity-note:
 focus-area: as
 team:
 - jpivarski
@@ -26,8 +28,3 @@ is a pure Python+NumPy library for manipulating complex data structures as you w
 * should not be loaded into memory all at once (lazy),
 
 this library can access them with the efficiency of NumPy arrays. They may be converted from JSON or Python data, loaded from "awkd" files, HDF5, Parquet, or ROOT files, or they may be views into memory buffers like Arrow.
-
-
-
-
-

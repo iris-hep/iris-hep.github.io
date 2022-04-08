@@ -7,6 +7,8 @@ pagetype: project
 image: logos/pyhf-logo.png
 logowidth: 50%
 blurb: Differentiable likelihoods
+maturity: Deployed
+maturity-note:
 focus-area: as
 team:
  - cranmer
