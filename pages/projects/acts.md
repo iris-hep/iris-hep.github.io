@@ -7,7 +7,7 @@ pagetype: project
 image: logos/ACTSlogo.gif
 logowidth: 30%
 blurb: Development of experiment-independent, thread-safe track reconstruction.
-maturity: Deployed
+maturity: Development
 maturity-note:
 focus-area: ia
 team:
