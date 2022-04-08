@@ -56,7 +56,9 @@ team:
 Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
 - ATLAS Collaboration. SimpleAnalysis: Truth-level Analysis Framework. Apr 2022. [https://cds.cern.ch/record/2805991](https://cds.cern.ch/record/2805991).
+- Tommaso Dorigo et al. Toward the End-to-End Optimization of Particle Physics Instruments with Differentiable Programming: a White Paper. Mar 2022. [arXiv:2203.13818](https://arxiv.org/abs/2203.13818).
 - Nathan Simpson and Lukas Heinrich. neos: End-to-End-Optimised Summary Statistics for High Energy Physics. Mar 2022. [arXiv:2203.05570](https://arxiv.org/abs/2203.05570).
+- Harry Enke et al. Survey of Open Data Concepts Within Fundamental Physics: An Initiative of the PUNCH4NFDI Consortium. _Computing and Software for Big Science_, 6(1):6, Mar 2022. [doi:10.1007/s41781-022-00081-7](https://doi.org/10.1007/s41781-022-00081-7).
 - ATLAS Collaboration. Search for neutral long-lived particles in pp collisions at s√=13 TeV that decay into displaced hadronic jets in the ATLAS calorimeter. Mar 2022. [arXiv:2203.01009](https://arxiv.org/abs/2203.01009).
 - ATLAS Collaboration. Search for events with a pair of displaced vertices from long-lived neutral particles decaying into hadronic jets in the ATLAS muon spectrometer in pp collisions at s√=13 TeV. Mar 2022. [arXiv:2203.00587](https://arxiv.org/abs/2203.00587).
 - Lukas Heinrich and Michael Kagan. Differentiable Matrix Elements with MadJax. Feb 2022. [arXiv:2203.00057](https://arxiv.org/abs/2203.00057).
