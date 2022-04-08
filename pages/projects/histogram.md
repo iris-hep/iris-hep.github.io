@@ -7,6 +7,8 @@ pagetype: project
 image: logos/boost-histogram.png
 logowidth: 50%
 blurb: Histogramming efforts
+maturity: Deployed
+maturity-note:
 focus-area: as
 team:
 - henryiii

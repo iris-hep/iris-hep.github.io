@@ -6,6 +6,8 @@ shortname: mkfit
 pagetype: project
 image: logos/mkfit-graphic.png
 blurb: Modernizing Kalman filter tracking for CMS
+maturity: Deployed
+maturity-note:
 team:
  - IHateLinus
  - pwittich
@@ -67,6 +69,3 @@ Comparison of the single-thread time to run mkFit as an external within the CMSS
 </div>
 
 <br/>
-
-
-

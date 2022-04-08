@@ -7,6 +7,8 @@ pagetype: project
 image: images/RMP-cover-image-thematic-bright-blue.png
 logowidth: 30%
 blurb: Analysis Reinterpretation
+maturity: Development
+maturity-note:
 focus-area:
 - as
 - ia

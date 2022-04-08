@@ -6,6 +6,8 @@ shortname: lst
 pagetype: project
 image: logos/lst-graphic.png
 blurb: Segment linking tracking for CMS
+maturity: Development
+maturity-note:
 team:
  - IHateLinus
  - sgnoohc
@@ -55,4 +57,3 @@ parallelizable and vectorizable (quite different from a traditional Kalman-Filte
 </div>
 <br/>
 <img src="/assets/images/seglink3.png" width="90%" alt="">
-
