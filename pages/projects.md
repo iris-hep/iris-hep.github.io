@@ -12,8 +12,8 @@ table {
 }
 </style>
 
-| Name | Focus Area(s) | SDLC Phase | Description |
-|------|-------|------|:------------|
+| Name | Focus Area(s) | Maturity | Description |
+|------|-------|-------|:------------|
 {% assign sorted = site.pages | sort_natural: 'title' -%}
 {%- for mypage in sorted -%}
 {%- if mypage.pagetype == 'project' -%}
