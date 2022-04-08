@@ -15,9 +15,8 @@ A number of employment opportunities exist with the universities involved in IRI
   * [System Administrator](https://employment.unl.edu/postings/74814)
 
 ### University of Wisconsin–Madison
-  * [Early Career Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/512136/research-systems-administrator)
-  * [Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/512137/research-systems-administrator)
-  * [Software Integration Developer](https://jobs.hr.wisc.edu/en-us/job/512194/software-integration-developer)
+  * [Early Career Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/513189/research-systems-administrator)
+  * [Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/513190/research-systems-administrator)
 
 # Other positions of interest for HEP people
 
