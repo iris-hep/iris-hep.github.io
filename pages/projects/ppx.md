@@ -7,7 +7,7 @@ pagetype: project
 image: logos/ppx-logo.png
 logowidth: 45%
 blurb: Cross-platform Probabilistic Programming eXecution protocol
-maturity:  Deployed
+maturity: Deployed
 maturity-note:
 focus-area: as
 team:

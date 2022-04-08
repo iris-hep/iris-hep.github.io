@@ -7,7 +7,7 @@ pagetype: project
 image: logos/skhep-logo.svg
 logowidth: 30%
 blurb: Pythonic analysis tools
-maturity:  Deployed
+maturity: Deployed
 maturity-note:
 focus-area: as
 team:

@@ -7,7 +7,7 @@ pagetype: project
 image: logos/recast-logo.png
 logowidth: 30%
 blurb: Analysis Reinterpretation
-maturity:  Deployed
+maturity: Deployed
 maturity-note:
 focus-area: as
 team:

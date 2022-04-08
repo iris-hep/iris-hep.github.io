@@ -7,7 +7,7 @@ pagetype: project
 image: logos/awkward.svg
 logowidth: 70%
 blurb: Manipulate arrays of complex data structures
-maturity:  Deployed
+maturity: Deployed
 maturity-note:
 focus-area: as
 team:

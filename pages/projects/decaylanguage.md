@@ -7,7 +7,7 @@ pagetype: project
 image: logos/decaylanguage.svg
 logowidth: 70%
 blurb: Describe and convert particle decays
-maturity:  Deployed
+maturity: Deployed
 maturity-note:
 focus-area: as
 team:

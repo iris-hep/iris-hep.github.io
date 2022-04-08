@@ -6,7 +6,7 @@ shortname: osg-operations
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Operate OSG-LHC services
-maturity:  Deployed
+maturity: Deployed
 maturity-note:
 position: -4
 focus-area:

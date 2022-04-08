@@ -6,7 +6,7 @@ shortname: func-adl
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Functional Analysis Description Language
-maturity:  Deployed
+maturity: Deployed
 maturity-note:
 focus-area: as
 team:

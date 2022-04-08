@@ -7,7 +7,7 @@ pagetype: project
 image: logos/vector-logo.png
 logowidth: 70%
 blurb: Manipulate vectors
-maturity:  Deployed
+maturity: Deployed
 maturity-note:
 focus-area: as
 team:

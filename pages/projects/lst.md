@@ -6,7 +6,7 @@ shortname: lst
 pagetype: project
 image: logos/lst-graphic.png
 blurb: Segment linking tracking for CMS
-maturity:  Development
+maturity: Development
 maturity-note:
 team:
  - IHateLinus
