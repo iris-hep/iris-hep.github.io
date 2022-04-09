@@ -30,14 +30,17 @@ The IDDS work is an ongoing project within IRIS-HEP in the DOMA and
 Analysis Systems area, as well as within the HEP Software Foundation
 event delivery group.
 
-## Architecture
+## Architecture: [reference vCHEP2021](https://arxiv.org/pdf/2103.00523.pdf)
 ![iDDS Architecture](/assets/images/idds_architecture.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 ## Use Cases
 
- * *ATLAS Data Carousel*:  This use case, in production since May 2020 for the
+ * *[ATLAS Data Carousel](https://aipanda181.cern.ch/monitor/)*:
+   This use case, in production since May 2020 for the
    ATLAS experiment, minimizes the delay between data being read from tape
    archive until it's delivered to a processor.
+
+   It has been running smoothly for 2 years. Hundreds of PB data has been processed.
 
  * *Hyper Parameter Optimization (HPO)*: There's a strong overlap between the
    data management needed for detector events and what is needed for management
@@ -50,7 +53,8 @@ event delivery group.
    its application is not limited to ATLAS. Currently, it is actively used for
    ATLAS workflows for FastCaloGAN and ToyMC.
 
- * *DAG based workflow management*: To support its data delivery functionality,
+ * *[DAG based workflow management](https://aipanda017.cern.ch/monitor/dashboard.html)*: 
+   To support its data delivery functionality,
    iDDS internally implements a high-level workflow engine, specifying a set of
    interdependent jobs as a directed acyclic graph (DAG).  iDDS, interacting
    with software such as PanDA, drives workload scheduling and implements
@@ -61,8 +65,8 @@ event delivery group.
    the DOMA PanDA instance, iDDS is being employed by the Rubin Observatory
    (formerly LSST) for their data processing needs.  So far, the observatory has
    selected PanDA/iDDS as its workflow managment system. The R&D instance has processed
-   thousands of jobs daily. New production instance is scheduled to be setup at SLAC
-   this summer (waiting for hardware deployments).
+   thousands of jobs daily. It has passed the DP0.2 tests.New production instance is
+   scheduled to be setup at SLAC this summer.
 
  * *Monte Carlo Toy Based Confidence Limits with iDDS*: An efficient Monte Carlo
    Toy generation process requires multiple steps of grid scans, where current steps
@@ -80,9 +84,12 @@ event delivery group.
    The demo workflow has passed the tests successfully. Working to adapt real analysis
    workflows.
 
+ * *sPHENIX workflow management*: The sPHENIX is also starting to test to use iDDS/PanDA for
+   its workflow management.
+
 ## Reference
- * *[Home page](https://idds.cern.ch)*
+ * *[Home page](https://iddsserver.cern.ch/website/)*
  * *[Code at github](https://github.com/HSF/iDDS)*
  * *[Documents at readthedocs](https://idds.readthedocs.io)*
- * *[ATLAS instance monitor](https://bigpanda.cern.ch/idds)*
- * *[DOMA instance monitor](https://panda-doma.cern.ch/idds/)*
+ * *[ATLAS instance monitor](https://aipanda181.cern.ch/monitor/)*, *[ATLAS request monitor](https://bigpanda.cern.ch/idds)*
+ * *[DOMA instance monitor](https://aipanda017.cern.ch/monitor/dashboard.html)*, *[DOMA request monitor](https://panda-doma.cern.ch/idds/)*, *[DOMA workflow monitor](https://panda-doma.cern.ch/idds/wfprogress/)*
