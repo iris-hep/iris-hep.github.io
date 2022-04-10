@@ -41,6 +41,9 @@ event delivery group.
    archive until it's delivered to a processor.
 
    It has been running smoothly for 2 years. Hundreds of PB data has been processed.
+   (The monitor snapshot below only shows data from July 2021. The data before it is already archived.)
+   ![iDDS ATLAS Data Carousel](/assets/images/idds_atlas_data_carousel.jpg){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
+
 
  * *Hyper Parameter Optimization (HPO)*: There's a strong overlap between the
    data management needed for detector events and what is needed for management
@@ -67,6 +70,8 @@ event delivery group.
    selected PanDA/iDDS as its workflow managment system. The R&D instance has processed
    thousands of jobs daily. It has passed the DP0.2 tests.New production instance is
    scheduled to be setup at SLAC this summer.
+
+   ![iDDS ATLAS DOMA Rubin](/assets/images/idds_doma_rubin.jpg){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
 
  * *Monte Carlo Toy Based Confidence Limits with iDDS*: An efficient Monte Carlo
    Toy generation process requires multiple steps of grid scans, where current steps
