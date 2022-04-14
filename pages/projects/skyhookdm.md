@@ -68,8 +68,7 @@ The above two plots shows how Parquet (top) stays bottlenecked on the client CPU
 * [Code walkthrough](https://www.youtube.com/watch?v=XfJsnadp18c) video.
 
 ## Announcements
-* March, 2022 - Skyhook accepted in CCGrid 2022.
-* March, 2022 - Our paper, Skyhook: Toward an Arrow-Native Storage System, to appear in CCGrid 2022.
+* March, 2022 - [Skyhook: Toward an Arrow-Native Storage System](https://arxiv.org/pdf/2204.06074.pdf), to appear in CCGrid 2022.
 * January, 2022 - [Skyhook: Bringing Computation to Storage with Apache Arrow](https://arrow.apache.org/blog/2022/01/31/skyhook-bringing-computation-to-storage-with-apache-arrow/)
 * October, 2021 - [Skyhook is now a part of Apache Arrow !](https://medium.com/@jayjeetc/skyhookdm-is-now-a-part-of-apache-arrow-e5d7b9a810ba)
 * December, 2021 - [SkyhookDM v0.4.0](https://github.com/uccross/skyhookdm-arrow/releases/tag/v0.4.0) Released !
