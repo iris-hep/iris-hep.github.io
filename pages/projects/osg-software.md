@@ -28,8 +28,8 @@ software systems that comprise the OSG fabric of production services.
 
 -   **Integration testing:** the team coordinates tests of the integrated software stack among internal staff and
     external stakeholders.
-    Additionally, the team maintains a nightly integration test suite that covers different combinations of software and
-    versions, installation methods, and operating systems.
+    Additionally, the team maintains and monitors nightly automated tests that exercise different integrated software
+    installations, varying software versions, installation methods, and hosting operating systems (OS).
 
 -   **Site documentation:** the team maintains [documentation](https://opensciencegrid.org/docs/) that outline how to
     install, configure, and update software; how to address common problems; detailed notes about new software releases
@@ -61,23 +61,32 @@ software systems that comprise the OSG fabric of production services.
         In addition to the changes in software, the team made a number of release policy changes to ease the transition
         to token-authentication and to reflect the increasingly agile operational models being explored by the LHC.
 
--   **Container images:** the OSG Software and Release team has supported the LHC community’s exploration into DevOps
-    deployment models by distributing select production services as container images.
+-   **Enterprise Linux 8 support:** the OSG Software Stack is built upon RedHat Enterprise Linux (EL) compatible
+    operating systems and new operating system versions require rebuilding and verification of the entire software
+    stack.
+    With the release of EL 8, RedHat announced a change in support model for CentOS, a popular open source EL-compatible
+    OS, promising quicker updates but shorter support lifecycles.
+    The OSG Software Team worked with the LHC community to test this new version of CentOS as well as other open-source
+    alternatives and provided guidance for US LHC sites.
+    EL 8 also included a major version upgrade of Python from 2 to 3, resulting in major development efforts by the team
+    and coordination of external software providers.
+
+-   **Streamlining the release process:** to get new software into the hands of site administrators more quickly, the
+    team has implemented rolling-style releases along with a policy to make release candidates available more quickly.
+
+    The OSG Software and Release team has also supported the LHC community’s exploration into DevOps deployment models
+    by distributing select production services as container images.
     In particular, the team developed and maintains the [caching](caching.md) container image used by multiple LHC
     experiments.
     The team follows a strategy of providing a common base container across all communities, plus community-specific
     refinements for U.S. ATLAS and U.S. CMS.
-
--   **Enterprise Linux 8 support:** the OSG Software Stack is built upon the Enterprise Linux (EL) operating system
-    substrate and new operating system versions requires rebuilding and verification of the entire software stack.
-    EL 8 included a major version upgrade of Python from 2 to 3, resulting in major development efforts by the team and
-    coordination of external software providers.
-
--   **Streamlining the release process:** to get new software into the hands of site administrators more quickly, the
-    team has implemented rolling-style releases along with a policy to make release candidates available more quickly.
 
 -   **Retirement of OSG 3.4:** Retirement of older software is the other side of the coin of maintaining the OSG
     Software Stack that gives our community timelines to transition to new technologies while ensuring
     production-readiness of the distributed computing infrastructure. In particular, the retirement of OSG 3.4 meant the
     end of support for software such as edg-mkgridmap, GUMS, BeStMan, and VOMS Admin Server packages as well as the
     end-of-life of RedHat Enterprise Linux 6 based operating systems.
+
+-   **Provide regular software updates:** to ensure the security and continued functionality of the integrated OSG
+    Software Stack, the Software Team provides periodic updates to its constituent software components.
+    Over the calendar year 2021, the Software Team published 54 releases containing 200 software version updates.
