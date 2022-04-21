@@ -7,6 +7,8 @@ pagetype: project
 image: logos/ppx-logo.png
 logowidth: 45%
 blurb: Cross-platform Probabilistic Programming eXecution protocol
+maturity: Deployed
+maturity-note:
 focus-area: as
 team:
  - cranmer
@@ -40,6 +42,3 @@ The `PPX` protocol and `pyprob` tool have since been applied to epidemiological 
  * "Simulation-Based Inference for Global Health Decisions" by Christian Schroeder de Witt, Bradley Gram-Hansen, Nantas Nardelli, Andrew Gambardella, Rob Zinkov, Puneet Dokania, N. Siddharth, Ana Belen Espinosa-Gonzalez, Ara Darzi, Philip Torr, and Atılım Güneş Baydin [arXiv:2005.07062](https://arxiv.org/abs/2005.07062).
 
 These tools are now also being used to extend Dark Matter  astrophysics by instrumenting the simulation of strong gravitational lensing used in [Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning](https://inspirehep.net/literature/1752736)
-
-
-

@@ -7,6 +7,8 @@ pagetype: project
 image: logos/cabinetry.png
 logowidth: 35%
 blurb: Building and steering template fits
+maturity: Deployed
+maturity-note:
 focus-area: as
 team:
  - cranmer
