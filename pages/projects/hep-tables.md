@@ -6,6 +6,8 @@ shortname: hep-tables
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Heterogeneous Distributed Array Programming Environment
+maturity: Deployed
+maturity-note:
 focus-area: as
 team:
  - gordonwatts

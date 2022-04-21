@@ -35,6 +35,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1047234/
   recordingurl: https://youtu.be/_1Xv63HBbtE
   focus-area: as
+current_status: >
+  During 2022, Baidyanath is a Research Software Intern for the Compiler Research project (https://compiler-research.org) and CERN SFT (at CERN in Geneva, Switzerland)
 github-username: sudo-panda
 
 ---

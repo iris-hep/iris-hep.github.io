@@ -7,6 +7,8 @@ pagetype: project
 image: logos/ServiceX-Color-Transparent.png
 logowidth: 10%
 blurb: Delivering columnar data on demand
+maturity: Testing
+maturity-note:
 focus-area: doma
 team:
  - AndrewEckart
