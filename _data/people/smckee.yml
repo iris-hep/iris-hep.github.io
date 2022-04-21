@@ -347,4 +347,28 @@ presentations:
   location: Zoom
   focus-area: doma
   project: osg-networking
+- title: LHCOPN/LHCONE Monitoring Update
+  url: https://indico.cern.ch/event/1110783/contributions/4689023/attachments/2417178/4136657/LHCONE%20Monitoring%20Update%20Spring%202022.pdf
+  meeting: LHCOPN-LHCONE meeting #48
+  meetingurl: https://indico.cern.ch/event/1110783/
+  date: 2022-03-29
+  location: Zoom
+  focus-area: osglhc
+  project: osg-networking
+- title: Research Networking Technical WG Update
+  url: https://indico.cern.ch/event/1110783/contributions/4689272/attachments/2418081/4138391/LHCONE_LHCOPN%20Research%20Networking%20Technical%20WG%20Update.pdf
+  meeting: LHCOPN-LHCONE meeting #48
+  meetingurl: https://indico.cern.ch/event/1110783/
+  date: 2022-03-30
+  location: Zoom
+  focus-area: osglhc
+  project: osg-networking
+- title: Networking Activities and Plans
+  url: https://indico.fnal.gov/event/53029/contributions/236914/attachments/153174/198675/OSG-AHM-2022_Network%20Activities%20and%20Plans.pdf
+  meeting: OSG 2022 All-Hands Meeting, Joint LHC Session
+  meetingurl: https://indico.fnal.gov/event/53029/timetable/#20220318
+  date: 2022-03-18
+  location: Zoom
+  focus-area: osglhc
+  project: osg-networking
 
