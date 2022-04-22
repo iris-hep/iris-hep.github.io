@@ -67,7 +67,7 @@ event delivery group.
    In fact, the DAG engine can be used directly for workflow management.  Using
    the DOMA PanDA instance, iDDS is being employed by the Rubin Observatory
    (formerly LSST) for their data processing needs.  So far, the observatory has
-   selected PanDA/iDDS as its workflow managment system. The R&D instance has processed
+   selected PanDA/iDDS as its workflow management system. The R&D instance has processed
    thousands of jobs daily. It has passed the DP0.2 tests.New production instance is
    scheduled to be setup at SLAC this summer.
 
