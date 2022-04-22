@@ -56,7 +56,7 @@ event delivery group.
    its application is not limited to ATLAS. Currently, it is actively used for
    ATLAS workflows for FastCaloGAN and ToyMC.
 
- * *[DAG based workflow management](https://aipanda017.cern.ch/monitor/dashboard.html)*: 
+ * *[DAG based workflow management](https://aipanda017.cern.ch/monitor/dashboard.html)*:
    To support its data delivery functionality,
    iDDS internally implements a high-level workflow engine, specifying a set of
    interdependent jobs as a directed acyclic graph (DAG).  iDDS, interacting
