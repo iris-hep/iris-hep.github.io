@@ -8,3 +8,15 @@ shortname: JayjeetAtGithub
 title:
 website: https://github.com/JayjeetAtGithub
 presentations:
+- title: SkyhookDM:An Arrow-Native Storage System
+  date: 2021-09-29
+  url: https://www.snia.org/sites/default/files/SDC/2021/pdfs/SNIA-SDC21-Chakraborty-Maltzahn-Skyhookdm-An-Arrow-Native-Storage-System.pdf
+  meeting: SNIA 2021 Presentation
+  focus-area: doma
+  location: Virtual
+- title: SkyhookDM:Towards an Arrow-Native Storage System
+  date: 2021-06-30
+  url: https://indico.cern.ch/event/1047234/contributions/4399421/attachments/2272289/3859324/skyhook-iris-hep-final.pdf
+  meeting: IRIS-HEP Winter 2021 Fellowship Presentation
+  focus-area: doma
+  location: Virtual
