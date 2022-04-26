@@ -35,7 +35,7 @@ presentations:
   recordingurl: https://youtu.be/xdryv2yeLfQ
   focus-area: as
 current_status: >
-  Masters student in Computer Science at Columbia University
+  <strong>December 2021</strong> - Masters student in Computer Science at Columbia University
 github-username: LovelyBuggies
 
 ---

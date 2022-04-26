@@ -41,7 +41,7 @@ presentations:
   focus-area: doma
 
 current_status: >
-  Graduate student in Computer Science at the University of Southern California
+  <strong>December 2021</strong> - Graduate student in Computer Science at the University of Southern California
 
 github-username: 4eshanb
 

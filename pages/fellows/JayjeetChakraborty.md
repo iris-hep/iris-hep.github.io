@@ -74,7 +74,7 @@ presentations:
   focus-area: doma
 
 current_status: >
-  As of Fall 2021, Jayjeet is beginning graduate studies in Computer Science at the
+  <strong>July 2021</strong> - As of Fall 2021, Jayjeet is beginning graduate studies in Computer Science at the
   University of California, Santa Cruz.
 github-username: JayjeetAtGithub
 

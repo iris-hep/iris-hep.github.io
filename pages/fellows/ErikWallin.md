@@ -30,7 +30,7 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=sATu_MJo8L4&t=0s
   focus-area: doma
 current_status: >
-  Master student at the Light Dark Matter eXperiment (LDMX)
+  <strong>December 2021</strong> - Master student at the Light Dark Matter eXperiment (LDMX)
 github-username: Skelpdar
 
 ---
