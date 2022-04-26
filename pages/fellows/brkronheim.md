@@ -32,7 +32,7 @@ presentations:
   recordingurl: https://youtu.be/jAyJSDiWxhw
   focus-area: ia
 current_status: >
-  
+
 github-username: brkronheim
 
 ---
