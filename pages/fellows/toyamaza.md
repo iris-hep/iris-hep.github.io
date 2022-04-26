@@ -35,7 +35,7 @@ presentations:
   focus-area: ia
   project: acts
 current_status: >
-  Postdoctoral Research at University of California Berkeley
+  December 2021 - Postdoctoral Research at University of California Berkeley
 github-username: toyamaza
 
 ---

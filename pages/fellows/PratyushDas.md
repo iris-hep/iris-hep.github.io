@@ -65,7 +65,7 @@ presentations:
   focus-area: as
 
 current_status: >
-  As of Fall 2021, Pratyush is beginning graduate studies in Computer Science at Purdue
+  April 2021 - As of Fall 2021, Pratyush is beginning graduate studies in Computer Science at Purdue
   University.
 github-username: reikdas
 

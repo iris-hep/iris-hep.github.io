@@ -36,7 +36,7 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=yjlzO5oXb1w&t=0s
   focus-area: as
 current_status: >
-  Software Engineer at Electronic Arts (EA)
+  December 2021 - Software Engineer at Electronic Arts (EA)
 github-username: coolalexzb
 
 ---

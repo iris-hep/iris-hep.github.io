@@ -40,7 +40,7 @@ presentations:
   recordingurl:
   focus-area: ia
 current_status: >
-  During 2022, Garima is a Research Software Intern for IRIS-HEP and CERN SFT (at CERN in Geneva, Switzerland)
+  February 2022 - Research Software Intern for IRIS-HEP and CERN SFT (at CERN in Geneva, Switzerland)
 github-username: grimmmyshini
 
 ---

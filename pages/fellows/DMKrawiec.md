@@ -35,7 +35,7 @@ proposal: /assets/pdf/Fellow-Dominika-Krawiec-Proposal.pdf
 presentations:
 
 current_status: >
-  Undergraduate student of Physics at the University of Warwick, UK.
+  March 2022 - Undergraduate student of Physics at the University of Warwick, UK.
 
 github-username: dmkrawiec
 
