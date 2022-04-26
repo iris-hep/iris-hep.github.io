@@ -35,7 +35,7 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=b4iMNk2m-Dc&t=845s
   focus-area: ia
 current_status: >
-  December 2021 - PhD Candidate in Physics at University of Illinois Urbana-Champaign
+  <strong>December 2021</strong> - PhD Candidate in Physics at University of Illinois Urbana-Champaign
 github-username: vesal-rm
 
 ---

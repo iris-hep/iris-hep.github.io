@@ -28,6 +28,5 @@ presentations:
     recordingurl: https://www.youtube.com/watch?v=2BnMALmU5CQ
     focus-area: as
 current_status: >
-  December 2021 - Machine Learning Intern at Pacific Northwest National Lab
-  December 2021 - Undergraduate Research Assistant at University of Washington Elementary Particle Experiment Group
+  <strong>December 2021</strong> - Machine Learning Intern at Pacific Northwest National Lab, Undergraduate Research Assistant at University of Washington Elementary Particle Experiment Group
 ---

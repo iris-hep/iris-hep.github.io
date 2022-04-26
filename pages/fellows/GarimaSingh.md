@@ -40,7 +40,7 @@ presentations:
   recordingurl:
   focus-area: ia
 current_status: >
-  February 2022 - Research Software Intern for IRIS-HEP and CERN SFT (at CERN in Geneva, Switzerland)
+  <strong>February 2022</strong> - Research Software Intern for IRIS-HEP and CERN SFT (at CERN in Geneva, Switzerland)
 github-username: grimmmyshini
 
 ---

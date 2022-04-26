@@ -36,7 +36,7 @@ presentations:
   recordingurl: https://youtu.be/UChnsoqsHIg
   focus-area: ia
 current_status: >
-  December 2021 - Data Scientist at TDI Technologies, Inc
+  <strong>December 2021</strong> - Data Scientist at TDI Technologies, Inc
 github-username: abdelabd
 
 ---
