@@ -34,7 +34,7 @@ presentations:
   recordingurl: https://youtu.be/oZgESG2t1gU
   focus-area: as
 current_status: >
-  Graduate student in Physics at Stony Brook University
+  <strong>December 2021</strong> - Graduate student in Physics at Stony Brook University
 github-username: stormsomething
 
 ---

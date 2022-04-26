@@ -38,7 +38,7 @@ presentations:
   recordingurl: https://youtu.be/ajcqHESGAQY
   focus-area: ia
 current_status: >
-  Ph.D. Candidate in Aerospace Engineering at Cornell University
+  <strong>December 2021</strong> - Ph.D. Candidate in Aerospace Engineering at Cornell University
 github-username: a-heintz
 
 ---
