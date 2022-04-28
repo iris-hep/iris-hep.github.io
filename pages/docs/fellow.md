@@ -8,7 +8,7 @@ pagetype: doc
 ### Adding a New Fellow Page
 
 #### IRIS-HEP website
-In order to add your information, we request you to please supply a photo ( First_Name-Last_Name.jpg or .png - 320x240 pixels) and a paragraph summarizing your project’s goals.  
+In order to add your information, we request you to please supply a photo ( First_Name-Last_Name.jpg or .png - 320x240 pixels) and a paragraph summarizing your project’s goals.
 
 You should submit a pull request with the photo, a markdown file with the summary information above, and your proposal to this repo:
 
@@ -19,7 +19,7 @@ You should submit a pull request with the photo, a markdown file with the summar
 * Add your proposal named `Fellow-<First name>-<Last name>-Proposal.pdf` to the [assets/pdf folder](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/assets/pdf/)
 * Add a "`<your github username>.md`" file to the [fellows folder in the website repository](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/pages/fellows). See the example below.
 
-*Please Note*:  In the markdown file you create, ensure you set the “active” attribute to True – (i.e.  active: True).  Otherwise, your entry will not appear on our Fellows page.  
+*Please Note*:  In the markdown file you create, ensure you set the “active” attribute to True – (i.e.  active: True).  Otherwise, your entry will not appear on our Fellows page.
 
 Be sure to include your project summary in the project_goal field.
 
