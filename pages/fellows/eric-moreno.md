@@ -38,7 +38,7 @@ presentations:
   recordingurl: https://youtu.be/l5ZN8fjPW9c
   focus-area: ia
 current_status: >
-  Dual PhD candidate in Physics and Artificial Intelligence at Massachusetts Institute
+  <strong>December 2021</strong> - Dual PhD candidate in Physics and Artificial Intelligence at Massachusetts Institute
   of Technology
 github-username: eric-moreno
 

@@ -54,7 +54,7 @@ presentations:
   focus-area: ia
 
 current_status: >
-  As of Fall 2020, Raghav is beginning graduate studies in Physics at the University
+  <strong>April 2021</strong> - As of Fall 2020, Raghav is beginning graduate studies in Physics at the University
   of California, San Diego
 github-username: rkansal47
 
