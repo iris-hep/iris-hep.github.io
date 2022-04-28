@@ -17,6 +17,7 @@ title: "Documentation pages for the IRIS-HEP team"
 * [Reimbursement](/docs/reimbursement)
 * [New team member page](/docs/newteammember)
 * [Fellow page](/docs/fellow)
+* [Fellows Onboarding](/docs/fellows_onboarding)
 
 #### Website
 * [Website GitHub repo](https://github.com/iris-hep/iris-hep.github.io-source)
