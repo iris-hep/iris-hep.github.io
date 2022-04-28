@@ -17,7 +17,9 @@ team:
 - "[John Thiltges](https://hcc.unl.edu/contact-us)"
 ---
 
+
 The [OSG Network Monitoring](https://osg-htc.org/networking/) team designs, deploys, and maintains an infrastructure for collecting and using network monitoring data coming from [LHC](https://home.cern/science/accelerators/large-hadron-collider), [OSG](https://osg-htc.org/), and other collaborations and sites around the world.
+
 
 ### Activities
 
@@ -47,3 +49,4 @@ This project collaborates and has collaborated with a number of projects includi
 -   **Research Networking Technical Working Group:** (2019-Ongoing) see [charter](https://zenodo.org/record/6470973#.YmGDK9rMJD8)
 -   **WLCG Monitoring Task Force** (2021-Ongoing) [https://twiki.cern.ch/twiki/bin/view/LCG/](https://twiki.cern.ch/twiki/bin/view/LCG/MonitoringTaskForce)
 -   **WLCG DOMA Working Group** (2020-Ongoing) [https://twiki.cern.ch/twiki/bin/view/LCG/DomaActivities](https://twiki.cern.ch/twiki/bin/view/LCG/DomaActivities)
+
