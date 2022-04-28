@@ -33,8 +33,8 @@ The [OSG Network Monitoring](https://osg-htc.org/networking/) team designs, depl
 
 -   **Network Data Pipeline:** We have created and evolved a robust network data pipeline which continuously gathers data from more than 250 perfSONAR toolkits world-wide and sends it to multiple locations supporting analysis, visualization and backup.
 -   **Alerting and Alarming Service:** Over the last year we have created an alerting and alarming service for our network data.  Any user can authenticate with their institutional credentials and select various types of alerts to subscribe to.  Try it at https://aaas.atlas-ml.org
--   **Toolkit Information Server:** 
-We created a web service that serves as a central location for finding network related tools, documentation and applications at 
+-   **Toolkit Information Server:**
+We created a web service that serves as a central location for finding network related tools, documentation and applications at
 [ToolKitInfo](https://toolkitinfo.opensciencegrid.org/).
 -   **Network Data User Interfaces:** With the extensive set of network data we collect, we have also worked to provide various user interfaces to allow easy exploration and visualization of the data.   We have created Kibana and Grafana dashboards and stand-alone applications like [TRACER](https://perfsonar.uc.ssl-hep.org/) and [pS-Dash](https://ps-dash.uc.ssl-hep.org/sites), all findable via the Toolkit Info link above.
 
