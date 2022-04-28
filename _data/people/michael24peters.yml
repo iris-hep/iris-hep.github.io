@@ -1,7 +1,6 @@
 active: true
-focus-area:
-- ML
-- Data Analysis
+focus-area: 
+  - ia
 institution: University of Cincinnati
 name: Michael Peters
 photo: /assets/images/team/Michael-Peters.jpg
