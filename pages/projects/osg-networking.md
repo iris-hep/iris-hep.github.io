@@ -17,14 +17,14 @@ team:
 - "[John Thiltges](https://hcc.unl.edu/contact-us)"
 ---
 
-The [OSG Network Monitoring](https://osg-htc.org/networking/) team designs, deploys, and maintains an infrastructure for collecting and using network monitoring data coming from LHC, OSG, and other sites around the world.
+The [OSG Network Monitoring](https://osg-htc.org/networking/) team designs, deploys, and maintains an infrastructure for collecting and using network monitoring data coming from [LHC](https://home.cern/science/accelerators/large-hadron-collider), [OSG](https://osg-htc.org/), and other collaborations and sites around the world.
 
 ### Activities
 
 -   **Network Pipeline Development** Our team, using feedback from our operating experience, works to upgrade and evolve our network data pipeline to provide near real-time metrics for our analytics and visualization tools.
--   **Operating the Network Pipeline** We need to monitor and maintain our global network pipeline, starting from the data source (perfSONAR toolkits) to all data destinations. The maintenance includes tuning and optimizing component settings to ensure quick, reliable access to the data.
+-   **Operating the Network Pipeline** We need to monitor and maintain our global network pipeline, starting from the data source ([perfSONAR toolkits](https://docs.perfsonar.net/#perfsonar-toolkit)) to all data destinations. The maintenance includes tuning and optimizing component settings to ensure quick, reliable access to the data.
 -   **Site and User Support** Using the network measurement data, site administrators and network users can identify potential network issues.  Our team supports them in triaging the initial problem reports to either rule out a network issue, suggest next steps in the diagnosis, or sometimes identifying the root cause.
--   **perfSONAR Deployment**  Our network monitoring infrastructure critically depends upon deploying and properly configuring perfSONAR to make network measurements to and from each site.  We advise users on best practices and help diagnose perfSONAR issues.
+-   **perfSONAR Deployment**  Our network monitoring infrastructure critically depends upon deploying and properly configuring [perfSONAR](https://docs.perfsonar.net/) to make network measurements to and from each site.  We advise users on best practices and help diagnose perfSONAR issues.
 -   **Documentation for Network Tools and Services** The team maintains [documentation](https://osg-htc.org/networking/) on the OSG website as well as additional documentation for our tools and services.
 -   **Community Engagement** Since OSG, and our WLCG partners, serve the broader research and education community, we work to attend relevant community meetings and present on our tools and services.
 -   **Training** To help train the next generation of network cyberinfrastructure specialists, we run a weekly meeting, bringing together undergraduates, graduate students, team members and project leaders to discuss our work, plans and effort.
@@ -41,9 +41,9 @@ We created a web service that serves as a central location for finding network r
 ### Collaborations
 
 This project collaborates and has collaborated with a number of projects including:
--   **SAND** (Service Analysis and Network Diagnosis) (2017-2021) https://sand-ci.org/, NSF Grant #1827116):
--   **WLCG Throughput Working Group:** https://twiki.cern.ch/twiki/bin/view/LCG/NetworkTransferMetrics
--   **HEPiX Network Function Virtualization Working Group:** (2018-2020) see final report https://zenodo.org/record/3741402#.YmGFMdrMJD8
--   **Research Networking Technical Working Group:** (2019-Ongoing) see charter at https://zenodo.org/record/6470973#.YmGDK9rMJD8
--   **WLCG Monitoring Task Force** (2021-Ongoing) https://twiki.cern.ch/twiki/bin/view/LCG/MonitoringTaskForce
--   **WLCG DOMA Working Group** https://twiki.cern.ch/twiki/bin/view/LCG/DomaActivities
+-   **SAND** (Service Analysis and Network Diagnosis) (2017-2021) [https://sand-ci.org/](https://sand-ci.org/), NSF Grant #1827116):
+-   **WLCG Throughput Working Group:** (2014-Ongoing) [https://twiki.cern.ch/twiki/bin/view/LCG/NetworkTransferMetrics](https://twiki.cern.ch/twiki/bin/view/LCG/NetworkTransferMetrics)
+-   **HEPiX Network Function Virtualization Working Group:** (2018-2020) see [final report](https://zenodo.org/record/3741402#.YmGFMdrMJD8)
+-   **Research Networking Technical Working Group:** (2019-Ongoing) see [charter](https://zenodo.org/record/6470973#.YmGDK9rMJD8)
+-   **WLCG Monitoring Task Force** (2021-Ongoing) [https://twiki.cern.ch/twiki/bin/view/LCG/](https://twiki.cern.ch/twiki/bin/view/LCG/MonitoringTaskForce)
+-   **WLCG DOMA Working Group** (2020-Ongoing) [https://twiki.cern.ch/twiki/bin/view/LCG/DomaActivities](https://twiki.cern.ch/twiki/bin/view/LCG/DomaActivities)
