@@ -33,8 +33,9 @@ The [OSG Network Monitoring](https://osg-htc.org/networking/) team designs, depl
 
 ### Accomplishments
 
+![OSG Network Data Pipeline](/assets/images/OSG-net-pipeline.png){:style="display:block; margin-left: auto; margin-right: auto; width: 65%"}
 -   **Network Data Pipeline:** We have created and evolved a robust network data pipeline which continuously gathers data from more than 250 perfSONAR toolkits world-wide and sends it to multiple locations supporting analysis, visualization and backup.
--   **Alerting and Alarming Service:** Over the last year we have created an alerting and alarming service for our network data.  Any user can authenticate with their institutional credentials and select various types of alerts to subscribe to.  Try it at https://aaas.atlas-ml.org
+-   **Alerting and Alarming Service:** Over the last year we have created an [alerting and alarming service](https://aaas.atlas-ml.org) for our network data.  Any user can authenticate with their institutional credentials and select various types of alerts to subscribe to. 
 -   **Toolkit Information Server:**
 We created a web service that serves as a central location for finding network related tools, documentation and applications at
 [ToolKitInfo](https://toolkitinfo.opensciencegrid.org/).
