@@ -19,7 +19,7 @@ project_goal: >
     wrapper functions (named as obj, arr, and awk) to users which are also
     shown in the internal classes' __repr__ methods, making these constructor
     functions even more ambiguous. </br> </br>
-    Additionally, the vector library lacks proper user as well as API 
+    Additionally, the vector library lacks proper user as well as API
     documentation. Currently, there are no detailed explanations in the existing
     tutorials, and most of the functions and classes do not contain docstrings,
     which automatically render when displayed on the documentation website.
