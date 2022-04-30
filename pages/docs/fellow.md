@@ -15,8 +15,8 @@ You should submit a pull request with the photo, a markdown file with the summar
 <https://github.com/iris-hep/iris-hep.github.io-source>
 
 
-* Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team folder](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/assets/images/team). It should be 320x240 pixels.
-* Add your proposal named `Fellow-<First name>-<Last name>-Proposal.pdf` to the [assets/pdf folder](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/assets/pdf/)
+* Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team folder](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/assets/images/team). It should be 320x240 pixels and in general should be 150kB or less.
+* If you have been offered and accepted a Fellow position, your proposal will be uploaded by us to the [assets/pdf/follows-2022 folder](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/assets/pdf/fellows-2022). Find the exact filename and use that below.
 * Add a "`<your github username>.md`" file to the [fellows folder in the website repository](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/pages/fellows). See the example below.
 
 *Please Note*:  In the markdown file you create, ensure you set the “active” attribute to True – (i.e.  active: True).  Otherwise, your entry will not appear on our Fellows page.
@@ -47,7 +47,7 @@ project_goal: >
 mentors:
   - <Mentor Name - (<Mentor Institution>)>
 
-proposal: /assets/pdf/Fellow-<First name>-<Last name>-Proposal.pdf
+proposal: /assets/pdf/fellows-2022/<find-your-file>
 presentations:
   - title: "<Presentation Title"
     date: "Presentation Date"
