@@ -33,7 +33,7 @@ projects:
 projects:
 - project_title: Accelerating Uproot with AwkwardForth
   project_goal: >
-    Uproot is a Python library made for ROOT I/O. Uproot can only read columnar data quickly. The record-oriented layouts are hundreds of times slower, hence, in this project we aim to accelerate Uproot using AwkwardForth, a Domain Specific Language and meta-programming. The project will result in a fully functional ROOT format reader that can replace the current solution and alos outperform it.
+    Uproot is a Python library made for ROOT I/O. Uproot can only read columnar data quickly. The record-oriented layouts are hundreds of times slower, hence, in this project we aim to accelerate Uproot using AwkwardForth, a Domain Specific Language. This fellowship will involve writing up a meta-programming solution to generate schema-specific AwkwardForth code to read ROOT files. This project will result in a fully functional ROOT format reader that can replace the current solution and also outperform it.
   mentors:
   - Jim Pivarski (Princeton University)
  proposal: /assets/pdf/fellows-2022/039-proposal-Aryan-Roy.pdf
