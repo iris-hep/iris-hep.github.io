@@ -8,7 +8,7 @@ title: Saransh Chopra - IRIS-HEP Fellow
 active: True
 dates:
   start: 2022-06-01
-  end: 2021-08-31
+  end: 2022-08-31
 photo: /assets/images/team/Saransh-Chopra.png
 institution: Cluster Innovation Centre, University of Delhi
 e-mail: saransh0701@gmail.com
@@ -34,13 +34,5 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-current_status: >
-  A placeholder for status updates
+current_status:
 ---
