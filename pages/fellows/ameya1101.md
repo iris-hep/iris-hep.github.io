@@ -13,13 +13,13 @@ institution: BITS, Pilani - K.K. Birla Goa Campus
 e-mail: ameyathete11@gmail.com
 project_title: Equivariant Graph Neural Networks for Particle Tracking
 project_goal: >
-    Tracking devices, or trackers, at the LHC record hits of charged particles produced in 
-    a collision event. The task of track reconstruction involves clustering tracker hits to 
+    Tracking devices, or trackers, at the LHC record hits of charged particles produced in
+    a collision event. The task of track reconstruction involves clustering tracker hits to
     reconstruct the trajectories of these particles. The sparse nature of tracking data makes
-    graph neural networks (GNNs) well-suited to praticle tracking applications. The goal of 
-    this project is to develop a GNN for particle tracking by explicitly incorporating E(3) 
-    equivariance into the model. Incorporating physically meaningful symmetries into the GNN 
-    can reduce the number of parameters and potentially reduce training and inference times 
+    graph neural networks (GNNs) well-suited to praticle tracking applications. The goal of
+    this project is to develop a GNN for particle tracking by explicitly incorporating E(3)
+    equivariance into the model. Incorporating physically meaningful symmetries into the GNN
+    can reduce the number of parameters and potentially reduce training and inference times
     for the model, while retaining the expressive power of non-equivariant GNNs.
 mentors:
   - Savannah Thais - (Princeton University)
