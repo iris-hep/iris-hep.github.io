@@ -7,8 +7,8 @@ fellow-name: Surya Somayyajula
 title: Surya Somayyajula - IRIS-HEP Fellow
 active: True
 dates:
-  start: May 2022
-  end: August 2022
+  start: 2022-05-23
+  end: 2022-08-12
 photo: /assets/images/team/Surya-Somayyajula.jpg
 institution: University of Wisconsin-Madison
 e-mail: somayyajula@wisc.edu
