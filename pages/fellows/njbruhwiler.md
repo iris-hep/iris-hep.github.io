@@ -7,8 +7,8 @@ fellow-name: Natalie Bruhwiler
 title: Natalie Bruhwiler - IRIS-HEP Fellow
 active: True
 dates:
-  start: May 23, 2022
-  end: August 12, 2022
+  start: 2022-05-23
+  end: 2022-08-12
 photo: /assets/images/team/Natalie-Bruhwiler.png
 institution: University of California, Berkeley
 e-mail: nataliebruhwiler@berkeley.edu
