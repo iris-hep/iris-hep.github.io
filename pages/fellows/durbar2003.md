@@ -20,13 +20,13 @@ mentors:
 - Alex Held (NYU)
 proposal: /assets/pdf/fellows-2022/proposal-Durbar-Chakraborty.pdf
 presentations:
-- title: 
-  date: 
-  url: 
-  meeting: 
-  meetingurl: 
-  recordingurl: 
-  focus-area: 
+- title:
+  date:
+  url:
+  meeting:
+  meetingurl:
+  recordingurl:
+  focus-area:
 current_status: >
 
 github-username: durbar2003
