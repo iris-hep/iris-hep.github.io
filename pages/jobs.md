@@ -11,10 +11,6 @@ A number of employment opportunities exist with the universities involved in IRI
 ### University of Washington, Seattle
   * [Postdoc on Exotics Physics and IRIS-HEP Analysis Software](https://inspirehep.net/jobs/1863400)
 
-### University of Wisconsin–Madison
-  * [Early Career Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/513189/research-systems-administrator)
-  * [Research Systems Administrator](https://jobs.hr.wisc.edu/en-us/job/513190/research-systems-administrator)
-
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
