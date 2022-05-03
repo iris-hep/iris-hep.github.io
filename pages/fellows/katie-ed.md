@@ -22,13 +22,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/018-proposal-Katie-Edwards.pdf
 presentations:
-  - title: 
+  - title:
     date:
-    url: 
-    meeting: 
-    meetingurl: 
-    recordingurl: 
+    url:
+    meeting:
+    meetingurl:
+    recordingurl:
     focus-area:
 current_status: >
-  
+
 ---
