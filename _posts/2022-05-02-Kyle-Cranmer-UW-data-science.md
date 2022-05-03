@@ -24,7 +24,7 @@ In recent years, his work has explored the relationship between theory and exper
 
 "I feel like I'm playing in other peoples' backyards," he says. "One of the skills I've picked up over the past five years is to be an effective translator between different fields. This position is all about that."
 
-Cranmer's fascination with data science intensified during a sabbatical that he took following the Higgs discovery. "I took that opportunity to think much more broadly," he says. "This was a time when deep learning was exploding, and I was thinking about how we can abstract it so it's not just about the physical sciences."
+Cranmer's fascination with data science intensified during a sabbatical that he took following the Higgs discovery. "I took that opportunity to think much more broadly," he says. “This was a time when deep learning was exploding, and I was thinking about how we can abstract it and reframe it for the physical sciences.”
 
 Headquartered at Princeton University, IRIS-HEP aims to develop the software infrastructure needed for the High Luminosity Large Hadron Collider and other high-energy physics experiments planned for the 2020s and 2030s. Supported by a grant from the National Science Foundation, IRIS-HEP also aims to find solutions that are relevant to other data-intensive fields.
 
@@ -32,15 +32,15 @@ Some of these solutions can help address broader social problems. Cranmer, an ac
 
 "In machine learning there are many parallels and issues of fairness that happen to people and things that happen in a particle physics context," he says. "I was able to transfer my intuitions about how things can go wrong."
 
-Cranmer credits his experience working with IRIS-HEP, as well as its predecessor organization, [DIANA/HEP,](https://diana-hep.org/) for showing him some of the ways that software solutions developed for high-energy physics experiments can be applied to other domains, and vice versa.
+Cranmer credits his experience working with IRIS-HEP, as well as its predecessor organization, [DIANA/HEP,](https://diana-hep.org/) for providing an opportunity to explore the ways that software solutions developed for high-energy physics experiments can be applied to other domains, and vice versa.
 
 "We develop all sorts of fancy techniques at the LHC," he says. "Some of that has to be relevant for industry."
 
-Scientists at the LHC and other high-energy physics experiments rely on complex computer simulations of particle collisions and their outcomes. Such simulations are useful for verifying that the collider and its detectors are working properly and for showing how these instruments can be improved, but they are notoriously reticent when it comes to revealing a system's physical parameters, such as particles' masses and coupling strengths. To a physicist, understanding the values of those parameters is essential to formulating the laws of nature.
+Scientists at the LHC and other high-energy physics experiments rely on complex computer simulations of particle collisions and their outcomes. Such simulations are useful for describing the complex patterns left in the detectors from particle collisions, but they are notoriously awkward to work with when it comes to inferring a system’s physical parameters, such as particles’ masses and coupling strengths, from data.  To a physicist, understanding the values of those parameters is essential to formulating the laws of nature.
 
 "Physicists in their bones are looking for some kind of story, to the extent that there is one, about how the data comes into being," he says.
 
-Much of Cranmer's work in recent years has focused on using machine learning methods to infer these values from simulations. These methods, he says, can be used for simulations in many other fields.
+Much of Cranmer’s work in recent years has focused on using machine learning methods and simulations to infer these values from data. These methods, he says, can be used for simulations in many other fields.
 
 "You have simulations for COVID. You have simulations for cosmology," he says. "It's very easy to position the research that I do as broadly applicable. The freedom that allowed me to do that was the IRIS-HEP grant."
 
