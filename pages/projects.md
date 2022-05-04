@@ -27,6 +27,6 @@ table {
 [{{fa | upcase }}](/{{fa}}.html)
 {%- endfor -%}
 {%- endcapture -%}
-| [{{mypage.title}}](/projects/{{mypage.shortname}}.html) | {{focus-areas}} | {{mypage.maturity}} | {{mypage.blurb}} |
+| [{{mypage.title}}](/projects/{{mypage.shortname}}.html) | {{focus-areas}} | {% include maturity.html project=mypage %} | {{ mypage.blurb }} |
 {% endif -%}
 {% endfor -%}
