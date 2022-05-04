@@ -37,7 +37,7 @@ SkyhookDM is currently an incubator project at the [Center for Research on Open 
 
 * Plugs-in seamlessly into the Arrow Dataset API and leverages all its functionality like dataset discovering, partition pruning, etc.
 
-* Built on top of latest Ceph v15.2.x.
+* Works with latest Apache Arrow and latest Ceph versions.
 
 ## Architecture
 ![SkyhookDM Architecture](/assets/images/skyhook-arch-blog.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
