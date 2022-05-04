@@ -25,7 +25,6 @@ group :development do
   gem 'rake', require: false
 
   # Verify good coding practices in Ruby files
-  # Pinning 1.12.x since 1.13 drops 2.4 support
   gem 'rubocop', '~>1.25.0', require: false
 
   # Extension for Rake files
@@ -49,13 +48,8 @@ gem 'jekyll-last-modified-at'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
-# Needed by Nokogiri sometimes
+# Needed by Nokogiri
 gem 'pkg-config', '~> 1.4'
 
 # Performance-booster for watching directories on Windows
 gem 'wdm', '~> 0.1.0' if Gem.win_platform?
-
-# Pinning this for now since macOS + default Ruby needs this
-# Please use rbenv to pick Ruby versions; the next Jekyll release
-# will not work with macOS's Ruby 2.3
-gem 'ffi', '~> 1.15'
