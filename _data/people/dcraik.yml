@@ -50,3 +50,11 @@ presentations:
   project: allen
   labels:
   - conference
+- title: Allen monitoring
+  date: 2022-04-27
+  meeting: IRIS-HEP Topical meeting
+  meetingurl: https://indico.cern.ch/event/1140360/
+  url: https://indico.cern.ch/event/1140360/contributions/4785352/attachments/2432904/4166347/20220427_dcraik_allenMonitoring.pdf
+  focus-area: ia
+  project: allen
+
