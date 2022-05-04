@@ -12,6 +12,8 @@ position: -4
 focus-area:
 - osglhc
 team:
+- "[Fabio Andrijauskas](https://profiles.ucsd.edu/fabio.andrijauskas)"
+- ddavila0
 - "[Jeff Dost](https://profiles.ucsd.edu/jeffrey.dost)"
 - djw8605
 - hzhu16
