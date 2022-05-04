@@ -8,6 +8,13 @@ shortname: mmasciov
 title:
 website: https://github.com/mmasciov
 presentations:
+- title: 'mkFit status report'
+  meeting: Tracker General Meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/1142469
+  url: https://indico.cern.ch/event/1142469/contributions/4800060/attachments/2416352/4134911/mkFit_TRKPOG_28March2022.pdf
+  date: 2022-03-28
+  focus-area: ia
+  project: mkfit
 - title: 'Status of the mkFit project'
   meeting: Tracker General Meeting (CMS restricted)
   meetingurl: https://indico.cern.ch/event/1131184/
