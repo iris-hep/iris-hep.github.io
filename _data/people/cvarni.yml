@@ -104,3 +104,10 @@ presentations:
   project: acts
   focus-area: ia
   location: CERN
+- title: ACTS tracking
+  date: 2022-04-13
+  url: https://indico.cern.ch/event/1140356/contributions/4785340/attachments/2426827/4154921/ActsTracking.pdf
+  meeting: IRIS-HEP Topical meeting
+  meetingurl: https://indico.cern.ch/event/1140356/
+  project: acts
+  focus-area: ia
