@@ -18,7 +18,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Report about HSF Analysis Facilities Forum Kick-off meeting
@@ -30,7 +30,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: AFs in the context of the IRIS-HEP AGC
@@ -42,7 +42,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Analysis Grand Challenge
@@ -54,7 +54,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Analysis Grand Challenge
@@ -66,7 +66,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Analysis Grand Challenge
@@ -78,7 +78,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Analysis Grand Challenge
@@ -90,7 +90,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Analysis Grand Challenge Update
@@ -102,7 +102,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Coffea-casa news and developments
@@ -114,7 +114,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
 - title: Deep Dive - Analysis Grand Challenge
   date: 2021-11-17
@@ -125,7 +125,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Analysis Facilities
@@ -137,7 +137,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
 - title: Scale-out with coffea
   date: 2021-11-04
@@ -148,7 +148,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
 - title: Analysis Grand Challenge
   date: 2021-11-02
@@ -159,7 +159,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
     - agc
 - title: Coffea-casa - an analysis facility prototype
@@ -171,7 +171,7 @@ presentations:
   focus-area:
     - as
     - doma
-  project: 
+  project:
     - coffea-casa
 - title: Advances in Analysis tools/ecosystem
   date: 2021-06-09
@@ -180,7 +180,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/905399/
   location: Virtual
   focus-area: as
-  project: 
+  project:
     - coffea-casa
 - title: Dask in High-Energy Physics community (workshop)
   date: 2021-05-21
@@ -188,7 +188,7 @@ presentations:
   meeting: Dask Distributed Summit 2021
   meetingurl: https://summit.dask.org
   focus-area: doma
-  project: 
+  project:
     - coffea-casa
 - title: Coffea-casa an analysis facility prototype (plenary)
   date: 2021-05-20
@@ -196,7 +196,7 @@ presentations:
   meeting: 25th International Conference on Computing in High-Energy and Nuclear Physics
   meetingurl: https://indico.cern.ch/event/948465/
   focus-area: doma
-  project: 
+  project:
     - coffea-casa
 - title: Challenges Designing Interactive Analysis Facilities with Dask
   date: 2021-05-19
@@ -204,7 +204,7 @@ presentations:
   meeting: Dask Distributed Summit 2021
   meetingurl: https://summit.dask.org/schedule/presentation/15/challenges-designing-interactive-analysis-facilities-with-dask/
   focus-area: doma
-  project: 
+  project:
     - coffea-casa
 - title: Future analysis facilities
   date: 2021-02-03
@@ -213,7 +213,7 @@ presentations:
   meetingurl:  https://indico.cern.ch/event/998431/
   location: Virtual
   focus-area: doma
-  project: 
+  project:
     - coffea-casa
 - title: U.S. CMS Managed Analysis Facilities
   date: 2020-11-24
@@ -222,7 +222,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/941278/
   location: Virtual
   focus-area: doma
-  project: 
+  project:
     - coffea-casa
 - title: 'Analysis on LHC-Managed Facilities: Coffea-Casa'
   date: 2020-10-27
@@ -231,7 +231,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/960587/
   location: Virtual
   focus-area: doma
-  project: 
+  project:
     - coffea-casa
 - title: Analysis facilities
   date: 2020-09-23
@@ -240,5 +240,5 @@ presentations:
   meetingurl: https://indico.cern.ch/event/956958/
   location: Virtual
   focus-area: doma
-  project: 
+  project:
     - coffea-casa
