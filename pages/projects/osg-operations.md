@@ -104,6 +104,10 @@ To aid in the collection of XRootD monitoring packets, the OSG operations team a
 
 The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
 
+### Service Level Agreements and Service Monitoring
+
+The Operations team has created [Service Level Agreements](https://osg-htc.org/operations/SLA/general/) for all OSG operated services. In the SLAs, the team has defined what "availability" means for each service type, and an associated target percentage. In addition, the team has implemented an internal monitoring system to measure, report on, and ensure the declared availability is met for each service.
+
 ## Reports
 
 The OSG Operations team has produced two reports in collaboration with the DOMA group.
