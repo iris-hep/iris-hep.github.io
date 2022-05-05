@@ -83,7 +83,7 @@ More information could be found in the corresponding repository:
 
 - For non-CMS users, we enabled the Opendata `coffea-casa` facility: [try it!](https://coffea-opendata.casa/). Currently more then 60 users had been used the Opendata facility over last year.
 
-![Opendata Coffea-Casa login web-page enabling a user access to Jupyterlab interface with Dask Labextention powered cluster](/assets/images/coffea-casa-3.png){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
+![Opendata Coffea-Casa login web-page enabling a user access to Jupyterlab interface with Dask Labextention powered cluster](/assets/images/coffea-casa-4.png){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
 
 - For ATLAS physists, there were deployed ATLAS Coffea-Casa analysis facility instance at University of Chicago.
 
