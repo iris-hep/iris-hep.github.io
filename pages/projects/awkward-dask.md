@@ -7,6 +7,8 @@ pagetype: project
 image: logos/awkward-dask.svg
 logowidth: 50%
 blurb: Developing a new high-level Dask collection for Awkward Arrays
+maturity: Testing
+maturity-note:
 focus-area: as
 team:
  - jpivarski

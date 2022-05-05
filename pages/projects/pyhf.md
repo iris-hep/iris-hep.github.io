@@ -7,6 +7,8 @@ pagetype: project
 image: logos/pyhf-logo.png
 logowidth: 50%
 blurb: Differentiable likelihoods
+maturity: Deployed
+maturity-note:
 focus-area: as
 team:
  - cranmer
@@ -51,17 +53,20 @@ team:
 * [`pyhf` tutorial](https://pyhf.github.io/pyhf-tutorial/) (continually updated to use the latest `pyhf` release)
    - Past tutorials (with recordings on YouTube) are listed on the [tutorial GitHub project](https://github.com/pyhf/pyhf-tutorial)
 
-### Use in Publications
+### Citations and Use in Publications
 
-Updating list of citations and use cases of `pyhf`:
+Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
+- ATLAS Collaboration. SimpleAnalysis: Truth-level Analysis Framework. Apr 2022. [https://cds.cern.ch/record/2805991](https://cds.cern.ch/record/2805991).
+- Tommaso Dorigo et al. Toward the End-to-End Optimization of Particle Physics Instruments with Differentiable Programming: a White Paper. Mar 2022. [arXiv:2203.13818](https://arxiv.org/abs/2203.13818).
 - Nathan Simpson and Lukas Heinrich. neos: End-to-End-Optimised Summary Statistics for High Energy Physics. Mar 2022. [arXiv:2203.05570](https://arxiv.org/abs/2203.05570).
+- Harry Enke et al. Survey of Open Data Concepts Within Fundamental Physics: An Initiative of the PUNCH4NFDI Consortium. _Computing and Software for Big Science_, 6(1):6, Mar 2022. [doi:10.1007/s41781-022-00081-7](https://doi.org/10.1007/s41781-022-00081-7).
 - ATLAS Collaboration. Search for neutral long-lived particles in pp collisions at s√=13 TeV that decay into displaced hadronic jets in the ATLAS calorimeter. Mar 2022. [arXiv:2203.01009](https://arxiv.org/abs/2203.01009).
 - ATLAS Collaboration. Search for events with a pair of displaced vertices from long-lived neutral particles decaying into hadronic jets in the ATLAS muon spectrometer in pp collisions at s√=13 TeV. Mar 2022. [arXiv:2203.00587](https://arxiv.org/abs/2203.00587).
 - Lukas Heinrich and Michael Kagan. Differentiable Matrix Elements with MadJax. Feb 2022. [arXiv:2203.00057](https://arxiv.org/abs/2203.00057).
 - Jim Pivarski, Eduardo Rodrigues, Kevin Pedro, Oksana Shadura, Benjamin Krikler, and Graeme A. Stewart. HL-LHC Computing Review Stage 2, Common Software Projects: Data Science Tools for Analysis. Feb 2022. [arXiv:2202.02194](https://arxiv.org/abs/2202.02194).
 - Florentin Jaffredo. Revisiting mono-τ tails at the LHC. Dec 2021. [arXiv:2112.14604](https://arxiv.org/abs/2112.14604).
-- ATLAS Collaboration. Implementation of simplified likelihoods in HistFactory for searches for supersymmetry. Geneva, Sep 2021. [https://cds.cern.ch/record/2782654](https://cds.cern.ch/record/2782654).
+- ATLAS Collaboration. Implementation of simplified likelihoods in HistFactory for searches for supersymmetry. Sep 2021. [https://cds.cern.ch/record/2782654](https://cds.cern.ch/record/2782654).
 - Michael J. Baker, Darius A. Faroughy, and Sokratis Trifinopoulos. Collider Signatures of Coannihilating Dark Matter in Light of the B-Physics Anomalies. Sep 2021. [arXiv:2109.08689](https://arxiv.org/abs/2109.08689).
 - Kyle Cranmer and others. Publishing statistical models: Getting the most out of particle physics experiments. Sep 2021. [arXiv:2109.04981](https://arxiv.org/abs/2109.04981).
 - Kyle Cranmer and Alexander Held. Building and steering binned template fits with cabinetry. _EPJ Web Conf._, 251:03067, 2021. [doi:10.1051/epjconf/202125103067](https://doi.org/10.1051/epjconf/202125103067).

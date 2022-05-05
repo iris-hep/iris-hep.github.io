@@ -31,7 +31,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071423/
   recordingurl: https://youtu.be/jAyJSDiWxhw
   focus-area: ia
-current_status:
+current_status: >
+
 github-username: brkronheim
 
 ---

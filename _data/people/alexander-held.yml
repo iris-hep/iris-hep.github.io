@@ -134,6 +134,7 @@ presentations:
     - func-adl
     - cabinetry
     - pyhf
+    - agc
 
 - title: Introduction to cabinetry
   date: 2022-03-15
@@ -145,3 +146,31 @@ presentations:
   project:
     - cabinetry
     - pyhf
+
+- title: AFs in the context of the IRIS-HEP AGC
+  date: 2022-03-25
+  url: https://indico.cern.ch/event/1132360/contributions/4759781/
+  meeting: Analysis Facilities Forum Kick-off Meeting
+  meetingurl: https://indico.cern.ch/event/1132360/
+  location: "(Virtual)"
+  focus-area:
+    - as
+    - doma
+    - ssl
+  project: agc
+
+- title: "From data delivery to statistical inference with CMS Open Data"
+  date: 2022-04-25
+  url: https://indico.cern.ch/event/1126109/contributions/4780156/
+  meeting: IRIS-HEP AGC Tools 2022 Workshop
+  meetingurl: https://indico.cern.ch/event/1126109/
+  location: "(Virtual)"
+  focus-area:
+    - as
+    - doma
+  project:
+    - servicex
+    - func-adl
+    - cabinetry
+    - pyhf
+    - agc
