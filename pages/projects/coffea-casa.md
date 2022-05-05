@@ -87,7 +87,7 @@ More information could be found in the corresponding repository:
 
 - Coffea-casa analysis facility is a key component for ![IRIS-HEP Analysis Grand Challenge](https://iris-hep.org/projects/agc.html) preparations.
 
-- Both Opendata `coffea-casa` analysis facility at University Nebraska-Lincoln and ATLAS analysis facility instance at University of Chicago were used for showcasting various Python analysis packages and services on ![Analysis Grand Challenge Tools workshop 2021](https://indico.cern.ch/event/1076231/) and ![Analysis Grand Challenge Tools workshop 2022](https://indico.cern.ch/event/1126109/) workshops. 
+- Both Opendata `coffea-casa` analysis facility at University Nebraska-Lincoln and ATLAS analysis facility instance at University of Chicago were used for showcasting various Python analysis packages and services on ![Analysis Grand Challenge Tools workshop 2021](https://indico.cern.ch/event/1076231/) and ![Analysis Grand Challenge Tools workshop 2022](https://indico.cern.ch/event/1126109/) workshops.
 
 
 **Future plans for 2022**:
