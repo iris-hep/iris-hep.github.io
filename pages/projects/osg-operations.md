@@ -42,9 +42,6 @@ Within OSG-LHC in particular, and IRIS-HEP more generally, it provides the follo
 *   **Accounting/Monitoring Infrastructure for Network Performance:**
 The OSG Network Monitoring project depends on this accounting infrastructure to provide the collection, and maintenance of network performance records. The architecture of the accounting system includes a commercially operated RabbitMQ message bus as central point where all accounting records transit through. This bus has multiple information consumers, including services at CERN to retrieve network performance records for all of WLCG. OSG-LHC thus provides network performance data to CERN as a service.
 
-*   **Accounting/Monitoring Infrastructure for XCache deployments:**
-OSG-LHC collaborates with the XRootD software team and DOMA in IRIS-HEP on providing data access monitoring and accounting information from the XRootD infrastructure deployed by the US LHC Operations programs to the CERN Monit infrastructure, a data analytics infrastructure located at CERN. The records traverse the OSG Operations supported infrastructure to its RabbitMQ bus, and from there to Monit. While we initially focus on data access records to XCache, we see that as the desired architecture for all XRootD services, and OSG operations works with DOMA, the XRootD team, and the US LHC Operations programs on transitioning towards this vision. See the reports listed below for more details on this activity.
-
 <iframe src="https://gracc.opensciencegrid.org/d-solo/000000074/gracc-home?orgId=1&from=1136073600000&to=now&panelId=15" width="1000" height="450" frameborder="0"></iframe>
 
 ### Architecture of GRACC
@@ -98,8 +95,6 @@ To aid in the collection of XRootD monitoring packets, the OSG operations team a
   <img src="/assets/images/XRootDMonitoringDiagram.png" class="img-fluid" alt="XRootD Shoveler Architecture">
   <figcaption class="figure-caption">Figure 2: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
 </figure>
-
-
 
 ## Curation of a uniform Runtime Environment via CVMFS
 
