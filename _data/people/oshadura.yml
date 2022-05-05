@@ -9,6 +9,101 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
+- title: IRIS-HEP Analysis Grand Challenge Tools Workshop
+  date: 2022-04-25
+  url: https://indico.cern.ch/event/1126109/contributions/4788591/attachments/2430323/4162323/Analysis%20Grand%20Challenge%20Tools%20Workshop%202022.pdf
+  meeting: RIS-HEP AGC Tools 2022 Workshop
+  meetingurl:  https://indico.cern.ch/e/agc-tools-2
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+- title: Report about HSF Analysis Facilities Forum Kick-off meeting
+  date: 2022-04-01
+  url: https://indico.cern.ch/event/1132360/contributions/4759781/attachments/2415341/4132929/Analysis%20Grand%20Challenge%20HSF%20AF.pdf
+  meeting: CMS Spring 2022 O&C Week
+  meetingurl:  https://indico.cern.ch/event/1126678
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+- title: AFs in the context of the IRIS-HEP AGC
+  date: 2022-03-25
+  url: https://indico.cern.ch/event/1132360/contributions/4759781/attachments/2415341/4132929/Analysis%20Grand%20Challenge%20HSF%20AF.pdf
+  meeting: Analysis Facilities Forum Kickoff meeting
+  meetingurl: https://indico.cern.ch/event/1132360
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project: coffea-casa
+- title: Analysis Grand Challenge
+  date: 2022-04-05
+  url: https://indico.cern.ch/event/1134876/contributions/4761553/attachments/2421358/4145395/Analysis%20Grand%20Challenge_Ops%202022_04_05.pdf
+  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+  meetingurl: https://indico.cern.ch/event/1134876/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+- title: Analysis Grand Challenge
+  date: 2022-03-01
+  url: https://indico.cern.ch/event/1131750/contributions/4749034/attachments/2395041/4103861/20220301%20AGC%20update.pdf
+  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+  meetingurl: https://indico.cern.ch/event/1131750/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+- title: Analysis Grand Challenge
+  date: 2022-01-22
+  url: https://indico.cern.ch/event/1120687/contributions/4705484/attachments/2380764/4068060/Analysis%20Grand%20Challenge_Ops%20Jan%282%29.pdf
+  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+  meetingurl: https://indico.cern.ch/event/1120687/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+- title: Analysis Grand Challenge
+  date: 2021-12-16
+  url: https://indico.cern.ch/event/1105768/contributions/4652065/attachments/2366640/4041620/Analysis%20Grand%20Challenge_Ops.pdf
+  meeting: IRIS-HEP Executive Board / Ops Program Grand Challenge Discussion
+  meetingurl: https://indico.cern.ch/event/1105768/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project: coffea-casa
+- title: Analysis Grand Challenge Update
+  date: 2021-11-30
+  url: https://indico.cern.ch/event/985527/contributions/4635518/attachments/2356265/4021054/Analysis%20Grand%20Challenge%20Steering%20Commitee%282%29.pdf
+  meeting: Steering Board Meeting
+  meetingurl: https://indico.cern.ch/event/985527/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project: coffea-casa
+- title: Coffea-casa news and developments
+  date: 2021-11-22
+  url: https://indico.cern.ch/event/1098937/contributions/4624702/attachments/2350799/4177178/Coffea-casa%20news%20and%20developments.pdf
+  meeting: Coffea Users Meeting
+  meetingurl: https://indico.cern.ch/event/1098937/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project: coffea-casa
+- title: Deep Dive - Analysis Grand Challenge
+  date: 2021-11-17
+  url: https://indico.cern.ch/event/1072896/contributions/4520882/attachments/2348094/4004513/20211117_AGC_deep_dive.pdf
+  meeting: NSF / IRIS-HEP Meeting (November 2021)
+  meetingurl: https://indico.cern.ch/event/1072896/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project: coffea-casa
 - title: Analysis Facilities
   date: 2021-11-09
   url: https://indico.cern.ch/event/1092691/contributions/4595036/attachments/2342325/4018500/Analysis%20Facilities%20CMS%20O%26C%20R%26D.pdf
