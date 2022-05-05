@@ -108,6 +108,10 @@ The heterogeneity of OSG comes with considerable challenges to the applications 
 
 The Operations team has created [Service Level Agreements](https://osg-htc.org/operations/SLA/general/) for all OSG operated services. In the SLAs, the team has defined what "availability" means for each service type, and an associated target percentage. In addition, the team has implemented an internal monitoring system to measure, report on, and ensure the declared availability is met for each service.
 
+### Adoption of Container Orchestration
+
+OSG has containerized and migrated most of its services into a Kubernetes based deployment model. This work has improved the quality of service by standardizing and unifying the configuration and installation of services. Further benefits include decoupling specific service instances from their respective data centers. Multiple services are now running out of two data centers, one based in the University of Wisconsin-Madison, and the other in the University of Chicago. The separate locations provide redundancy to improve fault tolerance and increase service uptimes.
+
 ## Reports
 
 The OSG Operations team has produced two reports in collaboration with the DOMA group.
