@@ -93,7 +93,7 @@ usage of the OSG.
 
 ### XRootD Monitoring Shoveler
 
-To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler).  The shoveler receives the UDP monitoring packets from an XRootD server and "shovels" them to the OSG message bus.  The archiecture of the shoveler is shown in Figure 2.
+To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler).  The shoveler receives the UDP monitoring packets from an XRootD server and "shovels" them to the OSG message bus.  The architecture of the shoveler is shown in Figure 2.
 
 <figure class="figure">
   <img src="/assets/images/XRootDMonitoringDiagram.png" class="img-fluid" alt="XRootD Shoveler Architecture">
