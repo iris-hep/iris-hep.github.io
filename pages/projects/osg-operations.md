@@ -88,6 +88,19 @@ usage of the OSG.
 - Levshina, T., Sehgal, C., Bockelman, B., Weitzel, D., & Guru, A. (2014, June). Grid accounting service: state and future development. In Journal of Physics: Conference Series (Vol. 513, No. 3, p. 032056). IOP Publishing. [https://doi.org/10.1088/1742-6596/513/3/032056](https://doi.org/10.1088/1742-6596/513/3/032056)
 
 
+## Accounting/Monitoring Infrastructure for XCache deployments: 
+
+OSG-LHC collaborates with the XRootD software team and DOMA in IRIS-HEP on providing data access monitoring and accounting information from the XRootD infrastructure deployed by the US LHC Operations programs to the CERN Monit infrastructure, a data analytics infrastructure located at CERN. The records traverse the OSG Operations supported infrastructure to its RabbitMQ bus, and from there to Monit. While we initially focus on data access records to XCache, we see that as the desired architecture for all XRootD services, and OSG operations works with DOMA, the XRootD team, and the US LHC Operations programs on transitioning towards this vision. See the reports listed below for more details on this activity.
+
+To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler).  The shoveler receives the UDP monitoring packets from an XRootD server and "shoveles" them to the OSG message bus.  The archiecture of the shoveler is shown in Figure 2.
+
+<figure class="figure">
+  <img src="/assets/images/XRootDMonitoringDiagram.png" class="img-fluid" alt="XRootD Shoveler Architecture">
+  <figcaption class="figure-caption">Figure 2: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
+</figure>
+
+
+
 ## Curation of a uniform Runtime Environment via CVMFS
 
 The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
