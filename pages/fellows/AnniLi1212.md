@@ -14,7 +14,7 @@ institution: University of California, San Diego
 e-mail: a5li@ucsd.edu
 project_title: Conditional Generation of High-Energy Particle Collisions with Graph Networks
 project_goal: >
-    Explore applications of Auxiliary Classifier Generative Adversarial Networks in GNNs for conditional generation of jets. This network combines features of both MPGAN and ACGAN, being able to generate a conditional classifier GAN using graph neural networks. The expected outcome is a strong ACGAN+MPGAN algorithm using a GNN to conditionally generate jets with high fidelity. 
+    Explore applications of Auxiliary Classifier Generative Adversarial Networks in GNNs for conditional generation of jets. This network combines features of both MPGAN and ACGAN, being able to generate a conditional classifier GAN using graph neural networks. The expected outcome is a strong ACGAN+MPGAN algorithm using a GNN to conditionally generate jets with high fidelity.
 mentors:
   - Javier Duarte (UCSD)
 
