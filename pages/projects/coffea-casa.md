@@ -16,10 +16,10 @@ team:
  - oshadura
  - kenbloom
  - kaimi2007
- - Carl Lundstedt
- - Garhan Attebury
- - John Thiltges
+ - clundst
+ - jthiltges
  - bbockelm
+ - Garhan Attebury
  - Matous Adamec
 ---
 
@@ -33,6 +33,8 @@ After authentication via the CERN SSO, the user is presented with a Jupyter note
 
 ![Generic design schema of Coffea-Casa analysis facility](/assets/images/coffea-casa-1.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
+
+Core software components and other developed plugins that were used in the design of Coffea-Casa analysis facility:
 
 ![Core components used in design of Coffea-Casa analysis facility](/assets/images/coffea-casa-2.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
