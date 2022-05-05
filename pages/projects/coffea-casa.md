@@ -29,7 +29,7 @@ team:
 
 `Coffea-Casa` is a prototype of analysis facility, which provides services for “low latency columnar analysis”, enabling rapid processing of data in a column-wise fashion. These services, based on Dask and Jupyter notebooks, aim to dramatically lower time for analysis and provide an easily-scalable and user-friendly computational environment that will simplify, facilitate, and accelerate the delivery of HEP results. The facility is built on top of a Kubernetes cluster and integrates dedicated resources with resources allocated via fairshare through the local HTCondor system. In addition to the user-facing interfaces such as Dask, the facility also manages access control through single-sign-on and authentication & authorization for data access.
 
-After authentication via the CERN SSO, the user is presented with a Jupyter notebook interface that can be populated with code from a Git repository specified by the user.  When the notebook is executed, the processing automatically scales out to resources on the Nebraska Tier-2 facility, giving the user transparent interactive access to a large computing resource.  The facility has access to the entire CMS data set, thanks to the global data federation and local caches.  It supports the Coffea framework, which provides a declarative programming interface that treats the data in its natural columnar form.  An important feature is access to a “column service”; if a user is working with a compact data format (such as a CMS NanoAOD) that is missing a data element that the user needs, the facility can be used to serve that “column” from a remote site.  This allows only the compact data formats to be stored locally and augmented only as needed, a critical strategy for CMS to control the costs of storage in the HL-LHC era.
+After authentication via the CERN SSO, the user is presented with a Jupyter notebook interface that can be populated with code from a Git repository specified by the user.  When the notebook is executed, the processing automatically scales out to available resources for example the Nebraska Tier-2 facility, giving the user transparent interactive access to a large computing resource.  The facility has access to the entire CMS data set, thanks to the global data federation and local caches.  It supports the Coffea framework, which provides a declarative programming interface that treats the data in its natural columnar form.  An important feature is access to a “column service”; if a user is working with a compact data format (such as a CMS NanoAOD, ATLAS PHYSLITE) that is missing a data element that the user needs, the facility can be used to serve that “column” from a remote site.  This allows only the compact data formats to be stored locally and augmented only as needed, a critical strategy for CMS and ATLAS to control the costs of storage in the HL-LHC era.
 
 ![Generic design schema of Coffea-Casa analysis facility](/assets/images/coffea-casa-1.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
@@ -85,11 +85,11 @@ More information could be found in the corresponding repository:
 
 ![Opendata Coffea-Casa login web-page enabling a user access to Jupyterlab interface with Dask Labextention powered cluster](/assets/images/coffea-casa-4.png){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
 
-- For ATLAS physists, there were deployed ATLAS Coffea-Casa analysis facility instance at University of Chicago.
+- For ATLAS physicists, there was deployed ATLAS Coffea-Casa analysis facility instance at the University of Chicago.
 
-- Coffea-casa analysis facility is a key component for ![IRIS-HEP Analysis Grand Challenge](https://iris-hep.org/projects/agc.html) preparations.
+- Coffea-casa analysis facility is a key component for [IRIS-HEP Analysis Grand Challenge](https://iris-hep.org/projects/agc.html) preparations.
 
-- Both Opendata `coffea-casa` analysis facility at University Nebraska-Lincoln and ATLAS analysis facility instance at University of Chicago were used for showcasting various Python analysis packages and services on ![Analysis Grand Challenge Tools workshop 2021](https://indico.cern.ch/event/1076231/) and ![Analysis Grand Challenge Tools workshop 2022](https://indico.cern.ch/event/1126109/) workshops.
+- Both Opendata `coffea-casa` analysis facility at University Nebraska-Lincoln and ATLAS analysis facility instance at the University of Chicago were used for showcasing various Python analysis packages and services on [Analysis Grand Challenge Tools workshop 2021](https://indico.cern.ch/event/1076231/) and [Analysis Grand Challenge Tools workshop 2022](https://indico.cern.ch/event/1126109/) workshops.
 
 
 **Future plans for 2022**:
@@ -101,7 +101,7 @@ More information could be found in the corresponding repository:
 
 ### Recent videos and tutorials
 
-*  The Coffea-Casa analysis facility demo "Scale-out with coffea: coffea-casa" - Youtube video at ![Analysis Grand Challenge Tools workshop 2021](https://youtu.be/7s30NNsAG7w)
+*  The Coffea-Casa analysis facility demo "Scale-out with coffea: coffea-casa" - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/7s30NNsAG7w)
 * The Coffea-Casa analysis facility introduction - Youtube video at [PyHEP 2020](https://www.youtube.com/watch?v=CDIFd1gDbSc)
 * The Coffea-Casa tutorial "Coffea columnar analysis at scale" -  Youtube vide at [PyHEP 2020](https://www.youtube.com/watch?v=oPl0t8J36-Q)
 
