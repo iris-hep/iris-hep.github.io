@@ -62,3 +62,14 @@ Analysis Grand Challenge will be conducted during 2021‒2023, leaving enough ti
 
 
 ### Recent videos and tutorials
+
+*  "Introduction to AGC Tools workshop" - Oksana Shadura, Alexander Held - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/i8brE9qpYv0)
+*  "Data handling: uproot, awkward & vector" - Mason Proffitt - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/KS4_bOXf0mg)
+* "Histogramming & visualization: hist & mplhep " - Andrzej Novak - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/wpB6RofvXdA)
+*  "Columnar analysis with coffea" - Lindsey Gray, Nick Smith - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/y79jDq2kmSk)
+*  "Queries with func_adl" - Mason Proffitt - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/F2320pVB7Rg)
+*  "Data Delivery with ServiceX" - Kyungeon Choi - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/ZXPOLF9eTf8)
+*  "From data delivery to statistical inference: ServiceX, coffea, cabinetry & pyhf" - Alexander Held - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/5Vuiy5zoVPk)
+*  "Data management with Skyhook" - Carlos Maltzahn, Jayjeet Chakraborty - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/JCQVY551V34)
+*  "Scale-out with coffea: coffea-casa" - Oksana Shadura - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/7s30NNsAG7w)
+
