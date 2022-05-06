@@ -10,18 +10,12 @@ concurrency:
 jobs:
   website:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        ruby-version: ["2.6", "3.1"]
 
     steps:
     - uses: actions/checkout@v3
 
     - name: Prepare to build site
       uses: ./.github/actions/prepare-build-site
-      with:
-        ruby-version: ${{ matrix.ruby-version }}
 
     - name: Check RuboCop
       shell: bash
