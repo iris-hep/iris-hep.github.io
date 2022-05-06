@@ -3,17 +3,25 @@ name: CI
 on:
   pull_request:
 
+concurrency:
+  group: test-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   website:
     runs-on: ubuntu-latest
-    steps:
+    strategy:
+      fail-fast: false
+      matrix:
+        ruby-version: ["2.6", "3.1"]
 
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
+    steps:
+    - uses: actions/checkout@v3
 
     - name: Prepare to build site
       uses: ./.github/actions/prepare-build-site
+      with:
+        ruby-version: ${{ matrix.ruby-version }}
 
     - name: Check RuboCop
       shell: bash
