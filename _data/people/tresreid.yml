@@ -21,6 +21,7 @@ presentations:
   meeting: IRIS-HEP Topical meeting
   meetingurl: https://indico.cern.ch/event/1140356/
   project: lst
+<<<<<<< HEAD
   focus-area: ia
 - title: Line Segment Linking project
   date: 2022-04-13
@@ -28,4 +29,6 @@ presentations:
   meeting: IRIS-HEP Topical meeting
   meetingurl: https://indico.cern.ch/event/1140356/
   project: mkfit
+=======
+>>>>>>> 2e2c5d7763362fe928ae48ea0ec879b75d7c1490
   focus-area: ia
