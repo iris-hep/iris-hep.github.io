@@ -19,7 +19,7 @@ team:
  - clundst
  - jthiltges
  - bbockelm
- - gattebury
+ - Garhan Attebury
  - Matous Adamec
 ---
 
