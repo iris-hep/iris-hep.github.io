@@ -30,9 +30,7 @@ OSG-LHC makes a modest contribution to this overall operations team, focused on 
 
 We note that all the OSG Operations services, including the contributions from OSG-LHC, are used by the wider community of all of open science that benefits from OSG. The operations project of OSG-LHC is thus a direct benefit to the US LHC Operations programs and the wider open science community.
 
-## Accomplishments
-
-### GRACC
+## GRACC
 
 [GRACC](https://gracc.opensciencegrid.org) is the OSG accounting system
 that tracks usage for all projects that use OSG software or services.
@@ -50,7 +48,7 @@ The OSG Network Monitoring project depends on this accounting infrastructure to 
 
 <iframe src="https://gracc.opensciencegrid.org/d-solo/000000074/gracc-home?orgId=1&from=1136073600000&to=now&panelId=15" width="1000" height="450" frameborder="0"></iframe>
 
-#### Architecture of GRACC
+### Architecture of GRACC
 
 The GRACC ecosystem consists of 5 main components: probes, data collection, message
 broker, data sinks and visualization.
@@ -90,19 +88,20 @@ usage of the OSG.
 - Retzke, K., Weitzel, D., Bhat, S., Levshina, T., Bockelman, B., Jayatilaka, B., ... & Wuerthwein, F. (2017, October). GRACC: New generation of the OSG accounting. In Journal of Physics: Conference Series (Vol. 898, No. 9, p. 092044). IOP Publishing. [https://doi.org/10.1088/1742-6596/898/9/092044](https://doi.org/10.1088/1742-6596/898/9/092044)
 - Levshina, T., Sehgal, C., Bockelman, B., Weitzel, D., & Guru, A. (2014, June). Grid accounting service: state and future development. In Journal of Physics: Conference Series (Vol. 513, No. 3, p. 032056). IOP Publishing. [https://doi.org/10.1088/1742-6596/513/3/032056](https://doi.org/10.1088/1742-6596/513/3/032056)
 
+## Curation of a uniform Runtime Environment via CVMFS
+
+The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
+
+## Accomplishments
 
 ### XRootD Monitoring Shoveler
 
-To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler).  The shoveler receives the UDP monitoring packets from an XRootD server and "shovels" them to the OSG message bus.  The architecture of the shoveler is shown in Figure 2.
+OSG-LHC operations provides infrastructure for the researcher to enable data transfer to their workflows on compute resources. XRootD is the underlying technology to facilitate this. In order to track data access in the accounting system, accounting information must be collected from all of the XRootD servers. By performing scale tests, team has found instability in the UDP-based data access metric collection native to XRootD. Details of these tests can be found in the reports section below. To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler). The architecture of the shoveler is shown in Figure 2. The shoveler makes the metric passing more resiliant to packet loss by leveraging the OSG message bus. It does this by repackaging the raw UDP packets on the server and then sending them out through more stable TCP stream connections to the bus. Ultimately the shoveler is responsible for ensuring data access accounting data is collected in a reliable way.
 
 <figure class="figure">
   <img src="/assets/images/XRootDMonitoringDiagram.png" class="img-fluid" alt="XRootD Shoveler Architecture">
   <figcaption class="figure-caption">Figure 2: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
 </figure>
-
-### Curation of a uniform Runtime Environment via CVMFS
-
-The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
 
 ## Reports
 
