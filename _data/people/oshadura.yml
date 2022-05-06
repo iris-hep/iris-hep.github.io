@@ -33,19 +33,7 @@ presentations:
   project:
     - coffea-casa
     - agc
-- title: AFs in the context of the IRIS-HEP AGC
-  date: 2022-03-25
-  url: https://indico.cern.ch/event/1132360/contributions/4759781/attachments/2415341/4132929/Analysis%20Grand%20Challenge%20HSF%20AF.pdf
-  meeting: Analysis Facilities Forum Kickoff meeting
-  meetingurl: https://indico.cern.ch/event/1132360
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Analysis Grand Challenge
+- title: Analysis Grand Challenge updates
   date: 2022-04-05
   url: https://indico.cern.ch/event/1134876/contributions/4761553/attachments/2421358/4145395/Analysis%20Grand%20Challenge_Ops%202022_04_05.pdf
   meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
@@ -57,21 +45,9 @@ presentations:
   project:
     - coffea-casa
     - agc
-- title: Analysis Grand Challenge
-  date: 2022-03-01
-  url: https://indico.cern.ch/event/1131750/contributions/4749034/attachments/2395041/4103861/20220301%20AGC%20update.pdf
-  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
-  meetingurl: https://indico.cern.ch/event/1131750/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Analysis Grand Challenge
-  date: 2022-01-22
-  url: https://indico.cern.ch/event/1120687/contributions/4705484/attachments/2380764/4068060/Analysis%20Grand%20Challenge_Ops%20Jan%282%29.pdf
+- title: Analysis Grand Challenge updates
+  date: 2022-01-28
+  url: https://indico.cern.ch/event/1120687/#1-agenda-minutes
   meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
   meetingurl: https://indico.cern.ch/event/1120687/
   location: Virtual
@@ -81,23 +57,11 @@ presentations:
   project:
     - coffea-casa
     - agc
-- title: Analysis Grand Challenge
+- title: Analysis Grand Challenge updates
   date: 2021-12-16
   url: https://indico.cern.ch/event/1105768/contributions/4652065/attachments/2366640/4041620/Analysis%20Grand%20Challenge_Ops.pdf
   meeting: IRIS-HEP Executive Board / Ops Program Grand Challenge Discussion
   meetingurl: https://indico.cern.ch/event/1105768/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Analysis Grand Challenge Update
-  date: 2021-11-30
-  url: https://indico.cern.ch/event/985527/contributions/4635518/attachments/2356265/4021054/Analysis%20Grand%20Challenge%20Steering%20Commitee%282%29.pdf
-  meeting: Steering Board Meeting
-  meetingurl: https://indico.cern.ch/event/985527/
   location: Virtual
   focus-area:
     - as

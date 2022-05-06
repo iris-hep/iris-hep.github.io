@@ -18,12 +18,12 @@ team:
 ---
 
 
-### About AGC project
+### The Analysis Grand Challenge
 
 ![Analysis Grand Challenge](/assets/images/agc-1.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 
-IRIS-HEP is organizing an “Analysis Grand Challenge”, which includes the binned analysis, reinterpretation and end-to-end optimization physics analysis use cases and developing needed cyber infrastructure to execute them, in order to demonstrate technologies envisioned for HL-LHC. To enable these use cases and more, the expected capabilities include:
+The "Analysis Grand Challenge" organized by IRIS-HEP includes the binned analysis, reinterpretation and end-to-end optimization of physics analysis use cases. It also includes the development of the required cyber infrastructure to execute them in order to demonstrate technologies envisioned for HL-LHC. To enable these use cases and more, the expected capabilities include:
 
 - New user interfaces: Complementary services that present the analyst with a notebook-based interface. Example software: Jupyter.
 - Data access: Services that provide quick access to the experiment’s official data sets, often allowing simple derivations and local caching for efficient access. Example software and services: Rucio, ServiceX, SkyHook, iDDS, RNTuple.
@@ -33,8 +33,7 @@ IRIS-HEP is organizing an “Analysis Grand Challenge”, which includes the bin
 
 ![Generic schema of AGC components](/assets/images/agc-0.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
-Analysis Grand Challenge will be conducted during 2021‒2023, leaving enough time for tuning software tools and services developed as a part of the IRIS-HEP ecosystem before the start-up of the HL-LHC.
-
+The Analysis Grand Challenge is being conducted during 2021‒2023, leaving enough time for tuning software tools and services developed as a part of the IRIS-HEP ecosystem before the start-up of the HL-LHC.
 
 
 ### AGC repositories and related resources
@@ -58,7 +57,7 @@ Analysis Grand Challenge will be conducted during 2021‒2023, leaving enough ti
 - Performance tests of ServiceX integrated in Coffea-Casa analysis facility at University Nebraska-Lincoln and ATLAS analysis facility instance at the University of Chicago
 - Benchmark performance of prototype of other system components for Analysis Grand Challenge
 - Work with HSF DAWG group about specification of new sub-benchmarks as a potential new milestone for AGC
-- Improve and increase complesity of developed analysis example used for next round of demonstration  (the first example, based on CMS Opendata was shown on [AGC Tools 2022 Workshop](https://indico.cern.ch/event/1126109/))
+- Improve and increase complexity of developed analysis example used for next round of demonstration  (the first example based on CMS Open Data was shown at the [AGC Tools 2022 Workshop](https://indico.cern.ch/event/1126109/))
 
 
 ### Recent videos and tutorials
@@ -72,4 +71,3 @@ Analysis Grand Challenge will be conducted during 2021‒2023, leaving enough ti
 *  "From data delivery to statistical inference: ServiceX, coffea, cabinetry & pyhf" - Alexander Held - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/5Vuiy5zoVPk)
 *  "Data management with Skyhook" - Carlos Maltzahn, Jayjeet Chakraborty - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/JCQVY551V34)
 *  "Scale-out with coffea: coffea-casa" - Oksana Shadura - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/7s30NNsAG7w)
-
