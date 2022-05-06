@@ -1,0 +1,45 @@
+{% assign maturity = include.project.maturity -%}
+{% assign maturity-note = include.project.maturity-note -%}
+
+{%- if maturity == 'Exploratory' -%}
+{%- assign badge = 'badge-danger' -%}
+{%- assign note = 'Limited R&D to determine whether a full project is warranted.' -%}
+
+{%- elsif maturity == 'Development' -%}
+{%- assign badge = 'badge-secondary' -%}
+{%- assign note = 'Active R&D' -%}
+{%- assign note = 'Code is actively being developed.' -%}
+
+{%- elsif maturity == 'Testing' -%}
+{%- assign badge = 'badge-info' -%}
+{%- assign note = 'Code still subject to change, in limited use.' -%}
+
+{%- elsif maturity == 'Deployed' -%}
+{%- assign badge = 'badge-success' -%}
+{%- assign note = 'Code is mostly complete and stable, and is in use.' -%}
+
+{%- elsif maturity == 'Archived' -%}
+{%- assign badge = 'badge-warning' -%}
+{%- assign note = 'Code is no longer supported, supplanted by other projects.' -%}
+
+{%- elsif maturity == 'Unknown' -%}
+{%- assign badge = 'badge-dark' -%}
+{%- assign note = 'Current status not yet evaluated.' -%}
+
+{%- else -%}
+{%- assign badge = 'badge-light' -%}
+{%- assign note = "Unknown maturity level." -%}
+
+{%- endif -%}
+
+{%- unless maturity-note -%}
+{%- capture maturity-note -%}
+{{ maturity }}: {{ note }}
+{%- endcapture -%}
+{%- endunless -%}
+
+<span class="badge badge-pill {{ badge }}" data-bs-toggle="tooltip" title="{{ maturity-note }}">{{ maturity }}</span>
+
+{%- comment -%}
+This comment is required to avoid an endline being inserted after the badge.
+{%- endcomment -%}
