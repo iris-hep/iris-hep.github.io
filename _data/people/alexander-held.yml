@@ -3,7 +3,7 @@ e-mail: alexander.held@cern.ch
 focus-area:
 - as
 inspire-id: Alexander.Held.1
-institution: New York University
+institution: University of Wisconsin-Madison
 name: Alexander Held
 photo: "/assets/images/team/alexander-held.jpeg"
 shortname: alexander-held
@@ -134,6 +134,32 @@ presentations:
     - func-adl
     - cabinetry
     - pyhf
+    - agc
+
+- title: Analysis Grand Challenge updates
+  date: 2021-11-30
+  url: https://indico.cern.ch/event/985527/#5-analysis-grand-challenge-upd
+  meeting: Steering Board Meeting
+  meetingurl: https://indico.cern.ch/event/985527/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project:
+    - coffea-casa
+    - agc
+
+- title: Analysis Grand Challenge updates
+  date: 2022-03-01
+  url: https://indico.cern.ch/event/1131750/#1-agenda-minutes
+  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+  meetingurl: https://indico.cern.ch/event/1131750/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project:
+    - coffea-casa
     - agc
 
 - title: Introduction to cabinetry
