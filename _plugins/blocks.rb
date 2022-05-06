@@ -29,14 +29,18 @@ module IrisHep
         <div>
           #{output}
         </div>
-        <button class="btn btn-primary" type="button" data-bs-toggle="collapse"
-                data-bs-target="##{name}" aria-expanded="false" aria-controls="#{name}" onclick="this.hidden=true">
+        <button class="btn btn-primary #{name}_class collapse.show" type="button" data-bs-toggle="collapse"
+                data-bs-target=".#{name}_class" aria-expanded="false" aria-controls="#{name}">
           See more
         </button>
-        <div class="collapse" id="#{name}">
+        <div class="collapse #{name}_class" id="#{name}">
           <ul>
             #{results[@number..].join("\n")}
           </ul>
+          <button class="btn btn-primary #{name}_class" type="button" data-bs-toggle="collapse"
+                data-bs-target=".#{name}_class" aria-expanded="false" aria-controls="#{name}">
+            See less
+          </button>
         </div>
       )
     end
