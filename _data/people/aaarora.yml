@@ -16,3 +16,11 @@ presentations:
     project: tpc
     focus-area: doma
     location: Virtual
+  - title: 'Systematic benchmarking of HTTPS third party copy on 100Gbps links using XRootD'
+    date: 2021-05-18
+    url: https://indico.cern.ch/event/948465/contributions/4323952/editing/paper/444/5642/XRootD_HTTPS_TPC_Benchmarking.pdf
+    meeting: vCHEP'21
+    meetingurl: https://cern.zoom.us/j/62681653254
+    project: tpc
+    focus-area: doma
+    location: Virtual
