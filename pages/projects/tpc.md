@@ -14,6 +14,8 @@ focus-area:
 team:
  - bbockelm
  - ddavila0
+ - jkguiang
+ - aaarora
 ---
 
 LHC data is constantly beign moved between computing and storage sites
@@ -34,7 +36,26 @@ to move data.  The IRIS-HEP DOMA area - in collaboration with the [WLCG DOMA](ht
 activity - is helping the LHC and HEP in general transition to using HTTP for bulk data transfer.
 
 
+The last milestone for this project was achieved with the succesful completion of the WLCG Data Challenge in October 2021.
+As can be seen in the following figure the challenge was mainly done using the WebDAV protocol.
 
+Currently both CMS and ATLAS have declared that supporting GridFTP is optional and some sites, like UCSD, have stopped supporting it.
+
+<br>
+<div class="card" style="width: 40rem; margin: auto">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-data-challenge-2021.png" alt="WLCG Data Challenge 2021">
+  <div class="card-body">
+   <h5 class="card-title">WLGC Data Challenge 2021?</h5>
+   <p class="card-text"> Throughtput achieve during the weekend of the Data Challenge. We can observer that 'davs' was
+   ,by far, the most used protocol during the challenge.
+   </p>
+  </div>
+</div>
+
+<br>
+In the following one can read about the different milestones established fot this project and how and when they were achieved.
+
+<br>
 <div class="card" style="width: 40rem; margin: auto">
   <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-over-http.png" alt="TPC rates from testing">
   <div class="card-body">
