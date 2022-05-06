@@ -103,6 +103,18 @@ OSG-LHC operations provides infrastructure for the researcher to enable data tra
   <figcaption class="figure-caption">Figure 2: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
 </figure>
 
+### Curation of a uniform Runtime Environment via CVMFS
+
+The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
+
+### Service Level Agreements and Service Monitoring
+
+The Operations team has created [Service Level Agreements](https://osg-htc.org/operations/SLA/general/) for all OSG operated services. In the SLAs, the team has defined what "availability" means for each service type, and an associated target percentage. In addition, the team has implemented an internal monitoring system to measure, report on, and ensure the declared availability is met for each service.
+
+### Adoption of Container Orchestration
+
+OSG has containerized and migrated most of its services into a Kubernetes based deployment model. This work has improved the quality of service by standardizing and unifying the configuration and installation of services. Further benefits include decoupling specific service instances from their respective data centers. Multiple services are now running out of two data centers, one based in the University of Wisconsin-Madison, and the other in the University of Chicago. The separate locations provide redundancy to improve fault tolerance and increase service uptimes.
+
 ## Reports
 
 The OSG Operations team has produced two reports in collaboration with the DOMA group.
