@@ -22,7 +22,7 @@ Alternatively, you can test your changes out using the Jekyll docker image:
 docker run --rm -it \
       --volume="$PWD:/srv/jekyll"  \
       -p 4000:4000 \
-      jekyll/builder:stable jekyll serve --incremental
+      jekyll/builder:3.8 jekyll serve --incremental
 ```
 This will mount your checked out copy of this repo, then build and start the
 jekyll server mapping it to port 4000 on your computer. You can make changes
