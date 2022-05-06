@@ -21,14 +21,4 @@ presentations:
   meeting: IRIS-HEP Topical meeting
   meetingurl: https://indico.cern.ch/event/1140356/
   project: lst
-<<<<<<< HEAD
-  focus-area: ia
-- title: Line Segment Linking project
-  date: 2022-04-13
-  url: https://indico.cern.ch/event/1140356/contributions/4785341/attachments/2426814/4154880/Parallelize%20track%20finding%20on%20GPUs-%20iris%20help%204-13-22%20v3.pdf
-  meeting: IRIS-HEP Topical meeting
-  meetingurl: https://indico.cern.ch/event/1140356/
-  project: mkfit
-=======
->>>>>>> 2e2c5d7763362fe928ae48ea0ec879b75d7c1490
   focus-area: ia
