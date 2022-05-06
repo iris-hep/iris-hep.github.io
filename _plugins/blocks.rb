@@ -25,24 +25,22 @@ module IrisHep
 
       return output if results.size <= @number
 
-      %(
+      %(<div>
         <div>
           #{output}
         </div>
-        <button class="btn btn-primary #{name}_class collapse.show" type="button" data-bs-toggle="collapse"
-                data-bs-target=".#{name}_class" aria-expanded="false" aria-controls="#{name}">
-          See more
-        </button>
-        <div class="collapse #{name}_class" id="#{name}">
+        <div class="collapse" id="#{name}">
           <ul>
             #{results[@number..].join("\n")}
           </ul>
-          <button class="btn btn-primary #{name}_class" type="button" data-bs-toggle="collapse"
-                data-bs-target=".#{name}_class" aria-expanded="false" aria-controls="#{name}">
-            See less
-          </button>
         </div>
-      )
+        <button class="btn btn-white" type="button" id="#{name}_btn"
+                data-bs-toggle="collapse" data-bs-target="##{name}"
+                aria-expanded="false" aria-controls="#{name}"
+                onClick="iris_show_hide_button(this);">
+          Show more >>
+        </button>
+      </div>)
     end
   end
 end
