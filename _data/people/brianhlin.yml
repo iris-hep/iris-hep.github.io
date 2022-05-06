@@ -17,6 +17,14 @@ presentations:
   location: Virtual
   focus-area: osglhc
   project: osg-software
+- title: OSG 3.6 and Token Transition Update
+  date: 2022-03-16
+  url: https://indico.fnal.gov/event/50597/contributions/225840/
+  meeting: OSG All-Hands Meeting 2022
+  meetingurl: https://indico.fnal.gov/event/53029/
+  location: Virtual
+  focus-area: osglhc
+  project: osg-software
 - title: Token Transition Workshop Summary
   date: 2021-11-10
   url: https://indico.cern.ch/event/876795/#8-token-transition-workshop-pr
