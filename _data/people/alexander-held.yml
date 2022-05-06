@@ -138,7 +138,7 @@ presentations:
 
 - title: Analysis Grand Challenge updates
   date: 2021-11-30
-  url: https://indico.cern.ch/event/985527/contributions/4635518/attachments/2356265/4021054/Analysis%20Grand%20Challenge%20Steering%20Commitee%282%29.pdf
+  url: https://indico.cern.ch/event/985527/#5-analysis-grand-challenge-upd
   meeting: Steering Board Meeting
   meetingurl: https://indico.cern.ch/event/985527/
   location: Virtual
@@ -150,8 +150,8 @@ presentations:
     - agc
 
 - title: Analysis Grand Challenge updates
-  date: 2022-01-22
-  url: https://indico.cern.ch/event/1120687/contributions/4705484/attachments/2380764/4068060/Analysis%20Grand%20Challenge_Ops%20Jan%282%29.pdf
+  date: 2022-01-28
+  url: https://indico.cern.ch/event/1120687/#1-agenda-minutes
   meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
   meetingurl: https://indico.cern.ch/event/1120687/
   location: Virtual
@@ -164,7 +164,7 @@ presentations:
 
 - title: Analysis Grand Challenge updates
   date: 2022-03-01
-  url: https://indico.cern.ch/event/1131750/contributions/4749034/attachments/2395041/4103861/20220301%20AGC%20update.pdf
+  url: https://indico.cern.ch/event/1131750/#1-agenda-minutes
   meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
   meetingurl: https://indico.cern.ch/event/1131750/
   location: Virtual
