@@ -58,7 +58,7 @@ Analysis Grand Challenge will be conducted during 2021‒2023, leaving enough ti
 - Performance tests of ServiceX integrated in Coffea-Casa analysis facility at University Nebraska-Lincoln and ATLAS analysis facility instance at the University of Chicago
 - Benchmark performance of prototype of other system components for Analysis Grand Challenge
 - Work with HSF DAWG group about specification of new sub-benchmarks as a potential new milestone for AGC
-- Improve and increase complesity of developed analysis example used for next round of demonstration  (the first example, based on CMS Opendata was shown on [AGC Tools 2022 Workshop](https://indico.cern.ch/event/1126109/))
+- Improve and increase complexity of developed analysis example used for next round of demonstration  (the first example, based on CMS Opendata was shown on [AGC Tools 2022 Workshop](https://indico.cern.ch/event/1126109/))
 
 
 ### Recent videos and tutorials
@@ -72,4 +72,3 @@ Analysis Grand Challenge will be conducted during 2021‒2023, leaving enough ti
 *  "From data delivery to statistical inference: ServiceX, coffea, cabinetry & pyhf" - Alexander Held - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/5Vuiy5zoVPk)
 *  "Data management with Skyhook" - Carlos Maltzahn, Jayjeet Chakraborty - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/JCQVY551V34)
 *  "Scale-out with coffea: coffea-casa" - Oksana Shadura - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/7s30NNsAG7w)
-
