@@ -1,0 +1,20 @@
+active: true
+focus-area:
+- doma
+institution: University of Nebraska - Lincoln
+name: Garhan Attebury
+photo: "/assets/images/team/Garhan-Attebury.png"
+shortname: gattebury
+title: Colaborator from US CMS Ops program
+website: https://github.com/gattebury
+presentations:
+- title: A Full Stack View of an Analysis Facility
+  date: 2022-04-01
+  url: https://drive.google.com/file/d/1Lz3SVs_FVLTZE6fWxTQlvMEVWjwtij7h/view
+  meeting: ESnet CI Engineering Lunch & Learn Series
+  meetingurl: https://drive.google.com/drive/folders/1SawtRhPW0odqZ1AlQcH7YUzYbzaRKNTe
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project: coffea-casa
