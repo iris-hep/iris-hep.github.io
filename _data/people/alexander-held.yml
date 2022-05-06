@@ -150,19 +150,6 @@ presentations:
     - agc
 
 - title: Analysis Grand Challenge updates
-  date: 2022-01-28
-  url: https://indico.cern.ch/event/1120687/#1-agenda-minutes
-  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
-  meetingurl: https://indico.cern.ch/event/1120687/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-
-- title: Analysis Grand Challenge updates
   date: 2022-03-01
   url: https://indico.cern.ch/event/1131750/#1-agenda-minutes
   meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
