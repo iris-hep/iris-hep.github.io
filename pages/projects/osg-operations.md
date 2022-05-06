@@ -12,12 +12,14 @@ position: -4
 focus-area:
 - osglhc
 team:
+- "[Fabio Andrijauskas](https://profiles.ucsd.edu/fabio.andrijauskas)"
+- ddavila0
 - "[Jeff Dost](https://profiles.ucsd.edu/jeffrey.dost)"
 - djw8605
 - hzhu16
 ---
 
-The [OSG Operations](https://opensciencegrid.org/operations/) team is responsible for
+The [OSG Operations](https://osg-htc.org/operations/) team is responsible for
 deploying, configuring, and running the OSG-owned services that contribute to the overall OSG fabric of services.
 These central services include the OSG software repositories,
 infrastructure for staging and caching data for access across OSG,
@@ -28,7 +30,9 @@ OSG-LHC makes a modest contribution to this overall operations team, focused on 
 
 We note that all the OSG Operations services, including the contributions from OSG-LHC, are used by the wider community of all of open science that benefits from OSG. The operations project of OSG-LHC is thus a direct benefit to the US LHC Operations programs and the wider open science community.
 
-## GRACC
+## Accomplishments
+
+### GRACC
 
 [GRACC](https://gracc.opensciencegrid.org) is the OSG accounting system
 that tracks usage for all projects that use OSG software or services.
@@ -37,15 +41,16 @@ Within OSG-LHC in particular, and IRIS-HEP more generally, it provides the follo
 *   **Accounting of US LHC Commitments to WLCG:**
     The US LHC Operations programs make annual pledges of compute and storage resources to the WLCG. The actually provided resources are tracked by WLCG, and released in a monthly report by WLCG to the collaborations and funding agencies worldwide. OSG-LHC is responsible for delivering accurate accounting records for the US LHC Operations program resources, including potential HPC allocations, and other resources to WLCG. This includes the entire chain form the sites to WLCG. OSG-LHC provides the software, documentation, and training for site administrators so the latter can deploy the appropriate software to collect accounting records at their site. OSG-LHC works with US LHC Operations program management and WLCG to resolve any potential problems in the accounting. This is an essential service for the US LHC Operations programs to fulfill their MoU commitments to WLCG.
 
+*   **Accounting/Monitoring Infrastructure for XCache deployments:**
+
+    OSG-LHC collaborates with the XRootD software team and DOMA in IRIS-HEP on providing data access monitoring and accounting information from the XRootD infrastructure deployed by the US LHC Operations programs to the CERN Monit infrastructure, a data analytics infrastructure located at CERN. The records traverse the OSG Operations supported infrastructure to its RabbitMQ bus, and from there to Monit. While we initially focus on data access records to XCache, we see that as the desired architecture for all XRootD services, and OSG operations works with DOMA, the XRootD team, and the US LHC Operations programs on transitioning towards this vision. See the reports listed below for more details on this activity.
+
 *   **Accounting/Monitoring Infrastructure for Network Performance:**
 The OSG Network Monitoring project depends on this accounting infrastructure to provide the collection, and maintenance of network performance records. The architecture of the accounting system includes a commercially operated RabbitMQ message bus as central point where all accounting records transit through. This bus has multiple information consumers, including services at CERN to retrieve network performance records for all of WLCG. OSG-LHC thus provides network performance data to CERN as a service.
 
-*   **Accounting/Monitoring Infrastructure for XCache deployments:**
-OSG-LHC collaborates with the XRootD software team and DOMA in IRIS-HEP on providing data access monitoring and accounting information from the XRootD infrastructure deployed by the US LHC Operations programs to the CERN Monit infrastructure, a data analytics infrastructure located at CERN. The records traverse the OSG Operations supported infrastructure to its RabbitMQ bus, and from there to Monit. While we initially focus on data access records to XCache, we see that as the desired architecture for all XRootD services, and OSG operations works with DOMA, the XRootD team, and the US LHC Operations programs on transitioning towards this vision. See the reports listed below for more details on this activity.
-
 <iframe src="https://gracc.opensciencegrid.org/d-solo/000000074/gracc-home?orgId=1&from=1136073600000&to=now&panelId=15" width="1000" height="450" frameborder="0"></iframe>
 
-### Architecture of GRACC
+#### Architecture of GRACC
 
 The GRACC ecosystem consists of 5 main components: probes, data collection, message
 broker, data sinks and visualization.
@@ -86,7 +91,16 @@ usage of the OSG.
 - Levshina, T., Sehgal, C., Bockelman, B., Weitzel, D., & Guru, A. (2014, June). Grid accounting service: state and future development. In Journal of Physics: Conference Series (Vol. 513, No. 3, p. 032056). IOP Publishing. [https://doi.org/10.1088/1742-6596/513/3/032056](https://doi.org/10.1088/1742-6596/513/3/032056)
 
 
-## Curation of a uniform Runtime Environment via CVMFS
+### XRootD Monitoring Shoveler
+
+To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler).  The shoveler receives the UDP monitoring packets from an XRootD server and "shovels" them to the OSG message bus.  The architecture of the shoveler is shown in Figure 2.
+
+<figure class="figure">
+  <img src="/assets/images/XRootDMonitoringDiagram.png" class="img-fluid" alt="XRootD Shoveler Architecture">
+  <figcaption class="figure-caption">Figure 2: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
+</figure>
+
+### Curation of a uniform Runtime Environment via CVMFS
 
 The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
 

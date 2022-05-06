@@ -6,7 +6,7 @@ shortname: caloreco-mlaas
 pagetype: project
 image: logos/fpga_ml_results.png
 blurb: Accelerated calorimeter reconstruction using Machine Learning as a Service
-maturity: Deployed
+maturity: Development
 maturity-note:
 focus-area: ia
 team:
@@ -15,6 +15,9 @@ team:
  - pharris
  - drankincms
 ---
+
+This project has ended within the context of IRIS-HEP. Related work continues in a number of projects including
+[IAIFI](https://iaifi.org) and [A3D3](https://a3d3.ai).
 
 Machine learning has become an extremely popular solution for a broad range of problems in high energy physics, from jet-tagging to signal extraction.
 While the application of machine learning can offer unrivaled performance, its use can also be expensive from both a latency and a computation perspective.

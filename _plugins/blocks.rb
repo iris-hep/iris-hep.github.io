@@ -11,20 +11,38 @@ module IrisHep
     end
 
     def render(context)
+      name = @variable
       results = context[@variable].map do |item|
         context.stack do
           context['expandable'] = item
-          "<li>#{super}</li>"
+          "<li>#{super.strip}</li>"
         end
       end
 
       return '' if results.empty?
 
-      output = "<ul>#{results[0..@numberm1].join("\n")}</ul>"
+      output = "    <ul>\n#{results[0..@numberm1].join("\n")}\n    </ul>"
 
       return output if results.size <= @number
 
-      output + "<p>[expand]</p>\n<ul>#{results[@number..].join("\n")}</ul>\n<p>[/expand]</p>\n"
+      %(
+        <div>
+          #{output}
+        </div>
+        <button class="btn btn-primary #{name}_class collapse.show" type="button" data-bs-toggle="collapse"
+                data-bs-target=".#{name}_class" aria-expanded="false" aria-controls="#{name}">
+          See more
+        </button>
+        <div class="collapse #{name}_class" id="#{name}">
+          <ul>
+            #{results[@number..].join("\n")}
+          </ul>
+          <button class="btn btn-primary #{name}_class" type="button" data-bs-toggle="collapse"
+                data-bs-target=".#{name}_class" aria-expanded="false" aria-controls="#{name}">
+            See less
+          </button>
+        </div>
+      )
     end
   end
 end
