@@ -481,3 +481,22 @@ presentations:
   focus-area:
   - as
   project: null
+- title: Metrics of computing trends in NHEP
+  date: 2022-03-21
+  url: https://github.com/jpivarski-talks/2022-03-21-reload-stats-of-physicists
+  meeting: IRIS-HEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/1138009/
+  location: online
+  focus-area:
+  - as
+  project: null
+- title: Awkward Array Updates
+  date: 2022-04-06
+  url: https://github.com/jpivarski-talks/2022-04-06-pyhep-awkward-update
+  meeting: PyHEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/1140031/
+  location: online
+  focus-area:
+  - as
+  project:
+  - awkward
