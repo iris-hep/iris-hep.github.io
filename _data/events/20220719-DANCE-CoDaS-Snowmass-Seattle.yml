@@ -1,0 +1,11 @@
+name: DANCE/CoDaS@Snowmass 2022 computational and data science software training event
+startdate: 2022-07-19 
+enddate: 2022-07-23
+location: Seattle (University of Washington)
+meetingurl: https://indico.cern.ch/event/1151329/
+image:
+description: DANCE/CoDaS@Snowmass 2022 is aimed at senior graduate students and/or early postdocs (in their first year) who have a solid base of software skills and are interested in developing more advanced skills as well as participating in the Snowmass Community Summer Study. Applicants should be affiliated with a U.S. university (students/postdocs) or laboratory (postdocs).Topics
+include - The Scientific Python ecosystem for particle physics, Advanced Data Analysis tools in the Python Ecosystem, Machine Learning, Bayesian Networks, Statistical tools for particle physics
+labels:
+- training
+
