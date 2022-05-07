@@ -24,7 +24,7 @@ Analysis Systems area, as well as within the HEP Software Foundation
 event delivery group.
 
 ## R&D Significance and Impact
-* Data Carousel for LHC, iDDS enables fine-grained prompt processing to efficiently use disk storage, in production
+* *Data Carousel for LHC:* iDDS enables fine-grained prompt processing to efficiently use disk storage. It's already in production for more than 2 years.
 * iDDS hyperparameter optimization service is used for the new ML (GAN) based component in production fast simulation (AtlFast3), FastCaloGAN. (effective HPC/GPU utilization, distributed resource utilization for ML)
 * iDDS DAG based workflow management in production for Rubin Observatory, joint with PanDA to manage the dependencies of different jobs.
 * Ongoing R&D - a growing number of analysis use cases that are demanding in their complexity and resource needs: active learning, toy MC generation, integrated REANA workflows.
