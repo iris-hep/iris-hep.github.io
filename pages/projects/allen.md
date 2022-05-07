@@ -39,14 +39,18 @@ The Allen software is available open source, and able to run without linking to 
 ## Monitoring
 
 It is necessary for data quality purposes to monitor the acceptance rates of trigger lines as well as features of reconstructed tracks and vertices live during data taking.
-For the demonstration of Allen, monitoring histograms were populated in a dedicated monitoring thread using information from the output data banks as well as additional data copied back to the host specifically for monitoring purposes. The flow of monitoring-related data is shown in the diagram below.
+The primary output channel of Allen (depicted downwards in the diagram below) is to attach additional data banks to the input data stream. However, this is only propagated to 
+the second level trigger if the event passes a trigger selection or, in the case of the luminosity summary bank (green in the diagram), if the event has been randomly selected for luminosity monitoring. 
+Additionally, these data banks are not available in real time. The monitoring system (red in the diagram) serves a selection of histograms and counters directly to an external monitoring interface.
 
-<img width="60%" src ="/assets/images/allen-currentMonitoring.png" />
+<img width="60%" src ="/assets/images/allen-monitoring-io.png" />
 
-We are currently working to move the monitoring accumulation from the dedicated thread into the threads responsible for running the Allen trigger pipeline. This will allow any CPU algorithm to define and populate monitoring counters and histograms.
+For the demonstration of Allen, monitoring histograms were populated in a dedicated monitoring thread using information from the output data banks as well as additional data copied back to the host specifically for monitoring purposes. The flow of monitoring-related data as it existed in the demonstration version is shown in the diagram below.
 
-<img width="60%" src ="/assets/images/allen-nextMonitoring.png" />
+<img width="60%" src ="/assets/images/allen-monitoring-before.png" />
 
-We also intend to allow GPU algorithms within the pipeline to define and populate monitoring counters. This will significantly reduce the amount of information that must be copied from the GPU device to the host CPU and also opens up the possibility of monitoring features of events that are not selected by the trigger.
+For the production version of Allen, we have now moved the monitoring accumulation from the dedicated thread into the threads responsible for running the Allen trigger pipeline. This allows any algorithm in the sequence to define and populate monitoring counters and histograms and also opens up the possibility of monitoring features of events that are not selected by the trigger.
+For GPU algorithms, this is achieved in two ways. Quantities that are copied to the host memory for other reasons (e.g. line decisions) can be used to directly populate histograms in the host memory. Quantities that are never copied to the host are used to calculate bin contents on the GPU device. The bin contents are then copied to the host to be added to the histogram, reducing the amount of data that must be copied to the host.
+Histograms are served to an external monitoring display using the Gaudi MonitoringHub interface. An additional monitoring hub is also used within the aggregation thread, which combines histograms from separate GPU streams (which use independent host memory). The current flow of monitoring data is shown in the diagram below.
 
-<img width="60%" src ="/assets/images/allen-finalMonitoring.png" />
+<img width="60%" src ="/assets/images/allen-monitoring-new.png" />
