@@ -17,6 +17,8 @@ team:
  - Tuan Minh Pham
 ---
 
+The intelligent Data Delivery Service (iDDS) is a general service to orchestrate the workload management system and data management system with generalized workflows, and to transform and deliver needed data to consumers, in order to improve the workflow between the workload management system and the data management system.
+
 If HL-LHC is going to process exabytes of data, it needs data access systems
 that can deliver.  The intelligent Data Delivery Service (iDDS) is an attempt
 to make the workflow system more aware of the data workflows and get data
@@ -31,9 +33,15 @@ Analysis Systems area, as well as within the HEP Software Foundation
 event delivery group.
 
 ## R&D Significance and Impact
-* Experiment-agnostic project which is already employed by LHC ATLAS and Vera Rubin Observatory, exploring for new directions such as the sPHENIX experiment.
+* Data Carousel for LHC, iDDS enables fine-grained prompt processing to efficiently use disk storage, in production
+* iDDS hyperparameter optimization service is used for the new ML (GAN) based component in production fast simulation (AtlFast3), FastCaloGAN. (effective HPC/GPU utilization, distributed resource utilization for ML)
+* iDDS DAG based workflow management in production for Rubin Observatory, joint with PanDA to manage the dependencies of different jobs.
+* Ongoing R&D - a growing number of analysis use cases that are demanding in their complexity and resource needs: active learning, toy MC generation, integrated REANA workflows.
+
+## Benefits
+* Experiment-agnostic which is already employed by LHC ATLAS and Vera Rubin Observatory, exploring for new directions such as the sPHENIX experiment.
 * Fine-grained data carousel workflow addressing the HL-LHC storage challenge to reduce storage usage.
-* Scable Machine Learning service to efficiently distribute ML tasks to distributed HPC/GPU resources.
+* Scable Machine Learning service to efficiently distribute ML hyperparameter optimization tasks and so on to distributed HPC/GPU resources.
 * Complex dynamic workflow management, such as DAG (Directed Acyclic Graphs), Loop workflow, Template workflow and Condition workflow, to automate complex production and analysis workflows. It has been used in different experiments, such as ATLAS Hyper ParameterOptimization, ATLAS Active Learning, ATLAS REANA production+analysis integration workflow, Rubin data processing and near-term sPHENIX processing.
 * Operating on grid, commercial clouds, HPCs and etc.
 * Futuer development: fine-grained data transformation and delivery for remote analysis.
@@ -41,6 +49,15 @@ event delivery group.
 ## Use Cases
 
  * *[ATLAS Data Carousel](https://aipanda181.cern.ch/monitor/)*:
+    If HL-LHC is going to process exabytes of data, it needs data access systems
+that can deliver.  The intelligent Data Delivery Service (iDDS) is an attempt
+to make the workflow system more aware of the data workflows and get data
+processed more effectively.  The initial use case was the "data caraousel" for
+ATLAS: orchestrating the processing of data as soon as it comes out of archival
+systems instead of waiting for entire datasets to be staged.  This minimizes
+the use of disk buffers -- especially relevant for HL-LHC as the size of the
+disk buffer shrinks compared to the total dataset volumes.
+
    iDDS performs the fine grained choreography between the processing workflow and dataflow management, initiating processing and deletion quickly at the file level when the data is staged from the tape, rather than when the entire datasets reach the disk as in the pre-iDDS system.
    ATLAS has been expanding the number of workflows using data carousel, now extending to most production workflows. The iDDS minimizes the delay between data being staged and being processing, reducing the data pinning time so that it can be deleted as soon as possible if required, so that it reduces the storage usage.
 
