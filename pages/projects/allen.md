@@ -39,8 +39,8 @@ The Allen software is available open source, and able to run without linking to 
 ## Monitoring
 
 It is necessary for data quality purposes to monitor the acceptance rates of trigger lines as well as features of reconstructed tracks and vertices live during data taking.
-The primary output channel of Allen (depicted downwards in the diagram below) is to attach additional data banks to the input data stream. However, this is only propagated to 
-the second level trigger if the event passes a trigger selection or, in the case of the luminosity summary bank (green in the diagram), if the event has been randomly selected for luminosity monitoring. 
+The primary output channel of Allen (depicted downwards in the diagram below) is to attach additional data banks to the input data stream. However, this is only propagated to
+the second level trigger if the event passes a trigger selection or, in the case of the luminosity summary bank (green in the diagram), if the event has been randomly selected for luminosity monitoring.
 Additionally, these data banks are not available in real time. The monitoring system (red in the diagram) serves a selection of histograms and counters directly to an external monitoring interface.
 
 <img width="60%" src ="/assets/images/allen-monitoring-io.png" />
