@@ -87,7 +87,7 @@ disk buffer shrinks compared to the total dataset volumes.
    Loop workflow, Template workflow and Condition workflow, to meet the requirements of
    some applications such as ATLAS Active Learning. The iDDS workflow management has been used
    to support a still growing succession of complex workflow management applications, such as
-   ATLAS MC toy based confience limits, ATLAS Active Learning, ATLAS REANA production and analysis integration, and sPHINX workflow management.
+   ATLAS MC toy based confience limits, ATLAS REANA production and analysis integration, and sPHINX workflow management.
 
  * *Monte Carlo Toy Based Confidence Limits with iDDS*: An efficient Monte Carlo
    Toy generation process requires multiple steps of grid scans, where current steps
