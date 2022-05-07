@@ -36,7 +36,7 @@ to move data.  The IRIS-HEP DOMA area - in collaboration with the [WLCG DOMA](ht
 activity - is helping the LHC and HEP in general transition to using HTTP for bulk data transfer.
 
 
-The last milestone for this project was achieved with the succesful completion of the WLCG Data Challenge in October 2021.
+The last milestone for this project was achieved with the successful completion of the WLCG Data Challenge in October 2021.
 As can be seen in the following figure the challenge was mainly done using the WebDAV protocol.
 
 Currently both CMS and ATLAS have declared that supporting GridFTP is optional and some sites, like UCSD, have stopped supporting it.
@@ -53,7 +53,7 @@ Currently both CMS and ATLAS have declared that supporting GridFTP is optional a
 </div>
 
 <br>
-In the following one can read about the different milestones established fot this project and how and when they were achieved.
+In the following one can read about the different milestones established for this project and how and when they were achieved.
 
 <br>
 <div class="card" style="width: 40rem; margin: auto">

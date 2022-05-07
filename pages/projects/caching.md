@@ -91,7 +91,7 @@ researchers. In the following image we can see the location of the different ori
   <img class="card-img-top" style="object-fit: contain"  src="/assets/images/caching-osdf-map.png" alt="OSDF map">
   <div class="card-body">
    <h5 class="card-title">Open Science Data Federation</h5>
-   <p class="card-text">Location of the different caches and orgins within the OSDF.
+   <p class="card-text">Location of the different caches and origins within the OSDF.
    </p>
   </div>
 </div>
@@ -107,7 +107,7 @@ For more information on how to joing the OSDF please visit the following [link](
 
 During the past couple of years a significant amount of effor was dedicated to understand and improve the issues affecting the collection
 of the XRootD monitoring data. A [first study: XrootD Monitoring Validation](https://zenodo.org/record/3981359#.YnWgRtPMK3c) done in order to understand the data loss,
-found that the casue was a common UDP issue known as "UDP packet fragmentation".
+found that the cause was a common UDP issue known as "UDP packet fragmentation".
 The [second study: XRootD Monitoring Scale Validation](https://zenodo.org/record/4688624#.YnWhRNPMK3e) was carried out to find the limitations of the monitoring collector
 when used at a a higher scale.
 <br>
@@ -130,7 +130,7 @@ the monitoring data from the XRootD servers to the central monitoring collector 
 
 
 Finally, software improvements to the OSG collector have enabled us to start collecting and anlazying g-stream data, which is the XRootD monitoring stream
-tha includes cache specific events. In the figure below we can observe an example of the g-stream data being colleted form the caches in the OSDF.
+that includes cache specific events. In the figure below we can observe an example of the g-stream data being colleted form the caches in the OSDF.
 
 
 <br>
