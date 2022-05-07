@@ -8,6 +8,13 @@ shortname: fatala22
 title: Training, Education and Outreach Coordinator
 website: http://charma.uprm.edu/~malik/
 presentations:
+- title: Grand Challenge of Software Training in HEP 
+  date: 2022-07-06
+  url: https://agenda.infn.it/event/28874/contributions/169194/
+  meeting: ICHEP 2022 (International Conf. in High Energy Physics) 6 to 13 July 2022 INFN, Bologna, Italy
+  meetingurl: https://agenda.infn.it/event/28874/
+  focus-area: ssc
+  location: Bologna, Italy
 - title: Software Training in HEP
   date: 2021-12-01
   url: https://indico.cern.ch/event/855454/contributions/4604988/
