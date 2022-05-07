@@ -19,6 +19,7 @@ team:
  - ddavila0
 ---
 
+### LHC
 
 Significant portions of LHC analysis use the same datasets, running
 over each dataset several times.  Hence, we can utilize cache-based approaches
@@ -79,6 +80,70 @@ for what we cache.
 </div>
 <br>
 
+### Open Science Data Federation (OSDF)
+
+Similarly to the LHC experiments the OSG has deployed a set of caches and origins that serve both public and authenticated data from diverse experiments and individual
+researchers. In the following image we can see the location of the different origins and caches conforming the federation
+
+
+<br>
+<div class="card" style="width: 40rem; margin: auto">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/caching-osdf-map.png" alt="OSDF map">
+  <div class="card-body">
+   <h5 class="card-title">Open Science Data Federation</h5>
+   <p class="card-text">Location of the different caches and orgins within the OSDF.
+   </p>
+  </div>
+</div>
+<br>
+
+<br>
+For more information on how to joing the OSDF please visit the following [link](https://opensciencegrid.org/docs/data/stashcache/overview/)
+
+
+### Monitoring improvements
+
+<br>
+
+During the past couple of years a significant amount of effor was dedicated to understand and improve the issues affecting the collection
+of the XRootD monitoring data. A [first study: XrootD Monitoring Validation](https://zenodo.org/record/3981359#.YnWgRtPMK3c) done in order to understand the data loss,
+found that the casue was a common UDP issue known as "UDP packet fragmentation".
+The [second study: XRootD Monitoring Scale Validation](https://zenodo.org/record/4688624#.YnWhRNPMK3e) was carried out to find the limitations of the monitoring collector
+when used at a a higher scale.
+<br>
+
+As a result of the first study mentioned above a new component called [The shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler) was introduced in the
+monitoring infrastructure to prevent the data loss due to UDP packet fragmentation. As depicted in the next figure, this lightweight component uses a secure and reliable channel to communicate
+the monitoring data from the XRootD servers to the central monitoring collector operated by OSG.
+<br>
+
+<br>
+<div class="card" style="width: 40rem; margin: auto">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/caching-shoveler.png" alt="Shoveler diagram">
+  <div class="card-body">
+   <h5 class="card-title">The shoveler</h5>
+   <p class="card-text">The shoveler is deployed in between the XRootD server(s) and the XRootD Collector to ensure a reliable channel.
+   </p>
+  </div>
+</div>
+<br>
+
+
+Finally, software improvements to the OSG collector have enabled us to start collecting and anlazying g-stream data, which is the XRootD monitoring stream
+tha includes cache specific events. In the figure below we can observe an example of the g-stream data being colleted form the caches in the OSDF.
+
+
+<br>
+<div class="card" style="width: 40rem; margin: auto">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/caching-gstream.png" alt="GRACC g-stream">
+  <div class="card-body">
+   <h5 class="card-title">XRootD g-stream monitoring data</h5>
+   <p class="card-text">An example of the g-stream data collected from the caches in the OSDF.
+   </p>
+  </div>
+</div>
+<br>
+
 ## Repositories
 
 Currently XCache is distributed by the OSG both in the form of RPM and docker images.
@@ -92,3 +157,10 @@ The following are the corresponding repositories where the base code can be foun
 
  * [Report on cache usage on the WLCG and potential use cases and deployment scenarios for the US LHC facilities](https://github.com/iris-hep/iris-hep.github.io-source/blob/master/assets/pdf/Cache_Usage_on_the_WLCG.pdf)
  * [Report on LHC data access patterns, data uses, and intelligent caching approaches for the HL-LHC (draft)](https://github.com/iris-hep/iris-hep.github.io-source/blob/master/assets/pdf/LHC_Data_Access_Patterns_draft.pdf)
+ * [XrootD Monitoring Validation](https://zenodo.org/record/3981359#.YnWgRtPMK3c)
+ * [XRootD Monitoring Scale Validation](https://zenodo.org/record/4688624#.YnWhRNPMK3e)
+
+
+## Documentation
+
+ * [How to join the Open Science Data Federation](https://opensciencegrid.org/docs/data/stashcache/overview/)
