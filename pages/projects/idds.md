@@ -19,15 +19,6 @@ team:
 
 The intelligent Data Delivery Service (iDDS) is a general service to orchestrate the workload management system and data management system with generalized workflows, and to transform and deliver needed data to consumers, in order to improve the workflow between the workload management system and the data management system.
 
-If HL-LHC is going to process exabytes of data, it needs data access systems
-that can deliver.  The intelligent Data Delivery Service (iDDS) is an attempt
-to make the workflow system more aware of the data workflows and get data
-processed more effectively.  The initial use case was the "data caraousel" for
-ATLAS: orchestrating the processing of data as soon as it comes out of archival
-systems instead of waiting for entire datasets to be staged.  This minimizes
-the use of disk buffers -- especially relevant for HL-LHC as the size of the
-disk buffer shrinks compared to the total dataset volumes.
-
 The IDDS work is an ongoing joint project within IRIS-HEP and US ATLAS in the DOMA and
 Analysis Systems area, as well as within the HEP Software Foundation
 event delivery group.
