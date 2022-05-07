@@ -41,11 +41,10 @@ event delivery group.
 
  * *[ATLAS Data Carousel](https://aipanda181.cern.ch/monitor/)*:
     If HL-LHC is going to process exabytes of data, it needs data access systems
-that can deliver.  The intelligent Data Delivery Service (iDDS) is an attempt
-to make the workflow system more aware of the data workflows and get data
-processed more effectively.  The initial use case was the "data caraousel" for
-ATLAS: orchestrating the processing of data as soon as it comes out of archival
-systems instead of waiting for entire datasets to be staged.  This minimizes
+that can deliver.  The iDDS attempts to make the workflow system more aware of
+the data workflows and get data processed more effectively. The ATLAS "data carousel"
+ is the initial use case for iDDS. It orchestrates the processing of data as soon as
+ it comes out of archival systems instead of waiting for entire datasets to be staged.  This minimizes
 the use of disk buffers -- especially relevant for HL-LHC as the size of the
 disk buffer shrinks compared to the total dataset volumes.
 
@@ -54,7 +53,7 @@ disk buffer shrinks compared to the total dataset volumes.
 
    Over the two years that the iDDS-enabled data carousel has been in production. Several hundreds of PB data has been processed.
    (The monitor snapshot below only shows data from July 2021. The data before it is already archived.)
-   ![iDDS ATLAS Data Carousel](/assets/images/idds_atlas_data_carousel.jpg){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
+   ![iDDS ATLAS Data Carousel](/assets/images/idds_atlas_data_carousel.jpg){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 
  * *Hyper Parameter Optimization (HPO)*: 
@@ -78,7 +77,7 @@ disk buffer shrinks compared to the total dataset volumes.
    workflow and middleware, which together with successful PanDA scaling tests was instrumental
    in Rubin's adoption of PanDA and iDDS in August 2021.
 
-   ![iDDS ATLAS DOMA Rubin](/assets/images/idds_doma_rubin.jpg){:style="display:block; margin-left: auto; margin-right: auto; width: 50%"}
+   ![iDDS ATLAS DOMA Rubin](/assets/images/idds_doma_rubin.jpg){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
  * The DAG support then catalyzed a rapid proliferation of implemented complex workflows
    of interests to the ATLAS HL-LHC computing R&D and analysis communities. To enhance the
