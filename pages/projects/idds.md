@@ -56,7 +56,7 @@ disk buffer shrinks compared to the total dataset volumes.
    ![iDDS ATLAS Data Carousel](/assets/images/idds_atlas_data_carousel.jpg){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
 
 
- * *Hyper Parameter Optimization (HPO)*: 
+ * *Hyper Parameter Optimization (HPO)*:
    HPO is a scable machine learning service to efficiently distribute ML tasks to distributed HPC/GPU resources. It is an interest to both HL-LHC Computing R&D and ML-based analysis for the potential to use large scale computing resources, such as HPCs and distributed GPUs, to reduce latencies within the development and refinement of ML applications by order of magnitude.
 
    iDDS HPO, integrated with PanDA workload management system, has provides a fully-automated platform for ML hyper parameter optimization, and also similar tasks, on top of geographically distributed GPU resources on the grid, HPC, and clouds.
@@ -67,8 +67,8 @@ disk buffer shrinks compared to the total dataset volumes.
 
    Future development: apply Jupyter and container to simplify the user interface and the ML environment management.
 
- * *[DAG based workflow management](https://aipanda017.cern.ch/monitor/dashboard.html)*: 
-   To meet the requirements of the Rubin Observatory's workflows which are defined as DAGs. 
+ * *[DAG based workflow management](https://aipanda017.cern.ch/monitor/dashboard.html)*:
+   To meet the requirements of the Rubin Observatory's workflows which are defined as DAGs.
    The iDDS internally implements a high-level workflow engine, specifying a set of
    interdependent jobs as described by DAG. iDDS, interacting
    with software such as PanDA, drives workload scheduling and implements
