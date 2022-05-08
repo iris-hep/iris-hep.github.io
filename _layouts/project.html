@@ -10,7 +10,8 @@
             <img alt="{{ page.title }} logo" class="header-logo" src="/assets/{{ page.image }}" width="{{ page.logowidth }}" />
           {% else %}
             <div class="container-fluid">
-              <h1 class="alt-h2 text-center mb-3 mt-lg-6">{{page.title}}</h1><br>
+              <h1 class="alt-h2 text-center mb-0 mt-lg-6">{{page.title}}</h1>
+              <div class="text-center mb-3">{% include maturity.html project=page %} </div>
             </div>
           {% endif  %}
 
