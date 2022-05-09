@@ -46,7 +46,8 @@ collaborators:
   The bulk data transfer technologies were designed almost 15 years ago; the DOMA team is taking
   a fresh look at the transfer protocols and the authentication and authorization infrastructure
   used by the LHC community.  This is resulting in a worldwide transition to new protocols
-  and authorization approaches.
+  and authorization approaches.  The first phase of this work is done: the LHC community has
+  successfully transitioned to HTTP as a foundation for bulk data transfers.
 
   <p>
   It is not only data volumes that are potentially disruptive to the HL-LHC physics
@@ -55,7 +56,7 @@ collaborators:
   data management for users.  Along with the analysis systems team within IRIS,
   DOMA is working on improved techniques for delivering events to users.  Not only is the team
   researching new approaches for data delivery and implementing services but also working to
-  integrate them together with into a cohereent analysis facility, Coffea-Casa, for users.
+  integrate them together with into a coherent analysis facility, Coffea-Casa, for users.
 
   <p> <strong>Contact us</strong>: <a href="mailto:doma-team@iris-hep.org">doma-team@iris-hep.org</a> </p>
 
