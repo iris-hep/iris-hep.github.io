@@ -12,7 +12,7 @@ critical components of HEP’s computing challenge. These algorithms face a numb
 new challenges in the next decade due to new and upgraded accelerator
 facilities, detector upgrades and new detector technologies, increases
 in anticipated event rates, and emerging computing architectures.
-Projects in the IA area are focussed in three areas:
+Projects in the IA area are focused in three areas:
 - Developing tracking algorithms for the HL-LHC
 - Re-engineering algorithms for hardware accelerators
 - Exploiting major advances in machine learning

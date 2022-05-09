@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+ruby '>= 2.6.0'
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -23,8 +25,7 @@ group :development do
   gem 'rake', require: false
 
   # Verify good coding practices in Ruby files
-  # Pinning 1.12.x since 1.13 drops 2.4 support
-  gem 'rubocop', '~>1.12.0', require: false
+  gem 'rubocop', '~>1.25.0', require: false
 
   # Extension for Rake files
   gem 'rubocop-rake', require: false
@@ -35,25 +36,23 @@ gem 'minima', '~> 2.5'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-feed', '~> 0.15'
+  gem 'jekyll-feed', '~> 0.16'
   gem 'jekyll-include-cache'
-  gem 'jekyll-indico', '~> 0.3.0'
+  gem 'jekyll-indico', '~> 0.6.2'
   # gem 'jekyll-indico', github: 'iris-hep/jekyll-indico', branch: 'main'
 end
 
 # This is used like a library, not as a plugin
-gem 'jekyll-last-modified-at', '~> 1.3.0'
+gem 'jekyll-last-modified-at'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
-# Needed by Nokogiri sometimes
-gem 'pkg-config', '~> 1.1'
+# Needed by Nokogiri
+gem 'pkg-config', '~> 1.4'
 
 # Performance-booster for watching directories on Windows
 gem 'wdm', '~> 0.1.0' if Gem.win_platform?
 
-# Pinning this for now since macOS + default Ruby needs this
-# Please use rbenv to pick Ruby versions; the next Jekyll release
-# will not work with macOS's Ruby 2.3
-gem 'ffi', '~> 1.10'
+# Required on Ruby 3+
+gem 'webrick'

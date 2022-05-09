@@ -6,8 +6,8 @@ active: false
 hidden: true
 title: Maggie Ramsay - IRIS-HEP Fellow
 fellow-name: Maggie Ramsay
-shortname: Maggie
-project_title: Continuous Testing of Facility’s Functionality Including Data Delivery Services Available in Coffea-Casa Analysis Facility
+project_title: "Continuous Testing of Facility\u2019s Functionality Including Data\
+  \ Delivery Services Available in Coffea-Casa Analysis Facility"
 focus-area:
 dates:
   start: 2021-06-01
@@ -16,11 +16,17 @@ photo: /assets/images/team/maggie-ramsay.png
 institution: University of Nebraska Lincoln
 e-mail: mramsay4@huskers.unl.edu
 mentors:
-  - Oksana Shadura (University of Nebraska Lincoln)
-  - Brian Bockelman (Morgridge University)
-  - Ken Bloom (University of Nebraska Lincoln)
+- Oksana Shadura (University of Nebraska Lincoln)
+- Brian Bockelman (Morgridge University)
+- Ken Bloom (University of Nebraska Lincoln)
 project_goal: >
-  Development of a continuous functionality testing procedure (including smoke tests and integration tests) for ‘Coffea-casa’ analysis facility. The test suite would expect to cover testing of analysis-related components and analysis frameworks deployed in AF as well as data delivery services functionality. The test suite should include but not be limited to an already collected set of available sample physics analyses.
+  Development of a continuous functionality testing procedure (including smoke tests
+  and integration tests) for ‘Coffea-casa’ analysis facility. The test suite would
+  expect to cover testing of analysis-related components and analysis frameworks deployed
+  in AF as well as data delivery services functionality. The test suite should include
+  but not be limited to an already collected set of available sample physics analyses.
 proposal: /assets/pdf/fellow-Maggie-Ramsay-proposal.pdf
 presentations:
+github-username: maggieramsay
+
 ---

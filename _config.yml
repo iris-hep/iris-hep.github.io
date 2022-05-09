@@ -58,6 +58,8 @@ sass:
 indico:
   url: https://indico.cern.ch
   cache-command: bundle exec rake cache
+  timeout: 240  # topical is getting close to 60 seconds, the default
+  paginate: 25
   ids:
     topical: 10570
     nsfreport: 11204

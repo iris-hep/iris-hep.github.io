@@ -1,0 +1,7 @@
+title: "Columnar data processing for HEP analysis"
+date: 2019-09-17
+inspire-id: 1761289
+focus-area: as
+project:
+  - uproot
+  - awkward

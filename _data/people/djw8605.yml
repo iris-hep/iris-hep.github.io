@@ -9,6 +9,36 @@ shortname: djw8605
 title:
 website: https://derekweitzel.com
 presentations:
+- title: 'Updates on the OSDF Monitoring System'
+  date: 2022-03-16
+  url: https://indico.fnal.gov/event/53029/contributions/236166/attachments/153077/198547/AHM2022_Wed_DWeitzel_UpdatesotheOSDFMonitoring%20System.pdf
+  meeting: OSG All-Hands Meeting 2022
+  meetingurl: https://indico.fnal.gov/event/53029/
+  focus-area:
+  - osglhc
+  - doma
+  project: osg-operations
+  location: Virtual
+- title: 'XRootD Monitoring Flow'
+  date: 2022-01-27
+  url: https://indico.cern.ch/event/1120678/contributions/4705455/attachments/2380176/4066785/XRootD%20Monitoring%20Flow.pdf
+  meeting: WLCG Operations Coordination
+  meetingurl: https://indico.cern.ch/event/1120678/
+  focus-area:
+  - osglhc
+  - doma
+  project: osg-operations
+  location: Virtual
+- title: 'XRootD Shoveler'
+  date: 2021-12-14
+  url: https://indico.cern.ch/event/1104060/contributions/4649799/attachments/2364761/4037525/Shoveler%20-%20CMS%20Tier%202.pdf
+  meeting: Tier-2 Facilities Meeting
+  meetingurl: https://indico.cern.ch/event/1104060/
+  focus-area:
+  - osglhc
+  - doma
+  project: osg-operations
+  location: Virtual
 - title: 'Moving science data: One CDN to rule them all'
   date: 2021-03-03
   url: https://indico.fnal.gov/event/47040/contributions/208458/attachments/140618/176779/StashCache-Weitzel-2021.pdf

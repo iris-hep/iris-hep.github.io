@@ -1,7 +1,6 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname: AjayRawat
 permalink: /fellows/AjayRawat.html
 fellow-name: Ajay Rawat
 title: Ajay Rawat - IRIS-HEP Fellow
@@ -13,20 +12,23 @@ photo: /assets/images/team/AjayRawat.jpg
 institution: University of Washington
 website:
 e-mail: ajay712@cs.washington.edu
-project_title: Integrating REANA Backend into ROB for evaluating workflows in the cloud
+project_title: Integrating REANA Backend into ROB for evaluating workflows in the
+  cloud
 focus-area: as
 project_goal: >
-  Develop the backend to allow ROB to execute workflows on the REANA cloud platform. He will build upon Aaron’s work to execute Jupyter Notebooks on REANA using papermill.
+  Develop the backend to allow ROB to execute workflows on the REANA cloud platform.
+  He will build upon Aaron’s work to execute Jupyter Notebooks on REANA using papermill.
 mentors:
-  - Shih-Chieh Hsu (University of Washington)
+- Shih-Chieh Hsu (University of Washington)
 proposal: /assets/pdf/AjayRawat.pdf
 presentations:
-  - title:  "Integrating REANA Backend into ROB for evaluating workflows in the cloud"
-    date: 2021-09-14
-    url: https://indico.cern.ch/event/1074442/contributions/4518233/attachments/2319367/3949066/Rawat%20IRIS-HEP%20presentation.pdf
-    meeting: IRIS-HEP Topical Meetings
-    meetingurl: https://indico.cern.ch/event/1074442/
-    recordingurl: https://youtu.be/HBETq2zCyY8
-    focus-area: as
+- title: Integrating REANA Backend into ROB for evaluating workflows in the cloud
+  date: 2021-09-14
+  url: https://indico.cern.ch/event/1074442/contributions/4518233/attachments/2319367/3949066/Rawat%20IRIS-HEP%20presentation.pdf
+  meeting: IRIS-HEP Topical Meetings
+  meetingurl: https://indico.cern.ch/event/1074442/
+  recordingurl: https://youtu.be/HBETq2zCyY8
+  focus-area: as
 current_status: >
+github-username:
 ---

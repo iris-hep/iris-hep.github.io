@@ -11,7 +11,7 @@ image-caption: |
     Rico.
 summary: |
     Training for IRIS-HEP has been online over this last year, providing
-    challanges, but opening up new opertunities and benifits not previously
+    challenges, but opening up new opportunities and benefits not previously
     possible.
 ---
 

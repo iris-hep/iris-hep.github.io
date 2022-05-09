@@ -80,3 +80,50 @@ presentations:
   project: acts
   focus-area: ia
   location: CERN
+- title: ACTS, EDM and Athena
+  date: 2022-01-12
+  url: https://indico.cern.ch/event/1108812/
+  meeting: Annual LBNL ATLAS Meeting
+  meetingurl: https://indico.cern.ch/event/1108812/
+  project: acts
+  focus-area: ia
+  location: LBNL
+- title: Status of ACTS integration for ITk tracking
+  date: 2022-01-27
+  url: https://indico.cern.ch/event/1103060/
+  meeting: Inner Tracking CP plenary meeting
+  meetingurl: https://indico.cern.ch/event/1103060/
+  project: acts
+  focus-area: ia
+  location: CERN
+- title: Updates on seeding
+  date: 2022-02-11
+  url: https://indico.cern.ch/category/6835/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/category/6835/
+  project: acts
+  focus-area: ia
+  location: CERN
+- title: Updates on seeding integration in athena
+  date: 2022-03-11
+  url: https://indico.cern.ch/event/1127124/
+  meeting: ACTS-ITk meeting
+  meetingurl: https://indico.cern.ch/event/1127124/
+  project: acts
+  focus-area: ia
+  location: CERN
+- title: EF Tracking - track extension, fitting & ambiguity resolution
+  date: 2022-04-05
+  url: https://indico.cern.ch/event/1137000/
+  meeting: EF Tracking weekly
+  meetingurl: https://indico.cern.ch/event/1137000/
+  project: acts
+  focus-area: ia
+  location: CERN
+- title: ACTS tracking
+  date: 2022-04-13
+  url: https://indico.cern.ch/event/1140356/contributions/4785340/attachments/2426827/4154921/ActsTracking.pdf
+  meeting: IRIS-HEP Topical meeting
+  meetingurl: https://indico.cern.ch/event/1140356/
+  project: acts
+  focus-area: ia

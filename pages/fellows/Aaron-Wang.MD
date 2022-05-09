@@ -12,7 +12,7 @@ dates:
 photo: /assets/images/team/Aaron-Wang.jpg
 institution: University of Washington, Seattle
 e-mail: anrunw@uw.edu
-project_title: Reproducible Open Benchmark Compatability with Jupyter Notebook
+project_title: Reproducible Open Benchmark Compatibility with Jupyter Notebook
 project_goal: >
     The Reproducible Open Benchmarks for Data Analysis Platform (ROB) is a platform that allows for the evaluation of different data analysis algorithms in a controlled competition-style format. But, it currently does not support python notebooks as input. The goal of this project is to add support for jupyter notebooks to the ROB.
 mentors:
@@ -28,6 +28,5 @@ presentations:
     recordingurl: https://www.youtube.com/watch?v=2BnMALmU5CQ
     focus-area: as
 current_status: >
-  Machine Learning Intern at Pacific Northwest National Lab
-  Undergraduate Research Assistant at University of Washington Elementary Particle Experiment Group
+  <strong>December 2021</strong> - Machine Learning Intern at Pacific Northwest National Lab, Undergraduate Research Assistant at University of Washington Elementary Particle Experiment Group
 ---

@@ -7,6 +7,8 @@ pagetype: project
 image: logos/ml4jets-logo.png
 logowidth: 80%
 blurb: Machine learning for jets
+maturity: Development
+maturity-note:
 focus-area: ia
 team:
  - cranmer
@@ -28,7 +30,7 @@ Machine Learning is having a major impact in jet physics. It is empowering power
  <div class="col-8">
 
   <h3>TreeNiN </h3>
-The QCD-aware recursive neural networks devleoped as part of DIANA/HEP (<a href="https://arxiv.org/abs/1702.00748">Louppe et al. 2017</a> which leverage an analogy to natural language processing were extended to include a network-in-network. The TreeNiN method (in the table below), achieves excellent performance with orders of magnitude fewer parameters than the other top performing techniques. This pytorch implementation can be found in <a href="https://github.com/diana-hep/TreeNiN">this repository</a>
+The QCD-aware recursive neural networks developed as part of DIANA/HEP (<a href="https://arxiv.org/abs/1702.00748">Louppe et al. 2017</a> which leverage an analogy to natural language processing were extended to include a network-in-network. The TreeNiN method (in the table below), achieves excellent performance with orders of magnitude fewer parameters than the other top performing techniques. This pytorch implementation can be found in <a href="https://github.com/diana-hep/TreeNiN">this repository</a>
 
  </div>
 </div>
@@ -74,7 +76,7 @@ NYU hosted <a href="/2020/01/17/ml4jets-workshop.html">ML4Jets 2020</a> focusing
  <div class="col-8">
 
   <h3>Ginkgo: growing convergent research</h3>
-More recenlty, Sebastian Macaluso and Kyle Cranmer have worked to reframe many problems in jet physics in statistical terms and connect the parton shower to latent variable models. In order to ease collaboration with computer scientists, they have developed <a href="https://github.com/SebastianMacaluso/ToyJetsShower">Ginkgo</a>, a simplified parton shower model written in <a href="http://pyro.ai">pyro</a>.
+More recently, Sebastian Macaluso and Kyle Cranmer have worked to reframe many problems in jet physics in statistical terms and connect the parton shower to latent variable models. In order to ease collaboration with computer scientists, they have developed <a href="https://github.com/SebastianMacaluso/ToyJetsShower">Ginkgo</a>, a simplified parton shower model written in <a href="http://pyro.ai">pyro</a>.
 
  </div>
 </div>
@@ -88,7 +90,7 @@ More recenlty, Sebastian Macaluso and Kyle Cranmer have worked to reframe many p
  <div class="col-8">
 
   <h3>Visualizing Jet Clustering</h3>
-In order to aid research into jet physics, Sebastian Macaluso, Kyle Cranmer, and Duccio Pappadopulo have developepd new visualization tools to compare various jet clustering algorithms. See the <a href="https://github.com/SebastianMacaluso/VisualizeBinaryTrees">VisualizeBinaryTrees</a> repository in GitHub.
+In order to aid research into jet physics, Sebastian Macaluso, Kyle Cranmer, and Duccio Pappadopulo have developed new visualization tools to compare various jet clustering algorithms. See the <a href="https://github.com/SebastianMacaluso/VisualizeBinaryTrees">VisualizeBinaryTrees</a> repository in GitHub.
 
  </div>
 </div>

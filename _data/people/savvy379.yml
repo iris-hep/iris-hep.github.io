@@ -81,7 +81,7 @@ presentations:
   project: accel-gnn-tracking
   labels:
   - conference
-- title: "Maching Learning (CMS)"
+- title: "Machine Learning (CMS)"
   date: 2021-08-26
   url: https://indico.cern.ch/event/1025480/contributions/4478812/
   meeting: "10th International Conference on New Frontiers in Physics (ICNFP 2021)"

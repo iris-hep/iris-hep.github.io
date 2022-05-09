@@ -9,6 +9,13 @@ title: Tracking Algorithms Collaborator
 website: https://philip.ucsd.edu
 presentations:
 - title: Line segment tracking for Phase-II Tracking
+  date: 2021-10-18
+  url: https://indico.cern.ch/event/1087315/contributions/4571855/attachments/2329818/3969872/PhilipChang20211018_LST_TrackPOG_v5.pdf
+  meeting: HLT Upgrade Workshop (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/1087315/
+  project: lst
+  focus-area: ia
+- title: Line segment tracking for Phase-II Tracking
   date: 2020-11-03
   url: https://indico.cern.ch/event/962025/contributions/4081645/attachments/2135711/3597467/PhilipChang20201103_HLTWorkshop.pdf
   meeting: HLT Upgrade Workshop (CMS restricted)

@@ -7,6 +7,8 @@ pagetype: project
 image: images/RMP-cover-image-thematic-bright-blue.png
 logowidth: 30%
 blurb: Analysis Reinterpretation
+maturity: Development
+maturity-note:
 focus-area:
 - as
 - ia
@@ -61,7 +63,7 @@ In collaboration with reseachers at DeepMind and MIT, Kyle Cranmer use machine l
 
 Machine learning techniques are being used within IRIS-HEP to enable powerful new forms of statistical inference.
 Partially supported by IRIS-HEP's exploratory machine learning efforts, Kyle Cranmer and collaborators explored a generalizing those techniques from classical data to quantum systems, which resulted in <a href="https://arxiv.org/abs/1904.05903">this paper</a>.
- The technique also has applications in spectral learning, which has a broad range of applications in signal processing, and has been cited by reseachers at DeepMind that developed <a href="https://arxiv.org/abs/1806.02215">Spectral Inference Networks</a>. This work was followed up fo quantum information in <a href="https://arxiv.org/abs/1912.11381">Variational Autoregressive Networks and Quantum Circuits</a> by researchers at the Chinese Academy of Sciences.
+ The technique also has applications in spectral learning, which has a broad range of applications in signal processing, and has been cited by researchers at DeepMind that developed <a href="https://arxiv.org/abs/1806.02215">Spectral Inference Networks</a>. This work was followed up for quantum information in <a href="https://arxiv.org/abs/1912.11381">Variational Autoregressive Networks and Quantum Circuits</a> by researchers at the Chinese Academy of Sciences.
 
  </div>
 </div>
@@ -161,7 +163,7 @@ IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer
 
  <h3>Dynamical Systems</h3>
 
-As part of IRIS-HEP's exploratory machine learning efforts, we've developed collaborations with researchers at DeepMind that are interested in modelling physical systems. This research involves finding ways to incorporate various types of domain knowledge into neural networks. For instance, we know many systems are composed of more basic ingredients, or that interactions between those ingredients have some relational structure. Kyle Cranmer joined researchers at DeepMind for work that brought together techiques from physics and neural networks in <a href="https://arxiv.org/abs/1909.12790">Hamiltonian Graph Networks with ODE Integrators</a>. This work has been extended with <a href="https://drive.google.com/file/d/1Ri3RkuqyZ1xhg0QkXqzwfkxUCvn_0YKn/view">fantastic results</a> (see right) on complex simulations of particle systems in <a href="https://arxiv.org/pdf/2002.09405.pdf">Learning to Simulate Complex Physics with Graph Networks</a>.
+As part of IRIS-HEP's exploratory machine learning efforts, we've developed collaborations with researchers at DeepMind that are interested in modeling physical systems. This research involves finding ways to incorporate various types of domain knowledge into neural networks. For instance, we know many systems are composed of more basic ingredients, or that interactions between those ingredients have some relational structure. Kyle Cranmer joined researchers at DeepMind for work that brought together techniques from physics and neural networks in <a href="https://arxiv.org/abs/1909.12790">Hamiltonian Graph Networks with ODE Integrators</a>. This work has been extended with <a href="https://drive.google.com/file/d/1Ri3RkuqyZ1xhg0QkXqzwfkxUCvn_0YKn/view">fantastic results</a> (see right) on complex simulations of particle systems in <a href="https://arxiv.org/pdf/2002.09405.pdf">Learning to Simulate Complex Physics with Graph Networks</a>.
  </div>
 
 

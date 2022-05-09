@@ -50,7 +50,7 @@ presentations:
   location: Half Moon Bay, CA
   focus-area: doma
   project: skyhookdm
-- title: 'MBWU: Benefit Quantification for Data Acess Function Offloading'
+- title: 'MBWU: Benefit Quantification for Data Access Function Offloading'
   date: 2019-06-20
   url: https://hps.vi4io.org/_media/events/2019/hpc-iodc-mmbwu-maltzahn.pdf
   meeting: HPC I/O in the Data Center Workshop (HPC-IODC 2019)
@@ -166,5 +166,53 @@ presentations:
     South Africa
   meetingurl: https://events.chpc.ac.za/event/84/sessions/453/#20201202
   url: https://drive.google.com/file/d/10RReGuL0XvFDAcUqf_ftDbMVngHZtk5G/view?usp=sharing
+  focus-area: doma
+  project: skyhookdm
+- title: Open Source Research Experience -- Summer 2021
+  date: 2021-03-09
+  meeting: Launch of 2021 OSRE Program
+  meetingurl: https://cross.ucsc.edu/programs/osreprogram.html
+  url: https://drive.google.com/file/d/11GKFJcy137J1ejYZYtFEJxrcZiLsWrVk/view?usp=sharing
+  focus-area: doma
+  project: skyhookdm
+- title: Ceph
+  date: 2021-10-26
+  meeting: DPS Guest Lecture at LIACS, Leiden University
+  url: https://drive.google.com/file/d/11H_Z8H94xHuKmXMJh_9RYWsi76zXrvSL/view?usp=sharing
+  focus-area: doma
+  project: skyhookdm
+- title: Towards an OSPO at the University of California
+  date: 2021-11-02
+  meeting: Linux Foundation Membership Summit
+  meetingurl: https://events.linuxfoundation.org/archive/2021/lf-member-summit/program/schedule/
+  url: https://drive.google.com/file/d/1NsDEGX4hSjoSuauUrTVijomqiYVnB9On/view?usp=sharing
+  focus-area: doma
+  project: skyhookdm
+- title: Skyhook Data Management
+  date: 2021-11-04
+  meeting: Analysis Grand Challenge Tools 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1076231/
+  url: https://drive.google.com/file/d/1KXB33eyxbRppDxSxQ6xNXqpXNwlE5zaY/view?usp=sharing
+  focus-area: doma
+  project: skyhookdm
+- title: Creating an OSPO at the University of California
+  date: 2022-02-02
+  meeting: "OSPO++ Academic Track: UC Santa Cruz and UVM on setting up an OSPO"
+  meetingurl: https://www.youtube.com/watch?v=ITbcRf2lwDU
+  url: https://drive.google.com/file/d/1ZHGogmFsbhp5YfbgD4ujULd3HDkW5zDD/view?usp=sharing
+  focus-area: doma
+  project: skyhookdm
+- title: "Faculty and Student Session: Open Source Research Experience (OSRE)"
+  date: 2022-03-25
+  meeting: "The Association of Computer Science Departments at Minority Institutions (ADMI) High Performance Computing and Gateways 2022 Symposium (ADMI 2022)"
+  meetingurl: https://www.admiusa.org/admi2022/program.php
+  url: https://drive.google.com/file/d/11JL5n1GWeFNjCKPZ-830vyFp4RFmFRxh/view?usp=sharing
+  focus-area: doma
+  project: skyhookdm
+- title: Creating an OSPO at the University of California
+  date: 2022-04-06
+  meeting: "OSPOlogy: How Academic OSPOs are Amplifying Research Impact"
+  meetingurl: https://github.com/todogroup/ospology/tree/main/meetings#event-page-and-past-sessions
+  url: https://drive.google.com/file/d/11PWIV6pfwuxHx56znJptncViKEjYvM7k/view?usp=sharing
   focus-area: doma
   project: skyhookdm

@@ -7,6 +7,8 @@ pagetype: project
 image: logos/ServiceX-Color-Transparent.png
 logowidth: 10%
 blurb: Delivering columnar data on demand
+maturity: Testing
+maturity-note:
 focus-area: doma
 team:
  - AndrewEckart
@@ -18,6 +20,7 @@ team:
  - Ilija Vukotic
  - gordonwatts
  - mweinberg2718
+ - MichaelJohnson
 ---
 [ServiceX](https://github.com/ssl-hep/ServiceX) is a data extraction and
 delivery delivery service. Users provide a dataset identifier and a selection
@@ -39,6 +42,7 @@ libraries and babysit batch jobs
 * Extracts data from experiment-specific data formats using approved frameworks.
 * Data can be provided as popular and powerful
 [Awkward Arrays](/projects/awkward.html)
+* Results can be written to an ObjectStore or to [SkyHook Volumes](skyhookdm.html)
 * Results are cached to allow for easy re-analysis
 * Transformers are run out of tagged docker images to allow for precise
 reproducibility
@@ -95,4 +99,8 @@ Full documentation at [servicex.readthedocs](https://servicex.readthedocs.io/en/
 
 <a href="https://indico.cern.ch/event/773049/contributions/3474438/attachments/1935769/3207764/BenGalewskyCHEP2019.pdf"><img width="10%" src="/assets/images/BenGalewskyCHEP2019.png" alt="poster" /></a> [ServiceX talk at CHEP 2019](https://indico.cern.ch/event/773049/contributions/3474438/attachments/1935769/3207764/BenGalewskyCHEP2019.pdf)
 
-[ServiceX talk at HSF DAWG -- DOMA Access meeting](https://docs.google.com/presentation/d/1T3FszCMpnkvvdNuoXAUZuX10hHI-hp2m0-cKYABJWmE/edit#slide=id.g6458619ede_0_96)
+[ServiceX talk at HSF DAWG -- DOMA Access meeting](/assets/pdf/weinbergServiceX200323.pdf)
+
+## Keep in Touch
+Sign up for the [ServiceX Mailing List](http://eepurl.com/hwqdED) to be informed
+of new releases of the system.

@@ -75,7 +75,7 @@ module IrisHep
     def last_name_sort(input, key)
       input.sort_by do |v|
         vals = v[key].downcase.split
-        vals[-1..-1] + vals[0..-2]
+        vals[-1..] + vals[0..-2]
       end
     end
 
@@ -131,7 +131,7 @@ module IrisHep
 
     # Pretty-print a daterange
     def print_date_range(start, stop = nil)
-      stop = stop.nil? ? start : stop
+      stop = start if stop.nil?
       if start.year != stop.year
         "#{start.strftime '%b&nbsp;%-d, %Y'}&ndash;#{stop.strftime '%b&nbsp;%-d, %Y'}"
       elsif start.month != stop.month
@@ -145,7 +145,7 @@ module IrisHep
 
     # Pretty print month date range
     def print_date_range_month(start, stop = nil)
-      stop = stop.nil? ? start : stop
+      stop = start if stop.nil?
       if start.year == stop.year
         "#{start.strftime '%b'} &ndash; #{stop.strftime '%b, %Y'}"
       else

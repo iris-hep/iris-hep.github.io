@@ -1,6 +1,7 @@
 active: true
 focus-area:
 - as
+- doma
 institution: University of Washington
 name: Mason Proffitt
 photo: "/assets/images/team/Mason-Proffitt.jpg"
@@ -49,6 +50,18 @@ presentations:
   location: Princeton University
   focus-area: as
   project: func-adl
+- title: "Data Selection & Delivery for Analysis: ServiceX & funcADL"
+  date: 2020-10-26
+  url: https://indico.cern.ch/event/960587/contributions/4070320/
+  meeting: Future Analysis Systems and Facilities
+  meetingurl: https://indico.cern.ch/event/960587/
+  location: Virtual
+  focus-area:
+  - doma
+  - as
+  project:
+  - servicex
+  - func-adl
 - title: "FuncADL: Functional Analysis Description Language"
   date: 2021-05-18
   url: https://indico.cern.ch/event/948465/contributions/4324157/attachments/2245273/3809264/vCHEP%202021%20FuncADL%20v4%20%28final%29.pdf
@@ -74,3 +87,32 @@ presentations:
   location: Virtual
   focus-area: as
   project: uproot
+- title: "Data handling: uproot, awkward & vector"
+  date: 2021-11-03
+  url: https://indico.cern.ch/event/1076231/contributions/4560398/
+  video: https://indico.cern.ch/event/1076231/contributions/4560398/attachments/2338579/4017718/agc_uproot_awk.mp4
+  meeting: IRIS-HEP AGC Tools 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1076231/
+  location: Virtual
+  focus-area: as
+  project:
+  - uproot
+  - awkward
+  - vector
+- title: Queries with func_adl
+  date: 2021-11-03
+  url: https://indico.cern.ch/event/1076231/contributions/4560403/
+  video: https://indico.cern.ch/event/1076231/contributions/4560403/attachments/2339065/4017721/agc_funcadl.mp4
+  meeting: IRIS-HEP AGC Tools 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1076231/
+  location: Virtual
+  focus-area: as
+  project: func-adl
+- title: "Declarative interfaces for HEP data analysis: FuncADL and ADL/CutLang"
+  date: 2021-12-01
+  url: https://indico.cern.ch/event/855454/contributions/4611278/
+  meeting: ACAT 2021
+  meetingurl: https://indico.cern.ch/event/855454/
+  location: Virtual
+  focus-area: as
+  project: func-adl

@@ -32,6 +32,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: High-Performance Python and Interoperability with Compiled Code
   date: 2019-04-08
   url: https://github.com/jpivarski/2019-04-08-picscie-numpy
@@ -41,7 +42,7 @@ presentations:
   focus-area:
   - as
   - ssc
-  project:
+  project: null
 - title: Aghast
   date: 2019-04-15
   url: https://indico.cern.ch/event/803122/contributions/3339215/attachments/1830076/2996786/pivarski-2019-04-15-irishep-aghast.pdf
@@ -52,6 +53,7 @@ presentations:
   - as
   project:
   - histogram
+  - scikit-hep
 - title: 'Awkward Array: Numba'
   date: 2019-04-17
   url: https://indico.cern.ch/event/808630/contributions/3367657/attachments/1830385/2997458/pivarski-2019-04-17-irishep-awkwardnumba.pdf
@@ -81,7 +83,7 @@ presentations:
   focus-area:
   - as
   - ssc
-  project:
+  project: null
 - title: Programming languages and particle physics
   date: 2019-05-08
   url: https://indico.cern.ch/event/769263/contributions/3420926/
@@ -90,7 +92,7 @@ presentations:
   location: Fermilab
   focus-area:
   - as
-  project:
+  project: null
 - title: Summary of the 'Analysis Description Languages for the LHC' workshop
   date: 2019-05-09
   meeting: LPC Physics Forum
@@ -99,7 +101,7 @@ presentations:
   location: Fermilab
   focus-area:
   - as
-  project:
+  project: null
 - title: Pattern matching for decay trees
   date: 2019-05-22
   meeting: IRIS-HEP Topical Meetings
@@ -108,7 +110,7 @@ presentations:
   url: https://indico.cern.ch/event/820598/#2-pattern-matching-for-decay-t
   focus-area:
   - as
-  project:
+  project: null
 - title: Scientific Python and Uproot HATS
   date: 2019-05-28
   meeting: 'LPC HATS: Hands-on Training for CMS'
@@ -119,6 +121,7 @@ presentations:
   - as
   project:
   - uproot
+  - scikit-hep
 - title: Columnar Analysis Tools HATS
   date: 2019-05-29
   meeting: 'LPC HATS: Hands-on Training for CMS'
@@ -129,7 +132,8 @@ presentations:
   - as
   project:
   - awkward
-- title: Numpy, Pandas, PyROOT, and Uproot
+  - scikit-hep
+- title: NumPy, Pandas, PyROOT, and Uproot
   date: 2019-06-10
   meeting: U.S. ATLAS Software Training at Argonne National Lab
   meetingurl: https://indico.cern.ch/event/811577/
@@ -139,6 +143,7 @@ presentations:
   - as
   project:
   - uproot
+  - scikit-hep
 - title: 'Uproot: accessing ROOT data in the scientific Python ecosystem'
   date: 2019-06-18
   meeting: 3rd CMS Machine Learning Workshop
@@ -149,6 +154,7 @@ presentations:
   - as
   project:
   - uproot
+  - scikit-hep
 - title: Update on awkward-array, uproot, and related projects
   date: 2019-06-19
   meeting: Analysis Systems Topical Workshop
@@ -160,6 +166,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: Motivation and requirements for awkward 1.0
   date: 2019-07-10
   meeting: Analysis Systems Biweekly Meeting
@@ -180,7 +187,7 @@ presentations:
   focus-area:
   - as
   - ssc
-  project:
+  project: null
 - title: 'IRIS-HEP Tutorial: Fast columnar data analysis with data science tools'
   date: 2019-07-29
   meeting: Division of Particles and Fields (DPF) of the American Physical Society
@@ -194,6 +201,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: Jagged, ragged, awkward arrays
   date: 2019-09-14
   meeting: Strange Loop 2019
@@ -214,6 +222,7 @@ presentations:
   - as
   project:
   - awkward
+  - scikit-hep
 - title: Ragged, jagged, nested, indirected, very awkward arrays
   date: 2019-11-07
   meeting: CHEP 2019
@@ -234,6 +243,7 @@ presentations:
   - as
   project:
   - awkward
+  - scikit-hep
 - title: Uproot and Awkward Array tutorials for the Electron Ion Collider
   date: 2020-04-08
   meeting: Electron Ion Collider User's meeting
@@ -244,7 +254,9 @@ presentations:
   - as
   - ssc
   project:
+  - uproot
   - awkward
+  - scikit-hep
 - title: Uproot Awkward columnar HATS
   date: 2020-06-08
   url: https://github.com/jpivarski/2020-06-08-uproot-awkward-columnar-hats#readme
@@ -257,6 +269,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: 'Awkward Array: Manipulating JSON like Data with NumPy like Idioms'
   date: 2020-07-05
   url: https://youtu.be/WlnUF3LRBj4
@@ -279,6 +292,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: Measuring Python adoption by CMS physicists using GitHub API
   date: 2020-08-11
   url: https://indico.fnal.gov/event/43829/contributions/193602/
@@ -288,6 +302,7 @@ presentations:
   focus-area:
   - as
   project:
+  - scikit-hep
 - title: Future of User Analysis
   date: 2020-10-01
   url: https://indico.cern.ch/event/958432/
@@ -299,6 +314,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: 'Access & Manipulation of Complex Data Structures: Uproot & Awkward Array'
   date: 2020-10-26
   url: https://indico.cern.ch/event/960587/contributions/4070318/
@@ -310,6 +326,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: Survey and status of Pythonic HEP analysis tools
   date: 2020-11-20
   url: https://indico.cern.ch/event/971994/contributions/4106679/
@@ -319,6 +336,7 @@ presentations:
   focus-area:
   - as
   project:
+  - scikit-hep
 - title: PyHEP Numba tutorial
   date: 2021-02-03
   url: https://github.com/jpivarski-talks/2021-02-03-pyhep-numba-tutorial
@@ -328,7 +346,7 @@ presentations:
   focus-area:
   - as
   - ssc
-  project:
+  project: null
 - title: Pythonic Data Science
   date: 2021-05-04
   url: https://github.com/jpivarski-talks/2021-05-04-hllhc-workshop
@@ -338,6 +356,7 @@ presentations:
   focus-area:
   - as
   project:
+  - scikit-hep
 - title: 'AwkwardForth: accelerating Uproot with an internal DSL'
   date: 2021-05-19
   url: https://indico.cern.ch/event/948465/contributions/4324131/
@@ -377,7 +396,7 @@ presentations:
   location: online
   focus-area:
   - as
-  project:
+  project: null
 - title: Uproot Awkward Columnar HATS
   date: 2021-06-14
   url: https://github.com/jpivarski-talks/2021-06-14-uproot-awkward-columnar-hats
@@ -389,6 +408,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: Uproot/Awkward Array tutorial
   date: 2021-07-06
   url: https://indico.cern.ch/event/1019958/contributions/4430420/
@@ -400,6 +420,7 @@ presentations:
   project:
   - uproot
   - awkward
+  - scikit-hep
 - title: Awkward Array 3-minute update
   date: 2021-07-14
   url: https://youtu.be/hvHedn8bORU?t=1221
@@ -421,6 +442,7 @@ presentations:
   project:
   - awkward
   - uproot
+  - scikit-hep
 - title: Awkward suggestions for the Julia Workshop
   date: 2021-09-27
   url: https://github.com/jpivarski-talks/2021-09-27-julia-workshop-awkward
@@ -429,7 +451,8 @@ presentations:
   location: online
   focus-area:
   - as
-  project: null
+  project:
+  - awkward
 - title: Lessons learned in Python-C++ integration
   date: 2021-12-01
   url: https://indico.cern.ch/event/855454/contributions/4605044/
@@ -449,3 +472,31 @@ presentations:
   focus-area:
   - as
   project: null
+- title: History and Adoption of Programming Languages in NHEP
+  date: 2022-02-08
+  url: https://indico.jlab.org/event/505/#1-history-and-adoption-of-prog
+  meeting: JLab Software and Computing Round Table
+  meetingurl: https://www.jlab.org/software-and-computing-round-table
+  location: online
+  focus-area:
+  - as
+  project: null
+- title: Metrics of computing trends in NHEP
+  date: 2022-03-21
+  url: https://github.com/jpivarski-talks/2022-03-21-reload-stats-of-physicists
+  meeting: IRIS-HEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/1138009/
+  location: online
+  focus-area:
+  - as
+  project: null
+- title: Awkward Array Updates
+  date: 2022-04-06
+  url: https://github.com/jpivarski-talks/2022-04-06-pyhep-awkward-update
+  meeting: PyHEP Topical Meeting
+  meetingurl: https://indico.cern.ch/event/1140031/
+  location: online
+  focus-area:
+  - as
+  project:
+  - awkward

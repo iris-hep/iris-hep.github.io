@@ -15,7 +15,7 @@ decays of B mesons, and stringent constraints on many viable
 theories of physics beyond the Standard Model demonstrate the
 great scientific value of the LHC physics program. The next phase
 of this global scientific project will be the High-Luminosity LHC
-(HL-LHC) which will collect data starting circa 2026 and continue
+(HL-LHC) which will collect data starting circa 2027 and continue
 into the 2030's.  The primary science goal is to search for physics
 beyond the Standard Model and, should it be discovered, to study its details
 and implications.  During the HL-LHC era, the ATLAS and CMS experiments
@@ -31,7 +31,7 @@ data is critical to maximize the return-on-investment in the
 upgraded accelerator and detectors. -->
 
 
-IRIS-HEP is as an
+IRIS-HEP is an
 active center for software R&D, functions as an intellectual hub for the larger
 community-wide software R&D efforts, and aims to transform the operational
 services required to ensure the success of the HL-LHC scientific program.
@@ -82,10 +82,10 @@ by the NSF-funded [S2I2-HEP Institute Conceptualization Project](http://s2i2-hep
 scientists and engineers from around the world were involved in building this community vision. -->
 This project advances the objectives of the [National Strategic Computing Initiative (NSCI)](https://www.nsf.gov/cise/nsci/) and the objectives of ["Harnessing the Data Revolution"](https://www.nsf.gov/news/special_reports/big_ideas/harnessing.jsp), one of the [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/) for Future NSF Investments.
 
-IRIS-HEP involves physicists, computer scientists and engineers from Princeton University, the Morgridge Institute for Research, the University of Washington, the University of California, Berkeley, the University of Chicago, the University of Cincinnati, Cornell University, Indiana University, MIT, the University of Michigan-Ann Arbor, the University of Nebraska-Lincoln, New York University, Stanford University, the University of California, Santa Cruz, the University of California, San Diego, the University of Illinois at Urbana-Champaign, the University of Puerto Rico - Mayaguez and the University of Wisconsin-Madison. It is headquartered in the [Princeton Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu/about/about-picscie) at Princeton University.
+IRIS-HEP involves physicists, computer scientists and engineers from Princeton University, the Morgridge Institute for Research, the University of Washington, the University of California, Berkeley, the University of Chicago, the University of Cincinnati, Cornell University, Indiana University, MIT, the University of Michigan-Ann Arbor, the University of Nebraska-Lincoln, New York University, the University of Notre Dame, Stanford University, the University of California, Santa Cruz, the University of California, San Diego, the University of Illinois at Urbana-Champaign, the University of Puerto Rico - Mayaguez and the University of Wisconsin-Madison. It is headquartered in the [Princeton Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu/about/about-picscie) at Princeton University.
 
 <a href="/assets/images/iris-hep-map.png">
-<img alt="IRIS-HEP Institutions Map" src="/assets/images/iris-hep-map.png" style="width:100%;height:auto;"/>
+<img alt="IRIS-HEP Institutions Map" src="/assets/images/iris-hep-map-year4.png" style="width:100%;height:auto;"/>
 </a>
 
 Several technical projects served as precursors to IRIS-HEP; these all had

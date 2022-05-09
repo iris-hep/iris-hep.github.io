@@ -167,7 +167,7 @@ presentations:
   location: Princeton University
   focus-area: ssc
   project:
-- title: Python, Numpy, and Pandas
+- title: Python, NumPy, and Pandas
   date: 2020-01-28
   meeting: Princeton Research Data Management Workshop 2020
   url: https://library.princeton.edu/news/research-data-service/2019-12-05/research-data-management-workshop-graduate-students-jan-27-29
@@ -310,3 +310,62 @@ presentations:
   project: histogram
   location: Virtual
   video: https://youtu.be/l3TuzZpPewY?t=1325
+- title: Mixing Python and Compiled Codes
+  date: 2021-11-16
+  url: https://github.com/henryiii/python-compiled-minicourse/tree/2021-11-16-pu
+  meeting: Princeton Research Computing Fall 2021 Workshop
+  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/fall-2021-workshop-materials
+  focus-area: ssc
+  project:
+  location: Princeton University
+- title: Python histogram developments (poster)
+  date: 2021-12-01
+  url: https://indico.cern.ch/event/855454/contributions/4605013/
+  meeting: ACAT 2021
+  meetingurl: https://indico.cern.ch/event/855454/
+  focus-area: as
+  project: histogram
+- title: Level Up Your Python
+  date: 2022-01-10
+  url: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/wintersession-2022-workshop-materials
+  meetingurl: https://winter.princeton.edu
+  meeting: Princeton Wintersession
+  focus-area: ssc
+  project:
+  location: Virtual
+
+- title: 'Building a Binary Extension'
+  date: 2022-04-29
+  url: https://us.pycon.org/2022/schedule/presentation/57/
+  meeting: PyCon US 2022
+  meetingurl: https://us.pycon.org/2022/
+  focus-area: as
+  project:
+  location: Salt Lake City, UT
+
+- title: 'Scikit-HEP Developer Pages: Guidelines for modern packaging'
+  date: 2022-04-30
+  url: https://www.slideshare.net/HenrySchreiner/pycon-2022-scikithep-developer-pages-guidelines-for-modern-packaging
+  meeting: PyCon US 2022 Lightning talks
+  meetingurl: https://us.pycon.org/2022/
+  focus-area: as
+  project:
+  location: Salt Lake City, UT
+
+- title: 'High-performance Python: CPUs'
+  date: 2022-04-26
+  url: https://researchcomputing.princeton.edu/events/2022/high-performance-python-gpus
+  meeting: Princeton Research Computing Training Series
+  meetingurl: https://researchcomputing.princeton.edu/education/training
+  focus-area: ssc
+  project:
+  location: Virtual
+
+- title: 'High-performance Python: GPUs'
+  date: 2022-05-03
+  url: https://researchcomputing.princeton.edu/events/2022/high-performance-python-gpus
+  meeting: Princeton Research Computing Training Series
+  meetingurl: https://researchcomputing.princeton.edu/education/training
+  focus-area: ssc
+  project:
+  location: Virtual

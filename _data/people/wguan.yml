@@ -121,3 +121,24 @@ presentations:
   url: https://indico.cern.ch/event/1034469/contributions/4434634/
   focus-area: doma
   project: idds
+- title: An intelligent Data Delivery Service (iDDS) for and beyond the ATLAS experiment
+  date: 2022-01-10
+  meeting: 30th International Symposium on Lepton Photon Interactions at High Energies
+  meetingurl: https://indico.cern.ch/event/949705/
+  url: https://indico.cern.ch/event/949705/contributions/4555786/
+  focus-area: doma
+  project: idds
+- title: REANA / PanDA integration for active learning
+  date: 2022-03-03
+  meeting: ADC WFMS weekly meeting
+  meetingurl: https://indico.cern.ch/event/1134581/
+  url: https://indico.cern.ch/event/1134581/contributions/4760286/subcontributions/370516/attachments/2401457/4107202/WFMS20220303.pdf
+  focus-area: doma
+  project: idds
+- title: Monte Carlo Toy Based Confidence Limits with iDDS (presented by Christian Weber)
+  date: 2022-03-03
+  meeting: ADC WFMS weekly meeting
+  meetingurl: https://indico.cern.ch/event/1134581/
+  url: https://indico.cern.ch/event/1134581/contributions/4760286/subcontributions/370515/attachments/2401071/4106928/2022-03-03%20-%20iDDS%20-%20MC%20toy%20limits%20-%20Drat%201.pdf
+  focus-area: doma
+  project: idds

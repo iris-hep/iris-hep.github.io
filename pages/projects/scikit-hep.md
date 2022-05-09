@@ -7,6 +7,8 @@ pagetype: project
 image: logos/skhep-logo.svg
 logowidth: 30%
 blurb: Pythonic analysis tools
+maturity: Deployed
+maturity-note:
 focus-area: as
 team:
  - jpivarski
@@ -19,9 +21,8 @@ For what concerns the project grand structure, it should be seen as a toolset ra
 
 Scikit-HEP should be seen as a toolset of Python packages. The project defines a set of five pillars, which are seen to embrace all major topics involved in a physicist’s work. These are:
 
-   * **Datasets**: data in various sources, such as ROOT, Numpy/Pandas, databases, wrapped in a common interface.
+   * **Datasets**: data in various sources, such as ROOT, NumPy/Pandas, databases, wrapped in a common interface.
    * **Aggregations**: e.g. histograms that summarize or project a dataset.
    * **Modeling**: data models and fitting utilities.
    * **Simulation**: wrappers for Monte Carlo engines and other generators of simulated data.
    * **Visualization**: interface to graphics engines, from ROOT and Matplotlib to even beyond.
-

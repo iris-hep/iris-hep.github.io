@@ -8,6 +8,41 @@ shortname: mmasciov
 title:
 website: https://github.com/mmasciov
 presentations:
+- title: 'mkFit status report'
+  meeting: Tracker General Meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/1142469
+  url: https://indico.cern.ch/event/1142469/contributions/4800060/attachments/2416352/4134911/mkFit_TRKPOG_28March2022.pdf
+  date: 2022-03-28
+  focus-area: ia
+  project: mkfit
+- title: 'Status of the mkFit project'
+  meeting: Tracker General Meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/1131184/
+  url: https://indico.cern.ch/event/1131184/contributions/4746722/
+  date: 2022-03-07
+  focus-area: ia
+  project: mkfit
+- title: 'mkFit status report'
+  meeting: Tracking POG Meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/1128089/
+  url: https://indico.cern.ch/event/1128089/contributions/4735248/
+  date: 2022-02-14
+  focus-area: ia
+  project: mkfit
+- title: 'mkFit technical performance update'
+  meeting: PPD general meeting (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/1109430/
+  url: https://indico.cern.ch/event/1109430/contributions/4670667/
+  date: 2022-01-06
+  focus-area: ia
+  project: mkfit
+- title: 'mkFit overview'
+  meeting: CMS week plenary (CMS restricted)
+  meetingurl: https://indico.cern.ch/event/1094267/
+  url: https://indico.cern.ch/event/1094267/contributions/4642401/
+  date: 2021-12-10
+  focus-area: ia
+  project: mkfit
 - title: 'mkFit: status report'
   meeting: Tracking POG meeting (CMS restricted)
   meetingurl: https://indico.cern.ch/event/1098365

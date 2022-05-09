@@ -1,0 +1,15 @@
+open: yes
+postdate: 2022-02-15
+title: Optimization of a Higgs to Diphoton NanoAOD (HiggsDNA) framework
+description: >
+  The Higgs to Diphoton NanoAOD framework is a python-based analysis
+  framework for Higgs to diphoton physics in CMS which utilizes
+  columnar packages like awkward array. Depending on interest and
+  skill set, a student could perform studies in performance optimization
+  of the code, develop new tools for visualizing and summarizing the
+  outputs of the code, or develop tools for training and integrating
+  machine learning algorithms within the framework. The student
+  should have experience with version control tools (Gitlab/Github),
+  linux, and python (especially numpy, xgboost, or tensorflow).
+contacts:
+- "[Indara Suarez](mailto:indara.mayeli.suarez.silva@cern.ch)"

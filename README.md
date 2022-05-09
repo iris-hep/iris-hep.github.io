@@ -1,6 +1,6 @@
 [![CI](https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml/badge.svg)](https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml)
 
-Is this badge red? Click on it to find whats wrong with the repository...
+Is this badge red? Click on it to find out what's wrong with the repository...
 
 # iris-hep.org Website Source
 

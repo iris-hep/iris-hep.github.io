@@ -184,6 +184,7 @@ module Publications
       pub['date'] = str_to_date(pub['date'], recid) unless pub['date'].is_a? Date
 
       pub['citation-count'] ||= data['citation_count']
+      pub['citation-count-no-self'] ||= data['citation_count_without_self_citations']
 
       # Make the author list, for eventual linking to author pages
       authors = data['authors'].map do |a|
@@ -216,7 +217,10 @@ module Publications
     def load_from_cache(pub, fname)
       return false unless fname.exist?
 
-      f = YAML.load_file fname
+      f = File.open(fname, 'r:bom|utf-8') do |fi|
+        YAML.safe_load(fi, filename: fname, permitted_classes: [Date])
+      end
+
       pub.map do |key, value|
         oldvalue = f[key]
         return false unless oldvalue == value

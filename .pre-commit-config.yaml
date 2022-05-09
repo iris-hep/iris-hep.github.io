@@ -1,6 +1,6 @@
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.1.0
+  rev: v4.2.0
   hooks:
   - id: check-added-large-files
   - id: mixed-line-ending
@@ -11,8 +11,33 @@ repos:
   - id: check-yaml
 
 - repo: https://github.com/Lucas-C/pre-commit-hooks
-  rev: v1.1.10
+  rev: v1.1.13
   hooks:
   - id: remove-crlf
   - id: forbid-tabs
     exclude_types: [svg]
+
+- repo: local
+  hooks:
+  - id: data-filenames
+    files: ^_data/.*(?<!\.yml)$
+    name: Force _data files to be .yml
+    entry: files in _data must end in .yml
+    language: fail
+
+- repo: https://github.com/codespell-project/codespell
+  rev: v2.1.0
+  hooks:
+   - id: codespell
+     exclude: (^Gemfile.lock|\.js|\.map)$
+     args: ["-L", "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi"]
+
+- repo: local
+  hooks:
+  - id: disallow-caps
+    name: Disallow improper capitalization
+    language: pygrep
+    entry: PyBind|Numpy|Cmake|CCache|PyTest|UpRoot|UpROOT
+    exclude: .pre-commit-config.yaml
+
+

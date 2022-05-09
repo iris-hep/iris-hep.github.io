@@ -662,13 +662,6 @@ presentations:
   meetingurl: https://physical-reasoning.github.io
   focus-area: as
   location: Virtual
-- title: "Causality at the intersection of simulation, inference, science, and learning"
-  date: 2021-12-15
-  url: https://physical-reasoning.github.io/speakers/
-  meeting: "Understanding the nature of Inference: Correlation and Causation. The Franke Program in Science ant the Humanities"
-  meetingurl: https://inferenceproject.yale.edu/colloquium-series
-  focus-area: as
-  location: Yale (Virtual)
 - title: "Incorporating uncertainty at the LHC"
   date: 2021-12-15
   url: https://indico.frib.msu.edu/event/47/contributions/520/
@@ -676,4 +669,27 @@ presentations:
   meetingurl: https://indico.frib.msu.edu/event/47/overview
   focus-area: as
   location:  Michigan State University (Virtual)
+- title: "Accelerating Simulation-based Inference"
+  date: 2022-02-07
+  url: https://indico.cern.ch/event/1122207/
+  meeting: "Seminar for A3D3 (Accelerated Artificial Intelligence Algorithms for Data-Driven Discovery)"
+  meetingurl: https://indico.cern.ch/event/1122207/
+  video: https://youtu.be/3ULdEHaAWJQ
+  focus-area: as
+  location: (Virtual)
+- title: "Vignettes in physics-inspired AI research"
+  date: 2022-02-18
+  url: https://iaifi.org/events.html
+  meeting:  NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) Public Colloquia
+  meetingurl: https://iaifi.org/events.html
+  video: https://youtu.be/hGup1Yv7Ajk
+  focus-area: as
+  location: MIT + Virtual
+- title: "Causality at the intersection of simulation, inference, science, and learning"
+  date: 2022-03-08
+  url: https://physical-reasoning.github.io/speakers/
+  meeting: "Understanding the nature of Inference: Correlation and Causation. The Franke Program in Science ant the Humanities"
+  meetingurl: https://inferenceproject.yale.edu/colloquium-series
+  focus-area: as
+  location: Yale (Virtual)
 

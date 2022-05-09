@@ -3,14 +3,16 @@ name: CI
 on:
   pull_request:
 
+concurrency:
+  group: test-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   website:
     runs-on: ubuntu-latest
-    steps:
 
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
+    steps:
+    - uses: actions/checkout@v3
 
     - name: Prepare to build site
       uses: ./.github/actions/prepare-build-site
@@ -24,5 +26,4 @@ jobs:
       run: bundle exec rake build
       env:
         JEKYLL_ENV: production
-        INDICO_API_KEY: ${{ secrets.INDICO_API_KEY }}
-        INDICO_SECRET_KEY: ${{ secrets.INDICO_SECRET_KEY }}
+        INDICO_TOKEN: ${{ secrets.INDICO_TOKEN }}

@@ -1,7 +1,7 @@
 Layout/LineLength:
   Max: 120
 Metrics/MethodLength:
-  Max: 30
+  Max: 32
 Style/NumericLiterals:
   Enabled: false
 Metrics/AbcSize:
@@ -14,4 +14,4 @@ Metrics/CyclomaticComplexity:
   Max: 12
 AllCops:
   NewCops: enable
-  TargetRubyVersion: 2.4
+  TargetRubyVersion: 2.6

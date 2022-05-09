@@ -48,3 +48,27 @@ presentations:
   location:
   project: pv-finder
   focus-area: ia
+- title: "CKF parameter tuning studies"
+  date: 2022-02-25
+  url: https://indico.cern.ch/event/1132631/contributions/4752678/attachments/2397574/4099722/CKF%20Parameter%20Tuning%20Studies.pdf
+  meeting: ACTS Machine Learning Meeting
+  meetingurl: https://indico.cern.ch/event/1132631/
+  project: acts
+  focus-area: ia
+  location: CERN
+- title: "Parameter optimization using machine learning algorithms within ACTS framework"
+  date: 2022-04-27
+  url: https://indico.cern.ch/event/1140360/
+  meeting: IRIS-HEP IA presentations
+  meetingurl: https://indico.cern.ch/event/1140360/
+  project: acts
+  focus-area: ia
+  location: CERN
+- title: "ACTS/ITk Parameter Optimization"
+  date: 2022-05-04
+  url: https://indico.cern.ch/event/1156289/contributions/4855699/attachments/2437478/4174838/UpgradeTracking_May4th_CTDplotapproval.pdf
+  meeting: Upgrade Tracking Meeting
+  meetingurl: https://indico.cern.ch/event/1156289/
+  project: acts
+  focus-area: ia
+  location: CERN

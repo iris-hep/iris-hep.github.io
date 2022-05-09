@@ -50,7 +50,7 @@
         {% endfor %}
 
 
-        <b>Presentations</b>
+        <b>Presentations and Publications</b>
         <ul>
           {% for presentation in page.presentations %}
             {% assign prettydate = presentation.date | date: "%-d %b %Y" %}
@@ -69,15 +69,25 @@
         <br>
 
         <b>Contact me:</b><br>
-        <ul>
+        <ul class="list-unstyled">
           {% if page.e-mail.size > 4 %}
           <li>
-            <a href = "mailto:{{page.e-mail}}">Send me an email</a><br>
+            <i class="fas fa-envelope-square"></i><a href = "mailto:{{page.e-mail}}"> Send me an email</a><br>
           </li>
           {% endif %}
           {% if page.website.size > 4 %}
           <li>
-            <a href = {{page.website}}>Visit my website</a><br>
+            <i class="fas fa-link"></i><a href = {{page.website}}> Visit my website</a><br>
+          </li>
+          {% endif %}
+          {% if page.github-username.size > 4 %}
+          <li>
+            <i class="fab fa-github"></i><a href = "https://github.com/{{page.github-username}}"> Visit my GitHub Repo</a><br>
+          </li>
+          {% endif %}
+          {% if page.linkedin-profile.size > 4 %}
+          <li>
+            <i class="fab fa-linkedin"></i><a href = "{{page.linkedin-profile}}"> Visit my LinkedIn Profile</a><br>
           </li>
           {% endif %}
         </ul>

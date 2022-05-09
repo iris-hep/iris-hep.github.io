@@ -1,0 +1,14 @@
+open: yes
+postdate:
+title: Scaling HTTP caching with Kubernetes
+description: >
+  The Open Science Grid (OSG) offers an integrated software stack and
+  infrastructure used by the High-Energy Physics community to meet
+  their computational needs. Frontier Squid is part of this software
+  stack and acts as an HTTP proxy, caching requests to improve network
+  usage.  We seek a fellow to turn our existing single cache
+  deployment into one that can scale horiontally using the same
+  underlying storage for its cache.
+contacts:
+- brianhlin
+- matyasselmeci
