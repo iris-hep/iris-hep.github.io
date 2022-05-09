@@ -30,7 +30,7 @@ presentations:
   meeting: Snowmass Computing Frontier Kickoff Meeting
   location: Virtual
   focus-area: ssc
-- title: Accelerated Pixed Detector Tracklet Finding with GNNs on FPGAS
+- title: Accelerated Pixel Detector Tracklet Finding with GNNs on FPGAS
   date: 2020-10-21
   url: https://indico.cern.ch/event/852553/contributions/4058173/
   meeting: 4th Annual Inter-Experiment Machine Learning Workshop
@@ -100,7 +100,7 @@ presentations:
 - title: "Generative Adversarial Network (GAN)"
   date: 2021-07-30
   url: https://indico.cern.ch/event/1045606/contributions/4470869/
-  meeting: "2021 CMS Machine Learning Town Hall"
+  meeting: "Machine Learning HATS@LPC"
   meetingurl: https://indico.cern.ch/event/1045606
   focus-area: ia
   project: accel-gnn-tracking
@@ -111,5 +111,56 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071864
   focus-area: ia
   project: accel-gnn-tracking
-
+- title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
+  date: 2022-03-22
+  url: https://indico.cern.ch/event/1142769/contributions/4795043/attachments/2412395/4128310/cms_rd_march22.pdf
+  meeting: "US CMS HL-LHC R&D Meeting (CMS Internal)"
+  meetingurl: https://indico.cern.ch/event/1142769/
+  focus-area: ia
+  project: accel-gnn-tracking
+  - title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
+  date: 2022-03-08
+  url: https://www.youtube.com/watch?v=T4ApaGbPN-A
+  meeting: "Imperial College Data Learning Working Group"
+  meetingurl: https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning
+  focus-area: ia
+  project: accel-gnn-tracking
+    - title: "Interpretable AI In Physics"
+  date: 2022-05-05
+  url: http://www.birs.ca/app/webroot/workshops/2022/22w5055/files/Savannah%20Thais/
+  meeting: "BIRS Interpretability in AI Workshop"
+  meetingurl: https://www.youtube.com/watch?v=T4ApaGbPN-A
+  focus-area: ia
+      - title: "Physicists and AI Ethics"
+  date: 2021-03-17
+  url: https://meetings.aps.org/Meeting/MAR21/Session/L09.4
+  meeting: "APS March Meeting"
+  meetingurl: https://meetings.aps.org/Meeting/MAR21/Session/L09
+  focus-area: ssc
+        - title: "Science Responds and CII: Big Data  and Open Science to Combat the Pandemic"
+  date: 2021-03-17
+  url: https://meetings.aps.org/Meeting/MAR21/Session/P01.1
+  meeting: "APS March Meeting"
+  meetingurl: https://meetings.aps.org/Meeting/MAR21/Session/P01
+  focus-area: ssc
+    - title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
+  date: 2021-04-09
+  url: https://mlsys.org/virtual/2021/workshop/1642
+  meeting: "MLSys Workshop of Graph Neural Networks and Systems"
+  meetingurl: https://mlsys.org/virtual/2021/workshop/1642
+  focus-area: ia
+  project: accel-gnn-tracking
+      - title: "Representation Workshop Summary"
+  date: 2022-04-08
+  url: https://indico.ijclab.in2p3.fr/event/5999/contributions/25965/attachments/18789/25271/ltd_representation_summary.pdf
+  meeting: "Learning to Discover"
+  meetingurl: https://indico.ijclab.in2p3.fr/event/5999/
+  focus-area: ia
+  project: accel-gnn-tracking
+        - title: "AI Ethics: What Physicists Need to Know"
+  date: 2021-07-22
+  url: https://indico.fnal.gov/event/49647/contributions/218113/attachments/145446/185176/snowmass_impactskickoff_aiethics.pdf
+  meeting: "Snowmass Societal and Environmental Impacts Group Kick Off Town Hall"
+  meetingurl: https://indico.fnal.gov/event/49647/
+  focus-area: ssc
 
