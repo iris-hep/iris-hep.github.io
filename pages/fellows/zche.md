@@ -6,7 +6,7 @@ active: false
 title: Zora Che - IRIS-HEP Fellow
 fellow-name: Zora Che
 project_title: Scaling Coffea-Casa Analysis Facility
-focus-area:
+focus-area: doma
 dates:
   start: 2021-01-01
   end: 2021-05-31

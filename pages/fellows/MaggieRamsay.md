@@ -8,7 +8,7 @@ title: Maggie Ramsay - IRIS-HEP Fellow
 fellow-name: Maggie Ramsay
 project_title: "Continuous Testing of Facility\u2019s Functionality Including Data\
   \ Delivery Services Available in Coffea-Casa Analysis Facility"
-focus-area:
+focus-area: doma
 dates:
   start: 2021-06-01
   end: 2021-08-31

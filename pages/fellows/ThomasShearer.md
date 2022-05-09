@@ -6,7 +6,7 @@ active: false
 title: Thomas Shearer - IRIS-HEP Fellow
 fellow-name: Thomas Shearer
 project_title: Improving the User Interface to OSG-LHC Network Metrics
-focus-area:
+focus-area: osglhc
 dates:
   start: 2020-05-01
   end: 2020-08-31
