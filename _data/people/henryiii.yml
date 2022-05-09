@@ -369,3 +369,12 @@ presentations:
   focus-area: ssc
   project:
   location: Virtual
+
+- title: "ROOT: Homebrew and Pip plans"
+  date: 2022-05-10
+  url: https://indico.fnal.gov/event/23628/contributions/237971
+  meeting: ROOT user's workshop
+  meetingurl: https://indico.fnal.gov/event/23628
+  focus-area: as
+  project: rootconda
+  location: Fermilab (virtual)
