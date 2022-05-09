@@ -118,46 +118,46 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1142769/
   focus-area: ia
   project: accel-gnn-tracking
-  - title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
+- title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
   date: 2022-03-08
   url: https://www.youtube.com/watch?v=T4ApaGbPN-A
   meeting: "Imperial College Data Learning Working Group"
   meetingurl: https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning
   focus-area: ia
   project: accel-gnn-tracking
-    - title: "Interpretable AI In Physics"
+- title: "Interpretable AI In Physics"
   date: 2022-05-05
   url: http://www.birs.ca/app/webroot/workshops/2022/22w5055/files/Savannah%20Thais/
   meeting: "BIRS Interpretability in AI Workshop"
   meetingurl: https://www.youtube.com/watch?v=T4ApaGbPN-A
   focus-area: ia
-      - title: "Physicists and AI Ethics"
+- title: "Physicists and AI Ethics"
   date: 2021-03-17
   url: https://meetings.aps.org/Meeting/MAR21/Session/L09.4
   meeting: "APS March Meeting"
   meetingurl: https://meetings.aps.org/Meeting/MAR21/Session/L09
   focus-area: ssc
-        - title: "Science Responds and CII: Big Data  and Open Science to Combat the Pandemic"
+- title: "Science Responds and CII: Big Data  and Open Science to Combat the Pandemic"
   date: 2021-03-17
   url: https://meetings.aps.org/Meeting/MAR21/Session/P01.1
   meeting: "APS March Meeting"
   meetingurl: https://meetings.aps.org/Meeting/MAR21/Session/P01
   focus-area: ssc
-    - title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
+- title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
   date: 2021-04-09
   url: https://mlsys.org/virtual/2021/workshop/1642
   meeting: "MLSys Workshop of Graph Neural Networks and Systems"
   meetingurl: https://mlsys.org/virtual/2021/workshop/1642
   focus-area: ia
   project: accel-gnn-tracking
-      - title: "Representation Workshop Summary"
+- title: "Representation Workshop Summary"
   date: 2022-04-08
   url: https://indico.ijclab.in2p3.fr/event/5999/contributions/25965/attachments/18789/25271/ltd_representation_summary.pdf
   meeting: "Learning to Discover"
   meetingurl: https://indico.ijclab.in2p3.fr/event/5999/
   focus-area: ia
   project: accel-gnn-tracking
-        - title: "AI Ethics: What Physicists Need to Know"
+- title: "AI Ethics: What Physicists Need to Know"
   date: 2021-07-22
   url: https://indico.fnal.gov/event/49647/contributions/218113/attachments/145446/185176/snowmass_impactskickoff_aiethics.pdf
   meeting: "Snowmass Societal and Environmental Impacts Group Kick Off Town Hall"
