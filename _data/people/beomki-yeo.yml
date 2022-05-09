@@ -69,3 +69,27 @@ presentations:
   project: acts
   focus-area: ia
   location: CERN
+- title: Parallelisation in ACTS
+  date: 2022-03-09
+  url: https://indico.cern.ch/event/1073640/contributions/4515387/attachments/2404989/4113828/220309_Computer_Accelerator_forum.pdf
+  meeting: Compute Accelerator Forum / HSF Reconstruction and Software Triggers
+  meetingurl: https://indico.cern.ch/event/1073640/
+  project: acts
+  focus-area: ia
+  location: CERN  
+- title: Future development plan
+  date: 2022-03-18
+  url: https://indico.cern.ch/event/1140956/contributions/4787579/attachments/2410721/4125039/220318_development_plan.pdf
+  meeting: ACTS Parallelization Meeting
+  meetingurl: https://indico.cern.ch/event/1140956/
+  project: acts
+  focus-area: ia
+  location: CERN  
+- title: Matrix operations in algebra-plugins
+  date: 2022-04-01
+  url: https://indico.cern.ch/event/1145150/contributions/4806794/attachments/2419814/4141720/220401_matrix_algebra.pdf
+  meeting: ACTS Parallelization Meeting
+  meetingurl: https://indico.cern.ch/event/1145150/
+  project: acts
+  focus-area: ia
+  location: CERN
