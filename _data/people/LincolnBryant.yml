@@ -26,3 +26,9 @@ presentations:
   meeting: K8s-HEP Meetup ('Chicagoland')
   meetingurl: https://indico.cern.ch/event/882955/
   focus-area: ssl
+- title: Kubernetes at UChicago: PATh, IRIS-HEP Scalable Systems Lab, U.S. ATLAS, and SLATE
+  date: 2022-03-16
+  url: https://indico.fnal.gov/event/53029/contributions/236167/attachments/153085/198558/AHM22-Day3-LBryant-K8S-UChicago.pdf
+  meeting: OSG All-Hands Meeting 2022
+  meetingurl: https://indico.fnal.gov/event/53029/
+  focus-area: ssl
