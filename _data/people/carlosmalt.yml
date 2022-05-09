@@ -178,6 +178,7 @@ presentations:
 - title: Ceph
   date: 2021-10-26
   meeting: DPS Guest Lecture at LIACS, Leiden University
+  meetingurl: https://studiegids.universiteitleiden.nl/courses/102457/distributed-data-processing-systems
   url: https://drive.google.com/file/d/11H_Z8H94xHuKmXMJh_9RYWsi76zXrvSL/view?usp=sharing
   focus-area: doma
   project: skyhookdm
