@@ -10,3 +10,13 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+- title: Awkward Array to RDataFrame and back
+  date: 2022-05-10
+  url: https://indico.fnal.gov/event/23628/contributions/240305/
+  meeting: ROOT Users Workshop
+  meetingurl: https://indico.fnal.gov/event/23628/
+  location: online
+  focus-area:
+  - as
+  project:
+  - awkward
