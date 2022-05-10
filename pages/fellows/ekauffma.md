@@ -17,7 +17,7 @@ project_goal: >
     PV-Finder is a hybrid deep learning algorithm which identifies primary vertices. This algorithm was developed for use in conjunction with the LHCb detector in Run 3 of the LHC, which will experience a luminosity that is 5.5 times that of Run 2. In LHCb data, the efficiency of the CNN has inreased from to 90% to past  98% over the course of the past few years. The success of PV-Finder motivates its extension to both the ATLAS and CMS experiments. This project is concerned with the adaptation of the PV-Finder algorithm to ATLAS and CMS. Difference in detector geometry, data structure, density of particle tracks, and track resolution between experiments generate enough variation to motivate a dedicated project.
 mentors:
   - Henry Schreiner (Princeton University)
-  - Mike Sokoloff (University of Cincinatti)
+  - Mike Sokoloff (University of Cincinnati)
 
 proposal: /assets/pdf/fellows-2022/006-proposal-Elliott-Kauffman.pdf
 ---
