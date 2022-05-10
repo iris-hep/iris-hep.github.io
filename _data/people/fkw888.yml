@@ -9,6 +9,78 @@ shortname: fkw888
 title: OSG-LHC Area Lead and OSG Executive Director
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 presentations:
+- title: Towards an Open Global Cyberinfrastructure Enabling Digital Research
+  date: 2022-03-29
+  url: https://cnispring2022membermtg.sched.com/event/yga8/42-towards-an-open-global-cyberinfrastructure-enabling-digital-research-invited-session
+  meeting: CNI Spring 2022 Membership Meeting
+  meetingurl: https://www.cni.org/events/membership-meetings/past-meetings/spring-2022
+  focus-area: osglhc
+  location: virtual
+  project:
+- title: Towards A National Research Platform that federates all academic Cyberinfrastructure in the USA
+  date: 2021-03-23
+  url: https://idre.ucla.edu/wp-content/uploads/2022/04/idre032422.pdf?x84502
+  meeting: Open Science Workshop, UCLA 2022
+  meetingurl: https://idre.ucla.edu/calendar-event/open-science-workshop
+  focus-area: osglhc
+  location:
+  project: osg-networking
+- title: Relationship of OSG and NRP
+  date: 2021-03-16
+  url: https://indico.fnal.gov/event/53029/contributions/236162/attachments/153057/198515/AHM22-Day3-FWuerthwein-osg-nrp-relationship031622.pdf
+  meeting: OSG All-Hands Meeting 2022
+  meetingurl: https://indico.fnal.gov/event/53029/
+  focus-area: osglhc
+  location: virtual
+  project: osg-networking
+- title: Democratizing Access to Cyberinfrastructure
+  date: 2021-03-15
+  url: https://indico.fnal.gov/event/53029/contributions/236151/attachments/152990/198405/AHM2022-Day2-FWuerthwein-DeomocratizingAccess.pdf
+  meeting: OSG All-Hands Meeting 2022
+  meetingurl: https://indico.fnal.gov/event/53029/
+  focus-area: osglhc
+  location: virtual
+  project:
+- title: State of OSG
+  date: 2021-03-14
+  url: https://indico.fnal.gov/event/53029/contributions/236142/attachments/152967/198365/AHM22-Day1-FWuerthwein-stateOfOSG2022-final.pdf
+  meeting: OSG All-Hands Meeting 2022
+  meetingurl: https://indico.fnal.gov/event/53029/
+  focus-area: osglhc
+  location: virtual
+  project:
+- title: Global Cyberinfrastructure for LIGO, Virgo, Kagra, IceCube, and others
+  date: 2021-03-12
+  url: http://www.ipam.ucla.edu/abstract/?tid=17033&pcode=GWAWS4
+  meeting: IPAM Mathematical and Computational Challenges in the Era of Gravitational Wave Astronomy
+  meetingurl: http://www.ipam.ucla.edu/programs/workshops/workshop-iv-big-data-in-multi-messenger-astrophysics/
+  focus-area: osglhc
+  location: UCLA
+  project: osg-networking
+- title: Towards a National Research Platform that federates all academic Cyberinfrastructure in the USA
+  date: 2021-10-08
+  url: http://carla2021.org/schedule/keynote/154
+  meeting: CARLA 2021
+  meetingurl: http://carla2021.org
+  focus-area: osglhc
+  location: virtual
+  project: osg-networking
+- title: Prototype National Research Platform
+  date: 2021-09-20
+  url: https://grpworkshop2021.theglobalresearchplatform.net/PDF/1-WUERTHWEIN-GRP-2021-PrototypeNRP.pdf
+  meeting: 2nd Global Research Platform Workshop
+  meetingurl: https://grpworkshop2021.theglobalresearchplatform.net/program.html
+  focus-area: osglhc
+  location: virtual
+  project: osg-networking
+- title: Big Science on PRP
+  date: 2021-06-21
+  url: https://drive.google.com/file/d/1_S9zPpf24PWnIR1IBaON5Tiq8_maCihk/view
+  meeting: Pacific Research Platform, Its Legacy and Promise - 6 Year Virtual Symposium
+  meetingurl: https://grpworkshop2021.theglobalresearchplatform.net/program.html
+  focus-area: osglhc
+  location: virtual
+  project: osg-networking
 - title: State of the OSG
   date: 2021-03-01
   url: https://indico.fnal.gov/event/47040/contributions/208345/attachments/140505/176605/stateOfOSG2021-final.pdf
