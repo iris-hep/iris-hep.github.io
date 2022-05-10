@@ -116,3 +116,15 @@ presentations:
   location: Virtual
   focus-area: as
   project: func-adl
+- title: Foundation libraries (uproot, awkward, hist, mplhep)
+  date: 2022-04-25
+  url: https://indico.cern.ch/event/1126109/contributions/4780138/
+  meeting: IRIS-HEP AGC Tools 2022 Workshop
+  meetingurl: https://indico.cern.ch/event/1126109/
+  location: Virtual
+  focus-area: as
+  project:
+  - uproot
+  - awkward
+  - vector
+  - histogram
