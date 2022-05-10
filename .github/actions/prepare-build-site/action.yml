@@ -1,5 +1,11 @@
 name: 'Build site'
 description: 'Build an IRIS-HEP style website. INDICO keys should be set, and rake should be supported.'
+inputs:
+  ruby-version:
+    description: 'Version of ruby to prepare'
+    required: false
+    default: '3.1'
+
 runs:
   using: composite
   steps:
@@ -19,7 +25,7 @@ runs:
 
   - uses: ruby/setup-ruby@v1
     with:
-      ruby-version: '2.7'
+      ruby-version: ${{ inputs.ruby-version }}
 
   - name: Install apt requirements
     shell: bash

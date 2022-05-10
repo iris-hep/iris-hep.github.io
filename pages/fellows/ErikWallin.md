@@ -6,7 +6,7 @@ active: false
 title: Erik Wallin - IRIS-HEP Fellow
 fellow-name: Erik Wallin
 project_title: zfp Compression for HEP Data
-focus-area:
+focus-area: doma
 dates:
   start: 2020-06-01
   end: 2020-08-31
