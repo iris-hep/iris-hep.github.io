@@ -23,7 +23,10 @@ team:
 
 ## Overview
 
-The key advantage of the cloud is its elasticity. This is implemented by systems that can expand and shrink resources quickly and by disaggregationg services, including compute and storage. Elasticity is also valuable for on-premise datacenters where disaggregation allows compute and storage to scale independently. This disaggregation however places greater demand on expensive top-of-rack networking resources since compute and storage nodes end up in different racks and even rows as the installation is growing. More network traffic also requires more CPU cycles to be dedicated to sending and receiving data. Therefore, disaggregation, somewhat paradoxically, amplifies the benefit of moving some compute -- the compute that involves data management -- back into storage because data management filtering operations can reduce data movement significantly.
+HL-LHC will challenge existing storage systems with regards to both data volumes and velocity: analysis datasets will grow significantly _and_ users will
+demand higher event rates to improve the time-to-insight.  The SkyHook DM project is an investment into *computational storage*, relying on the insight
+that the _data organization_ of HEP files is highly structured.  The service is able to recognize the layout of files and "push down" structured queries
+from client to server, taking advantage of the computational capacity in the storage hardware and reducing data movement significantly.
 
 Combining data management with storage also creates the opportunity for new services that can help avoid dataset copies and thereby can significantly save storage space. Data management-enabled storage systems can provide views by combining parts of multiple datasets. For HEP this means that columns from one table can be combined with columns from a different table without creating copies. For this to work, these storage systems need to store sufficient metadata and naming conventions about datasets. This makes them a natural place for maintaining this metadata and servicing it to other tools in convenient formats.
 
