@@ -21,14 +21,37 @@ team:
 
 The [OSG Operations](https://osg-htc.org/operations/) team is responsible for
 deploying, configuring, and running the OSG-owned services that contribute to the overall OSG fabric of services.
-These central services include the OSG software repositories,
-infrastructure for staging and caching data for access across OSG,
-the accounting database containing all OSG usage, the open science pool, the gWMS metaschedulung system, compute access points to support individual scientists across all domains of open science,
-user and systems administrator facing web pages, among others.
 
-OSG-LHC makes a modest contribution to this overall operations team, focused on the LHC needs. It operates the accounting and monitoring system, [GRACC](https://gracc.opensciencegrid.org), and the CVMFS infrastructure used to create a uniform runtime environment across the heterogeneous compute infrastructure.
+OSG-LHC makes a modest contribution to this overall operations team, focused on the LHC needs. We note that all the OSG Operations services, including the contributions from OSG-LHC, are used by the wider community of all of open science that benefits from OSG. The operations project of OSG-LHC is thus a direct benefit to the US LHC Operations programs and the wider open science community.
 
-We note that all the OSG Operations services, including the contributions from OSG-LHC, are used by the wider community of all of open science that benefits from OSG. The operations project of OSG-LHC is thus a direct benefit to the US LHC Operations programs and the wider open science community.
+## Activities
+
+-   **GRACC accounting system maintenance:** The team operates the [GRACC](https://gracc.opensciencegrid.org) accounting system that tracks usage for all projects that use OSG software or services.
+
+-   **CVMFS infrastructure maintenance:** The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
+
+-   **Open Science Data Federation (OSDF) maintenance:** The team operates the [OSDF infrastructure](https://osg-htc.org/services/osdf.html) for staging and caching data for access across the OSG
+
+-   **Operation of other miscellaneous services:** The team also operates various services such as the OSG software repositories, the open science pool, the gWMS metaschedulung system, compute access points to support individual scientists across all domains of open science, and user and systems administrator facing web pages.
+
+## Accomplishments
+
+### XRootD Monitoring Shoveler
+
+OSG-LHC operations provides infrastructure for the researcher to enable data transfer to their workflows on compute resources. XRootD is the underlying technology to facilitate this. In order to track data access in the accounting system, accounting information must be collected from all of the XRootD servers. By performing scale tests, the team has found instability in the UDP-based data access metric collection native to XRootD. Details of these tests can be found in the reports section below. To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler). The architecture of the shoveler is shown in Figure 2. The shoveler makes the metric passing more resiliant to packet loss by leveraging the OSG message bus. It does this by repackaging the raw UDP packets on the server and then sending them out through more stable TCP stream connections to the bus. Ultimately the shoveler is responsible for ensuring data access accounting data is collected in a reliable way.
+
+<figure class="figure">
+  <img src="/assets/images/XRootDMonitoringDiagram.png" class="img-fluid" alt="XRootD Shoveler Architecture">
+  <figcaption class="figure-caption">Figure 2: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
+</figure>
+
+### Service Level Agreements and Service Monitoring
+
+The Operations team has created [Service Level Agreements](https://osg-htc.org/operations/SLA/general/) for all OSG operated services. In the SLAs, the team has defined what "availability" means for each service type, and an associated target percentage. In addition, the team has implemented an internal monitoring system to measure, report on, and ensure the declared availability is met for each service.
+
+### Adoption of Container Orchestration
+
+OSG has containerized and migrated most of its services into a Kubernetes based deployment model. This work has improved the quality of service by standardizing and unifying the configuration and installation of services. Further benefits include decoupling specific service instances from their respective data centers. Multiple services are now running out of two data centers, one based in the University of Wisconsin-Madison, and the other in the University of Chicago. The separate locations provide redundancy to improve fault tolerance and increase service uptimes.
 
 ## GRACC
 
@@ -87,33 +110,6 @@ usage of the OSG.
 - Weitzel, D., Bockelman, B., Zvada, M., Retzke, K., & Bhat, S. (2019). GRACC: GRid ACcounting Collector. In EPJ Web of Conferences (Vol. 214, p. 03032). EDP Sciences. [https://doi.org/10.1051/epjconf/201921403032](https://doi.org/10.1051/epjconf/201921403032)
 - Retzke, K., Weitzel, D., Bhat, S., Levshina, T., Bockelman, B., Jayatilaka, B., ... & Wuerthwein, F. (2017, October). GRACC: New generation of the OSG accounting. In Journal of Physics: Conference Series (Vol. 898, No. 9, p. 092044). IOP Publishing. [https://doi.org/10.1088/1742-6596/898/9/092044](https://doi.org/10.1088/1742-6596/898/9/092044)
 - Levshina, T., Sehgal, C., Bockelman, B., Weitzel, D., & Guru, A. (2014, June). Grid accounting service: state and future development. In Journal of Physics: Conference Series (Vol. 513, No. 3, p. 032056). IOP Publishing. [https://doi.org/10.1088/1742-6596/513/3/032056](https://doi.org/10.1088/1742-6596/513/3/032056)
-
-## Curation of a uniform Runtime Environment via CVMFS
-
-The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
-
-## Accomplishments
-
-### XRootD Monitoring Shoveler
-
-OSG-LHC operations provides infrastructure for the researcher to enable data transfer to their workflows on compute resources. XRootD is the underlying technology to facilitate this. In order to track data access in the accounting system, accounting information must be collected from all of the XRootD servers. By performing scale tests, team has found instability in the UDP-based data access metric collection native to XRootD. Details of these tests can be found in the reports section below. To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler). The architecture of the shoveler is shown in Figure 2. The shoveler makes the metric passing more resiliant to packet loss by leveraging the OSG message bus. It does this by repackaging the raw UDP packets on the server and then sending them out through more stable TCP stream connections to the bus. Ultimately the shoveler is responsible for ensuring data access accounting data is collected in a reliable way.
-
-<figure class="figure">
-  <img src="/assets/images/XRootDMonitoringDiagram.png" class="img-fluid" alt="XRootD Shoveler Architecture">
-  <figcaption class="figure-caption">Figure 2: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
-</figure>
-
-### Curation of a uniform Runtime Environment via CVMFS
-
-The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
-
-### Service Level Agreements and Service Monitoring
-
-The Operations team has created [Service Level Agreements](https://osg-htc.org/operations/SLA/general/) for all OSG operated services. In the SLAs, the team has defined what "availability" means for each service type, and an associated target percentage. In addition, the team has implemented an internal monitoring system to measure, report on, and ensure the declared availability is met for each service.
-
-### Adoption of Container Orchestration
-
-OSG has containerized and migrated most of its services into a Kubernetes based deployment model. This work has improved the quality of service by standardizing and unifying the configuration and installation of services. Further benefits include decoupling specific service instances from their respective data centers. Multiple services are now running out of two data centers, one based in the University of Wisconsin-Madison, and the other in the University of Chicago. The separate locations provide redundancy to improve fault tolerance and increase service uptimes.
 
 ## Reports
 
