@@ -21,14 +21,18 @@ team:
 
 The [OSG Operations](https://osg-htc.org/operations/) team is responsible for
 deploying, configuring, and running the OSG-owned services that contribute to the overall OSG fabric of services.
-These central services include the OSG software repositories,
-infrastructure for staging and caching data for access across OSG,
-the accounting database containing all OSG usage, the open science pool, the gWMS metaschedulung system, compute access points to support individual scientists across all domains of open science,
-user and systems administrator facing web pages, among others.
 
-OSG-LHC makes a modest contribution to this overall operations team, focused on the LHC needs. It operates the accounting and monitoring system, [GRACC](https://gracc.opensciencegrid.org), and the CVMFS infrastructure used to create a uniform runtime environment across the heterogeneous compute infrastructure.
+OSG-LHC makes a modest contribution to this overall operations team, focused on the LHC needs. We note that all the OSG Operations services, including the contributions from OSG-LHC, are used by the wider community of all of open science that benefits from OSG. The operations project of OSG-LHC is thus a direct benefit to the US LHC Operations programs and the wider open science community.
 
-We note that all the OSG Operations services, including the contributions from OSG-LHC, are used by the wider community of all of open science that benefits from OSG. The operations project of OSG-LHC is thus a direct benefit to the US LHC Operations programs and the wider open science community.
+## Activities
+
+-   **GRACC accounting system maintenance:** The team operates the [GRACC](https://gracc.opensciencegrid.org) accounting system that tracks usage for all projects that use OSG software or services.
+
+-   **CVMFS infrastructure maintenance:** The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
+
+-   **Open Science Data Federation (OSDF) maintenance:** The team operates the [OSDF infrastructure](https://osg-htc.org/services/osdf.html) for staging and caching data for access across the OSG
+
+-   **Operation of other miscellaneous services:** The team also operates various services such as the OSG software repositories, the open science pool, the gWMS metaschedulung system, compute access points to support individual scientists across all domains of open science, and user and systems administrator facing web pages.
 
 ## GRACC
 
