@@ -92,10 +92,6 @@ usage of the OSG.
 - Retzke, K., Weitzel, D., Bhat, S., Levshina, T., Bockelman, B., Jayatilaka, B., ... & Wuerthwein, F. (2017, October). GRACC: New generation of the OSG accounting. In Journal of Physics: Conference Series (Vol. 898, No. 9, p. 092044). IOP Publishing. [https://doi.org/10.1088/1742-6596/898/9/092044](https://doi.org/10.1088/1742-6596/898/9/092044)
 - Levshina, T., Sehgal, C., Bockelman, B., Weitzel, D., & Guru, A. (2014, June). Grid accounting service: state and future development. In Journal of Physics: Conference Series (Vol. 513, No. 3, p. 032056). IOP Publishing. [https://doi.org/10.1088/1742-6596/513/3/032056](https://doi.org/10.1088/1742-6596/513/3/032056)
 
-## Curation of a uniform Runtime Environment via CVMFS
-
-The heterogeneity of OSG comes with considerable challenges to the applications running in this environment. To address these challenges, CERN developed a product, CVMFS, for the LHC community that allows curation of a uniform runtime environment across all compute resources globally. OSG has adopted this approach to support all of open science. OSG-LHC operates part of the infrastructure necessary to achieve this.
-
 ## Accomplishments
 
 ### XRootD Monitoring Shoveler
