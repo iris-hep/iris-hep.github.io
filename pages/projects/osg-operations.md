@@ -43,11 +43,11 @@ OSG-LHC makes a modest contribution to this overall operations team, focused on 
 ## Accomplishments
 
 *   **XRootD Monitoring Shoveler:**
-    OSG-LHC operations provides infrastructure for the researcher to enable data transfer to their workflows on compute resources. XRootD is the underlying technology to facilitate this. In order to track data access in the accounting system, accounting information must be collected from all of the XRootD servers. By performing scale tests, the team has found instability in the UDP-based data access metric collection native to XRootD. Details of these tests can be found in the reports section below. To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler). The architecture of the shoveler is shown in Figure 2. The shoveler makes the metric passing more resiliant to packet loss by leveraging the OSG message bus. It does this by repackaging the raw UDP packets on the server and then sending them out through more stable TCP stream connections to the bus. Ultimately the shoveler is responsible for ensuring data access accounting data is collected in a reliable way.
+    OSG-LHC operations provides infrastructure for the researcher to enable data transfer to their workflows on compute resources. XRootD is the underlying technology to facilitate this. In order to track data access in the accounting system, accounting information must be collected from all of the XRootD servers. By performing scale tests, the team has found instability in the UDP-based data access metric collection native to XRootD. Details of these tests can be found in the reports section below. To aid in the collection of XRootD monitoring packets, the OSG operations team and DOMA developed the [XRootD Monitoring Shoveler](https://github.com/opensciencegrid/xrootd-monitoring-shoveler). The architecture of the shoveler is shown in Figure 1. The shoveler makes the metric passing more resiliant to packet loss by leveraging the OSG message bus. It does this by repackaging the raw UDP packets on the server and then sending them out through more stable TCP stream connections to the bus. Ultimately the shoveler is responsible for ensuring data access accounting data is collected in a reliable way.
 
 <figure class="figure">
   <img src="/assets/images/XRootDMonitoringDiagram.png" class="img-fluid" alt="XRootD Shoveler Architecture">
-  <figcaption class="figure-caption">Figure 2: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
+  <figcaption class="figure-caption">Figure 1: XRootD shoveler receives monitoring packets and forwards them to the OSG message bus.</figcaption>
 </figure>
 
 *   **Service Level Agreements and Service Monitoring:**
@@ -84,7 +84,7 @@ A diverse set of consumers read record from the bus at more than 200 Hz.
 
 <figure class="figure">
   <img src="/assets/images/GRACCArchitecture.png" class="img-fluid" alt="GRACC Architecture">
-  <figcaption class="figure-caption">Figure 1: GRACC Architecture showing: probes on resources, data collection through the GRACC Collector, message broker,  data sinks of Elasticsearch database and backups, and visualization of the data by the OSG and WLCG</figcaption>
+  <figcaption class="figure-caption">Figure 2: GRACC Architecture showing: probes on resources, data collection through the GRACC Collector, message broker,  data sinks of Elasticsearch database and backups, and visualization of the data by the OSG and WLCG</figcaption>
 </figure>
 
 The probes are from the original Gratia ecosystem. Each supported batch system
