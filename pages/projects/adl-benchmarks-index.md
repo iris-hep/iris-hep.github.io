@@ -9,6 +9,8 @@ blurb: Functionality benchmarks for analysis description languages
 maturity: Unknown
 maturity-note:
 focus-area: as
+github: https://github.com/iris-hep/adl-benchmarks-index
+start-date: 2021-07-20
 team:
  - masonproffitt
 ---
