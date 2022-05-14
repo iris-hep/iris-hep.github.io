@@ -13,7 +13,6 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     html-proofer (3.19.3)
       addressable (~> 2.3)
@@ -69,8 +68,6 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    nokogiri (1.13.5-x64-mingw-ucrt)
-      racc (~> 1.4)
     nokogiri (1.13.5-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.13.5-x86_64-linux)
@@ -114,12 +111,10 @@ GEM
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.7.0)
     yell (2.2.2)
 
 PLATFORMS
-  x64-mingw-ucrt
   x86_64-darwin-20
   x86_64-darwin-21
   x86_64-linux
@@ -138,7 +133,6 @@ DEPENDENCIES
   rubocop (~> 1.25.0)
   rubocop-rake
   tzinfo-data
-  wdm (~> 0.1.0)
   webrick
 
 RUBY VERSION
