@@ -1,8 +1,8 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname: benzillaist
-permalink: /fellows/benzillaist.html
+shortname: Benzillaist
+permalink: /fellows/Benzillaist.html
 fellow-name: Ben Kuchma
 title: Ben Kuchma - IRIS-HEP Fellow
 active: True
