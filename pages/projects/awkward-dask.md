@@ -10,6 +10,8 @@ blurb: Developing a new high-level Dask collection for Awkward Arrays
 maturity: Testing
 maturity-note:
 focus-area: as
+github: https://github.com/ContinuumIO/dask-awkward
+start-date: 2021-08-19
 team:
  - jpivarski
  - douglasdavis (Anaconda)

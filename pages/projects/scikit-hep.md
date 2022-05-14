@@ -9,6 +9,8 @@ logowidth: 30%
 blurb: Pythonic analysis tools
 maturity: Deployed
 maturity-note:
+github: https://github.com/scikit-hep/scikit-hep
+start-date: 2016-10-24
 focus-area: as
 team:
  - jpivarski

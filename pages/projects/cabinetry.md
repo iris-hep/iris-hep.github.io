@@ -10,9 +10,11 @@ blurb: Building and steering template fits
 maturity: Deployed
 maturity-note:
 focus-area: as
+github: https://github.com/scikit-hep/cabinetry
+start-date: 2020-05-07
 team:
- - cranmer
- - alexander-held
+  - cranmer
+  - alexander-held
 ---
 
 [![CI status](https://github.com/scikit-hep/cabinetry/workflows/CI/badge.svg)](https://github.com/scikit-hep/cabinetry/actions?query=workflow%3ACI)

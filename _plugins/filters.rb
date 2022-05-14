@@ -31,18 +31,12 @@ module IrisHep
 
     # Force an array to be an array of arrays
     def ensure_arrays(input)
-      input.map do |v|
-        return [] if v.nil?
-
-        v.is_a?(Array) ? v : [v]
-      end
+      input.map { |v| [*v] }
     end
 
     # Force an item to be an array
     def ensure_array(input)
-      return [] if input.nil?
-
-      input.is_a?(Array) ? input : [input]
+      [*input]
     end
 
     # Flatten an array of arrays
