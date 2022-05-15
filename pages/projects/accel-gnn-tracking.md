@@ -39,8 +39,9 @@ innovations and optimizations at all three stages of this pipeline. We are also 
 architectures that are trainable end-to-end and go from point-clouds to track candidates with fit parameters in a
 single pass.
 
-< <p style="text-align:center;">
-< <img width="90%" src ="/assets/images/gnn_tracking_steps.png" /></p>
+<p align="center">
+  <img width="90%" src ="/assets/images/gnn_tracking_steps.png">
+</p>
 
 ---
 We are also studying two complimentary approaches to accelerate the inference of these GNN tracking pipelines on FPGAs
