@@ -18,8 +18,8 @@ project_goal: >
 mentors:
   - Johannes Wagner (UC Berkeley, LBNL)
   - Heather Gray (UC Berkeley, LBNL)
-
 proposal: /assets/pdf/fellows-2022/054-proposal-Max-Zhao.pdf
+github-username: max-zhao0
 presentations:
 current_status: >
 
