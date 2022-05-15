@@ -6,9 +6,14 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
+** We are not currently accepting Fellow applications. Please watch this page for update regarding future opportunities. **
+
+<!--
 **Applications for the Undergraduate Fellows program in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
 
 **Applications for the Graduate Fellows program are not yet open, but are coming soon.**
+
+-->
 
 People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
 
@@ -21,8 +26,6 @@ dedicated training activities? Are you interested in building on those skills to
 source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. We will also offer dedicated [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specific software skills. *Applications from women and members of underrepresented groups in STEM activities are particularly encouraged.*
 
 <!--
-Two types of IRIS-HEP Fellows are possible:
--->
 
 **We are currently accepting applications for IRIS-HEP Undergraduate Fellows for Summer 2022:**
 
@@ -33,12 +36,13 @@ Two types of IRIS-HEP Fellows are possible:
   * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 12 FTE-weeks (full time equivalent) at $600/week (paid monthly) during Summer 2022. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last 10-12 weeks (2.5 or 3 months).
   * It is expected that the Fellow is available full time during the Fellowship period and will *not* have another significant activity (such as classes, another trainee position or a job) in the same time period.
   * **Applications are now open - deadline 8 March**
-
+-->
 
 <!--
   * **IRIS-HEP Graduate Fellows** - Masters or Ph.D. Graduate fellows work with a mentor to develop research software relevant for HEP in one of the R&D areas listed below. Graduate fellows will receive subsistence, paid monthly, during their fellowship and their travel to relocate to work in person with the mentor will be provided. They should not in general have support via a teaching or research assistant position during the fellowship period. **Applications opening soon**
 -->
 
+<!--
 **How does it work?** - After you apply, we will make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will turn into a short 2-page project proposal and timeline (with some help from your mentor). Based on that, we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step. There was a Webinar to help people prepare their applications on Wednesday, 23 February, 2022. Both the [slides](https://indico.cern.ch/event/1134262/) and a [video](https://youtu.be/48EZhu5siRo) are available.
 
 During the Fellowship, you will work with your mentor and likely other collaborators using Slack, Zoom, GitHub and other similar tools. You will also make a short
@@ -59,6 +63,7 @@ It is *not* required that the mentors are IRIS-HEP team members, or that
 a specific project be one for which IRIS-HEP personnel are active. Any
 appropriate mentor from the larger community working in one of
 these areas can be part of the program.
+-->
 
 <!--
 **Duration of fellowship and total stipend:** An IRIS-HEP fellowship will pay up to 3 FTE-months (full time equivalent) at $2000/month. As full time research software activities are not consistent with taking classes during the academic year (as opposed to summer), most fellows will work a smaller time fraction over a larger number of calendar months. (For example, half-time for 6 months.) Applicants should include a proposed time profile for their activities in their proposal, as well as note their academic course load and/or any other activities taking significant time.
@@ -72,6 +77,7 @@ these areas can be part of the program.
   * Some additional projects can be found on the open projects page of the [Compiler Research](https://compiler-research.org/open_projects) project
   * You can explore the links above to the IRIS-HEP R&D research activities. Most IRIS-HEP active projects list contacts with whom you can discuss to bring your own ideas.
 
+<!--
 Prospective fellows are encouraged to **contact specific mentors** listed on the project pages above.
 If you have a idea for a project which excites you, but do not find similar examples or are not sure which mentor to contact, please do not hesitate to contact the IRIS-HEP fellows@iris-hep.org mailing list. The lists above are not exhaustive. We will help you link up with possible mentor candidates!
 
@@ -91,6 +97,8 @@ developing a proposal - this may involve a short interview and other follow-up
   * By the end of April - final selection of undergraduate Fellows for summer 2022
   * May-Sep - Fellows work on projects (exact dates may depend on specific academic year
 constraints)
+-->
+
 
 <!--
  * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. **Note also the intended software project or person with whom you will collaborate as mentor. Proposals for which an initial plan has been worked out with the mentor will likely rank more strongly.** The proposal should be short, typically no more 1-2 pages to describe the project and then a short timeline with deliverables (see also examples from previous fellows). The timeline should also include the proposed FTE effort fractions by month (not to exceed 3 FTE-months total) and information on other major activities taking significant time (other research activities or jobs, coursework load, etc.)
