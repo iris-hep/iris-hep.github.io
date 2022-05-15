@@ -37,5 +37,5 @@ proposal: /assets/pdf/fellows-2022/proposal-Jay-Gohil.pdf
 presentations:
 
 current_status: >
-
+github-username: gohil-jay
 ---
