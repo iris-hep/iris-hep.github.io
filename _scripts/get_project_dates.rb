@@ -33,8 +33,8 @@ projects_raw = project_files.map do |fn|
   YAML.safe_load_file(fn, permitted_classes: [Date])
 end
 
-# missing = projects_raw.filter_map { _1.key?('start-date') ? nil : _1['title'] }
-# puts missing
+missing = projects_raw.filter_map { _1.key?('start-date') ? nil : _1['title'] }
+puts missing
 projects = process_projects(projects_raw)
 
 ia = projects.filter { _1[:focus_area].include?('ia') }
