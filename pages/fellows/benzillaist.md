@@ -22,7 +22,7 @@ project_goal: >
     modification of the ACTS portion of the iLCSoft software and analyzing the output in order to
     provide accurate and precise detection of elections.
 mentors:
-  - Simone Pagan Griso - (Berkley National Laboratory)
+  - Simone Pagan Griso - (Berkeley National Laboratory)
   - Sergo Jindariani (Fermilab)
 
 proposal: /assets/pdf/fellows-2022/023-proposal-Ben-Kuchma.pdf
