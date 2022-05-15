@@ -4,9 +4,9 @@
 # IRIS-HEP Website
 
 *Source for the GitHub Pages site*
-      
+
 <br>
-      
+
 [![Badge Status]][Workflow]
 
 <br>
@@ -17,7 +17,7 @@
 
 ***Edit the repository directly, instead fork simply it and open*** <br>
 ***a pull request instead, to ensure your changes are tested!***
-      
+
 ---
 
 </div>
@@ -47,7 +47,7 @@
     bundle install
     bundle exec rake serve
     ```
-    
+
 <br>
 
 ### Docker
@@ -79,7 +79,7 @@ Afterwards you can make changes locally <br>
 
 
 [Badge Status]: https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml/badge.svg
-[Badge Don't]: https://img.shields.io/badge/Don't-e33838?style=for-the-badge 
+[Badge Don't]: https://img.shields.io/badge/Don't-e33838?style=for-the-badge
 
 [Workflow]: https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml 'This badge indicates if the website was successfully built'
 
