@@ -6,7 +6,7 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-** We are not currently accepting Fellow applications. Please watch this page for update regarding future opportunities. **
+**We are not currently accepting Fellow applications. Please watch this page for update regarding future opportunities.**
 
 <!--
 **Applications for the Undergraduate Fellows program in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
@@ -104,6 +104,7 @@ constraints)
  * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. **Note also the intended software project or person with whom you will collaborate as mentor. Proposals for which an initial plan has been worked out with the mentor will likely rank more strongly.** The proposal should be short, typically no more 1-2 pages to describe the project and then a short timeline with deliverables (see also examples from previous fellows). The timeline should also include the proposed FTE effort fractions by month (not to exceed 3 FTE-months total) and information on other major activities taking significant time (other research activities or jobs, coursework load, etc.)
 -->
 
+**Funding** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreement OAC-1836650. Funding for Fellows associated with international academic institutions has been provided by a combination of private foundation and industry support.
 
 {% assign fellows = site.pages | where: "pagetype", "fellow"
                                | last_name_sort: "fellow-name"
