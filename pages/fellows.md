@@ -6,7 +6,7 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-**We are not currently accepting Fellow applications. Please watch this page for update regarding future opportunities.**
+**We are not currently accepting Fellow applications. Please watch this page for updates regarding future opportunities.**
 
 <!--
 **Applications for the Undergraduate Fellows program in Summer 2022 are now open. The deadline for applications is Tuesday, 8 March, 2022 (end of the day, any time zone).**
