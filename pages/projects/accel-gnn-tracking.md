@@ -8,6 +8,7 @@ image: logos/gnn_tracking.png
 blurb: accel-gnn-tracking
 maturity: Exploratory
 maturity-note:
+start-date: 2019-09-12
 focus-area: ia
 team:
  - matkinso
@@ -38,7 +39,8 @@ innovations and optimizations at all three stages of this pipeline. We are also 
 architectures that are trainable end-to-end and go from point-clouds to track candidates with fit parameters in a
 single pass.
 
-<img width="60%" src ="/assets/images/gnn_tracking_stages.png" />
+< <p style="text-align:center;">
+< <img width="90%" src ="/assets/images/gnn_tracking_steps.png" /></p>
 
 ---
 We are also studying two complimentary approaches to accelerate the inference of these GNN tracking pipelines on FPGAs
