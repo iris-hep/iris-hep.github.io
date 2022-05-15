@@ -58,6 +58,7 @@ presentations:
     focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 current_status: >
   A placeholder for status updates
+github-username: <Your git-hub username>
 ---
 ```
 
