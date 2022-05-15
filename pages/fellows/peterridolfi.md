@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: peterridolfi
@@ -18,5 +19,7 @@ mentors:
   - matthewfeickert
   - alexander-held
   - cranmer
-proposal: /assets/pdf/fellows-2022/<find-your-file>
+proposal: /assets/pdf/fellows-2022//proposal-Peter-Ridolfi.pdf
 presentations:
+github-username: peterridolfi
+---

@@ -29,4 +29,5 @@ presentations:
     focus-area: as
 current_status: >
   <strong>December 2021</strong> - Machine Learning Intern at Pacific Northwest National Lab, Undergraduate Research Assistant at University of Washington Elementary Particle Experiment Group
+github-username: anrunw
 ---
