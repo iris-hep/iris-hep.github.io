@@ -1,12 +1,13 @@
-[![CI](https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml/badge.svg)](https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml)
-
-Is this badge red? Click on it to find out what's wrong with the repository...
 
 <div align = center>
 
 # IRIS-HEP Website
 
 *Source for the GitHub Pages site*
+      
+<br>
+      
+[![Badge Status]][Workflow]
 
 <br>
 
@@ -42,4 +43,7 @@ jekyll server mapping it to port 4000 on your computer. You can make changes
 locally and view them at http://localhost:4000
 
 
+[Badge Status]: https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml/badge.svg
 [Badge Don't]: https://img.shields.io/badge/Don't-e33838?style=for-the-badge
+
+[Workflow]: https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml 'This badge indicates if the website was successfully built'
