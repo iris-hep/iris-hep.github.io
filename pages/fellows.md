@@ -104,7 +104,7 @@ constraints)
  * A short proposal.  In the proposal you should briefly describe the software development activity that you would like to pursue, and how that activity will enhance your own and other people's research activities. **Note also the intended software project or person with whom you will collaborate as mentor. Proposals for which an initial plan has been worked out with the mentor will likely rank more strongly.** The proposal should be short, typically no more 1-2 pages to describe the project and then a short timeline with deliverables (see also examples from previous fellows). The timeline should also include the proposed FTE effort fractions by month (not to exceed 3 FTE-months total) and information on other major activities taking significant time (other research activities or jobs, coursework load, etc.)
 -->
 
-**Funding** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreement OAC-1836650. Funding for Fellows associated with international academic institutions has been provided by a combination of private foundation and industry support.
+**Funding:** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreement OAC-1836650 as well as private foundation support. Funding for Fellows associated with international academic institutions has been provided by a combination of university, industry and private foundation support.
 
 {% assign fellows = site.pages | where: "pagetype", "fellow"
                                | last_name_sort: "fellow-name"
