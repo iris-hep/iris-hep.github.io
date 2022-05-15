@@ -22,13 +22,6 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/018-proposal-Katie-Edwards.pdf
 presentations:
-  - title:
-    date:
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
-current_status: >
+current_status:
 github-username: katie-ed
 ---

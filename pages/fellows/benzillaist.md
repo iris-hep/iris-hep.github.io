@@ -27,6 +27,6 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/023-proposal-Ben-Kuchma.pdf
 presentations:
-current_status: >
+current_status:
 github-username: Benzillaist
   ---

@@ -32,6 +32,6 @@ proposal: /assets/pdf/fellows-2022/007-proposal-Manasvi-Goyal.pdf
 
 presentations:
 
-current_status: >
+current_status: 
 github-username: ManasviGoyal
 ---

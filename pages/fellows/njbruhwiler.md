@@ -21,6 +21,6 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/044-proposal-Natalie-Bruhwiler.pdf
 presentations:
-current_status: >
+current_status:
 github-username: njbruhwiler
 ---
