@@ -15,17 +15,8 @@ project_title: Designing and implementing a converting tool for statistical mode
 project_goal:
     The main goal of this project is to develop a tool that actively identifies and accomodates similarities and nuances between pyhf and CMS Combine models. The tool must be able to convert the given parameters form one type of model to the other type, while maintaining a high degree of accuracy between the actual functionality and predictions that are made by the models. Additionally, the tool should be able to give feedback concerning expected differences in these outputs based on the parameters that are given, and the limitations of the tool itself. Ultimately, the tool will serve as another method for better understanding the models that are created and the predictions that they make.
 mentors:
-  - Matthew Feickert - (Univeristy of Illinois at Urbana-Champaign)
-  - Alex Held - (University of Wisconsin-Madison)
-  - Kyle Cramer - (New York University)
+  - matthewfeickert
+  - alexander-held
+  - cranmer
 proposal: /assets/pdf/fellows-2022/<find-your-file>
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-current_status: >
-  A placeholder for status updates
