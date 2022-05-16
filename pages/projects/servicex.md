@@ -9,6 +9,8 @@ logowidth: 10%
 blurb: Delivering columnar data on demand
 maturity: Testing
 maturity-note:
+github: https://github.com/ssl-hep/ServiceX
+start-date: 2019-04-17
 focus-area: doma
 team:
  - AndrewEckart

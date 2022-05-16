@@ -9,6 +9,8 @@ logowidth: 15%
 blurb: A Prototype of Analysis Facility
 maturity: Testing
 maturity-note:
+github: https://github.com/CoffeaTeam/coffea-casa
+start-date: 2019-01-01
 focus-area:
  - doma
  - as
