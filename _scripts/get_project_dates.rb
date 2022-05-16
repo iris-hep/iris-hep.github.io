@@ -27,6 +27,10 @@ def process_projects(projects)
   end
 end
 
+def make_section(projects)
+  projects.each { printf("        %<title>-30s  :%<status>-7s, %<start>s, %<end>s\n", _1) }
+end
+
 project_files = Pathname.glob('pages/projects/*.md')
 
 projects_raw = project_files.map do |fn|
@@ -50,7 +54,5 @@ gantt
 
 { ia: ia, doma: doma, as: as }.each do |sec, val|
   puts "\n    section #{sec}"
-  val.each do |proj|
-    printf("        %<title>-30s  :%<status>-7s, %<start>s, %<end>s\n", proj)
-  end
+  make_section(val)
 end

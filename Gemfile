@@ -54,5 +54,8 @@ gem 'pkg-config', '~> 1.4'
 # Performance-booster for watching directories on Windows
 gem 'wdm', '~> 0.1.0' if Gem.win_platform?
 
-# Required on Ruby 3+
+# Required on Ruby 3+ (next Jekyll will fix this missing dep)
 gem 'webrick'
+
+# Required on Ruby 2.6 (polyfill)
+gem 'ruby-next'
