@@ -153,3 +153,39 @@ presentations:
   url: https://indico.cern.ch/event/957103/contributions/4330982/attachments/2234425/3786796/IRIS-HEP%20-%20DOMA%20-%20EB%20retreat.pdf
   focus-area: doma
   date: 2021-04-27
+- title: DOMA and Data Challenge
+  meeting: IRIS-HEP 30 Month Review
+  meetingurl: https://indico.cern.ch/event/1023758/
+  url: https://indico.cern.ch/event/1023758/#:~:text=Morgridge)%20and%20others%20%2D-,slides,-%2C%20video
+  focus-area: doma
+  date: 2021-05-27
+- title: 'DOMA Update for Steering Board #10'
+  meeting: 'IRIS-HEP Steering Board Meeting #10'
+  meetingurl: https://indico.cern.ch/event/985524/
+  url: https://indico.cern.ch/event/985524/contributions/4395029/attachments/2260508/3836719/DOMA%20-%20SB%2010.pdf
+  focus-area: doma
+  date: 2021-06-08
+- title: 'DOMA Update for Steering Board #12'
+  meeting: 'IRIS-HEP Steering Board Meeting #12'
+  meetingurl: https://indico.cern.ch/event/985527/
+  url: https://indico.cern.ch/event/985527/contributions/4635517/attachments/2356262/4021051/DOMA%20-%20SB%2012.pdf
+  focus-area: doma
+  date: 2021-11-30
+- title: 'OSG 3.5 EOL Update'
+  meeting: 'OSG Council Meeting - March 2022'
+  meetingurl: https://indico.fnal.gov/event/52594/
+  url: https://indico.fnal.gov/event/52594/contributions/232092/attachments/153125/198606/OSG-3.5-EOL-Council-2022.pdf
+  focus-area: doma
+  date: 2022-03-17
+- title: 'Authorization and Authentication Evolution'
+  meetingurl: https://indico.fnal.gov/event/53251/
+  url: https://indico.fnal.gov/event/53251/contributions/238713/attachments/153892/199813/AAI-Evolutions-Snowmass-Workshop.pdf
+  focus-area: doma
+  date: 2022-04-08
+  meeting: 'Snowmass CompF4 Topical Group Workshop'
+- title: 'OSG All Hands 2022 Report'
+  meeting: 'GDB Meeting - April 2022'
+  meetingurl: https://indico.cern.ch/event/1096029/
+  url: https://indico.cern.ch/event/1096029/contributions/4810960/attachments/2426125/4153599/2022-04-13.osg-ahm-recap.pdf
+  focus-area: osglhc
+  date: 2022-04-13
