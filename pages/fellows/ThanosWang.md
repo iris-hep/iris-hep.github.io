@@ -23,7 +23,7 @@ mentors:
 proposal: /assets/pdf/fellows-2022/074-proposal-Zijun-Wang.pdf
 presentations:
 
-current_status: >
+current_status:
 
 github-username: ThanosWang
 ---
