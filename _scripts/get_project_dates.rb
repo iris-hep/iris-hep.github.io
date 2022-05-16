@@ -6,12 +6,12 @@ require 'pathname'
 require 'date'
 
 MAT_TO_KW = {
-  'Development' => 'crit',
-  'Exploratory' => 'crit',
-  'Testing' => 'crit',
-  'Unknown' => 'crit',
+  'Development' => 'done',
+  'Exploratory' => 'done',
+  'Testing' => 'done',
+  'Unknown' => 'done',
   'Deployed' => 'active',
-  'Archived' => 'done'
+  'Archived' => 'crit'
 }.freeze
 
 def process_projects(projects)
@@ -38,16 +38,18 @@ puts missing
 projects = process_projects(projects_raw)
 
 ia = projects.filter { _1[:focus_area].include?('ia') }
-as = projects.reject { _1[:focus_area].include?('ia') }
+doma = projects.filter { _1[:focus_area].include?('doma') || _1[:focus_area].include?('osglhc') }
+as = projects - ia - doma
 
-puts "gantt
+puts "
+gantt
     title IRIS-HEP project lifecyles
     dateFormat  YYYY-MM-DD
     axisFormat  %Y
 "
 
-{ ia: ia, as: as }.each do |sec, val|
-  puts("\n    section #{sec}")
+{ ia: ia, doma: doma, as: as }.each do |sec, val|
+  puts "\n    section #{sec}"
   val.each do |proj|
     printf("        %<title>-30s  :%<status>-7s, %<start>s, %<end>s\n", proj)
   end

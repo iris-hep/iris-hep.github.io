@@ -9,6 +9,7 @@ logowidth: 45%
 blurb: Cross-platform Probabilistic Programming eXecution protocol
 maturity: Deployed
 maturity-note:
+start-date: 2018-07-01
 focus-area: as
 team:
  - cranmer

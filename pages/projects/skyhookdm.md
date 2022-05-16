@@ -9,6 +9,7 @@ logowidth: 20%
 blurb: Programmable Storage for Databases and Datasets
 maturity: Development
 maturity-note:
+start-date: 2021-02-01
 focus-area: doma
 team:
 - jlefevre
