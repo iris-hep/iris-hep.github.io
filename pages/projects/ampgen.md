@@ -10,6 +10,8 @@ blurb: Generation and fitting for multibody hadron decays
 maturity: Deployed
 maturity-note:
 focus-area: as
+github: https://github.com/GooFit/AmpGen
+start-date: 2019-03-22
 team:
  - henryiii
  - mdsokoloff

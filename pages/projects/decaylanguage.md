@@ -9,6 +9,8 @@ logowidth: 70%
 blurb: Describe and convert particle decays
 maturity: Deployed
 maturity-note:
+github: https://github.com/scikit-hep/decaylanguage
+start-date: 2018-03-11
 focus-area: as
 team:
 - henryiii

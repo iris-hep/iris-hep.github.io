@@ -10,6 +10,8 @@ blurb: Read and write ROOT files in Python
 maturity: Deployed
 maturity-note:
 focus-area: as
+github: https://github.com/scikit-hep/uproot4
+start-date: 2017-09-03
 team:
 - jpivarski
 - Pratyush Das

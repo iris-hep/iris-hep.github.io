@@ -10,6 +10,8 @@ blurb: CNNs to find primary vertices
 maturity: Testing
 maturity-note:
 focus-area: ia
+github: https://gitlab.cern.ch/LHCb-Reco-Dev/pv-finder
+start-date: 2018-01-19
 team:
  - henryiii
  - mdsokoloff

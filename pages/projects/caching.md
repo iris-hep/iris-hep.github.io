@@ -8,6 +8,8 @@ image: logos/xcache.png
 blurb: Cached-based placement of analysis datasets.
 maturity: Deployed
 maturity-note:
+github: https://github.com/opensciencegrid/xcache
+start-date: 2015-02-08
 focus-area:
  - doma
  - osglhc

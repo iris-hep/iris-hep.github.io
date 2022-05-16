@@ -9,6 +9,8 @@ logowidth: 70%
 blurb: Manipulate vectors
 maturity: Deployed
 maturity-note:
+github: https://github.com/scikit-hep/vector
+start-date: 2018-07-08
 focus-area: as
 team:
 - jpivarski

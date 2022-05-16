@@ -10,6 +10,8 @@ blurb: A curated list of awesome high energy and particle physics software
 maturity: Deployed
 maturity-note:
 focus-area: as
+github: https://github.com/iris-hep/awesome-hep
+start-date: 2019-01-25
 team:
  - cranmer
  - jpivarski

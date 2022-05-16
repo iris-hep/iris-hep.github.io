@@ -9,6 +9,8 @@ logowidth: 50%
 blurb: Differentiable likelihoods
 maturity: Deployed
 maturity-note:
+github: https://github.com/scikit-hep/pyhf
+start-date: 2018-01-19
 focus-area: as
 team:
  - cranmer

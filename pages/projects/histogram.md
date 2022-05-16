@@ -10,6 +10,8 @@ blurb: Histogramming efforts
 maturity: Deployed
 maturity-note:
 focus-area: as
+github: https://github.com/scikit-hep/boost-histogram
+start-date: 2019-03-08
 team:
 - henryiii
 - Hans Dembinski

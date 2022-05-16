@@ -8,6 +8,8 @@ image: logos/mkfit-graphic.png
 blurb: Modernizing Kalman filter tracking for CMS
 maturity: Deployed
 maturity-note:
+github: https://github.com/trackreco/mkFit
+start-date: 2014-2-23
 team:
  - IHateLinus
  - pwittich

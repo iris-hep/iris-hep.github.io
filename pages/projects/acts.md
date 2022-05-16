@@ -10,6 +10,8 @@ blurb: Development of experiment-independent, thread-safe track reconstruction.
 maturity: Development
 maturity-note:
 focus-area: ia
+github: https://github.com/acts-project/acts
+start-date: 2016-06-09
 team:
  - heather-gray
  - latompkins

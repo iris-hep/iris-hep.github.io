@@ -9,6 +9,8 @@ logowidth: 50%
 blurb: Pythonic particle information
 maturity: Deployed
 maturity-note:
+github: https://github.com/scikit-hep/particle
+start-date: 2018-11-20
 focus-area: as
 team:
 - henryiii

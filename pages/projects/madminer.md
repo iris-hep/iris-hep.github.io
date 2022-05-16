@@ -8,6 +8,8 @@ image: logos/madminer-square.png
 blurb: Likelihood-free Inference
 maturity: Deployed
 maturity-note:
+github: https://github.com/madminer-tool/madminer
+start-date: 2018-06-03
 focus-area: as
 team:
  - cranmer
