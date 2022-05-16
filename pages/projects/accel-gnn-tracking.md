@@ -9,6 +9,11 @@ blurb: accel-gnn-tracking
 maturity: Exploratory
 maturity-note:
 start-date: 2019-09-12
+github:
+ - https://github.com/Neubauer-Group/GNN_code
+ - https://github.com/GageDeZoort/interaction_network_paper
+ - https://github.com/GageDeZoort/gnns-for-tracking
+ - https://github.com/abdelabd/manual_GNN_conversion
 focus-area: ia
 team:
  - matkinso
