@@ -6,8 +6,10 @@ shortname: caloreco-mlaas
 pagetype: project
 image: logos/fpga_ml_results.png
 blurb: Accelerated calorimeter reconstruction using Machine Learning as a Service
-maturity: Development
+maturity: Archived
 maturity-note:
+start-date: 2019-01-01
+end-date: 2021-10-01
 focus-area: ia
 team:
  - dcraik
