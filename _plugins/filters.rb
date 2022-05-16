@@ -16,6 +16,7 @@ module Jekyll
   end
 end
 
+# IRIS-HEP modules
 module IrisHep
   # Adding useful filters
   module Filters
