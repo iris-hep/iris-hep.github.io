@@ -9,7 +9,7 @@ blurb: Modernizing Kalman filter tracking for CMS
 maturity: Deployed
 maturity-note:
 github: https://github.com/trackreco/mkFit
-start-date: 2014-2-23
+start-date: 2014-02-23
 team:
  - IHateLinus
  - pwittich
@@ -28,7 +28,6 @@ team:
  - Brian Gravelle
  - Boyana Norris
 focus-area: ia
-
 ---
 
 
