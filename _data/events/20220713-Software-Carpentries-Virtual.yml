@@ -1,0 +1,9 @@
+name: Software Carpentry (Virtual)
+startdate: 2022-07-13
+enddate: 2022-07-15
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1159157/
+image:
+description: Workshop on Unix, Git and Github, fundamentals of Python language, Jupyter Notebooks, Python for analysis (Python with ROOT to start analysing data)
+labels:
+- training

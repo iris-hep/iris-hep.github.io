@@ -8,6 +8,8 @@ image: logos/Iris-hep-5-just-graphic.png
 blurb: Heterogeneous Distributed Array Programming Environment
 maturity: Deployed
 maturity-note:
+github: https://github.com/gordonwatts/hep_tables
+start-date: 2020-03-15
 focus-area: as
 team:
  - gordonwatts

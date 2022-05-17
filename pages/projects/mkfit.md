@@ -8,6 +8,8 @@ image: logos/mkfit-graphic.png
 blurb: Modernizing Kalman filter tracking for CMS
 maturity: Deployed
 maturity-note:
+github: https://github.com/trackreco/mkFit
+start-date: 2014-02-23
 team:
  - IHateLinus
  - pwittich
@@ -15,7 +17,7 @@ team:
  - srlantz
  - tresreid
  - dan131riley
- - Leonardo Giannini
+ - leonardogiannini
  - slava77
  - mmasciov
  - osschar
@@ -26,7 +28,6 @@ team:
  - Brian Gravelle
  - Boyana Norris
 focus-area: ia
-
 ---
 
 
@@ -51,7 +52,7 @@ Sample used: first CMS offline tracking iteration for tt ̄ events with an avera
 <br/>
 
 <div>
-<h3>Matrixplex</h3>
+<h3>Matriplex</h3>
 Matriplex memory layout uses a matrix-major representation optimized for loading vector registers for SIMD operations on a set of small matrices, using the native vector-unit width on processors with vector units. Matriplex includes a code generator for defining optimized matrix operations, with support for symmetric matrices and on-the-fly matrix transposition. Patterns of elements that are known by construction to be zero or one can be specified, and the resulting code will be optimized to eliminate unnecessary register loads and arithmetic operations. The generated code can be either standard C++ or macros that map to architecture-specific intrinsic functions. Matriplex structures and auto-generated code are used for all KF-related operations on tracks and hits, and in general for all matrix operations.
 </div>
 <img src="/assets/images/mkfit1.png" width="100%" alt="">

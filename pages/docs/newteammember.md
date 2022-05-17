@@ -73,7 +73,7 @@ The meaning of the fields is the following:
 
   * title - the title of the talk: you made need to place it in double quotes if certain characters like a colon space ": " are included in the title.
   * date - the date on which the presentation was made, in the numeric format "YYYY-MM-DD".
-  * url - this should be a direct URL to the presentation file (e.g. pdf).
+  * url - this should be a direct URL to the presentation or page containing the presentation. For Indico, link to the contribution, not the PDF or other links.
   * meeting - the name of the meeting.
   * meetingurl - the URL for the meeting in which the presentation was made.
   * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can use "Virtual".

@@ -245,3 +245,23 @@ presentations:
   location: Virtual
   focus-area: as
   project: pyhf
+
+- title: 'Statistical inference: pyhf and cabinetry'
+  date: 2022-04-25
+  url: https://indico.cern.ch/event/1126109/contributions/4780155/
+  meeting: IRIS-HEP AGC Tools 2022 Workshop
+  meetingurl: https://indico.cern.ch/event/1126109/
+  location: Virtual
+  focus-area: as
+  project:
+    - cabinetry
+    - pyhf
+
+- title: 'Analysis user experience with Python HEP data science tools in ATLAS'
+  date: 2022-04-26
+  url: https://indico.cern.ch/event/1126109/contributions/4780168/
+  meeting: IRIS-HEP AGC Tools 2022 Workshop
+  meetingurl: https://indico.cern.ch/event/1126109/
+  location: Virtual
+  focus-area: as
+  project:

@@ -1,13 +1,13 @@
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <div class="container">
         <a class="navbar-brand" href="/"><span><img src="/assets/logos/Iris-hep-4-no-long-name.png" alt="IRIS-HEP logo" height="58.5px" width="109px"></span></a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item dropdown active">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <a class="dropdown-item" href="/about/overview">Overview</a>
                         <a class="dropdown-item" href="/about/executive-board">Executive Board</a>
@@ -21,7 +21,7 @@
                     </div>
                 </li>
                 <li class="nav-item dropdown active">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Connect</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Connect</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <a class="dropdown-item" href="/news.html">News</a>
                         <a class="dropdown-item" href="https://indico.cern.ch/category/10492/">Meeting Agendas (Indico)</a>
@@ -32,7 +32,7 @@
                     </div>
                 </li>
                 <li class="nav-item dropdown active">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activities</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activities</a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
                         {% assign activities = site.pages | where: "layout", "focus-area" | sort_natural: 'title' %}
                         {% for mypage in activities %}
@@ -42,6 +42,7 @@
                         <a class="dropdown-item" href="/grand-challenges.html">Grand Challenges</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="/impact-beyond-hep.html">Impact Beyond HEP</a>
+                        <a class="dropdown-item" href="/quarknet.html">QuarkNet</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="/presentations/bymonth">Presentations</a>
                         <a class="dropdown-item" href="/publications/all">Publications</a>

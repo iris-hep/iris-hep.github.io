@@ -8,6 +8,12 @@ image: logos/gnn_tracking.png
 blurb: accel-gnn-tracking
 maturity: Exploratory
 maturity-note:
+start-date: 2019-09-12
+github:
+ - https://github.com/Neubauer-Group/GNN_code
+ - https://github.com/GageDeZoort/interaction_network_paper
+ - https://github.com/GageDeZoort/gnns-for-tracking
+ - https://github.com/abdelabd/manual_GNN_conversion
 focus-area: ia
 team:
  - matkinso
@@ -38,7 +44,9 @@ innovations and optimizations at all three stages of this pipeline. We are also 
 architectures that are trainable end-to-end and go from point-clouds to track candidates with fit parameters in a
 single pass.
 
-<img width="60%" src ="/assets/images/gnn_tracking_stages.png" />
+<p align="center">
+  <img width="90%" src ="/assets/images/gnn_tracking_steps.png">
+</p>
 
 ---
 We are also studying two complimentary approaches to accelerate the inference of these GNN tracking pipelines on FPGAs

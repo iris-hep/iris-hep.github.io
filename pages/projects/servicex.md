@@ -9,6 +9,8 @@ logowidth: 10%
 blurb: Delivering columnar data on demand
 maturity: Testing
 maturity-note:
+github: https://github.com/ssl-hep/ServiceX
+start-date: 2019-04-17
 focus-area: doma
 team:
  - AndrewEckart
@@ -22,6 +24,11 @@ team:
  - mweinberg2718
  - MichaelJohnson
 ---
+
+The sheer volume of HL-LHC events will emphasize the need for rapid data reduction and
+the ability to pull individual columns from complex datasets into high-speed
+data analysis facilities.
+
 [ServiceX](https://github.com/ssl-hep/ServiceX) is a data extraction and
 delivery delivery service. Users provide a dataset identifier and a selection
 statement that specifies filters and columns. ServiceX brings up parallel
@@ -34,17 +41,16 @@ analysis using familiar tooling.
 </p>
 
 ## Benefits
-* Service can be co-located with datasets to provide fast and efficient data
+* ServiceX can be co-located with datasets to provide fast and efficient data
 reduction strategies.
 * Interface is easy to learn and the processes are extremely reliable to make it
 easy for analyzers to get their job done without needing to learn complex
-libraries and babysit batch jobs
+libraries and closely monitor hand-written batch jobs
 * Extracts data from experiment-specific data formats using approved frameworks.
-* Data can be provided as popular and powerful
-[Awkward Arrays](/projects/awkward.html)
-* Results are cached to allow for easy re-analysis
-* Transformers are run out of tagged docker images to allow for precise
-reproducibility
+* Data can be provided as popular and powerful [Awkward Arrays](/projects/awkward.html) which integrates with the ecosystem of analysis tools within IRIS-HEP.
+* Results can be written to an object store or to [SkyHook Volumes](skyhookdm.html)
+* Results are cached locally to allow for easy straightforward reuse of data.
+* Transformers are run out of tagged docker images to allow for precise reproducibility
 * Works seamlessly as a data backend to _Coffea_ and TRExFitter analysis tools
 
 
@@ -94,11 +100,11 @@ The transformers are launched as an auto-scaling job by the flask app. Each
 worker is fed from a transactional RabbitMQ queue.
 
 ## Reference
-Full documentation at [servicex.readthedocs](https://servicex.readthedocs.io/en/latest/)
+Full documentation at [the Servicex ReadTheDocs pages](https://servicex.readthedocs.io/en/latest/).
 
 <a href="https://indico.cern.ch/event/773049/contributions/3474438/attachments/1935769/3207764/BenGalewskyCHEP2019.pdf"><img width="10%" src="/assets/images/BenGalewskyCHEP2019.png" alt="poster" /></a> [ServiceX talk at CHEP 2019](https://indico.cern.ch/event/773049/contributions/3474438/attachments/1935769/3207764/BenGalewskyCHEP2019.pdf)
 
-[ServiceX talk at HSF DAWG -- DOMA Access meeting](https://docs.google.com/presentation/d/1T3FszCMpnkvvdNuoXAUZuX10hHI-hp2m0-cKYABJWmE/edit#slide=id.g6458619ede_0_96)
+[ServiceX talk at HSF DAWG -- DOMA Access meeting](/assets/pdf/weinbergServiceX200323.pdf)
 
 ## Keep in Touch
 Sign up for the [ServiceX Mailing List](http://eepurl.com/hwqdED) to be informed

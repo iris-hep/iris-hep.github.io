@@ -92,6 +92,7 @@
 <b><p><font size="+1">{{mypage.title}}</font></p></b>
 {{mypage.blurb}}<br>
 <a href=/projects/{{mypage.shortname}}.html> More information</a><br>
+{%- include maturity.html project=mypage -%}
 </div>
 </div>
 </div>
@@ -144,6 +145,14 @@
     </div>
   </div>
 </section>
+
+{% if sorted.size > 0 %}
+  {{ sorted | gantt_project: page.title }}
+
+  <script>
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+{% endif %}
 
 
         </main>

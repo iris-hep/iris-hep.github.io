@@ -8,12 +8,15 @@ image: logos/tpc.png
 blurb: Envisioning a new way to move LHC data
 maturity: Deployed
 maturity-note:
+start-date: 2017-09-01
 focus-area:
  - doma
  - osglhc
 team:
  - bbockelm
  - ddavila0
+ - jkguiang
+ - aaarora
 ---
 
 LHC data is constantly beign moved between computing and storage sites
@@ -21,7 +24,7 @@ to support analysis, processing, and simluation; this is done at a scale
 that is currently unique within the science community.  For example, the
 CMS experiment on the LHC manages approximately 200PB of data and, on a
 daily basis, moves 1PB between sites.  Across all four experiments, the global
-data movement is regularly peaks above 250Gbps in 2021 -- and this is without
+data movement is regularly peaks above 250Gbps in 2021 -- and this was without
 the LHC accelerator taking new data!
 
 The HL-LHC promises a data deluge: we will need to modernize the infrastructure
@@ -31,10 +34,29 @@ Historically, bulk data movement has been done with the GridFTP protocol; as the
 to the increased data volumes of HL-LHC and GridFTP becomes increasingly
 niche, there is a need to use modern software, protocols, and techniques
 to move data.  The IRIS-HEP DOMA area - in collaboration with the [WLCG DOMA](https://twiki.cern.ch/twiki/bin/view/LCG/ThirdPartyCopy)
-activity - is helping the LHC and HEP in general transition to using HTTP for bulk data transfer.
+activity - is helping the LHC (and HEP in general) transition to using HTTP for bulk data transfer.  This bulk data transfer
+between sites is often referred to ``third party copy" or simply TPC.
 
+The first phase of bulk data transfer modernization is the switch from GridFTP to HTTP for TPC.
+The last milestone for the protocol switch project was achieved with the successful completion of the WLCG Data Challenge in October 2021.
+Subsequently, both CMS and ATLAS have declared that supporting GridFTP is optional (some sites, like UCSD, have already decommissioned
+their endpoints) and IRIS-HEP is focusing on token-based authorization of transfers for Year 5 of the project.
 
+<br>
+<div class="card" style="width: 40rem; margin: auto">
+  <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-data-challenge-2021.png" alt="WLCG Data Challenge 2021">
+  <div class="card-body">
+   <h5 class="card-title">Data Challenge 2021</h5>
+   <p class="card-text"> Throughtput achieved per protocol during the 2021 Data Challenge. The "davs" series represents
+   the use of HTTP-TPC and the WebDAV protocol.
+   </p>
+  </div>
+</div>
 
+<br>
+In the following one can read about the different milestones established for this project and how and when they were achieved.
+
+<br>
 <div class="card" style="width: 40rem; margin: auto">
   <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-over-http.png" alt="TPC rates from testing">
   <div class="card-body">
@@ -48,7 +70,7 @@ activity - is helping the LHC and HEP in general transition to using HTTP for bu
 </div>
 
 <br>
-During the initial phase of IRIS-HEP, the team worked with a variety of
+During the development phase of IRIS-HEP, the team worked with a variety of
 implementations to improve code and ensure interoperability.  The first goal
 was to get all commonly-used storage implementations for the LHC to provide
 an HTTP endpoint.  Initially, the goal was set to get one
@@ -56,8 +78,8 @@ site to get more that 30% of its data using the HTTP protocol.  This was
 accomplished in 2020; for 2021, the goal is to have every LHC _site_ to use
 HTTP-TPC.
 
-For CMS, we have picked 2 sites: Nebraska and UCSD to be the ones leading the transition by
-using the 'davs' protocol for all their incoming production transfers from the many sites which
+For CMS, we picked 2 sites, Nebraska and UCSD, to be the ones leading the transition by
+using the HTTP-TPC protocol for all their incoming production transfers from the many sites which
 can support such protocol.
 
 <br>
@@ -72,7 +94,7 @@ can support such protocol.
 </div>
 <br>
 
-The next goal was set to have a single site having 50% of all its data being transferred via HTTPS.
+The next goal was to have a single site having 50% of all its data being transferred via HTTPS.
 <br>
 <div class="card" style="width: 40rem; margin: auto">
   <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-nebraska-davs.png" alt="HTTPS vs non-HTTPS">
@@ -86,14 +108,14 @@ The next goal was set to have a single site having 50% of all its data being tra
 <br>
 
 <br>
-On the ATLAS side, the transition has taken a faster pace having that most of their sites have adopted an HTTPS endpoint.
+On the ATLAS side, the transition occurred at an even faster pace; most of their sites providede an HTTPS endpoint as of April 2021.
 
 <br>
 <div class="card" style="width: 40rem; margin: auto">
   <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-atlas-breakdown_042021.png" alt="Atlas protocol breakdown">
   <div class="card-body">
    <h5 class="card-title">Protocol breakdown for transfers at all ATLAS sites </h5>
-   <p class="card-text">The above shows the percentage of data transferred among all sites (excluding tape endpoints) using each of the available protocols during April 2021.
+   <p class="card-text">The percentage of data transferred among all ATLAS sites (excluding tape endpoints) using each of the available protocols during April 2021.
    </p>
   </div>
 </div>
@@ -101,16 +123,15 @@ On the ATLAS side, the transition has taken a faster pace having that most of th
 <br>
 <br>
 One of the 2022 milestones for this project was to demonstrate the ability to
-sustain aggregate 100Gbps data flows from a source storage using HTTP-TPC
-During SC21 we were able to run tests using 3 XRootD clusters in 3 different
-locations: UCSD, Caltech and Starlight, the latter 2 clusters where used as a
+sustain aggregate 100Gbps data flows from a source storage using HTTP-TPC.
+During SC21, the DOMA team demonstrated the ability to use 3 XRootD clusters in 3 different
+locations, UCSD, Caltech and the Starlight point of presence in Chicago.  The latter 2 clusters were used as a
 source and the former as a sink. Caltech was connected to UCSD via a dedicated
-100Gbps link and Starlight had 2 x 100Gbps links available to connect to UCSD.
+100Gbps link and Starlight had two 100Gbps links available to connect to UCSD.
 <br>
-Using the k8s Nautilus cluster of PRP we were able to easily deploy the software
+Using the [PRP's Nautilus](https://pacificresearchplatform.org/nautilus/) cluster we were able to easily deploy the software
 and configurations necessary for these experiments.<br>
-In our test we were able to reach a transfer rate of 125Gbps out of the 300Gbps
-theoretical limit.
+In our test we were able to reach a disk-to-disk 'real' transfer rate of 125Gbps out of theoretical 300Gbps network limit.
 <br>
 
 <div class="card" style="width: 40rem; margin: auto">
@@ -126,13 +147,13 @@ theoretical limit.
 </div>
 
 <br>
-We found the limitation to be the amount of CPUs available on
-the Starlight cluster where we were only able to get 12.5% of the available bandwidth
-whereas on Caltech's cluster we reached 100% of its capacity.
+The observed limitation for the SC21 demo was the CPU power available on
+the Starlight cluster; in Starlight, we were only able to get 12.5% of the available bandwidth
+while at Caltech's cluster we reached 100% of its capacity.
 <br>
 
 <h3>More Information</h3>
 
  * [Third Party Copy](https://twiki.cern.ch/twiki/bin/view/LCG/ThirdPartyCopy)
- * [DCache instructions](https://twiki.cern.ch/twiki/bin/view/LCG/DCacheConfig)
- * [XRootD instructions](https://twiki.cern.ch/twiki/bin/view/Main/XRootDoverHTTP)
+ * [dCache-based storoage instructions](https://twiki.cern.ch/twiki/bin/view/LCG/DCacheConfig)
+ * [XRootD-based storage instructions](https://twiki.cern.ch/twiki/bin/view/Main/XRootDoverHTTP)

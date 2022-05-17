@@ -9,6 +9,8 @@ logowidth: 50%
 blurb: Differentiable likelihoods
 maturity: Deployed
 maturity-note:
+github: https://github.com/scikit-hep/pyhf
+start-date: 2018-01-19
 focus-area: as
 team:
  - cranmer
@@ -37,11 +39,18 @@ team:
 [![CodeFactor](https://www.codefactor.io/repository/github/scikit-hep/pyhf/badge)](https://www.codefactor.io/repository/github/scikit-hep/pyhf)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-### Featured on CERN homepage and in Symmetry Magazine and the CERN Courier
+### Coverage in the media
 
-- The CERN homepage featured an article on pyhf: [New open release allows theorists to explore LHC data in a new way](https://home.cern/news/news/knowledge-sharing/new-open-release-allows-theorists-explore-lhc-data-new-way):  The ATLAS collaboration releases full analysis likelihoods, a first for an LHC experiment. (January, 2020)
-- Symmetry Magazine: [ATLAS releases 'full orchestra' of analysis instruments](https://www.symmetrymagazine.org/article/atlas-releases-full-orchestra-of-analysis-instruments) (January, 2021)
-- CERN Courier [May/June 2021 Issue](https://cds.cern.ch/record/2765233): [LHC reinterpreters think long-term](https://cerncourier.com/a/lhc-reinterpreters-think-long-term/) (April, 2021)
+*  **Featured on CERN homepage and in Symmetry Magazine and the CERN Courier**
+   - The CERN homepage featured an article on pyhf: [New open release allows theorists to explore LHC data in a new way](https://home.cern/news/news/knowledge-sharing/new-open-release-allows-theorists-explore-lhc-data-new-way):  The ATLAS collaboration releases full analysis likelihoods, a first for an LHC experiment. (January, 2020)
+   - Symmetry Magazine: [ATLAS releases 'full orchestra' of analysis instruments](https://www.symmetrymagazine.org/article/atlas-releases-full-orchestra-of-analysis-instruments) (January, 2021)
+   - CERN Courier [May/June 2021 Issue](https://cds.cern.ch/record/2765233): [LHC reinterpreters think long-term](https://cerncourier.com/a/lhc-reinterpreters-think-long-term/) (April, 2021)
+* **Probability model publishing covered in National Academies of Sciences, Engineering, and Medicine report**
+   - National Academies of Sciences, Engineering, and Medicine. 2022. Automated Research Workflows For Accelerated Discovery: Closing the Knowledge Discovery Loop. Washington, DC: The National Academies Press. [doi:10.17226/26532](https://doi.org/10.17226/26532).
+      - Chapter 3: Automated Research Workflows in Action
+   - News Release "[Automated Research Workflows Are Speeding Pace of Scientific Discovery; New Report Offers Recommendations to Advance Their Development][NASEM-news-release]" (May, 2022)
+
+[NASEM-news-release]: https://www.nationalacademies.org/news/2022/05/automated-research-workflows-are-speeding-pace-of-scientific-discovery-new-report-offers-recommendations-to-advance-their-development
 
 ### Recent Talks and Tutorials
 
@@ -59,6 +68,7 @@ Updating list of citations (from use in analyses and general reference) of `pyhf
 
 - ATLAS Collaboration. SimpleAnalysis: Truth-level Analysis Framework. Apr 2022. [https://cds.cern.ch/record/2805991](https://cds.cern.ch/record/2805991).
 - Tommaso Dorigo et al. Toward the End-to-End Optimization of Particle Physics Instruments with Differentiable Programming: a White Paper. Mar 2022. [arXiv:2203.13818](https://arxiv.org/abs/2203.13818).
+- Alexander Albert et al. Strange quark as a probe for new physics in the Higgs sector. In _2022 Snowmass Summer Study_. Mar 2022. [arXiv:2203.07535](https://arxiv.org/abs/2203.07535).
 - Nathan Simpson and Lukas Heinrich. neos: End-to-End-Optimised Summary Statistics for High Energy Physics. Mar 2022. [arXiv:2203.05570](https://arxiv.org/abs/2203.05570).
 - Harry Enke et al. Survey of Open Data Concepts Within Fundamental Physics: An Initiative of the PUNCH4NFDI Consortium. _Computing and Software for Big Science_, 6(1):6, Mar 2022. [doi:10.1007/s41781-022-00081-7](https://doi.org/10.1007/s41781-022-00081-7).
 - ATLAS Collaboration. Search for neutral long-lived particles in pp collisions at s√=13 TeV that decay into displaced hadronic jets in the ATLAS calorimeter. Mar 2022. [arXiv:2203.01009](https://arxiv.org/abs/2203.01009).

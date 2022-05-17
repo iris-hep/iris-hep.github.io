@@ -333,3 +333,48 @@ presentations:
   focus-area: ssc
   project:
   location: Virtual
+
+- title: 'Building a Binary Extension'
+  date: 2022-04-29
+  url: https://us.pycon.org/2022/schedule/presentation/57/
+  meeting: PyCon US 2022
+  meetingurl: https://us.pycon.org/2022/
+  focus-area: as
+  project:
+  location: Salt Lake City, UT
+
+- title: 'Scikit-HEP Developer Pages: Guidelines for modern packaging'
+  date: 2022-04-30
+  url: https://www.slideshare.net/HenrySchreiner/pycon-2022-scikithep-developer-pages-guidelines-for-modern-packaging
+  meeting: PyCon US 2022 Lightning talks
+  meetingurl: https://us.pycon.org/2022/
+  focus-area: as
+  project:
+  location: Salt Lake City, UT
+
+- title: 'High-performance Python: CPUs'
+  date: 2022-04-26
+  url: https://researchcomputing.princeton.edu/events/2022/high-performance-python-gpus
+  meeting: Princeton Research Computing Training Series
+  meetingurl: https://researchcomputing.princeton.edu/education/training
+  focus-area: ssc
+  project:
+  location: Virtual
+
+- title: 'High-performance Python: GPUs'
+  date: 2022-05-03
+  url: https://researchcomputing.princeton.edu/events/2022/high-performance-python-gpus
+  meeting: Princeton Research Computing Training Series
+  meetingurl: https://researchcomputing.princeton.edu/education/training
+  focus-area: ssc
+  project:
+  location: Virtual
+
+- title: "ROOT: Homebrew and Pip plans"
+  date: 2022-05-10
+  url: https://indico.fnal.gov/event/23628/contributions/237971
+  meeting: ROOT user's workshop
+  meetingurl: https://indico.fnal.gov/event/23628
+  focus-area: as
+  project: rootconda
+  location: Fermilab (virtual)
