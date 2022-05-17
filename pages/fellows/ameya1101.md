@@ -16,7 +16,7 @@ project_goal: >
     Tracking devices, or trackers, at the LHC record hits of charged particles produced in
     a collision event. The task of track reconstruction involves clustering tracker hits to
     reconstruct the trajectories of these particles. The sparse nature of tracking data makes
-    graph neural networks (GNNs) well-suited to praticle tracking applications. The goal of
+    graph neural networks (GNNs) well-suited to particle tracking applications. The goal of
     this project is to develop a GNN for particle tracking by explicitly incorporating E(3)
     equivariance into the model. Incorporating physically meaningful symmetries into the GNN
     can reduce the number of parameters and potentially reduce training and inference times
@@ -29,4 +29,6 @@ presentations:
 current_status: >
   <strong> May 2022 </strong> - Undergraduate student of Physics and Computer Science at BITS, Pilani - K.K. Birla Goa Campus.
 github-username: ameya1101
+focus-area:
+  - ia
 ---
