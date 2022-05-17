@@ -20,7 +20,7 @@ mentors:
   - Alexander Held - (University of Wisconsin-Madison)
   - Mason Proffit - (University of Washington)
   - Benjamin Galwesky- (University of Illinois at Urbana-Champaign)
- 
+
 proposal: /assets/pdf/fellows-2022/077-proposal-Jake-Li.pdf
 presentations:
   - title: "<Presentation Title>"
