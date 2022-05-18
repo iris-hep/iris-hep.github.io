@@ -127,3 +127,10 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1140356/
   project: acts
   focus-area: ia
+- title: CI Tests for ACTS packages
+  date: 2022-05-18
+  url: https://indico.cern.ch/event/1162439/
+  meeting: Upgrade Software Integration
+  meetingurl: https://indico.cern.ch/event/1162439/
+  project: acts
+  focus-area: ia
