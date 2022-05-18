@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: jakel2014
@@ -33,3 +34,4 @@ presentations:
 current_status: >
   A placeholder for status updates
 github-username: jakel2014
+---
