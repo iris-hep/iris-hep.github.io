@@ -42,7 +42,7 @@ We will also use this channel to communicate news items and announce Fellows-rel
 
 [IRIS-HEP Fellows Slack Channel](https://join.slack.com/t/iris-hep/shared_invite/zt-19ml94dae-M2CTO91Nr7noKI0MG5tiaw)
 
-Once you accept the invite you can join the fellows channel in Slack by searching for "#fellows" and clicking "Join Channel" or by typing:
+Once you accept the invite you can join the fellows channel in Slack by searching for "**#fellows" and clicking "**Join Channel" or by typing:
 ```
 /join #fellows
 ```
