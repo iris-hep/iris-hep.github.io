@@ -36,7 +36,9 @@ Follow the directions found here to create a markdown file for your page:
 
 #### IRIS-HEP Fellows Slack Channel
 
-We also invite you to join the IRIS-HEP Fellows Slack Channel to interact with other Fellows and Mentors
+Please also join the IRIS-HEP Fellows Slack Channel to interact with other Fellows and Mentors.
+
+We will also use this channel to communicate news items and announce Fellows-relevant events this summer. 
 
 [IRIS-HEP Fellows Slack Channel](https://join.slack.com/t/iris-hep/shared_invite/zt-19ml94dae-M2CTO91Nr7noKI0MG5tiaw)
 
