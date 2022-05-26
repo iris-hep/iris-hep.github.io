@@ -11,7 +11,7 @@ Welcome to IRIS-HEP!  Congratulations on your acceptance into the IRIS-HEP Fello
 
 There are some additional items needed to complete the onboarding process.
 
-#### Payment Information
+#### Payment Information <i class="fas fa-file"></i>
 
 You need to fill out a Payee Management Form in order to receive payment.
 
@@ -24,7 +24,7 @@ For tax purposes, we need you to answer the following questions:
 
 Please complete and attach the appropriate form and answer the two questions above in an email message to <fellows@iris-hep.org>.
 
-#### IRIS-HEP Web Site
+#### IRIS-HEP Web Site <i class="fas fa-link"></i>
 
 Additionally, we also would like to add you to our Fellows webpage:
 
@@ -34,7 +34,7 @@ Follow the directions found here to create a markdown file for your page:
 
   <https://iris-hep.org/docs/fellow>
 
-#### IRIS-HEP Fellows Slack Channel
+#### IRIS-HEP Fellows Slack Channel <i class="fab fa-slack"></i>
 
 Please also join the IRIS-HEP Fellows Slack Channel to interact with other Fellows and Mentors.
 
