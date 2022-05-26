@@ -33,3 +33,19 @@ Additionally, we also would like to add you to our Fellows webpage:
 Follow the directions found here to create a markdown file for your page:
 
   <https://iris-hep.org/docs/fellow>
+
+#### IRIS-HEP Fellows Slack Channel
+
+Please also join the IRIS-HEP Fellows Slack Channel to interact with other Fellows and Mentors.
+
+We will also use this channel to communicate news items and announce Fellows-relevant events this summer.
+
+[IRIS-HEP Fellows Slack Channel](https://join.slack.com/t/iris-hep/shared_invite/zt-19ml94dae-M2CTO91Nr7noKI0MG5tiaw)
+
+In general with communications on the Slack channel, we expect our members to:
+
+* Be welcoming and support people of all backgrounds and identities
+* Be considerate in words and actions
+* Be respectful
+
+More specifically, the values outlined in our [Code of Conduct](https://iris-hep.org/about/code-of-conduct) applies equally to all community members in all institute situations online and offline.  As IRIS-HEP members, we expect fellows to be stewards of these values as well.
