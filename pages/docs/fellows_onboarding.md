@@ -42,11 +42,8 @@ We also invite you to join the IRIS-HEP Fellows Slack Channel to interact with o
 
 In general with communications on the Slack channel, we expect our members to:
 
-* Be welcoming and support people of all backgrounds and identies
+* Be welcoming and support people of all backgrounds and identities
 * Be considerate in words and actions
 * Be respectful
-* Respect the work of others
-* Try to understand why we disagree 
-* Apologize as a means of de-escalating conflict
 
-More specificially, the values outlined in our [Code of Conduct](https://iris-hep.org/about/code-of-conduct) applies equally to all community members in all institute situtaions online and offline.  As IRIS-HEP members, we expect fellows to be stewards of these values as well.
+More specifically, the values outlined in our [Code of Conduct](https://iris-hep.org/about/code-of-conduct) applies equally to all community members in all institute situations online and offline.  As IRIS-HEP members, we expect fellows to be stewards of these values as well.
