@@ -19,7 +19,7 @@ mentors:
   - Matthew Feickert (UIUC)
   - Alexander Held (Wisconsin)
   - Kyle Cranmer (NYU)
-proposal: /assets/pdf/fellows-2022/proposal-Peter-Ridolfi.pdf
+proposal: /assets/pdf/fellows-2022/009-proposal-Peter-Ridolfi.pdf
 presentations:
 current_status: >
 
