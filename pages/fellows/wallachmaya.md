@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: wallachmaya
@@ -11,22 +12,15 @@ dates:
 photo: /assets/images/team/Maya-Wallach.jpg
 institution: Michigan State University
 e-mail: wallachm@msu.edu
-project_title: <Project title>
+project_title: Machine Learning Methods for Event Classification in The Active-Target Time Projection Chamber
 project_goal: >
-    Short description of your project
+    Work with the ALPhA team on a machine learning algorithm for event classification with the Active-Target Time Projection Chamber (AT-TPC) located at the Facility for Rare Isotope Beams (FRIB) in East Lansing, Michigan.
 mentors:
   - Dr. Michelle Kuchera - (Davidson College)>
 
-proposal: /assets/pdf/fellows-2022/<find-your-file>
+proposal: /assets/pdf/fellows-2022/002-proposal-Maya-Safiya-Wallach.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 current_status: >
-  A placeholder for status updates
+
 github-username: wallachmaya
 ---
