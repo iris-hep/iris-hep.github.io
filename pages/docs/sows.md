@@ -25,14 +25,14 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
   This combined multi-step process is what is meant by the "annual budget and SOW process".
 
-### Dates for IRIS-HEP annual budget and SOW process for Year 4 (2021 - 2022), covering the period from 1 September, 2021, through 31 August, 2022.
+### Dates for IRIS-HEP annual budget and SOW process for Year 5 (2022 - 2023), covering the period from 1 September, 2022, through 31 August, 2023.
 
 ---
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Friday, 7 June, 2021 |||| Subaward grant admins send draft Y4 budgets and justifications sent to Maureen, Floe and Peter |
-| Friday, 25 June, 2020 |||| Final budgets ready for Y4 SOWs |
+| Friday, 20 June, 2022 |||| Subaward grant admins send draft Y5 budgets and justifications to Maureen, Floe and Peter |
+| Friday, 25 July, 2022 |||| Final budgets ready for Y5 SOWs |
 
 ---
 
@@ -51,10 +51,10 @@ Please prepare a standard budget sheet as in an NSF proposal (i.e. the "Form 103
 budget is required.
 
 In addition you should write a budget justification which contains the
-information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIC2g). The budget described should however be limited to
+information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg22_1/pappg_2.jsp#IIC2g). The budget described should however be limited to
 funds required for a _single_ year and the defined time period, which should
-be noted explicitly in the justification. For example, "IRIS-HEP Year 4:
-1 September, 2021 - 31 August, 2022" or similar should appear near the top
+be noted explicitly in the justification. For example, "IRIS-HEP Year 5:
+1 September, 2022 - 31 August, 2023" or similar should appear near the top
 of the document.
 
   In addition to the standard budget justification information, additional
