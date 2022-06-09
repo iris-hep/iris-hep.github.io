@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: ScottDemarest
@@ -6,8 +7,8 @@ fellow-name: Scott Demarest
 title: Scott Demarest - IRIS-HEP Fellow
 active: True
 dates:
-  start: 6/1/2022
-  end: 8/10/2022
+  start: 2022-06-01
+  end: 2022-08-10
 photo: /assets/images/team/Scott-Demarest.jpg
 institution: Florida Institute of Technology
 e-mail: sdemarest2019@my.fit.edu
@@ -30,3 +31,4 @@ presentations:
 current_status: >
   A placeholder for status updates
 github-username: ScottDemarest
+---
