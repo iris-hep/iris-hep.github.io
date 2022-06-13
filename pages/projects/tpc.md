@@ -8,6 +8,7 @@ image: logos/tpc.png
 blurb: Envisioning a new way to move LHC data
 maturity: Deployed
 maturity-note:
+start-date: 2017-09-01
 focus-area:
  - doma
  - osglhc

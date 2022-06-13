@@ -18,7 +18,7 @@ project_goal: >
 mentors:
 - Oksana Shadura (CERN)
 - Alex Held (NYU)
-proposal: /assets/pdf/fellows-2022/proposal-Durbar-Chakraborty.pdf
+proposal: /assets/pdf/fellows-2022/016-proposal-Durbar-Chakraborty.pdf
 presentations:
 - title:
   date:

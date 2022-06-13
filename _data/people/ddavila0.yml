@@ -10,6 +10,14 @@ title: Scientific Software Developer and Researcher
 website:
 presentations:
 
+- title: 'Migration to WebDAV'
+  date: 2021-10-22
+  url: https://indico.cern.ch/event/1078363/contributions/4555663/attachments/2332908/3976478/Migration%20to%20WebDAV%20-%20fall%20O%26C%20week%2C%202021.pdf
+  meeting: "Fall21 Offline Software and Computing Week"
+  meetingurl: https://indico.cern.ch/event/1078363/
+  focus-area: doma
+  project: tpc
+  location: virtual
 - title: 'OSG Xrootd Monitoring'
   date: 2021-06-23
   url: https://indico.cern.ch/event/1051022/contributions/4420830/attachments/2270011/3854976/WLCG%20XRootD%20Monitoring%20Meeting.pdf

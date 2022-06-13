@@ -32,10 +32,10 @@ mentors:
   - Henry Schreiner - (Princeton University)
   - Hans Dembinski - (TU Dortmund)
 
-proposal: /assets/pdf/fellows-2022/proposal-Jay-Gohil.pdf
+proposal: /assets/pdf/fellows-2022/011-proposal-Jay-Gohil.pdf
 
 presentations:
 
 current_status: >
-
+github-username: gohil-jay
 ---

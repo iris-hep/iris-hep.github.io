@@ -8,6 +8,15 @@ title: "Summer Students Mentored by IRIS-HEP Team"
 
 In addition to [students funded directly as part of the IRIS-HEP project](https://iris-hep.org/about/team) and [IRIS-HEP Fellows](https://iris-hep.org/fellows.html), IRIS-HEP team members have been mentors for software-related projects pursued by students from a number of other student programs.
 
+#### Google Summer of Code 2022
+
+* **Matheus Izvekov** (mentor Vassil Vassilev) - [Extend clang to preserve type sugar when performing member access on template specialization](https://llvm.org/OpenProjects.html#clang-template-instantiation-sugar)
+* **Anubhab Ghosh** (mentor Stefan Gränitz, Lang Hames, Vassil Vassilev) - [Shared Memory Based JITLink Memory Manager](https://llvm.org/OpenProjects.html#llvm_shared_jitlink)
+* **Sunho Kim** (mentor Stefan Gränitz, Lang Hames, Vassil Vassilev) - [Write JITLink support for a new format/architecture (ELF/AARCH64)](https://llvm.org/OpenProjects.html#llvm_jit_new_format)
+* **Manish Kausik** (mentor Vassil Vassilev, David Lange) - [Add Initial Integration of Clad with Enzyme](https://hepsoftwarefoundation.org/gsoc/2022/proposal_Clad-Enzyme.html)
+* **Parth Arora** (mentor Jonas Hahnfeld, Ioana Ifrim, Simeon Ehrig, Vassil Vassilev) - [Design and Develop a CUDA engine working along with C/C++ mode in clang-repl](https://hepsoftwarefoundation.org/gsoc/2022/proposal_CUDA-clang-repl.html)
+* **Jun Zhang** (mentor Alexander Penev, David Lange,  Vassil Vassilev) - [Optimize ROOT use of modules for large codebases](https://hepsoftwarefoundation.org/gsoc/2022/proposal_Root-gmi-CMSSW.html)
+
 #### Summer 2021 DIANA Undergraduate Fellowship
 
 * **Rida Shahid** (mentor Rocky Bala Garg, Lauren Tompkins) - [Implementation of Deep Learning Algorithm for identifying and locating primary vertices in ATLAS data](https://iris-hep.org/projects/pv-finder.html)

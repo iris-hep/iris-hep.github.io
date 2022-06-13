@@ -20,4 +20,7 @@ mentors:
   - Mike Sokoloff (University of Cincinnati)
 
 proposal: /assets/pdf/fellows-2022/006-proposal-Elliott-Kauffman.pdf
+current_status:
+github-username: ekauffma
+gitlab-url: https://gitlab.cern.ch/ekauffma
 ---

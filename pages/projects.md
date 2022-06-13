@@ -2,6 +2,7 @@
 permalink: /projects.html
 layout: default
 title: IRIS/HEP Projects
+mermaid: true
 ---
 
 # IRIS-HEP Projects
@@ -12,11 +13,12 @@ table {
 }
 </style>
 
+
 | Name | Focus Area(s) | Maturity | Description |
 |------|-------|-------|:------------|
 {% assign sorted = site.pages | sort_natural: 'title' -%}
-{%- for mypage in sorted -%}
-{%- if mypage.pagetype == 'project' -%}
+{% assign projects = sorted | where: "pagetype", "project" -%}
+{% for mypage in projects %}
 {%- capture focus-areas -%}
 {%- assign notfirst = false -%}
 {%- for fa in mypage.focus-area -%}
@@ -28,5 +30,12 @@ table {
 {%- endfor -%}
 {%- endcapture -%}
 | [{{mypage.title}}](/projects/{{mypage.shortname}}.html) | {{focus-areas}} | {% include maturity.html project=mypage %} | {{ mypage.blurb }} |
-{% endif -%}
-{% endfor -%}
+{% endfor %}
+
+<br/>
+
+{{ projects | gantt_projects }}
+
+<script>
+  mermaid.initialize({ startOnLoad: true });
+</script>

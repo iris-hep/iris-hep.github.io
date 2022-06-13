@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: zbilodea
@@ -18,8 +19,8 @@ project_goal: >
 mentors:
   - Tina Peters - (University of Delaware)
   - Chris Tunnell - (Rice University)
-
 proposal: /assets/pdf/fellows-2022/058-Zoe-Bilodeau.pdf
+github-username: zbilodea
 presentations:
 current_status: >
   A placeholder for status updates
