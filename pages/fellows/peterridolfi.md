@@ -19,5 +19,5 @@ mentors:
   - matthewfeickert
   - alexander-held
   - cranmer
-proposal: /assets/pdf/fellows-2022/<find-your-file>
+proposal: /assets/pdf/fellows-2022/009-proposal-Peter-Ridolfi.pdf
 presentations:
