@@ -85,9 +85,9 @@
             <i class="fab fa-github"></i><a href = "https://github.com/{{page.github-username}}"> Visit my GitHub Repo</a><br>
           </li>
           {% endif %}
-           {% if page.gitlab-username.size > 4 %}
+           {% if page.gitlab-url.size > 4 %}
           <li>
-            <i class="fab fa-gitlab"></i><a href = "https://gitlab.com/{{page.gitlab-username}}"> Visit my GitHub Repo</a><br>
+            <i class="fab fa-gitlab"></i><a href = "{{page.gitlab-url}}"> Visit my GitHub Repo</a><br>
           </li>
           {% endif %}
           {% if page.linkedin-profile.size > 4 %}
