@@ -4,7 +4,7 @@ pagetype: fellow
 permalink: /fellows/parth-07.html
 fellow-name: Parth Arora
 title: Parth Arora - IRIS-HEP Fellow
-active: true
+active: false
 dates:
   start: 2021-11-21
   end: 2022-05-21
