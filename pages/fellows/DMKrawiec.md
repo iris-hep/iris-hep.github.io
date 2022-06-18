@@ -4,7 +4,7 @@ pagetype: fellow
 permalink: /fellows/DMKrawiec.html
 fellow-name: Dominika Maria Krawiec
 title: Dominika Krawiec - IRIS-HEP Fellow
-active: true
+active: false
 dates:
   start: 2022-02-15
   end: 2022-05-15
