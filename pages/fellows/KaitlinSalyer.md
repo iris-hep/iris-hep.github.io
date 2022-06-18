@@ -2,7 +2,7 @@
 permalink: /fellows/ksalyer.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
 title: Kaitlin Salyer - IRIS-HEP Fellow
 fellow-name: Kaitlin Salyer
 project_title: AutoDQM A Machine Learning Approach to Data Quality Monitoring at CMS
