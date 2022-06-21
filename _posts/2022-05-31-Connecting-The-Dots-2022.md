@@ -27,7 +27,7 @@ But the discipline still comes with plenty of opportunities to innovate, says Sa
     caption="David Lange, computational physicist at Princeton and lead organizer, presenting at the CTD 2022 workshop. Credit: Floe Fusin-Wischusen, Princeton University."
 %}
 
-## Connecting the dots
+## Connecting The Dots
 
 Track reconstruction is an essential component to nearly every experiment conducted at particle colliders including the LHC, which is located at Europe's CERN laboratory on the French-Swiss border. A 17-mile ring of nearly airless pipes, superconducting magnets, and sophisticated detectors, the LHC is designed around the principle that the best way to reveal the secrets of the universe is to take tiny bits of it, smash them together, and look at what flies off.
 
