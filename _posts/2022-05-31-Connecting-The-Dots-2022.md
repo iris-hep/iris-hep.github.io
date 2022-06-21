@@ -15,7 +15,7 @@ Supported and hosted by the Institute for Research and Innovation in Software fo
 
 The workshop was held in a hybrid format that combines remote participation with an in-person gathering at Princeton’s Jadwin Hall, home to the Department of Physics.
 
-Track reconstruction experts use data from particle detectors, like those used in the Large Hadron Collider (LHC), to determine the trajectories of particles. Despite needing colossal amounts of computing resources, they tend to draw little attention to themselves, says Princeton computational physicist David Lange, a member of IRIS-HEP's executive board who helped organize the workshop. The job's inconspicuousness, he says, comes from the work's reliability.  
+Track reconstruction experts use data from particle detectors, like those used in the Large Hadron Collider (LHC), to determine the trajectories of particles. Despite needing colossal amounts of computing resources, they tend to draw little attention to themselves, says Princeton computational physicist David Lange, a member of IRIS-HEP's executive board who helped organize the workshop. The job's inconspicuousness, he says, comes from the work's reliability.
 
 "There are a lot of mature algorithms," he says. "We already have a fully working battle-tested system but we need to prepare for the future."
 
