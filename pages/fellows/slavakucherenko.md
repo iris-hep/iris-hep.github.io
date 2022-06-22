@@ -21,13 +21,6 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/207-proposal-Viacheslav-Kucherenko.pdf
 presentations:
-   - title: "<Presentation Title"
-     date: "TBD"
-     url: <Presentation materials link>
-     meeting: <Meeting name>
-     meetingurl: <Meeting url - indico link, etc.>
-     recordingurl: <Recording url>
-     focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
  current_status: >
   A placeholder for status updates
 github-username: slavakucherenko
