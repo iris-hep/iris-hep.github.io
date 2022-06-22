@@ -21,5 +21,5 @@ mentors:
 proposal: /assets/pdf/fellows-2022/211-proposal-Andrii-Len.pdf
 presentations:
 current_status:
-github-username: <Andreylen>
+github-username: Andreylen
 ---
