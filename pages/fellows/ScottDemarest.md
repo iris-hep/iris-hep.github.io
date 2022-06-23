@@ -19,16 +19,9 @@ mentors:
   - Nick Smith - (FNAL)
   - Jim Pivarski - (Princeton)
 
-proposal: /assets/pdf/fellows-2022/IRIS-HEP Project Proposal Enable dask interopability with xrootd-accessible storage systems(1).pdf
+proposal: /assets/pdf/fellows-2022/013-proposal-Scott-Demarest.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 current_status: >
-  A placeholder for status updates
+
 github-username: ScottDemarest
 ---
