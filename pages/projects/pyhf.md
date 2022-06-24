@@ -66,6 +66,7 @@ team:
 
 Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
+- Audrey Kvam. Search for Events with Two Displaced Vertices from Pair-Produced Neutral Long-Lived Particles Decaying to Hadronic Jets in the Muon Spectrometer of the ATLAS Detector with Full Run 2 Data. PhD thesis, Washington U., Seattle, June, 2022. URL: https://cds.cern.ch/record/2812260.
 - ATLAS Collaboration. Search for heavy, long-lived, charged particles with large ionisation energy loss in pp collisions at s√=13 TeV using the ATLAS experiment and the full Run 2 dataset. May 2022. [arxiv:2205.06013](https://arxiv.org/abs/2205.06013)
 - ATLAS Collaboration. SimpleAnalysis: Truth-level Analysis Framework. Apr 2022. [https://cds.cern.ch/record/2805991](https://cds.cern.ch/record/2805991).
 - Tommaso Dorigo et al. Toward the End-to-End Optimization of Particle Physics Instruments with Differentiable Programming: a White Paper. Mar 2022. [arXiv:2203.13818](https://arxiv.org/abs/2203.13818).
