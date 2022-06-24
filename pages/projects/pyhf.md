@@ -77,7 +77,7 @@ Updating list of citations (from use in analyses and general reference) of `pyhf
 - ATLAS Collaboration. Search for events with a pair of displaced vertices from long-lived neutral particles decaying into hadronic jets in the ATLAS muon spectrometer in pp collisions at s√=13 TeV. Mar 2022. [arXiv:2203.00587](https://arxiv.org/abs/2203.00587).
 - Lukas Heinrich and Michael Kagan. Differentiable Matrix Elements with MadJax. Feb 2022. [arXiv:2203.00057](https://arxiv.org/abs/2203.00057).
 - Jim Pivarski, Eduardo Rodrigues, Kevin Pedro, Oksana Shadura, Benjamin Krikler, and Graeme A. Stewart. HL-LHC Computing Review Stage 2, Common Software Projects: Data Science Tools for Analysis. Feb 2022. [arXiv:2202.02194](https://arxiv.org/abs/2202.02194).
-- Florentin Jaffredo. Revisiting mono-τ tails at the LHC. Dec 2021. [arXiv:2112.14604](https://arxiv.org/abs/2112.14604).
+- Florentin Jaffredo. Revisiting mono-tau tails at the LHC. Eur. Phys. J. C, 82(6):541, Jun 2022. [arXiv:2112.14604](https://arxiv.org/abs/2112.14604), [doi:10.1140/epjc/s10052-022-10504-9](https://doi.org/10.1140/epjc/s10052-022-10504-9).
 - ATLAS Collaboration. Implementation of simplified likelihoods in HistFactory for searches for supersymmetry. Sep 2021. [https://cds.cern.ch/record/2782654](https://cds.cern.ch/record/2782654).
 - Michael J. Baker, Darius A. Faroughy, and Sokratis Trifinopoulos. Collider Signatures of Coannihilating Dark Matter in Light of the B-Physics Anomalies. Sep 2021. [arXiv:2109.08689](https://arxiv.org/abs/2109.08689).
 - Kyle Cranmer and others. Publishing statistical models: Getting the most out of particle physics experiments. Sep 2021. [arXiv:2109.04981](https://arxiv.org/abs/2109.04981).
