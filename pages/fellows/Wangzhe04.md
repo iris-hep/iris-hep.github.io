@@ -21,7 +21,7 @@ mentors:
   - Kyle Cranmer - University of Wisconsin - Madison
   - Alexander Held - University of Wisconsin - Madison
 
-proposal: /assets/pdf/fellows-2022/025-proposal-Zhe-Wang
+proposal: /assets/pdf/fellows-2022/025-proposal-Zhe-Wang.pdf
 presentations:
   - title: "<Presentation Title"
     date: "Presentation Date"
