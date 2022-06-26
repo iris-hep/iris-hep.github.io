@@ -22,11 +22,11 @@ proposal: /assets/pdf/fellows-2022/203-proposal-Andrii-Koval.pdf
 presentations:
   - title: ""
     date: ""
-    url: 
-    meeting: 
-    meetingurl: 
-    recordingurl: 
-    focus-area: 
+    url:
+    meeting:
+    meetingurl:
+    recordingurl:
+    focus-area:
 current_status: >
 github-username: andrii-hub
 ---
