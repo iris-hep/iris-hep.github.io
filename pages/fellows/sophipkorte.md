@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: sophipkorte
@@ -29,3 +30,4 @@ presentations:
 current_status: >
 
 github-username: sophipkorte
+---
