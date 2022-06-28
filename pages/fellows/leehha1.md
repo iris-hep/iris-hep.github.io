@@ -23,11 +23,11 @@ proposal: /assets/pdf/fellows-2022/205-proposal-Oleksii-Brovarnyk.pdf
 presentations:
   - title: ""
     date: ""
-    url: 
-    meeting: 
-    meetingurl: 
-    recordingurl: 
-    focus-area: 
+    url:
+    meeting:
+    meetingurl:
+    recordingurl:
+    focus-area:
 current_status: >
 github-username: leehha1
 ---
