@@ -1,8 +1,8 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname: leehha1
-permalink: /fellows/leehha1.html
+shortname: 47593978
+permalink: /fellows/47593978.html
 fellow-name: Oleksii Brovarnyk
 title: Oleksii Brovarnyk - IRIS-HEP Fellow
 active: True
@@ -21,7 +21,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/205-proposal-Oleksii-Brovarnyk.pdf
 presentations:
+  - title: ""
+    date: ""
+    url: 
+    meeting: 
+    meetingurl: 
+    recordingurl: 
+    focus-area: 
 current_status: >
-  A placeholder for status updates
 github-username: leehha1
 ---
