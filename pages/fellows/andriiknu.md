@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2022-06-27
   end: 2022-09-18
-photo: /assets/images/team/Andrii-Falko.jpg
+photo: /assets/images/team/Andrii_Falko.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: andrey2000fal@gmail.com
 project_title: An RDataFrame implementation for the Analysis Grand Challenge
