@@ -16,7 +16,7 @@ dates:
 <<<<<<< HEAD
 photo: /assets/images/team/Andrii-Falko.jpg
 =======
-photo: /assets/images/team/Andrey_Falko.jpg
+photo: /assets/images/team/Andrey-Falko.jpg
 >>>>>>> 74e1c4c8cceaea9caa73931d2a3600b24e19937a
 institution: Taras Shevchenko National University of Kyiv
 e-mail: andrey2000fal@gmail.com
