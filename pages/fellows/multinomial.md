@@ -31,7 +31,7 @@ proposal: /assets/pdf/fellows-2022/210-proposal-Oleksii-Kiva.pdf
 presentations:
 
 current_status: >
-  <strong>June 24 2022</strong> Bachelor of applied mathematics
+  -June 24 2022 Bachelor of applied mathematics
 github-username: multinomial
 
 ---
