@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: 59930887
@@ -21,12 +22,6 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/232-proposal-Kateryna-Skurativska.pdf
 presentations:
-  - title:
-    date:
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
 current_status: >
 github-username: SkurativskaKateryna
+---
