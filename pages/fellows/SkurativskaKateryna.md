@@ -3,8 +3,8 @@ layout: fellow
 pagetype: fellow
 shortname: 59930887
 permalink: /fellows/59930887.html
-fellow-name: Skurativska Kateryna
-title: Skurativska Kateryna - IRIS-HEP Fellow
+fellow-name: Kateryna Skurativska
+title: Kateryna Skurativska - IRIS-HEP Fellow
 active: True
 dates:
   start: 2022-07-04
