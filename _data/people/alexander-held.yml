@@ -222,3 +222,14 @@ presentations:
     - as
     - doma
   project: agc
+
+- title: "pyhf tutorial"
+  date: 2022-06-28
+  url: https://indico.cern.ch/event/1159574/contributions/4930681/
+  meeting: Hybrid ATLAS Induction Day + Software Tutorial
+  meetingurl: https://indico.cern.ch/event/1159574/
+  location: "CERN & Virtual"
+  focus-area: as
+  project:
+    - cabinetry
+    - pyhf
