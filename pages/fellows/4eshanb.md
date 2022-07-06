@@ -25,9 +25,9 @@ project_goal: >
   CPU and memory pressure in the OSDs, for which they cannot process filters or expressions
   efficiently, the query execution is pushed back to the client for processing.
 mentors:
-- Jeff LeFevre - (UC Santa Cruz)
-- Jianshen Liu - (UC Santa Cruz)
-- Jayjeet Chakraborty - (NIT, Durgapur)
+- Jeff LeFevre (UC Santa Cruz)
+- Jianshen Liu (UC Santa Cruz)
+- Jayjeet Chakraborty (NIT, Durgapur)
 
 proposal: /assets/pdf/Fellow-Eshan-Bhargava-Proposal.pdf
 presentations:
