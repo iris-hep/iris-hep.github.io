@@ -25,8 +25,8 @@ project_goal: >
      useful in preventing memory leaks, optimised allocation of memory and providing a significant
      gain in speeds.
 mentors:
-  - Jim Pivarski - (Princeton University)
-  - Ianna Osborne - (CERN)
+  - Jim Pivarski (Princeton University)
+  - Ianna Osborne (CERN)
 
 proposal: /assets/pdf/fellows-2022/007-proposal-Manasvi-Goyal.pdf
 

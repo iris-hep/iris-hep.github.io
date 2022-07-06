@@ -18,9 +18,9 @@ project_goal: >
     <br>
     GitHub url: <a href="https://github.com/peterridolfi/Pyhf-to-Combine-converter.git">https://github.com/peterridolfi/Pyhf-to-Combine-converter.git</a>
 mentors:
-  - Matthew Feickert (UIUC)
-  - Alexander Held (Wisconsin)
-  - Kyle Cranmer (NYU)
+  - Matthew Feickert (University of Wisconsin-Madison)
+  - Alexander Held (University of Wisconsin-Madison)
+  - Kyle Cranmer (NYU / University of Wisconsin-Madison)
 proposal: /assets/pdf/fellows-2022/009-proposal-Peter-Ridolfi.pdf
 presentations:
 current_status: >

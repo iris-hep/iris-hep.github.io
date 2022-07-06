@@ -16,7 +16,7 @@ project_title: The usage of Deep Learning for QCD background estimation
 project_goal: >
     The focus of the present project is to find optimal deep learning models to be used for the separation of signal and background events.
 mentors:
-  - Ece Asilar - (CERN)
+  - Ece Asilar (CERN)
 
 proposal: /assets/pdf/fellows-2022/211-proposal-Andrii-Len.pdf
 presentations:

@@ -16,7 +16,7 @@ project_title: An RDataFrame implementation for the Analysis Grand Challenge
 project_goal: >
     Providing a new implementation of the t-quark pair production analysis from the IRIS-HEP Analysis Grand Challenge (AGC) using ROOT's RDataFrame instead of Coffea.
 mentors:
-  - Enrico Guiraud - (CERN)
+  - Enrico Guiraud (CERN)
 
 proposal: /assets/pdf/fellows-2022/204-proposal-Andrii-Falko.pdf
 presentations:
