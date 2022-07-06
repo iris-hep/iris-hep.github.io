@@ -24,11 +24,11 @@ project_goal: >
   the C++ ServiceX backend to allow processing the publicly available CMS MiniAOD binary files.
 
 mentors:
-  - Gordon Watts - (University of Washington)
-  - Benjamin Galewsky - (NCSA)
-  - Oksana Shadura - (University of Nebraska - Lincoln)
-  - Mason Proffitt - (University of Washington)
-  - Alexander Held - (New York University)
+  - Gordon Watts (University of Washington)
+  - Benjamin Galewsky (NCSA)
+  - Oksana Shadura (University of Nebraska - Lincoln)
+  - Mason Proffitt (University of Washington)
+  - Alexander Held (New York University)
 proposal: /assets/pdf/fellows-2022/071-proposal-Haoran-Sun.pdf
 github-username: hswhhe
 presentations:

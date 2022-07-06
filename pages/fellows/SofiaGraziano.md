@@ -29,7 +29,7 @@ project_goal: >
   improve the accuracy of the machine learning algorithm.
 mentors:
 - Savannah Thais (Princeton University)
-- Daniel Murnane (LBL)
+- Daniel Murnane (LBNL)
 proposal: /assets/pdf/SofiaGrazianoProposal.pdf
 presentations:
 - title: Rotationally Equivariant Graph Neural Networks

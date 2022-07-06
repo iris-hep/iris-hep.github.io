@@ -22,7 +22,7 @@ project_goal: >
   coffea-casa analysis facility and will also serve as a test and demonstration of
   the coffea-casa system.
 mentors:
-- Kyle Cranmer - (New York University)
+- Kyle Cranmer (New York University)
 
 proposal: /assets/pdf/Fellow-Storm-Lin-Proposal.pdf
 presentations:

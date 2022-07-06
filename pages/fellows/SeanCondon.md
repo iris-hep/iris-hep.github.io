@@ -15,7 +15,7 @@ photo: /assets/images/team/Sean-Condon.jpg
 institution: Massachusetts Institute of Technology
 e-mail: scondon@mit.edu
 mentors:
-- Michael Williams (mwill@mit.edu)
+- Michael Williams (MIT)
 project_goal: >
   The LHCb experiment at the Large Hadron Collider produces around 40 Tbits/s of data
   while running. The main goal of this project is to develop multivariate algorithms

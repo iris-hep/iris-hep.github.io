@@ -27,7 +27,7 @@ projects:
     and a potential control box below the plot. It would enable a user to browse and
     look inside a ROOT file, completely via the terminal.
   mentors:
-  - Henry Schreiner - (Princeton University)
+  - Henry Schreiner (Princeton University)
   proposal: /assets/pdf/Fellow-Aman-Goel-Proposal-2.pdf
 
 - project_title: Advancing the Hist library

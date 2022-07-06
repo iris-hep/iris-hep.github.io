@@ -16,9 +16,9 @@ project_title: Geometric Machine Learning with DUNE
 project_goal: >
     Throughout the duration of this project, my main goal is to improve tracking algorithms used in geometric machine learning experiments for the DUNE project. In addition, I will compare the DUNE results found from geometric machine learning and compare them with results using CNN reconstruction.
 mentors:
-  - Jane Nachtman - (University of Iowa)
-  - Hongyang Gao - (Iowa State University)
-  - Jin Tian - (Iowa State University)
+  - Jane Nachtman (University of Iowa)
+  - Hongyang Gao (Iowa State University)
+  - Jin Tian (Iowa State University)
 
 proposal: /assets/pdf/fellows-2022/018-proposal-Katie-Edwards.pdf
 presentations:

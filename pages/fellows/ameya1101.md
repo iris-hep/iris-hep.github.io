@@ -22,8 +22,8 @@ project_goal: >
     can reduce the number of parameters and potentially reduce training and inference times
     for the model, while retaining the expressive power of non-equivariant GNNs.
 mentors:
-  - Savannah Thais - (Princeton University)
-  - Daniel Murnane - (Lawrence Berkeley National Laboratory)
+  - Savannah Thais (Princeton University)
+  - Daniel Murnane (Lawrence Berkeley National Laboratory)
 proposal: /assets/pdf/fellows-2022/008-proposal-Ameya-Thete.pdf
 presentations:
 current_status: >

@@ -14,7 +14,7 @@ photo: /assets/images/team/Orgho-Neogi.jpg
 institution: University of Iowa
 e-mail: anoronyo@gmail.com
 mentors:
-- Jane Nachtman ()
+- Jane Nachtman (University of Iowa)
 project_goal: >
   Neutrino reconstruction is being attempted currently through a number of techniques.
   My goad is to create a machine learning model for neutrino reconstruction. Then

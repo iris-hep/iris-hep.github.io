@@ -14,7 +14,7 @@ photo: /assets/images/team/Jeremy-Ferguson.jpg
 institution: University of California-Berkeley
 e-mail: jmfergie@berkeley.edu
 mentors:
-- Daniel Murnane ()
+- Daniel Murnane (LBNL)
 project_goal: >
   Investigate post-processing algorithms for the output of graph neural networks for
   particle tracks. Apply traditional graph algorithms and end-to-end machine learning

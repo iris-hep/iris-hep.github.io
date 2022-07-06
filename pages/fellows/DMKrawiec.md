@@ -29,7 +29,7 @@ project_goal: >
   The goal of this project is to further improve the conformal space fit and its stability,
   and optimise certain aspects of the Interaction Network's architecture for this purpose.
 mentors:
-- Savannah Thais - (Princeton University)
+- Savannah Thais (Princeton University)
 
 proposal: /assets/pdf/Fellow-Dominika-Krawiec-Proposal.pdf
 presentations:

@@ -25,7 +25,7 @@ project_goal: >
    and some ‘pruning’ criteria for the blocks.
 
 mentors:
-  - Alexander Held - University of Wisconsin-Madison & IRIS-HEP
+  - Alexander Held (University of Wisconsin-Madison)
 
 proposal: /assets/pdf/fellows-2022/210-proposal-Oleksii-Kiva.pdf
 presentations:

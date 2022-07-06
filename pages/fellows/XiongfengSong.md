@@ -15,7 +15,7 @@ photo: /assets/images/team/Xiongfeng_Song.JPG
 institution: Rice University
 e-mail: xs16@rice.edu
 mentors:
-- Jeff LeFevre(University of California Santa Cruz)
+- Jeff LeFevre (University of California Santa Cruz)
 
 project_goal: >
   Skyhook project is an extension of Ceph for the scalable storage of tables and for

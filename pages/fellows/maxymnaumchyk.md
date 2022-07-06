@@ -16,7 +16,7 @@ project_title: Integrating ML algorithms for LHC data compression into the ESCAP
 project_goal: >
     Integrate one of the current state-of-the-art ML algorithms designed for LHC data compression into the ESCAPE Virtual Research Environment as a part of the European Open Science Cloud. The successful results of the project will open the possibility of extending the use of this algorithm to other experiments and fields.
 mentors:
-  - Caterina Doglioni - (University of Manchester)
+  - Caterina Doglioni (University of Manchester)
 
 proposal: /assets/pdf/fellows-2022/200-proposal-Maxym-Naumchyk.pdf
 presentations:

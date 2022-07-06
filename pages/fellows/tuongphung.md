@@ -20,10 +20,10 @@ project_goal: >
   CMS NanoAOD datasets. Additionally, the ServiceX and SkyHook services will be deployed
   together at the Coffea-Casa AF to be integrated in developed analysis examples.
 mentors:
-- Frank Golf - (University of Nebraska-Lincoln)
-- Oksana Shadura - (University of Nebraska-Lincoln, CERN)
-- Ken Bloom - (University of Nebraska-Lincoln)
-- Brian Bockelman - (Morgridge Institute for Research)
+- Frank Golf (University of Nebraska-Lincoln)
+- Oksana Shadura (University of Nebraska-Lincoln)
+- Ken Bloom - University of Nebraska-Lincoln)
+- Brian Bockelman (Morgridge Institute for Research)
 
 proposal: /assets/pdf/Fellow-Tuong-Phung-Proposal.pdf
 presentations:

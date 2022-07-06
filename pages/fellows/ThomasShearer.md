@@ -14,7 +14,7 @@ photo: /assets/images/team/Thomas-Shearer.jpg
 institution: University of Michigan - Ann Arbor
 email: shearert@umich.edu
 mentors:
-- Shawn McKee
+- Shawn McKee (U.Michigan)
 project_goal: >
   The OSG-LHC Network Monitoring collects and manages many different types of metrics
   related to network performance. The purpose is to enable identification of network
