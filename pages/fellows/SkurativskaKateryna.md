@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2022-07-04
   end: 2022-09-23
-photo: /assets/images/team/Kateryna-Skurativska.jpg
+photo: /assets/images/team/Kateryna-Skurativska.JPG
 institution: Kyiv Academic University
 e-mail: kateryna.skur@gmail.com
 project_title: Towards a deep learning framework for efficient jet tagging
