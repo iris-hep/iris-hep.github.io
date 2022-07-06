@@ -45,8 +45,7 @@ project_title: <Project title>
 project_goal: >
     Short description of your project
 mentors:
-  - <Mentor Name (<Mentor Institution>)>
-
+  - <Mentor Name (<Mentor Institution>)
 proposal: /assets/pdf/fellows-2022/<find-your-file>
 presentations:
   - title: "<Presentation Title"
