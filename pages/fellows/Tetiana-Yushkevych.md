@@ -21,10 +21,10 @@ proposal: /assets/pdf/fellows-2022/221-proposal-Tetiana-Yushkevych.pdf
 presentations:
   - title: ""
     date: ""
-    url: 
-    meeting: 
+    url:
+    meeting:
     meetingurl:
-    recordingurl: 
+    recordingurl:
     focus-area:
 current_status: >
   A placeholder for status updates
