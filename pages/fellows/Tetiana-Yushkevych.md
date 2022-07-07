@@ -19,13 +19,13 @@ mentors:
   -  Markus Diefenthaler (Jefferson Lab)
 proposal: /assets/pdf/fellows-2022/221-proposal-Tetiana-Yushkevych.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+  - title: ""
+    date: ""
+    url: 
+    meeting: 
+    meetingurl:
+    recordingurl: 
+    focus-area:
 current_status: >
   A placeholder for status updates
 github-username: Tetiana-Yushkevych
