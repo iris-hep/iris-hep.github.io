@@ -21,6 +21,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/231-proposal-Dmytro-Horyslavets.pdf
 presentations:
+  - title: ""
+    date: ""
+    url: 
+    meeting: 
+    meetingurl: 
+    recordingurl: 
+    focus-area: 
 current_status: >
 github-username: d-goryslavets
 ---
