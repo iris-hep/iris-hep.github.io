@@ -15,7 +15,7 @@ e-mail: nepotlet@gmail.com
 project_title: Sequence-read extraction from counting de Bruijn graphs
 project_goal: >
     We will extend the MetaGraph framework by adding the sequence-read extraction option from the counting de Bruijn graphs. Hence given a sequence search result, all reads that overlap the parts of the graph that matched could be extracted and used in further downstream analysis.
-    
+
 mentors:
   - Andre Kahles (University of Zurich)
 
