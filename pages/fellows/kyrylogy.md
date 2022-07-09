@@ -14,11 +14,11 @@ institution: Taras Shevchenko National University of Kyiv
 e-mail: meliushkokyrylo@gmail.com
 project_title: Implementation of CI/CD Automation and Orchestration in CMS Monitoring Kubernetes Clusters
 project_goal: >
-    Lots of cron jobs are running in various environments, writing outputs to different storages, which creates a dependency to the older infrastructure, also including Spark Analytix Cluster managed by CERN IT and ElasticSearch/EOS/MongoDB to store the results. The goal of this project is to ease and secure the adoption process of each cron job to the k8s clusters by writing individual test scripts. 
+    Lots of cron jobs are running in various environments, writing outputs to different storages, which creates a dependency to the older infrastructure, also including Spark Analytix Cluster managed by CERN IT and ElasticSearch/EOS/MongoDB to store the results. The goal of this project is to ease and secure the adoption process of each cron job to the k8s clusters by writing individual test scripts.
 mentors:
   - Brij Kishor Jashal (Valencia U., IFIC and TIFR, Mumbai, DHEP)
 proposal: /assets/pdf/fellows-2022/206-proposal-Kyrylo-Meliushko.pdf
 presentations:
-current_status: 
+current_status:
 github-username: kyrylogy
 ---
