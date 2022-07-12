@@ -25,5 +25,5 @@ proposal: /assets/pdf/fellows-2022/025-proposal-Zhe-Wang.pdf
 presentations:
 current_status: >
 
-github-username: <Your git-hub username>
+github-username: wangzhe04
 ---
