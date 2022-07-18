@@ -233,3 +233,14 @@ presentations:
   project:
     - cabinetry
     - pyhf
+
+- title: "The IRIS-HEP Analysis Grand Challenge"
+  date: 2022-07-09
+  url: https://agenda.infn.it/event/28874/contributions/169204/
+  meeting: ICHEP 2022
+  meetingurl: https://agenda.infn.it/event/28874/
+  location: "Bologna, Italy"
+  focus-area:
+    - as
+    - doma
+  project: agc
