@@ -15,7 +15,7 @@ institution: Taras Shevchenko National University of Kyiv
 e-mail: jityshchenko@gmail.com
 project_title: A rigorous benchmarking of methods for SARS-CoV-2 lineage detection in wastewater.
 project_goal: >
-    Lately, wastewater monitoring as a technique for viral survalience has seen a lot of success. With the current methods in sequencing and software it allows for monitoring population viral prevelance with equal quality to the quality of clinical monitoring. We propose to extend these capabilities with monitoring the prevelence of all novel and appearing strains. The goal now is to evaluate the ability of the chosen methods to detect different abundance lineages from sequencing data of wastewater samples by also creating a benchmark for that.
+    Lately, wastewater monitoring as a technique for viral surveillance has seen a lot of success. With the current methods in sequencing and software it allows for monitoring population viral prevalence with equal quality to the quality of clinical monitoring. We propose to extend these capabilities with monitoring the prevalence of all novel and appearing strains. The goal now is to evaluate the ability of the chosen methods to detect different abundance lineages from sequencing data of wastewater samples by also creating a benchmark for that.
 mentors:
   - Serghei Mangul (University of Southern California)
   - Sergey Knyazev (University of California)
