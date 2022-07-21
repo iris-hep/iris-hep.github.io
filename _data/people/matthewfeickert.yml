@@ -7,7 +7,7 @@ institution: University of Wisconsin-Madison
 name: Matthew Feickert
 photo: "/assets/images/team/matthewfeickert.jpeg"
 shortname: matthewfeickert
-title: Postdoctoral researcher
+title: Postdoctoral researcher and Analysis Systems Area Lead
 website: https://www.matthewfeickert.com
 presentations:
 - title: 'pyhf: a pure Python implementation of HistFactory with tensors and autograd'
