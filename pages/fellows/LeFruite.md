@@ -24,7 +24,7 @@ mentors:
   - Dmytro Kryvokhyzha (Lund University Diabetes Center)
 proposal: /assets/pdf/fellows-2022/230-proposal-Volodymir-Shabanov.pdf
 presentations:
-current_status: 
+current_status:
 github-username: LeFruite
 ---
 
