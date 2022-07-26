@@ -17,7 +17,7 @@ project_goal:
     The project's objective is to provide an interactive tool for evaluating confocal microscopic images of cells in order to determine their features, including volume, polarity, and cross-sectional area.
 mentors:
   - Abhishek Biswas (Princeton University)
-proposal: /assets/pdf/fellows-2022/<find-your-file>
+proposal: /assets/pdf/fellows-2022/234-proposal-Ivan-Prinko.pdf
 presentations:
   - title: "<Presentation Title"
     date: "Presentation Date"
