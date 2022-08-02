@@ -266,6 +266,15 @@ presentations:
   focus-area: as
   project:
 
+- title: 'Analysis as Applications: Quick introduction to lockfiles'
+  date: 2022-07-16
+  url: https://doi.org/10.25080/majora-212e5952-028
+  meeting: 21st Python in Science Conference (SciPy 2022)
+  meetingurl: http://conference.scipy.org/proceedings/scipy2022/
+  location: Austin, Texas
+  focus-area: as
+  project:
+
 - title: 'Feedback from Data and Analysis Preservation, Recasting, and Reinterpretation white paper authors'
   date: 2022-07-21
   url: https://indico.fnal.gov/event/22303/contributions/245996/
