@@ -14,7 +14,7 @@ institution: Taras Shevchenko National University of Kyiv
 e-mail: sorokun.ernest@gmail.com
 project_title: Data Reduction for the ProtoDUNE Detector Control System
 project_goal: >
-	The reconstruction of particle trajectories in a LArTPC critically relies on understanding the conditions
+    The reconstruction of particle trajectories in a LArTPC critically relies on understanding the conditions
 under which the data was taken such as temperature, purity and pressure of the LAr, or the high voltage between the wire planes.
 One use case of this data is to exclude periods of unstable high voltage (from short cuts, power cuts, etc. . . ) for further data analysis.
 Currently, these unstable periods are identified as cases where the system resistance is lower than a hand-picked value.
