@@ -270,7 +270,7 @@ presentations:
   date: 2022-07-16
   url: https://doi.org/10.25080/majora-212e5952-028
   meeting: 21st Python in Science Conference (SciPy 2022)
-  meetingurl: http://conference.scipy.org/proceedings/scipy2022/
+  meetingurl: https://conference.scipy.org/proceedings/scipy2022/
   location: Austin, Texas
   focus-area: as
   project:
