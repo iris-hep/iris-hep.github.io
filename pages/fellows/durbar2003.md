@@ -8,7 +8,7 @@ title: Durbar Chakraborty - IRIS-HEP Fellow
 active: True
 dates:
   start: 2022-05-06
-  end: 2022-08-05
+  end: 2022-09-05
 photo: /assets/images/team/Durbar-Chakraborty.jpeg
 institution: National Institute of Technology, Durgapur
 e-mail: durbardibyo@gmail.com
