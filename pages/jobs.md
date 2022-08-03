@@ -8,6 +8,9 @@ title: Available Positions
 
 A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
+### University of Nebraska-Lincoln
+  * [DevOps Engineer](https://employment.unl.edu/postings/80705)
+
 ### University of Washington, Seattle
   * [Postdoc on Exotics Physics and IRIS-HEP Analysis Software](https://inspirehep.net/jobs/1863400)
 
