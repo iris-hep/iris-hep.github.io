@@ -273,7 +273,7 @@ presentations:
   meeting: The Python Exchange for DOE Employees (DOEPy)
   meetingurl: https://meetup.doepy.org/
   location: Virtual
-  focus-area: as
+  focus-area:
     - as
     - doma
   project:
