@@ -278,6 +278,15 @@ presentations:
     - doma
   project:
 
+- title: 'pyhf: a pure-Python statistical fitting library with tensors and automatic differentiation'
+  date: 2022-07-08
+  url: https://agenda.infn.it/event/28874/contributions/169217/
+  meeting: International Conference on High Energy Physics (ICHEP) 2022
+  meetingurl: https://agenda.infn.it/event/28874/
+  location: Bologna, Italy
+  focus-area: as
+  project: pyhf
+
 - title: 'Analysis as Applications: Quick introduction to lockfiles'
   date: 2022-07-15
   url: https://doi.org/10.25080/majora-212e5952-028
