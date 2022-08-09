@@ -266,6 +266,18 @@ presentations:
   focus-area: as
   project:
 
+- title: 'Modern Python analysis ecosystem for High Energy Physics'
+  date: 2022-06-29
+  url: https://doi.org/10.25080/
+  video: https://youtu.be/QSlcmZw0rRk
+  meeting: The Python Exchange for DOE Employees (DOEPy)
+  meetingurl: https://meetup.doepy.org/
+  location: Virtual
+  focus-area: as
+    - as
+    - doma
+  project:
+
 - title: 'Analysis as Applications: Quick introduction to lockfiles'
   date: 2022-07-15
   url: https://doi.org/10.25080/majora-212e5952-028
