@@ -268,7 +268,7 @@ presentations:
 
 - title: 'Modern Python analysis ecosystem for High Energy Physics'
   date: 2022-06-29
-  url: https://doi.org/10.25080/
+  url: https://doi.org/10.5281/zenodo.6976007
   video: https://youtu.be/QSlcmZw0rRk
   meeting: The Python Exchange for DOE Employees (DOEPy)
   meetingurl: https://meetup.doepy.org/
