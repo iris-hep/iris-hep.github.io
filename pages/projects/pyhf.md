@@ -66,10 +66,14 @@ team:
 
 Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
-- Audrey Kvam. Search for Events with Two Displaced Vertices from Pair-Produced Neutral Long-Lived Particles Decaying to Hadronic Jets in the Muon Spectrometer of the ATLAS Detector with Full Run 2 Data. PhD thesis, Washington U., Seattle, June, 2022. [https://cds.cern.ch/record/2812260](https://cds.cern.ch/record/2812260).
+- Lukas Allwicher, Darius. A. Faroughy, Florentin Jaffredo, Olcyr Sumensari, and Felix Wilsch. HighPT: A Tool for high-pT Drell-Yan Tails Beyond the Standard Model. Jul 2022. [arXiv:2207.10756](https://arxiv.org/abs/2207.10756).
+- Belle Collaboration. Search for a dark leptophilic scalar produced in association with τ+τ− pair in e+e− annihilation at center-of-mass energies near 10.58 GeV. Jul 2022. [arXiv:2207.07476](https://arxiv.org/abs/2207.07476).
+- Gaël Alguero, Jack Y. Araz, Benjamin Fuks, and Sabine Kraml. Signal region combination with full and simplified likelihoods in MadAnalysis 5. Jun 2022. [arXiv:2206.14870](https://arxiv.org/abs/2206.14870).
+- Audrey Kvam. _Search for Events with Two Displaced Vertices from Pair-Produced Neutral Long-Lived Particles Decaying to Hadronic Jets in the Muon Spectrometer of the ATLAS Detector with Full Run 2 Data_. PhD thesis, Washington U., Seattle, Jun, 2022. [https://cds.cern.ch/record/2812260](https://cds.cern.ch/record/2812260).
 - ATLAS Collaboration. Search for heavy, long-lived, charged particles with large ionisation energy loss in pp collisions at s√=13 TeV using the ATLAS experiment and the full Run 2 dataset. May 2022. [arxiv:2205.06013](https://arxiv.org/abs/2205.06013).
 - ATLAS Collaboration. SimpleAnalysis: Truth-level Analysis Framework. Apr 2022. [https://cds.cern.ch/record/2805991](https://cds.cern.ch/record/2805991).
 - Tommaso Dorigo et al. Toward the End-to-End Optimization of Particle Physics Instruments with Differentiable Programming: a White Paper. Mar 2022. [arXiv:2203.13818](https://arxiv.org/abs/2203.13818).
+- Lucas Santiago Borgna. _Search for pair production of Higgs Bosons decaying to four bottom quarks with data collected by the ATLAS detector_. PhD thesis, University Coll. London, Mar, 2022. https://cds.cern.ch/record/2812193.
 - Alexander Albert et al. Strange quark as a probe for new physics in the Higgs sector. In _2022 Snowmass Summer Study_. Mar 2022. [arXiv:2203.07535](https://arxiv.org/abs/2203.07535).
 - Nathan Simpson and Lukas Heinrich. neos: End-to-End-Optimised Summary Statistics for High Energy Physics. Mar 2022. [arXiv:2203.05570](https://arxiv.org/abs/2203.05570).
 - Harry Enke et al. Survey of Open Data Concepts Within Fundamental Physics: An Initiative of the PUNCH4NFDI Consortium. _Computing and Software for Big Science_, 6(1):6, Mar 2022. [doi:10.1007/s41781-022-00081-7](https://doi.org/10.1007/s41781-022-00081-7).
