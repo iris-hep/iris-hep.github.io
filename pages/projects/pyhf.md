@@ -66,6 +66,7 @@ team:
 
 Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
+- Belle Collaboration. Search for a dark leptophilic scalar produced in association with τ+τ− pair in e+e− annihilation at center-of-mass energies near 10.58 GeV. Jul 2022. [arXiv:2207.07476](https://arxiv.org/abs/2207.07476).
 - Gaël Alguero, Jack Y. Araz, Benjamin Fuks, and Sabine Kraml. Signal region combination with full and simplified likelihoods in MadAnalysis 5. Jun 2022. [arXiv:2206.14870](https://arxiv.org/abs/2206.14870).
 - Audrey Kvam. _Search for Events with Two Displaced Vertices from Pair-Produced Neutral Long-Lived Particles Decaying to Hadronic Jets in the Muon Spectrometer of the ATLAS Detector with Full Run 2 Data_. PhD thesis, Washington U., Seattle, Jun, 2022. [https://cds.cern.ch/record/2812260](https://cds.cern.ch/record/2812260).
 - ATLAS Collaboration. Search for heavy, long-lived, charged particles with large ionisation energy loss in pp collisions at s√=13 TeV using the ATLAS experiment and the full Run 2 dataset. May 2022. [arxiv:2205.06013](https://arxiv.org/abs/2205.06013).
