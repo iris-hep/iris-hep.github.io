@@ -528,7 +528,7 @@ presentations:
   - as
   project:
   - awkward
-- title: Awkward Arrays: Accelerating scientific data analysis on irregularly shaped data (poster)
+- title: "Awkward Arrays: Accelerating scientific data analysis on irregularly shaped data (poster)"
   date: 2022-07-25
   url: https://github.com/jpivarski-talks/2022-07-25-cssi-meeting-poster/blob/main/pivarski-awkward-cssi-poster.pdf
   meeting: NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) Principal Investigator Meeting
