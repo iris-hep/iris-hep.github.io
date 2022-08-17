@@ -26,8 +26,8 @@ presentations:
     url: https://indico.cern.ch/event/1184316/contributions/4975856/subcontributions/389792/attachments/2485843/4268216/atell_krasnopolski_jet_reconstruction_with_julia.pdf
     meeting: 2022 Lightning Talk
     meetingurl: https://indico.cern.ch/event/1184316/
-    recordingurl: 
-    focus-area: 
+    recordingurl:
+    focus-area:
 current_status:
 github-username: gojakuch
 ---
