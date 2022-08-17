@@ -14,6 +14,10 @@ institution: Cluster Innovation Centre, University of Delhi
 e-mail: saransh0701@gmail.com
 project_title: Vector - Constructors, documentation, and benchmarks
 project_goal: >
+    Vector is a Python library for 2D, 3D, and Lorentz vectors, including
+    arrays of vectors, designed to solve common physics problems in a NumPy-like
+    way. Vector currently supports pure Python Object, NumPy, Awkward, and Numba-based
+    (Numba-Object, Numba-Awkward) backends. </br> </br>
     The user-facing API of Vector is a bit confusing as it does not expose
     its true API, which are the Python classes. The current API provides
     wrapper functions (named as obj, arr, and awk) to users which are also
@@ -34,6 +38,12 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
-current_status:
+- title: Vector - Constructors, documentation, and benchmarks
+  date: 2022-06-15
+  url: https://indico.cern.ch/event/1155138/contributions/4850299/subcontributions/385059/attachments/2463404/4223807/Saransh-Chopra.pdf
+  meeting: IRIS-HEP Fellows Lightning Talks
+  meetingurl: https://indico.cern.ch/event/1155138/
+  recordingurl: https://www.youtube.com/watch?v=fLt7BHuASpw
+  focus-area: AS
 github-username: Saransh-cpp
 ---
