@@ -31,4 +31,12 @@ current_status: >
 github-username: ameya1101
 focus-area:
   - ia
+presentations:
+  - title: Equivariant Graph Neural Networks for Particle Tracking
+    date: 2022-06-13
+    url: https://indico.cern.ch/event/1155137/contributions/4850298/subcontributions/385039/attachments/2461289/4219922/Ameya-Thete.pdf
+    meeting: IRIS-HEP Fellows "Lightning" Talks
+    meetingurl: https://indico.cern.ch/event/1155137/
+    focus-area: ia
+    location: Virtual
 ---
