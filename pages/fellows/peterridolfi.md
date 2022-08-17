@@ -18,5 +18,10 @@ mentors:
   - matthewfeickert
   - alexander-held
   - cranmer
-proposal: /assets/pdf/fellows-2022/<find-your-file>
+proposal: /assets/pdf/fellows-2022/09-proposal-Peter-Ridolfi.pdf
 presentations:
+ - title: Pyhf to Combine Converter
+    date: 2022-06-15
+    url: https://docs.google.com/presentation/d/1GKn3bDsDgIQY_-MXNjD2mfvUyppZ3lbw
+    meeting: 2022 Lightning Talk
+  
