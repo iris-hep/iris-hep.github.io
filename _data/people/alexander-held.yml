@@ -200,3 +200,47 @@ presentations:
     - cabinetry
     - pyhf
     - agc
+
+- title: Introduction to pyhf and experience in the context of ATLAS
+  date: 2022-06-09
+  url: https://indico.cern.ch/event/1166812/#15-introduction-to-pyhf-and-ex
+  meeting: ATLAS Statistics Forum Meeting
+  meetingurl: https://indico.cern.ch/event/1166812/
+  location: "(Virtual)"
+  focus-area: as
+  project:
+    - cabinetry
+    - pyhf
+
+- title: "IRIS-HEP Analysis Grand Challenge: Status & plans"
+  date: 2022-06-13
+  url: https://indico.cern.ch/event/1169378/#26-iris-hep-agc-2023-planning
+  meeting: ATLAS Software & Computing Week
+  meetingurl: https://indico.cern.ch/event/1169378/
+  location: "CERN"
+  focus-area:
+    - as
+    - doma
+  project: agc
+
+- title: "pyhf tutorial"
+  date: 2022-06-28
+  url: https://indico.cern.ch/event/1159574/contributions/4930681/
+  meeting: Hybrid ATLAS Induction Day + Software Tutorial
+  meetingurl: https://indico.cern.ch/event/1159574/
+  location: "CERN & Virtual"
+  focus-area: as
+  project:
+    - cabinetry
+    - pyhf
+
+- title: "The IRIS-HEP Analysis Grand Challenge"
+  date: 2022-07-09
+  url: https://agenda.infn.it/event/28874/contributions/169204/
+  meeting: ICHEP 2022
+  meetingurl: https://agenda.infn.it/event/28874/
+  location: "Bologna, Italy"
+  focus-area:
+    - as
+    - doma
+  project: agc

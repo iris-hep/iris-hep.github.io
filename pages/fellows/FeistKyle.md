@@ -19,8 +19,8 @@ project_goal: >
   used with existing path reconstruction algorithms through muon collider simulations
   in C++
 mentors:
-- Sergo Jindariani - (Fermilab)
-- Simone Pagan - (Lawrence Berkeley National Laboratory)
+- Sergo Jindariani (Fermilab)
+- Simone Pagan (Lawrence Berkeley National Laboratory)
 proposal: /assets/pdf/Fellows-Kyle-Feist-Proposal.pdf
 presentations:
 - title: Evolutionary Algorithm for Optimization of Track Reconstruction at a Muon

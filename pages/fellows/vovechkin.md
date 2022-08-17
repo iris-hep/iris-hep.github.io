@@ -27,9 +27,9 @@ project_goal: >
   RECAST-workflow besides Rivet (e.g. MadAnalsyis), add alternative statistical tools
   (e.g. pyhf), and to run the workflows in REANA on the cloud.
 mentors:
-- Shih-Chieh Hsu (UW)
+- Shih-Chieh Hsu (U.Washington)
 - Lukas Heinrich (CERN)
-- Alex Schuy (UW)
+- Alex Schuy (U.Washington)
 proposal: /assets/pdf/Fellow-Vovechkin-Proposal.pdf
 presentations:
 - title: ' Recast-workflow: Fast Truth-level Interpretations'

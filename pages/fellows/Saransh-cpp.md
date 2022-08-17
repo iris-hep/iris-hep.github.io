@@ -29,8 +29,8 @@ project_goal: >
     by exposing its internal API to the users, improving the documentation,
     and adding benchmarks.
 mentors:
-  - Henry Schreiner - (Princeton University)
-  - Jim Pivarski - (Princeton University)
+  - Henry Schreiner (Princeton University)
+  - Jim Pivarski (Princeton University)
 
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
