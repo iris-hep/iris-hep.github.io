@@ -1,4 +1,4 @@
---
+---
 layout: fellow
 pagetype: fellow
 shortname: peterridolfi
@@ -8,7 +8,7 @@ title: Peter Ridolfi - IRIS-HEP Fellow
 active: true
 dates:
   start: 2022-05-16
-  end: 2022-08-12
+  end: 2022-08-19
 photo: /assets/images/team/Peter-Ridolfi.jpg
 institution: University of Pittsburgh
 e-mail: pbr11@pitt.edu
