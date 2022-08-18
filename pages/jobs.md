@@ -19,6 +19,9 @@ A number of employment opportunities exist with the universities involved in IRI
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
+### CMS
+  * [Two Postdoc Openings on CMS](https://academicjobsonline.org/ajo/jobs/22334)
+
 ### University of Chicago
 
   * [Director of Computing and IT (Physical Sciences Division)](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Director-of-Computing-and-Information-Technology_JR17427)
