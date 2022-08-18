@@ -20,7 +20,7 @@ mentors:
   - Sergo Jindariani (Fermilab)
 
 proposal: /assets/pdf/fellows-2022/044-proposal-Natalie-Bruhwiler.pdf
-presentations: 
+presentations:
 - title: Muon Collider Tracking Software
   date: 2022-06-13
   url: https://indico.cern.ch/event/1155137/contributions/4850298/subcontributions/385046/attachments/2461296/4219938/Natalie-Bruhwiler.pdf
