@@ -1,4 +1,4 @@
---
+---
 layout: fellow
 pagetype: fellow
 shortname: peterridolfi
@@ -8,7 +8,7 @@ title: Peter Ridolfi - IRIS-HEP Fellow
 active: true
 dates:
   start: 2022-05-16
-  end: 2022-08-12
+  end: 2022-08-19
 photo: /assets/images/team/Peter-Ridolfi.jpg
 institution: University of Pittsburgh
 e-mail: pbr11@pitt.edu
@@ -23,10 +23,14 @@ mentors:
   - Kyle Cranmer (NYU / University of Wisconsin-Madison)
 proposal: /assets/pdf/fellows-2022/009-proposal-Peter-Ridolfi.pdf
 presentations:
- - title: Pyhf to Combine Converter
-   date: 2022-06-15
-   url: https://docs.google.com/presentation/d/1GKn3bDsDgIQY_-MXNjD2mfvUyppZ3lbw
-   meeting: 2022 Lightning Talk
+- title: 'Pyhf to Combine Converter'
+  date: 2022-06-15
+  url: https://indico.cern.ch/event/1155138/contributions/4850299/
+  meeting: IRIS-HEP Fellows Projects Lightning Talks 2022
+  meetingurl: https://indico.cern.ch/event/1155138
+  location: Virtual
+  focus-area: as
+  project:
 current_status: >
 github-username: peterridolfi
 ---
