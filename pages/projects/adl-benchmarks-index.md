@@ -6,9 +6,11 @@ shortname: adl-benchmarks-index
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Functionality benchmarks for analysis description languages
-maturity: Unknown
+maturity: Deployed
 maturity-note:
 focus-area: as
+github: https://github.com/iris-hep/adl-benchmarks-index
+start-date: 2019-05-05
 team:
  - masonproffitt
 ---

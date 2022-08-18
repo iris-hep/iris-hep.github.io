@@ -8,6 +8,8 @@ image: logos/idds.png
 blurb: Delivering Data.  Better.
 maturity: Deployed
 maturity-note:
+start-date: 2019-09-01
+github: https://github.com/HSF/iDDS
 focus-area: doma
 team:
  - bbockelm

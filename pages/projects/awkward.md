@@ -10,6 +10,8 @@ blurb: Manipulate arrays of complex data structures
 maturity: Deployed
 maturity-note:
 focus-area: as
+github: https://github.com/scikit-hep/awkward
+start-date: 2018-06-10
 team:
 - jpivarski
 ---

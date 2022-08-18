@@ -9,6 +9,8 @@ logowidth: 25%
 blurb: "Allen: a GPU trigger for LHCb"
 maturity: Testing
 maturity-note:
+github: https://gitlab.cern.ch/lhcb/Allen
+start-date: 2018-04-19
 focus-area: ia
 team:
  - mityinzer
