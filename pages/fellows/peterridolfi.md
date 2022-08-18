@@ -1,4 +1,4 @@
----
+--
 layout: fellow
 pagetype: fellow
 shortname: peterridolfi
@@ -23,7 +23,10 @@ mentors:
   - Kyle Cranmer (NYU / University of Wisconsin-Madison)
 proposal: /assets/pdf/fellows-2022/009-proposal-Peter-Ridolfi.pdf
 presentations:
+ - title: Pyhf to Combine Converter
+   date: 2022-06-15
+   url: https://docs.google.com/presentation/d/1GKn3bDsDgIQY_-MXNjD2mfvUyppZ3lbw
+   meeting: 2022 Lightning Talk
 current_status: >
-
 github-username: peterridolfi
 ---
