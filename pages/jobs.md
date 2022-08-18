@@ -24,11 +24,6 @@ with an HEP background, but which are not directly related to IRIS-HEP.
   * [Director of Computing and IT (Physical Sciences Division)](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Director-of-Computing-and-Information-Technology_JR17427)
 
 
-### Princeton University
-
-  * [Manager, Research Software Engineering](https://main-princeton.icims.com/jobs/14134/manager%2c-research-software-engineering/job?mobile=false&width=1048&height=500&bga=true&needsRedirect=false&jan1offset=60&jun1offset=120)
-
-
 ### ATLAS
 
   * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
