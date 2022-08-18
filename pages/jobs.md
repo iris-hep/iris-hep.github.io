@@ -28,4 +28,8 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
 
+### Fermilab
+
+  * [Computing Services Specialist](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Computing--Services-Specialist-I_R_005963) - Envisioned to have both sysadmin/technical and user-facing components supporting HPC users (e.g. Lattice QCD) as well as multiple HEP experiments across all frontiers.
+
 ### Others
