@@ -15,3 +15,10 @@ presentations:
   meetingurl: https://indico.bnl.gov/event/9023/
   location: Virtual
   focus-area: ssc
+- title: Understanding Software Community Formation
+  date: 2022-02-24
+  url: https://doi.org/10.5281/zenodo.6257662
+  meeting: Topology Optimization (TOP) Webinar
+  meetingurl: https://topwebinar.weblog.tudelft.nl/webinar20/
+  location: Virtual
+  focus-area: ssc
