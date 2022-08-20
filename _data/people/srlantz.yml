@@ -40,7 +40,7 @@ presentations:
   location: Princeton University
   focus-area: ia
   project: mkfit
-- title: Performance Case Study: the mkFit Particle Tracking Code
+- title: 'Performance Case Study: the mkFit Particle Tracking Code'
   date: 2022-08-02
   url: https://iris-hep.org/projects/mkfit.html
   meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
