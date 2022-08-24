@@ -27,6 +27,11 @@ presentations:
   meeting: IRIS-HEP Lightning Talks
   meetingurl: https://indico.cern.ch/event/1155137/
   recordingurl: https://youtu.be/qgqQo_05rRo?t=1922
+- title: Reducing fake tracks for the Muon Collider Detector
+  date: 2022-08-23
+  url: https://indico.cern.ch/event/1192812/contributions/5014587/attachments/2496257/4287253/IRIS-HEP%20Final%20Presentation.pdf
+  meeting: MCC Physics and Detector Simulation
+  meetingurl: https://indico.cern.ch/event/1192812/
 current_status: >
 github-username: njbruhwiler
 ---
