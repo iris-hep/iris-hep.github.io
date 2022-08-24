@@ -46,7 +46,7 @@
 <div class="container-fluid">
   <div class="row">
     {% for person in fa_team %}
-    <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px;">
+    <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px; border: none; text-align: center;">
       <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
       {%- if person.website -%}
         <a href="{{person.website}}">{{ person.name }}</a>
