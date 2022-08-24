@@ -26,7 +26,7 @@ team:
 
 
 IRIS-HEP has been established to meet the software and computing challenges of the experimental particle physics community. In order to meet the challenges of the HL-LHC, IRIS-HEP researchers are engaged in various exploratory projects. Some of these emerge from previous targeted research or as a means to engage the broader scientific community.
-IRIS-HEP is an excellent example of use-inspired research, and the products of that research is often applicable to other domains. Similarly, IRIS-HEP is embracing the NSF theme of convergence as we must bring together developments in computer science, data science, and statistics to meet the demands of the LHC. Many of these projects have [impact beyond high-energy pphysics](/impact-beyond-hep.html)
+IRIS-HEP is an excellent example of use-inspired research, and the products of that research is often applicable to other domains. Similarly, IRIS-HEP is embracing the NSF theme of convergence as we must bring together developments in computer science, data science, and statistics to meet the demands of the LHC. Many of these projects have [impact beyond high-energy physics](/impact-beyond-hep.html)
 
 
 ---
@@ -40,7 +40,7 @@ IRIS-HEP is an excellent example of use-inspired research, and the products of t
  </div>
  <div class="col-8">
   <h3>Proteins and Robotics </h3>
-In collaboration with reseachers at DeepMind and MIT, Kyle Cranmer use machine leaning to describe data that is restricted to certain shapes because of geometric constraints. This type of structure appears in <a href="https://doi.org/10.1073/pnas.0801715105">protein structure</a>, robotics, geology, <a href="https://arxiv.org/abs/2003.06413">nuclear physics</a>, and high energy particle physics. Read the paper:
+In collaboration with researchers at DeepMind and MIT, Kyle Cranmer use machine leaning to describe data that is restricted to certain shapes because of geometric constraints. This type of structure appears in <a href="https://doi.org/10.1073/pnas.0801715105">protein structure</a>, robotics, geology, <a href="https://arxiv.org/abs/2003.06413">nuclear physics</a>, and high energy particle physics. Read the paper:
 <a href="https://arxiv.org/abs/2002.02428"> aXiv:2002.02428</a>. (Protein figure from Boomsma <a href="https://doi.org/10.1073/pnas.0801715105">Boosma, PNAS.</a>)
 )
  </div>
@@ -84,8 +84,8 @@ Partially supported by IRIS-HEP's exploratory machine learning efforts, Kyle Cra
 
   <h3>Algorithmic Fairness, Privacy, and Causality</h3>
 
-  As machine learning becomes increasingly integrated into our moderrn lives, a major concern is that the outcome of an automated decisionmaking system should not discriminate between subgroups characterized by sensitive attributes such as gender or race. This is the basis of research around "algorithmic fairness". A similar problem appears in the context of particle physics where physicists don't want the outcome to depend on an uncertain quantity.  To address this problem, Gilles Louppe, Michael Kagan, and Kyle Cranmer developed  a technique to train a neural network <a href="https://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks.pdf">to be independent of one or more attributes</a>. The technique has been applied to or inspired various work on algorithmic fairness including  <a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4085">"One-Network Adversarial Fairness"</a>. The image to the left is taken from <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/">this nice blog post</a> by Stijn Tonk. In addition, the work has inspired work by researchers at INRIA and UC Berkeley in
-  <a href="https://arxiv.org/abs/1905.10214">privacy and encription</a> as well as research into the
+  As machine learning becomes increasingly integrated into our modern lives, a major concern is that the outcome of an automated decision making system should not discriminate between subgroups characterized by sensitive attributes such as gender or race. This is the basis of research around "algorithmic fairness". A similar problem appears in the context of particle physics where physicists don't want the outcome to depend on an uncertain quantity.  To address this problem, Gilles Louppe, Michael Kagan, and Kyle Cranmer developed  a technique to train a neural network <a href="https://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks.pdf">to be independent of one or more attributes</a>. The technique has been applied to or inspired various work on algorithmic fairness including  <a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4085">"One-Network Adversarial Fairness"</a>. The image to the left is taken from <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/">this nice blog post</a> by Stijn Tonk. In addition, the work has inspired work by researchers at INRIA and UC Berkeley in
+  <a href="https://arxiv.org/abs/1905.10214">privacy and encryption</a> as well as research into the
   <a href="https://arxiv.org/abs/1907.02893">correlation-versus-causation dilemma</a>.
 
  </div>
@@ -123,7 +123,7 @@ Partially supported by IRIS-HEP's exploratory machine learning efforts, Kyle Cra
 
   <h3>Genomics</h3>
 
-Hierarchical clustering is a common clustering approach for gene expression data. Within particle physics hierarchical clusterirng appears in the context of jets -- the most copiously produced objects at the Large Hadron Collider. One challenge is that the number of hierarchical clusterings grows very quickly with the number of objects being clustered.
+Hierarchical clustering is a common clustering approach for gene expression data. Within particle physics hierarchical clustering appears in the context of jets -- the most copiously produced objects at the Large Hadron Collider. One challenge is that the number of hierarchical clusterings grows very quickly with the number of objects being clustered.
 IRIS-HEP researchers Sebastian Macaluso and Kyle Cranmer connected with computer scientists at U. Mass Amherst to extend a clustering algorithm they had developed for the hierarchical case. This algorithm was applied to both particle physics and cancer genomics studies in <a href="https://arxiv.org/abs/2002.11661">Compact Representation of Uncertainty in Hierarchical Clustering</a>.
  </div>
 </div>
