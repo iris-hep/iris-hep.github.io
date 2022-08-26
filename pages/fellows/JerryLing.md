@@ -7,8 +7,8 @@ fellow-name: Jerry Ling
 title: Jerry Ling - IRIS-HEP Fellow
 active: True
 dates:
-  start: 6/26/2022
-  end: 9/26/2022
+  start: 2022-06-26
+  end: 2022-09-26
 photo: /assets/images/team/Jerry-Ling.jpg
 institution: Harvard University
 e-mail: jling@g.harvard.edu
