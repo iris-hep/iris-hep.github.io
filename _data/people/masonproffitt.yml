@@ -128,3 +128,23 @@ presentations:
   - awkward
   - vector
   - histogram
+- title: Analysis Grand Challenge / HEP Scientific Python Ecosystem
+  date: 2022-07-20
+  url: https://indico.cern.ch/event/1151329/timetable/#3-analysis-grand-challenge-hep
+  meeting: DANCE/CoDaS@Snowmass 2022 computational and data science software training
+  meetingurl: https://indico.cern.ch/event/1151329/
+  location: University of Washington
+  focus-area: as
+  project:
+  - uproot
+  - awkward
+  - vector
+  - histogram
+- title: Uproot Tutorial
+  date: 2022-08-02
+  url: https://indico.cern.ch/event/1163542/contributions/4886715/
+  meeting: CAMPFIRE 2022
+  meetingurl: https://indico.cern.ch/event/1163542/
+  location: Argonne National Laboratory
+  focus-area: as
+  project: uproot
