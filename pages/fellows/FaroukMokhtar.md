@@ -40,6 +40,5 @@ presentations:
   focus-area: ia
 current_status: >
   <strong>December 2021</strong> - PhD Candidate in Experimental High Energy Physics University of California San Diego
-github-username: faroukmokhtar
-
+github-username: farakiko
 ---

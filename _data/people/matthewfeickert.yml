@@ -7,7 +7,7 @@ institution: University of Wisconsin-Madison
 name: Matthew Feickert
 photo: "/assets/images/team/matthewfeickert.jpeg"
 shortname: matthewfeickert
-title: Postdoctoral researcher
+title: Postdoctoral Researcher and Analysis Systems Area Lead
 website: https://www.matthewfeickert.com
 presentations:
 - title: 'pyhf: a pure Python implementation of HistFactory with tensors and autograd'
@@ -262,6 +262,45 @@ presentations:
   url: https://indico.cern.ch/event/1126109/contributions/4780168/
   meeting: IRIS-HEP AGC Tools 2022 Workshop
   meetingurl: https://indico.cern.ch/event/1126109/
+  location: Virtual
+  focus-area: as
+  project:
+
+- title: 'Modern Python analysis ecosystem for High Energy Physics'
+  date: 2022-06-29
+  url: https://doi.org/10.5281/zenodo.6976007
+  video: https://youtu.be/QSlcmZw0rRk
+  meeting: The Python Exchange for DOE Employees (DOEPy)
+  meetingurl: https://meetup.doepy.org/
+  location: Virtual
+  focus-area:
+    - as
+    - doma
+  project:
+
+- title: 'pyhf: a pure-Python statistical fitting library with tensors and automatic differentiation'
+  date: 2022-07-08
+  url: https://agenda.infn.it/event/28874/contributions/169217/
+  meeting: International Conference on High Energy Physics (ICHEP) 2022
+  meetingurl: https://agenda.infn.it/event/28874/
+  location: Bologna, Italy
+  focus-area: as
+  project: pyhf
+
+- title: 'Analysis as Applications: Quick introduction to lockfiles'
+  date: 2022-07-15
+  url: https://doi.org/10.25080/majora-212e5952-028
+  meeting: 21st Python in Science Conference (SciPy 2022)
+  meetingurl: https://conference.scipy.org/proceedings/scipy2022/
+  location: Austin, Texas
+  focus-area: as
+  project:
+
+- title: 'Feedback from Data and Analysis Preservation, Recasting, and Reinterpretation white paper authors'
+  date: 2022-07-21
+  url: https://indico.fnal.gov/event/22303/contributions/245996/
+  meeting: Seattle Snowmass Summer Meeting 2022
+  meetingurl: https://indico.fnal.gov/event/22303/
   location: Virtual
   focus-area: as
   project:

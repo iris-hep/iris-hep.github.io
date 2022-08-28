@@ -16,3 +16,35 @@ presentations:
   location: Princeton University
   focus-area: ia
   project: mkfit
+- title: What Every Computational Physicist Should Know About Computer Architecture
+  date: 2022-08-01
+  url: https://indico.cern.ch/event/1151367/contributions/4831988/attachments/2487691/4272849/WhatEveryCompPhysShouldKnow.pdf
+  meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
+  meetingurl: https://indico.cern.ch/event/1151367/timetable/
+  location: Princeton University
+  focus-area: ia
+  project: mkfit
+- title: Vector Parallelism on Multi-Core Processors
+  date: 2022-08-01
+  url: https://indico.cern.ch/event/1151367/contributions/4969936/attachments/2487652/4271613/VectorParallelismMultiCoreProcs.pdf
+  meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
+  meetingurl: https://indico.cern.ch/event/1151367/timetable/
+  location: Princeton University
+  focus-area: ia
+  project: mkfit
+- title: Introduction to Performance Tuning & Optimization Tools
+  date: 2022-08-02
+  url: https://indico.cern.ch/event/1151367/contributions/4831985/attachments/2488357/4274758/IntroPerfTuningOpt.pdf
+  meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
+  meetingurl: https://indico.cern.ch/event/1151367/timetable/
+  location: Princeton University
+  focus-area: ia
+  project: mkfit
+- title: 'Performance Case Study: the mkFit Particle Tracking Code'
+  date: 2022-08-02
+  url: https://iris-hep.org/projects/mkfit.html
+  meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
+  meetingurl: https://indico.cern.ch/event/1151367/timetable/
+  location: Princeton University
+  focus-area: ia
+  project: mkfit

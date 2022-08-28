@@ -18,19 +18,12 @@ project_goal:
     Currently, the available morphing technique in Madminer requires an inflexible distinct number of default physics parameter values (basis points) needed to use (the number varies depending on the physics process of interest).
     Thus, we propose to implement a new approach that relaxes the requirement which would allow researchers to pick additional physics parameter values as basis points while still being able to reweight to any other position in parameter space.
 mentors:
-  - Kyle Cranmer - University of Wisconsin - Madison
-  - Alexander Held - University of Wisconsin - Madison
+  - Kyle Cranmer (University of Wisconsin - Madison)
+  - Alexander Held (University of Wisconsin - Madison)
 
 proposal: /assets/pdf/fellows-2022/025-proposal-Zhe-Wang.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 current_status: >
-  A placeholder for status updates
-github-username: <Your git-hub username>
+
+github-username: wangzhe04
 ---

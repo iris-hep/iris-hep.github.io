@@ -29,8 +29,8 @@ project_goal: >
     The major aim of the project proposal is to extend the development of boost-histogram tool through new features additions, core function changes, edge-case covers, bug fixes and more exhaustive documentation. This extension of the tool will result in making the tool better by improving performance, widening usability, easier readability (of documentation), covering of varied applications, and meticulous fine-tuning of functions.
 
 mentors:
-  - Henry Schreiner - (Princeton University)
-  - Hans Dembinski - (TU Dortmund)
+  - Henry Schreiner (Princeton University)
+  - Hans Dembinski (TU Dortmund)
 
 proposal: /assets/pdf/fellows-2022/011-proposal-Jay-Gohil.pdf
 

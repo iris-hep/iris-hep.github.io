@@ -17,7 +17,7 @@ project_goal: >
     Cling is an interactive C++ interpreter/compiler that utilizes the REPL (read-evaluate-print-loop) paradigm for fast development and testing as well as immediate feedback and runtime-generated code. One of the many useful tools included in the Cling interpreter is the Cling Packaging Tool (CPT), which is a command line utility that can easily build Cling from source and generate installer bundles for a variety of platforms, including Ubuntu and Debian-based platforms, Windows, distributions based on Red Hat Linux, Mac OS X, and any Unix-like platform. While the CPT is an incredibly useful and flexible tool, there are several improvements that can be made to make the user’s experience with the CPT even more seamless.
 
 mentors:
-  - Vassil Vassilev - (Princeton University/CERN)
+  - Vassil Vassilev (Princeton University)
 
 proposal: /assets/pdf/fellows-2022/029-proposal-Surya-Somayyajula.pdf
 presentations:

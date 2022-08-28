@@ -518,3 +518,37 @@ presentations:
   - servicex
   - uproot
   - awkward
+- title: Loopy and Unloopy programming techniques (tutorial)
+  date: 2022-07-11
+  url: https://github.com/jpivarski-talks/2022-07-11-scipy-loopy-tutorial#readme
+  meeting: SciPy 2022 Conference
+  meetingurl: https://www.scipy2022.scipy.org/
+  location: Austin, Texas
+  focus-area:
+  - as
+  project:
+  - awkward
+- title: "Awkward Arrays: Accelerating scientific data analysis on irregularly shaped data (poster)"
+  date: 2022-07-25
+  url: https://github.com/jpivarski-talks/2022-07-25-cssi-meeting-poster/blob/main/pivarski-awkward-cssi-poster.pdf
+  meeting: NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) Principal Investigator Meeting
+  meetingurl: https://cssi-pi-community.github.io/2022-meeting/
+  location: Alexandria, VA
+  focus-area:
+  - as
+  project:
+  - awkward
+- title: Columnar data analysis (tutorial)
+  date: 2022-08-03
+  url: https://github.com/jpivarski-talks/2022-08-03-codas-hep-columnar-tutorial#readme
+  meeting: Fourth Computational and Data Science for High Energy Physics (CoDaS-HEP)
+    School
+  meetingurl: http://codas-hep.org/
+  location: Princeton University
+  focus-area:
+  - as
+  project:
+  - awkward
+  - uproot
+  - histogram
+  - scikit-hep
