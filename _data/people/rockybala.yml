@@ -72,3 +72,19 @@ presentations:
   project: acts
   focus-area: ia
   location: CERN
+- title: "Optimization of ACTS-AMVF for ITk"
+  date: 2022-05-12
+  url: https://indico.cern.ch/event/1159874/contributions/4871201/attachments/2443227/4186049/VertexMeeting_May12th_CTDplots.pdf
+  meeting: Vertex reconstruction meeting
+  meetingurl: https://indico.cern.ch/event/1159874/
+  project: acts
+  focus-area: ia
+  location: CERN
+- title: "Exploration of different parameter optimization algorithms within the context of ACTS software framework"
+  date: 2022-06-02
+  url: https://indico.cern.ch/event/1103637/contributions/4821875/
+  meeting: Connecting The Dots 2022
+  meetingurl: https://indico.cern.ch/event/1103637/
+  project: acts
+  focus-area: ia
+  location: Princeton, NJ
