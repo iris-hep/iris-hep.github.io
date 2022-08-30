@@ -172,3 +172,11 @@ presentations:
   - ia
   - doma
   - as
+- title: "Sustainable Cyberinfrastructure for Matrix Element Analyses through Deep Learning"
+  date: 2022-07-09
+  url: https://agenda.infn.it/event/28874/contributions/169206/attachments/94742/129894/ICHEP2022_Neubauer.pdf
+  meeting: International Conference on High Energy Physics (ICHEP 2022)
+  meetingurl: https://www.ichep2022.it
+  location: Bologna, Italy
+  focus-area:
+  - as
