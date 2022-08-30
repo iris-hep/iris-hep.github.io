@@ -25,8 +25,8 @@ project_goal: >
   delivering a list of previously unidentified anomalous events.
 
 mentors:
-- Maurizio Pierini - (CERN)
-- Jean-Roch Vlimant - (Caltech)
+- Maurizio Pierini (CERN)
+- Jean-Roch Vlimant (Caltech)
 
 proposal: /assets/pdf/Fellow-Eric-Moreno-Proposal.pdf
 presentations:

@@ -8,7 +8,7 @@ title: Peter Ridolfi - IRIS-HEP Fellow
 active: true
 dates:
   start: 2022-05-16
-  end: 2022-08-12
+  end: 2022-08-19
 photo: /assets/images/team/Peter-Ridolfi.jpg
 institution: University of Pittsburgh
 e-mail: pbr11@pitt.edu
@@ -18,12 +18,19 @@ project_goal: >
     <br>
     GitHub url: <a href="https://github.com/peterridolfi/Pyhf-to-Combine-converter.git">https://github.com/peterridolfi/Pyhf-to-Combine-converter.git</a>
 mentors:
-  - Matthew Feickert (UIUC)
-  - Alexander Held (Wisconsin)
-  - Kyle Cranmer (NYU)
+  - Matthew Feickert (University of Wisconsin-Madison)
+  - Alexander Held (University of Wisconsin-Madison)
+  - Kyle Cranmer (NYU / University of Wisconsin-Madison)
 proposal: /assets/pdf/fellows-2022/009-proposal-Peter-Ridolfi.pdf
 presentations:
+- title: 'Pyhf to Combine Converter'
+  date: 2022-06-15
+  url: https://indico.cern.ch/event/1155138/contributions/4850299/
+  meeting: IRIS-HEP Fellows Projects Lightning Talks 2022
+  meetingurl: https://indico.cern.ch/event/1155138
+  location: Virtual
+  focus-area: as
+  project:
 current_status: >
-
 github-username: peterridolfi
 ---

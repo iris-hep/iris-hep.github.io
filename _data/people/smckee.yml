@@ -387,3 +387,35 @@ presentations:
   location: Zoom
   focus-area: osglhc
   project: osg-networking
+- title: OSG Networking Update
+  url: https://docs.google.com/presentation/d/1SrC9_DKz1u6z3_PmMc1QctVT630e8cbhngwfG-pZA6Y/edit?usp=sharing
+  meeting: "OSG/PATh Staff Meeting"
+  meetingurl: https://osg-htc.org/management/staff-meeting/
+  date: 2022-05-11
+  location: Zoom
+  focus-area: osglhc
+  project: osg-networking
+- title: WLCG Site Network Monitoring
+  url: https://docs.google.com/presentation/d/1D7HPTEv-98hPIZYcP_vUPcPOvprpVd8dpErTo1UjinM/edit?usp=sharing
+  meeting: "WLCG Ops Coordination"
+  meetingurl: https://indico.cern.ch/event/1166315/
+  date: 2022-06-02
+  location: Zoom
+  focus-area: osglhc
+  project: osg-networking
+- title: ATLAS Site Network Monitoring
+  url: https://indico.cern.ch/event/1163923/contributions/4912422/attachments/2460422/4218370/ATLAS%20Site-Network-Monitoring_Shawn-McKee.pdf
+  meeting: "ATLAS Software & Computing Week Sites Round Table"
+  meetingurl: https://indico.cern.ch/event/1163923/
+  date: 2022-06-13
+  location: Zoom
+  focus-area: osglhc
+  project: osg-networking
+- title: Networking Analytics Activities
+  url: https://indico.cern.ch/event/1184398/contributions/5008595/attachments/2494612/4284886/Network%20Monitoring%20and%20Analytics.pdf
+  meeting: "ATLAS ADC Analytics"
+  meetingurl: https://indico.cern.ch/event/1184398/
+  date: 2022-08-19
+  location: Zoom
+  focus-area: osglhc
+  project: osg-networking

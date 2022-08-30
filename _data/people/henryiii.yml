@@ -378,3 +378,60 @@ presentations:
   focus-area: as
   project: rootconda
   location: Fermilab (virtual)
+
+
+- title: "Awkward Packaging: building Scikit-HEP"
+  date: 2022-07-14
+  url: https://www.scipy2022.scipy.org/schedule
+  meeting: SciPy 2022
+  meetingurl: https://www.scipy2022.scipy.org
+  location: Austin, TX
+  video: https://youtu.be/PqCxnhoxUTE
+  focus-area: as
+  project: scikit-hep
+
+- title: "Building binary extensions with pybind11, scikit build, and cibuildwheel"
+  date: 2022-07-15
+  url: https://www.scipy2022.scipy.org/schedule
+  meeting: SciPy 2022
+  meetingurl: https://www.scipy2022.scipy.org
+  location: Austin, TX
+  video: https://youtu.be/eMJ1ayLEArc
+  focus-area: as
+  project: scikit-hep
+
+- title: "Scientific Python Ecosystem"
+  date: 2022-07-19
+  meeting: DANCE/CoDaS@Snowmass 2022
+  meetingurl: https://indico.cern.ch/event/1151329
+  url: https://indico.cern.ch/event/1151329/timetable/#1-scientific-python-ecosystem
+  location: Seattle, WA
+  focus-area: ssc
+  project:
+
+- title: "Analysis Grand Challenge / HEP Scientific Python Ecosystem"
+  date: 2022-07-20
+  meeting: DANCE/CoDaS@Snowmass 2022
+  meetingurl: https://indico.cern.ch/event/1151329
+  url: https://indico.cern.ch/event/1151329/timetable/#3-analysis-grand-challenge-hep
+  location: Seattle, WA
+  focus-area: ssc
+  project:
+
+- title: "The Scientific Python Ecosystem"
+  date: 2022-08-01
+  meeting: CoDaS-HEP 2022
+  meetingurl: https://indico.cern.ch/event/1151367/timetable/
+  url: https://indico.cern.ch/event/1151367/timetable/#33-the-scientific-python-ecosy
+  location: Princeton, NJ
+  focus-area: ssc
+  project:
+
+- title: "Everything you didn't know you needed"
+  date: 2022-08-05
+  meeting: CoDaS-HEP 2022
+  meetingurl: https://indico.cern.ch/event/1151367/timetable/
+  url: https://indico.cern.ch/event/1151367/timetable/#31-things-you-didnt-know-you-n
+  location: Princeton, NJ
+  focus-area: ssc
+  project:
