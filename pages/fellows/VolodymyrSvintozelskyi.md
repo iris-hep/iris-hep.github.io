@@ -20,13 +20,20 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/201-proposal-Volodymyr-Svintozelskyi.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "TBD"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url>
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+  - title: "Volodymyr Svintozelskyi - Development of high-performance reconstruction algorithms for detecting long-lived particles"
+    date: 2022-07-27
+    url: "https://indico.cern.ch/event/1184316/contributions/4975856/subcontributions/389796/attachments/2486437/4269348/V.Svintozelskyi%20IRIS-HEP%20Lightning%20talk.pdf"
+    meeting: "IRIS-HEP Fellows Introductory Presentations"
+    meetingurl: "https://indico.cern.ch/event/1184316/"
+    recordingurl: ""
+    focus-area: []
+  - title: "SciFi-Velo matching optimization"
+    date: 2022-08-23
+    url: "https://indico.cern.ch/event/1189570/contributions/5014580/attachments/2495784/4286452/VA_Matching_optimization.pdf"
+    meeting: "RTA: Reconstruction WP2 meeting"
+    meetingurl: "https://indico.cern.ch/event/1189570/"
+    recordingurl: ""
+    focus-area: []
 current_status: >
   A placeholder for status updates
 github-username: VolodymyrSvintozelskyi
