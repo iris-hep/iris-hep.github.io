@@ -32,6 +32,7 @@ project_goal: >
     This project would aim to prepare Vector for its first major release
     by exposing its internal API to the users, improving the documentation,
     and adding benchmarks.
+focus-area: as
 mentors:
   - Henry Schreiner (Princeton University)
   - Jim Pivarski (Princeton University)
@@ -44,6 +45,6 @@ presentations:
   meeting: IRIS-HEP Fellows Lightning Talks
   meetingurl: https://indico.cern.ch/event/1155138/
   recordingurl: https://www.youtube.com/watch?v=fLt7BHuASpw
-  focus-area: AS
+  focus-area: as
 github-username: Saransh-cpp
 ---
