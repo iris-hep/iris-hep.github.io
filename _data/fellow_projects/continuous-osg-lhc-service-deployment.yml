@@ -10,5 +10,5 @@ description: >
   in designing a Kubernetes-based continuous deployment model to
   automate production service updates.
 contacts:
-- brianhlin
-- matyasselmeci
+  - brianhlin
+  - matyasselmeci

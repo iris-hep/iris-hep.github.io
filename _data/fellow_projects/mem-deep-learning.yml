@@ -12,5 +12,5 @@ description: >
   the effects of using automatic differentiation to improve the interpolation
   of grid points.
 contacts:
-- msneubauer
-- matthewfeickert
+  - msneubauer
+  - matthewfeickert

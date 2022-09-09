@@ -1,8 +1,8 @@
 inspire-id: 1763198
 nsf-par-id: 10167904
 project:
-- madminer
-- exploratory-ml
+  - madminer
+  - exploratory-ml
 citation: "Proceedings of the National Academy of Sciences DOI:10.1073/pnas.1912789117"
 link: "https://doi.org/10.1073/pnas.1912789117"
 #comment: published, see citation.

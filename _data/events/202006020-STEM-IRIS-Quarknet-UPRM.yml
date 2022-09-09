@@ -7,4 +7,4 @@ image:
 students: 11
 description: K-12 teachers (US and Puerto Rico) analyze dataset from the CMS and interpret their findings by making plots, in collaboration with Quarknet.
 labels:
-- training
+  - training

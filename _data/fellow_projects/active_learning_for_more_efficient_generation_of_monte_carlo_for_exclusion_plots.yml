@@ -10,4 +10,4 @@ description: >
   would run on a machine with a GPU and be upgraded to include advances in scalable
   Gaussian Processes (eg. [GPyTorch](https://gpytorch.ai)).
 contacts:
-- fellows@iris-hep.org
+  - fellows@iris-hep.org

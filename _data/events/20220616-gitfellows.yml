@@ -6,4 +6,4 @@ meetingurl: https://indico.cern.ch/event/1171887/
 image:
 description: Info for Git/Github basic and advance training for the IRIS-HEP Summer 2022 Fellows.
 labels:
-- training
+  - training

@@ -15,4 +15,4 @@ description: >
   to apply within storage, since these will reduce network IO transferred back to
   the client from the storage layer.
 contacts:
-- fellows@iris-hep.org
+  - fellows@iris-hep.org

@@ -8,4 +8,4 @@ description: >
   RDataFrame](https://root.cern/manual/data_frame/).  This project will make
   ServiceX data a source for RDataFrame
 contacts:
-- gordonwatts
+  - gordonwatts

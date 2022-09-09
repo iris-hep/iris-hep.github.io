@@ -4,6 +4,6 @@ date: 2019-08-05
 citation: "ATL-PHYS-PUB-2019-029"
 focus-area: as
 project:
-- pyhf
-- recast
+  - pyhf
+  - recast
 comment: ATLAS PUB NOTE

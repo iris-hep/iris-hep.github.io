@@ -6,4 +6,4 @@ meetingurl: https://indico.cern.ch/event/1044523/
 image:
 description: Define, with the larger community, a series of specific goals for the period 2021-2023 in four categories (Scalability, Susutaianbilty,Training Scope and Diversity and Inclusion) and to work with the community to achieve them.
 labels:
-- training
+  - training

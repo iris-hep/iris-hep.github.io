@@ -9,5 +9,5 @@ description: >
   will investigate image vulnerability scanning tools and configurations to
   improve the security posture of our images.
 contacts:
-- brianhlin
-- matyasselmeci
+  - brianhlin
+  - matyasselmeci

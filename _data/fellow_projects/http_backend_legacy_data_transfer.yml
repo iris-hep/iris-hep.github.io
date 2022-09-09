@@ -10,4 +10,4 @@ description: >
   to help us prototype an implementation and demonstrate the ability to provide transfer
   connectivity between a source GridFTP and a destination HTTP server.
 contacts:
-- brianhlin
+  - brianhlin

@@ -1,4 +1,3 @@
-
 name: Matplotlib Training (Virtual)
 startdate: 2022-04-21
 enddate: 2022-04-22
@@ -7,4 +6,4 @@ meetingurl: https://indico.cern.ch/event/1058838/
 image:
 description: This training gives students a hands-on experience of versatility and functionality of Matplotlib to produce plots.
 labels:
-- training
+  - training

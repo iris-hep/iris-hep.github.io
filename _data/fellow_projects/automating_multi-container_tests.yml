@@ -10,4 +10,4 @@ description: >
   developing a nightly testing pipeline that verifies end-to-end functionality of
   a multi-container OSG site.
 contacts:
-- brianhlin
+  - brianhlin

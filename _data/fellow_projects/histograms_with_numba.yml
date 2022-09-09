@@ -14,5 +14,5 @@ description: >
   Python, with the goal of providing first class Numba support for
   boost-histogram.
 contacts:
-- henryiii
-- "[Hans Dembinski](mailto:hans.dembinski@gmail.com)"
+  - henryiii
+  - "[Hans Dembinski](mailto:hans.dembinski@gmail.com)"

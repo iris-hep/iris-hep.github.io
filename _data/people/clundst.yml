@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- doma
+  - doma
 institution: University of Nebraska - Lincoln
 name: Carl Lundstedt
 photo: "/assets/images/team/Carl-Lundstedt.png"
@@ -8,21 +8,21 @@ shortname: clundst
 title: Collaborator from US.CMS Ops program
 website: https://github.com/clundst
 presentations:
-- title: "Scale-out with coffea: coffea-casa analysis facility"
-  date: 2022-04-25
-  url: https://indico.cern.ch/event/1126109/contributions/4780165/
-  meeting:  IRIS-HEP AGC Tools (April) 2022 Workshop
-  meetingurl: https://indico.cern.ch/event/1076231
-  location: Virtual
-  focus-area:
-    - doma
-  project: coffea-casa
-- title: Dask at U.S.CMS analysis facilities
-  date: 2021-05-21
-  url: https://youtu.be/3bkuTy4I4uo?t=3793
-  meeting:  Dask Distributed Summit 2021, Dask in High Energy Physics Community, Tutorials and Workshops
-  meetingurl: https://summit.dask.org/schedule/presentation/24/dask-in-high-energy-physics-community/
-  location: Virtual
-  focus-area:
-    - doma
-  project: coffea-casa
+  - title: "Scale-out with coffea: coffea-casa analysis facility"
+    date: 2022-04-25
+    url: https://indico.cern.ch/event/1126109/contributions/4780165/
+    meeting: IRIS-HEP AGC Tools (April) 2022 Workshop
+    meetingurl: https://indico.cern.ch/event/1076231
+    location: Virtual
+    focus-area:
+      - doma
+    project: coffea-casa
+  - title: Dask at U.S.CMS analysis facilities
+    date: 2021-05-21
+    url: https://youtu.be/3bkuTy4I4uo?t=3793
+    meeting: Dask Distributed Summit 2021, Dask in High Energy Physics Community, Tutorials and Workshops
+    meetingurl: https://summit.dask.org/schedule/presentation/24/dask-in-high-energy-physics-community/
+    location: Virtual
+    focus-area:
+      - doma
+    project: coffea-casa

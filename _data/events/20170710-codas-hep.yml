@@ -6,4 +6,4 @@ meetingurl: http://codas-hep.org
 image:
 description: First school on tools, techniques and methods for Computational and Data Science for High Energy Physics (CoDaS-HEP)
 labels:
-- training
+  - training

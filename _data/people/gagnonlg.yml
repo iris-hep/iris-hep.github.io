@@ -1,31 +1,31 @@
 active: true
 e-mail: gagnonlg@lbl.gov
 focus-area:
-- ia
+  - ia
 institution: University of California, Berkeley
 name: Louis-Guillaume Gagnon
 photo: "/assets/images/team/LouisGuillaumeGagnon.jpg"
 shortname: gagnonlg
 title:
 presentations:
-- title: Update on pixel clusterization with ACTS in ITk
-  date: 2021-06-18
-  meeting: ACTS-ITk meeting
-  url: https://indico.cern.ch/event/1044816/contributions/4411271/
-  meetingurl: https://indico.cern.ch/event/1044816/
-  project: acts
-  location: CERN
-- title: Update on pixel clustering with ACTS
-  date: 2021-07-16
-  meeting: ACTS-ITk meeting
-  url: https://indico.cern.ch/event/1044821/contributions/4452223/
-  meetingurl: https://indico.cern.ch/event/1044821/
-  project: acts
-  location: CERN
-- title: Machine Learning for Track Reconstruction at the LHC
-  date: 2021-09-08
-  meeting: AI4EIC-Exp Workshop
-  url: https://indico.bnl.gov/event/10699/contributions/51456/
-  meetingurl: https://indico.bnl.gov/event/10699
-  project: acts
-  location: BNL
+  - title: Update on pixel clusterization with ACTS in ITk
+    date: 2021-06-18
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1044816/contributions/4411271/
+    meetingurl: https://indico.cern.ch/event/1044816/
+    project: acts
+    location: CERN
+  - title: Update on pixel clustering with ACTS
+    date: 2021-07-16
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1044821/contributions/4452223/
+    meetingurl: https://indico.cern.ch/event/1044821/
+    project: acts
+    location: CERN
+  - title: Machine Learning for Track Reconstruction at the LHC
+    date: 2021-09-08
+    meeting: AI4EIC-Exp Workshop
+    url: https://indico.bnl.gov/event/10699/contributions/51456/
+    meetingurl: https://indico.bnl.gov/event/10699
+    project: acts
+    location: BNL

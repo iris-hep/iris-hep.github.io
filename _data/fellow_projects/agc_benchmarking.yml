@@ -13,5 +13,5 @@ description: >
   more detail. Fellows are expected to have prior Python experience and interest in
   working with a diverse stack of analysis tools available in the ecosystem.
 contacts:
-- oshadura
-- alexander-held
+  - oshadura
+  - alexander-held

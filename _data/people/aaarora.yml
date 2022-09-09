@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- doma
+  - doma
 institution: University of California, San Diego
 name: Aashay Arora
 photo: /assets/images/team/Aashay-Arora.jpg
@@ -8,7 +8,7 @@ shortname: aaarora
 title:
 website:
 presentations:
-  - title: 'Using Microsoft Azure for XRootD network benchmarking'
+  - title: "Using Microsoft Azure for XRootD network benchmarking"
     date: 2021-07-20
     url: https://drive.google.com/drive/u/1/folders/1hMfmxGaY3ZEaCqUSoDtNA1frNqInE0jW
     meeting: PEARC'21 Poster Session
@@ -16,7 +16,7 @@ presentations:
     project: tpc
     focus-area: doma
     location: Virtual
-  - title: 'Systematic benchmarking of HTTPS third party copy on 100Gbps links using XRootD'
+  - title: "Systematic benchmarking of HTTPS third party copy on 100Gbps links using XRootD"
     date: 2021-05-18
     url: https://indico.cern.ch/event/948465/contributions/4323952/editing/paper/444/5642/XRootD_HTTPS_TPC_Benchmarking.pdf
     meeting: vCHEP'21

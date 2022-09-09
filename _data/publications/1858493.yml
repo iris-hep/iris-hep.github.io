@@ -1,5 +1,5 @@
 inspire-id: 1858493
 project:
-- ml4jets
-- exploratory-ml
+  - ml4jets
+  - exploratory-ml
 citation: "The Conference on Uncertainty in Artificial Intelligence (UAI) 2021."

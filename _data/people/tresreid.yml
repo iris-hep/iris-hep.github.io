@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- ia
+  - ia
 institution: Cornell University
 name: Michael (Tres) Reid
 photo: "/assets/images/team/Tres-Reid.jpg"
@@ -8,17 +8,17 @@ shortname: tresreid
 title: PhD Student
 website: https://github.com/
 presentations:
-- title: Segment Linking Development on GPUs
-  date: 2020-12-07
-  url: https://indico.cern.ch/event/962048/contributions/4126142/attachments/2157798/3640167/Segment%20Linking%20HLT-GPU%2012-7.pdf
-  meeting: HLT developments with GPUs
-  meetingurl: https://indico.cern.ch/event/962048/
-  project: lst
-  focus-area: ia
-- title: Line Segment Linking project
-  date: 2022-04-13
-  url: https://indico.cern.ch/event/1140356/contributions/4785341/attachments/2426814/4154880/Parallelize%20track%20finding%20on%20GPUs-%20iris%20help%204-13-22%20v3.pdf
-  meeting: IRIS-HEP Topical meeting
-  meetingurl: https://indico.cern.ch/event/1140356/
-  project: lst
-  focus-area: ia
+  - title: Segment Linking Development on GPUs
+    date: 2020-12-07
+    url: https://indico.cern.ch/event/962048/contributions/4126142/attachments/2157798/3640167/Segment%20Linking%20HLT-GPU%2012-7.pdf
+    meeting: HLT developments with GPUs
+    meetingurl: https://indico.cern.ch/event/962048/
+    project: lst
+    focus-area: ia
+  - title: Line Segment Linking project
+    date: 2022-04-13
+    url: https://indico.cern.ch/event/1140356/contributions/4785341/attachments/2426814/4154880/Parallelize%20track%20finding%20on%20GPUs-%20iris%20help%204-13-22%20v3.pdf
+    meeting: IRIS-HEP Topical meeting
+    meetingurl: https://indico.cern.ch/event/1140356/
+    project: lst
+    focus-area: ia

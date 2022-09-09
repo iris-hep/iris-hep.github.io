@@ -1,6 +1,6 @@
 inspire-id: 1615703
 project:
-- exploratory-ml
+  - exploratory-ml
 citation: PMLR 89:1438-1447, 2019
 related-work: true
 comment: published in proceedings of AISTATS 2019

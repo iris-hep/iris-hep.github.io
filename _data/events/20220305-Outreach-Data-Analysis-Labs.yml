@@ -6,4 +6,4 @@ meetingurl: https://indico.cern.ch/event/1132342/
 image:
 description: This tutorial gives students a hands-on experience of versatility and functionality of Matplotlib to produce plots.
 labels:
-- training
+  - training

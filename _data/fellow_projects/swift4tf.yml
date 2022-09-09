@@ -11,5 +11,5 @@ description: >
   (GPUs, TPUs) and can it provide significant performance boost at inference phase
   using different HEP specific ML models.
 contacts:
-- davidlange6
-- "[Valentin Kuznetsov](mailto:vkuznet@protonmail.com)"
+  - davidlange6
+  - "[Valentin Kuznetsov](mailto:vkuznet@protonmail.com)"

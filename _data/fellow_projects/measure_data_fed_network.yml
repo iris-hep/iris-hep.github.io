@@ -11,5 +11,5 @@ description: >
   We seek a fellow to join us in adding network performance tooling to
   our XCache Kubernetes deployments.
 contacts:
-- brianhlin
-- matyasselmeci
+  - brianhlin
+  - matyasselmeci

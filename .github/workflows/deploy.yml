@@ -5,55 +5,55 @@ on:
   push:
     branches: master
   schedule:
-  - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 permissions:
-   contents: read
-   pages: write
-   id-token: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   website:
     runs-on: ubuntu-latest
     environment:
-       name: github-pages
-       url: ${{ steps.deployment.outputs.page_url }}
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-    - name: Setup Pages
-      id: pages
-      uses: actions/configure-pages@v2
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v2
 
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - name: Prepare to build site
-      uses: ./.github/actions/prepare-build-site
+      - name: Prepare to build site
+        uses: ./.github/actions/prepare-build-site
 
-    - name: Check RuboCop
-      run: bundle exec rake rubocop
+      - name: Check RuboCop
+        run: bundle exec rake rubocop
 
-    - name: Build the site
-      run: bundle exec rake build
-      env:
-        JEKYLL_ENV: production
-        INDICO_TOKEN: ${{ secrets.INDICO_TOKEN }}
+      - name: Build the site
+        run: bundle exec rake build
+        env:
+          JEKYLL_ENV: production
+          INDICO_TOKEN: ${{ secrets.INDICO_TOKEN }}
 
-    - name: Check for issues
-      run: bundle exec rake checkonly || true
+      - name: Check for issues
+        run: bundle exec rake checkonly || true
 
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
-      with:
-        path: _site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: _site
 
-    - name: Deploy to GitHub Pages
-      if: >
-        success()
-        && github.ref == 'refs/heads/master'
-        && github.repository == 'iris-hep/iris-hep.github.io'
-      id: deployment
-      uses: actions/deploy-pages@v1
+      - name: Deploy to GitHub Pages
+        if: >
+          success()
+          && github.ref == 'refs/heads/master'
+          && github.repository == 'iris-hep/iris-hep.github.io'
+        id: deployment
+        uses: actions/deploy-pages@v1

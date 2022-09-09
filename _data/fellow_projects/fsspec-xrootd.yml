@@ -18,5 +18,5 @@ description: >
   fsspec-xrootd middleware software package, and release it as part of either
   the coffea or scikit-hep metapackage.
 contacts:
-- jpivarski
-- ncsmith
+  - jpivarski
+  - ncsmith

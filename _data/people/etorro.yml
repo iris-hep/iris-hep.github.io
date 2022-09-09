@@ -5,9 +5,9 @@ photo: "/assets/images/team/ETorro.png"
 shortname: etorro
 title: Post-doc
 presentations:
-- title: A Functional Declarative Analysis Language in Python (poster)
-  date: 2019-11-05
-  url: https://indico.cern.ch/event/773049/contributions/3476177/
-  meetingurl: https://indico.cern.ch/event/773049/
-  meeting: CHEP 2019
-  focus-area: as
+  - title: A Functional Declarative Analysis Language in Python (poster)
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3476177/
+    meetingurl: https://indico.cern.ch/event/773049/
+    meeting: CHEP 2019
+    focus-area: as

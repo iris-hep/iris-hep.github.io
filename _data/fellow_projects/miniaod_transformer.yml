@@ -13,9 +13,7 @@ description: >
   CMS MiniAOD binary files (available publicly as a part of [Run 2 CMS Opendata release](https://cms.cern/news/first-cms-open-data-lhc-run-2-released)).
   The MiniAOD transformer is an important ingredient for a physics analysis workflow envisioned in the [Analysis Grand Challenge](https://iris-hep.org/grand-challenges.html).
 contacts:
-- gordonwatts
-- BenGalewsky
-- oshadura
-- alexander-held
-
-
+  - gordonwatts
+  - BenGalewsky
+  - oshadura
+  - alexander-held

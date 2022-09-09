@@ -3,6 +3,6 @@ focus-area:
   - ia
   - as
 project:
-- exploratory-ml
-- madminer
-citation:  Advances in Neural Information Processing Systems 34 (NeurIPS2020)
+  - exploratory-ml
+  - madminer
+citation: Advances in Neural Information Processing Systems 34 (NeurIPS2020)

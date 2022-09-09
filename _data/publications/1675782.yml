@@ -1,8 +1,8 @@
 inspire-id: 1675782
 related-work: true
 project:
-- madminer
-- exploratory-ml
+  - madminer
+  - exploratory-ml
 link: "https://doi.org/10.1073/pnas.1915980117"
 date: 2020-02-20
 citation: "Proceedings of the National Academy of Sciences; DOI:10.1073/pnas.1915980117"

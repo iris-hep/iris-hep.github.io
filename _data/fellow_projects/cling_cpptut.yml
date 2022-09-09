@@ -10,5 +10,5 @@ description: >
   provide an engaging student experience. Students are expected to have prior C++ experience
   and interest in explaining modern C++ constructs to others.
 contacts:
-- davidlange6
-- vgvassilev
+  - davidlange6
+  - vgvassilev

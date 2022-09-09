@@ -2,5 +2,4 @@ inspire-id: 1824092
 related-work: false
 title: "Semi-parametric gamma-ray modeling with Gaussian processes and variational inference"
 project:
-- exploratory-ml
-
+  - exploratory-ml

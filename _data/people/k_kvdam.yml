@@ -4,7 +4,8 @@ hidden: true
 institution: Brookhaven National Laboratory
 name: Kerstin Kleese van Dam
 photo: "/assets/images/team/Kerstin-Kleese-van-Dam.jpg"
-role: Provide a view point from an additional DOE lab doing significant HEP R&D. This
+role:
+  Provide a view point from an additional DOE lab doing significant HEP R&D. This
   improves the connection to the DOE lab ecosystem, including HPC expertise.
 shortname: k_kvdam
 title:

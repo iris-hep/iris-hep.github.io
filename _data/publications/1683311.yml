@@ -4,6 +4,6 @@ inspire-id: 1683311
 needs-nsf-par: true
 comment: published, and acknowledges IRIS-HEP, but no DOI from NIPS proceedings website?
 project:
-- ppx
-- exploratory-ml
+  - ppx
+  - exploratory-ml
 citation: Advances in Neural Information Processing Systems 33 (NeurIPS)

@@ -1,6 +1,6 @@
 active: false
 focus-area:
-- doma
+  - doma
 institution: University of California, Santa Cruz
 name: Xiaowei (Aaron) Chu
 photo: "/assets/images/team/xweichu.png"
@@ -8,15 +8,15 @@ shortname: xweichu
 title: Ph.D Student
 website: https://xweichu.xyz
 presentations:
-- title: Mapping datasets to object storage
-  date: 2019-11-05
-  url: https://indico.cern.ch/event/773049/contributions/3474413/attachments/1936811/3213825/CHEP2019-Mapping_datasets_to_object_storage.pdf
-  meeting: CHEP 2019
-  meetingurl: https://indico.cern.ch/event/773049/contributions/3474413/
-  focus-area: doma
-- title: Mapping datasets to object storage
-  date: 2019-10-03
-  url: https://cross.ucsc.edu/2019-symposium/
-  meeting: CROSS Research Symposium 2019
-  meetingurl: https://cross.ucsc.edu/2019-symposium/
-  focus-area: doma
+  - title: Mapping datasets to object storage
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3474413/attachments/1936811/3213825/CHEP2019-Mapping_datasets_to_object_storage.pdf
+    meeting: CHEP 2019
+    meetingurl: https://indico.cern.ch/event/773049/contributions/3474413/
+    focus-area: doma
+  - title: Mapping datasets to object storage
+    date: 2019-10-03
+    url: https://cross.ucsc.edu/2019-symposium/
+    meeting: CROSS Research Symposium 2019
+    meetingurl: https://cross.ucsc.edu/2019-symposium/
+    focus-area: doma

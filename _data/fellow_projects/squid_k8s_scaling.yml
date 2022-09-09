@@ -10,5 +10,5 @@ description: >
   deployment into one that can scale horiontally using the same
   underlying storage for its cache.
 contacts:
-- brianhlin
-- matyasselmeci
+  - brianhlin
+  - matyasselmeci

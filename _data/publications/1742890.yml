@@ -1,8 +1,8 @@
 inspire-id: 1742890
 nsf-par-id: 10169392
 project:
-- ppx
-- exploratory-ml
+  - ppx
+  - exploratory-ml
 citation: "Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC19), November 17--22, 2019 DOI:10.1145/3295500.3356180"
 link: "https://doi.org/10.1145/3295500.3356180"
 # there was an issue with the DOI lookup for this one, as NSF PAR

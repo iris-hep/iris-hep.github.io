@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- doma
+  - doma
 institution: University of California, Santa Cruz
 name: Esmaeil Mirvakili
 photo: "/assets/images/team/Esmaeil-Mirvakili.png"
@@ -8,8 +8,8 @@ shortname: esmaeil-mirvakili
 title: Ph.D Student
 website: https://esmaeil-mirvakili.github.io
 presentations:
-- title: Ceph Code Walkthroughs-CoDel for BlueStore
-  date: 2021-11-25
-  url: https://www.youtube.com/watch?v=9l_5ZNBmaPE
-  meeting: Ceph Code Walkthroughs
-  focus-area: doma
+  - title: Ceph Code Walkthroughs-CoDel for BlueStore
+    date: 2021-11-25
+    url: https://www.youtube.com/watch?v=9l_5ZNBmaPE
+    meeting: Ceph Code Walkthroughs
+    focus-area: doma

@@ -1,44 +1,43 @@
-name: 'Build site'
-description: 'Build an IRIS-HEP style website. INDICO keys should be set, and rake should be supported.'
+name: "Build site"
+description: "Build an IRIS-HEP style website. INDICO keys should be set, and rake should be supported."
 inputs:
   ruby-version:
-    description: 'Version of ruby to prepare'
+    description: "Version of ruby to prepare"
     required: false
-    default: '3.1'
+    default: "3.1"
 
 runs:
   using: composite
   steps:
-  - name: Restore bundle cache
-    uses: actions/cache@v2
-    with:
-      path: vendor/bundle
-      key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-      restore-keys: |
-        ${{ runner.os }}-gems-
+    - name: Restore bundle cache
+      uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
 
-  - name: Restore publication cache
-    uses: actions/cache@v2
-    with:
-      path: _cache
-      key: ${{ runner.os }}-_cache-${{ hashFiles('_data/publications/*.yml') }}
+    - name: Restore publication cache
+      uses: actions/cache@v2
+      with:
+        path: _cache
+        key: ${{ runner.os }}-_cache-${{ hashFiles('_data/publications/*.yml') }}
 
-  - uses: ruby/setup-ruby@v1
-    with:
-      ruby-version: ${{ inputs.ruby-version }}
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: ${{ inputs.ruby-version }}
 
-  - name: Install apt requirements
-    shell: bash
-    run: |
-      sudo apt-get update
-      sudo apt-get install libxslt-dev libxml2-dev
-      gem install bundler
+    - name: Install apt requirements
+      shell: bash
+      run: |
+        sudo apt-get update
+        sudo apt-get install libxslt-dev libxml2-dev
+        gem install bundler
 
-  - name: Bundle install
-    shell: bash
-    run: |
-      bundle config path vendor/bundle
-      bundle install --jobs 4 --retry 3
-    env:
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-
+    - name: Bundle install
+      shell: bash
+      run: |
+        bundle config path vendor/bundle
+        bundle install --jobs 4 --retry 3
+      env:
+        NOKOGIRI_USE_SYSTEM_LIBRARIES: true

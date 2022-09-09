@@ -19,5 +19,5 @@ description: >
   larger datasets that typically appear in data analyses at the LHC. We would also
   like to take advantage of Julia’s automatic differentiation capabilities.
 contacts:
-- cranmer
-- SebastianMacaluso
+  - cranmer
+  - SebastianMacaluso

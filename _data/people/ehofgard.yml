@@ -1,16 +1,16 @@
 active: true
 focus-area:
-- ia
+  - ia
 institution: Stanford University
 name: Elyssa Hofgard
 shortname: ehofgard
 title:
 photo: /assets/images/team/Elyssa-Hofgard.jpg
 presentations:
-- title: Parameter optimization using machine learning algorithms within ACTS framework
-  date: 2022-04-27
-  meeting: IRIS-HEP Topical meeting
-  meetingurl: https://indico.cern.ch/event/1140360/
-  url: https://docs.google.com/presentation/d/13BPhdvQp6lfPE9c1S9gWTyJExWQlK6I-I5ncWxBr1LM
-  focus-area: ia
-  project: acts
+  - title: Parameter optimization using machine learning algorithms within ACTS framework
+    date: 2022-04-27
+    meeting: IRIS-HEP Topical meeting
+    meetingurl: https://indico.cern.ch/event/1140360/
+    url: https://docs.google.com/presentation/d/13BPhdvQp6lfPE9c1S9gWTyJExWQlK6I-I5ncWxBr1LM
+    focus-area: ia
+    project: acts

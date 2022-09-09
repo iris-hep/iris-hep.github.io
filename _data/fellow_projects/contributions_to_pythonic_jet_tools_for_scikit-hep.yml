@@ -13,5 +13,5 @@ description: >
   bindings with Scikit-HEP’s Uproot and [Awkward Array](/projects/awkward.html) in
   mind and then contribute to improving the jet tools for the Scikit-HEP ecosystem.
 contacts:
-- cranmer
-- SebastianMacaluso
+  - cranmer
+  - SebastianMacaluso

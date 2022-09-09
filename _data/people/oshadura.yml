@@ -1,7 +1,7 @@
 active: true
 focus-area:
-- doma
-- as
+  - doma
+  - as
 institution: University of Nebraska - Lincoln
 name: Oksana Shadura
 photo: "/assets/images/team/Oksana-Shadura_.jpg"
@@ -9,200 +9,200 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
-- title: IRIS-HEP Analysis Grand Challenge Tools Workshop
-  date: 2022-04-25
-  url: https://indico.cern.ch/event/1126109/contributions/4788591/attachments/2430323/4162323/Analysis%20Grand%20Challenge%20Tools%20Workshop%202022.pdf
-  meeting: RIS-HEP AGC Tools 2022 Workshop
-  meetingurl:  https://indico.cern.ch/e/agc-tools-2
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Report about HSF Analysis Facilities Forum Kick-off meeting
-  date: 2022-04-01
-  url: https://indico.cern.ch/event/1132360/contributions/4759781/attachments/2415341/4132929/Analysis%20Grand%20Challenge%20HSF%20AF.pdf
-  meeting: CMS Spring 2022 O&C Week
-  meetingurl:  https://indico.cern.ch/event/1126678
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Analysis Grand Challenge updates
-  date: 2022-04-05
-  url: https://indico.cern.ch/event/1134876/contributions/4761553/attachments/2421358/4145395/Analysis%20Grand%20Challenge_Ops%202022_04_05.pdf
-  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
-  meetingurl: https://indico.cern.ch/event/1134876/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Analysis Grand Challenge updates
-  date: 2022-01-28
-  url: https://indico.cern.ch/event/1120687/#1-agenda-minutes
-  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
-  meetingurl: https://indico.cern.ch/event/1120687/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Analysis Grand Challenge updates
-  date: 2021-12-16
-  url: https://indico.cern.ch/event/1105768/contributions/4652065/attachments/2366640/4041620/Analysis%20Grand%20Challenge_Ops.pdf
-  meeting: IRIS-HEP Executive Board / Ops Program Grand Challenge Discussion
-  meetingurl: https://indico.cern.ch/event/1105768/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Coffea-casa news and developments
-  date: 2021-11-22
-  url: https://indico.cern.ch/event/1098937/contributions/4624702/attachments/2350799/4177178/Coffea-casa%20news%20and%20developments.pdf
-  meeting: Coffea Users Meeting
-  meetingurl: https://indico.cern.ch/event/1098937/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-- title: Deep Dive - Analysis Grand Challenge
-  date: 2021-11-17
-  url: https://indico.cern.ch/event/1072896/contributions/4520882/attachments/2348094/4004513/20211117_AGC_deep_dive.pdf
-  meeting: NSF / IRIS-HEP Meeting (November 2021)
-  meetingurl: https://indico.cern.ch/event/1072896/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Analysis Facilities
-  date: 2021-11-09
-  url: https://indico.cern.ch/event/1092691/contributions/4595036/attachments/2342325/4018500/Analysis%20Facilities%20CMS%20O%26C%20R%26D.pdf
-  meeting: CMS Operations & Computing R&D meeting
-  meetingurl: https://indico.cern.ch/event/1092691/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-- title: Scale-out with coffea
-  date: 2021-11-04
-  url: https://indico.cern.ch/event/1076231/contributions/4560394/attachments/2339657/4018539/coffea-casa%20AF%40%20AGC%282%29.pdf
-  meeting:  IRIS-HEP AGC Tools 2021 Workshop
-  meetingurl: https://indico.cern.ch/event/1076231
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-- title: Analysis Grand Challenge
-  date: 2021-11-02
-  url: https://indico.cern.ch/event/1033028/contributions/4551818/attachments/2337969/4018481/Analysis%20Grand%20Challenge.pdf
-  meeting: SwiftHep/ExcaliburHep workshop
-  meetingurl: https://indico.cern.ch/event/1033028/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
-- title: Coffea-casa - an analysis facility prototype
-  date: 2021-09-24
-  url: https://indico.cern.ch/event/1071685/contributions/4510234/attachments/2316062/3943371/coffea-casa%20ATLAS.pdf
-  meeting:  Joint AMG and WFMS Meeting on Analysis Facilities
-  meetingurl:  https://indico.cern.ch/event/1071685/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-- title: Advances in Analysis tools/ecosystem
-  date: 2021-06-09
-  url: https://indico.cern.ch/event/905399/contributions/4291626/attachments/2260129/3837364/LHCP_AS.pdf
-  meeting: 9th Edition of the Large Hadron Collider Physics Conference
-  meetingurl: https://indico.cern.ch/event/905399/
-  location: Virtual
-  focus-area: as
-  project:
-    - coffea-casa
-- title: Dask in High-Energy Physics community (workshop)
-  date: 2021-05-21
-  url: https://summit.dask.org/schedule/presentation/24/dask-in-high-energy-physics-community/
-  meeting: Dask Distributed Summit 2021
-  meetingurl: https://summit.dask.org
-  focus-area: doma
-  project:
-    - coffea-casa
-- title: Coffea-casa an analysis facility prototype (plenary)
-  date: 2021-05-20
-  url: https://indico.cern.ch/event/948465/contributions/4323664/editing/paper/509/5997/coffea_casa20210609.pdf
-  meeting: 25th International Conference on Computing in High-Energy and Nuclear Physics
-  meetingurl: https://indico.cern.ch/event/948465/
-  focus-area: doma
-  project:
-    - coffea-casa
-- title: Challenges Designing Interactive Analysis Facilities with Dask
-  date: 2021-05-19
-  url: https://docs.google.com/presentation/d/1GCn_ji_PEaRjLW028fbuFhG1dPNT3i9S7npqnTqi8Ng/edit?usp=sharing
-  meeting: Dask Distributed Summit 2021
-  meetingurl: https://summit.dask.org/schedule/presentation/15/challenges-designing-interactive-analysis-facilities-with-dask/
-  focus-area: doma
-  project:
-    - coffea-casa
-- title: Future analysis facilities
-  date: 2021-02-03
-  url: https://indico.cern.ch/event/998431/contributions/4207282/attachments/2183405/3689404/CMS%20Analysis%20Facility%20-%20CMS%20Week.pdf
-  meeting: CMS Week
-  meetingurl:  https://indico.cern.ch/event/998431/
-  location: Virtual
-  focus-area: doma
-  project:
-    - coffea-casa
-- title: U.S. CMS Managed Analysis Facilities
-  date: 2020-11-24
-  url: https://indico.cern.ch/event/941278/contributions/4104696/attachments/2149035/3623381/U.S.%20CMS%20Managed%20Analysis%20Facilities-1.pdf
-  meeting: HSF WLCG Virtual Workshop
-  meetingurl: https://indico.cern.ch/event/941278/
-  location: Virtual
-  focus-area: doma
-  project:
-    - coffea-casa
-- title: 'Analysis on LHC-Managed Facilities: Coffea-Casa'
-  date: 2020-10-27
-  url: https://indico.cern.ch/event/960587/contributions/4070335/attachments/2130432/3587698/Analysis%20on%20LHC-Managed%20Facilities%20Coffea-Casa.pdf
-  meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
-  meetingurl: https://indico.cern.ch/event/960587/
-  location: Virtual
-  focus-area: doma
-  project:
-    - coffea-casa
-- title: Analysis facilities
-  date: 2020-09-23
-  url: https://indico.cern.ch/event/956958/contributions/4021690/attachments/2108039/3545396/US_CMS_Analysis_Facilities_RD_and_first_prototypes.pdf
-  meeting: Upgrade R&D/CMP Meeting (Presented on Weekly CMS O&C Meeting slot)
-  meetingurl: https://indico.cern.ch/event/956958/
-  location: Virtual
-  focus-area: doma
-  project:
-    - coffea-casa
+  - title: IRIS-HEP Analysis Grand Challenge Tools Workshop
+    date: 2022-04-25
+    url: https://indico.cern.ch/event/1126109/contributions/4788591/attachments/2430323/4162323/Analysis%20Grand%20Challenge%20Tools%20Workshop%202022.pdf
+    meeting: RIS-HEP AGC Tools 2022 Workshop
+    meetingurl: https://indico.cern.ch/e/agc-tools-2
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Report about HSF Analysis Facilities Forum Kick-off meeting
+    date: 2022-04-01
+    url: https://indico.cern.ch/event/1132360/contributions/4759781/attachments/2415341/4132929/Analysis%20Grand%20Challenge%20HSF%20AF.pdf
+    meeting: CMS Spring 2022 O&C Week
+    meetingurl: https://indico.cern.ch/event/1126678
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Analysis Grand Challenge updates
+    date: 2022-04-05
+    url: https://indico.cern.ch/event/1134876/contributions/4761553/attachments/2421358/4145395/Analysis%20Grand%20Challenge_Ops%202022_04_05.pdf
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1134876/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Analysis Grand Challenge updates
+    date: 2022-01-28
+    url: https://indico.cern.ch/event/1120687/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1120687/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Analysis Grand Challenge updates
+    date: 2021-12-16
+    url: https://indico.cern.ch/event/1105768/contributions/4652065/attachments/2366640/4041620/Analysis%20Grand%20Challenge_Ops.pdf
+    meeting: IRIS-HEP Executive Board / Ops Program Grand Challenge Discussion
+    meetingurl: https://indico.cern.ch/event/1105768/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Coffea-casa news and developments
+    date: 2021-11-22
+    url: https://indico.cern.ch/event/1098937/contributions/4624702/attachments/2350799/4177178/Coffea-casa%20news%20and%20developments.pdf
+    meeting: Coffea Users Meeting
+    meetingurl: https://indico.cern.ch/event/1098937/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+  - title: Deep Dive - Analysis Grand Challenge
+    date: 2021-11-17
+    url: https://indico.cern.ch/event/1072896/contributions/4520882/attachments/2348094/4004513/20211117_AGC_deep_dive.pdf
+    meeting: NSF / IRIS-HEP Meeting (November 2021)
+    meetingurl: https://indico.cern.ch/event/1072896/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Analysis Facilities
+    date: 2021-11-09
+    url: https://indico.cern.ch/event/1092691/contributions/4595036/attachments/2342325/4018500/Analysis%20Facilities%20CMS%20O%26C%20R%26D.pdf
+    meeting: CMS Operations & Computing R&D meeting
+    meetingurl: https://indico.cern.ch/event/1092691/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+  - title: Scale-out with coffea
+    date: 2021-11-04
+    url: https://indico.cern.ch/event/1076231/contributions/4560394/attachments/2339657/4018539/coffea-casa%20AF%40%20AGC%282%29.pdf
+    meeting: IRIS-HEP AGC Tools 2021 Workshop
+    meetingurl: https://indico.cern.ch/event/1076231
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+  - title: Analysis Grand Challenge
+    date: 2021-11-02
+    url: https://indico.cern.ch/event/1033028/contributions/4551818/attachments/2337969/4018481/Analysis%20Grand%20Challenge.pdf
+    meeting: SwiftHep/ExcaliburHep workshop
+    meetingurl: https://indico.cern.ch/event/1033028/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Coffea-casa - an analysis facility prototype
+    date: 2021-09-24
+    url: https://indico.cern.ch/event/1071685/contributions/4510234/attachments/2316062/3943371/coffea-casa%20ATLAS.pdf
+    meeting: Joint AMG and WFMS Meeting on Analysis Facilities
+    meetingurl: https://indico.cern.ch/event/1071685/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+  - title: Advances in Analysis tools/ecosystem
+    date: 2021-06-09
+    url: https://indico.cern.ch/event/905399/contributions/4291626/attachments/2260129/3837364/LHCP_AS.pdf
+    meeting: 9th Edition of the Large Hadron Collider Physics Conference
+    meetingurl: https://indico.cern.ch/event/905399/
+    location: Virtual
+    focus-area: as
+    project:
+      - coffea-casa
+  - title: Dask in High-Energy Physics community (workshop)
+    date: 2021-05-21
+    url: https://summit.dask.org/schedule/presentation/24/dask-in-high-energy-physics-community/
+    meeting: Dask Distributed Summit 2021
+    meetingurl: https://summit.dask.org
+    focus-area: doma
+    project:
+      - coffea-casa
+  - title: Coffea-casa an analysis facility prototype (plenary)
+    date: 2021-05-20
+    url: https://indico.cern.ch/event/948465/contributions/4323664/editing/paper/509/5997/coffea_casa20210609.pdf
+    meeting: 25th International Conference on Computing in High-Energy and Nuclear Physics
+    meetingurl: https://indico.cern.ch/event/948465/
+    focus-area: doma
+    project:
+      - coffea-casa
+  - title: Challenges Designing Interactive Analysis Facilities with Dask
+    date: 2021-05-19
+    url: https://docs.google.com/presentation/d/1GCn_ji_PEaRjLW028fbuFhG1dPNT3i9S7npqnTqi8Ng/edit?usp=sharing
+    meeting: Dask Distributed Summit 2021
+    meetingurl: https://summit.dask.org/schedule/presentation/15/challenges-designing-interactive-analysis-facilities-with-dask/
+    focus-area: doma
+    project:
+      - coffea-casa
+  - title: Future analysis facilities
+    date: 2021-02-03
+    url: https://indico.cern.ch/event/998431/contributions/4207282/attachments/2183405/3689404/CMS%20Analysis%20Facility%20-%20CMS%20Week.pdf
+    meeting: CMS Week
+    meetingurl: https://indico.cern.ch/event/998431/
+    location: Virtual
+    focus-area: doma
+    project:
+      - coffea-casa
+  - title: U.S. CMS Managed Analysis Facilities
+    date: 2020-11-24
+    url: https://indico.cern.ch/event/941278/contributions/4104696/attachments/2149035/3623381/U.S.%20CMS%20Managed%20Analysis%20Facilities-1.pdf
+    meeting: HSF WLCG Virtual Workshop
+    meetingurl: https://indico.cern.ch/event/941278/
+    location: Virtual
+    focus-area: doma
+    project:
+      - coffea-casa
+  - title: "Analysis on LHC-Managed Facilities: Coffea-Casa"
+    date: 2020-10-27
+    url: https://indico.cern.ch/event/960587/contributions/4070335/attachments/2130432/3587698/Analysis%20on%20LHC-Managed%20Facilities%20Coffea-Casa.pdf
+    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
+    focus-area: doma
+    project:
+      - coffea-casa
+  - title: Analysis facilities
+    date: 2020-09-23
+    url: https://indico.cern.ch/event/956958/contributions/4021690/attachments/2108039/3545396/US_CMS_Analysis_Facilities_RD_and_first_prototypes.pdf
+    meeting: Upgrade R&D/CMP Meeting (Presented on Weekly CMS O&C Meeting slot)
+    meetingurl: https://indico.cern.ch/event/956958/
+    location: Virtual
+    focus-area: doma
+    project:
+      - coffea-casa

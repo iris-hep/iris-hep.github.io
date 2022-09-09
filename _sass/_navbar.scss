@@ -9,7 +9,6 @@
 // Navbar position
 // Navbar themes
 
-
 // Navbar
 //
 // Provide a static navbar from which we expand to create full-width, fixed, and
@@ -37,7 +36,6 @@
   }
 }
 
-
 // Navbar brand
 //
 // Used for brand, project, or site names.
@@ -55,7 +53,6 @@
     text-decoration: none;
   }
 }
-
 
 // Navbar nav
 //
@@ -80,7 +77,6 @@
   }
 }
 
-
 // Navbar text
 //
 //
@@ -90,7 +86,6 @@
   padding-top: $nav-link-padding-y;
   padding-bottom: $nav-link-padding-y;
 }
-
 
 // Responsive navbar
 //
@@ -179,7 +174,7 @@
         }
 
         .navbar-collapse {
-          display: flex !important;  // stylelint-disable-line declaration-no-important
+          display: flex !important; // stylelint-disable-line declaration-no-important
 
           // Changes flex-bases to auto because of an IE10 bug
           flex-basis: auto;
@@ -192,7 +187,6 @@
     }
   }
 }
-
 
 // Navbar themes
 //
@@ -208,7 +202,7 @@
     }
   }
 
-   // the following affects the menu item titles in the navbar itself
+  // the following affects the menu item titles in the navbar itself
   .navbar-nav {
     .nav-link {
       color: $navbar-light-color;
