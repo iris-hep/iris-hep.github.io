@@ -18,11 +18,9 @@ jobs:
       uses: ./.github/actions/prepare-build-site
 
     - name: Check RuboCop
-      shell: bash
       run: bundle exec rake rubocop
 
     - name: Build the site
-      shell: bash
       run: bundle exec rake build
       env:
         JEKYLL_ENV: production
