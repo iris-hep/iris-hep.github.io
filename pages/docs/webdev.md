@@ -110,7 +110,7 @@ The InspireHEP access caching is automatic and is part of the normal Jekyll buil
 
 ### Pre-commit
 
-This repository uses pre-commit to check and cleanup minor style issues. You can install pre-commit with `brew install pre-commit` (macOS)`, `pipx install pre-commit` if you are a pipx user (and you should be), or `pip install pre-commit`. Then run `pre-commit run -a` to check manually, or `pre-commit install` to check before every commit.
+This repository uses pre-commit to check and cleanup minor style issues. You can install pre-commit with `brew install pre-commit` (macOS), `pipx install pre-commit` if you are a pipx user (and you should be), or `pip install pre-commit`. Then run `pre-commit run -a` to check manually, or `pre-commit install` to check before every commit.
 
 ### Accessing Indico
 
