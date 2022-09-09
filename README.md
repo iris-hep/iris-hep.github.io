@@ -1,12 +1,14 @@
-[![CI](https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml/badge.svg)](https://github.com/iris-hep/iris-hep.github.io-source/actions/workflows/ci.yml)
+[![CI](https://github.com/iris-hep/iris-hep.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/iris-hep/iris-hep.github.io/actions/workflows/deploy.yml)
 
 Is this badge red? Click on it to find out what's wrong with the repository...
 
-# iris-hep.org Website Source
+# iris-hep.org Website
 
 GitHub pages for IRIS-HEP project website.
 
-Do not make a PR to the output repository directly! Instead, make pull requests to the [iris-hep.github.io-source repository](https://github.com/iris-hep/iris-hep.github.io-source/). The advantage of making a pull request instead of directly editing is that changes made via pull request will be tested to ensure that all is ok with your changes...
+Even if you have edit permissions, please make a pull request. The advantage of
+making a pull request instead of directly editing is that changes made via pull
+request will be tested to ensure that all is ok with your changes...
 
 
 ## Testing locally quick instructions (see [setup](https://iris-hep.org/docs/webdev) for full instructions):

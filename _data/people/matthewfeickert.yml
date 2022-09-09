@@ -304,3 +304,12 @@ presentations:
   location: Virtual
   focus-area: as
   project:
+
+- title: 'pyhf and analysis optimization with automatic differentiation'
+  date: 2022-09-06
+  url: https://indico.cern.ch/event/1132691/contributions/4994710/
+  meeting: ATLAS HDBS Workshop 2022
+  meetingurl: https://indico.cern.ch/event/1132691/
+  location: Uppsala University, Sweden
+  focus-area: as
+  project: pyhf
