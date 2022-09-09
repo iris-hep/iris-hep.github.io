@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- ia
+  - ia
 institution: University of California, Berkeley
 name: Heather Gray
 photo: "/assets/images/team/Heather-Gray.png"
@@ -8,59 +8,60 @@ shortname: heather-gray
 title: Innovative Algorithms Area <nobr>co-Lead</nobr>
 website: https://atlas.cern/authors/heather-gray
 presentations:
-- title: Perspective on HEP Software
-  date: 2021-05-17
-  meeting: vCHEP
-  meetingurl: https://indico.cern.ch/event/948465/
-  url: https://indico.cern.ch/event/948465/
-  focus-area: ia
-  project: acts
-  labels:
-  - conference
-- title: 'IRIS-HEP Report: Innovative Algorithms'
-  date: 2020-08-11
-  meeting: Snowmass Computational Frontier Workshop
-  meetingurl: https://indico.fnal.gov/event/43829/overview
-  url: https://indico.fnal.gov/event/43829/contributions/193723/
-  focus-area: ia
-  project:
-- title: Machine learning in high-energy particle physics experiments, from simulation,
-    through reconstruction to physics analysis
-  date: 2019-05-29
-  meeting: Physics in Machine Learning Workshop
-  meetingurl: https://www.ml4science.org/agenda-physics-in-ml
-  url: https://www.ml4science.org/agenda-physics-in-ml
-  focus-area: ia
-  project:
-  labels:
-  - conference
-- title: IRIS-HEP Innovative Algorithms
-  date: 2019-02-06
-  url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271529/attachments/1791453/2919650/Innovative_Algorithms_3.pdf
-  meeting: IRIS-HEP Steering Board Meeting
-  meetingurl: https://indico.cern.ch/event/790759/
-  focus-area: ia
-  project: acts
-- title: Selected recent ideas in computing and their impact on high-energy physics
-  date: 2019-02-17
-  url: http://www.icepp.s.u-tokyo.ac.jp/symposium/25/download/sympo25-special_gray.pdf
-  meeting: 25th ICEPP Symposium
-  meetingurl: http://www.icepp.s.u-tokyo.ac.jp/symposium/25/timetable.html
-  focus-area: ia
-  project:
-  labels:
-  - conference
-- title: Ambiguity Resolution Studies with ACTS
-  date: 2019-01-13
-  url: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/attachments/1761/2138/go
-  meeting: Berkeley Tracking Workshop
-  meetingurl: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/
-  focus-area: ia
-  project: acts
-- title: Workshop introduction
-  date: 2019-01-13
-  url: https://indico.physics.lbl.gov/indico/event/712/contributions/3017/attachments/1753/2124/TrackingWorkshopIntro.pdf
-  meeting: Berkeley Tracking Workshop
-  meetingurl: https://indico.physics.lbl.gov/indico/event/712/timetable/#20190114
-  focus-area: ia
-  project: acts
+  - title: Perspective on HEP Software
+    date: 2021-05-17
+    meeting: vCHEP
+    meetingurl: https://indico.cern.ch/event/948465/
+    url: https://indico.cern.ch/event/948465/
+    focus-area: ia
+    project: acts
+    labels:
+      - conference
+  - title: "IRIS-HEP Report: Innovative Algorithms"
+    date: 2020-08-11
+    meeting: Snowmass Computational Frontier Workshop
+    meetingurl: https://indico.fnal.gov/event/43829/overview
+    url: https://indico.fnal.gov/event/43829/contributions/193723/
+    focus-area: ia
+    project:
+  - title:
+      Machine learning in high-energy particle physics experiments, from simulation,
+      through reconstruction to physics analysis
+    date: 2019-05-29
+    meeting: Physics in Machine Learning Workshop
+    meetingurl: https://www.ml4science.org/agenda-physics-in-ml
+    url: https://www.ml4science.org/agenda-physics-in-ml
+    focus-area: ia
+    project:
+    labels:
+      - conference
+  - title: IRIS-HEP Innovative Algorithms
+    date: 2019-02-06
+    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271529/attachments/1791453/2919650/Innovative_Algorithms_3.pdf
+    meeting: IRIS-HEP Steering Board Meeting
+    meetingurl: https://indico.cern.ch/event/790759/
+    focus-area: ia
+    project: acts
+  - title: Selected recent ideas in computing and their impact on high-energy physics
+    date: 2019-02-17
+    url: http://www.icepp.s.u-tokyo.ac.jp/symposium/25/download/sympo25-special_gray.pdf
+    meeting: 25th ICEPP Symposium
+    meetingurl: http://www.icepp.s.u-tokyo.ac.jp/symposium/25/timetable.html
+    focus-area: ia
+    project:
+    labels:
+      - conference
+  - title: Ambiguity Resolution Studies with ACTS
+    date: 2019-01-13
+    url: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/attachments/1761/2138/go
+    meeting: Berkeley Tracking Workshop
+    meetingurl: https://indico.physics.lbl.gov/indico/event/712/contributions/3021/
+    focus-area: ia
+    project: acts
+  - title: Workshop introduction
+    date: 2019-01-13
+    url: https://indico.physics.lbl.gov/indico/event/712/contributions/3017/attachments/1753/2124/TrackingWorkshopIntro.pdf
+    meeting: Berkeley Tracking Workshop
+    meetingurl: https://indico.physics.lbl.gov/indico/event/712/timetable/#20190114
+    focus-area: ia
+    project: acts

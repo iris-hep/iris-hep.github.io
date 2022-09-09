@@ -6,4 +6,4 @@ meetingurl: https://indico.cern.ch/event/1183547/
 image:
 description: Let's improve our matplotlib for HEP training module!
 labels:
-- training
+  - training

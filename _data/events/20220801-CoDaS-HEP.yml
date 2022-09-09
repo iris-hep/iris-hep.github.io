@@ -6,7 +6,6 @@ meetingurl: http://codas-hep.org
 image:
 description: |
 The CoDaS-HEP school aims to provide a broad introduction to these critical skills as well as an overview of applications High Energy Physics. Specific topics to be covered at the school include:
-
   - Parallel Programming
   - Data Science Tools and Techniques
   - Machine Learning - Technology and Methods
@@ -14,4 +13,4 @@ The CoDaS-HEP school aims to provide a broad introduction to these critical skil
   - The program includes both lectures and practical hands-on exercises.
 
 labels:
-- training
+  - training

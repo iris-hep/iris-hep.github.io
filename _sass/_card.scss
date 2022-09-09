@@ -72,7 +72,9 @@
   border-bottom: $card-border-width solid $card-border-color;
 
   &:first-child {
-    @include border-radius($card-inner-border-radius $card-inner-border-radius 0 0);
+    @include border-radius(
+      $card-inner-border-radius $card-inner-border-radius 0 0
+    );
   }
 
   + .list-group {
@@ -88,10 +90,11 @@
   border-top: $card-border-width solid $card-border-color;
 
   &:last-child {
-    @include border-radius(0 0 $card-inner-border-radius $card-inner-border-radius);
+    @include border-radius(
+      0 0 $card-inner-border-radius $card-inner-border-radius
+    );
   }
 }
-
 
 //
 // Header navs
@@ -130,7 +133,6 @@
   height: 15rem;
   object-fit: cover;
   @include border-top-radius($card-inner-border-radius);
-
 }
 
 .card-img-bottom {
@@ -170,7 +172,6 @@
     }
   }
 }
-
 
 //
 // Card groups
@@ -256,7 +257,6 @@
   }
 }
 
-
 //
 // Columns
 //
@@ -278,7 +278,6 @@
     }
   }
 }
-
 
 //
 // Accordion

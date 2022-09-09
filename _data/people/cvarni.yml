@@ -1,136 +1,136 @@
 active: true
 e-mail: carlo.varni@berkeley.edu
 focus-area:
-- ia
+  - ia
 institution: University of California, Berkeley
 name: Carlo Varni
 photo: "/assets/images/team/CarloVarni.jpg"
 shortname: cvarni
 title: Postdoctoral researcher
 presentations:
-- title: ACTS integration into athena
-  date: 2021-03-26
-  url:
-  meeting: ACTS-ITk meeting
-  meetingurl:
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: Acts Tracking EDM ideas and Seeding Tool
-  date: 2021-05-21
-  url: https://indico.cern.ch/event/1022558/contributions/4369515/attachments/2249629/3816139/EDMideasAndSeedingStep.pdf
-  meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/event/1022558/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: ACTS Tracking EDM
-  date: 2021-06-18
-  url: https://indico.cern.ch/event/1044816/contributions/4414850/attachments/2267392/3849862/EDM.pdf
-  meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/event/1044816/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: ATLAS Track Reconstruction for HL-LHC using ACTS software
-  date: 2021-07-20
-  url: https://indico.cern.ch/event/1061445/contributions/4460829/
-  meeting: LBL Weekly meeting
-  meetingurl: https://indico.cern.ch/event/1061445/
-  project: acts
-  focus-area: ia
-  location: LBNL
-- title: EDM Timing Studies
-  date: 2021-09-17
-  url: https://indico.cern.ch/event/1076499/
-  meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/event/1076499/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: Discussion on seeding algorithm EDM
-  date: 2021-10-01
-  url: https://indico.cern.ch/event/1081289/
-  meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/event/1081289/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: ACTS Seeding Algorithm and Tool in Athena
-  date: 2021-10-15
-  url: https://indico.cern.ch/event/1081290/
-  meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/event/1081290/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: Setting the tool’s properties in the JO with different configurations
-  date: 2021-11-19
-  url: https://indico.cern.ch/event/1097299/
-  meeting: Run 3 Reconstruction Job Configuration
-  meetingurl: https://indico.cern.ch/event/1097299/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: Discussion on seeding algorithm integration in Athena
-  date: 2021-11-19
-  url: https://indico.cern.ch/event/1081293/
-  meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/event/1081293/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: ACTS, EDM and Athena
-  date: 2022-01-12
-  url: https://indico.cern.ch/event/1108812/
-  meeting: Annual LBNL ATLAS Meeting
-  meetingurl: https://indico.cern.ch/event/1108812/
-  project: acts
-  focus-area: ia
-  location: LBNL
-- title: Status of ACTS integration for ITk tracking
-  date: 2022-01-27
-  url: https://indico.cern.ch/event/1103060/
-  meeting: Inner Tracking CP plenary meeting
-  meetingurl: https://indico.cern.ch/event/1103060/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: Updates on seeding
-  date: 2022-02-11
-  url: https://indico.cern.ch/category/6835/
-  meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/category/6835/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: Updates on seeding integration in athena
-  date: 2022-03-11
-  url: https://indico.cern.ch/event/1127124/
-  meeting: ACTS-ITk meeting
-  meetingurl: https://indico.cern.ch/event/1127124/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: EF Tracking - track extension, fitting & ambiguity resolution
-  date: 2022-04-05
-  url: https://indico.cern.ch/event/1137000/
-  meeting: EF Tracking weekly
-  meetingurl: https://indico.cern.ch/event/1137000/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: ACTS tracking
-  date: 2022-04-13
-  url: https://indico.cern.ch/event/1140356/contributions/4785340/attachments/2426827/4154921/ActsTracking.pdf
-  meeting: IRIS-HEP Topical meeting
-  meetingurl: https://indico.cern.ch/event/1140356/
-  project: acts
-  focus-area: ia
-- title: CI Tests for ACTS packages
-  date: 2022-05-18
-  url: https://indico.cern.ch/event/1162439/
-  meeting: Upgrade Software Integration
-  meetingurl: https://indico.cern.ch/event/1162439/
-  project: acts
-  focus-area: ia
+  - title: ACTS integration into athena
+    date: 2021-03-26
+    url:
+    meeting: ACTS-ITk meeting
+    meetingurl:
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Acts Tracking EDM ideas and Seeding Tool
+    date: 2021-05-21
+    url: https://indico.cern.ch/event/1022558/contributions/4369515/attachments/2249629/3816139/EDMideasAndSeedingStep.pdf
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1022558/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: ACTS Tracking EDM
+    date: 2021-06-18
+    url: https://indico.cern.ch/event/1044816/contributions/4414850/attachments/2267392/3849862/EDM.pdf
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1044816/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: ATLAS Track Reconstruction for HL-LHC using ACTS software
+    date: 2021-07-20
+    url: https://indico.cern.ch/event/1061445/contributions/4460829/
+    meeting: LBL Weekly meeting
+    meetingurl: https://indico.cern.ch/event/1061445/
+    project: acts
+    focus-area: ia
+    location: LBNL
+  - title: EDM Timing Studies
+    date: 2021-09-17
+    url: https://indico.cern.ch/event/1076499/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1076499/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Discussion on seeding algorithm EDM
+    date: 2021-10-01
+    url: https://indico.cern.ch/event/1081289/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1081289/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: ACTS Seeding Algorithm and Tool in Athena
+    date: 2021-10-15
+    url: https://indico.cern.ch/event/1081290/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1081290/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Setting the tool’s properties in the JO with different configurations
+    date: 2021-11-19
+    url: https://indico.cern.ch/event/1097299/
+    meeting: Run 3 Reconstruction Job Configuration
+    meetingurl: https://indico.cern.ch/event/1097299/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Discussion on seeding algorithm integration in Athena
+    date: 2021-11-19
+    url: https://indico.cern.ch/event/1081293/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1081293/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: ACTS, EDM and Athena
+    date: 2022-01-12
+    url: https://indico.cern.ch/event/1108812/
+    meeting: Annual LBNL ATLAS Meeting
+    meetingurl: https://indico.cern.ch/event/1108812/
+    project: acts
+    focus-area: ia
+    location: LBNL
+  - title: Status of ACTS integration for ITk tracking
+    date: 2022-01-27
+    url: https://indico.cern.ch/event/1103060/
+    meeting: Inner Tracking CP plenary meeting
+    meetingurl: https://indico.cern.ch/event/1103060/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Updates on seeding
+    date: 2022-02-11
+    url: https://indico.cern.ch/category/6835/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/category/6835/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Updates on seeding integration in athena
+    date: 2022-03-11
+    url: https://indico.cern.ch/event/1127124/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1127124/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: EF Tracking - track extension, fitting & ambiguity resolution
+    date: 2022-04-05
+    url: https://indico.cern.ch/event/1137000/
+    meeting: EF Tracking weekly
+    meetingurl: https://indico.cern.ch/event/1137000/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: ACTS tracking
+    date: 2022-04-13
+    url: https://indico.cern.ch/event/1140356/contributions/4785340/attachments/2426827/4154921/ActsTracking.pdf
+    meeting: IRIS-HEP Topical meeting
+    meetingurl: https://indico.cern.ch/event/1140356/
+    project: acts
+    focus-area: ia
+  - title: CI Tests for ACTS packages
+    date: 2022-05-18
+    url: https://indico.cern.ch/event/1162439/
+    meeting: Upgrade Software Integration
+    meetingurl: https://indico.cern.ch/event/1162439/
+    project: acts
+    focus-area: ia

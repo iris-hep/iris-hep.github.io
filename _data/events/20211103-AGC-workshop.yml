@@ -9,4 +9,4 @@ description: >
   and includes the handling of systematic uncertainties, binned statistical analysis, reinterpretation and end-to-end optimization. In this workshop we are going
   to be showcasing developments within IRIS-HEP and the broader HEP ecosystem.
 labels:
-- training
+  - training
