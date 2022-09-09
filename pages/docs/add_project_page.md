@@ -10,7 +10,7 @@ pagetype: doc
 We would like each IRIS-HEP project to have an update to date project web site. This will
 be useful for attracting collaborators, advertising your work and (more mundane) reporting.
 
-Getting started is easy. Add a page for your project under [pages/projects](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/pages/projects).
+Getting started is easy. Add a page for your project under [pages/projects](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/projects).
 From there you can follow an example, but here is some information get to you started
 
 The required elements of the top matter are:
@@ -21,7 +21,7 @@ The required elements of the top matter are:
   * `image`: The location of an image to used on the focus area page for your project (should be roughly square)
   * `blurb`: A summary of your project in a few words to be used on the focus area page
   * `focus-area`: the shortname of the subarea in IRIS-HEP (examples are ia, doma, ssl)
-  * `team`: The list of team members. List each team member by the shortname from their entry in [this directory](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/_data/people).
+  * `team`: The list of team members. List each team member by the shortname from their entry in [this directory](https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/people).
 
 Then you can layout the page in the way you wish. There are some helper functions
 that will list your team, presentations and publications in a standard format. Please use these.

@@ -38,6 +38,6 @@ analytical underpinning of other DOMA projects.
 
 ## Reports
 
-[Report on cache usage on the WLCG and potential use cases and deployment scenarios for the US LHC facilities](https://github.com/iris-hep/iris-hep.github.io-source/blob/master/assets/pdf/Cache_Usage_on_the_WLCG.pdf)
+[Report on cache usage on the WLCG and potential use cases and deployment scenarios for the US LHC facilities](https://github.com/iris-hep/iris-hep.github.io/blob/master/assets/pdf/Cache_Usage_on_the_WLCG.pdf)
 
-[Report on LHC data access patterns, data uses, and intelligent caching approaches for the HL-LHC (draft)](https://github.com/iris-hep/iris-hep.github.io-source/blob/master/assets/pdf/LHC_Data_Access_Patterns_draft.pdf)
+[Report on LHC data access patterns, data uses, and intelligent caching approaches for the HL-LHC (draft)](https://github.com/iris-hep/iris-hep.github.io/blob/master/assets/pdf/LHC_Data_Access_Patterns_draft.pdf)

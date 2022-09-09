@@ -20,7 +20,7 @@ title: "Documentation pages for the IRIS-HEP team"
 * [Fellows Onboarding](/docs/fellows_onboarding)
 
 #### Website
-* [Website GitHub repo](https://github.com/iris-hep/iris-hep.github.io-source)
+* [Website GitHub repo](https://github.com/iris-hep/iris-hep.github.io)
 * [Setting up for web development](/docs/webdev)
 * [Website design features](/docs/webdesign)
 * [Add new news post](/docs/add_news)
