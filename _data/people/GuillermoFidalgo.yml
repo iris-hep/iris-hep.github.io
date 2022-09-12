@@ -13,7 +13,7 @@ presentations:
     meetingurl: https://indico.fnal.gov/event/23628/
     focus-area: ssc
     location: Fermilab (Virtual)
-- title: PyROOT tutorial experience from SWC Workshop
+- title: "Teaching Python the Sustainable Way: Lessons Learned at HSF Training"
     date: 2022-09-12
     url: https://indico.cern.ch/event/1150631/contributions/5014278/
     meeting: PyHEP 2022 (virtual) Workshop
