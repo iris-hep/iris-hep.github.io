@@ -1,0 +1,13 @@
+active: true
+institution: Odesa Polytechnic National University
+name: Tetiana Yushkevych
+photo: /assets/images/team/Tetiana-Yushkevych.jpg
+shortname: Tetiana-Yushkevych
+presentations:
+  - title: Tools for understanding semi-inclusive deep-inelastic scattering measurements 
+    date: 2022-08-22
+    url: https://drive.google.com/drive/folders/1wozbp-5EguoinTKNAxzdS-JioIhSYsYG
+    meeting: Lightning Talks
+    meetingurl: https://cern.zoom.us/j/69163437238?pwd=ekZDdE9YRVlYSzFFTEZrNjkrTWozUT09
+    focus-area: 
+    location: Virtual
