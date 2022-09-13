@@ -8,9 +8,9 @@ shortname: fatala22
 title: Training, Education and Outreach Coordinator
 website: http://charma.uprm.edu/~malik/
 presentations:
-- title: Sustainable Software Training Delivery at the HEP Software Foundation
+  - title: Sustainable Software Training Delivery at the HEP Software Foundation
     date: 2022-09-05
-    url: https://indico.cern.ch/event/1160140/contributions/5014539/attachments/2502260/4298615/Sustainable%20Software%20Training%20Delivery%20at%20the%20HEP%20Software%20Foundation%20-%20Sustainable%20HEP%202022.pdf
+    url: https://indico.cern.ch/event/1160140/contributions/5014539/
     meeting: Sustainable HEP - 2nd edition
     meetingurl: https://indico.cern.ch/event/1160140/
     focus-area: ssc
