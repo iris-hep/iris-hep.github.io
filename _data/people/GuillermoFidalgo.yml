@@ -6,3 +6,17 @@ shortname: GuillermoFidalgo
 title: Graduate Student
 website: https://guillermofidalgo.github.io/
 presentations:
+  - title: PyROOT tutorial experience from SWC Workshop
+    date: 2022-05-09
+    url: https://indico.fnal.gov/event/23628/abstracts/7357/
+    meeting: 12th ROOT Users' Workshop
+    meetingurl: https://indico.fnal.gov/event/23628/
+    focus-area: ssc
+    location: Fermilab (Virtual)
+  - title: "Teaching Python the Sustainable Way: Lessons Learned at HSF Training"
+    date: 2022-09-12
+    url: https://indico.cern.ch/event/1150631/contributions/5014278/
+    meeting: PyHEP 2022 (virtual) Workshop
+    meetingurl: https://indico.cern.ch/event/1150631/
+    focus-area: ssc
+    location: Virtual
