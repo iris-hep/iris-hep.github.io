@@ -317,3 +317,12 @@ presentations:
     location: Uppsala University, Sweden
     focus-area: as
     project: pyhf
+
+  - title: "Analysis Systems Updates"
+    date: 2022-09-13
+    url: https://indico.cern.ch/event/1134405/contributions/5046843/
+    meeting: "IRIS-HEP Steering Board Meeting #15"
+    meetingurl: https://indico.cern.ch/event/1134405/
+    location: Virtual
+    focus-area: as
+    project:
