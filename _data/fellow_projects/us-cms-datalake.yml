@@ -9,5 +9,5 @@ description: >
   implementation and performance evaluation of a Data Lake prototype, using resources
   at the San Diego Supercomputing Center (SDSC) and Pacific Research Platform (PRP).
 contacts:
-- ddavila0
-- fkw888
+  - ddavila0
+  - fkw888

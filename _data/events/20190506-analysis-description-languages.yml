@@ -6,4 +6,4 @@ status: current
 meetingurl: https://indico.cern.ch/e/adl4lhcatlpc
 note:
 labels:
-- training
+  - training

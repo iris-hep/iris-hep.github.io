@@ -5,7 +5,7 @@ title: Blueprint Planning docs
 ---
 ## Blueprint Planning
 
-Not all of the below information is available without a password.
+Access to some of the links below may require a password.
 
 ### Workshops
 

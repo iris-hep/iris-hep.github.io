@@ -1,7 +1,7 @@
 active: true
 focus-area:
-- doma
-- osglhc
+  - doma
+  - osglhc
 institution: University of California, San Diego
 name: Diego Davila
 photo: "/assets/images/team/Diego-Davila.jpg"
@@ -9,84 +9,83 @@ shortname: ddavila0
 title: Scientific Software Developer and Researcher
 website:
 presentations:
-
-- title: 'Migration to WebDAV'
-  date: 2021-10-22
-  url: https://indico.cern.ch/event/1078363/contributions/4555663/attachments/2332908/3976478/Migration%20to%20WebDAV%20-%20fall%20O%26C%20week%2C%202021.pdf
-  meeting: "Fall21 Offline Software and Computing Week"
-  meetingurl: https://indico.cern.ch/event/1078363/
-  focus-area: doma
-  project: tpc
-  location: virtual
-- title: 'OSG Xrootd Monitoring'
-  date: 2021-06-23
-  url: https://indico.cern.ch/event/1051022/contributions/4420830/attachments/2270011/3854976/WLCG%20XRootD%20Monitoring%20Meeting.pdf
-  meeting: "WLCG - xrootd monitoring discussion"
-  meetingurl: https://indico.cern.ch/event/1051022/
-  focus-area: doma
-  project: tpc
-  location: virtual
-- title: 'Transferring at 500Gbps with XRootD'
-  date: 2021-05-12
-  url: https://indico.cern.ch/event/925547/contributions/3889479/attachments/2244115/3805460/Transferring%20at%20500gbps%20with%20XRootD.pdf
-  meeting: "S&C Blueprint Meeting - Data Challenge"
-  meetingurl: https://indico.cern.ch/event/925547/
-  focus-area: doma
-  project: tpc
-  location: virtual
-- title: 'HTTP Third-Party Copy: Getting rid of GridFTP'
-  date: 2021-03-03
-  url: https://indico.fnal.gov/event/47040/contributions/208459/attachments/140622/176781/HTTP_Third-Party_Copy__Getting_rid_of_GridFTP.pdf
-  meeting: OSG All-Hands Meeting 2021
-  meetingurl: https://indico.fnal.gov/event/47040/overview
-  focus-area: doma
-  project: tpc
-  location: virtual
-- title: Update on the adoption of WebDAV for Third Party Copy transfers
-  date: 2021-02-24
-  url: https://indico.cern.ch/event/1007732/contributions/4229157/attachments/2195647/3713100/Update%20on%20the%20adoption%20of%20WebDAV%2C%20February%202021%20%281%29.pdf
-  meeting: Offline and Computing Weekly meeting
-  meetingurl: https://indico.cern.ch/event/1007732/
-  focus-area: doma
-  project: tpc
-  location: virtual
-- title: Progress on transferring with HTTP-TPC
-  date: 2020-08-05
-  url: https://indico.cern.ch/event/943367/contributions/3963678/attachments/2085027/3502669/Progress_on_transferring_with_HTTP-TPC.pdf
-  meeting: Offline and Computing Weekly meeting
-  meetingurl: https://indico.cern.ch/event/943367/
-  focus-area: doma
-  project: tpc
-  location: virtual
-- title: XRootD Transfer Accounting Validation Plan
-  date: 2020-04-22
-  url: https://indico.cern.ch/event/909034/contributions/3834200/attachments/2025127/3387442/XRootD_Validation_Plan.pdf
-  meeting: S&C Blueprint Meeting
-  meetingurl: https://indico.cern.ch/event/909034/
-  focus-area: osglhc
-  project: caching
-  location: virtual
-- title: CMS XCache Monitoring Dashboard
-  date: 2019-07-31
-  url: https://drive.google.com/file/d/1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q/view
-  meeting: OSG Area Coordination
-  meetingurl: https://unl.zoom.us/j/136424859
-  focus-area: doma
-  project: caching
-  location: virtual
-- title: Proposal for Sharing of Data on Data Access
-  date: 2019-06-04
-  url: https://indico.cern.ch/event/769508/contributions/3197792/attachments/1856188/3048855/proposal_data_share_wlcg.pdf
-  meeting: DOMA / ACCESS Meeting
-  meetingurl: https://indico.cern.ch/event/769508/
-  location: CERN
-  focus-area: doma
-  project: modeling
-- title: Measurements of Data Access
-  date: 2020-02-27
-  url: https://indico.cern.ch/event/894127/attachments/1996570/3331176/9_-_Measurements_of_Data_Access_-_v1.pdf
-  meeting: IRIS-HEP Poster Session
-  meetingurl: https://indico.cern.ch/event/894127/
-  location: Princeton University
-  focus-area: doma
-  project: modeling
+  - title: "Migration to WebDAV"
+    date: 2021-10-22
+    url: https://indico.cern.ch/event/1078363/contributions/4555663/attachments/2332908/3976478/Migration%20to%20WebDAV%20-%20fall%20O%26C%20week%2C%202021.pdf
+    meeting: "Fall21 Offline Software and Computing Week"
+    meetingurl: https://indico.cern.ch/event/1078363/
+    focus-area: doma
+    project: tpc
+    location: virtual
+  - title: "OSG Xrootd Monitoring"
+    date: 2021-06-23
+    url: https://indico.cern.ch/event/1051022/contributions/4420830/attachments/2270011/3854976/WLCG%20XRootD%20Monitoring%20Meeting.pdf
+    meeting: "WLCG - xrootd monitoring discussion"
+    meetingurl: https://indico.cern.ch/event/1051022/
+    focus-area: doma
+    project: tpc
+    location: virtual
+  - title: "Transferring at 500Gbps with XRootD"
+    date: 2021-05-12
+    url: https://indico.cern.ch/event/925547/contributions/3889479/attachments/2244115/3805460/Transferring%20at%20500gbps%20with%20XRootD.pdf
+    meeting: "S&C Blueprint Meeting - Data Challenge"
+    meetingurl: https://indico.cern.ch/event/925547/
+    focus-area: doma
+    project: tpc
+    location: virtual
+  - title: "HTTP Third-Party Copy: Getting rid of GridFTP"
+    date: 2021-03-03
+    url: https://indico.fnal.gov/event/47040/contributions/208459/attachments/140622/176781/HTTP_Third-Party_Copy__Getting_rid_of_GridFTP.pdf
+    meeting: OSG All-Hands Meeting 2021
+    meetingurl: https://indico.fnal.gov/event/47040/overview
+    focus-area: doma
+    project: tpc
+    location: virtual
+  - title: Update on the adoption of WebDAV for Third Party Copy transfers
+    date: 2021-02-24
+    url: https://indico.cern.ch/event/1007732/contributions/4229157/attachments/2195647/3713100/Update%20on%20the%20adoption%20of%20WebDAV%2C%20February%202021%20%281%29.pdf
+    meeting: Offline and Computing Weekly meeting
+    meetingurl: https://indico.cern.ch/event/1007732/
+    focus-area: doma
+    project: tpc
+    location: virtual
+  - title: Progress on transferring with HTTP-TPC
+    date: 2020-08-05
+    url: https://indico.cern.ch/event/943367/contributions/3963678/attachments/2085027/3502669/Progress_on_transferring_with_HTTP-TPC.pdf
+    meeting: Offline and Computing Weekly meeting
+    meetingurl: https://indico.cern.ch/event/943367/
+    focus-area: doma
+    project: tpc
+    location: virtual
+  - title: XRootD Transfer Accounting Validation Plan
+    date: 2020-04-22
+    url: https://indico.cern.ch/event/909034/contributions/3834200/attachments/2025127/3387442/XRootD_Validation_Plan.pdf
+    meeting: S&C Blueprint Meeting
+    meetingurl: https://indico.cern.ch/event/909034/
+    focus-area: osglhc
+    project: caching
+    location: virtual
+  - title: CMS XCache Monitoring Dashboard
+    date: 2019-07-31
+    url: https://drive.google.com/file/d/1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q/view
+    meeting: OSG Area Coordination
+    meetingurl: https://unl.zoom.us/j/136424859
+    focus-area: doma
+    project: caching
+    location: virtual
+  - title: Proposal for Sharing of Data on Data Access
+    date: 2019-06-04
+    url: https://indico.cern.ch/event/769508/contributions/3197792/attachments/1856188/3048855/proposal_data_share_wlcg.pdf
+    meeting: DOMA / ACCESS Meeting
+    meetingurl: https://indico.cern.ch/event/769508/
+    location: CERN
+    focus-area: doma
+    project: modeling
+  - title: Measurements of Data Access
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331176/9_-_Measurements_of_Data_Access_-_v1.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton University
+    focus-area: doma
+    project: modeling
