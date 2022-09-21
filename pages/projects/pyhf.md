@@ -62,6 +62,10 @@ team:
 * [`pyhf` tutorial](https://pyhf.github.io/pyhf-tutorial/) (continually updated to use the latest `pyhf` release)
    - Past tutorials (with recordings on YouTube) are listed on the [tutorial GitHub project](https://github.com/pyhf/pyhf-tutorial)
 
+### Projects using `pyhf`
+
+An updating list of libraries, projects, and analyses that use `pyhf` are listed on the [users projects repository](https://github.com/pyhf/user-projects).
+
 ### Citations and Use in Publications
 
 Updating list of citations (from use in analyses and general reference) of `pyhf`:
