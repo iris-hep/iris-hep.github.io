@@ -141,7 +141,7 @@ presentations:
     url: https://indico.cern.ch/event/985527/#5-analysis-grand-challenge-upd
     meeting: Steering Board Meeting
     meetingurl: https://indico.cern.ch/event/985527/
-    location: Virtual
+    location: "(Virtual)"
     focus-area:
       - as
       - doma
@@ -154,7 +154,7 @@ presentations:
     url: https://indico.cern.ch/event/1131750/#1-agenda-minutes
     meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
     meetingurl: https://indico.cern.ch/event/1131750/
-    location: Virtual
+    location: "(Virtual)"
     focus-area:
       - as
       - doma
@@ -223,6 +223,19 @@ presentations:
       - doma
     project: agc
 
+  - title: Analysis Grand Challenge updates
+    date: 2022-06-14
+    url: https://indico.cern.ch/event/1167357/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1167357/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
   - title: "pyhf tutorial"
     date: 2022-06-28
     url: https://indico.cern.ch/event/1159574/contributions/4930681/
@@ -244,3 +257,36 @@ presentations:
       - as
       - doma
     project: agc
+
+  - title: Analysis Grand Challenge updates
+    date: 2022-08-23
+    url: https://indico.cern.ch/event/1173741/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1173741/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "End-to-end physics analysis with Open Data: the Analysis Grand Challenge"
+    date: 2022-09-15
+    url: https://indico.cern.ch/event/1150631/contributions/5000592/
+    meeting: PyHEP 2022 (virtual) Workshop
+    meetingurl: https://indico.cern.ch/event/1150631/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+      - func-adl
+      - cabinetry
+      - pyhf
+      - uproot
+      - awkward
+      - histogram
+      - scikit-hep
+      - agc
