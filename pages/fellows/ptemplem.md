@@ -14,7 +14,7 @@ institution: University of Notre Dame
 e-mail: ptemplem@nd.edu
 project_title: Prototyping an Analysis Workflow for MINERvA
 project_goal: >
-    My project aims to improve analysis preservation of the MINERvA experiment by creating a workflow that is re-executable in REANA. The goal of this is both to improve replicability and to provide a starting point for future MINERvA analyses.
+    My project aims to improve analysis preservation of the Pion Analysis for the MINERvA experiment by creating a workflow that is re-executable in REANA. The goal of this is both to improve replicability and to provide a starting point for future MINERvA analyses.
 mentors:
   - Kyle Cranmer (University of Wisconsin–Madison)
   - Matthew Feickert (University of Illinois at Urbana-Champaign)
@@ -22,6 +22,11 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/042-proposal-Philip-Templeman.pdf
 presentations:
+  - title: "Prototyping a REANA workflow for MINERvA"
+  - date: "21 September 2022"
+  - meeting: "IRIS-HEP Fellows Presentations 2022"
+  - meetingurl: "https://indico.cern.ch/event/1195271/"
+  - recordingurl: "https://youtu.be/H8mwFxK7sos"
 current_status: >
   A placeholder for status updates
 github-username: ptemplem
