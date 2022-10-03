@@ -36,6 +36,6 @@ presentations:
     meetingurl: https://cern.zoom.us/j/67066289821?pwd=dnd6aEFHREIwUER2SU56RXVCNzdBZz09
     recordingurl: https://youtu.be/7-0WZZCtqJI
     focus-area: Optimization of Machine Learning Algorithms
-current_status: October 2022: Undergraduate student at Iowa State University>
+current_status: "October 2022 - Undergraduate student at Iowa State University"
 github-username: katie-ed
 ---
