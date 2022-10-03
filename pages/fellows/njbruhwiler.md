@@ -32,6 +32,12 @@ presentations:
   url: https://indico.cern.ch/event/1192812/contributions/5014587/attachments/2496257/4287253/IRIS-HEP%20Final%20Presentation.pdf
   meeting: MCC Physics and Detector Simulation
   meetingurl: https://indico.cern.ch/event/1192812/
+- title: Reducing fake tracks for the Muon Collider Detector
+  date: 2022-09-21
+  url: https://indico.cern.ch/event/1195271/contributions/5056109/attachments/2513173/4320161/Natalie%20Bruhwiler%20IRIS-HEP%20Final%20Presentation.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195271/
+  recordingurl: https://youtu.be/H8mwFxK7sos?t=2285
 current_status: >
 github-username: njbruhwiler
 ---
