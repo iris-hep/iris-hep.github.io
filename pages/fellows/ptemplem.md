@@ -28,6 +28,9 @@ presentations:
     meeting: IRIS-HEP Fellows Presentations 2022
     meetingurl: https://indico.cern.ch/event/1195271/
     recordingurl: https://youtu.be/H8mwFxK7sos&t=4327s
+    location: Virtual
+    focus-area: as
+    project:
 current_status: >
   A placeholder for status updates
 github-username: ptemplem
