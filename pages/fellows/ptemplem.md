@@ -23,7 +23,7 @@ mentors:
 proposal: /assets/pdf/fellows-2022/042-proposal-Philip-Templeman.pdf
 presentations:
   - title: "Prototyping a REANA workflow for MINERvA"
-    date: 2022-09-21
+    date: 2022-06-13
     url: https://indico.cern.ch/event/1155137/#sc-1-9-philip-templeman-protot
     meeting: IRIS-HEP Fellows Introductory Presentations
     meetingurl: https://indico.cern.ch/event/1155137/
