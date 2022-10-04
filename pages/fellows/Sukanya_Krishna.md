@@ -23,7 +23,7 @@ project_goal: >
   These architectures will then be used to analyze new data sets like the public DarkMachines
   data set, or more complex CMS simulation to search for new physics.
 mentors:
-- Javier Duarte - (University of California, San Diego)
+- Javier Duarte (University of California, San Diego)
 proposal: /assets/pdf/Fellow-Sukanya-Krishna-Proposal.pdf
 presentations:
 - title: Particle Graph Autoencoders for Real-Time Jet Anomaly Detection
@@ -33,6 +33,5 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071402/
   recordingurl: https://youtu.be/uSCABMAsd64
   focus-area: ia
-github-username:
-
+github-username: sukikrishna
 ---

@@ -18,5 +18,5 @@ description: >
   skill set and research interest. The successful candidates need a C++ programming skill,
   while experience on GPU APIs such as CUDA and SYCL will be advantageous.
 contacts:
-- beomki-yeo
-- heather-gray
+  - beomki-yeo
+  - heather-gray

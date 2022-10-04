@@ -35,8 +35,8 @@
 
 // Extra bit of customization to drop down on hover (only) on large screens
 @media only screen and (min-width: 768px) {
-  .dropdown:hover .dropdown-menu{
-     display:block;
+  .dropdown:hover .dropdown-menu {
+    display: block;
   }
 }
 

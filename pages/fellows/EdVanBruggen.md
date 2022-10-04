@@ -24,8 +24,8 @@ project_goal: >
   the command line usability and documentation, improve MadGraph integration to support
   custom models, and add the additional event generators Sherpa and Herwig.
 mentors:
-- Shih-Chieh Hsu (UW)
-- Alex Schuy (UW)
+- Shih-Chieh Hsu (U.Washington)
+- Alex Schuy (U.Washington)
 proposal: /assets/pdf/Fellow-van_Bruggen-Proposal.pdf
 presentations:
 - title: ' Expanding Subworkflow Catalog of RECAST-wf For Event Generators'

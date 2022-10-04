@@ -19,5 +19,5 @@ description: >
   code you wouldn't have thought to look for. It is stable, powerful and easy
   to add to any existing test suite.
 contacts:
-- ianna
-- jpivarski
+  - ianna
+  - jpivarski

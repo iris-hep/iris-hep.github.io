@@ -1,6 +1,6 @@
-active: true
+active: false
 focus-area:
-- ia
+  - ia
 institution: Princeton University
 name: Bei Wang
 photo: "/assets/images/team/Bei-Wang.jpg"
@@ -8,130 +8,131 @@ shortname: beiwang2003
 title: Senior Research Software Engineer
 website:
 presentations:
-- title: Performance and Vectorization
-  date: 2021-10-18
-  url: https://princetonuniversity.github.io/PUparallel_fall2021/sessions/M1C-perf-tuning/
-  meeting: Introduction to Parallel Computing for HPC Fall 2021
-  meetingurl: https://princetonuniversity.github.io/PUparallel_fall2021/
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
+  - title: Performance and Vectorization
+    date: 2021-10-18
+    url: https://princetonuniversity.github.io/PUparallel_fall2021/sessions/M1C-perf-tuning/
+    meeting: Introduction to Parallel Computing for HPC Fall 2021
+    meetingurl: https://princetonuniversity.github.io/PUparallel_fall2021/
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
 
-- title: Using Nsight Compute to Understand Kernel Performance Bottlenecks
-  date: 2021-06-30
-  url:
-  meeting: Princeton Research Computing Group Meeting
-  meetingurl:
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title: Performance and Vectorization
-  date: 2021-01-25
-  url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/M2D-perf-tuning/
-  meeting: Princeton Research Computing Bootcamp (Winter 2021)
-  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/spring-2021-workshop-materials
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title: Floating Point Arithmetic Is Not Real
-  date: 2021-01-25
-  url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/M2B-floating-point/
-  meeting: Princeton Research Computing Bootcamp (Winter 2021)
-  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/spring-2021-workshop-materials
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title: Nvidia Kernel Profilers Case Study with Segment Linking Algorithm in Particle Tracking
-  date: 2021-01-13
-  url:
-  meeting: Princeton Research Computing Group Meeting
-  meetingurl:
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title:  Fast histogram on GPU
-  date: 2021-11-17
-  url:
-  meeting: Princeton Research Software Engineer Group Meeting
-  meetingurl:
-  location:
-  focus-area: ia
-  project:
-  labels:
-- title:  Introduction to Field-Programmable Gate Arrays (FPGAs)
-  date: 2021-11-10
-  url:
-  meeting: Princeton Research Computiong Workshop
-  meetingurl: https://researchcomputing.princeton.edu/sites/g/files/toruqf311/files/documents/primer_fpga_bei_wang_10nov2021.pdf
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title: Performance and Vectorization
-  date: 2020-11-02
-  url: https://researchcomputing.princeton.edu/events/2020/performance-and-vectorization
-  meeting: Princeton Research Computing Mini-course (Fall 2020)
-  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-trainings/archives-past-workshops/fall-2020-workshop-materials
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title: Floating Point Arithmetic Is Not Real
-  date: 2020-10-05
-  url: https://researchcomputing.princeton.edu/events/2020/floating-point-arithmetic-not-real
-  meeting: Princeton Research Computing Mini-course (Fall 2020)
-  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-trainings/archives-past-workshops/fall-2020-workshop-materials
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title: Introduction to FPGAs
-  date: 2020-09-09
-  url:
-  meeting: Princeton Research Computing Group Meeting
-  meetingurl:
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title: Floating Point Arithmetic Is Not Real
-  date: 2020-05-10
-  url: https://researchcomputing.princeton.edu/events/2020/virtual-workshop-floating-point-arithmetic-not-real
-  meeting: Princeton Research Computing Mini-course (Spring 2020)
-  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/workshop-materials
-  location: Virtual
-  focus-area: ia
-  project:
-  labels:
-- title: Parallelizing the unpacking and clustering of detector data for reconstruction
-    of charged particle tracks on multi-core CPUs and many-core GPUs
-  date: 2020-04-22
-  url: https://indico.cern.ch/event/831165/contributions/3717156/attachments/2025214/3387680/CTD_BeiWang.pdf
-  meeting: Connecting The Dots (2020)
-  meetingurl: https://indico.cern.ch/event/831165/
-  location: Virtual
-  focus-area: ia
-  project: mkfit
-  labels:
-  - conference
-- title: Floating Point Arithmetic Is Not Real
-  date: 2019-07-24
-  url: https://indico.cern.ch/event/814979/contributions/3401175/attachments/1831476/3107964/FloatingPointArithmetic.pdf
-  meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
-  meetingurl: https://indico.cern.ch/event/814979
-  location: Princeton University
-  focus-area: ia
-  project:
-- title: Introduction to Performance Tuning & Optimization Tools
-  date: 2019-07-25
-  url: https://indico.cern.ch/event/814979/contributions/3401196/attachments/1831466/3109819/PerformanceTools.pdf
-  meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
-  meetingurl: https://indico.cern.ch/event/814979
-  location: Princeton University
-  focus-area: ia
-  project:
+  - title: Using Nsight Compute to Understand Kernel Performance Bottlenecks
+    date: 2021-06-30
+    url:
+    meeting: Princeton Research Computing Group Meeting
+    meetingurl:
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title: Performance and Vectorization
+    date: 2021-01-25
+    url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/M2D-perf-tuning/
+    meeting: Princeton Research Computing Bootcamp (Winter 2021)
+    meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/spring-2021-workshop-materials
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title: Floating Point Arithmetic Is Not Real
+    date: 2021-01-25
+    url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/M2B-floating-point/
+    meeting: Princeton Research Computing Bootcamp (Winter 2021)
+    meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/spring-2021-workshop-materials
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title: Nvidia Kernel Profilers Case Study with Segment Linking Algorithm in Particle Tracking
+    date: 2021-01-13
+    url:
+    meeting: Princeton Research Computing Group Meeting
+    meetingurl:
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title: Fast histogram on GPU
+    date: 2021-11-17
+    url:
+    meeting: Princeton Research Software Engineer Group Meeting
+    meetingurl:
+    location:
+    focus-area: ia
+    project:
+    labels:
+  - title: Introduction to Field-Programmable Gate Arrays (FPGAs)
+    date: 2021-11-10
+    url:
+    meeting: Princeton Research Computiong Workshop
+    meetingurl: https://researchcomputing.princeton.edu/sites/g/files/toruqf311/files/documents/primer_fpga_bei_wang_10nov2021.pdf
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title: Performance and Vectorization
+    date: 2020-11-02
+    url: https://researchcomputing.princeton.edu/events/2020/performance-and-vectorization
+    meeting: Princeton Research Computing Mini-course (Fall 2020)
+    meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-trainings/archives-past-workshops/fall-2020-workshop-materials
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title: Floating Point Arithmetic Is Not Real
+    date: 2020-10-05
+    url: https://researchcomputing.princeton.edu/events/2020/floating-point-arithmetic-not-real
+    meeting: Princeton Research Computing Mini-course (Fall 2020)
+    meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-trainings/archives-past-workshops/fall-2020-workshop-materials
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title: Introduction to FPGAs
+    date: 2020-09-09
+    url:
+    meeting: Princeton Research Computing Group Meeting
+    meetingurl:
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title: Floating Point Arithmetic Is Not Real
+    date: 2020-05-10
+    url: https://researchcomputing.princeton.edu/events/2020/virtual-workshop-floating-point-arithmetic-not-real
+    meeting: Princeton Research Computing Mini-course (Spring 2020)
+    meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/workshop-materials
+    location: Virtual
+    focus-area: ia
+    project:
+    labels:
+  - title:
+      Parallelizing the unpacking and clustering of detector data for reconstruction
+      of charged particle tracks on multi-core CPUs and many-core GPUs
+    date: 2020-04-22
+    url: https://indico.cern.ch/event/831165/contributions/3717156/attachments/2025214/3387680/CTD_BeiWang.pdf
+    meeting: Connecting The Dots (2020)
+    meetingurl: https://indico.cern.ch/event/831165/
+    location: Virtual
+    focus-area: ia
+    project: mkfit
+    labels:
+      - conference
+  - title: Floating Point Arithmetic Is Not Real
+    date: 2019-07-24
+    url: https://indico.cern.ch/event/814979/contributions/3401175/attachments/1831476/3107964/FloatingPointArithmetic.pdf
+    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+    meetingurl: https://indico.cern.ch/event/814979
+    location: Princeton University
+    focus-area: ia
+    project:
+  - title: Introduction to Performance Tuning & Optimization Tools
+    date: 2019-07-25
+    url: https://indico.cern.ch/event/814979/contributions/3401196/attachments/1831466/3109819/PerformanceTools.pdf
+    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+    meetingurl: https://indico.cern.ch/event/814979
+    location: Princeton University
+    focus-area: ia
+    project:

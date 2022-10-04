@@ -11,4 +11,4 @@ description: >
   seek a member of CMS to incorporate a CMS analysis into the system with support
   from IRIS-HEP, REANA, and RECAST developers.
 contacts:
-- cranmer
+  - cranmer

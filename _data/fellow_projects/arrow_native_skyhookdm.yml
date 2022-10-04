@@ -15,6 +15,6 @@ description: >
   achieve Dask or Spark based parallel computations on ROOT files stored as objects
   in Ceph OSDs.
 contacts:
-- jlefevre
-- ivotron
-- carlosmalt
+  - jlefevre
+  - ivotron
+  - carlosmalt

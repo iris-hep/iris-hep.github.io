@@ -1,7 +1,7 @@
 active: true
 e-mail: Ianna.Osborne@cern.ch
 focus-area:
-- as
+  - as
 inspire-id: I.Osborne.1
 institution: Princeton University
 name: Ianna Osborne
@@ -10,13 +10,23 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
-- title: Awkward Array to RDataFrame and back
-  date: 2022-05-10
-  url: https://indico.fnal.gov/event/23628/contributions/240305/
-  meeting: ROOT Users Workshop
-  meetingurl: https://indico.fnal.gov/event/23628/
-  location: online
-  focus-area:
-  - as
-  project:
-  - awkward
+  - title: Awkward RDataFrame Tutorial
+    date: 2022-09-15
+    url: https://indi.to/jh92b
+    meeting: PyHEP 2022 (virtual) Workshop
+    meetingurl: https://indico.cern.ch/event/1150631/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: Awkward Array to RDataFrame and back
+    date: 2022-05-10
+    url: https://indico.fnal.gov/event/23628/contributions/240305/
+    meeting: ROOT Users Workshop
+    meetingurl: https://indico.fnal.gov/event/23628/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward

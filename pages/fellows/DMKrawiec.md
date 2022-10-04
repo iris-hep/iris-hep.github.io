@@ -4,7 +4,7 @@ pagetype: fellow
 permalink: /fellows/DMKrawiec.html
 fellow-name: Dominika Maria Krawiec
 title: Dominika Krawiec - IRIS-HEP Fellow
-active: true
+active: false
 dates:
   start: 2022-02-15
   end: 2022-05-15
@@ -29,7 +29,7 @@ project_goal: >
   The goal of this project is to further improve the conformal space fit and its stability,
   and optimise certain aspects of the Interaction Network's architecture for this purpose.
 mentors:
-- Savannah Thais - (Princeton University)
+- Savannah Thais (Princeton University)
 
 proposal: /assets/pdf/Fellow-Dominika-Krawiec-Proposal.pdf
 presentations:

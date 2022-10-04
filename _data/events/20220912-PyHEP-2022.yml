@@ -1,0 +1,10 @@
+name: PyHEP 2022 Workshop
+startdate: 2022-09-12
+enddate: 2022-09-16
+location: Online
+meetingurl: https://indico.cern.ch/event/1150631/
+image:
+description: |
+  The PyHEP workshops are a series of workshops initiated and supported by the HEP Software Foundation (HSF)
+  with the aim to provide an environment to discuss and promote the usage of Python in the HEP community at
+  large. Further information is given on the PyHEP Working Group website.

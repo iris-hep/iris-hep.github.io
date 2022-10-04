@@ -1,0 +1,9 @@
+name: Matplotlib training hackathon
+startdate: 2022-07-25
+enddate: 2022-07-25
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1183547/
+image:
+description: Let's improve our matplotlib for HEP training module!
+labels:
+  - training

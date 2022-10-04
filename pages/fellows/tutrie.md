@@ -28,9 +28,9 @@ project_goal: >
   dimensions. It will be
   extremely helpful in the search for new physics.
 mentors:
-- Lukas Heinrich - (CERN)
-- Kyle Cranmer - (New York University)
-- Irina Espejo Morales - (New York University)
+- Lukas Heinrich (CERN)
+- Kyle Cranmer (New York University)
+- Irina Espejo Morales (New York University)
 
 proposal: /assets/pdf/Fellow-jason-hipkins-Proposal.pdf
 presentations:

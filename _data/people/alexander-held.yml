@@ -1,7 +1,7 @@
 active: true
 e-mail: alexander.held@cern.ch
 focus-area:
-- as
+  - as
 inspire-id: Alexander.Held.1
 institution: University of Wisconsin-Madison
 name: Alexander Held
@@ -10,193 +10,283 @@ shortname: alexander-held
 title: Postdoctoral Researcher and Analysis Grand Challenge Co-coordinator
 website: https://github.com/alexander-held
 presentations:
-- title: 'Template Fits: HistFitter / TRExFitter'
-  date: 2019-06-19
-  url: https://indico.cern.ch/event/822074/contributions/3471458/
-  meeting: Analysis Systems Topical Meeting
-  meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
-  location: NYU
-  focus-area: as
-  project: cabinetry
+  - title: "Template Fits: HistFitter / TRExFitter"
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471458/
+    meeting: Analysis Systems Topical Meeting
+    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+    location: NYU
+    focus-area: as
+    project: cabinetry
 
-- title: Harmonizing statistics tools - ideas
-  date: 2019-10-29
-  url: https://indico.cern.ch/event/859742/contributions/3620507/
-  meeting: ATLAS Statistics Committee Meeting
-  meetingurl: https://indico.cern.ch/event/859742/
-  location: CERN
-  focus-area: as
-  project: cabinetry
+  - title: Harmonizing statistics tools - ideas
+    date: 2019-10-29
+    url: https://indico.cern.ch/event/859742/contributions/3620507/
+    meeting: ATLAS Statistics Committee Meeting
+    meetingurl: https://indico.cern.ch/event/859742/
+    location: CERN
+    focus-area: as
+    project: cabinetry
 
-- title: Constraining effective field theories with machine learning
-  date: 2019-11-07
-  url: https://indico.cern.ch/event/773049/contributions/3476179/
-  meeting: 24th International Conference on Computing in High Energy & Nuclear Physics
-  meetingurl: https://indico.cern.ch/event/773049/
-  location: Adelaide, Australia
-  focus-area: as
-  project: madminer
+  - title: Constraining effective field theories with machine learning
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3476179/
+    meeting: 24th International Conference on Computing in High Energy & Nuclear Physics
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, Australia
+    focus-area: as
+    project: madminer
 
-- title: Rethinking final analysis stages (poster)
-  date: 2020-02-27
-  url: https://indico.cern.ch/event/894127/attachments/1996570/3331188/18_-_AS_Final_analysis_stages.pdf
-  meeting: IRIS-HEP Poster Session
-  meetingurl: https://indico.cern.ch/event/894127/
-  location: Princeton, USA
-  focus-area: as
-  project: cabinetry
+  - title: Rethinking final analysis stages (poster)
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331188/18_-_AS_Final_analysis_stages.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, USA
+    focus-area: as
+    project: cabinetry
 
-- title: pyhf and thoughts about analysis workflow
-  date: 2020-03-12
-  url: https://indico.cern.ch/event/897232/contributions/3784156/
-  meeting: ATLAS Statistics Committee Meeting
-  meetingurl: https://indico.cern.ch/event/897232/
-  location: CERN
-  focus-area: as
-  project: cabinetry
+  - title: pyhf and thoughts about analysis workflow
+    date: 2020-03-12
+    url: https://indico.cern.ch/event/897232/contributions/3784156/
+    meeting: ATLAS Statistics Committee Meeting
+    meetingurl: https://indico.cern.ch/event/897232/
+    location: CERN
+    focus-area: as
+    project: cabinetry
 
-- title: Cabinetry introduction
-  date: 2020-05-27
-  url: https://indico.cern.ch/event/896167/contributions/3880230/
-  meeting: 2020 IRIS-HEP Team Retreat
-  meetingurl: https://indico.cern.ch/event/896167/
-  location: "(Virtual)"
-  focus-area: as
-  project: cabinetry
+  - title: Cabinetry introduction
+    date: 2020-05-27
+    url: https://indico.cern.ch/event/896167/contributions/3880230/
+    meeting: 2020 IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/
+    location: "(Virtual)"
+    focus-area: as
+    project: cabinetry
 
-- title: Differentiable physics analyses
-  date: 2020-08-11
-  url: https://indico.fnal.gov/event/43829/contributions/193761/
-  meeting: Snowmass Computational Frontier Workshop
-  meetingurl: https://indico.fnal.gov/event/43829/
-  location: "(Virtual)"
-  focus-area: as
-  project:
+  - title: Differentiable physics analyses
+    date: 2020-08-11
+    url: https://indico.fnal.gov/event/43829/contributions/193761/
+    meeting: Snowmass Computational Frontier Workshop
+    meetingurl: https://indico.fnal.gov/event/43829/
+    location: "(Virtual)"
+    focus-area: as
+    project:
 
-- title: 'Template-based Fitting: cabinetry'
-  date: 2020-10-26
-  url: https://indico.cern.ch/event/960587/contributions/4070322/
-  meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
-  meetingurl: https://indico.cern.ch/event/960587/
-  location: "(Virtual)"
-  focus-area: as
-  project: cabinetry
+  - title: "Template-based Fitting: cabinetry"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4070322/
+    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: "(Virtual)"
+    focus-area: as
+    project: cabinetry
 
-- title: The cabinetry library
-  date: 2021-02-25
-  url: https://indico.cern.ch/event/1005890/contributions/4222699/
-  meeting: ATLAS Statistics Forum Meeting
-  meetingurl: https://indico.cern.ch/event/1005890/
-  location: "(Virtual)"
-  focus-area: as
-  project: cabinetry
+  - title: The cabinetry library
+    date: 2021-02-25
+    url: https://indico.cern.ch/event/1005890/contributions/4222699/
+    meeting: ATLAS Statistics Forum Meeting
+    meetingurl: https://indico.cern.ch/event/1005890/
+    location: "(Virtual)"
+    focus-area: as
+    project: cabinetry
 
-- title: Building and steering template fits with cabinetry
-  date: 2021-05-19
-  url: https://indico.cern.ch/event/948465/contributions/4324154/
-  meeting: 25th International Conference on Computing in High Energy & Nuclear Physics
-  meetingurl: https://indico.cern.ch/event/948465/
-  location: "(Virtual)"
-  focus-area: as
-  project: cabinetry
+  - title: Building and steering template fits with cabinetry
+    date: 2021-05-19
+    url: https://indico.cern.ch/event/948465/contributions/4324154/
+    meeting: 25th International Conference on Computing in High Energy & Nuclear Physics
+    meetingurl: https://indico.cern.ch/event/948465/
+    location: "(Virtual)"
+    focus-area: as
+    project: cabinetry
 
-- title: Binned template fits with cabinetry
-  date: 2021-07-06
-  url: https://indico.cern.ch/event/1019958/contributions/4421868/
-  meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/event/1019958/
-  location: "(Virtual)"
-  focus-area: as
-  project: cabinetry
+  - title: Binned template fits with cabinetry
+    date: 2021-07-06
+    url: https://indico.cern.ch/event/1019958/contributions/4421868/
+    meeting: PyHEP 2021 Workshop
+    meetingurl: https://indico.cern.ch/event/1019958/
+    location: "(Virtual)"
+    focus-area: as
+    project: cabinetry
 
-- title: pyhf and cabinetry
-  date: 2021-09-21
-  url: https://indico.cern.ch/event/1056428/contributions/4523825/
-  meeting: ATLAS SUSY Workshop 2021
-  meetingurl: https://indico.cern.ch/event/1056428/
-  location: "(Virtual)"
-  focus-area: as
-  project:
-    - cabinetry
-    - pyhf
+  - title: pyhf and cabinetry
+    date: 2021-09-21
+    url: https://indico.cern.ch/event/1056428/contributions/4523825/
+    meeting: ATLAS SUSY Workshop 2021
+    meetingurl: https://indico.cern.ch/event/1056428/
+    location: "(Virtual)"
+    focus-area: as
+    project:
+      - cabinetry
+      - pyhf
 
-- title: "From data delivery to statistical inference: ServiceX, coffea, cabinetry & pyhf"
-  date: 2021-11-03
-  url: https://indico.cern.ch/event/1076231/contributions/4560405/
-  meeting: IRIS-HEP AGC Tools 2021 Workshop
-  meetingurl: https://indico.cern.ch/event/1076231/
-  location: "(Virtual)"
-  focus-area:
-    - as
-    - doma
-  project:
-    - servicex
-    - func-adl
-    - cabinetry
-    - pyhf
-    - agc
+  - title: "From data delivery to statistical inference: ServiceX, coffea, cabinetry & pyhf"
+    date: 2021-11-03
+    url: https://indico.cern.ch/event/1076231/contributions/4560405/
+    meeting: IRIS-HEP AGC Tools 2021 Workshop
+    meetingurl: https://indico.cern.ch/event/1076231/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+      - func-adl
+      - cabinetry
+      - pyhf
+      - agc
 
-- title: Analysis Grand Challenge updates
-  date: 2021-11-30
-  url: https://indico.cern.ch/event/985527/#5-analysis-grand-challenge-upd
-  meeting: Steering Board Meeting
-  meetingurl: https://indico.cern.ch/event/985527/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
+  - title: Analysis Grand Challenge updates
+    date: 2021-11-30
+    url: https://indico.cern.ch/event/985527/#5-analysis-grand-challenge-upd
+    meeting: Steering Board Meeting
+    meetingurl: https://indico.cern.ch/event/985527/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
 
-- title: Analysis Grand Challenge updates
-  date: 2022-03-01
-  url: https://indico.cern.ch/event/1131750/#1-agenda-minutes
-  meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
-  meetingurl: https://indico.cern.ch/event/1131750/
-  location: Virtual
-  focus-area:
-    - as
-    - doma
-  project:
-    - coffea-casa
-    - agc
+  - title: Analysis Grand Challenge updates
+    date: 2022-03-01
+    url: https://indico.cern.ch/event/1131750/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1131750/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
 
-- title: Introduction to cabinetry
-  date: 2022-03-15
-  url: https://indico.cern.ch/event/1132859/#2-introduction-to-cabinetry
-  meeting: ATLAS SUSY Background Forum
-  meetingurl: https://indico.cern.ch/event/1132859/
-  location: "CERN"
-  focus-area: as
-  project:
-    - cabinetry
-    - pyhf
+  - title: Introduction to cabinetry
+    date: 2022-03-15
+    url: https://indico.cern.ch/event/1132859/#2-introduction-to-cabinetry
+    meeting: ATLAS SUSY Background Forum
+    meetingurl: https://indico.cern.ch/event/1132859/
+    location: "CERN"
+    focus-area: as
+    project:
+      - cabinetry
+      - pyhf
 
-- title: AFs in the context of the IRIS-HEP AGC
-  date: 2022-03-25
-  url: https://indico.cern.ch/event/1132360/contributions/4759781/
-  meeting: Analysis Facilities Forum Kick-off Meeting
-  meetingurl: https://indico.cern.ch/event/1132360/
-  location: "(Virtual)"
-  focus-area:
-    - as
-    - doma
-    - ssl
-  project: agc
+  - title: AFs in the context of the IRIS-HEP AGC
+    date: 2022-03-25
+    url: https://indico.cern.ch/event/1132360/contributions/4759781/
+    meeting: Analysis Facilities Forum Kick-off Meeting
+    meetingurl: https://indico.cern.ch/event/1132360/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    project: agc
 
-- title: "From data delivery to statistical inference with CMS Open Data"
-  date: 2022-04-25
-  url: https://indico.cern.ch/event/1126109/contributions/4780156/
-  meeting: IRIS-HEP AGC Tools 2022 Workshop
-  meetingurl: https://indico.cern.ch/event/1126109/
-  location: "(Virtual)"
-  focus-area:
-    - as
-    - doma
-  project:
-    - servicex
-    - func-adl
-    - cabinetry
-    - pyhf
-    - agc
+  - title: "From data delivery to statistical inference with CMS Open Data"
+    date: 2022-04-25
+    url: https://indico.cern.ch/event/1126109/contributions/4780156/
+    meeting: IRIS-HEP AGC Tools 2022 Workshop
+    meetingurl: https://indico.cern.ch/event/1126109/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+      - func-adl
+      - cabinetry
+      - pyhf
+      - agc
+
+  - title: Introduction to pyhf and experience in the context of ATLAS
+    date: 2022-06-09
+    url: https://indico.cern.ch/event/1166812/#15-introduction-to-pyhf-and-ex
+    meeting: ATLAS Statistics Forum Meeting
+    meetingurl: https://indico.cern.ch/event/1166812/
+    location: "(Virtual)"
+    focus-area: as
+    project:
+      - cabinetry
+      - pyhf
+
+  - title: "IRIS-HEP Analysis Grand Challenge: Status & plans"
+    date: 2022-06-13
+    url: https://indico.cern.ch/event/1169378/#26-iris-hep-agc-2023-planning
+    meeting: ATLAS Software & Computing Week
+    meetingurl: https://indico.cern.ch/event/1169378/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+    project: agc
+
+  - title: Analysis Grand Challenge updates
+    date: 2022-06-14
+    url: https://indico.cern.ch/event/1167357/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1167357/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "pyhf tutorial"
+    date: 2022-06-28
+    url: https://indico.cern.ch/event/1159574/contributions/4930681/
+    meeting: Hybrid ATLAS Induction Day + Software Tutorial
+    meetingurl: https://indico.cern.ch/event/1159574/
+    location: "CERN & Virtual"
+    focus-area: as
+    project:
+      - cabinetry
+      - pyhf
+
+  - title: "The IRIS-HEP Analysis Grand Challenge"
+    date: 2022-07-09
+    url: https://agenda.infn.it/event/28874/contributions/169204/
+    meeting: ICHEP 2022
+    meetingurl: https://agenda.infn.it/event/28874/
+    location: "Bologna, Italy"
+    focus-area:
+      - as
+      - doma
+    project: agc
+
+  - title: Analysis Grand Challenge updates
+    date: 2022-08-23
+    url: https://indico.cern.ch/event/1173741/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1173741/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "End-to-end physics analysis with Open Data: the Analysis Grand Challenge"
+    date: 2022-09-15
+    url: https://indico.cern.ch/event/1150631/contributions/5000592/
+    meeting: PyHEP 2022 (virtual) Workshop
+    meetingurl: https://indico.cern.ch/event/1150631/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+      - func-adl
+      - cabinetry
+      - pyhf
+      - uproot
+      - awkward
+      - histogram
+      - scikit-hep
+      - agc
