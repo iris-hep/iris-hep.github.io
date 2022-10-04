@@ -32,6 +32,15 @@ presentations:
   location: Virtual
   focus-area: as
   project:
+
+- title: 'Designing and implementing a converting tool for statistical models between pyhf and CMS combine'
+  date: 2022-09-21
+  url: https://indico.cern.ch/event/1195271/contributions/5056107/
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195271
+  location: Virtual
+  focus-area: as
+  project:
 current_status: >
 github-username: peterridolfi
 ---
