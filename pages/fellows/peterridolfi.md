@@ -38,7 +38,7 @@ presentations:
   url: https://indico.cern.ch/event/1195271/contributions/5056107/
   meeting: IRIS-HEP Fellows Presentations 2022
   meetingurl: https://indico.cern.ch/event/1195271
-  recordingurl: https://youtu.be/H8mwFxK7sos&t=704s
+  recordingurl: https://youtu.be/H8mwFxK7sos&t=707s
   location: Virtual
   focus-area: as
   project:
