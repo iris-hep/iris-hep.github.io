@@ -20,6 +20,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/200-proposal-Maxym-Naumchyk.pdf
 presentations:
+  - title: Integrating ML algorithms for LHC data compression into the ESCAPE Virtual Research Environment
+    date: 2022-09-14
+    url: https://indico.cern.ch/event/1195270/contributions/5043782/
+    meeting: IRIS-HEP Fellowship Presentations
+    meetingurl: https://indico.cern.ch/event/1195270/
+    recordingurl: https://youtu.be/leIV_gRetHU
+    focus-area: ia
 current_status: >
 
 github-username: maxymnaumchyk
