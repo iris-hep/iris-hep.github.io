@@ -13,5 +13,5 @@ description: >
   add new backends to the RECAST_cli besides Rivet (e.g. MadAnalsyis), add alternative
   statistical tools (e.g. pyhf), and to run the workflows in REANA in the cloud.
 contacts:
-- cranmer
-- matthewfeickert
+  - cranmer
+  - matthewfeickert

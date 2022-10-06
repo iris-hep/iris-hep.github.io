@@ -1,7 +1,7 @@
 active: true
 focus-area:
-- osglhc
-- doma
+  - osglhc
+  - doma
 institution: University of California, San Diego
 name: Frank Wuerthwein
 photo: "/assets/images/team/Frank-Wuerthwein.jpg"
@@ -9,471 +9,475 @@ shortname: fkw888
 title: OSG-LHC Area Lead and OSG Executive Director
 website: https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494
 presentations:
-- title: Towards an Open Global Cyberinfrastructure Enabling Digital Research
-  date: 2022-03-29
-  url: https://cnispring2022membermtg.sched.com/event/yga8/42-towards-an-open-global-cyberinfrastructure-enabling-digital-research-invited-session
-  meeting: CNI Spring 2022 Membership Meeting
-  meetingurl: https://www.cni.org/events/membership-meetings/past-meetings/spring-2022
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Towards A National Research Platform that federates all academic Cyberinfrastructure in the USA
-  date: 2021-03-23
-  url: https://idre.ucla.edu/wp-content/uploads/2022/04/idre032422.pdf?x84502
-  meeting: Open Science Workshop, UCLA 2022
-  meetingurl: https://idre.ucla.edu/calendar-event/open-science-workshop
-  focus-area: osglhc
-  location:
-  project: osg-networking
-- title: Relationship of OSG and NRP
-  date: 2021-03-16
-  url: https://indico.fnal.gov/event/53029/contributions/236162/attachments/153057/198515/AHM22-Day3-FWuerthwein-osg-nrp-relationship031622.pdf
-  meeting: OSG All-Hands Meeting 2022
-  meetingurl: https://indico.fnal.gov/event/53029/
-  focus-area: osglhc
-  location: virtual
-  project: osg-networking
-- title: Democratizing Access to Cyberinfrastructure
-  date: 2021-03-15
-  url: https://indico.fnal.gov/event/53029/contributions/236151/attachments/152990/198405/AHM2022-Day2-FWuerthwein-DeomocratizingAccess.pdf
-  meeting: OSG All-Hands Meeting 2022
-  meetingurl: https://indico.fnal.gov/event/53029/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: State of OSG
-  date: 2021-03-14
-  url: https://indico.fnal.gov/event/53029/contributions/236142/attachments/152967/198365/AHM22-Day1-FWuerthwein-stateOfOSG2022-final.pdf
-  meeting: OSG All-Hands Meeting 2022
-  meetingurl: https://indico.fnal.gov/event/53029/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Global Cyberinfrastructure for LIGO, Virgo, Kagra, IceCube, and others
-  date: 2021-03-12
-  url: http://www.ipam.ucla.edu/abstract/?tid=17033&pcode=GWAWS4
-  meeting: IPAM Mathematical and Computational Challenges in the Era of Gravitational Wave Astronomy
-  meetingurl: http://www.ipam.ucla.edu/programs/workshops/workshop-iv-big-data-in-multi-messenger-astrophysics/
-  focus-area: osglhc
-  location: UCLA
-  project: osg-networking
-- title: Towards a National Research Platform that federates all academic Cyberinfrastructure in the USA
-  date: 2021-10-08
-  url: http://carla2021.org/schedule/keynote/154
-  meeting: CARLA 2021
-  meetingurl: http://carla2021.org
-  focus-area: osglhc
-  location: virtual
-  project: osg-networking
-- title: Prototype National Research Platform
-  date: 2021-09-20
-  url: https://grpworkshop2021.theglobalresearchplatform.net/PDF/1-WUERTHWEIN-GRP-2021-PrototypeNRP.pdf
-  meeting: 2nd Global Research Platform Workshop
-  meetingurl: https://grpworkshop2021.theglobalresearchplatform.net/program.html
-  focus-area: osglhc
-  location: virtual
-  project: osg-networking
-- title: Big Science on PRP
-  date: 2021-06-21
-  url: https://drive.google.com/file/d/1_S9zPpf24PWnIR1IBaON5Tiq8_maCihk/view
-  meeting: Pacific Research Platform, Its Legacy and Promise - 6 Year Virtual Symposium
-  meetingurl: https://grpworkshop2021.theglobalresearchplatform.net/program.html
-  focus-area: osglhc
-  location: virtual
-  project: osg-networking
-- title: State of the OSG
-  date: 2021-03-01
-  url: https://indico.fnal.gov/event/47040/contributions/208345/attachments/140505/176605/stateOfOSG2021-final.pdf
-  meeting: OSG All-Hands Meeting 2021
-  meetingurl: https://indico.fnal.gov/event/47040/overview
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: OSG as an agile computing environment
-  date: 2021-03-03
-  url: https://indico.fnal.gov/event/47040/contributions/208665/attachments/140609/176764/agileOSGMarch3rd2021.pdf
-  meeting: OSG All-Hands Meeting 2021
-  meetingurl: https://indico.fnal.gov/event/47040/overview
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: OSG
-  date: 2021-03-04
-  url: https://indico.egi.eu/event/5429/contributions/15038/attachments/13725/16929/egiMarch4th2021.pdf
-  meeting: Cloud & HTC infrastructure integration workshop
-  meetingurl: https://indico.egi.eu/event/5429/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Introduction to OSG on Campuses
-  date: 2020-09-01
-  url: https://indico.fnal.gov/event/22127/contributions/195602/attachments/133834/165258/osg4campuses.pptx
-  meeting: OSG All-Hands Meeting 2020
-  meetingurl: https://indico.fnal.gov/event/22127/overview
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: State of OSG
-  date: 2020-08-31
-  url: https://indico.fnal.gov/event/22127/contributions/194197/attachments/133778/165164/stateOfOSG2020.pptx
-  meeting: OSG All-Hands Meeting 2020
-  meetingurl: https://indico.fnal.gov/event/22127/overview
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: ESnet Requirements Documents Presentations at the USCMS Blueprint Meetings
-  date: 2020-08-19
-  meeting: S&C Blueprint Meeting
-  url: https://indico.cern.ch/event/925509/
-  meetingurl: https://indico.cern.ch/event/925509/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: ESnet Requirements Documents Presentations at the USCMS Blueprint Meetings
-  date: 2020-08-12
-  url: https://indico.cern.ch/event/925508/contributions/3889401/attachments/2087275/3506722/blueprintAugust12th2020.pdf
-  meeting: S&C Blueprint Meeting
-  meetingurl: https://indico.cern.ch/event/925508/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Summary of CompF4
-  date: 2020-08-11
-  url: https://indico.fnal.gov/event/43829/contributions/192481/attachments/134058/165615/snowmassAugust11th2020.pdf
-  meeting: Snowmass computational frontier workshop
-  meetingurl: https://indico.fnal.gov/event/43829/overview
-  focus-area:
-  - doma
-  - osglhc
-  location: virtual
-  project:
-- title: Discussion of CompF4 Group Mandate
-  date: 2020-08-10
-  url: https://indico.fnal.gov/event/43829/contributions/193062/attachments/132700/163227/snowmassAugust10th2020.pdf
-  meeting: Snowmass computational frontier workshop
-  meetingurl: https://indico.fnal.gov/event/43829/overview
-  focus-area:
-  - doma
-  - osglhc
-  location: virtual
-  project:
-- title: High Throughput Science Workshop
-  date: 2020-07-31
-  url: https://pearc20.sched.com/event/cnY6?iframe=no
-  meeting: PEARC 2020
-  meetingurl: https://pearc.acm.org/pearc20/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Brainstorming Data Lake Challenge — CMS Use Cases
-  date: 2020-07-15
-  url: https://indico.cern.ch/event/939368/contributions/3947031/attachments/2074743/3483695/domaGeneralJuly15th2020.pdf
-  meeting: WLCG DOMA general meeting
-  meetingurl: https://indico.cern.ch/event/939368/
-  focus-area: doma
-  location: virtual
-  project: modeling
-- title: ESnet Requirements Documents Presentations at the USCMS Blueprint Meetings
-  date: 2020-07-01
-  url: https://indico.cern.ch/event/925502/contributions/3889389/attachments/2067358/3469748/go
-  meeting: S&C Blueprint Meeting
-  meetingurl: https://indico.cern.ch/event/925502/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Proposed New Scope of DOMA Access
-  date: 2020-06-24
-  url: https://indico.cern.ch/event/932079/contributions/3917107/attachments/2063364/3462051/domaAccess-June24th2020.pdf
-  meeting: WLCG DOMA general meeting
-  meetingurl: https://indico.cern.ch/event/932079/
-  focus-area: doma
-  location: virtual
-  project: modeling
-- title: Data use by the CMS experiment at the LHC
-  date: 2020-06-15
-  meetingurl: https://sdm.lbl.gov/net/#frank2020
-  url: https://sdm.lbl.gov/net/FrankWurthwein-esnet-200515.pdf
-  meeting: ESNet Seminar
-  location: Zoom, US
-  focus-area: doma
-  project: modeling
-- title: Idea for a Production Data Challenge
-  date: 2020-05-28
-  url: https://indico.cern.ch/event/896167/contributions/3880422/attachments/2045464/3430061/irishep-challenge-May28th2020.pdf
-  meeting: IRIS-HEP Team Retreat
-  meetingurl: https://indico.cern.ch/event/896167/
-  focus-area: doma
-  location: virtual
-  project: modeling
-- title: OSG - Years 3, and 4+5
-  date: 2020-05-26
-  url: https://indico.cern.ch/event/896167/contributions/3870078/attachments/2044555/3424906/osg-lhc-staff-retreat-May26-2020.pdf
-  meeting: IRIS-HEP Team Retreat
-  meetingurl: https://indico.cern.ch/event/896167/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Idea for a production focused Data Challenge
-  date: 2020-05-05
-  meetingurl: https://indico.cern.ch/event/912400/
-  url: https://indico.cern.ch/event/912400/contributions/3837180/attachments/2025219/3400807/DOMA-Access-May5th2020.pdf
-  meeting: DOMA Access Meeting WLCG
-  focus-area: doma
-  location: virtual
-  project: modeling
-- title: GPU Cloud Bursting for Multi-Messenger Astrophysics with IceCube
-  date: 2020-04-30
-  meetingurl: https://pages.awscloud.com/gpu-cloud-bursting.html
-  url: https://d1.awsstatic.com/WWPS/pdf/Running-a-GPU-burst-for-Multi-Messenger-Astrophysics-with-IceCube.pdf
-  meeting: 'AWS Education: Research Seminar Series'
-  focus-area: doma
-  location: virtual
-  project: osg-networking
-- title: ESnet Requirements Documents Presentations at the USCMS Blueprint Meetings
-  date: 2020-04-29
-  url: https://indico.cern.ch/event/913135/contributions/3840110/attachments/2026606/3390423/uscms_blueprint_200415.pdf
-  meeting: S&C Blueprint Meeting
-  meetingurl: https://indico.cern.ch/event/913135/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Draft Proposals for Workplan towards the ESNet review
-  date: 2020-04-15
-  meetingurl: https://indico.cern.ch/event/907734/
-  url: https://indico.cern.ch/event/907734/contributions/3819195/attachments/2020624/3378498/uscms_blueprint_200415.pdf
-  meeting: S&C Blueprint Meeting
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Thoughts on Prep for ESNet workshop
-  date: 2020-03-18
-  meetingurl: https://indico.cern.ch/event/896371/
-  url: https://indico.cern.ch/event/896371/contributions/3779617/attachments/2005089/3349622/networkingBlueprintMarch18th2020.pdf
-  meeting: S&C Blueprint Meeting
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: The ECoM2x Process
-  date: 2020-03-17
-  url: https://indico.cern.ch/event/896935/contributions/3784451/attachments/2004410/3347247/ecom2x-March17th.pdf
-  meeting: Joint US ATLAS - US CMS Meeting on Facility R&D
-  meetingurl: https://indico.cern.ch/event/896935/
-  focus-area: doma
-  project: modeling
-- title: Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube
-    across all available GPUs in the Cloud
-  date: 2020-01-27
-  url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
-  meeting: NRP Engagement webinar
-  meetingurl: https://spaces.at.internet2.edu/display/NRPWG/National+Research+Platform+%28NRP%29+Space
-  location: WebEx, US
-  focus-area: osglhc
-  project: osg-networking
-- title: Running a GPU burst for Multi-Messenger Astrophysics with IceCube across
-    all available GPUs in the Cloud
-  date: 2019-12-04
-  url: https://www.slideshare.net/FrankWuerthwein/building-and-running-the-cloud-gpu-vacuum-cleaner
-  meeting: Middleware and Grid Interagency Cooperation (MAGIC)  meeting
-  meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC
-  location: WebEx, US
-  focus-area: osglhc
-  project: osg-networking
-- title: Running a GPU burst for Multi-Messenger Astrophysics with IceCube across
-    all available GPUs in the Cloud
-  date: 2019-11-19
-  url: https://www.slideshare.net/igor_sfiligoi/running-a-gpu-burst-for-multimessenger-astrophysics-with-icecube-across-all-available-gpus-in-the-cloud
-  meeting: SC 19 Multiple Booths
-  meetingurl: https://sc19.supercomputing.org
-  location: Denver, CO, USA
-  focus-area: osglhc
-  project: osg-networking
-- title: OSG News
-  date: 2019-10-10
-  url: https://indico.fnal.gov/event/21410/contribution/2/material/slides/0.pdf
-  meeting: OSG Council Face to Face meeting
-  focus-area: osglhc
-  meetingurl: https://indico.fnal.gov/event/21410/
-  location: virtual meeting
-  project:
-- title: Introduction to OSG and OSG Participants
-  date: 2019-09-23
-  url: Not available online
-  meeting: 2019 NSF CC* and CICI PI Pre-Workshop Breakout on OSG
-  focus-area: osglhc
-  meetingurl: https://www.thequilt.net/public-event/2019-nsf-cc-and-cici-pi-pre-workshop-breakouts/#osgd
-- title: Advancing Open Science through distributed High Throughput Computing - The
-    OSG Data Federation
-  date: 2019-09-18
-  url: http://grp-workshop-2019.ucsd.edu/presentations/4_WUERTHWEIN-GRP-2019-OSG.pdf
-  meeting: Global Research Platform Workshop
-  focus-area: osglhc
-  meetingurl: http://grp-workshop-2019.ucsd.edu
-  location: Qualcomm Institute, San Diego
-  project:
-- title: OSG XCache Discussion
-  date: 2019-09-12
-  url: https://indico.cern.ch/event/840472/sessions/323302/attachments/1907227/3150065/irishep-retreatSeptember2019.pdf
-  meeting: IRIS-HEP retreat
-  focus-area: osglhc
-  meetingurl: https://indico.cern.ch/event/840472/
-  project: caching
-  location: Fermilab, Chicago
-- title: Advancing Open Science through distributed High Throughput Computing
-  date: 2019-09-11
-  url: https://indico.cern.ch/event/739882/contributions/3520011/attachments/1906491/3148700/gdbSeptember2019.pdf
-  meeting: WLCG Grid Deployment Board Meeting
-  focus-area: osglhc
-  meetingurl: https://indico.cern.ch/event/739882/
-  project:
-  location: Fermilab, Chicago
-- title: OSG - IRISHEP Advisory Panel
-  date: 2019-09-09
-  url: https://indico.cern.ch/event/840467/contributions/3545009/attachments/1904432/3144878/irishep-AdvisoryBoard-September2019.pdf
-  meeting: IRIS-HEP Advisory Panel Meeting
-  focus-area: osglhc
-  meetingurl: https://indico.cern.ch/event/840467/
-  project:
-  location: Rosemont, IL
-- title: OSG - Steering Board
-  date: 2019-09-03
-  url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/287759/attachments/1901941/3139925/irishep-steeringBoard-September3-2019.pdf
-  meeting: IRIS-HEP Steering Board Meeting
-  focus-area: osglhc
-  meetingurl: https://indico.cern.ch/event/809178/
-  project:
-  location: virtual
-- title: XCache Initiatives and Experiences
-  date: 2019-07-08
-  meeting: pre-GDB meeting on XCache
-  url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune8th2019.pptx
-  project: caching
-  focus-area: doma
-  meetingurl: https://indico.cern.ch/event/827556/
-  location: virtual
-- title: Reducing Disk Needs with a Data Lake Concept
-  date: 2019-07-05
-  meeting: ECoM2x meeting CMS
-  url: http://uaf-8.t2.ucsd.edu/~fkw/ecom2xJuly5th2019.pptx
-  project: modeling
-  focus-area: doma
-  meetingurl: Internal to CMS
-  location: CERN
-- title: Advancing Open Science through distributed High Throughput Computing
-  date: 2019-06-25
-  meeting: NERSC Seminar talk
-  url: http://uaf-8.t2.ucsd.edu/~fkw/nerscJune25th2019.pptx
-  focus-area: osglhc
-  project:
-  meetingurl: no meeting URL available
-  location: NERSC seminar at LBNL
-- title: OSG Accounting Task Force
-  date: 2019-06-12
-  meeting: OSG Area Coordinators Meeting
-  location: Virtual
-  url: http://uaf-8.t2.ucsd.edu/~fkw/osgAccountingTaskForceJune122019.pptx
-  focus-area: osglhc
-  project:
-  meetingurl: no meeting URL available
-- title: OSG-LHC
-  date: 2019-06-12
-  meeting: NSF IRIS-HEP meeting
-  url: https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf
-  meetingurl: https://indico.cern.ch/event/820235/
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: UCSD in IRIS-HEP DOMA
-  date: 2019-06-07
-  meeting: DOMA IRIS-HEP meeting
-  meetingurl: https://indico.cern.ch/event/818793/
-  url: https://indico.cern.ch/event/818793/contributions/3420719/attachments/1859017/3054548/iris-hep-domaJune7th2019.pdf
-  focus-area: osglhc
-  location: virtual
-  project:
-- title: Advancing Science through distributed High Throughput Computing
-  date: 2019-06-05
-  meeting: SDX Workshop at Qualcom Institute
-  meetingurl: https://www.eventbrite.com/e/integrating-open-science-grid-osg-with-sdx-projects-workshop-june-5-6-2019-tickets-58800356449
-  location: San Diego, CA
-  url: http://uaf-8.t2.ucsd.edu/~fkw/sdxJune5th2019.pptx
-  focus-area: osglhc
-  project:
-- title: Data Lake — A site perspective
-  date: 2019-06-04
-  meeting: DOMA Access Meeting WLCG
-  meetingurl: https://indico.cern.ch/event/769508/
-  url: https://indico.cern.ch/event/769508/contributions/3450014/attachments/1856148/3048776/DataLakeSitePerspectiveJune4th2019.pdf
-  project: modeling
-  focus-area: doma
-  location: virtual
-- title: OSG Value Proposition for Campuses
-  date: 2019-05-21
-  url: https://drive.google.com/file/d/1WgaZMtm_DNB2qt8_-GJkVs66mlI4cORE/view?usp=drive_web
-  meeting: Great Plains Network Annual Meeting
-  meetingurl: https://conferences.k-state.edu/gpn/
-  location: Kansas City, MO
-  focus-area: osglhc
-  project:
-- title: Advancing Open Science through distributed High Throughput Computing
-  date: 2019-05-21
-  url: https://drive.google.com/file/d/1qZStE92CfkdN3i0zjboF-vl3Llgx4r1D/view?usp=drive_web
-  meeting: Great Plains Network Annual Meeting
-  meetingurl: https://conferences.k-state.edu/gpn/
-  location: Kansas City, MO
-  focus-area: osglhc
-  project:
-- title: Big Science with Big Instruments
-  date: 2019-05-15
-  meeting: AWS Seminar talk
-  url: https://d1.awsstatic.com/WWPS/pdf/Science_at_the_Petascale.pdf
-  focus-area: osglhc
-  meetingurl: unknown
-  location: virtual
-  project:
-- title: Advancing Open Science through distributed High Throughput Computing
-  date: 2019-04-12
-  url: https://drive.google.com/file/d/1M8w5ndUURkrsDDomhPFpGco4e0efHCVq/view?usp=sharing
-  meeting: CI Engineering Brown Bag
-  focus-area: osglhc
-  meetingurl: unknown
-  location: virtual
-  project:
-- title: 'Data Access at HPC: ATLAS/CMS Perspective'
-  date: 2019-03-20
-  url: https://indico.cern.ch/event/759388/contributions/3312490/
-  meeting: HOW2019 (Joint HSF/OSG/WLCG Workshop)
-  meetingurl: https://indico.cern.ch/event/759388/
-  location: Jefferson Lab
-  focus-area: doma
-  project:
-- title: Data Access in DOMA
-  date: 2019-03-20
-  url: https://indico.cern.ch/event/759388/contributions/3312487/
-  meeting: HOW2019 (Joint HSF/OSG/WLCG Workshop)
-  meetingurl: https://indico.cern.ch/event/759388/
-  location: Jefferson Lab
-  focus-area: doma
-  project: caching
-- title: State of OSG
-  date: 2019-03-19
-  url: https://indico.cern.ch/event/759388/contributions/3353296/
-  meeting: HOW2019 (Joint HSF/OSG/WLCG Workshop)
-  meetingurl: https://indico.cern.ch/event/759388/
-  location: Jefferson Lab
-  focus-area: osglhc
-  project:
-- title: The OSG Data Federation
-  date: 2019-03-07
-  url: https://meetings.internet2.edu/2019-global-summit/speakers/6556/
-  meeting: Internet2 Global Summit 2019
-  meetingurl: https://meetings.internet2.edu/2019-global-summit/detail/10005368/
-  location: Washington, DC
-  focus-area: osglhc
-  project: caching
-- title: OSG-LHC
-  date: 2019-02-06
-  url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532
-  meeting: IRIS-HEP Steering Board Meeting
-  focus-area: osglhc
-  meetingurl: https://indico.cern.ch/event/790759/
-  project:
+  - title: Towards an Open Global Cyberinfrastructure Enabling Digital Research
+    date: 2022-03-29
+    url: https://cnispring2022membermtg.sched.com/event/yga8/42-towards-an-open-global-cyberinfrastructure-enabling-digital-research-invited-session
+    meeting: CNI Spring 2022 Membership Meeting
+    meetingurl: https://www.cni.org/events/membership-meetings/past-meetings/spring-2022
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Towards A National Research Platform that federates all academic Cyberinfrastructure in the USA
+    date: 2021-03-23
+    url: https://idre.ucla.edu/wp-content/uploads/2022/04/idre032422.pdf?x84502
+    meeting: Open Science Workshop, UCLA 2022
+    meetingurl: https://idre.ucla.edu/calendar-event/open-science-workshop
+    focus-area: osglhc
+    location:
+    project: osg-networking
+  - title: Relationship of OSG and NRP
+    date: 2021-03-16
+    url: https://indico.fnal.gov/event/53029/contributions/236162/attachments/153057/198515/AHM22-Day3-FWuerthwein-osg-nrp-relationship031622.pdf
+    meeting: OSG All-Hands Meeting 2022
+    meetingurl: https://indico.fnal.gov/event/53029/
+    focus-area: osglhc
+    location: virtual
+    project: osg-networking
+  - title: Democratizing Access to Cyberinfrastructure
+    date: 2021-03-15
+    url: https://indico.fnal.gov/event/53029/contributions/236151/attachments/152990/198405/AHM2022-Day2-FWuerthwein-DeomocratizingAccess.pdf
+    meeting: OSG All-Hands Meeting 2022
+    meetingurl: https://indico.fnal.gov/event/53029/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: State of OSG
+    date: 2021-03-14
+    url: https://indico.fnal.gov/event/53029/contributions/236142/attachments/152967/198365/AHM22-Day1-FWuerthwein-stateOfOSG2022-final.pdf
+    meeting: OSG All-Hands Meeting 2022
+    meetingurl: https://indico.fnal.gov/event/53029/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Global Cyberinfrastructure for LIGO, Virgo, Kagra, IceCube, and others
+    date: 2021-03-12
+    url: http://www.ipam.ucla.edu/abstract/?tid=17033&pcode=GWAWS4
+    meeting: IPAM Mathematical and Computational Challenges in the Era of Gravitational Wave Astronomy
+    meetingurl: http://www.ipam.ucla.edu/programs/workshops/workshop-iv-big-data-in-multi-messenger-astrophysics/
+    focus-area: osglhc
+    location: UCLA
+    project: osg-networking
+  - title: Towards a National Research Platform that federates all academic Cyberinfrastructure in the USA
+    date: 2021-10-08
+    url: http://carla2021.org/schedule/keynote/154
+    meeting: CARLA 2021
+    meetingurl: http://carla2021.org
+    focus-area: osglhc
+    location: virtual
+    project: osg-networking
+  - title: Prototype National Research Platform
+    date: 2021-09-20
+    url: https://grpworkshop2021.theglobalresearchplatform.net/PDF/1-WUERTHWEIN-GRP-2021-PrototypeNRP.pdf
+    meeting: 2nd Global Research Platform Workshop
+    meetingurl: https://grpworkshop2021.theglobalresearchplatform.net/program.html
+    focus-area: osglhc
+    location: virtual
+    project: osg-networking
+  - title: Big Science on PRP
+    date: 2021-06-21
+    url: https://drive.google.com/file/d/1_S9zPpf24PWnIR1IBaON5Tiq8_maCihk/view
+    meeting: Pacific Research Platform, Its Legacy and Promise - 6 Year Virtual Symposium
+    meetingurl: https://grpworkshop2021.theglobalresearchplatform.net/program.html
+    focus-area: osglhc
+    location: virtual
+    project: osg-networking
+  - title: State of the OSG
+    date: 2021-03-01
+    url: https://indico.fnal.gov/event/47040/contributions/208345/attachments/140505/176605/stateOfOSG2021-final.pdf
+    meeting: OSG All-Hands Meeting 2021
+    meetingurl: https://indico.fnal.gov/event/47040/overview
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: OSG as an agile computing environment
+    date: 2021-03-03
+    url: https://indico.fnal.gov/event/47040/contributions/208665/attachments/140609/176764/agileOSGMarch3rd2021.pdf
+    meeting: OSG All-Hands Meeting 2021
+    meetingurl: https://indico.fnal.gov/event/47040/overview
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: OSG
+    date: 2021-03-04
+    url: https://indico.egi.eu/event/5429/contributions/15038/attachments/13725/16929/egiMarch4th2021.pdf
+    meeting: Cloud & HTC infrastructure integration workshop
+    meetingurl: https://indico.egi.eu/event/5429/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Introduction to OSG on Campuses
+    date: 2020-09-01
+    url: https://indico.fnal.gov/event/22127/contributions/195602/attachments/133834/165258/osg4campuses.pptx
+    meeting: OSG All-Hands Meeting 2020
+    meetingurl: https://indico.fnal.gov/event/22127/overview
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: State of OSG
+    date: 2020-08-31
+    url: https://indico.fnal.gov/event/22127/contributions/194197/attachments/133778/165164/stateOfOSG2020.pptx
+    meeting: OSG All-Hands Meeting 2020
+    meetingurl: https://indico.fnal.gov/event/22127/overview
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: ESnet Requirements Documents Presentations at the USCMS Blueprint Meetings
+    date: 2020-08-19
+    meeting: S&C Blueprint Meeting
+    url: https://indico.cern.ch/event/925509/
+    meetingurl: https://indico.cern.ch/event/925509/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: ESnet Requirements Documents Presentations at the USCMS Blueprint Meetings
+    date: 2020-08-12
+    url: https://indico.cern.ch/event/925508/contributions/3889401/attachments/2087275/3506722/blueprintAugust12th2020.pdf
+    meeting: S&C Blueprint Meeting
+    meetingurl: https://indico.cern.ch/event/925508/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Summary of CompF4
+    date: 2020-08-11
+    url: https://indico.fnal.gov/event/43829/contributions/192481/attachments/134058/165615/snowmassAugust11th2020.pdf
+    meeting: Snowmass computational frontier workshop
+    meetingurl: https://indico.fnal.gov/event/43829/overview
+    focus-area:
+      - doma
+      - osglhc
+    location: virtual
+    project:
+  - title: Discussion of CompF4 Group Mandate
+    date: 2020-08-10
+    url: https://indico.fnal.gov/event/43829/contributions/193062/attachments/132700/163227/snowmassAugust10th2020.pdf
+    meeting: Snowmass computational frontier workshop
+    meetingurl: https://indico.fnal.gov/event/43829/overview
+    focus-area:
+      - doma
+      - osglhc
+    location: virtual
+    project:
+  - title: High Throughput Science Workshop
+    date: 2020-07-31
+    url: https://pearc20.sched.com/event/cnY6?iframe=no
+    meeting: PEARC 2020
+    meetingurl: https://pearc.acm.org/pearc20/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Brainstorming Data Lake Challenge — CMS Use Cases
+    date: 2020-07-15
+    url: https://indico.cern.ch/event/939368/contributions/3947031/attachments/2074743/3483695/domaGeneralJuly15th2020.pdf
+    meeting: WLCG DOMA general meeting
+    meetingurl: https://indico.cern.ch/event/939368/
+    focus-area: doma
+    location: virtual
+    project: modeling
+  - title: ESnet Requirements Documents Presentations at the USCMS Blueprint Meetings
+    date: 2020-07-01
+    url: https://indico.cern.ch/event/925502/contributions/3889389/attachments/2067358/3469748/go
+    meeting: S&C Blueprint Meeting
+    meetingurl: https://indico.cern.ch/event/925502/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Proposed New Scope of DOMA Access
+    date: 2020-06-24
+    url: https://indico.cern.ch/event/932079/contributions/3917107/attachments/2063364/3462051/domaAccess-June24th2020.pdf
+    meeting: WLCG DOMA general meeting
+    meetingurl: https://indico.cern.ch/event/932079/
+    focus-area: doma
+    location: virtual
+    project: modeling
+  - title: Data use by the CMS experiment at the LHC
+    date: 2020-06-15
+    meetingurl: https://sdm.lbl.gov/net/#frank2020
+    url: https://sdm.lbl.gov/net/FrankWurthwein-esnet-200515.pdf
+    meeting: ESNet Seminar
+    location: Zoom, US
+    focus-area: doma
+    project: modeling
+  - title: Idea for a Production Data Challenge
+    date: 2020-05-28
+    url: https://indico.cern.ch/event/896167/contributions/3880422/attachments/2045464/3430061/irishep-challenge-May28th2020.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/
+    focus-area: doma
+    location: virtual
+    project: modeling
+  - title: OSG - Years 3, and 4+5
+    date: 2020-05-26
+    url: https://indico.cern.ch/event/896167/contributions/3870078/attachments/2044555/3424906/osg-lhc-staff-retreat-May26-2020.pdf
+    meeting: IRIS-HEP Team Retreat
+    meetingurl: https://indico.cern.ch/event/896167/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Idea for a production focused Data Challenge
+    date: 2020-05-05
+    meetingurl: https://indico.cern.ch/event/912400/
+    url: https://indico.cern.ch/event/912400/contributions/3837180/attachments/2025219/3400807/DOMA-Access-May5th2020.pdf
+    meeting: DOMA Access Meeting WLCG
+    focus-area: doma
+    location: virtual
+    project: modeling
+  - title: GPU Cloud Bursting for Multi-Messenger Astrophysics with IceCube
+    date: 2020-04-30
+    meetingurl: https://pages.awscloud.com/gpu-cloud-bursting.html
+    url: https://d1.awsstatic.com/WWPS/pdf/Running-a-GPU-burst-for-Multi-Messenger-Astrophysics-with-IceCube.pdf
+    meeting: "AWS Education: Research Seminar Series"
+    focus-area: doma
+    location: virtual
+    project: osg-networking
+  - title: ESnet Requirements Documents Presentations at the USCMS Blueprint Meetings
+    date: 2020-04-29
+    url: https://indico.cern.ch/event/913135/contributions/3840110/attachments/2026606/3390423/uscms_blueprint_200415.pdf
+    meeting: S&C Blueprint Meeting
+    meetingurl: https://indico.cern.ch/event/913135/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Draft Proposals for Workplan towards the ESNet review
+    date: 2020-04-15
+    meetingurl: https://indico.cern.ch/event/907734/
+    url: https://indico.cern.ch/event/907734/contributions/3819195/attachments/2020624/3378498/uscms_blueprint_200415.pdf
+    meeting: S&C Blueprint Meeting
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Thoughts on Prep for ESNet workshop
+    date: 2020-03-18
+    meetingurl: https://indico.cern.ch/event/896371/
+    url: https://indico.cern.ch/event/896371/contributions/3779617/attachments/2005089/3349622/networkingBlueprintMarch18th2020.pdf
+    meeting: S&C Blueprint Meeting
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: The ECoM2x Process
+    date: 2020-03-17
+    url: https://indico.cern.ch/event/896935/contributions/3784451/attachments/2004410/3347247/ecom2x-March17th.pdf
+    meeting: Joint US ATLAS - US CMS Meeting on Facility R&D
+    meetingurl: https://indico.cern.ch/event/896935/
+    focus-area: doma
+    project: modeling
+  - title:
+      Running a 380PFLOP32s GPU burst for Multi-Messenger Astrophysics with IceCube
+      across all available GPUs in the Cloud
+    date: 2020-01-27
+    url: https://www.slideshare.net/igor_sfiligoi/nrp-engagement-webinar-running-a-51k-gpu-multicloud-burstfor-mma-with-icecube
+    meeting: NRP Engagement webinar
+    meetingurl: https://spaces.at.internet2.edu/display/NRPWG/National+Research+Platform+%28NRP%29+Space
+    location: WebEx, US
+    focus-area: osglhc
+    project: osg-networking
+  - title:
+      Running a GPU burst for Multi-Messenger Astrophysics with IceCube across
+      all available GPUs in the Cloud
+    date: 2019-12-04
+    url: https://www.slideshare.net/FrankWuerthwein/building-and-running-the-cloud-gpu-vacuum-cleaner
+    meeting: Middleware and Grid Interagency Cooperation (MAGIC)  meeting
+    meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC
+    location: WebEx, US
+    focus-area: osglhc
+    project: osg-networking
+  - title:
+      Running a GPU burst for Multi-Messenger Astrophysics with IceCube across
+      all available GPUs in the Cloud
+    date: 2019-11-19
+    url: https://www.slideshare.net/igor_sfiligoi/running-a-gpu-burst-for-multimessenger-astrophysics-with-icecube-across-all-available-gpus-in-the-cloud
+    meeting: SC 19 Multiple Booths
+    meetingurl: https://sc19.supercomputing.org
+    location: Denver, CO, USA
+    focus-area: osglhc
+    project: osg-networking
+  - title: OSG News
+    date: 2019-10-10
+    url: https://indico.fnal.gov/event/21410/contribution/2/material/slides/0.pdf
+    meeting: OSG Council Face to Face meeting
+    focus-area: osglhc
+    meetingurl: https://indico.fnal.gov/event/21410/
+    location: virtual meeting
+    project:
+  - title: Introduction to OSG and OSG Participants
+    date: 2019-09-23
+    url: Not available online
+    meeting: 2019 NSF CC* and CICI PI Pre-Workshop Breakout on OSG
+    focus-area: osglhc
+    meetingurl: https://www.thequilt.net/public-event/2019-nsf-cc-and-cici-pi-pre-workshop-breakouts/#osgd
+  - title:
+      Advancing Open Science through distributed High Throughput Computing - The
+      OSG Data Federation
+    date: 2019-09-18
+    url: http://grp-workshop-2019.ucsd.edu/presentations/4_WUERTHWEIN-GRP-2019-OSG.pdf
+    meeting: Global Research Platform Workshop
+    focus-area: osglhc
+    meetingurl: http://grp-workshop-2019.ucsd.edu
+    location: Qualcomm Institute, San Diego
+    project:
+  - title: OSG XCache Discussion
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/sessions/323302/attachments/1907227/3150065/irishep-retreatSeptember2019.pdf
+    meeting: IRIS-HEP retreat
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/840472/
+    project: caching
+    location: Fermilab, Chicago
+  - title: Advancing Open Science through distributed High Throughput Computing
+    date: 2019-09-11
+    url: https://indico.cern.ch/event/739882/contributions/3520011/attachments/1906491/3148700/gdbSeptember2019.pdf
+    meeting: WLCG Grid Deployment Board Meeting
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/739882/
+    project:
+    location: Fermilab, Chicago
+  - title: OSG - IRISHEP Advisory Panel
+    date: 2019-09-09
+    url: https://indico.cern.ch/event/840467/contributions/3545009/attachments/1904432/3144878/irishep-AdvisoryBoard-September2019.pdf
+    meeting: IRIS-HEP Advisory Panel Meeting
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/840467/
+    project:
+    location: Rosemont, IL
+  - title: OSG - Steering Board
+    date: 2019-09-03
+    url: https://indico.cern.ch/event/809178/contributions/3370588/subcontributions/287759/attachments/1901941/3139925/irishep-steeringBoard-September3-2019.pdf
+    meeting: IRIS-HEP Steering Board Meeting
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/809178/
+    project:
+    location: virtual
+  - title: XCache Initiatives and Experiences
+    date: 2019-07-08
+    meeting: pre-GDB meeting on XCache
+    url: http://uaf-8.t2.ucsd.edu/~fkw/DataLakeSitePerspectiveJune8th2019.pptx
+    project: caching
+    focus-area: doma
+    meetingurl: https://indico.cern.ch/event/827556/
+    location: virtual
+  - title: Reducing Disk Needs with a Data Lake Concept
+    date: 2019-07-05
+    meeting: ECoM2x meeting CMS
+    url: http://uaf-8.t2.ucsd.edu/~fkw/ecom2xJuly5th2019.pptx
+    project: modeling
+    focus-area: doma
+    meetingurl: Internal to CMS
+    location: CERN
+  - title: Advancing Open Science through distributed High Throughput Computing
+    date: 2019-06-25
+    meeting: NERSC Seminar talk
+    url: http://uaf-8.t2.ucsd.edu/~fkw/nerscJune25th2019.pptx
+    focus-area: osglhc
+    project:
+    meetingurl: no meeting URL available
+    location: NERSC seminar at LBNL
+  - title: OSG Accounting Task Force
+    date: 2019-06-12
+    meeting: OSG Area Coordinators Meeting
+    location: Virtual
+    url: http://uaf-8.t2.ucsd.edu/~fkw/osgAccountingTaskForceJune122019.pptx
+    focus-area: osglhc
+    project:
+    meetingurl: no meeting URL available
+  - title: OSG-LHC
+    date: 2019-06-12
+    meeting: NSF IRIS-HEP meeting
+    url: https://indico.cern.ch/event/820235/contributions/3428170/attachments/1861231/3058984/OSG-LHCforNSFJune12th2019.pdf
+    meetingurl: https://indico.cern.ch/event/820235/
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: UCSD in IRIS-HEP DOMA
+    date: 2019-06-07
+    meeting: DOMA IRIS-HEP meeting
+    meetingurl: https://indico.cern.ch/event/818793/
+    url: https://indico.cern.ch/event/818793/contributions/3420719/attachments/1859017/3054548/iris-hep-domaJune7th2019.pdf
+    focus-area: osglhc
+    location: virtual
+    project:
+  - title: Advancing Science through distributed High Throughput Computing
+    date: 2019-06-05
+    meeting: SDX Workshop at Qualcom Institute
+    meetingurl: https://www.eventbrite.com/e/integrating-open-science-grid-osg-with-sdx-projects-workshop-june-5-6-2019-tickets-58800356449
+    location: San Diego, CA
+    url: http://uaf-8.t2.ucsd.edu/~fkw/sdxJune5th2019.pptx
+    focus-area: osglhc
+    project:
+  - title: Data Lake — A site perspective
+    date: 2019-06-04
+    meeting: DOMA Access Meeting WLCG
+    meetingurl: https://indico.cern.ch/event/769508/
+    url: https://indico.cern.ch/event/769508/contributions/3450014/attachments/1856148/3048776/DataLakeSitePerspectiveJune4th2019.pdf
+    project: modeling
+    focus-area: doma
+    location: virtual
+  - title: OSG Value Proposition for Campuses
+    date: 2019-05-21
+    url: https://drive.google.com/file/d/1WgaZMtm_DNB2qt8_-GJkVs66mlI4cORE/view?usp=drive_web
+    meeting: Great Plains Network Annual Meeting
+    meetingurl: https://conferences.k-state.edu/gpn/
+    location: Kansas City, MO
+    focus-area: osglhc
+    project:
+  - title: Advancing Open Science through distributed High Throughput Computing
+    date: 2019-05-21
+    url: https://drive.google.com/file/d/1qZStE92CfkdN3i0zjboF-vl3Llgx4r1D/view?usp=drive_web
+    meeting: Great Plains Network Annual Meeting
+    meetingurl: https://conferences.k-state.edu/gpn/
+    location: Kansas City, MO
+    focus-area: osglhc
+    project:
+  - title: Big Science with Big Instruments
+    date: 2019-05-15
+    meeting: AWS Seminar talk
+    url: https://d1.awsstatic.com/WWPS/pdf/Science_at_the_Petascale.pdf
+    focus-area: osglhc
+    meetingurl: unknown
+    location: virtual
+    project:
+  - title: Advancing Open Science through distributed High Throughput Computing
+    date: 2019-04-12
+    url: https://drive.google.com/file/d/1M8w5ndUURkrsDDomhPFpGco4e0efHCVq/view?usp=sharing
+    meeting: CI Engineering Brown Bag
+    focus-area: osglhc
+    meetingurl: unknown
+    location: virtual
+    project:
+  - title: "Data Access at HPC: ATLAS/CMS Perspective"
+    date: 2019-03-20
+    url: https://indico.cern.ch/event/759388/contributions/3312490/
+    meeting: HOW2019 (Joint HSF/OSG/WLCG Workshop)
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focus-area: doma
+    project:
+  - title: Data Access in DOMA
+    date: 2019-03-20
+    url: https://indico.cern.ch/event/759388/contributions/3312487/
+    meeting: HOW2019 (Joint HSF/OSG/WLCG Workshop)
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focus-area: doma
+    project: caching
+  - title: State of OSG
+    date: 2019-03-19
+    url: https://indico.cern.ch/event/759388/contributions/3353296/
+    meeting: HOW2019 (Joint HSF/OSG/WLCG Workshop)
+    meetingurl: https://indico.cern.ch/event/759388/
+    location: Jefferson Lab
+    focus-area: osglhc
+    project:
+  - title: The OSG Data Federation
+    date: 2019-03-07
+    url: https://meetings.internet2.edu/2019-global-summit/speakers/6556/
+    meeting: Internet2 Global Summit 2019
+    meetingurl: https://meetings.internet2.edu/2019-global-summit/detail/10005368/
+    location: Washington, DC
+    focus-area: osglhc
+    project: caching
+  - title: OSG-LHC
+    date: 2019-02-06
+    url: https://indico.cern.ch/event/790759/contributions/3284633/subcontributions/271532
+    meeting: IRIS-HEP Steering Board Meeting
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/790759/
+    project:

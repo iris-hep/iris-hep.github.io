@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- ia
+  - ia
 institution: University of California, San Diego
 name: Leonardo Giannini
 photo: "/assets/images/team/Leonardo-Giannini.jpg"
@@ -8,59 +8,59 @@ shortname: leonardogiannini
 title:
 website: https://github.com/leonardogiannini
 presentations:
-- title: 'mkFit update'
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1117555/
-  url: https://indico.cern.ch/event/1117555/contributions/4701579/attachments/2381731/4069638/mkFit%20-%20update.pdf
-  date: 2022-01-31
-  focus-area: ia
-  project: mkfit
-- title: 'mkFit status report'
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1094293/
-  url: https://indico.cern.ch/event/1094293/contributions/4613361/attachments/2345834/4000174/mkFit_15Nov_report.pdf
-  date: 2021-11-15
-  focus-area: ia
-  project: mkfit
-- title: 'mkFit status report'
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1087315/
-  url: https://indico.cern.ch/event/1087315/contributions/4570870/attachments/2329684/3969603/mkFit%20-%20status%20report.pdf
-  date: 2021-10-18
-  focus-area: ia
-  project: mkfit
-- title: 'mkFit status report'
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1071649/
-  url: https://indico.cern.ch/event/1071649/contributions/4506302/attachments/2312448/3935614/mkFit%20-%20status%20report%20-%20sep20-1.pdf
-  date: 2021-09-20
-  focus-area: ia
-  project: mkfit
-- title: 'mkFit status report'
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1065324/
-  url: https://indico.cern.ch/event/1065324/contributions/4479348/attachments/2292584/4075054/mkFit%20-%20status%20report%20-%20aug9.pdf
-  date: 2021-08-09
-  focus-area: ia
-  project: mkfit
-- title: 'mkFit status report'
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1053941/
-  url: https://indico.cern.ch/event/1053941/contributions/4428984/attachments/2280104/4075058/mkFit_jul12.pdf
-  date: 2021-07-12
-  focus-area: ia
-  project: mkfit
-- title: 'mkFit status report'
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1032211/
-  url: https://indico.cern.ch/event/1032211/contributions/4357405/attachments/2245374/3807784/mkFit%20-%20status%20report-1.pdf
-  date: 2021-05-17
-  focus-area: ia
-  project: mkfit
-- title: 'mkFit status report'
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1152032
-  url: https://indico.cern.ch/event/1152032/contributions/4841692/attachments/2430728/4162233/mkFit%20-%20update-1.pdf
-  date: 2022-04-25
-  focus-area: ia
-  project: mkfit
+  - title: "mkFit update"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1117555/
+    url: https://indico.cern.ch/event/1117555/contributions/4701579/attachments/2381731/4069638/mkFit%20-%20update.pdf
+    date: 2022-01-31
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status report"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1094293/
+    url: https://indico.cern.ch/event/1094293/contributions/4613361/attachments/2345834/4000174/mkFit_15Nov_report.pdf
+    date: 2021-11-15
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status report"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1087315/
+    url: https://indico.cern.ch/event/1087315/contributions/4570870/attachments/2329684/3969603/mkFit%20-%20status%20report.pdf
+    date: 2021-10-18
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status report"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1071649/
+    url: https://indico.cern.ch/event/1071649/contributions/4506302/attachments/2312448/3935614/mkFit%20-%20status%20report%20-%20sep20-1.pdf
+    date: 2021-09-20
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status report"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1065324/
+    url: https://indico.cern.ch/event/1065324/contributions/4479348/attachments/2292584/4075054/mkFit%20-%20status%20report%20-%20aug9.pdf
+    date: 2021-08-09
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status report"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1053941/
+    url: https://indico.cern.ch/event/1053941/contributions/4428984/attachments/2280104/4075058/mkFit_jul12.pdf
+    date: 2021-07-12
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status report"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1032211/
+    url: https://indico.cern.ch/event/1032211/contributions/4357405/attachments/2245374/3807784/mkFit%20-%20status%20report-1.pdf
+    date: 2021-05-17
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status report"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1152032
+    url: https://indico.cern.ch/event/1152032/contributions/4841692/attachments/2430728/4162233/mkFit%20-%20update-1.pdf
+    date: 2022-04-25
+    focus-area: ia
+    project: mkfit

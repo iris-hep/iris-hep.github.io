@@ -1,9 +1,9 @@
 active: true
 e-mail: henryfs@princeton.edu
 focus-area:
-- ia
-- as
-- ssc
+  - ia
+  - as
+  - ssc
 inspire-id: Henry.F.Schreiner.1
 institution: Princeton University
 name: Henry Schreiner
@@ -12,369 +12,426 @@ shortname: henryiii
 title:
 website: https://iscinumpy.gitlab.io
 presentations:
-- title: A hybrid deep learning approach to vertexing
-  date: 2019-04-17
-  url: https://indico.cern.ch/event/766872/contributions/3358003/
-  meeting: 3rd IML Machine Learning Workshop
-  meetingurl: https://indico.cern.ch/event/766872/
-  location: CERN
-  focus-area: ia
-  project: pv-finder
-- title: boost-histogram and hist
-  date: 2019-04-15
-  url: https://indico.cern.ch/event/803122/
-  meeting: IRIS-HEP Topical Meeting
-  meetingurl: https://indico.cern.ch/event/803122/
-  focus-area: as
-  project: histogram
-  location: Virtual
-- title: A hybrid deep learning approach to vertexing
-  date: 2019-04-03
-  url: https://indico.cern.ch/event/742793/contributions/3298730/
-  meeting: Connecting The Dots and Workshop on Intelligent Trackers 2019
-  meetingurl: https://indico.cern.ch/event/742793/
-  location: Valencia, Spain
-  focus-area: ia
-  project: pv-finder
-  labels:
-  - conference
-- title: 'Conda: a complete reproducible ROOT environment in under 5 minutes'
-  date: 2019-03-21
-  url: https://indico.cern.ch/event/759388/contributions/3306849/
-  meeting: 2019 Joint HSF/OSG/WLCG Workshop
-  meetingurl: https://indico.cern.ch/event/759388
-  location: Jefferson Lab
-  focus-area: as
-  project: rootconda
-- title: Machine Learning for the Primary Vertex reconstruction
-  date: 2019-03-20
-  url: https://indico.cern.ch/event/759388/contributions/3303404/
-  meeting: 2019 Joint HSF/OSG/WLCG Workshop
-  meetingurl: https://indico.cern.ch/event/759388
-  location: Jefferson Lab
-  focus-area: ia
-  project: pv-finder
-  labels:
-  - conference
-- title: A hybrid deep learning approach to vertexing
-  date: 2019-03-11
-  url: https://indico.cern.ch/event/708041/contributions/3269692/attachments/1809272/2954230/PvFinder_ACAT2019.pdf
-  meeting: 19th International Workshop on Advanced Computing and Analysis Techniques
-    in Physics Research
-  meetingurl: https://indico.cern.ch/event/708041/overview
-  location: Saas Fee, Switzerland
-  focus-area: ia
-  project: pv-finder
-- title: Histograms
-  date: 2019-06-19
-  url: https://indico.cern.ch/event/822074/contributions/3471456/
-  meeting: IRIS-HEP Analysis Systems Topical Workshop
-  meetingurl: https://indico.cern.ch/event/822074/
-  focus-area: as
-  project: histogram
-  location: NYU, New York, NY
-- title: AmpGen & Particle/DecayLanguage
-  date: 2019-06-19
-  url: https://indico.cern.ch/event/822074/contributions/3471460/
-  meeting: IRIS-HEP Analysis Systems Topical Workshop
-  meetingurl: https://indico.cern.ch/event/822074/
-  focus-area: as
-  project:
-  - ampgen
-  - particle
-  - decaylanguage
-  location: NYU, New York, NY
-- title: Modern CMake
-  date: 2019-08-14
-  url: https://gitlab.com/CLIUtils/modern-cmake-interactive-talk
-  meeting: PICSciE Lunch Seminar
-  meetingurl: https://researchcomputing.princeton.edu/about
-  location: Princeton
-  focus-area: ssc
-  project:
-- title: Modern CMake Workshop
-  date: 2019-08-20
-  url: https://henryiii.github.io/cmake_workshop/
-  meeting: USATLAS/FIRST-HEP Computing Bootcamp
-  meetingurl: https://indico.cern.ch/event/816946/
-  location: Lawrence Berkeley National Laboratory
-  focus-area: ssc
-  project:
-- title: Boost Histogram Roadmap
-  date: 2019-09-12
-  url: https://indico.cern.ch/event/840472/contributions/3564389/
-  meeting: 2019 IRIS-HEP Institute Retreat
-  meetingurl: https://indico.cern.ch/event/840472/
-  location: Fermi National Accelerator Laboratory
-  project: histogram
-  focus-area: as
-- title: Histogramming and more
-  date: 2019-09-13
-  url: https://indico.cern.ch/event/840472/contributions/3561801/
-  meeting: 2019 IRIS-HEP Institute Retreat
-  meetingurl: https://indico.cern.ch/event/840472/
-  location: Fermi National Accelerator Laboratory
-  project: histogram
-  focus-area:
-  - as
-  - ssc
-  - ia
-- title: 'Python 3.8: What''s new'
-  date: 2019-10-17
-  url: https://indico.cern.ch/event/833895/contributions/3606920/
-  meeting: PyHEP 2019
-  meetingurl: https://indico.cern.ch/event/833895/
-  location: Abingdon, UK
-  focus-area: ssc
-  project:
-- title: Python Histogramming Packages
-  date: 2019-10-17
-  url: https://indico.cern.ch/event/833895/contributions/3577833/
-  meeting: PyHEP 2019
-  meetingurl: https://indico.cern.ch/event/833895/
-  location: Abingdon, UK
-  focus-area: as
-  project: histogram
-- title: 'Boost-Histogram: Hands-on'
-  date: 2019-10-17
-  url: https://indico.cern.ch/event/833895/contributions/3577835/
-  meeting: PyHEP 2019
-  meetingurl: https://indico.cern.ch/event/833895/
-  location: Abingdon, UK
-  focus-area: as
-  project: histogram
-- title: Recent developments in histogram libraries
-  date: 2019-11-07
-  url: https://indico.cern.ch/event/773049/contributions/3473265/
-  meeting: CHEP 2019
-  meetingurl: https://indico.cern.ch/event/773049/
-  location: Adelaide, South Australia
-  focus-area: as
-  project: histogram
-- title: 'High-Performance Python: CPUs'
-  date: 2019-11-20
-  url: https://github.com/henryiii/python-performance-minicourse
-  meeting: Princeton Research Computing Fall Mini-courses and Workshops
-  meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
-  location: Princeton University
-  focus-area: ssc
-  project:
-- title: 'High-Performance Python: GPUs'
-  date: 2019-12-05
-  url: https://github.com/henryiii/pygpu-minicourse
-  meeting: Princeton Research Computing Fall Mini-courses and Workshops
-  meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
-  location: Princeton University
-  focus-area: ssc
-  project:
-- title: Python, NumPy, and Pandas
-  date: 2020-01-28
-  meeting: Princeton Research Data Management Workshop 2020
-  url: https://library.princeton.edu/news/research-data-service/2019-12-05/research-data-management-workshop-graduate-students-jan-27-29
-  meetingurl: https://researchcomputing.princeton.edu/events/research-data-management-workshop
-  location: Princeton University
-  focus-area: ssc
-  project:
-- title: International efforts on efficient computing
-  date: 2020-02-18
-  url: https://indico.ph.ed.ac.uk/event/66/contributions/820/
-  meeting: Workshop on Efficient Computing for High Energy Physics (ECHEP)
-  meetingurl: https://indico.ph.ed.ac.uk/event/66
-  location: Edinburgh, UK
-  focus-area: core
-  project:
-- title: Boost-Histogram for Analysis Systems (poster)
-  date: 2020-02-27
-  url: https://indico.cern.ch/event/894127/attachments/1996570/3331172/5_-_BoostHistogram.pdf
-  meeting: IRIS-HEP Poster Session
-  meetingurl: https://indico.cern.ch/event/894127/
-  location: Princeton, New Jersey, US
-  focus-area: as
-  project: histogram
-- title: 'Boost-histogram: High-Performance Histograms as Objects'
-  date: 2020-07-07
-  url: https://doi.org/10.25080/Majora-342d178e-01b
-  meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
-  meeting: 19th Python in Science Conference (SciPy 2020)
-  focus-area: as
-  project: histogram
-  location: Virtual
-  video: https://youtu.be/ERraTfHkPd0
-- title: The boost-histogram package
-  date: 2020-07-17
-  url: https://zenodo.org/record/4147611
-  meeting: PyHEP 2020 Workshop
-  meetingurl: https://indico.cern.ch/PyHEP2020
-  focus-area: as
-  project: histogram
-  location: Virtual
-  video: https://youtu.be/-g0mxopCJT8
-- title: High-performance Python
-  date: 2020-07-15
-  url: https://indico.cern.ch/event/882824/contributions/3931295/
-  meeting: PyHEP 2020 Workshop
-  meetingurl: https://indico.cern.ch/PyHEP2020
-  focus-area: ssc
-  project:
-  location: Virtual
-  video: https://youtu.be/kKroC93_jyg
-- title: 'High-performance Python: CPUs'
-  date: 2020-11-04
-  url: https://researchcomputing.princeton.edu/events/high-performance-python-cpus-1
-  meeting: Princeton Research Computing Training Series
-  meetingurl: https://researchcomputing.princeton.edu/education/training
-  focus-area: ssc
-  project:
-  location: Virtual
-- title: Mixing Python and Compiled Code
-  date: 2020-11-11
-  url: https://researchcomputing.princeton.edu/events/mixing-python-and-compiled-code-0
-  meeting: Princeton Research Computing Training Series
-  meetingurl: https://researchcomputing.princeton.edu/education/training
-  focus-area: ssc
-  project:
-  location: Virtual
-- title: 'High-performance Python: CPUs'
-  date: 2020-11-18
-  url: https://researchcomputing.princeton.edu/events/high-performance-python-gpus-0
-  meeting: Princeton Research Computing Training Series
-  meetingurl: https://researchcomputing.princeton.edu/education/training
-  focus-area: ssc
-  project:
-  location: Virtual
-- title: Building a Python library
-  date: 2020-11-04
-  url: https://github.com/henryiii/building_a_python_library
-  meeting: Princeton RSE group
-  focus-area: ssc
-  project:
-  location: Virtual
-- title: Level Up Your Python
-  date: 2021-01-20
-  url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/W1B-level-up-python/
-  meetingurl: https://princetonuniversity.github.io/PUbootcamp_winter2021/agenda/
-  meeting: Princeton Research Computing Bootcamp, Spring 2021
-  focus-area: ssc
-  project:
-  location: Virtual
-- title: 'CMake: Best Practices'
-  date: 2021-02-02
-  url: https://indico.jlab.org/event/420/#10-cmake-best-practices
-  meetingurl: https://indico.jlab.org/event/420/
-  meeting: Software & Computing Round Table
-  focus-area: ssc
-  project:
-  location: Virtual
-- title: Level Up Your Python (Part I)
-  date: 2021-07-05
-  url: https://indico.cern.ch/event/1019958/contributions/4430355/
-  meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/e/PyHEP2021
-  focus-area: ssc
-  project:
-  location: Virtual
-  video: https://youtu.be/qW6DA52cpv4
-- title: Level Up Your Python (Part II)
-  date: 2021-07-06
-  url: https://indico.cern.ch/event/1019958/contributions/4430422/
-  meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/e/PyHEP2021
-  focus-area: ssc
-  project:
-  location: Virtual
-  video: https://youtu.be/Kfspje3s1y8
-- title: High-Performance Histogramming for HEP Analysis
-  date: 2021-07-07
-  url: https://indico.cern.ch/event/1019958/contributions/4430375/
-  meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/e/PyHEP2021
-  focus-area: as
-  project: histogram
-  location: Virtual
-  video: https://youtu.be/tmBA4zwpiO0
-- title: Powerful Python Packaging for Scientific Codes
-  date: 2021-07-08
-  url: https://indico.cern.ch/event/1019958/contributions/4418546/
-  meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/e/PyHEP2021
-  focus-area: as
-  project:
-  location: Virtual
-  video: https://youtu.be/jewb5q6_Rpk
-- title: pybind11
-  date: 2021-07-16
-  url: https://na.eventscloud.com/ehome/index.php?eventid=604197&tabid=1110004
-  meeting: SciPy 2021
-  meetingurl: https://www.scipy2021.scipy.org
-  focus-area: as
-  project: histogram
-  location: Virtual
-  video: https://youtu.be/l3TuzZpPewY?t=1325
-- title: Mixing Python and Compiled Codes
-  date: 2021-11-16
-  url: https://github.com/henryiii/python-compiled-minicourse/tree/2021-11-16-pu
-  meeting: Princeton Research Computing Fall 2021 Workshop
-  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/fall-2021-workshop-materials
-  focus-area: ssc
-  project:
-  location: Princeton University
-- title: Python histogram developments (poster)
-  date: 2021-12-01
-  url: https://indico.cern.ch/event/855454/contributions/4605013/
-  meeting: ACAT 2021
-  meetingurl: https://indico.cern.ch/event/855454/
-  focus-area: as
-  project: histogram
-- title: Level Up Your Python
-  date: 2022-01-10
-  url: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/wintersession-2022-workshop-materials
-  meetingurl: https://winter.princeton.edu
-  meeting: Princeton Wintersession
-  focus-area: ssc
-  project:
-  location: Virtual
+  - title: A hybrid deep learning approach to vertexing
+    date: 2019-04-17
+    url: https://indico.cern.ch/event/766872/contributions/3358003/
+    meeting: 3rd IML Machine Learning Workshop
+    meetingurl: https://indico.cern.ch/event/766872/
+    location: CERN
+    focus-area: ia
+    project: pv-finder
+  - title: boost-histogram and hist
+    date: 2019-04-15
+    url: https://indico.cern.ch/event/803122/
+    meeting: IRIS-HEP Topical Meeting
+    meetingurl: https://indico.cern.ch/event/803122/
+    focus-area: as
+    project: histogram
+    location: Virtual
+  - title: A hybrid deep learning approach to vertexing
+    date: 2019-04-03
+    url: https://indico.cern.ch/event/742793/contributions/3298730/
+    meeting: Connecting The Dots and Workshop on Intelligent Trackers 2019
+    meetingurl: https://indico.cern.ch/event/742793/
+    location: Valencia, Spain
+    focus-area: ia
+    project: pv-finder
+    labels:
+      - conference
+  - title: "Conda: a complete reproducible ROOT environment in under 5 minutes"
+    date: 2019-03-21
+    url: https://indico.cern.ch/event/759388/contributions/3306849/
+    meeting: 2019 Joint HSF/OSG/WLCG Workshop
+    meetingurl: https://indico.cern.ch/event/759388
+    location: Jefferson Lab
+    focus-area: as
+    project: rootconda
+  - title: Machine Learning for the Primary Vertex reconstruction
+    date: 2019-03-20
+    url: https://indico.cern.ch/event/759388/contributions/3303404/
+    meeting: 2019 Joint HSF/OSG/WLCG Workshop
+    meetingurl: https://indico.cern.ch/event/759388
+    location: Jefferson Lab
+    focus-area: ia
+    project: pv-finder
+    labels:
+      - conference
+  - title: A hybrid deep learning approach to vertexing
+    date: 2019-03-11
+    url: https://indico.cern.ch/event/708041/contributions/3269692/attachments/1809272/2954230/PvFinder_ACAT2019.pdf
+    meeting:
+      19th International Workshop on Advanced Computing and Analysis Techniques
+      in Physics Research
+    meetingurl: https://indico.cern.ch/event/708041/overview
+    location: Saas Fee, Switzerland
+    focus-area: ia
+    project: pv-finder
+  - title: Histograms
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471456/
+    meeting: IRIS-HEP Analysis Systems Topical Workshop
+    meetingurl: https://indico.cern.ch/event/822074/
+    focus-area: as
+    project: histogram
+    location: NYU, New York, NY
+  - title: AmpGen & Particle/DecayLanguage
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471460/
+    meeting: IRIS-HEP Analysis Systems Topical Workshop
+    meetingurl: https://indico.cern.ch/event/822074/
+    focus-area: as
+    project:
+      - ampgen
+      - particle
+      - decaylanguage
+    location: NYU, New York, NY
+  - title: Modern CMake
+    date: 2019-08-14
+    url: https://gitlab.com/CLIUtils/modern-cmake-interactive-talk
+    meeting: PICSciE Lunch Seminar
+    meetingurl: https://researchcomputing.princeton.edu/about
+    location: Princeton
+    focus-area: ssc
+    project:
+  - title: Modern CMake Workshop
+    date: 2019-08-20
+    url: https://henryiii.github.io/cmake_workshop/
+    meeting: USATLAS/FIRST-HEP Computing Bootcamp
+    meetingurl: https://indico.cern.ch/event/816946/
+    location: Lawrence Berkeley National Laboratory
+    focus-area: ssc
+    project:
+  - title: Boost Histogram Roadmap
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3564389/
+    meeting: 2019 IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermi National Accelerator Laboratory
+    project: histogram
+    focus-area: as
+  - title: Histogramming and more
+    date: 2019-09-13
+    url: https://indico.cern.ch/event/840472/contributions/3561801/
+    meeting: 2019 IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermi National Accelerator Laboratory
+    project: histogram
+    focus-area:
+      - as
+      - ssc
+      - ia
+  - title: "Python 3.8: What's new"
+    date: 2019-10-17
+    url: https://indico.cern.ch/event/833895/contributions/3606920/
+    meeting: PyHEP 2019
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, UK
+    focus-area: ssc
+    project:
+  - title: Python Histogramming Packages
+    date: 2019-10-17
+    url: https://indico.cern.ch/event/833895/contributions/3577833/
+    meeting: PyHEP 2019
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, UK
+    focus-area: as
+    project: histogram
+  - title: "Boost-Histogram: Hands-on"
+    date: 2019-10-17
+    url: https://indico.cern.ch/event/833895/contributions/3577835/
+    meeting: PyHEP 2019
+    meetingurl: https://indico.cern.ch/event/833895/
+    location: Abingdon, UK
+    focus-area: as
+    project: histogram
+  - title: Recent developments in histogram libraries
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3473265/
+    meeting: CHEP 2019
+    meetingurl: https://indico.cern.ch/event/773049/
+    location: Adelaide, South Australia
+    focus-area: as
+    project: histogram
+  - title: "High-Performance Python: CPUs"
+    date: 2019-11-20
+    url: https://github.com/henryiii/python-performance-minicourse
+    meeting: Princeton Research Computing Fall Mini-courses and Workshops
+    meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
+    location: Princeton University
+    focus-area: ssc
+    project:
+  - title: "High-Performance Python: GPUs"
+    date: 2019-12-05
+    url: https://github.com/henryiii/pygpu-minicourse
+    meeting: Princeton Research Computing Fall Mini-courses and Workshops
+    meetingurl: https://researchcomputing.princeton.edu/education/training/fall-2019-workshop-materials
+    location: Princeton University
+    focus-area: ssc
+    project:
+  - title: Python, NumPy, and Pandas
+    date: 2020-01-28
+    meeting: Princeton Research Data Management Workshop 2020
+    url: https://library.princeton.edu/news/research-data-service/2019-12-05/research-data-management-workshop-graduate-students-jan-27-29
+    meetingurl: https://researchcomputing.princeton.edu/events/research-data-management-workshop
+    location: Princeton University
+    focus-area: ssc
+    project:
+  - title: International efforts on efficient computing
+    date: 2020-02-18
+    url: https://indico.ph.ed.ac.uk/event/66/contributions/820/
+    meeting: Workshop on Efficient Computing for High Energy Physics (ECHEP)
+    meetingurl: https://indico.ph.ed.ac.uk/event/66
+    location: Edinburgh, UK
+    focus-area: core
+    project:
+  - title: Boost-Histogram for Analysis Systems (poster)
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331172/5_-_BoostHistogram.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, New Jersey, US
+    focus-area: as
+    project: histogram
+  - title: "Boost-histogram: High-Performance Histograms as Objects"
+    date: 2020-07-07
+    url: https://doi.org/10.25080/Majora-342d178e-01b
+    meetingurl: https://conference.scipy.org/proceedings/scipy2020/slides.html
+    meeting: 19th Python in Science Conference (SciPy 2020)
+    focus-area: as
+    project: histogram
+    location: Virtual
+    video: https://youtu.be/ERraTfHkPd0
+  - title: The boost-histogram package
+    date: 2020-07-17
+    url: https://zenodo.org/record/4147611
+    meeting: PyHEP 2020 Workshop
+    meetingurl: https://indico.cern.ch/PyHEP2020
+    focus-area: as
+    project: histogram
+    location: Virtual
+    video: https://youtu.be/-g0mxopCJT8
+  - title: High-performance Python
+    date: 2020-07-15
+    url: https://indico.cern.ch/event/882824/contributions/3931295/
+    meeting: PyHEP 2020 Workshop
+    meetingurl: https://indico.cern.ch/PyHEP2020
+    focus-area: ssc
+    project:
+    location: Virtual
+    video: https://youtu.be/kKroC93_jyg
+  - title: "High-performance Python: CPUs"
+    date: 2020-11-04
+    url: https://researchcomputing.princeton.edu/events/high-performance-python-cpus-1
+    meeting: Princeton Research Computing Training Series
+    meetingurl: https://researchcomputing.princeton.edu/education/training
+    focus-area: ssc
+    project:
+    location: Virtual
+  - title: Mixing Python and Compiled Code
+    date: 2020-11-11
+    url: https://researchcomputing.princeton.edu/events/mixing-python-and-compiled-code-0
+    meeting: Princeton Research Computing Training Series
+    meetingurl: https://researchcomputing.princeton.edu/education/training
+    focus-area: ssc
+    project:
+    location: Virtual
+  - title: "High-performance Python: CPUs"
+    date: 2020-11-18
+    url: https://researchcomputing.princeton.edu/events/high-performance-python-gpus-0
+    meeting: Princeton Research Computing Training Series
+    meetingurl: https://researchcomputing.princeton.edu/education/training
+    focus-area: ssc
+    project:
+    location: Virtual
+  - title: Building a Python library
+    date: 2020-11-04
+    url: https://github.com/henryiii/building_a_python_library
+    meeting: Princeton RSE group
+    focus-area: ssc
+    project:
+    location: Virtual
+  - title: Level Up Your Python
+    date: 2021-01-20
+    url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/W1B-level-up-python/
+    meetingurl: https://princetonuniversity.github.io/PUbootcamp_winter2021/agenda/
+    meeting: Princeton Research Computing Bootcamp, Spring 2021
+    focus-area: ssc
+    project:
+    location: Virtual
+  - title: "CMake: Best Practices"
+    date: 2021-02-02
+    url: https://indico.jlab.org/event/420/#10-cmake-best-practices
+    meetingurl: https://indico.jlab.org/event/420/
+    meeting: Software & Computing Round Table
+    focus-area: ssc
+    project:
+    location: Virtual
+  - title: Level Up Your Python (Part I)
+    date: 2021-07-05
+    url: https://indico.cern.ch/event/1019958/contributions/4430355/
+    meeting: PyHEP 2021 Workshop
+    meetingurl: https://indico.cern.ch/e/PyHEP2021
+    focus-area: ssc
+    project:
+    location: Virtual
+    video: https://youtu.be/qW6DA52cpv4
+  - title: Level Up Your Python (Part II)
+    date: 2021-07-06
+    url: https://indico.cern.ch/event/1019958/contributions/4430422/
+    meeting: PyHEP 2021 Workshop
+    meetingurl: https://indico.cern.ch/e/PyHEP2021
+    focus-area: ssc
+    project:
+    location: Virtual
+    video: https://youtu.be/Kfspje3s1y8
+  - title: High-Performance Histogramming for HEP Analysis
+    date: 2021-07-07
+    url: https://indico.cern.ch/event/1019958/contributions/4430375/
+    meeting: PyHEP 2021 Workshop
+    meetingurl: https://indico.cern.ch/e/PyHEP2021
+    focus-area: as
+    project: histogram
+    location: Virtual
+    video: https://youtu.be/tmBA4zwpiO0
+  - title: Powerful Python Packaging for Scientific Codes
+    date: 2021-07-08
+    url: https://indico.cern.ch/event/1019958/contributions/4418546/
+    meeting: PyHEP 2021 Workshop
+    meetingurl: https://indico.cern.ch/e/PyHEP2021
+    focus-area: as
+    project:
+    location: Virtual
+    video: https://youtu.be/jewb5q6_Rpk
+  - title: pybind11
+    date: 2021-07-16
+    url: https://na.eventscloud.com/ehome/index.php?eventid=604197&tabid=1110004
+    meeting: SciPy 2021
+    meetingurl: https://www.scipy2021.scipy.org
+    focus-area: as
+    project: histogram
+    location: Virtual
+    video: https://youtu.be/l3TuzZpPewY?t=1325
+  - title: Mixing Python and Compiled Codes
+    date: 2021-11-16
+    url: https://github.com/henryiii/python-compiled-minicourse/tree/2021-11-16-pu
+    meeting: Princeton Research Computing Fall 2021 Workshop
+    meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/fall-2021-workshop-materials
+    focus-area: ssc
+    project:
+    location: Princeton University
+  - title: Python histogram developments (poster)
+    date: 2021-12-01
+    url: https://indico.cern.ch/event/855454/contributions/4605013/
+    meeting: ACAT 2021
+    meetingurl: https://indico.cern.ch/event/855454/
+    focus-area: as
+    project: histogram
+  - title: Level Up Your Python
+    date: 2022-01-10
+    url: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/wintersession-2022-workshop-materials
+    meetingurl: https://winter.princeton.edu
+    meeting: Princeton Wintersession
+    focus-area: ssc
+    project:
+    location: Virtual
 
-- title: 'Building a Binary Extension'
-  date: 2022-04-29
-  url: https://us.pycon.org/2022/schedule/presentation/57/
-  meeting: PyCon US 2022
-  meetingurl: https://us.pycon.org/2022/
-  focus-area: as
-  project:
-  location: Salt Lake City, UT
+  - title: "Building a Binary Extension"
+    date: 2022-04-29
+    url: https://us.pycon.org/2022/schedule/presentation/57/
+    meeting: PyCon US 2022
+    meetingurl: https://us.pycon.org/2022/
+    focus-area: as
+    project:
+    location: Salt Lake City, UT
 
-- title: 'Scikit-HEP Developer Pages: Guidelines for modern packaging'
-  date: 2022-04-30
-  url: https://www.slideshare.net/HenrySchreiner/pycon-2022-scikithep-developer-pages-guidelines-for-modern-packaging
-  meeting: PyCon US 2022 Lightning talks
-  meetingurl: https://us.pycon.org/2022/
-  focus-area: as
-  project:
-  location: Salt Lake City, UT
+  - title: "Scikit-HEP Developer Pages: Guidelines for modern packaging"
+    date: 2022-04-30
+    url: https://www.slideshare.net/HenrySchreiner/pycon-2022-scikithep-developer-pages-guidelines-for-modern-packaging
+    meeting: PyCon US 2022 Lightning talks
+    meetingurl: https://us.pycon.org/2022/
+    focus-area: as
+    project:
+    location: Salt Lake City, UT
 
-- title: 'High-performance Python: CPUs'
-  date: 2022-04-26
-  url: https://researchcomputing.princeton.edu/events/2022/high-performance-python-gpus
-  meeting: Princeton Research Computing Training Series
-  meetingurl: https://researchcomputing.princeton.edu/education/training
-  focus-area: ssc
-  project:
-  location: Virtual
+  - title: "High-performance Python: CPUs"
+    date: 2022-04-26
+    url: https://researchcomputing.princeton.edu/events/2022/high-performance-python-gpus
+    meeting: Princeton Research Computing Training Series
+    meetingurl: https://researchcomputing.princeton.edu/education/training
+    focus-area: ssc
+    project:
+    location: Virtual
 
-- title: 'High-performance Python: GPUs'
-  date: 2022-05-03
-  url: https://researchcomputing.princeton.edu/events/2022/high-performance-python-gpus
-  meeting: Princeton Research Computing Training Series
-  meetingurl: https://researchcomputing.princeton.edu/education/training
-  focus-area: ssc
-  project:
-  location: Virtual
+  - title: "High-performance Python: GPUs"
+    date: 2022-05-03
+    url: https://researchcomputing.princeton.edu/events/2022/high-performance-python-gpus
+    meeting: Princeton Research Computing Training Series
+    meetingurl: https://researchcomputing.princeton.edu/education/training
+    focus-area: ssc
+    project:
+    location: Virtual
 
-- title: "ROOT: Homebrew and Pip plans"
-  date: 2022-05-10
-  url: https://indico.fnal.gov/event/23628/contributions/237971
-  meeting: ROOT user's workshop
-  meetingurl: https://indico.fnal.gov/event/23628
-  focus-area: as
-  project: rootconda
-  location: Fermilab (virtual)
+  - title: "ROOT: Homebrew and Pip plans"
+    date: 2022-05-10
+    url: https://indico.fnal.gov/event/23628/contributions/237971
+    meeting: ROOT user's workshop
+    meetingurl: https://indico.fnal.gov/event/23628
+    focus-area: as
+    project: rootconda
+    location: Fermilab (virtual)
+
+  - title: "Awkward Packaging: building Scikit-HEP"
+    date: 2022-07-14
+    url: https://www.scipy2022.scipy.org/schedule
+    meeting: SciPy 2022
+    meetingurl: https://www.scipy2022.scipy.org
+    location: Austin, TX
+    video: https://youtu.be/PqCxnhoxUTE
+    focus-area: as
+    project: scikit-hep
+
+  - title: "Building binary extensions with pybind11, scikit build, and cibuildwheel"
+    date: 2022-07-15
+    url: https://www.scipy2022.scipy.org/schedule
+    meeting: SciPy 2022
+    meetingurl: https://www.scipy2022.scipy.org
+    location: Austin, TX
+    video: https://youtu.be/eMJ1ayLEArc
+    focus-area: as
+    project: scikit-hep
+
+  - title: "Scientific Python Ecosystem"
+    date: 2022-07-19
+    meeting: DANCE/CoDaS@Snowmass 2022
+    meetingurl: https://indico.cern.ch/event/1151329
+    url: https://indico.cern.ch/event/1151329/timetable/#1-scientific-python-ecosystem
+    location: Seattle, WA
+    focus-area: ssc
+    project:
+
+  - title: "Analysis Grand Challenge / HEP Scientific Python Ecosystem"
+    date: 2022-07-20
+    meeting: DANCE/CoDaS@Snowmass 2022
+    meetingurl: https://indico.cern.ch/event/1151329
+    url: https://indico.cern.ch/event/1151329/timetable/#3-analysis-grand-challenge-hep
+    location: Seattle, WA
+    focus-area: ssc
+    project:
+
+  - title: "The Scientific Python Ecosystem"
+    date: 2022-08-01
+    meeting: CoDaS-HEP 2022
+    meetingurl: https://indico.cern.ch/event/1151367/timetable/
+    url: https://indico.cern.ch/event/1151367/timetable/#33-the-scientific-python-ecosy
+    location: Princeton, NJ
+    focus-area: ssc
+    project:
+
+  - title: "Everything you didn't know you needed"
+    date: 2022-08-05
+    meeting: CoDaS-HEP 2022
+    meetingurl: https://indico.cern.ch/event/1151367/timetable/
+    url: https://indico.cern.ch/event/1151367/timetable/#31-things-you-didnt-know-you-n
+    location: Princeton, NJ
+    focus-area: ssc
+    project:

@@ -4,5 +4,4 @@ focus-area:
   - ia
   - as
 project:
-- exploratory-ml
-
+  - exploratory-ml

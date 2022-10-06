@@ -1,8 +1,15 @@
 active: true
 focus-area:
-- ssl
+  - ssl
 institution: University of Chicago
 name: Fengping Hu
 photo: /assets/images/team/Fengping-Hu.png
 shortname: fengpinghu
 title: Sr. Scientific Software Developer
+presentations:
+  - title: "NSF Shared Tier3 Analysis Facility at UChicago"
+    date: 2022-08-02
+    url: https://indico.cern.ch/event/1167456/contributions/4966544/attachments/2488320/4273500/2022.08.01%20UC%20AF%20for%20US%20ATLAS%20Technical%20Meeting.pdf
+    meeting: US ATLAS Budget Scrubbing 2022 - (with parallel S&C technical meetings)
+    meetingurl: https://indico.cern.ch/event/1167456/
+    focus-area: ssl

@@ -1,0 +1,16 @@
+name: CoDaS-HEP 2022 - Computational and Data Science Training for High Energy Physics
+startdate: 2022-08-01
+enddate: 2022-08-05
+location: Princeton University
+meetingurl: http://codas-hep.org
+image:
+description: |
+The CoDaS-HEP school aims to provide a broad introduction to these critical skills as well as an overview of applications High Energy Physics. Specific topics to be covered at the school include:
+  - Parallel Programming
+  - Data Science Tools and Techniques
+  - Machine Learning - Technology and Methods
+  - Practical skills: performance evaluation, collaborative use of git/github
+  - The program includes both lectures and practical hands-on exercises.
+
+labels:
+  - training

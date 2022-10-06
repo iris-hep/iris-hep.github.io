@@ -5,50 +5,55 @@ on:
   push:
     branches: master
   schedule:
-  - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
 concurrency:
-  group: gha-deploy
+  group: pages
   cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   website:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v2
 
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - name: Prepare to build site
-      uses: ./.github/actions/prepare-build-site
+      - name: Prepare to build site
+        uses: ./.github/actions/prepare-build-site
 
-    - name: Check RuboCop
-      shell: bash
-      run: bundle exec rake rubocop
+      - name: Check RuboCop
+        run: bundle exec rake rubocop
 
-    - name: Build the site
-      shell: bash
-      run: bundle exec rake build
-      env:
-        JEKYLL_ENV: production
-        INDICO_TOKEN: ${{ secrets.INDICO_TOKEN }}
+      - name: Build the site
+        run: bundle exec rake build
+        env:
+          JEKYLL_ENV: production
+          INDICO_TOKEN: ${{ secrets.INDICO_TOKEN }}
 
-    - name: Check for issues
-      run: bundle exec rake checkonly || true
+      - name: Check for issues
+        run: bundle exec rake checkonly || true
 
-    - name: Write new README for output repo
-      run: |
-        echo "# WARNING: Do not edit this generated repository; edit [iris-hep.github.io-source](https://github.com/iris-hep/iris-hep.github.io-source) instead!" > _site/README.md
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: _site
 
-    - name: Deploy
-      if: >
-        success()
-        && github.ref == 'refs/heads/master'
-        && github.repository == 'iris-hep/iris-hep.github.io-source'
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        external_repository: iris-hep/iris-hep.github.io
-        publish_branch: master
-        publish_dir: _site
-        force_orphan: true
-        cname: iris-hep.org
+      - name: Deploy to GitHub Pages
+        if: >
+          success()
+          && github.ref == 'refs/heads/master'
+          && github.repository == 'iris-hep/iris-hep.github.io'
+        id: deployment
+        uses: actions/deploy-pages@v1

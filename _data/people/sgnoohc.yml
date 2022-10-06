@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- ia
+  - ia
 institution: University of California, San Diego
 name: Philip Chang
 photo: "/assets/images/team/Philip-Chang.jpg"
@@ -8,53 +8,53 @@ shortname: sgnoohc
 title: Tracking Algorithms Collaborator
 website: https://philip.ucsd.edu
 presentations:
-- title: Line segment tracking for Phase-II Tracking
-  date: 2021-10-18
-  url: https://indico.cern.ch/event/1087315/contributions/4571855/attachments/2329818/3969872/PhilipChang20211018_LST_TrackPOG_v5.pdf
-  meeting: HLT Upgrade Workshop (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/1087315/
-  project: lst
-  focus-area: ia
-- title: Line segment tracking for Phase-II Tracking
-  date: 2020-11-03
-  url: https://indico.cern.ch/event/962025/contributions/4081645/attachments/2135711/3597467/PhilipChang20201103_HLTWorkshop.pdf
-  meeting: HLT Upgrade Workshop (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/962025/
-  project: lst
-  focus-area: ia
-- title: Update on Segment Linking for HL-LHC
-  date: 2020-09-21
-  url: https://indico.cern.ch/event/955634/contributions/4018267/attachments/2105944/3541701/PhilipChang20200921_SDL_TrackPOG.pdf
-  meeting: Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/955634/
-  project: lst
-  focus-area: ia
-- title: Update on Segment Linking for HL-LHC
-  date: 2020-06-23
-  url: https://indico.cern.ch/event/919645/contributions/3864407/attachments/2062292/3459853/PhilipChang20200623_SDL_HLTWorkshop.pdf
-  meeting: HLT Upgrade Workshop (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/919645/
-  project: lst
-  focus-area: ia
-- title: Parallelizable Track Pattern Recognition in High-Luminosity LHC
-  date: 2020-04-20
-  url: https://indico.cern.ch/event/831165/contributions/3717125/attachments/2023432/3383995/PhilipChang20200420_CTD2020_v4.pdf
-  meeting: Connecting The Dots 2020
-  meetingurl: https://indico.cern.ch/event/831165
-  location: Princeton
-  project: lst
-  focus-area: ia
-- title: Segment linking for Phase-2 Tracking
-  date: 2019-12-03
-  url: https://indico.cern.ch/event/844552/contributions/3661864/attachments/1955523/3248093/PhilipChang20191203_SegmentLinking.pdf
-  meeting: HLT Upgrade Meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/844552/
-  project: lst
-  focus-area: ia
-- title: Segment linking for Phase-2 Tracking
-  date: 2019-12-02
-  url: https://indico.cern.ch/event/861732/contributions/3653123/attachments/1954684/3246412/PhilipChang20191202_TrkWk_SegmentLinking.pdf
-  meeting: CMS Tracker Week - Tracking POG meeting (CMS restricted)
-  meetingurl: https://indico.cern.ch/event/861732/
-  project: lst
-  focus-area: ia
+  - title: Line segment tracking for Phase-II Tracking
+    date: 2021-10-18
+    url: https://indico.cern.ch/event/1087315/contributions/4571855/attachments/2329818/3969872/PhilipChang20211018_LST_TrackPOG_v5.pdf
+    meeting: HLT Upgrade Workshop (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1087315/
+    project: lst
+    focus-area: ia
+  - title: Line segment tracking for Phase-II Tracking
+    date: 2020-11-03
+    url: https://indico.cern.ch/event/962025/contributions/4081645/attachments/2135711/3597467/PhilipChang20201103_HLTWorkshop.pdf
+    meeting: HLT Upgrade Workshop (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/962025/
+    project: lst
+    focus-area: ia
+  - title: Update on Segment Linking for HL-LHC
+    date: 2020-09-21
+    url: https://indico.cern.ch/event/955634/contributions/4018267/attachments/2105944/3541701/PhilipChang20200921_SDL_TrackPOG.pdf
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/955634/
+    project: lst
+    focus-area: ia
+  - title: Update on Segment Linking for HL-LHC
+    date: 2020-06-23
+    url: https://indico.cern.ch/event/919645/contributions/3864407/attachments/2062292/3459853/PhilipChang20200623_SDL_HLTWorkshop.pdf
+    meeting: HLT Upgrade Workshop (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/919645/
+    project: lst
+    focus-area: ia
+  - title: Parallelizable Track Pattern Recognition in High-Luminosity LHC
+    date: 2020-04-20
+    url: https://indico.cern.ch/event/831165/contributions/3717125/attachments/2023432/3383995/PhilipChang20200420_CTD2020_v4.pdf
+    meeting: Connecting The Dots 2020
+    meetingurl: https://indico.cern.ch/event/831165
+    location: Princeton
+    project: lst
+    focus-area: ia
+  - title: Segment linking for Phase-2 Tracking
+    date: 2019-12-03
+    url: https://indico.cern.ch/event/844552/contributions/3661864/attachments/1955523/3248093/PhilipChang20191203_SegmentLinking.pdf
+    meeting: HLT Upgrade Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/844552/
+    project: lst
+    focus-area: ia
+  - title: Segment linking for Phase-2 Tracking
+    date: 2019-12-02
+    url: https://indico.cern.ch/event/861732/contributions/3653123/attachments/1954684/3246412/PhilipChang20191202_TrkWk_SegmentLinking.pdf
+    meeting: CMS Tracker Week - Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/861732/
+    project: lst
+    focus-area: ia

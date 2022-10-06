@@ -1,7 +1,7 @@
 active: true
 focus-area:
-- as
-- doma
+  - as
+  - doma
 institution: University of Washington
 name: Mason Proffitt
 photo: "/assets/images/team/Mason-Proffitt.jpg"
@@ -9,122 +9,143 @@ shortname: masonproffitt
 title: PhD student
 website: https://github.com/masonproffitt
 presentations:
-- title: 'IRIS-HEP: A new software institute to prepare for the data from the High
-    Luminosity Large Hadron Collider in the exabyte era'
-  date: 2019-05-08
-  url: https://indico.cern.ch/event/821258/contributions/3433444/attachments/1844402/3025513/Northwest_Data_Science_Summit_Poster_Final.pdf
-  meeting: Northwest Data Science Summit
-  meetingurl: https://www.eventbrite.com/e/northwest-data-science-summit-tickets-55037447487
-  location: University of Washington
-  focus-area: as
-  project: func-adl
-- title: Prototype declarative analysis interface using uproot and awkward-array
-  date: 2019-09-12
-  url: https://indico.cern.ch/event/840472/contributions/3563332/attachments/1907329/3150287/lightning-talk_2019-09-12.pdf
-  meeting: IRIS-HEP Institute Retreat
-  meetingurl: https://indico.cern.ch/event/840472/
-  location: Fermilab
-  focus-area: as
-  project: func-adl
-- title: HEP Data Query Challenges
-  date: 2019-11-07
-  url: https://indico.cern.ch/event/773049/contributions/3476178/attachments/1936838/3210025/chep_2019_poster.pdf
-  meeting: CHEP 2019
-  meetingurl: http://chep2019.org/
-  location: Adelaide, Australia
-  focus-area: as
-  project: adl-benchmarks-index
-- title: uproot Tutorial
-  date: 2019-11-29
-  url: https://masonproffitt.github.io/uproot-tutorial/
-  meeting: Software Carpentry at CERN
-  meetingurl: https://indico.cern.ch/event/834411/
-  location: CERN
-  focus-area: as
-  project: uproot
-- title: Functional Analysis Description Language (FuncADL)
-  date: 2020-02-27
-  url: https://indico.cern.ch/event/894127/attachments/1996570/3331177/11_-_Functional_Analysis_Description_Language_FuncADL.pdf
-  meeting: IRIS-HEP Poster Session
-  meetingurl: https://indico.cern.ch/event/894127/overview
-  location: Princeton University
-  focus-area: as
-  project: func-adl
-- title: "Data Selection & Delivery for Analysis: ServiceX & funcADL"
-  date: 2020-10-26
-  url: https://indico.cern.ch/event/960587/contributions/4070320/
-  meeting: Future Analysis Systems and Facilities
-  meetingurl: https://indico.cern.ch/event/960587/
-  location: Virtual
-  focus-area:
-  - doma
-  - as
-  project:
-  - servicex
-  - func-adl
-- title: "FuncADL: Functional Analysis Description Language"
-  date: 2021-05-18
-  url: https://indico.cern.ch/event/948465/contributions/4324157/attachments/2245273/3809264/vCHEP%202021%20FuncADL%20v4%20%28final%29.pdf
-  meeting: vCHEP 2021
-  meetingurl: https://indico.cern.ch/event/948465/
-  location: Virtual
-  focus-area: as
-  project: func-adl
-- title: "FuncADL: Functional Analysis Description Language"
-  date: 2021-07-09
-  url: https://indico.cern.ch/event/1019958/timetable/#31-funcadl-functional-analysis
-  video: https://youtu.be/58KR97xdYlU
-  meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/event/1019958/
-  location: Virtual
-  focus-area: as
-  project: func-adl
-- title: Uproot Tutorial
-  date: 2021-08-27
-  url: https://indico.cern.ch/event/1058873/timetable/#b-430459-python-for-analysis-2
-  meeting: Software Carpentry (Virtual)
-  meetingurl: https://indico.cern.ch/event/1058873/
-  location: Virtual
-  focus-area: as
-  project: uproot
-- title: "Data handling: uproot, awkward & vector"
-  date: 2021-11-03
-  url: https://indico.cern.ch/event/1076231/contributions/4560398/
-  video: https://indico.cern.ch/event/1076231/contributions/4560398/attachments/2338579/4017718/agc_uproot_awk.mp4
-  meeting: IRIS-HEP AGC Tools 2021 Workshop
-  meetingurl: https://indico.cern.ch/event/1076231/
-  location: Virtual
-  focus-area: as
-  project:
-  - uproot
-  - awkward
-  - vector
-- title: Queries with func_adl
-  date: 2021-11-03
-  url: https://indico.cern.ch/event/1076231/contributions/4560403/
-  video: https://indico.cern.ch/event/1076231/contributions/4560403/attachments/2339065/4017721/agc_funcadl.mp4
-  meeting: IRIS-HEP AGC Tools 2021 Workshop
-  meetingurl: https://indico.cern.ch/event/1076231/
-  location: Virtual
-  focus-area: as
-  project: func-adl
-- title: "Declarative interfaces for HEP data analysis: FuncADL and ADL/CutLang"
-  date: 2021-12-01
-  url: https://indico.cern.ch/event/855454/contributions/4611278/
-  meeting: ACAT 2021
-  meetingurl: https://indico.cern.ch/event/855454/
-  location: Virtual
-  focus-area: as
-  project: func-adl
-- title: Foundation libraries (uproot, awkward, hist, mplhep)
-  date: 2022-04-25
-  url: https://indico.cern.ch/event/1126109/contributions/4780138/
-  meeting: IRIS-HEP AGC Tools 2022 Workshop
-  meetingurl: https://indico.cern.ch/event/1126109/
-  location: Virtual
-  focus-area: as
-  project:
-  - uproot
-  - awkward
-  - vector
-  - histogram
+  - title:
+      "IRIS-HEP: A new software institute to prepare for the data from the High
+      Luminosity Large Hadron Collider in the exabyte era"
+    date: 2019-05-08
+    url: https://indico.cern.ch/event/821258/contributions/3433444/attachments/1844402/3025513/Northwest_Data_Science_Summit_Poster_Final.pdf
+    meeting: Northwest Data Science Summit
+    meetingurl: https://www.eventbrite.com/e/northwest-data-science-summit-tickets-55037447487
+    location: University of Washington
+    focus-area: as
+    project: func-adl
+  - title: Prototype declarative analysis interface using uproot and awkward-array
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3563332/attachments/1907329/3150287/lightning-talk_2019-09-12.pdf
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/840472/
+    location: Fermilab
+    focus-area: as
+    project: func-adl
+  - title: HEP Data Query Challenges
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3476178/attachments/1936838/3210025/chep_2019_poster.pdf
+    meeting: CHEP 2019
+    meetingurl: http://chep2019.org/
+    location: Adelaide, Australia
+    focus-area: as
+    project: adl-benchmarks-index
+  - title: uproot Tutorial
+    date: 2019-11-29
+    url: https://masonproffitt.github.io/uproot-tutorial/
+    meeting: Software Carpentry at CERN
+    meetingurl: https://indico.cern.ch/event/834411/
+    location: CERN
+    focus-area: as
+    project: uproot
+  - title: Functional Analysis Description Language (FuncADL)
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331177/11_-_Functional_Analysis_Description_Language_FuncADL.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/overview
+    location: Princeton University
+    focus-area: as
+    project: func-adl
+  - title: "Data Selection & Delivery for Analysis: ServiceX & funcADL"
+    date: 2020-10-26
+    url: https://indico.cern.ch/event/960587/contributions/4070320/
+    meeting: Future Analysis Systems and Facilities
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
+    focus-area:
+      - doma
+      - as
+    project:
+      - servicex
+      - func-adl
+  - title: "FuncADL: Functional Analysis Description Language"
+    date: 2021-05-18
+    url: https://indico.cern.ch/event/948465/contributions/4324157/attachments/2245273/3809264/vCHEP%202021%20FuncADL%20v4%20%28final%29.pdf
+    meeting: vCHEP 2021
+    meetingurl: https://indico.cern.ch/event/948465/
+    location: Virtual
+    focus-area: as
+    project: func-adl
+  - title: "FuncADL: Functional Analysis Description Language"
+    date: 2021-07-09
+    url: https://indico.cern.ch/event/1019958/timetable/#31-funcadl-functional-analysis
+    video: https://youtu.be/58KR97xdYlU
+    meeting: PyHEP 2021 Workshop
+    meetingurl: https://indico.cern.ch/event/1019958/
+    location: Virtual
+    focus-area: as
+    project: func-adl
+  - title: Uproot Tutorial
+    date: 2021-08-27
+    url: https://indico.cern.ch/event/1058873/timetable/#b-430459-python-for-analysis-2
+    meeting: Software Carpentry (Virtual)
+    meetingurl: https://indico.cern.ch/event/1058873/
+    location: Virtual
+    focus-area: as
+    project: uproot
+  - title: "Data handling: uproot, awkward & vector"
+    date: 2021-11-03
+    url: https://indico.cern.ch/event/1076231/contributions/4560398/
+    video: https://indico.cern.ch/event/1076231/contributions/4560398/attachments/2338579/4017718/agc_uproot_awk.mp4
+    meeting: IRIS-HEP AGC Tools 2021 Workshop
+    meetingurl: https://indico.cern.ch/event/1076231/
+    location: Virtual
+    focus-area: as
+    project:
+      - uproot
+      - awkward
+      - vector
+  - title: Queries with func_adl
+    date: 2021-11-03
+    url: https://indico.cern.ch/event/1076231/contributions/4560403/
+    video: https://indico.cern.ch/event/1076231/contributions/4560403/attachments/2339065/4017721/agc_funcadl.mp4
+    meeting: IRIS-HEP AGC Tools 2021 Workshop
+    meetingurl: https://indico.cern.ch/event/1076231/
+    location: Virtual
+    focus-area: as
+    project: func-adl
+  - title: "Declarative interfaces for HEP data analysis: FuncADL and ADL/CutLang"
+    date: 2021-12-01
+    url: https://indico.cern.ch/event/855454/contributions/4611278/
+    meeting: ACAT 2021
+    meetingurl: https://indico.cern.ch/event/855454/
+    location: Virtual
+    focus-area: as
+    project: func-adl
+  - title: Foundation libraries (uproot, awkward, hist, mplhep)
+    date: 2022-04-25
+    url: https://indico.cern.ch/event/1126109/contributions/4780138/
+    meeting: IRIS-HEP AGC Tools 2022 Workshop
+    meetingurl: https://indico.cern.ch/event/1126109/
+    location: Virtual
+    focus-area: as
+    project:
+      - uproot
+      - awkward
+      - vector
+      - histogram
+  - title: Analysis Grand Challenge / HEP Scientific Python Ecosystem
+    date: 2022-07-20
+    url: https://indico.cern.ch/event/1151329/timetable/#3-analysis-grand-challenge-hep
+    meeting: DANCE/CoDaS@Snowmass 2022 computational and data science software training
+    meetingurl: https://indico.cern.ch/event/1151329/
+    location: University of Washington
+    focus-area: as
+    project:
+      - uproot
+      - awkward
+      - vector
+      - histogram
+  - title: Uproot Tutorial
+    date: 2022-08-02
+    url: https://indico.cern.ch/event/1163542/contributions/4886715/
+    meeting: CAMPFIRE 2022
+    meetingurl: https://indico.cern.ch/event/1163542/
+    location: Argonne National Laboratory
+    focus-area: as
+    project: uproot

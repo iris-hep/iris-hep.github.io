@@ -105,7 +105,7 @@ General Notes:
   * For special "add-on" cost cases such as grad student tuition, or the "per head computing fees" sometimes charged by universities, please include that extra cost (fully loaded, including indirect costs) for each relevant person in the "Extra Cost" column. Make a note about how it was calculated in the "General Notes" and/or specific person "Notes".
   * The cost to the IRIS-HEP project will be calculated by multiplying the "12-month fully loaded salary" by the IRIS-HEP fraction, and adding the extra cost.
   * Note any known start or end dates of personnel in the individual "Notes"
-  * Include also any Travel or M&S budget as rows in the table as "Extra Costs", along with an estimate of how it breaks down by WBS area. The details of the cost should be described outside of the table in the preceding "standard" budget justification.
+  * Include also any Travel or M&S budget as rows in the table as "Extra Costs", again including indirect costs, along with an estimate of how it breaks down by WBS area. The details of the cost should be described outside of the table in the preceding "standard" budget justification.
   * For graduate students, please specify an FTE fraction relative to a
     standard graduate student working for 12 months a year. You should
     *not* include the usual weight that grad students "research fraction"

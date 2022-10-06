@@ -4,5 +4,5 @@ title: New powerful axis types and accumulators for Boost.Histogram
 description: >
   Boost.Histogram is a flexible high-performance library in C++. It is designed as a extensible modular system made from orthogonal parts. Axis classes are one of these components, which convert user values into indices. Boost.Histogram already supports the common axis types, but interesting new ones are still missing, like the [composite axis](https://github.com/boostorg/histogram/issues/47), an axis for [hexagonal bins](https://github.com/boostorg/histogram/issues/137), for [generic polygons](https://github.com/boostorg/histogram/issues/182), for [HealPix](https://github.com/boostorg/histogram/issues/202). Also interesting is to add [support for rational numbers in a regular axis](https://github.com/boostorg/histogram/issues/337). Another orthogonal component of Boost Histograms are the accumulators. Common accumulators are supported, but the library lacks an [efficiency accumulator](https://github.com/boostorg/histogram/issues/178), and a [collector](https://github.com/boostorg/histogram/issues/349). If time permits, we can also look into deeper optimizations of the library.
 contacts:
-- henryiii
-- "[Hans Dembinski](mailto:hans.dembinski@gmail.com)"
+  - henryiii
+  - "[Hans Dembinski](mailto:hans.dembinski@gmail.com)"

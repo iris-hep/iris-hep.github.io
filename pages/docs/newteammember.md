@@ -45,11 +45,11 @@ presentations:
 * Have an existing team member add your email address to the [IRIS-HEP Slack][] team.
 * Subscribe to the relevant [Google mailing lists][], at the very least "IRIS-HEP Full Team" and "IRIS-HEP Announcements".
 
-[contribute an improvement]:    https://github.com/iris-hep/iris-hep.github.io-source/pulls
+[contribute an improvement]:    https://github.com/iris-hep/iris-hep.github.io/pulls
 [IRIS-HEP GitHub organization]: https://github.com/iris-hep
-[assets/images/team folder]:    https://github.com/iris-hep/iris-hep.github.io-source/tree/master/assets/images/team
-[people]:                       https://github.com/iris-hep/iris-hep.github.io-source/tree/master/_data/people
-[university file]:              https://github.com/iris-hep/iris-hep.github.io-source/tree/master/_data/universities
+[assets/images/team folder]:    https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team
+[people]:                       https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/people
+[university file]:              https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/universities
 [IRIS-HEP Slack]:               https://iris-hep.slack.com
 [Google mailing lists]:         https://groups.google.com/a/iris-hep.org
 
@@ -78,4 +78,4 @@ The meaning of the fields is the following:
   * meetingurl - the URL for the meeting in which the presentation was made.
   * location - optionally list the location of a meeting if it was a workshop or dedicated gathering. Meetings that are mostly in Vidyo can use "Virtual".
   * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc,blueprint,core]. Can be a list, leave blank if none.
-  * project - optionally list the relevant project for this presentation, using its short name, i.e. those found in the [pages/projects/](https://github.com/iris-hep/iris-hep.github.io-source/tree/master/pages/projects) area. Can be a list, leave blank if none.
+  * project - optionally list the relevant project for this presentation, using its short name, i.e. those found in the [pages/projects/](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/projects) area. Can be a list, leave blank if none.

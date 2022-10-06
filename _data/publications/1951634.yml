@@ -1,5 +1,6 @@
 inspire-id: 1951634
 focus-area: ia
+nsf-par-id: 10340565
 project:
-- accel-gnn-tracking
-- caloreco-mlaas
+  - accel-gnn-tracking
+  - caloreco-mlaas

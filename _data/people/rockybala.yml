@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- ia
+  - ia
 institution: Stanford University
 name: Rocky Bala Garg
 photo: "/assets/images/team/Rocky-Garg.jpg"
@@ -8,67 +8,83 @@ shortname: rockybala
 title:
 website: https://github.com/rockybala
 presentations:
-- title: 'Acts Integration into Athena'
-  date: 2020-05-15
-  url:
-  meeting: SLAC ATLAS meeting
-  meetingurl:
-  location: SLAC
-  project: acts
-  focus-area: ia
-- title: 'Athena-ACTS Wrapper: Iterative Vertex Finder with Full Billoir Fitter'
-  date: 2021-02-12
-  url:
-  meeting: SLAC ATLAS meeting
-  meetingurl:
-  location: SLAC
-  project: acts
-  focus-area: ia
-- title: Parameter Optimization and Layer Linking in ACTS track Seeding
-  date: 2021-02-26
-  url: https://indico.cern.ch/event/1010520/contributions/4249433/attachments/2197746/3716120/ACTS_ML_Meeting_Feb26.pdf
-  meeting: ACTS Machine Learning Meeting
-  meetingurl: https://indico.cern.ch/event/1010520/
-  location: CERN
-  project: acts
-  focus-area: ia
-- title: "Qualification task in TrackingCP: ACTS Integration into Athena"
-  date: 2021-05-27
-  url: https://indico.cern.ch/event/1042818/contributions/4381599/attachments/2252713/3821712/QTSummary_TrackingCPWeekly_May27.pdf
-  meeting: ATLAS Inner Tracking CP weekly
-  meetingurl: https://indico.cern.ch/event/1042818/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: 'Implementation of Deep Learning Algorithm for identifying and locating primary vertices in ATLAS data'
-  date: 2021-10-13
-  url: https://indico.cern.ch/event/1071425/contributions/4505220/attachments/2327619/3965434/DIANA%20Presentation.pdf
-  meeting: DIANA/HEP Fellow Presentations
-  meetingurl: https://indico.cern.ch/event/1071425/
-  location:
-  project: pv-finder
-  focus-area: ia
-- title: "CKF parameter tuning studies"
-  date: 2022-02-25
-  url: https://indico.cern.ch/event/1132631/contributions/4752678/attachments/2397574/4099722/CKF%20Parameter%20Tuning%20Studies.pdf
-  meeting: ACTS Machine Learning Meeting
-  meetingurl: https://indico.cern.ch/event/1132631/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: "Parameter optimization using machine learning algorithms within ACTS framework"
-  date: 2022-04-27
-  url: https://indico.cern.ch/event/1140360/
-  meeting: IRIS-HEP IA presentations
-  meetingurl: https://indico.cern.ch/event/1140360/
-  project: acts
-  focus-area: ia
-  location: CERN
-- title: "ACTS/ITk Parameter Optimization"
-  date: 2022-05-04
-  url: https://indico.cern.ch/event/1156289/contributions/4855699/attachments/2437478/4174838/UpgradeTracking_May4th_CTDplotapproval.pdf
-  meeting: Upgrade Tracking Meeting
-  meetingurl: https://indico.cern.ch/event/1156289/
-  project: acts
-  focus-area: ia
-  location: CERN
+  - title: "Acts Integration into Athena"
+    date: 2020-05-15
+    url:
+    meeting: SLAC ATLAS meeting
+    meetingurl:
+    location: SLAC
+    project: acts
+    focus-area: ia
+  - title: "Athena-ACTS Wrapper: Iterative Vertex Finder with Full Billoir Fitter"
+    date: 2021-02-12
+    url:
+    meeting: SLAC ATLAS meeting
+    meetingurl:
+    location: SLAC
+    project: acts
+    focus-area: ia
+  - title: Parameter Optimization and Layer Linking in ACTS track Seeding
+    date: 2021-02-26
+    url: https://indico.cern.ch/event/1010520/contributions/4249433/attachments/2197746/3716120/ACTS_ML_Meeting_Feb26.pdf
+    meeting: ACTS Machine Learning Meeting
+    meetingurl: https://indico.cern.ch/event/1010520/
+    location: CERN
+    project: acts
+    focus-area: ia
+  - title: "Qualification task in TrackingCP: ACTS Integration into Athena"
+    date: 2021-05-27
+    url: https://indico.cern.ch/event/1042818/contributions/4381599/attachments/2252713/3821712/QTSummary_TrackingCPWeekly_May27.pdf
+    meeting: ATLAS Inner Tracking CP weekly
+    meetingurl: https://indico.cern.ch/event/1042818/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: "Implementation of Deep Learning Algorithm for identifying and locating primary vertices in ATLAS data"
+    date: 2021-10-13
+    url: https://indico.cern.ch/event/1071425/contributions/4505220/attachments/2327619/3965434/DIANA%20Presentation.pdf
+    meeting: DIANA/HEP Fellow Presentations
+    meetingurl: https://indico.cern.ch/event/1071425/
+    location:
+    project: pv-finder
+    focus-area: ia
+  - title: "CKF parameter tuning studies"
+    date: 2022-02-25
+    url: https://indico.cern.ch/event/1132631/contributions/4752678/attachments/2397574/4099722/CKF%20Parameter%20Tuning%20Studies.pdf
+    meeting: ACTS Machine Learning Meeting
+    meetingurl: https://indico.cern.ch/event/1132631/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: "Parameter optimization using machine learning algorithms within ACTS framework"
+    date: 2022-04-27
+    url: https://indico.cern.ch/event/1140360/
+    meeting: IRIS-HEP IA presentations
+    meetingurl: https://indico.cern.ch/event/1140360/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: "ACTS/ITk Parameter Optimization"
+    date: 2022-05-04
+    url: https://indico.cern.ch/event/1156289/contributions/4855699/attachments/2437478/4174838/UpgradeTracking_May4th_CTDplotapproval.pdf
+    meeting: Upgrade Tracking Meeting
+    meetingurl: https://indico.cern.ch/event/1156289/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: "Optimization of ACTS-AMVF for ITk"
+    date: 2022-05-12
+    url: https://indico.cern.ch/event/1159874/contributions/4871201/attachments/2443227/4186049/VertexMeeting_May12th_CTDplots.pdf
+    meeting: Vertex reconstruction meeting
+    meetingurl: https://indico.cern.ch/event/1159874/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: "Exploration of different parameter optimization algorithms within the context of ACTS software framework"
+    date: 2022-06-02
+    url: https://indico.cern.ch/event/1103637/contributions/4821875/
+    meeting: Connecting The Dots 2022
+    meetingurl: https://indico.cern.ch/event/1103637/
+    project: acts
+    focus-area: ia
+    location: Princeton, NJ

@@ -1,4 +1,3 @@
-
 name: Arduino Micro Controller and C++ programming (STEM Teachers)
 startdate: 2021-08-24
 enddate: 2021-08-25
@@ -7,4 +6,4 @@ meetingurl: https://indico.cern.ch/event/1068475/
 image:
 description: Arduino Micro Controller and C++ programming (STEM Teachers)
 labels:
-- training
+  - training

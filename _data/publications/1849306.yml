@@ -1,6 +1,7 @@
 inspire-id: 1849306
+nsf-par-id: 10354368
 project:
-- idds
-- exploratory-ml
+  - idds
+  - exploratory-ml
 focus-area:
-- doma
+  - doma

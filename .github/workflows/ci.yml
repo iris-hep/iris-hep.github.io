@@ -12,18 +12,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - name: Prepare to build site
-      uses: ./.github/actions/prepare-build-site
+      - name: Prepare to build site
+        uses: ./.github/actions/prepare-build-site
 
-    - name: Check RuboCop
-      shell: bash
-      run: bundle exec rake rubocop
+      - name: Check RuboCop
+        run: bundle exec rake rubocop
 
-    - name: Build the site
-      shell: bash
-      run: bundle exec rake build
-      env:
-        JEKYLL_ENV: production
-        INDICO_TOKEN: ${{ secrets.INDICO_TOKEN }}
+      - name: Build the site
+        run: bundle exec rake build
+        env:
+          JEKYLL_ENV: production
+          INDICO_TOKEN: ${{ secrets.INDICO_TOKEN }}

@@ -7,14 +7,14 @@ pagetype: doc
 
 ### Getting the source
 
-The website source is available at <https://github.com/iris-hep/iris-hep.github.io-source>.
+The website source is available at <https://github.com/iris-hep/iris-hep.github.io>.
 
 You can always click the edit button to make small edits to the website source, but if you want to test locally or make larger edits, you'll want to clone the source for the website and build it with Ruby.
 
 ### Installing Ruby
 
 Visit [this page](https://jekyllrb.com/docs/installation/) for information about installing Ruby if your current version is too old; the instructions there form the basis for what you see here, and come in variants for all major operating systems.
-You should have Ruby 2.4+ for Jekyll. Since versions of macOS before Catalina with 2.3 (and Apple is dropping scripting language from macOS in the future), you may want a newer version even on a mac. You can use rbenv to manage multiple ruby versions. On macOS with homebrew, you'll want:
+You should have Ruby 2.6+ for Jekyll; 3.1 recommended and used in CI. You can use rbenv to manage multiple ruby versions. On macOS with homebrew, you'll want:
 
 ```bash
 brew install rbenv
@@ -23,13 +23,13 @@ brew install rbenv
 You'll need to run `rbenv init` and follow the instructions for your current shell. After you've installed rbenv on your system, use:
 
 ```bash
-rbenv install 2.7.3
+rbenv install 3.1.2
 ```
 
 to get a current version of ruby. Then, inside the main iris-hep website directory, run:
 
 ```bash
-rbenv local 2.7.3
+rbenv local 3.1.2
 ```
 
 This will run the Ruby you just built whenever you enter this directory. You'll want to install bundler too:
@@ -110,8 +110,8 @@ The InspireHEP access caching is automatic and is part of the normal Jekyll buil
 
 ### Pre-commit
 
-This repository uses pre-commit to check and cleanup minor style issues. You can install pre-commit with `brew install pre-commit` (macOS)`, `pipx install pre-commit` if you are a pipx user (and you should be), or `pip install pre-commit`. Then run `pre-commit run -a` to check manually, or `pre-commit install` to check before every commit.
+This repository uses pre-commit to check and cleanup minor style issues. You can install pre-commit with `brew install pre-commit` (macOS), `pipx install pre-commit` if you are a pipx user (and you should be), or `pip install pre-commit`. Then run `pre-commit run -a` to check manually, or `pre-commit install` to check before every commit.
 
 ### Accessing Indico
 
-The Indico access needs a key to authenticate to get protected meeting listings. This is normally done by Travis, but you can do it yourself by setting the `INDICO_API_KEY` and `INDICO_SECRET_KEY` environment variables (see [this page](https://docs.getindico.io/en/stable/http_api/access/#api-authentication) for information on how to generate these keys). The keys use timestamped requests, so your system clock needs to be roughly correct.
+The Indico access needs a token to authenticate to get protected meeting listings. This is normally done by GitHub Actions, but you can do it yourself by setting the `INDICO_TOKEN` environment variable (see [this page](https://docs.getindico.io/en/stable/http_api/access/#api-authentication) for information on how to generate these keys).

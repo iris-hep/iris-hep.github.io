@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://iris-hep.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: iris_hep
-github_username:  iris-hep
+github_username: iris-hep
 excerpt_separator: <!--more-->
 logo: /assets/logos/Iris-hep-5-just-graphic.png
 
@@ -58,7 +58,7 @@ sass:
 indico:
   url: https://indico.cern.ch
   cache-command: bundle exec rake cache
-  timeout: 240  # topical is getting close to 60 seconds, the default
+  timeout: 240 # topical is getting close to 60 seconds, the default
   paginate: 25
   ids:
     topical: 10570
