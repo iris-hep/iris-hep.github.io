@@ -288,3 +288,10 @@ presentations:
     meeting: RTG Colloquium - Aachen University
     focus-area: as
     location: Virtual
+  - title: Differentiable Programming and the IRIS-HEP Analysis Grand Challenge
+    date: 2022-10-14
+    url: https://indico.cern.ch/event/1145124/contributions/5031233/
+    meetingurl: https://indico.cern.ch/event/1145124
+    meeting: 2nd MODE Workshop
+    focus-area: as
+    location: Crete, Greece
