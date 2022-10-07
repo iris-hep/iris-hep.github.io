@@ -52,7 +52,7 @@ end
 desc 'Check links and things'
 task check: %i[build checkonly]
 
-desc 'Stronger check for missing options - will show up as warnings on Travis'
+desc 'Stronger check for missing options - will show up as warnings on GHA'
 task checkall: :build do
   html_proofer COMMON_OPTIONS
 end

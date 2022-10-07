@@ -1,43 +1,48 @@
 repos:
-- repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.3.0
-  hooks:
-  - id: check-added-large-files
-  - id: mixed-line-ending
-  - id: trailing-whitespace
-  - id: check-merge-conflict
-  - id: check-case-conflict
-  - id: check-symlinks
-  - id: check-yaml
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.3.0
+    hooks:
+      - id: check-added-large-files
+      - id: mixed-line-ending
+      - id: trailing-whitespace
+      - id: check-merge-conflict
+      - id: check-case-conflict
+      - id: check-symlinks
+      - id: check-yaml
 
-- repo: https://github.com/Lucas-C/pre-commit-hooks
-  rev: v1.3.0
-  hooks:
-  - id: remove-crlf
-  - id: forbid-tabs
-    exclude_types: [svg]
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: "v3.0.0-alpha.0"
+    hooks:
+      - id: prettier
+        types_or: [yaml, css, scss, javascript, json]
 
-- repo: local
-  hooks:
-  - id: data-filenames
-    files: ^_data/.*(?<!\.yml)$
-    name: Force _data files to be .yml
-    entry: files in _data must end in .yml
-    language: fail
+  - repo: https://github.com/Lucas-C/pre-commit-hooks
+    rev: v1.3.1
+    hooks:
+      - id: remove-crlf
+      - id: forbid-tabs
+        exclude_types: [svg]
 
-- repo: https://github.com/codespell-project/codespell
-  rev: v2.1.0
-  hooks:
-   - id: codespell
-     exclude: (^Gemfile.lock|\.js|\.map)$
-     args: ["-L", "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell"]
+  - repo: local
+    hooks:
+      - id: data-filenames
+        files: ^_data/.*(?<!\.yml)$
+        name: Force _data files to be .yml
+        entry: files in _data must end in .yml
+        language: fail
 
-- repo: local
-  hooks:
-  - id: disallow-caps
-    name: Disallow improper capitalization
-    language: pygrep
-    entry: PyBind|Numpy|Cmake|CCache|PyTest|UpRoot|UpROOT
-    exclude: .pre-commit-config.yaml
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.2.1
+    hooks:
+      - id: codespell
+        exclude: (^Gemfile.lock|\.js|\.map)$
+        args:
+          ["-L", "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu"]
 
-
+  - repo: local
+    hooks:
+      - id: disallow-caps
+        name: Disallow improper capitalization
+        language: pygrep
+        entry: PyBind|Numpy|Cmake|CCache|PyTest|UpRoot|UpROOT
+        exclude: .pre-commit-config.yaml

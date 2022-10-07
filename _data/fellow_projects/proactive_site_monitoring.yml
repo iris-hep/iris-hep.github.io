@@ -12,4 +12,4 @@ description: >
   for significant changes in the accounting information for VOs at all OSG connected
   clusters.  The alerting would notify OSG operators of the outlier for further analysis.
 contacts:
-- fellows@iris-hep.org
+  - fellows@iris-hep.org

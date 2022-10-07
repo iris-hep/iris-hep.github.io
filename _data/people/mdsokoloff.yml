@@ -1,7 +1,7 @@
 active: true
 focus-area:
-- ia
-- as
+  - ia
+  - as
 institution: University of Cincinnati
 name: Mike Sokoloff
 photo: "/assets/images/team/Mike-Sokoloff.jpg"

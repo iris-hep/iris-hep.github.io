@@ -15,7 +15,7 @@ body {
   padding-top: 5rem;
   padding-bottom: 0;
   height: 100%;
-  color: #2C3E50;
+  color: #2c3e50;
 
   @media (prefers-color-scheme: dark) {
     color: white;
@@ -47,7 +47,6 @@ header.masthead {
   }
 }
 
-
 @media only print {
   header.masthead .site-heading {
     padding: 0;
@@ -70,7 +69,7 @@ pre code {
     color: #550;
   }
   span.c1 {
-    color: #44A;
+    color: #44a;
   }
   span.nb {
     color: #963;
@@ -82,19 +81,18 @@ pre code {
 
 // Dark mode
 @media (prefers-color-scheme: dark) {
-
   a {
-    color: scale-color($iris-200, $lightness:50%)
+    color: scale-color($iris-200, $lightness: 50%);
   }
 
   a:hover {
-    color: scale-color($iris-200, $lightness:20%)
+    color: scale-color($iris-200, $lightness: 20%);
   }
 
   header.masthead {
     .overlay {
       background-color: black;
-      opacity: .4;
+      opacity: 0.4;
     }
     .site-heading {
       color: white;
@@ -111,7 +109,8 @@ pre code {
     .dropdown-item {
       color: white;
     }
-    .dropdown-item:hover, .dropdown-item:focus {
+    .dropdown-item:hover,
+    .dropdown-item:focus {
       color: black;
     }
   }
@@ -126,36 +125,36 @@ pre code {
     color: #ff9cc9;
   }
   pre code {
-    color: #BBB;
+    color: #bbb;
     span.na {
-      color: #DDD;
+      color: #ddd;
     }
     span.pi {
-      color: #FFF;
+      color: #fff;
     }
     span.s {
-      color: #AFA;
+      color: #afa;
     }
     span.m {
-      color: #DDA;
+      color: #dda;
     }
     span.c1 {
-      color: #99C;
+      color: #99c;
     }
     span.nb {
-      color: #FDA;
+      color: #fda;
     }
     span.nt {
-      color: #F99;
+      color: #f99;
     }
   }
 }
 
 %light-purple-header {
-    color: $iris-400;
-    @media (prefers-color-scheme: dark) {
-      color: scale-color($iris-400, $lightness:40%)
-    }
+  color: $iris-400;
+  @media (prefers-color-scheme: dark) {
+    color: scale-color($iris-400, $lightness: 40%);
+  }
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -184,15 +183,15 @@ pre code {
 }
 
 .boxed {
-  background-color: rgb(242, 244, 244) ;
-  border: 2px solid black ;
+  background-color: rgb(242, 244, 244);
+  border: 2px solid black;
   padding: 5px;
   height: 200px;
   overflow: scroll;
 }
 .boxedInf {
-  background-color: rgb(242, 244, 244) ;
-  border: 2px solid black ;
+  background-color: rgb(242, 244, 244);
+  border: 2px solid black;
   padding: 5px;
 }
 
@@ -217,7 +216,6 @@ pre code {
   .card-body {
     padding: 0;
 
-
     .card-text.card-title {
       font-weight: bolder;
       margin: 5px 0px 5px 0px;
@@ -225,7 +223,6 @@ pre code {
         @extend %light-purple-header;
       }
     }
-
   }
 }
 
@@ -249,7 +246,7 @@ pre code {
   }
 
   .card-body {
-      padding: 0;
+    padding: 0;
     .card-text.card-title {
       font-weight: bolder;
       margin: 5px 0px 5px 0px;
@@ -261,16 +258,14 @@ pre code {
       position: absolute;
       bottom: 0;
     }
-
   }
 }
 
-
 div#container {
-  position:relative;
+  position: relative;
   height: auto !important;
   height: 100%; // IE 6
-  min-height:100%;
+  min-height: 100%;
   padding-bottom: 16em;
   @media only screen and (min-width: 336px) {
     padding-bottom: 14em;
@@ -309,7 +304,7 @@ div#container {
   padding-right: 0;
 
   @media only screen and (min-width: 768px) {
-    padding-left: 1.0rem;
+    padding-left: 1rem;
     padding-right: 0.5rem;
   }
 
@@ -340,7 +335,6 @@ div#container {
     @media only screen and (min-width: 576px), only print {
       font-size: medium;
     }
-
   }
 
   .footer-logos {
@@ -371,19 +365,17 @@ div#container {
     display: flex;
     flex-direction: column;
     justify-content: center;
-
   }
 
   .footer-buttons {
-    width:35px;
+    width: 35px;
     @media only screen and (min-width: 991px) {
-      width:70px;
+      width: 70px;
     }
     @media only print {
       display: none;
     }
   }
-
 }
 
 // Header
@@ -425,7 +417,6 @@ main {
     flex: 1 0px;
 
     padding: 0 8px 0 8px;
-
   }
 
   .mainpage-sidebar-links {
@@ -436,7 +427,7 @@ main {
   .mainpage-core h4 {
     @extend %light-purple-header;
     font-size: 1.3rem;
-    margin-bottom: .2rem;
+    margin-bottom: 0.2rem;
   }
 
   ul {
@@ -446,15 +437,17 @@ main {
     list-style: none;
   }
 
-  .event, .empty {
+  .event,
+  .empty {
     display: flex;
     flex-flow: row wrap;
     margin: 5px 0 10px 0;
-    background-color: scale-color($iris-100, $lightness:60%);
+    background-color: scale-color($iris-100, $lightness: 60%);
     border-radius: 6px;
     color: black;
 
-    .date, .location {
+    .date,
+    .location {
       color: white;
     }
 
@@ -476,7 +469,8 @@ main {
       padding: 0 10px 0 5px;
     }
 
-    .name, .projects {
+    .name,
+    .projects {
       flex: 0 1 100%;
       font-size: 1.1rem;
       padding: 0 10px 0 10px;
@@ -484,8 +478,8 @@ main {
     }
 
     .projects p {
-      margin-top: .5rem;
-      margin-bottom: .5rem;
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
       text-align: center;
       color: $iris-200;
 
@@ -503,7 +497,6 @@ main {
   margin: 10px 0 30px 0;
 }
 
-
 .post {
   .iris-post-footer {
     clear: both;
@@ -515,7 +508,8 @@ main {
   }
 }
 
-.post, .page {
+.post,
+.page {
   img.banner {
     width: 100%;
     padding-bottom: 20px;
@@ -548,9 +542,9 @@ main {
   figure.iris-figure.caption {
     @media only screen and (min-width: 991px), only print {
       padding: 6px;
-      background-color: scale-color($iris-100, $lightness:60%);
+      background-color: scale-color($iris-100, $lightness: 60%);
       @media (prefers-color-scheme: dark) {
-        background-color: $iris-100
+        background-color: $iris-100;
       }
       border-radius: 6px;
     }
@@ -589,8 +583,8 @@ div#covid {
 }
 
 :target:before {
-content:"";
-display:block;
-height:90px; /* fixed header height*/
-margin:-90px 0 0; /* negative fixed header height */
+  content: "";
+  display: block;
+  height: 90px; /* fixed header height*/
+  margin: -90px 0 0; /* negative fixed header height */
 }

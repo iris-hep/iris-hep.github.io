@@ -1,8 +1,8 @@
 inspire-id: 1752736
 nsf-par-id: 10125846
 project:
-- madminer
-- exploratory-ml
+  - madminer
+  - exploratory-ml
 link: "https://doi.org/10.3847/1538-4357/ab4c41"
 date: 2019-11-19
 citation: "The Astrophysical Journal, Volume 886, Number 1; DOI:10.3847/1538-4357/ab4c41"

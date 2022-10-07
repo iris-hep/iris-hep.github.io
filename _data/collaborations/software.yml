@@ -47,7 +47,7 @@
     - type: OAC
       number: 1836650 # Iris hep
 
-- name: 'SSE ML@LHCb'
+- name: "SSE ML@LHCb"
   url: https://sse-ml-lhcb.gitlab.io/
   awards:
     - type: OAC

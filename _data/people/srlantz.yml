@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- ia
+  - ia
 institution: Cornell University
 name: Steve Lantz
 photo: "/assets/images/team/Steve-Lantz.jpg"
@@ -8,11 +8,43 @@ shortname: srlantz
 title:
 website: https://www.cac.cornell.edu/slantz/index.html
 presentations:
-- title: Vector Parallelism on Multi-Core Processors
-  date: 2019-07-25
-  url: https://indico.cern.ch/event/814979/contributions/3401203/attachments/1831468/3115808/VectorParallelismMultiCoreProc.pdf
-  meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
-  meetingurl: https://indico.cern.ch/event/814979/timetable/
-  location: Princeton University
-  focus-area: ia
-  project: mkfit
+  - title: Vector Parallelism on Multi-Core Processors
+    date: 2019-07-25
+    url: https://indico.cern.ch/event/814979/contributions/3401203/attachments/1831468/3115808/VectorParallelismMultiCoreProc.pdf
+    meeting: Third Computational and Data Science school for HEP (CoDaS-HEP 2019)
+    meetingurl: https://indico.cern.ch/event/814979/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: What Every Computational Physicist Should Know About Computer Architecture
+    date: 2022-08-01
+    url: https://indico.cern.ch/event/1151367/contributions/4831988/attachments/2487691/4272849/WhatEveryCompPhysShouldKnow.pdf
+    meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
+    meetingurl: https://indico.cern.ch/event/1151367/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: Vector Parallelism on Multi-Core Processors
+    date: 2022-08-01
+    url: https://indico.cern.ch/event/1151367/contributions/4969936/attachments/2487652/4271613/VectorParallelismMultiCoreProcs.pdf
+    meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
+    meetingurl: https://indico.cern.ch/event/1151367/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: Introduction to Performance Tuning & Optimization Tools
+    date: 2022-08-02
+    url: https://indico.cern.ch/event/1151367/contributions/4831985/attachments/2488357/4274758/IntroPerfTuningOpt.pdf
+    meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
+    meetingurl: https://indico.cern.ch/event/1151367/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: "Performance Case Study: the mkFit Particle Tracking Code"
+    date: 2022-08-02
+    url: https://iris-hep.org/projects/mkfit.html
+    meeting: Fourth Computational and Data Science school for HEP (CoDaS-HEP 2022)
+    meetingurl: https://indico.cern.ch/event/1151367/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit

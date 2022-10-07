@@ -7,4 +7,4 @@ image:
 description: >
   It has been five years since the first [Analysis Ecosystems Workshop](https://indico.cern.ch/event/613842/timetable/) organised by the HSF in 2017. Since that time many changes have happened, with the advent of new projects, tools, and data formats, intense activity and progress in established projects. Still, the challenge of efficient analysis for the HL-LHC era is not yet solved and so the HSF and IRIS-HEP are organising the Second Analysis Ecosystems Workshop.
 labels:
-- training
+  - training

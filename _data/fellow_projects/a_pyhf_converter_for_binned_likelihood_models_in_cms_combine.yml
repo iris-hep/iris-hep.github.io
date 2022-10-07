@@ -1,4 +1,4 @@
-open: yes
+open: no
 postdate: 2020-09-29
 title: A pyhf converter for binned likelihood models in CMS Combine
 description: >
@@ -14,6 +14,6 @@ description: >
   Combine syntax to the pyhf specification and develop some tools to perform comparisons
   between the two models.
 contacts:
-- cranmer
-- alexander-held
-- matthewfeickert
+  - cranmer
+  - alexander-held
+  - matthewfeickert

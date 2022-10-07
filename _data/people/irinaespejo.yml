@@ -1,7 +1,7 @@
 active: true
 focus-area:
-- as
-- ia
+  - as
+  - ia
 institution: New York University
 name: Irina Espejo
 photo: "/assets/images/team/irinaespejo.jpeg"
@@ -9,48 +9,45 @@ shortname: irinaespejo
 title: SCAILFIN collaborator
 website:
 presentations:
-- title: 'SCAILFIN: Madminer deployment using REANA'
-  date: 2019-06-19
-  url: https://indico.cern.ch/event/822074/contributions/3471463/
-  meeting: Analysis Systems Topical Meeting
-  meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
-  location: NYU
-  focus-area: as
-- title: Scalable cyberinfraestructure applications
-  date: 2020-02-27
-  url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
-  meeting: IRIS-HEP Poster Session
-  meetingurl: https://indico.cern.ch/event/894127/
-  location: Princeton
-- title: 'Excursion: Efficient Reinterpretation Campaigns with Active Learning'
-  date: 2020-10-27
-  url: https://indico.cern.ch/event/960587/contributions/4081701/
-  meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
-  meetingurl: https://indico.cern.ch/event/960587/
-  location: Virtual
-- title: Excursion - Active Learning and Gaussian Processes for black box inference
-  date: 2020-10-26
-  url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
-  meeting: Frontiers in Machine Learning for the Physical Sciences, UC Southern Hub
-  meetingurl: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
-  location: Virtual
-- title: Active Learning for Levet Set Estimation
-  date: 2021-03-26
-  url: https://indico.fnal.gov/event/48483/
-  meeting: CLARIPHY seminar
-  meetingurl: https://clariphy.org/
-  location: Virtual
-- title: Active Learning for Level Set Estimation
-  date: 2021-03-30
-  url: https://indico.cern.ch/event/1019958/timetable/#14-active-learning-for-level-s
-  meeting: PyHEP 2021 Workshop
-  meetingurl: https://indico.cern.ch/event/1019958/
-  location: Virtual
-- title: Active Learning for Level Set Estimation with the ATLAS detector
-  date: 2021-07-12
-  url: https://indico.cern.ch/event/1034469/contributions/4434638/
-  meeting: 2021 Meeting of the Division of Particles and Fields of the American Physical Society (DPF21)
-  meetingurl: https://indico.cern.ch/event/1034469/
-
-
-
+  - title: "SCAILFIN: Madminer deployment using REANA"
+    date: 2019-06-19
+    url: https://indico.cern.ch/event/822074/contributions/3471463/
+    meeting: Analysis Systems Topical Meeting
+    meetingurl: https://indico.cern.ch/event/822074/timetable/#20190620
+    location: NYU
+    focus-area: as
+  - title: Scalable cyberinfraestructure applications
+    date: 2020-02-27
+    url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton
+  - title: "Excursion: Efficient Reinterpretation Campaigns with Active Learning"
+    date: 2020-10-27
+    url: https://indico.cern.ch/event/960587/contributions/4081701/
+    meeting: IRIS-HEP Future Analysis Systems and Facilities Blueprint Workshop
+    meetingurl: https://indico.cern.ch/event/960587/
+    location: Virtual
+  - title: Excursion - Active Learning and Gaussian Processes for black box inference
+    date: 2020-10-26
+    url: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
+    meeting: Frontiers in Machine Learning for the Physical Sciences, UC Southern Hub
+    meetingurl: https://sites.research.uci.edu/frontiers-machine-learning/symposium/
+    location: Virtual
+  - title: Active Learning for Levet Set Estimation
+    date: 2021-03-26
+    url: https://indico.fnal.gov/event/48483/
+    meeting: CLARIPHY seminar
+    meetingurl: https://clariphy.org/
+    location: Virtual
+  - title: Active Learning for Level Set Estimation
+    date: 2021-03-30
+    url: https://indico.cern.ch/event/1019958/timetable/#14-active-learning-for-level-s
+    meeting: PyHEP 2021 Workshop
+    meetingurl: https://indico.cern.ch/event/1019958/
+    location: Virtual
+  - title: Active Learning for Level Set Estimation with the ATLAS detector
+    date: 2021-07-12
+    url: https://indico.cern.ch/event/1034469/contributions/4434638/
+    meeting: 2021 Meeting of the Division of Particles and Fields of the American Physical Society (DPF21)
+    meetingurl: https://indico.cern.ch/event/1034469/
