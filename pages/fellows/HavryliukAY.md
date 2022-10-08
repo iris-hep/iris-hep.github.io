@@ -18,7 +18,7 @@ project_goal: >
 mentors:
  - Michelle Kuchera (Davidson College)
 proposal: /assets/pdf/fellows-2022/209-proposal-Artem-Havryliuk.pdf
-presentations:
+presentations: https://docs.google.com/presentation/d/1tB0cVuM789w3p-z7Ig349iCsoogxaytFhe2l_yPcKrA/edit?usp=sharing, https://docs.google.com/presentation/d/1WIrvDEVqFxLqdkkKDi-1d3PpdQM5OcvPtbRTfTf00zU/edit?usp=sharing
 current_status: >
 github-username: HavryliukAY
 ---
