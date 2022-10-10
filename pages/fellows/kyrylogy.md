@@ -22,7 +22,7 @@ mentors:
 proposal: /assets/pdf/fellows-2022/206-proposal-Kyrylo-Meliushko.pdf
 presentations:
 presentations:
-- title: 
+- title:
   date: 2022-28-09
   url: https://indico.cern.ch/event/1195272/contributions/5064318/attachments/2518077/4329507/KyryloMeliushko-2.pdf
   meeting: IRIS-HEP Fellows Presentations 2022
