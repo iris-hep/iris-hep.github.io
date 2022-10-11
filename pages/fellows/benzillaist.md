@@ -5,7 +5,7 @@ shortname: Benzillaist
 permalink: /fellows/Benzillaist.html
 fellow-name: Ben Kuchma
 title: Ben Kuchma - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-16
   end: 2022-08-26
@@ -27,6 +27,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/023-proposal-Ben-Kuchma.pdf
 presentations:
+- title: Reconstruction algorithms dealing with electrons
+  date: 2022-09-14
+  url: https://indico.cern.ch/event/1195270/contributions/5043773/attachments/2507801/4309579/IRIS-HEP%20final%20presentation_%20Ben%20Kuchma.pdf
+  meeting: IRIS-HEP Topical Meetings
+  meetingurl: https://indico.cern.ch/event/1195270/
+  recordingurl: https://youtu.be/leIV_gRetHU
+  focus-area: IA
 current_status:
 github-username: Benzillaist
 ---

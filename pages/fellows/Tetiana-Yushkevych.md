@@ -5,7 +5,7 @@ shortname: Tetiana-Yushkevych
 permalink: /fellows/Tetiana-Yushkevych.html
 fellow-name: Tetiana Yushkevych
 title: Tetiana Yushkevych - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-11
   end: 2022-09-11
@@ -19,13 +19,13 @@ mentors:
   -  Markus Diefenthaler (Jefferson Lab)
 proposal: /assets/pdf/fellows-2022/221-proposal-Tetiana-Yushkevych.pdf
 presentations:
-  - title: ""
-    date: ""
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
+- title: Tools for understanding semi-inclusive deep-inelastic scattering measurements
+  date: 2022-09-14
+  url: https://indico.cern.ch/event/1195270/contributions/5043780/attachments/2507850/4309668/IRIS-HEP_Yushkevych_final.pdf
+  meeting: IRIS-HEP Topical Meetings
+  meetingurl: https://indico.cern.ch/event/1195270/
+  recordingurl: https://youtu.be/leIV_gRetHU
+  focus-area:
 current_status: >
   A placeholder for status updates
 github-username: Tetiana-Yushkevych

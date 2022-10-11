@@ -5,7 +5,7 @@ shortname: 70752300
 permalink: /fellows/70752300.html
 fellow-name: Maxym Naumchyk
 title: Maxym Naumchyk - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-01
   end: 2022-08-31
