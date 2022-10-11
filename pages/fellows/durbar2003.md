@@ -5,7 +5,7 @@ shortname: durbar2003
 permalink: /fellows/durbar2003.html
 fellow-name: Durbar Chakraborty
 title: Durbar Chakraborty - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-06
   end: 2022-09-05

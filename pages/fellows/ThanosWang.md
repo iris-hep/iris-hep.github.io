@@ -5,7 +5,7 @@ shortname: ThanosWang
 permalink: /fellows/ThanosWang.html
 fellow-name: Zijun Wang
 title: Zijun Wang - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
@@ -22,6 +22,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/074-proposal-Zijun-Wang.pdf
 presentations:
+- title: FAIR principles guided end-to-end cyberinfrastructure for preservation of UFO models
+  date: 2022-09-14
+  url: https://indico.cern.ch/event/1195270/contributions/5043771/attachments/2508513/4311003/Zijun_Wang_IRIS-HEP_Presentation.pdf
+  meeting: IRIS-HEP Topical Meetings
+  meetingurl: https://indico.cern.ch/event/1195270/
+  recordingurl: https://youtu.be/leIV_gRetHU
+  focus-area: AS
 
 current_status:
 

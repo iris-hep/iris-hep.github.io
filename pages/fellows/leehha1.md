@@ -5,7 +5,7 @@ shortname: 47593978
 permalink: /fellows/47593978.html
 fellow-name: Oleksii Brovarnyk
 title: Oleksii Brovarnyk - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-04
   end: 2022-09-04
@@ -21,13 +21,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/205-proposal-Oleksii-Brovarnyk.pdf
 presentations:
-  - title: ""
-    date: ""
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
+- title: Estimating transfer times of large datasets for scientific computing
+  date: 2022-09-14
+  url: https://indico.cern.ch/event/1195270/contributions/5043781/attachments/2508512/4311001/Oleksii%20Brovarnyk%20Iris-hep%20final%20presentation.pdf
+  meeting: IRIS-HEP Topical Meetings
+  meetingurl: https://indico.cern.ch/event/1195270/
+  recordingurl: https://youtu.be/leIV_gRetHU
+  focus-area: osglhc
 current_status: >
 github-username: leehha1
 ---
