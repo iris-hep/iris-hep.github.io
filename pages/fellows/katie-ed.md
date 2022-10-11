@@ -35,7 +35,7 @@ presentations:
     meeting: IRIS-HEP Fellows Presentations 2022
     meetingurl: https://indico.cern.ch/event/1199557
     recordingurl: https://youtu.be/7-0WZZCtqJI
-    focus-area: 
+    focus-area:
 current_status: "October 2022 - Undergraduate student at Iowa State University"
 github-username: katie-ed
 ---

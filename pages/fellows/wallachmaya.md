@@ -25,7 +25,7 @@ presentations:
   meeting: IRIS-HEP Fellows Presentations 2022
   meetingurl: https://indico.cern.ch/event/1195272/
   recordingurl: https://youtu.be/01mHSh-gnXs
-  focus-area: 
+  focus-area:
 current_status: >
 
 github-username: wallachmaya
