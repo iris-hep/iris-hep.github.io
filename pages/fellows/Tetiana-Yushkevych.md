@@ -25,7 +25,7 @@ presentations:
   meeting: IRIS-HEP Topical Meetings
   meetingurl: https://indico.cern.ch/event/1195270/
   recordingurl: https://youtu.be/leIV_gRetHU
-  focus-area: 
+  focus-area:
 current_status: >
   A placeholder for status updates
 github-username: Tetiana-Yushkevych
