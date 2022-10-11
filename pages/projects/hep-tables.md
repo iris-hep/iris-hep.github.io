@@ -6,8 +6,8 @@ shortname: hep-tables
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Heterogeneous Distributed Array Programming Environment
-maturity: Deployed
-maturity-note:
+maturity: Archived
+maturity-note: No longer being developed
 github: https://github.com/gordonwatts/hep_tables
 start-date: 2020-03-15
 focus-area: as
