@@ -5,7 +5,7 @@ shortname: peterridolfi
 permalink: /fellows/peterridolfi.html
 fellow-name: Peter Ridolfi
 title: Peter Ridolfi - IRIS-HEP Fellow
-active: true
+active: false
 dates:
   start: 2022-05-16
   end: 2022-08-19
