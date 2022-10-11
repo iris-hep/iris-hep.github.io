@@ -11,7 +11,7 @@ fellow-name: Jay Gohil
 
 title: Jay Gohil - IRIS-HEP Fellow
 
-active: True
+active: False
 
 dates:
   start: 2022-06-01
@@ -35,7 +35,13 @@ mentors:
 proposal: /assets/pdf/fellows-2022/011-proposal-Jay-Gohil.pdf
 
 presentations:
-
+- title: Features Extension, Inclusion & Rectification for Boost-Histogram
+  date: 2022-09-28
+  url: https://indico.cern.ch/event/1195272/contributions/5064321/attachments/2518085/4329520/Jay%20Gohil%20-%20Fellowship%20Presentation%20IRIS%20HEP.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195272/
+  recordingurl: https://youtu.be/01mHSh-gnXs
+  focus-area:
 current_status: >
 github-username: gohil-jay
 ---

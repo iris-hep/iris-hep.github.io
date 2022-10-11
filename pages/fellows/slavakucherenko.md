@@ -5,7 +5,7 @@ shortname: slavakucherenko
 permalink: /fellows/slavakucherenko.html
 fellow-name: Viacheslav Kucherenko
 title: Viacheslav Kucherenko - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-27
   end: 2022-08-26
@@ -20,6 +20,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/207-proposal-Viacheslav-Kucherenko.pdf
 presentations:
+- title: Machine Learning Based Tracking and Trigger
+  date: 2022-09-28
+  url: https://indico.cern.ch/event/1195272/contributions/5064322/attachments/2518087/4329522/IRIS_project_presentation_V_Kucherenko.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195272/
+  recordingurl: https://youtu.be/01mHSh-gnXs
+  focus-area: IA
  current_status: >
   A placeholder for status updates
 github-username: slavakucherenko

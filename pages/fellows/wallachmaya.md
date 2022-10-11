@@ -5,7 +5,7 @@ shortname: wallachmaya
 permalink: /fellows/wallachmaya.html
 fellow-name: Maya Wallach
 title: Maya Wallach - IRIS-HEP Fellow
-active: true
+active: false
 dates:
   start: 2022-05-23
   end: 2022-07-25
@@ -19,6 +19,13 @@ mentors:
   - Dr. Michelle Kuchera (Davidson College)
 proposal: /assets/pdf/fellows-2022/002-proposal-Maya-Safiya-Wallach.pdf
 presentations:
+- title: Machine Learning Methods for Event Classification in The Active-Target Time Projection Chamber
+  date: 2022-09-28
+  url: https://indico.cern.ch/event/1195272/contributions/5064317/attachments/2518074/4329504/IRIS-HEP%20talk%20Maya%20Wallach.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195272/
+  recordingurl: https://youtu.be/01mHSh-gnXs
+  focus-area: 
 current_status: >
 
 github-username: wallachmaya
