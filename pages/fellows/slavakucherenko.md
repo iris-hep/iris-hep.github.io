@@ -27,7 +27,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1195272/
   recordingurl: https://youtu.be/01mHSh-gnXs
   focus-area: IA
- current_status: >
+current_status: >
   A placeholder for status updates
 github-username: slavakucherenko
 ---
