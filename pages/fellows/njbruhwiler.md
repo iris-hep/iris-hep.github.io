@@ -5,7 +5,7 @@ shortname: njbruhwiler
 permalink: /fellows/njbruhwiler.html
 fellow-name: Natalie Bruhwiler
 title: Natalie Bruhwiler - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-23
   end: 2022-08-12
