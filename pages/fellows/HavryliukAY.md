@@ -5,7 +5,7 @@ shortname: HavryliukAY
 permalink: /fellows/HavryliukAY.html
 fellow-name: Artem Havryliuk
 title: Artem Havryliuk - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-27
   end: 2022-09-19
@@ -19,6 +19,13 @@ mentors:
  - Michelle Kuchera (Davidson College)
 proposal: /assets/pdf/fellows-2022/209-proposal-Artem-Havryliuk.pdf
 presentations:
+- title:  Data Classification with PointNet++ for the Active-Target Time Projection Chamber at FRIB
+  date: 2022-09-26
+  url: https://indico.cern.ch/event/1199557/contributions/5064307/attachments/2516266/4326117/Havryliuk_Final_Presentation.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199557
+  recordingurl: https://youtu.be/7-0WZZCtqJI
+  focus-area:
 current_status: >
 github-username: HavryliukAY
 ---
