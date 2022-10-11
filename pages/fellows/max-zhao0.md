@@ -5,7 +5,7 @@ shortname: max-zhao0
 permalink: /fellows/max-zhao0.html
 fellow-name: Max Zhao
 title: Max Zhao - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-30
   end: 2022-08-12
@@ -21,6 +21,13 @@ mentors:
 proposal: /assets/pdf/fellows-2022/054-proposal-Max-Zhao.pdf
 github-username: max-zhao0
 presentations:
+- title: Efficient implementation of algorithms to reconstruct charged particles trajectories
+  date: 2022-09-21
+  url: https://indico.cern.ch/event/1195271/contributions/5056095/attachments/2513330/4320436/IRIS-HEP_final_MaxZhao.pdf
+  meeting: IRIS-HEP Topical Meetings
+  meetingurl: https://indico.cern.ch/event/1195271/
+  recordingurl: https://youtu.be/H8mwFxK7sos
+  focus-area: IA
 current_status: >
 
 ---

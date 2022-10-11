@@ -5,7 +5,7 @@ shortname: ptemplem
 permalink: /fellows/ptemplem.html
 fellow-name: Philip Templeman
 title: Philip Templeman - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-31
   end: 2022-08-19
