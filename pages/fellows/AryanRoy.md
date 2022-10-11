@@ -2,7 +2,7 @@
 permalink: /fellows/AryanRoy.html
 layout: fellow
 pagetype: fellow
-active: true
+active: false
 title: Aryan Roy - IRIS-HEP Fellow
 fellow-name: Aryan Roy
 focus-area:
@@ -46,6 +46,14 @@ presentations:
   meeting: IRIS-HEP Topical Meetings
   meetingurl: https://indico.cern.ch/event/1071399/
   recordingurl: https://youtu.be/XIq9DyWIOP8
+  focus-area: as
+
+- title: Accelerating Uproot with AwkwardForth
+  date: 2022-09-28
+  url: https://indico.cern.ch/event/1195272/contributions/5064320/attachments/2518080/4329512/Aryan-final-presentation.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195272/
+  recordingurl: https://youtu.be/01mHSh-gnXs
   focus-area: as
 github-username: aryan26roy
 

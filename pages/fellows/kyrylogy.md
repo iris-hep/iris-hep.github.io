@@ -5,7 +5,7 @@ shortname: kyrylogy
 permalink: /fellows/kyrylogy.html
 fellow-name: Kyrylo Meliushko
 title: Kyrylo Meliushko - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-01
   end: 2022-09-23
@@ -21,6 +21,13 @@ mentors:
   - Federica Legger (INFN)
 proposal: /assets/pdf/fellows-2022/206-proposal-Kyrylo-Meliushko.pdf
 presentations:
+- title: Implementation of CI/CD Automation and Orchestration in CMS Monitoring Kubernetes Clusters
+  date: 2022-09-28
+  url: https://indico.cern.ch/event/1195272/contributions/5064318/attachments/2518077/4329507/KyryloMeliushko-2.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195272/
+  recordingurl: https://youtu.be/01mHSh-gnXs
+  focus-area:
 current_status:
 github-username: kyrylogy
 ---
