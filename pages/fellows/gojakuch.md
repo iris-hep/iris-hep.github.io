@@ -28,6 +28,13 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1184316/
   recordingurl:
   focus-area:
+- title: Summer Student Report: Jet Reconstruction with Julia
+   date: 2022-08-29
+   url: https://indico.cern.ch/event/1180962/contributions/5017227/attachments/2498100/4290757/CERN-presentation-AtellKrasnopolski.pdf
+   meeting: CERN SFT Group Meeting
+   meetingurl: https://indico.cern.ch/event/1180962/
+   recordingurl:
+   focus-area:
 - title: Jet Reconstruction with Julia
   date: 2022-09-28
   url: https://indico.cern.ch/event/1195272/contributions/5064323/attachments/2518088/4329524/IRIS-HEP-final-presentation-AtellKrasnopolski.pdf
