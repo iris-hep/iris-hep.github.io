@@ -20,8 +20,8 @@ project_goal: >
   an algorithm to help
   analyze these images using simulated events from the DUNE experiment.
 mentors:
-- Jane Nachtman - (University of Iowa)
-- Arghya Das - (University of Wisconsin - Platteville)
+- Jane Nachtman (University of Iowa)
+- Arghya Das (University of Wisconsin - Platteville)
 
 proposal: /assets/pdf/Fellow-Sammy-Edwards-Proposal.pdf
 presentations: >

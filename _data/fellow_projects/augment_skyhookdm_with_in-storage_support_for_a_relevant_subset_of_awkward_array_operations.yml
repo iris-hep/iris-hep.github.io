@@ -8,11 +8,11 @@ description: >
   platform with customized C++  object classes  that enable database operations such
   as `SELECT`, `PROJECT`, `AGGREGATE` to be offloaded directly into the object storage
   layer.  Awkward arrays are currently stored as [lists within Arrow tables](https://arrow.apache.org/docs/cpp/api/datatype.html#classarrow_1_1_list_type)
-  inside Skyhook.  This project will investigate and implement a small subset of [awkard
+  inside Skyhook.  This project will investigate and implement a small subset of [awkward
   array](https://github.com/scikit-hep/awkward-array) operations that can be offloaded
   ( pushed down ) into storage for query processing. Common list manipulations that
   perform data reduction such as filters or summary/agg methods will be most useful
   to apply within storage, since these will reduce network IO transferred back to
   the client from the storage layer.
 contacts:
-- fellows@iris-hep.org
+  - fellows@iris-hep.org

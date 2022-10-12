@@ -16,17 +16,17 @@ project_title: Machine Learning Based Tracking and Trigger
 project_goal: >
     We propose to use AI/ML to perform software-based triggering processing and recognise complex patterns of particle decays. This project will focus on tracking algorithms, which can effectively identify tracks of the particles, having the phase-space distribution of points on detectors. Using geometrical constraints and a graph neural networks approach it is possible not only to identify tracks but also to apply trigger detection classification on the preprocessed tracks. After having a model, the goal would be to fine-tune the best approaches and compare their final metrics.
 mentors:
-  - Oksana Shadura - (University of Nebraska - Lincoln)
   - Dantong Yu - (New Jersey Institute of Technology)
-
 proposal: /assets/pdf/fellows-2022/207-proposal-Viacheslav-Kucherenko.pdf
 presentations:
-- title: Machine Learning Based Tracking
+- title: Machine Learning Based Tracking and Trigger
   date: 2022-09-28
   url: https://indico.cern.ch/event/1195272/contributions/5064322/attachments/2518087/4329522/IRIS_project_presentation_V_Kucherenko.pdf
-  meeting: IRIS-HEP Final presentation
-  meetingurl: https://youtu.be/01mHSh-gnXs
-  recordingurl: https://youtu.be/l5ZN8fjPW9c
-  focus-area: ml
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195272/
+  recordingurl: https://youtu.be/01mHSh-gnXs
+  focus-area: IA
+current_status: >
+  Finished project and presented it
 github-username: slavakucherenko
 ---

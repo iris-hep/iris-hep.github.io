@@ -17,13 +17,13 @@ project_goal: >
     a collision event. The task of track reconstruction involves clustering tracker hits to
     reconstruct the trajectories of these particles. The sparse nature of tracking data makes
     graph neural networks (GNNs) well-suited to particle tracking applications. The goal of
-    this project is to develop a GNN for particle tracking by explicitly incorporating E(3)
+    this project is to develop a GNN for particle tracking by explicitly incorporating rotational
     equivariance into the model. Incorporating physically meaningful symmetries into the GNN
     can reduce the number of parameters and potentially reduce training and inference times
     for the model, while retaining the expressive power of non-equivariant GNNs.
 mentors:
-  - Savannah Thais - (Princeton University)
-  - Daniel Murnane - (Lawrence Berkeley National Laboratory)
+  - Savannah Thais (Princeton University)
+  - Daniel Murnane (Lawrence Berkeley National Laboratory)
 proposal: /assets/pdf/fellows-2022/008-proposal-Ameya-Thete.pdf
 presentations:
 current_status: >
@@ -31,4 +31,12 @@ current_status: >
 github-username: ameya1101
 focus-area:
   - ia
+presentations:
+  - title: Equivariant Graph Neural Networks for Particle Tracking
+    date: 2022-06-13
+    url: https://indico.cern.ch/event/1155137/contributions/4850298/subcontributions/385039/attachments/2461289/4219922/Ameya-Thete.pdf
+    meeting: IRIS-HEP Fellows "Lightning" Talks
+    meetingurl: https://indico.cern.ch/event/1155137/
+    focus-area: ia
+    location: Virtual
 ---

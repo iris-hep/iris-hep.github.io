@@ -6,7 +6,7 @@ active: false
 title: Bo Zheng - IRIS-HEP Fellow
 fellow-name: Bo Zheng
 project_title: pyhf Hardware Acceleration Benchmarking with GPUs and TPUs
-focus-area:
+focus-area: as
 dates:
   start: 2020-06-01
   end: 2020-08-31
@@ -15,8 +15,8 @@ institution: Rice University
 e-mail: bz30@rice.edu
 mentors:
 - matthewfeickert
-- Lukas Heinrich (pyhf dev team)
-- Giordon Stark (pyhf dev team)
+- Lukas Heinrich (CERN, pyhf dev team)
+- Giordon Stark (UCSC, pyhf dev team)
 project_goal: >
   Write a hardware acceleration benchmarking suite for the GPU enabled backends (TensorFlow,
   PyTorch, and JAX) in Python (pyhf Issues 301, 348).

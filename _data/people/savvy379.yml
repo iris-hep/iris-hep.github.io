@@ -1,8 +1,8 @@
-active: true
+active: false
 e-mail: sthais@princeton.edu
 focus-area:
-- ia
-- ssc
+  - ia
+  - ssc
 institution: Princeton University
 name: Savannah Thais
 photo: "/assets/images/team/Savannah-Thais.jpg"
@@ -10,157 +10,156 @@ shortname: savvy379
 title: Associate Research Scholar
 website:
 presentations:
-- title: Introduction and Plans
-  date: 2019-09-12
-  url: https://indico.cern.ch/event/840472/contributions/3563440/attachments/1907910/3151492/iris_intro.pdf
-  meeting: IRIS-HEP Institute Retreat
-  location: Fermilab, Chicago IL
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: Semantic Segmentation for CMS Pixel Clustering
-  date: 2019-10-16
-  url: https://indico.cern.ch/event/844493/contributions/3601262/attachments/1928404/3193177/uslua_2019.pdf
-  meeting: US LHC Users' Association Meeting
-  location: Rice University, Houston TX
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: Education and Engagement of ML Skills
-  date: 2020-08-11
-  url: https://indico.fnal.gov/event/43829/contributions/192878/
-  meeting: Snowmass Computing Frontier Kickoff Meeting
-  location: Virtual
-  focus-area: ssc
-- title: Accelerated Pixel Detector Tracklet Finding with GNNs on FPGAS
-  date: 2020-10-21
-  url: https://indico.cern.ch/event/852553/contributions/4058173/
-  meeting: 4th Annual Inter-Experiment Machine Learning Workshop
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: New Algorithms and Computing Architectures for Tracking
-  date: 2020-02-27
-  url: https://indico.cern.ch/event/855317/contributions/3671721/attachments/1992247/3328035/iris_18mo_review.pdf
-  meeting: IRIS-HEP 18 Month Review
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: GNNs for Tracking
-  date: 2020-09-30
-  url: https://indico.cern.ch/event/952419/contributions/4041556/attachments/2112096/3553019/tracking_gnns_cmsml_09302020.pdf
-  meeting: CMS Machine Learning Forum
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: Big Data and Open Science to Fight COVID-19
-  date: 2020-04-20
-  url: https://meetings.aps.org/Meeting/APR20/Session/Q08.3
-  meeting: APS April Meeting
-  focus-area: ssc
-- title: Machine Learning and Your Research
-  date: 2020-10-20
-  url: https://researchcomputing.princeton.edu/events/machine-learning-your-research
-  meeting: Princeton Research Computing Training Series
-  focus-area: ssc
-- title: Tracking with GNN
-  date: 2020-11-02
-  url: https://indico.cern.ch/event/963422/contributions/4074299/attachments/2134891/3595882/tracking_gnns_cmstrackingpog_10192020_NOONESHOT.pdf
-  meeting: CMS Tracking POG meeting (CMS internal)
-  meetingurl: https://indico.cern.ch/event/963422
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: Tracking with GNN
-  date: 2021-03-01
-  url: https://indico.cern.ch/event/1004144/contributions/4216720/attachments/2199449/3719570/iris_topical_march21.pdf
-  meeting: "HL-LHC R&D topical meeting: Graph Neural Networks for Tracking and Sherpa"
-  meetingurl: https://indico.cern.ch/event/1004144/#1-graph-networks-for-tracking
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: "AI in HEP: Current Methods and Applications"
-  date: 2021-07-14
-  url: https://indico.cern.ch/event/1034469/contributions/4436597/
-  meeting: 2021 Meeting of the Division of Particles and Fields (DPF21)
-  meetingurl: https://indico.cern.ch/event/1034469
-  focus-area: ia
-  project: accel-gnn-tracking
-  labels:
-  - conference
-- title: "Machine Learning (CMS)"
-  date: 2021-08-26
-  url: https://indico.cern.ch/event/1025480/contributions/4478812/
-  meeting: "10th International Conference on New Frontiers in Physics (ICNFP 2021)"
-  meetingurl: https://indico.cern.ch/event/1025480
-  focus-area: ia
-  project: accel-gnn-tracking
-  labels:
-  - conference
-- title: "Graph Neural Networks"
-  date: 2021-07-12
-  url: https://indico.cern.ch/event/1042663/#7-graph-neural-networks
-  meeting: "Machine Learning HATS@LPC"
-  meetingurl: https://indico.cern.ch/event/1042663
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: "Generative Adversarial Network (GAN)"
-  date: 2021-07-30
-  url: https://indico.cern.ch/event/1045606/contributions/4470869/
-  meeting: "Machine Learning HATS@LPC"
-  meetingurl: https://indico.cern.ch/event/1045606
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: "Machine Learning for Tracking"
-  date: 2021-09-07
-  url: https://indico.cern.ch/event/1071864/#1-machine-learning-for-trackin
-  meeting: "HL-LHC R&D Initiative Meeting (USCMS internal)"
-  meetingurl: https://indico.cern.ch/event/1071864
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
-  date: 2022-03-22
-  url: https://indico.cern.ch/event/1142769/contributions/4795043/attachments/2412395/4128310/cms_rd_march22.pdf
-  meeting: "US CMS HL-LHC R&D Meeting (CMS Internal)"
-  meetingurl: https://indico.cern.ch/event/1142769/
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
-  date: 2022-03-08
-  url: https://www.youtube.com/watch?v=T4ApaGbPN-A
-  meeting: "Imperial College Data Learning Working Group"
-  meetingurl: https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: "Interpretable AI In Physics"
-  date: 2022-05-05
-  url: http://www.birs.ca/app/webroot/workshops/2022/22w5055/files/Savannah%20Thais/
-  meeting: "BIRS Interpretability in AI Workshop"
-  meetingurl: https://www.youtube.com/watch?v=T4ApaGbPN-A
-  focus-area: ia
-- title: "Physicists and AI Ethics"
-  date: 2021-03-17
-  url: https://meetings.aps.org/Meeting/MAR21/Session/L09.4
-  meeting: "APS March Meeting"
-  meetingurl: https://meetings.aps.org/Meeting/MAR21/Session/L09
-  focus-area: ssc
-- title: "Science Responds and CII: Big Data  and Open Science to Combat the Pandemic"
-  date: 2021-03-17
-  url: https://meetings.aps.org/Meeting/MAR21/Session/P01.1
-  meeting: "APS March Meeting"
-  meetingurl: https://meetings.aps.org/Meeting/MAR21/Session/P01
-  focus-area: ssc
-- title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
-  date: 2021-04-09
-  url: https://mlsys.org/virtual/2021/workshop/1642
-  meeting: "MLSys Workshop of Graph Neural Networks and Systems"
-  meetingurl: https://mlsys.org/virtual/2021/workshop/1642
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: "Representation Workshop Summary"
-  date: 2022-04-08
-  url: https://indico.ijclab.in2p3.fr/event/5999/contributions/25965/attachments/18789/25271/ltd_representation_summary.pdf
-  meeting: "Learning to Discover"
-  meetingurl: https://indico.ijclab.in2p3.fr/event/5999/
-  focus-area: ia
-  project: accel-gnn-tracking
-- title: "AI Ethics: What Physicists Need to Know"
-  date: 2021-07-22
-  url: https://indico.fnal.gov/event/49647/contributions/218113/attachments/145446/185176/snowmass_impactskickoff_aiethics.pdf
-  meeting: "Snowmass Societal and Environmental Impacts Group Kick Off Town Hall"
-  meetingurl: https://indico.fnal.gov/event/49647/
-  focus-area: ssc
-
+  - title: Introduction and Plans
+    date: 2019-09-12
+    url: https://indico.cern.ch/event/840472/contributions/3563440/attachments/1907910/3151492/iris_intro.pdf
+    meeting: IRIS-HEP Institute Retreat
+    location: Fermilab, Chicago IL
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: Semantic Segmentation for CMS Pixel Clustering
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/844493/contributions/3601262/attachments/1928404/3193177/uslua_2019.pdf
+    meeting: US LHC Users' Association Meeting
+    location: Rice University, Houston TX
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: Education and Engagement of ML Skills
+    date: 2020-08-11
+    url: https://indico.fnal.gov/event/43829/contributions/192878/
+    meeting: Snowmass Computing Frontier Kickoff Meeting
+    location: Virtual
+    focus-area: ssc
+  - title: Accelerated Pixel Detector Tracklet Finding with GNNs on FPGAS
+    date: 2020-10-21
+    url: https://indico.cern.ch/event/852553/contributions/4058173/
+    meeting: 4th Annual Inter-Experiment Machine Learning Workshop
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: New Algorithms and Computing Architectures for Tracking
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/855317/contributions/3671721/attachments/1992247/3328035/iris_18mo_review.pdf
+    meeting: IRIS-HEP 18 Month Review
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: GNNs for Tracking
+    date: 2020-09-30
+    url: https://indico.cern.ch/event/952419/contributions/4041556/attachments/2112096/3553019/tracking_gnns_cmsml_09302020.pdf
+    meeting: CMS Machine Learning Forum
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: Big Data and Open Science to Fight COVID-19
+    date: 2020-04-20
+    url: https://meetings.aps.org/Meeting/APR20/Session/Q08.3
+    meeting: APS April Meeting
+    focus-area: ssc
+  - title: Machine Learning and Your Research
+    date: 2020-10-20
+    url: https://researchcomputing.princeton.edu/events/machine-learning-your-research
+    meeting: Princeton Research Computing Training Series
+    focus-area: ssc
+  - title: Tracking with GNN
+    date: 2020-11-02
+    url: https://indico.cern.ch/event/963422/contributions/4074299/attachments/2134891/3595882/tracking_gnns_cmstrackingpog_10192020_NOONESHOT.pdf
+    meeting: CMS Tracking POG meeting (CMS internal)
+    meetingurl: https://indico.cern.ch/event/963422
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: Tracking with GNN
+    date: 2021-03-01
+    url: https://indico.cern.ch/event/1004144/contributions/4216720/attachments/2199449/3719570/iris_topical_march21.pdf
+    meeting: "HL-LHC R&D topical meeting: Graph Neural Networks for Tracking and Sherpa"
+    meetingurl: https://indico.cern.ch/event/1004144/#1-graph-networks-for-tracking
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "AI in HEP: Current Methods and Applications"
+    date: 2021-07-14
+    url: https://indico.cern.ch/event/1034469/contributions/4436597/
+    meeting: 2021 Meeting of the Division of Particles and Fields (DPF21)
+    meetingurl: https://indico.cern.ch/event/1034469
+    focus-area: ia
+    project: accel-gnn-tracking
+    labels:
+      - conference
+  - title: "Machine Learning (CMS)"
+    date: 2021-08-26
+    url: https://indico.cern.ch/event/1025480/contributions/4478812/
+    meeting: "10th International Conference on New Frontiers in Physics (ICNFP 2021)"
+    meetingurl: https://indico.cern.ch/event/1025480
+    focus-area: ia
+    project: accel-gnn-tracking
+    labels:
+      - conference
+  - title: "Graph Neural Networks"
+    date: 2021-07-12
+    url: https://indico.cern.ch/event/1042663/#7-graph-neural-networks
+    meeting: "Machine Learning HATS@LPC"
+    meetingurl: https://indico.cern.ch/event/1042663
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "Generative Adversarial Network (GAN)"
+    date: 2021-07-30
+    url: https://indico.cern.ch/event/1045606/contributions/4470869/
+    meeting: "Machine Learning HATS@LPC"
+    meetingurl: https://indico.cern.ch/event/1045606
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "Machine Learning for Tracking"
+    date: 2021-09-07
+    url: https://indico.cern.ch/event/1071864/#1-machine-learning-for-trackin
+    meeting: "HL-LHC R&D Initiative Meeting (USCMS internal)"
+    meetingurl: https://indico.cern.ch/event/1071864
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
+    date: 2022-03-22
+    url: https://indico.cern.ch/event/1142769/contributions/4795043/attachments/2412395/4128310/cms_rd_march22.pdf
+    meeting: "US CMS HL-LHC R&D Meeting (CMS Internal)"
+    meetingurl: https://indico.cern.ch/event/1142769/
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
+    date: 2022-03-08
+    url: https://www.youtube.com/watch?v=T4ApaGbPN-A
+    meeting: "Imperial College Data Learning Working Group"
+    meetingurl: https://sites.google.com/view/rossella-arcucci/home/calendar-datalearning
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "Interpretable AI In Physics"
+    date: 2022-05-05
+    url: http://www.birs.ca/app/webroot/workshops/2022/22w5055/files/Savannah%20Thais/
+    meeting: "BIRS Interpretability in AI Workshop"
+    meetingurl: https://www.youtube.com/watch?v=T4ApaGbPN-A
+    focus-area: ia
+  - title: "Physicists and AI Ethics"
+    date: 2021-03-17
+    url: https://meetings.aps.org/Meeting/MAR21/Session/L09.4
+    meeting: "APS March Meeting"
+    meetingurl: https://meetings.aps.org/Meeting/MAR21/Session/L09
+    focus-area: ssc
+  - title: "Science Responds and CII: Big Data  and Open Science to Combat the Pandemic"
+    date: 2021-03-17
+    url: https://meetings.aps.org/Meeting/MAR21/Session/P01.1
+    meeting: "APS March Meeting"
+    meetingurl: https://meetings.aps.org/Meeting/MAR21/Session/P01
+    focus-area: ssc
+  - title: "GNNs for Charged Particle Reconstruction at the Large Hadron Collider"
+    date: 2021-04-09
+    url: https://mlsys.org/virtual/2021/workshop/1642
+    meeting: "MLSys Workshop of Graph Neural Networks and Systems"
+    meetingurl: https://mlsys.org/virtual/2021/workshop/1642
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "Representation Workshop Summary"
+    date: 2022-04-08
+    url: https://indico.ijclab.in2p3.fr/event/5999/contributions/25965/attachments/18789/25271/ltd_representation_summary.pdf
+    meeting: "Learning to Discover"
+    meetingurl: https://indico.ijclab.in2p3.fr/event/5999/
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "AI Ethics: What Physicists Need to Know"
+    date: 2021-07-22
+    url: https://indico.fnal.gov/event/49647/contributions/218113/attachments/145446/185176/snowmass_impactskickoff_aiethics.pdf
+    meeting: "Snowmass Societal and Environmental Impacts Group Kick Off Town Hall"
+    meetingurl: https://indico.fnal.gov/event/49647/
+    focus-area: ssc

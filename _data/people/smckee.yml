@@ -1,7 +1,7 @@
 active: true
 focus-area:
-- osglhc
-- doma
+  - osglhc
+  - doma
 institution: University of Michigan-Ann Arbor
 name: Shawn McKee
 photo: "/assets/images/team/Shawn-McKee.jpg"
@@ -9,381 +9,415 @@ shortname: smckee
 title: OSG Networking Area Coordinator
 website: https://lsa.umich.edu/physics/people/research-scientists/smckee.html
 presentations:
-- title: WLCG/OSG Network Activities, Status and Plans
-  date: 2019-03-26
-  url: https://indico.cern.ch/event/765497/contributions/3351215/attachments/1818575/2973383/HEPiX_Spring_2019_OSG_WLCG_Networking_Update.pdf
-  meeting: HEPiX Spring 2019
-  meetingurl: https://indico.cern.ch/event/765497
-  location: San Diego, CA, US
-  focus-area: osglhc
-  project: osg-networking
-- title: 'OSG Networking: Status, Collaborations and Plans'
-  date: 2019-03-20
-  url: https://indico.cern.ch/event/759388/contributions/3352523/attachments/1815087/2966245/OSG_Networking__Status_Collaborations_and_Plans.pdf
-  meeting: Joint HSF/OSG/WLCG Workshop (HOW2019)
-  meetingurl: https://indico.cern.ch/event/759388
-  location: Newport News, VA, US
-  focus-area: osglhc
-  project: osg-networking
-- title: 'Scientific Data Lifecycle: Perspectives from an LHC Physicist'
-  date: 2019-03-06
-  url: https://www.nitrd.gov/nitrdgroups/images/9/98/Scientific-Data-Lifecycle-Shawn-McKee.pdf
-  meeting: MAGIC Meeting
-  meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC-Meetings-2019
-  location: Videoconference
-  focus-area: doma
-  project:
-- title: LHCOPN/LHCONE perfSONAR Update
-  date: 2019-06-04
-  url: https://indico.cern.ch/event/772031/contributions/3360614/attachments/1855592/3047650/LHCOPN_LHCONE_perfSONAR_Update_2019spring.pdf
-  meeting: LHCONE/LHCOPN Meeting
-  meetingurl: https://indico.cern.ch/event/772031
-  location: Umea, Sweden
-  focus-area: osglhc
-  project: osg-networking
-- title: The Service Analysis and Network Diagnostic (SAND) Project
-  date: 2019-07-02
-  url: https://wiki.geant.org/download/attachments/123774072/SIG-PMV-DUblin-SAND-McKee-02-Jul-2019.pdf?version=2&modificationDate=1562073472330&api=v2
-  meeting: The 6th Special Interest Group on Performance Monitoring and Verification
-    Meeting
-  meetingurl: https://wiki.geant.org/display/PMV/6th+SIG-PMV+Meeting+@+Dublin
-  location: Dublin, Ireland
-  focus-area: osglhc
-  project: osg-networking
-- title: Data Lakes, Data Caching for Science and the OSIRIS Distributed Storage System
-  date: 2019-09-18
-  url: http://grp-workshop-2019.ucsd.edu/presentations/3_McKEE-GRP-2019-OSIRIS-Caching.pdf
-  meeting: The Global Research Platform Workshop
-  meetingurl: http://grp-workshop-2019.ucsd.edu/
-  location: San Diego, California
-  focus-area: doma
-  project:
-- title: WLCG/OSG Network Activities, Status and Plans
-  date: 2019-10-16
-  url: https://indico.cern.ch/event/810635/contributions/3593246/attachments/1926442/3223199/HEPiX_Fall_2019_OSG_WLCG_Networking_Update.pdf
-  meeting: The Fall 2019 HEPiX Meeting
-  meetingurl: https://indico.cern.ch/event/810635/
-  location: Amsterdam, Netherlands
-  focus-area: osglhc
-  project: osg-networking
-- title: Network Function Virtualization Working Group Update
-  date: 2019-10-16
-  url: https://indico.cern.ch/event/810635/contributions/3593247/attachments/1927128/3223214/HEPiX_Network_Virtualisation_Working_Group_Update_Oct_2019_HEPiX.pdf
-  meeting: The Fall 2019 HEPiX Meeting
-  meetingurl: https://indico.cern.ch/event/810635/
-  location: Amsterdam, Netherlands
-  focus-area: osglhc
-  project: osg-networking
-- title: The SAND Project a the Halfway Point
-  date: 2019-10-16
-  url: https://indico.cern.ch/event/810635/contributions/3593348/attachments/1926847/3223164/HEPiX-SAND-Fall-2019.pdf
-  meeting: The Fall 2019 HEPiX Meeting
-  meetingurl: https://indico.cern.ch/event/810635/
-  location: Amsterdam, Netherlands
-  focus-area: osglhc
-  project: osg-networking
-- title: 'WLCG Networks: Update on Monitoring and Analytics'
-  date: 2019-11-04
-  url: https://indico.cern.ch/event/773049/contributions/3473823/attachments/1937475/3213791/CHEP_2019_OSG_WLCG_Networking_Update.pdf
-  meeting: CHEP2019
-  meetingurl: http://chep2019.org/
-  location: Adelaide, Australia
-  focus-area: osglhc
-  project: osg-networking
-- title: A distributed R&D storage platform implementing quality of service
-  date: 2019-11-05
-  url: https://indico.cern.ch/event/773049/contributions/3474403/attachments/1937924/3212138/CHEP-RandD-DataLake-v2.pdf
-  meeting: CHEP2019
-  meetingurl: http://chep2019.org/
-  location: Adelaide, Australia
-  focus-area: doma
-  project:
-- title: Network Capabilities for the HL-LHC Era
-  date: 2019-11-07
-  url: https://indico.cern.ch/event/773049/contributions/3473832/attachments/1939678/3215613/CHEP_Network_Capabilities_for_HL-LHC_Nov_19.pdf
-  meeting: CHEP2019
-  meetingurl: http://chep2019.org/
-  location: Adelaide, Australia
-  focus-area: osglhc
-  project: osg-networking
-- title: perfSONAR Analytics
-  date: 2019-12-03
-  url: https://indico.cern.ch/event/823341/contributions/3645036/attachments/1955228/3247468/perfSONAR_Analytics.pdf
-  meeting: ATLAS Software and Computing Week
-  meetingurl: https://indico.cern.ch/event/823341/
-  location: CERN, Geneva, Switzerland
-  focus-area: osglhc
-  project: osg-networking
-- title: Network Function Virtualization Report and Next Steps for Experiments
-  date: 2020-01-14
-  url: https://indico.cern.ch/event/828520/contributions/3699233/attachments/1968544/3274004/Network-Discussion-LHCOPN_LHCONE-2020.pdf
-  meeting: LHCONE/LHCOPN Meeting
-  meetingurl: https://indico.cern.ch/event/828520/
-  location: CERN, Geneva, Switzerland
-  focus-area: osglhc
-  project: osg-networking
-- title: Updates on OSG/WLCG perfSONAR Network Monitoring and Analytics
-  date: 2020-01-15
-  url: https://indico.cern.ch/event/813757/contributions/3698520/attachments/1969584/3276449/Updates_on_OSG_WLCG_perfSONAR_Network_Monitoring_and_Analytics_2.pdf
-  meeting: Grid Deployment Board
-  meetingurl: https://indico.cern.ch/event/813757/
-  location: CERN, Geneva, Switzerland
-  focus-area: osglhc
-  project: osg-networking
-- title: LHCONE/LHCOPN Meeting Summary
-  date: 2020-01-15
-  url: https://indico.cern.ch/event/813757/contributions/3698521/attachments/1969608/3276108/LHCOPNE-20200114-CERN-meeting-report-v1.0.pptx_1.pdf
-  meeting: Grid Deployment Board
-  meetingurl: https://indico.cern.ch/event/813757/
-  location: CERN, Geneva, Switzerland
-  focus-area: osglhc
-  project: osg-networking
-- title: OSG Network Monitoring (poster)
-  date: 2020-02-27
-  url: https://indico.cern.ch/event/894127/attachments/1996570/3331193/23_-_IRIS-HEP_LHC-OSG_Network_Monitoring.pdf
-  meeting: IRIS-HEP Poster Session
-  meetingurl: https://indico.cern.ch/event/894127/
-  location: Princeton, New Jersey, US
-  focus-area: osglhc
-  project: osg-networking
-- title: 'USATLAS: OSG/WLCG perfSONAR Network Monitoring and Analytics'
-  date: 2020-04-01
-  url: https://indico.cern.ch/event/895416/contributions/3775747/attachments/2013505/3364898/go
-  meeting: USATLAS Facilities Meeting
-  meetingurl: https://indico.cern.ch/event/895416/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: New National Science Foundation International Research and education Network
-    Connections Testbed Solicitation
-  date: 2020-04-14
-  url: https://indico.cern.ch/event/870360/contributions/3670577/attachments/2019180/3376379/WLCG-IRNC-April-14-2020.pdf
-  meeting: WLCG Management Board
-  meetingurl: https://indico.cern.ch/event/870360/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: FABRIC for High-Energy Physics Prototyping
-  date: 2020-04-16
-  url: https://drive.google.com/drive/u/0/folders/1Sp_m_9j1_x747B6CR0zhc2dM-JcoDvcz
-  meeting: FABRIC Community Workshop
-  meetingurl: https://fabric-testbed.net/events/fabric-community-workshop-2020
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: 'Networking: Status and Discussion'
-  date: 2020-05-05
-  url: https://docs.google.com/presentation/d/1OIKGxvq4vkPzUkXtx06LJ8Ka569Zyi8PFWYYrQNkmsE/edit#slide=id.g76f5dacfb4_0_90
-  meeting: ATLAS Distributed Data Management Roundtable
-  meetingurl: https://indico.cern.ch/event/915025/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: The SAND Project and a New Research Networking Technical Working Group
-  date: 2020-05-12
-  url: https://docs.google.com/presentation/d/1ui5cVngu72c3DsiAtpBJWKZ3jKiC_1nCCxS-kmG9NCM/edit?usp=sharing
-  meeting: Internet2 Community Measurement, Metrics and Telemetry Meeting
-  meetingurl: https://docs.google.com/document/d/1A_6Ooowm33MZR3A-fuTnhGwIUX6UEeaPumRfGUSBEgI/edit?usp=sharing
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Report on the Research Networking Technical WG
-  date: 2020-05-12
-  url: https://docs.google.com/presentation/d/1Rfr-zLrd2gYhiIgTag9XMIEPRcD9ireGOisGY3xRfOY/edit#slide=id.g8036819354_0_7
-  meeting: Internet2 Community Measurement, Metrics and Telemetry Meeting
-  meetingurl: https://docs.google.com/document/d/1A_6Ooowm33MZR3A-fuTnhGwIUX6UEeaPumRfGUSBEgI/edit?usp=sharing
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: LHCOPN/LHCONE perfSONAR Update
-  date: 2020-05-13
-  url: https://indico.cern.ch/event/888924/contributions/3792412/attachments/2037674/3412900/LHCOPN_LHCONE_perfSONAR_Update_2020spring.pdf
-  meeting: LHCONE/LHCOPN Spring 2020 Meeting
-  meetingurl: https://indico.cern.ch/event/888924/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Research Network Technology Working Group
-  date: 2020-05-13
-  url: https://indico.cern.ch/event/888924/contributions/3792419/attachments/2037093/3411000/Research_Networking_Technical_Working_Group.pdf
-  meeting: LHCONE/LHCOPN Spring 2020 Meeting
-  meetingurl: https://indico.cern.ch/event/888924/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: IPv6 and RNTWG Sub-groups
-  date: 2020-06-03
-  url: https://indico.cern.ch/event/924996/contributions/3887247/attachments/2049467/3436039/IPv6_and_RNTWG_Sub-Groups.pdf
-  meeting: HEPiX IPv6 Working Group
-  meetingurl: https://indico.cern.ch/event/924996/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Research Networking Technical WG (RNTWG) Update
-  date: 2020-09-16
-  url: https://indico.cern.ch/event/932306/contributions/3937507/attachments/2104416/3538776/Research_Networking_Technical_Working_Group_Update.pdf
-  meeting: LHCONE/LHCOPN Fall 2020 Meeting
-  meetingurl: https://indico.cern.ch/event/932306/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Update from RNTWG - Packet Marking Subgroup
-  date: 2020-09-29
-  url: https://indico.cern.ch/event/959585/contributions/4034267/attachments/2111250/3551438/Update_from_RNTWG_-_Packet_Marking_Subgroup.pdf
-  meeting: HEPiX IPv6 Working Group
-  meetingurl: https://indico.cern.ch/event/959585/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Update on the Packet Marking WG
-  date: 2021-01-19
-  url: https://indico.cern.ch/event/995980/contributions/4185460/attachments/2174072/3670811/Update%20on%20the%20Packet%20Marking%20WG%20%281%29.pdf
-  meeting: HEPiX IPv6 Working Group Virtual F2F
-  meetingurl: https://indico.cern.ch/event/995980/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Network Topics For Discussion
-  date: 2021-03-05
-  url: https://indico.fnal.gov/event/47040/contributions/209607/subcontributions/7880/attachments/140685/176868/OSG-AHM-2021_Network_Topics_Part_1.pdf
-  meeting: Open Science Grid All-Hands Meeting, Joint USATLAS-USCMS Session
-  meetingurl: https://indico.fnal.gov/event/47040/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: WLCG/OSG Network Activities, Status and Plans
-  date: 2021-03-16
-  url: https://indico.cern.ch/event/995485/contributions/4256471/attachments/2209460/3739050/HEPiX%20perfSONAR%20Update%20Spring%202021.pdf
-  meeting: HEPiX Spring 2021 Meeting
-  meetingurl: https://indico.cern.ch/event/995485/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: LHCOPN/LHCONE Monitoring Updated
-  date: 2021-03-23
-  url: https://indico.cern.ch/event/983436/contributions/4232157/attachments/2213899/3748225/LHCONE%20Monitoring%20Update%20Spring%202021.pdf
-  meeting: LHCONE/LHCOPN Spring 2021 Meeting
-  meetingurl: https://indico.cern.ch/event/983436/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Network Monitoring R&D (and data challenge needs)
-  date: 2021-04-27
-  url: https://indico.cern.ch/event/1027287/contributions/4335184/attachments/2234157/3786307/Network%20Monitoring%20R%26D.pdf
-  meeting: Data Challenge Monitoring Mini-Workshop
-  meetingurl: https://indico.cern.ch/event/1027287/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Networking for the HL-LHC Era
-  date: 2021-10-07
-  url: https://indico.cern.ch/event/1077170/contributions/4544107/attachments/2324220/3958785/ATLAS-S%26C-Networking.pdf
-  meeting: ATLAS Software and Computing, ADC Session Towards Run-4
-  meetingurl: https://indico.cern.ch/event/1077170/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: LHCOPN/LHCONE Monitoring Update
-  meeting: Fall 2021 LHCOPN/LHCONE Meeting
-  date: 2021-10-11
-  location: Zoom
-  meetingurl: https://indico.cern.ch/event/1022426/
-  url: https://indico.cern.ch/event/1022426/contributions/4492282/attachments/2325716/3961710/LHCONE%20Monitoring%20Update%20Fall%202021.pdf
-  focus-area: osglhc
-  project: osg-networking
-- title: Research Network Technical WG Update
-  meeting: Fall 2021 LHCOPN/LHCONE Meeting
-  date: 2021-10-11
-  location: Zoom
-  meetingurl: https://indico.cern.ch/event/1022426/
-  url: https://indico.cern.ch/event/1022426/contributions/4492285/attachments/2326491/3963219/Research%20Network%20Technical%20WG%20update.pdf
-  focus-area: doma
-  project: osg-networking
-- title: FABRIC and FAB Project Overviews and Status
-  meeting: Fall 2021 LHCOPN/LHCONE Meeting
-  date: 2021-10-12
-  url: https://indico.cern.ch/event/1022426/contributions/4535879/attachments/2326546/3963506/FAB%20and%20FABRIC%20at%20the%20LHCOPN_LHCONE%20Meeting.pdf
-  meetingurl: https://indico.cern.ch/event/1077170/
-  location: Zoom
-  focus-area: doma
-  project: osg-networking
-- title: WLCG Network Monitoring and Analytics Update
-  meeting: Fall 2021 HEPiX Meeting
-  date: 2021-10-28
-  url: https://indico.cern.ch/event/1078853/contributions/4576365/attachments/2335971/3981565/WLCG%20Network%20Monitoring%20and%20Analytics.pdf
-  meetingurl: https://indico.cern.ch/event/1078853
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Using perfSONAR for WLCG and its Data Challenges
-  meeting: Internet2/TechEXtra21 perfSONAR Day
-  date: 2021-11-03
-  url: https://www.youtube.com/watch?v=PxUXKhAdfXc
-  meetingurl: https://internet2.edu/i2-techextra/techextra-schedule/perfsonar-day-2021/
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: The Service Analysis and Network Diagnosis (SAND) Data Pipeline
-  meeting: Supercomputing 2021 INDIS Workshop
-  date: 2021-11-15
-  meetingurl: https://scinet.supercomputing.org/community/indis/previous-editions/sc21-indis/indis-2021-workshop-materials/
-  url: https://scinet.supercomputing.org/community/documents/129/INDIS2021_PaperTalk_McKee.pdf
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Packet and Flow Marking Technical Specification Update
-  url: https://docs.google.com/presentation/d/1TJyqDL3HD0db72zzcEg034Cv8XPIxd-zdDigIASqMR0/edit?usp=sharing
-  meeting: Research Networking Technical Working Group Meeting
-  meetingurl: https://indico.cern.ch/event/1117851/
-  date: 2022-01-27
-  location: Zoom
-  focus-area: doma
-  project: osg-networking
-- title: Scientific Network Tags Packet and Flow Marking
-  url: https://indico.cern.ch/event/1131981/contributions/4750084/attachments/2400676/4105465/BDT_%20Scitags_%20Packet%20and%20Flow%20Marking%20.pdf
-  meeting: WLCG DOMA Bulk Data Transfer (BDT) WG
-  meetingurl: https://indico.cern.ch/event/1131981/
-  date: 2022-03-02
-  location: Zoom
-  focus-area: doma
-  project: osg-networking
-- title: LHCOPN/LHCONE Monitoring Update
-  url: https://indico.cern.ch/event/1110783/contributions/4689023/attachments/2417178/4136657/LHCONE%20Monitoring%20Update%20Spring%202022.pdf
-  meeting: LHCOPN-LHCONE meeting #48
-  meetingurl: https://indico.cern.ch/event/1110783/
-  date: 2022-03-29
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Research Networking Technical WG Update
-  url: https://indico.cern.ch/event/1110783/contributions/4689272/attachments/2418081/4138391/LHCONE_LHCOPN%20Research%20Networking%20Technical%20WG%20Update.pdf
-  meeting: LHCOPN-LHCONE meeting #48
-  meetingurl: https://indico.cern.ch/event/1110783/
-  date: 2022-03-30
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Networking Activities and Plans
-  url: https://indico.fnal.gov/event/53029/contributions/236914/attachments/153174/198675/OSG-AHM-2022_Network%20Activities%20and%20Plans.pdf
-  meeting: OSG 2022 All-Hands Meeting, Joint LHC Session
-  meetingurl: https://indico.fnal.gov/event/53029/timetable/#20220318
-  date: 2022-03-18
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
-- title: Research Networking Technical WG Status and Plans
-  url: https://indico.cern.ch/event/1123214/contributions/4833642/attachments/2431602/4164061/HEPiX%20Spring%202022%20-%20RNTWG%20Update.pdf
-  meeting: Spring 2022 HEPiX Meeting
-  meetingurl: https://indico.cern.ch/event/1123214
-  date: 2022-04-26
-  location: Zoom
-  focus-area: doma
-  project: osg-networking
-- title: Networking Topics for Science - Activities and Plans
-  url: https://indico.cern.ch/event/1138837/contributions/4848252/attachments/2435563/4171121/IRIS-HEP-Topical-Networking-ShawnMcKee.pdf
-  meeting: "IRIS-HEP Topical Meeting: What's going on in Networking"
-  meetingurl: https://indico.cern.ch/event/11388376
-  date: 2022-05-02
-  location: Zoom
-  focus-area: osglhc
-  project: osg-networking
+  - title: WLCG/OSG Network Activities, Status and Plans
+    date: 2019-03-26
+    url: https://indico.cern.ch/event/765497/contributions/3351215/attachments/1818575/2973383/HEPiX_Spring_2019_OSG_WLCG_Networking_Update.pdf
+    meeting: HEPiX Spring 2019
+    meetingurl: https://indico.cern.ch/event/765497
+    location: San Diego, CA, US
+    focus-area: osglhc
+    project: osg-networking
+  - title: "OSG Networking: Status, Collaborations and Plans"
+    date: 2019-03-20
+    url: https://indico.cern.ch/event/759388/contributions/3352523/attachments/1815087/2966245/OSG_Networking__Status_Collaborations_and_Plans.pdf
+    meeting: Joint HSF/OSG/WLCG Workshop (HOW2019)
+    meetingurl: https://indico.cern.ch/event/759388
+    location: Newport News, VA, US
+    focus-area: osglhc
+    project: osg-networking
+  - title: "Scientific Data Lifecycle: Perspectives from an LHC Physicist"
+    date: 2019-03-06
+    url: https://www.nitrd.gov/nitrdgroups/images/9/98/Scientific-Data-Lifecycle-Shawn-McKee.pdf
+    meeting: MAGIC Meeting
+    meetingurl: https://www.nitrd.gov/nitrdgroups/index.php?title=MAGIC-Meetings-2019
+    location: Videoconference
+    focus-area: doma
+    project:
+  - title: LHCOPN/LHCONE perfSONAR Update
+    date: 2019-06-04
+    url: https://indico.cern.ch/event/772031/contributions/3360614/attachments/1855592/3047650/LHCOPN_LHCONE_perfSONAR_Update_2019spring.pdf
+    meeting: LHCONE/LHCOPN Meeting
+    meetingurl: https://indico.cern.ch/event/772031
+    location: Umea, Sweden
+    focus-area: osglhc
+    project: osg-networking
+  - title: The Service Analysis and Network Diagnostic (SAND) Project
+    date: 2019-07-02
+    url: https://wiki.geant.org/download/attachments/123774072/SIG-PMV-DUblin-SAND-McKee-02-Jul-2019.pdf?version=2&modificationDate=1562073472330&api=v2
+    meeting:
+      The 6th Special Interest Group on Performance Monitoring and Verification
+      Meeting
+    meetingurl: https://wiki.geant.org/display/PMV/6th+SIG-PMV+Meeting+@+Dublin
+    location: Dublin, Ireland
+    focus-area: osglhc
+    project: osg-networking
+  - title: Data Lakes, Data Caching for Science and the OSIRIS Distributed Storage System
+    date: 2019-09-18
+    url: http://grp-workshop-2019.ucsd.edu/presentations/3_McKEE-GRP-2019-OSIRIS-Caching.pdf
+    meeting: The Global Research Platform Workshop
+    meetingurl: http://grp-workshop-2019.ucsd.edu/
+    location: San Diego, California
+    focus-area: doma
+    project:
+  - title: WLCG/OSG Network Activities, Status and Plans
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/810635/contributions/3593246/attachments/1926442/3223199/HEPiX_Fall_2019_OSG_WLCG_Networking_Update.pdf
+    meeting: The Fall 2019 HEPiX Meeting
+    meetingurl: https://indico.cern.ch/event/810635/
+    location: Amsterdam, Netherlands
+    focus-area: osglhc
+    project: osg-networking
+  - title: Network Function Virtualization Working Group Update
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/810635/contributions/3593247/attachments/1927128/3223214/HEPiX_Network_Virtualisation_Working_Group_Update_Oct_2019_HEPiX.pdf
+    meeting: The Fall 2019 HEPiX Meeting
+    meetingurl: https://indico.cern.ch/event/810635/
+    location: Amsterdam, Netherlands
+    focus-area: osglhc
+    project: osg-networking
+  - title: The SAND Project a the Halfway Point
+    date: 2019-10-16
+    url: https://indico.cern.ch/event/810635/contributions/3593348/attachments/1926847/3223164/HEPiX-SAND-Fall-2019.pdf
+    meeting: The Fall 2019 HEPiX Meeting
+    meetingurl: https://indico.cern.ch/event/810635/
+    location: Amsterdam, Netherlands
+    focus-area: osglhc
+    project: osg-networking
+  - title: "WLCG Networks: Update on Monitoring and Analytics"
+    date: 2019-11-04
+    url: https://indico.cern.ch/event/773049/contributions/3473823/attachments/1937475/3213791/CHEP_2019_OSG_WLCG_Networking_Update.pdf
+    meeting: CHEP2019
+    meetingurl: http://chep2019.org/
+    location: Adelaide, Australia
+    focus-area: osglhc
+    project: osg-networking
+  - title: A distributed R&D storage platform implementing quality of service
+    date: 2019-11-05
+    url: https://indico.cern.ch/event/773049/contributions/3474403/attachments/1937924/3212138/CHEP-RandD-DataLake-v2.pdf
+    meeting: CHEP2019
+    meetingurl: http://chep2019.org/
+    location: Adelaide, Australia
+    focus-area: doma
+    project:
+  - title: Network Capabilities for the HL-LHC Era
+    date: 2019-11-07
+    url: https://indico.cern.ch/event/773049/contributions/3473832/attachments/1939678/3215613/CHEP_Network_Capabilities_for_HL-LHC_Nov_19.pdf
+    meeting: CHEP2019
+    meetingurl: http://chep2019.org/
+    location: Adelaide, Australia
+    focus-area: osglhc
+    project: osg-networking
+  - title: perfSONAR Analytics
+    date: 2019-12-03
+    url: https://indico.cern.ch/event/823341/contributions/3645036/attachments/1955228/3247468/perfSONAR_Analytics.pdf
+    meeting: ATLAS Software and Computing Week
+    meetingurl: https://indico.cern.ch/event/823341/
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+    project: osg-networking
+  - title: Network Function Virtualization Report and Next Steps for Experiments
+    date: 2020-01-14
+    url: https://indico.cern.ch/event/828520/contributions/3699233/attachments/1968544/3274004/Network-Discussion-LHCOPN_LHCONE-2020.pdf
+    meeting: LHCONE/LHCOPN Meeting
+    meetingurl: https://indico.cern.ch/event/828520/
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+    project: osg-networking
+  - title: Updates on OSG/WLCG perfSONAR Network Monitoring and Analytics
+    date: 2020-01-15
+    url: https://indico.cern.ch/event/813757/contributions/3698520/attachments/1969584/3276449/Updates_on_OSG_WLCG_perfSONAR_Network_Monitoring_and_Analytics_2.pdf
+    meeting: Grid Deployment Board
+    meetingurl: https://indico.cern.ch/event/813757/
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+    project: osg-networking
+  - title: LHCONE/LHCOPN Meeting Summary
+    date: 2020-01-15
+    url: https://indico.cern.ch/event/813757/contributions/3698521/attachments/1969608/3276108/LHCOPNE-20200114-CERN-meeting-report-v1.0.pptx_1.pdf
+    meeting: Grid Deployment Board
+    meetingurl: https://indico.cern.ch/event/813757/
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+    project: osg-networking
+  - title: OSG Network Monitoring (poster)
+    date: 2020-02-27
+    url: https://indico.cern.ch/event/894127/attachments/1996570/3331193/23_-_IRIS-HEP_LHC-OSG_Network_Monitoring.pdf
+    meeting: IRIS-HEP Poster Session
+    meetingurl: https://indico.cern.ch/event/894127/
+    location: Princeton, New Jersey, US
+    focus-area: osglhc
+    project: osg-networking
+  - title: "USATLAS: OSG/WLCG perfSONAR Network Monitoring and Analytics"
+    date: 2020-04-01
+    url: https://indico.cern.ch/event/895416/contributions/3775747/attachments/2013505/3364898/go
+    meeting: USATLAS Facilities Meeting
+    meetingurl: https://indico.cern.ch/event/895416/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title:
+      New National Science Foundation International Research and education Network
+      Connections Testbed Solicitation
+    date: 2020-04-14
+    url: https://indico.cern.ch/event/870360/contributions/3670577/attachments/2019180/3376379/WLCG-IRNC-April-14-2020.pdf
+    meeting: WLCG Management Board
+    meetingurl: https://indico.cern.ch/event/870360/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: FABRIC for High-Energy Physics Prototyping
+    date: 2020-04-16
+    url: https://drive.google.com/drive/u/0/folders/1Sp_m_9j1_x747B6CR0zhc2dM-JcoDvcz
+    meeting: FABRIC Community Workshop
+    meetingurl: https://fabric-testbed.net/events/fabric-community-workshop-2020
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: "Networking: Status and Discussion"
+    date: 2020-05-05
+    url: https://docs.google.com/presentation/d/1OIKGxvq4vkPzUkXtx06LJ8Ka569Zyi8PFWYYrQNkmsE/edit#slide=id.g76f5dacfb4_0_90
+    meeting: ATLAS Distributed Data Management Roundtable
+    meetingurl: https://indico.cern.ch/event/915025/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: The SAND Project and a New Research Networking Technical Working Group
+    date: 2020-05-12
+    url: https://docs.google.com/presentation/d/1ui5cVngu72c3DsiAtpBJWKZ3jKiC_1nCCxS-kmG9NCM/edit?usp=sharing
+    meeting: Internet2 Community Measurement, Metrics and Telemetry Meeting
+    meetingurl: https://docs.google.com/document/d/1A_6Ooowm33MZR3A-fuTnhGwIUX6UEeaPumRfGUSBEgI/edit?usp=sharing
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Report on the Research Networking Technical WG
+    date: 2020-05-12
+    url: https://docs.google.com/presentation/d/1Rfr-zLrd2gYhiIgTag9XMIEPRcD9ireGOisGY3xRfOY/edit#slide=id.g8036819354_0_7
+    meeting: Internet2 Community Measurement, Metrics and Telemetry Meeting
+    meetingurl: https://docs.google.com/document/d/1A_6Ooowm33MZR3A-fuTnhGwIUX6UEeaPumRfGUSBEgI/edit?usp=sharing
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: LHCOPN/LHCONE perfSONAR Update
+    date: 2020-05-13
+    url: https://indico.cern.ch/event/888924/contributions/3792412/attachments/2037674/3412900/LHCOPN_LHCONE_perfSONAR_Update_2020spring.pdf
+    meeting: LHCONE/LHCOPN Spring 2020 Meeting
+    meetingurl: https://indico.cern.ch/event/888924/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Research Network Technology Working Group
+    date: 2020-05-13
+    url: https://indico.cern.ch/event/888924/contributions/3792419/attachments/2037093/3411000/Research_Networking_Technical_Working_Group.pdf
+    meeting: LHCONE/LHCOPN Spring 2020 Meeting
+    meetingurl: https://indico.cern.ch/event/888924/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: IPv6 and RNTWG Sub-groups
+    date: 2020-06-03
+    url: https://indico.cern.ch/event/924996/contributions/3887247/attachments/2049467/3436039/IPv6_and_RNTWG_Sub-Groups.pdf
+    meeting: HEPiX IPv6 Working Group
+    meetingurl: https://indico.cern.ch/event/924996/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Research Networking Technical WG (RNTWG) Update
+    date: 2020-09-16
+    url: https://indico.cern.ch/event/932306/contributions/3937507/attachments/2104416/3538776/Research_Networking_Technical_Working_Group_Update.pdf
+    meeting: LHCONE/LHCOPN Fall 2020 Meeting
+    meetingurl: https://indico.cern.ch/event/932306/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Update from RNTWG - Packet Marking Subgroup
+    date: 2020-09-29
+    url: https://indico.cern.ch/event/959585/contributions/4034267/attachments/2111250/3551438/Update_from_RNTWG_-_Packet_Marking_Subgroup.pdf
+    meeting: HEPiX IPv6 Working Group
+    meetingurl: https://indico.cern.ch/event/959585/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Update on the Packet Marking WG
+    date: 2021-01-19
+    url: https://indico.cern.ch/event/995980/contributions/4185460/attachments/2174072/3670811/Update%20on%20the%20Packet%20Marking%20WG%20%281%29.pdf
+    meeting: HEPiX IPv6 Working Group Virtual F2F
+    meetingurl: https://indico.cern.ch/event/995980/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Network Topics For Discussion
+    date: 2021-03-05
+    url: https://indico.fnal.gov/event/47040/contributions/209607/subcontributions/7880/attachments/140685/176868/OSG-AHM-2021_Network_Topics_Part_1.pdf
+    meeting: Open Science Grid All-Hands Meeting, Joint USATLAS-USCMS Session
+    meetingurl: https://indico.fnal.gov/event/47040/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: WLCG/OSG Network Activities, Status and Plans
+    date: 2021-03-16
+    url: https://indico.cern.ch/event/995485/contributions/4256471/attachments/2209460/3739050/HEPiX%20perfSONAR%20Update%20Spring%202021.pdf
+    meeting: HEPiX Spring 2021 Meeting
+    meetingurl: https://indico.cern.ch/event/995485/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: LHCOPN/LHCONE Monitoring Updated
+    date: 2021-03-23
+    url: https://indico.cern.ch/event/983436/contributions/4232157/attachments/2213899/3748225/LHCONE%20Monitoring%20Update%20Spring%202021.pdf
+    meeting: LHCONE/LHCOPN Spring 2021 Meeting
+    meetingurl: https://indico.cern.ch/event/983436/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Network Monitoring R&D (and data challenge needs)
+    date: 2021-04-27
+    url: https://indico.cern.ch/event/1027287/contributions/4335184/attachments/2234157/3786307/Network%20Monitoring%20R%26D.pdf
+    meeting: Data Challenge Monitoring Mini-Workshop
+    meetingurl: https://indico.cern.ch/event/1027287/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Networking for the HL-LHC Era
+    date: 2021-10-07
+    url: https://indico.cern.ch/event/1077170/contributions/4544107/attachments/2324220/3958785/ATLAS-S%26C-Networking.pdf
+    meeting: ATLAS Software and Computing, ADC Session Towards Run-4
+    meetingurl: https://indico.cern.ch/event/1077170/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: LHCOPN/LHCONE Monitoring Update
+    meeting: Fall 2021 LHCOPN/LHCONE Meeting
+    date: 2021-10-11
+    location: Zoom
+    meetingurl: https://indico.cern.ch/event/1022426/
+    url: https://indico.cern.ch/event/1022426/contributions/4492282/attachments/2325716/3961710/LHCONE%20Monitoring%20Update%20Fall%202021.pdf
+    focus-area: osglhc
+    project: osg-networking
+  - title: Research Network Technical WG Update
+    meeting: Fall 2021 LHCOPN/LHCONE Meeting
+    date: 2021-10-11
+    location: Zoom
+    meetingurl: https://indico.cern.ch/event/1022426/
+    url: https://indico.cern.ch/event/1022426/contributions/4492285/attachments/2326491/3963219/Research%20Network%20Technical%20WG%20update.pdf
+    focus-area: doma
+    project: osg-networking
+  - title: FABRIC and FAB Project Overviews and Status
+    meeting: Fall 2021 LHCOPN/LHCONE Meeting
+    date: 2021-10-12
+    url: https://indico.cern.ch/event/1022426/contributions/4535879/attachments/2326546/3963506/FAB%20and%20FABRIC%20at%20the%20LHCOPN_LHCONE%20Meeting.pdf
+    meetingurl: https://indico.cern.ch/event/1077170/
+    location: Zoom
+    focus-area: doma
+    project: osg-networking
+  - title: WLCG Network Monitoring and Analytics Update
+    meeting: Fall 2021 HEPiX Meeting
+    date: 2021-10-28
+    url: https://indico.cern.ch/event/1078853/contributions/4576365/attachments/2335971/3981565/WLCG%20Network%20Monitoring%20and%20Analytics.pdf
+    meetingurl: https://indico.cern.ch/event/1078853
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Using perfSONAR for WLCG and its Data Challenges
+    meeting: Internet2/TechEXtra21 perfSONAR Day
+    date: 2021-11-03
+    url: https://www.youtube.com/watch?v=PxUXKhAdfXc
+    meetingurl: https://internet2.edu/i2-techextra/techextra-schedule/perfsonar-day-2021/
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: The Service Analysis and Network Diagnosis (SAND) Data Pipeline
+    meeting: Supercomputing 2021 INDIS Workshop
+    date: 2021-11-15
+    meetingurl: https://scinet.supercomputing.org/community/indis/previous-editions/sc21-indis/indis-2021-workshop-materials/
+    url: https://scinet.supercomputing.org/community/documents/129/INDIS2021_PaperTalk_McKee.pdf
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Packet and Flow Marking Technical Specification Update
+    url: https://docs.google.com/presentation/d/1TJyqDL3HD0db72zzcEg034Cv8XPIxd-zdDigIASqMR0/edit?usp=sharing
+    meeting: Research Networking Technical Working Group Meeting
+    meetingurl: https://indico.cern.ch/event/1117851/
+    date: 2022-01-27
+    location: Zoom
+    focus-area: doma
+    project: osg-networking
+  - title: Scientific Network Tags Packet and Flow Marking
+    url: https://indico.cern.ch/event/1131981/contributions/4750084/attachments/2400676/4105465/BDT_%20Scitags_%20Packet%20and%20Flow%20Marking%20.pdf
+    meeting: WLCG DOMA Bulk Data Transfer (BDT) WG
+    meetingurl: https://indico.cern.ch/event/1131981/
+    date: 2022-03-02
+    location: Zoom
+    focus-area: doma
+    project: osg-networking
+  - title: LHCOPN/LHCONE Monitoring Update
+    url: https://indico.cern.ch/event/1110783/contributions/4689023/attachments/2417178/4136657/LHCONE%20Monitoring%20Update%20Spring%202022.pdf
+    meeting: LHCOPN-LHCONE meeting #48
+    meetingurl: https://indico.cern.ch/event/1110783/
+    date: 2022-03-29
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Research Networking Technical WG Update
+    url: https://indico.cern.ch/event/1110783/contributions/4689272/attachments/2418081/4138391/LHCONE_LHCOPN%20Research%20Networking%20Technical%20WG%20Update.pdf
+    meeting: LHCOPN-LHCONE meeting #48
+    meetingurl: https://indico.cern.ch/event/1110783/
+    date: 2022-03-30
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Networking Activities and Plans
+    url: https://indico.fnal.gov/event/53029/contributions/236914/attachments/153174/198675/OSG-AHM-2022_Network%20Activities%20and%20Plans.pdf
+    meeting: OSG 2022 All-Hands Meeting, Joint LHC Session
+    meetingurl: https://indico.fnal.gov/event/53029/timetable/#20220318
+    date: 2022-03-18
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Research Networking Technical WG Status and Plans
+    url: https://indico.cern.ch/event/1123214/contributions/4833642/attachments/2431602/4164061/HEPiX%20Spring%202022%20-%20RNTWG%20Update.pdf
+    meeting: Spring 2022 HEPiX Meeting
+    meetingurl: https://indico.cern.ch/event/1123214
+    date: 2022-04-26
+    location: Zoom
+    focus-area: doma
+    project: osg-networking
+  - title: Networking Topics for Science - Activities and Plans
+    url: https://indico.cern.ch/event/1138837/contributions/4848252/attachments/2435563/4171121/IRIS-HEP-Topical-Networking-ShawnMcKee.pdf
+    meeting: "IRIS-HEP Topical Meeting: What's going on in Networking"
+    meetingurl: https://indico.cern.ch/event/11388376
+    date: 2022-05-02
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: OSG Networking Update
+    url: https://docs.google.com/presentation/d/1SrC9_DKz1u6z3_PmMc1QctVT630e8cbhngwfG-pZA6Y/edit?usp=sharing
+    meeting: "OSG/PATh Staff Meeting"
+    meetingurl: https://osg-htc.org/management/staff-meeting/
+    date: 2022-05-11
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: WLCG Site Network Monitoring
+    url: https://docs.google.com/presentation/d/1D7HPTEv-98hPIZYcP_vUPcPOvprpVd8dpErTo1UjinM/edit?usp=sharing
+    meeting: "WLCG Ops Coordination"
+    meetingurl: https://indico.cern.ch/event/1166315/
+    date: 2022-06-02
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: ATLAS Site Network Monitoring
+    url: https://indico.cern.ch/event/1163923/contributions/4912422/attachments/2460422/4218370/ATLAS%20Site-Network-Monitoring_Shawn-McKee.pdf
+    meeting: "ATLAS Software & Computing Week Sites Round Table"
+    meetingurl: https://indico.cern.ch/event/1163923/
+    date: 2022-06-13
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Networking Analytics Activities
+    url: https://indico.cern.ch/event/1184398/contributions/5008595/attachments/2494612/4284886/Network%20Monitoring%20and%20Analytics.pdf
+    meeting: "ATLAS ADC Analytics"
+    meetingurl: https://indico.cern.ch/event/1184398/
+    date: 2022-08-19
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking

@@ -1,5 +1,6 @@
 inspire-id: 1864766
+nsf-par-id: 10354360
 project:
-- ml4jets
-- exploratory-ml
+  - ml4jets
+  - exploratory-ml
 citation: "The 25th International Conference on Computing in High-Energy and Nuclear Physics, vCHEP 2021."

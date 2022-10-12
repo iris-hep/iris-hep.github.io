@@ -1,6 +1,7 @@
 active: true
 focus-area:
-- ssc
+  - ia
+  - ssc
 institution: Princeton University
 name: Kilian Lieret
 photo: /assets/images/team/Kilian-Lieret.jpg

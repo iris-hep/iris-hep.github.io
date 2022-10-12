@@ -1,6 +1,6 @@
 active: true
 focus-area:
-- ia
+  - ia
 institution: Massachusetts Institute of Technology
 name: Dylan Rankin
 photo: "/assets/images/team/Dylan-Rankin.jpg"
@@ -8,20 +8,19 @@ shortname: drankincms
 title:
 website:
 presentations:
-- title: Using ML on FPGAs to enhance reconstruction output
-  date: 2019-02-13
-  url: https://indico.cern.ch/event/797510/contributions/3313676/attachments/1795772/2927344/irishep_dsr_hls4ml_13feb2019.pdf
-  meeting: IRIS-HEP Topical Meeting
-  meetingurl: https://indico.cern.ch/event/797510/
-  location:
-  focus-area: ia
-  project: caloreco-mlaas
+  - title: Using ML on FPGAs to enhance reconstruction output
+    date: 2019-02-13
+    url: https://indico.cern.ch/event/797510/contributions/3313676/attachments/1795772/2927344/irishep_dsr_hls4ml_13feb2019.pdf
+    meeting: IRIS-HEP Topical Meeting
+    meetingurl: https://indico.cern.ch/event/797510/
+    location:
+    focus-area: ia
+    project: caloreco-mlaas
 
-- title: FPGAs-as-a-Service Toolkit (FaaST)
-  date: 2020-09-09
-  url: https://sc20.supercomputing.org/proceedings/workshops/workshop_pages/ws_h2rc103.html
-  meeting: H2RC'20 (SC20)
-  meetingurl: https://sc20.supercomputing.org/proceedings/workshops/workshop_sessions.html#sess225
-  focus-area: ia
-  project: caloreco-mlaas
-
+  - title: FPGAs-as-a-Service Toolkit (FaaST)
+    date: 2020-09-09
+    url: https://sc20.supercomputing.org/proceedings/workshops/workshop_pages/ws_h2rc103.html
+    meeting: H2RC'20 (SC20)
+    meetingurl: https://sc20.supercomputing.org/proceedings/workshops/workshop_sessions.html#sess225
+    focus-area: ia
+    project: caloreco-mlaas

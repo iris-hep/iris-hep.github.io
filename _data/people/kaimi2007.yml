@@ -1,6 +1,6 @@
-active: true
+active: false
 focus-area:
-- doma
+  - doma
 institution: University of Nebraska - Lincoln
 name: Zhengkai Wu
 photo: "/assets/images/team/Zhengkai-Wu.jpg"
