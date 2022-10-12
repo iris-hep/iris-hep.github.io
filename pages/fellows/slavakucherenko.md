@@ -21,7 +21,12 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/207-proposal-Viacheslav-Kucherenko.pdf
 presentations:
- current_status: >
-  A placeholder for status updates
+- title: Machine Learning Based Tracking
+  date: 2022-09-28
+  url: https://indico.cern.ch/event/1195272/contributions/5064322/attachments/2518087/4329522/IRIS_project_presentation_V_Kucherenko.pdf
+  meeting: IRIS-HEP Final presentation
+  meetingurl: https://youtu.be/01mHSh-gnXs
+  recordingurl: https://youtu.be/l5ZN8fjPW9c
+  focus-area: ml
 github-username: slavakucherenko
 ---
