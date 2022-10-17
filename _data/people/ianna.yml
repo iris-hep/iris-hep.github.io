@@ -10,6 +10,16 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+  - title: Awkward <--> RDataFrame Status
+    date: 2022-10-06
+    url: https://github.com/ianna/Awkward-RDataFrame/blob/main/Awkward-RDataFrame-status-evaluated.ipynb
+    meeting: 143rd ROOT Parallelism, Performance and Programming Model Meeting
+    meetingurl: https://indico.cern.ch/event/1208767/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: Awkward RDataFrame Tutorial
     date: 2022-09-15
     url: https://indi.to/jh92b
