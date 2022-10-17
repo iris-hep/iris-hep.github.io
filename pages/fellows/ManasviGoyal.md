@@ -7,8 +7,8 @@ fellow-name: Manasvi Goyal
 title: Manasvi Goyal - IRIS-HEP Fellow
 active: True
 dates:
-  start: 2022-05-09
-  end: 2022-07-31
+  start: 2022-05-14
+  end: 2022-08-07
 photo: /assets/images/team/Manasvi-Goyal.jpg
 institution: Delhi Technological University
 e-mail: mg.manasvi@gmail.com
@@ -31,6 +31,23 @@ mentors:
 proposal: /assets/pdf/fellows-2022/007-proposal-Manasvi-Goyal.pdf
 
 presentations:
+  - title: "Accelerating Awkward Array Builders"
+    date: 2022-06-13
+    url: https://indico.cern.ch/event/1155137/#sc-1-5-manasvi-goyal-accelerat
+    meeting: IRIS-HEP Fellows Introductory Presentations
+    meetingurl: https://indico.cern.ch/event/1155137/
+    recordingurl: https://youtu.be/qgqQo_05rRo?t=1266
+    location: Virtual
+    focus-area: as
+
+  - title: "Accelerating Awkward Array Builders"
+    date: 2022-10-05
+    url: https://indico.cern.ch/event/1195273/#3-manasvi-goyal-accelerating-a
+    meeting: IRIS-HEP Fellows Presentations 2022
+    meetingurl: https://indico.cern.ch/event/1195273/
+    recordingurl: https://youtu.be/rjqnJbT7T1s?t=887
+    location: Virtual
+    focus-area: as
 
 current_status: >
 github-username: ManasviGoyal
