@@ -1,6 +1,7 @@
 ---
 layout: fellow
 pagetype: fellow
+shortname: amangoel185
 permalink: /fellows/amangoel185.html
 fellow-name: Aman Goel
 title: Aman Goel - IRIS-HEP Fellow
@@ -13,6 +14,7 @@ dates:
 photo: /assets/images/team/Aman-Goel.png
 institution: Cluster Innovation Centre, University of Delhi
 e-mail: aman.goel185@gmail.com
+focus-area: as
 
 projects:
 - project_title: Hist Serialization and Interactivity
@@ -44,13 +46,53 @@ projects:
   proposal: /assets/pdf/Fellow-Aman-Goel-Proposal.pdf
 
 presentations:
-- title: Advancing the Hist library
+- title: "Hist Serialization and Interactivity"
+  date: 2022-10-05
+  url: https://indico.cern.ch/event/1195273/#4-aman-goel-hist-serialization
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195273/
+  recordingurl: https://youtu.be/rjqnJbT7T1s?t=2329
+  focus-area: as
+
+- title: "Teaching Python the Sustainable Way: Lessons Learned at HSF Training"
+  date: 2022-09-12
+  url: https://indico.cern.ch/event/1150631/contributions/5014278/
+  meeting: PyHEP 2022 (virtual) Workshop
+  meetingurl: https://indico.cern.ch/event/1150631/
+  recordingurl: https://youtu.be/g6w3lpvN_gk
+  focus-area: ssc
+
+- title: "Histograms as Objects: Tools for Efficient Analysis and Interactivity"
+  date: 2022-09-12
+  url: https://indico.cern.ch/event/1150631/contributions/5014273/
+  meeting: PyHEP 2022 (virtual) Workshop
+  meetingurl: https://indico.cern.ch/event/1150631/
+  recordingurl: https://youtu.be/B48NGPL1j-A
+  focus-area: as
+
+- title: "boost-histogram / hist"
+  date: 2022-03-02
+  url: https://indico.cern.ch/event/1133099/#1-boost-histogram-hist
+  meeting: PyHEP WG topical meeting - boost-histogram / Hist
+  meetingurl: https://indico.cern.ch/event/1133099/
+  focus-area: as
+
+- title: "Advancing the Hist library"
   date: 2021-09-27
-  url: https://indico.cern.ch/event/1071405/contributions/4505122/attachments/2317546/3945470/presentation-IRIS-HEP-Aman-Goel.pdf
-  meeting: IRIS-HEP Topical Meetings
+  url: https://indico.cern.ch/event/1071405/#6-aman-goel-advancing-the-hist
+  meeting: IRIS-HEP Fellow presentations
   meetingurl: https://indico.cern.ch/event/1071405/
-  recordingurl: https://youtu.be/xdryv2yeLfQ
-  focus-area: AS
+  recordingurl: https://youtu.be/xdryv2yeLfQ?t=645
+  focus-area: as
+
+- title: High-Performance Histogramming for HEP Analysis
+  date: 2021-07-07
+  url: https://indico.cern.ch/event/1019958/contributions/4430375/
+  meeting: PyHEP 2021 (virtual) Workshop
+  meetingurl: https://indico.cern.ch/event/1019958/
+  recordingurl: https://youtu.be/jewb5q6_Rpk
+  focus-area: as
+
 current_status: >
 github-username: amangoel185
 
