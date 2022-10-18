@@ -12,6 +12,8 @@ dates:
 photo: /assets/images/team/Manasvi-Goyal.jpg
 institution: Delhi Technological University
 e-mail: mg.manasvi@gmail.com
+focus-area: as
+
 project_title: Accelerating Awkward Array Builders
 project_goal: >
      Awkward Array is a popular library for nested, variable-sized data, including arbitrary-length
