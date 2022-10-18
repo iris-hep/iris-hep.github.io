@@ -38,6 +38,15 @@ mentors:
   - Jim Pivarski (Princeton University)
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
+- title: Vector - Constructors, documentation, and benchmarks
+  date: 2022-10-05
+  url: https://indico.cern.ch/event/1195273/contributions/5075655/attachments/2522735/4338115/IRIS-HEP%20final%20presentation%20-%20Saransh%20Chopra.pdf
+  meeting: IRIS-HEP Fellowship Final Presentations
+  meetingurl: https://indico.cern.ch/event/1195273/
+  location: online
+  recordingurl: https://www.youtube.com/watch?v=rjqnJbT7T1s
+  focus-area: as
+  project: vector
 - title: Constructing HEP vectors and analyzing HEP data using Vector
   date: 2022-09-13
   url: https://indi.to/bPmMc
