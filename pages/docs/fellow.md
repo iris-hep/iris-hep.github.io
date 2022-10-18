@@ -41,6 +41,7 @@ dates:
 photo: /assets/images/team/<First name>-<Last name>.jpg
 institution: <Your institution>
 e-mail: <Your email>
+focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 project_title: <Project title>
 project_goal: >
     Short description of your project
