@@ -32,5 +32,12 @@ mentors:
 proposal: /assets/pdf/fellows-2022/071-proposal-Haoran-Sun.pdf
 github-username: hswhhe
 presentations:
+- title: Support for MiniAOD Transformer for ServiceX
+  date: 2022-10-19
+  url: https://indico.cern.ch/event/1199559/contributions/5097282/attachments/2531414/4355511/IRIS-HEP%20Presentation%20-%20Haoran%20Sun.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199559/
+  recordingurl: https://www.youtube.com/watch?v=gEaqn7C9ipY&ab_channel=IRIS-HEP
+  focus-area: as
 current_status:
 ---
