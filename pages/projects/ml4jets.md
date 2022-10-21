@@ -85,7 +85,7 @@ More recently, Sebastian Macaluso and Kyle Cranmer have worked to reframe many p
 
 <div class="row">
  <div class="col-4">
-    <img src="/assets/images/visualize_tree.png" width="100%" alt="exampple visualization" />
+    <img src="/assets/images/visualize_tree.png" width="100%" alt="example visualization" />
  </div>
  <div class="col-8">
 
