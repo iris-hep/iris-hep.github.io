@@ -26,15 +26,23 @@ presentations:
     meeting: "IRIS-HEP Fellows Introductory Presentations"
     meetingurl: "https://indico.cern.ch/event/1184316/"
     recordingurl: ""
-    focus-area: []
+    focus-area: [ia, as]
   - title: "SciFi-Velo matching optimization"
     date: 2022-08-23
     url: "https://indico.cern.ch/event/1189570/contributions/5014580/attachments/2495784/4286452/VA_Matching_optimization.pdf"
     meeting: "RTA: Reconstruction WP2 meeting"
     meetingurl: "https://indico.cern.ch/event/1189570/"
     recordingurl: ""
-    focus-area: []
+    focus-area: [ia, as]
+  - title: "Volodymyr Svintozelskyi - Development of high-performance reconstruction algorithms for detecting long-lived particles"
+    date: 2022-10-19
+    url: "https://indico.cern.ch/event/1199559/contributions/5097275/attachments/2531410/4355501/IRIS-HEP%20Final%20Svintozelskyi.pdf"
+    meeting: "IRIS-HEP Fellows Presentations 2022"
+    meetingurl: "https://indico.cern.ch/event/1199559/"
+    recordingurl: "https://youtu.be/gEaqn7C9ipY"
+    focus-area: [ia, as]
 current_status: >
   A placeholder for status updates
 github-username: VolodymyrSvintozelskyi
+gitlab-url: https://gitlab.cern.ch/lhcb/Allen
 ---
