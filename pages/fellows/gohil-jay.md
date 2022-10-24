@@ -23,6 +23,8 @@ institution: School of Technology PDEU
 
 e-mail: jay.gohil.info@gmail.com
 
+focus-area: as
+
 project_title: Features Extension, Inclusion & Rectification for Boost-Histogram
 
 project_goal: >
