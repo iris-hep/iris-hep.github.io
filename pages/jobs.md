@@ -35,4 +35,8 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 
   * [Computing Services Specialist](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Computing--Services-Specialist-I_R_005963) - Envisioned to have both sysadmin/technical and user-facing components supporting HPC users (e.g. Lattice QCD) as well as multiple HEP experiments across all frontiers.
 
+### University of Wisconsin&ndash;Madison
+
+*   [Research Computing positions](https://go.wisc.edu/chtc-rcf-hire) - Support the research goals of a diverse set of researchers who use computing for their work; two positions with somewhat different roles and ideal backgrounds.
+
 ### Others
