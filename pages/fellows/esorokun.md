@@ -25,7 +25,7 @@ presentations:
   meeting: IRIS-HEP Fellows Presentations 2022
   meetingurl: https://indico.cern.ch/event/1199559/
   recordingurl: https://youtu.be/gEaqn7C9ipY
-  focus-area: 
+  focus-area:
 current_status: >
   A placeholder for status updates
 github-username: esorokun

@@ -5,7 +5,7 @@ shortname: IvaKamie
 permalink: /fellows/IvaKamie.html
 fellow-name: Ivan Prinko
 title: Ivan Prinko - IRIS-HEP Fellow
-active: False 
+active: False
 dates:
   start: 2022-07-06
   end: 2022-09-14
