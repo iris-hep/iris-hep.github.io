@@ -5,7 +5,7 @@ shortname: IvaKamie
 permalink: /fellows/IvaKamie.html
 fellow-name: Ivan Prinko
 title: Ivan Prinko - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-06
   end: 2022-09-14
@@ -19,6 +19,13 @@ mentors:
   - Abhishek Biswas (Princeton University)
 proposal:
 presentations:
+- title: Developing a Jupiter Notebook for converting confocal microscopic images to 3D cell images and metrics calculation.
+  date: 2022-10-05
+  url: https://indico.cern.ch/event/1195273/contributions/5075658/attachments/2528808/4350475/Ivan%20Prinko.%20IRIS%20Project%20Presentation.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195273/
+  recordingurl: https://youtu.be/rjqnJbT7T1s
+  focus-area: doma
 current_status:
 github-username: IvaKamie
 ---

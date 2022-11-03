@@ -5,7 +5,7 @@ shortname: deepwebhoax
 permalink: /fellows/deepwebhoax.html
 fellow-name: Bohdan Tyshchenko
 title: Bohdan Tyshchenko - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2022-07-11
   end: 2022-09-17
@@ -21,6 +21,13 @@ mentors:
   - Alina Frolova (Institute of Molecular Biology and Genetics)
 proposal: /assets/pdf/fellows-2022/228-proposal-Bohdan-Tyshchenko-v2.pdf
 presentations:
+- title: A rigorous benchmarking of methods for SARS-CoV-2 lineage detection in wastewater
+  date: 2022-10-19
+  url: https://indico.cern.ch/event/1199559/contributions/5100027/attachments/2531507/4355660/Bohdan_Tyshchenko-2.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199559/
+  recordingurl: https://youtu.be/gEaqn7C9ipY
+  focus-area:
 current_status: >
   <strong>July 2022</strong> - Graduate student of Bioinformatics at the Taras Shevchenko National University of Kyiv, Ukraine.
 github-username: deepwebhoax

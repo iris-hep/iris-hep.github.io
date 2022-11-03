@@ -5,7 +5,7 @@ shortname: amangoel185
 permalink: /fellows/amangoel185.html
 fellow-name: Aman Goel
 title: Aman Goel - IRIS-HEP Fellow
-active: true
+active: false
 dates:
 - start: 2022-02-15
   end: 2022-08-15
