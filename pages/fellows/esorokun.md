@@ -5,7 +5,7 @@ shortname: 11018612
 permalink: /fellows/esorokun.html
 fellow-name: Ernest Sorokun
 title: Ernest Sorokun - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-08-01
   end: 2022-10-23
@@ -19,6 +19,13 @@ mentors:
   - Dr. Lino Gerlach (Brookhaven National Laboratory, USA)
 proposal: /assets/pdf/fellows-2022/235-proposal-Ernest-Sorokun.pdf
 presentations:
+- title: Data Reduction for the ProtoDUNE Detector Control System
+  date: 2022-10-19
+  url: https://indico.cern.ch/event/1199559/contributions/5097273/attachments/2531409/4355499/ernest_irishep_presentation.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199559/
+  recordingurl: https://youtu.be/gEaqn7C9ipY
+  focus-area: 
 current_status: >
   A placeholder for status updates
 github-username: esorokun

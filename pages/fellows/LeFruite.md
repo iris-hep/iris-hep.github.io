@@ -5,7 +5,7 @@ shortname: 109670201
 permalink: /fellows/109670201.html
 fellow-name: Volodymyr Shabanov
 title: Volodymyr Shabanov - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-18
   end: 2022-10-09
@@ -24,7 +24,13 @@ mentors:
   - Dmytro Kryvokhyzha (Lund University Diabetes Center)
 proposal: /assets/pdf/fellows-2022/230-proposal-Volodymir-Shabanov.pdf
 presentations:
+- title: Role of Myocardin-Related Transcription Factors in the Smooth Muscle Cell gene program
+  date: 2022-10-19
+  url: https://indico.cern.ch/event/1199559/contributions/5097280/attachments/2531428/4355532/IRIS%20HEP%20Presentation%20-%20Shabanov%20Volodymyr.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199559/
+  recordingurl: https://youtu.be/gEaqn7C9ipY
+  focus-area:
 current_status:
 github-username: LeFruite
 ---
-

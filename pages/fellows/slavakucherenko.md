@@ -5,7 +5,7 @@ shortname: slavakucherenko
 permalink: /fellows/slavakucherenko.html
 fellow-name: Viacheslav Kucherenko
 title: Viacheslav Kucherenko - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2022-06-27
   end: 2022-08-26
@@ -25,7 +25,7 @@ presentations:
   meeting: IRIS-HEP Fellows Presentations 2022
   meetingurl: https://indico.cern.ch/event/1195272/
   recordingurl: https://youtu.be/01mHSh-gnXs
-  focus-area: IA
+  focus-area: ia
 current_status: >
   Finished project and presented it
 github-username: slavakucherenko

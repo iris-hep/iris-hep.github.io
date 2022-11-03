@@ -5,7 +5,7 @@ shortname: Saransh-cpp
 permalink: /fellows/Saransh-cpp.html
 fellow-name: Saransh Chopra
 title: Saransh Chopra - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-01
   end: 2022-08-31
