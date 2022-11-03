@@ -5,7 +5,7 @@ shortname: hswhhe
 permalink: /fellows/hswhhe.html
 fellow-name: Haoran Sun
 title: Haoran Sun - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-20
   end: 2022-09-21

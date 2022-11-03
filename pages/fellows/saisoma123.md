@@ -5,7 +5,7 @@ shortname: saisoma123
 permalink: /fellows/saisoma123.html
 fellow-name: Surya Somayyajula
 title: Surya Somayyajula - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-23
   end: 2022-08-12
@@ -21,7 +21,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/029-proposal-Surya-Somayyajula.pdf
 presentations:
-
+- title:  Improve Cling’s packaging system, Cling Packaging Tool
+  date: 2022-09-26
+  url: https://indico.cern.ch/event/1199557/contributions/5064306/attachments/2541284/4374826/Improving%20the%20Cling%20Packaging%20Tool.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199557/
+  recordingurl: https://youtu.be/7-0WZZCtqJI
+  focus-area: ia
 current_status: >
 github-username: saisoma123
 ---

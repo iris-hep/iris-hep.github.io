@@ -5,7 +5,7 @@ shortname: 25415223
 permalink: /fellows/25415223.html
 fellow-name: Borys Olifirov
 title: Borys Olifirov - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-11
   end: 2022-09-30
@@ -19,13 +19,6 @@ mentors:
   - Stefano Brigidi (University of Utah)
 proposal: /assets/pdf/fellows-2022/233-proposal-Borys-Olifirov-v2.pdf
 presentations:
-  - title:
-    date:
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
 current_status: >
 github-username: wisstock
 ---

@@ -5,7 +5,7 @@ shortname: ManasviGoyal
 permalink: /fellows/ManasviGoyal.html
 fellow-name: Manasvi Goyal
 title: Manasvi Goyal - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-14
   end: 2022-08-07

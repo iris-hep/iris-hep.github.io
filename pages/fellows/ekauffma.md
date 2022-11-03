@@ -5,7 +5,7 @@ shortname: ekauffma
 permalink: /fellows/ekauffma.html
 fellow-name: Elliott Kauffman
 title: Elliott Kauffman - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
@@ -21,6 +21,14 @@ mentors:
   - Rocky Bala Garg (Standord University)
 
 proposal: /assets/pdf/fellows-2022/006-proposal-Elliott-Kauffman.pdf
+presentations:
+- title: "PV-Finder for ATLAS: Exploring a deep learning approach for Primary Vertex Identification"
+  date: 2022-10-19
+  url: https://indico.cern.ch/event/1199559/contributions/5097278/attachments/2530606/4355527/emk_irishep2022_presentation%20(1).pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199559/
+  recordingurl: https://youtu.be/gEaqn7C9ipY
+  focus-area: ia
 current_status:
 github-username: ekauffma
 gitlab-url: https://gitlab.cern.ch/ekauffma

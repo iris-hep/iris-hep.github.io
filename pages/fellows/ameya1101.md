@@ -4,7 +4,7 @@ pagetype: fellow
 permalink: /fellows/ameya1101.html
 fellow-name: Ameya Thete
 title: Ameya Thete - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-06
   end: 2022-08-29
@@ -39,4 +39,11 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1155137/
     focus-area: ia
     location: Virtual
+  - title: Equivariant GNNs for Charged Particle Tracking
+    date: 2022-10-19
+    url: https://indico.cern.ch/event/1199559/contributions/5097283/attachments/2531421/4355522/IRIS-HEP%20Presentation%20-%20Ameya.pdf
+    meeting: IRIS-HEP Fellows Presentations 2022
+    meetingurl: https://indico.cern.ch/event/1199559/
+    recordingurl: https://youtu.be/gEaqn7C9ipY
+    focus-area: ia
 ---

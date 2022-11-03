@@ -5,7 +5,7 @@ shortname: JerryLing
 permalink: /fellows/JerryLing.html
 fellow-name: Jerry Ling
 title: Jerry Ling - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2022-06-26
   end: 2022-09-26

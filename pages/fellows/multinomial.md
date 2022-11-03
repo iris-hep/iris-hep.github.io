@@ -5,7 +5,7 @@ shortname: multinomial
 permalink: /fellows/multinomial.html
 fellow-name: Oleksii Kiva
 title: Oleksii Kiva - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-04
   end: 2022-10-03
@@ -35,4 +35,3 @@ current_status: >
 github-username: multinomial
 
 ---
-
