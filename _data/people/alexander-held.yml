@@ -290,3 +290,29 @@ presentations:
       - histogram
       - scikit-hep
       - agc
+
+  - title: "AGC overview, status and plans"
+    date: 2022-10-12
+    url: https://indico.cern.ch/event/1196111/contributions/5067472/
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/1196111/
+    location: "Princeton University"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "IRIS-HEP AGC update"
+    date: 2022-11-03
+    url: https://indico.cern.ch/event/1217294/#2-iris-hep-agc
+    meeting: HSF Analysis Facilities Forum
+    meetingurl: https://indico.cern.ch/event/1217294/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
