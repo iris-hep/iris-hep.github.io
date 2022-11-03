@@ -5,7 +5,7 @@ shortname: deepwebhoax
 permalink: /fellows/deepwebhoax.html
 fellow-name: Bohdan Tyshchenko
 title: Bohdan Tyshchenko - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2022-07-11
   end: 2022-09-17
@@ -27,7 +27,7 @@ presentations:
   meeting: IRIS-HEP Fellows Presentations 2022
   meetingurl: https://indico.cern.ch/event/1199559/
   recordingurl: https://youtu.be/gEaqn7C9ipY
-  focus-area: 
+  focus-area:
 current_status: >
   <strong>July 2022</strong> - Graduate student of Bioinformatics at the Taras Shevchenko National University of Kyiv, Ukraine.
 github-username: deepwebhoax
