@@ -1,5 +1,5 @@
 open: yes
-title: Interactive C++ for ML 
+title: Interactive C++ for ML
 
 description: >
   Cling is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure. Cling realizes the read-eval-print loop (REPL) concept, in order to leverage rapid application development. Implemented as a small extension to LLVM and Clang, the interpreter reuses its strengths such as the praised concise and expressive compiler diagnostics. The LLVM-based C++ interpreter has enabled interactive C++ coding environments, whether in a standalone shell or a Jupyter notebook environment in xeus-cling.
