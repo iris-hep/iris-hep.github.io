@@ -20,13 +20,22 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
   {% assign uni = site.data.universities[uniindex] %}
 <h4>{{uni.name}}</h4>
 <ul>
+  <script>console.log({{ site.data.people[talk.member] }});</script>
   {% for talk in sorted_presentations %}
-    {% if site.data.people[talk.member].institution contains uni.name %}
+    {% if site.data.people[talk.member].past_institution.institution contains uni.name and talk.date < site.data.people[talk.member].past_institution.end_date%}
       <li>
         {%- include print_pres.html talk=talk -%}
       </li>
 
       {% assign prescount = prescount | plus: "1" %}
+    {% elsif site.data.people[talk.member].institution contains uni.name %}
+      {% unless talk.date < site.data.people[talk.member].past_institution.end_date %}
+        <li>
+          {%- include print_pres.html talk=talk -%}
+        </li>
+
+        {% assign prescount = prescount | plus: "1" %}
+      {% endunless %}
     {% endif %}
   {% endfor %}
 </ul>
