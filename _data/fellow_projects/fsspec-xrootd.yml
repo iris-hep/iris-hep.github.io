@@ -1,4 +1,4 @@
-open: yes
+open: no
 postdate: 2022-04-28
 title: Enable dask interopability with xrootd-accessible storage systems
 description: >
