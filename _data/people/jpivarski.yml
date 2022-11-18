@@ -555,3 +555,40 @@ presentations:
       - uproot
       - histogram
       - scikit-hep
+  - title: Adoption of Python and modern software practices in high energy physics
+    date: 2022-09-08
+    url: https://github.com/jpivarski-talks/2022-09-08-chess-scientific-python-ecosystem
+    meeting: CHESS Group Meeting
+    meetingurl: https://cornellprod.sharepoint.com/:b:/s/Hedgehogs-ComputingCabal/EVKnNUl65e5KtCIm9MLfxmUByeca_hc1nlaaT8VVar1W8A?e=7biogk
+    location: Cornell University + online
+    focus-area:
+      - as
+    project:
+      - awkward
+      - uproot
+      - histogram
+      - scikit-hep
+  - title: "Uproot, Awkward Array, hist, Vector: from basics to combinatorics"
+    date: 2022-09-12
+    url: https://github.com/jpivarski-talks/2022-09-12-pyhep22-awkward-combinatorics
+    meeting: PyHEP 2022 Workshop
+    meetingurl: https://indico.cern.ch/event/1150631/contributions/5000596/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
+      - uproot
+  - title: Status of Analysis - The Python Perspective
+    date: 2022-09-28
+    url: https://github.com/jpivarski-talks/2022-09-28-future-trends-python
+    meeting: Future Trends in Nuclear Physics Computing
+    meetingurl: https://indico.bnl.gov/event/15089/contributions/68233/
+    location: Stony Brook University + online
+    focus-area:
+      - as
+    project:
+      - awkward
+      - uproot
+      - histogram
+      - scikit-hep
