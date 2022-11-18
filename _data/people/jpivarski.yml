@@ -568,7 +568,7 @@ presentations:
       - uproot
       - histogram
       - scikit-hep
-  - title: Uproot, Awkward Array, hist, Vector: from basics to combinatorics
+  - title: "Uproot, Awkward Array, hist, Vector: from basics to combinatorics"
     date: 2022-09-12
     url: https://github.com/jpivarski-talks/2022-09-12-pyhep22-awkward-combinatorics
     meeting: PyHEP 2022 Workshop
