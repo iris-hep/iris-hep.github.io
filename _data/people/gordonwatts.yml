@@ -295,3 +295,14 @@ presentations:
     meeting: 2nd MODE Workshop
     focus-area: as
     location: Crete, Greece
+  - title: New Computing and Software Frontiers in Particle Physics
+    date: 2022-11-18
+    url: https://indico.cern.ch/event/1151741/contributions/5107856/
+    meetingurl: https://indico.cern.ch/event/1151741
+    meeting: XIV Latin American Symposium on High Energy Physics
+    focus-area:
+      - as
+      - doma
+      - ia
+      - core
+    location: Quito, Ecuador
