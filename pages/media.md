@@ -6,6 +6,7 @@ title: Media, Press Releases and Press Mentions
 
 ## Media, Press Releases and Press Mentions
 
+  * 17 Nov 2022 - [DSI Research Scientist Savannah Thais Shares the Importance of Community-driven Data Research](https://datascience.columbia.edu/news/2022/dsi-research-scientist-savannah-thais-shares-the-importance-of-community-driven-data-research/)
   * 28 Feb 2022 - [PyDev of the Week: Henry Schreiner III](https://www.blog.pythonlibrary.org/2022/02/28/pydev-of-the-week-henry-schreiner-iii/), Mouse Vs Python
   * 30 Nov 2021 - [Frank Würthwein Named Director of the San Diego Supercomputer Center](https://ucsdnews.ucsd.edu/pressrelease/frank-wuerthwein-named-director-of-the-san-diego-supercomputer-center), University of California, San Diego
   * 21 Oct 2021 - [Kyle Cranmer chosen to lead American Family Insurance Data Science Institute](https://news.wisc.edu/kyle-cranmer-chosen-to-lead-american-family-insurance-data-science-institute/), UW-Madison
