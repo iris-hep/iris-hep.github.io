@@ -11,37 +11,37 @@ discussions about the IRIS-HEP software institution, the Large Hadron Collider
 program at CERN and HEP in general. This glossary attempts to provide some
 light on what these terms and acronyms mean.  (See also the list of [Related Projects](https://iris-hep.org/collaborations) for additional acronyms/names and explanations.)
 
-  * ACAT - The [Advanced Computing and Analysis Techniques in Physics Research (ACAT)](https://indico.cern.ch/event/708041/) workshop series is an important venue for discussing HEP software and computing topics. It takes place approximately every 18 months, out of phase by approximately 9 months with the CHEP confernences.
+  * **ACAT** - The [Advanced Computing and Analysis Techniques in Physics Research (ACAT)](https://indico.cern.ch/event/708041/) workshop series is an important venue for discussing HEP software and computing topics. It takes place approximately every 18 months, out of phase by approximately 9 months with the CHEP confernences.
 
-  * ANL - [Argonne National Laboratory (ANL)](https://www.anl.gov) is a multipurpose DOE national laboratory located in Lemont, IL
+  * **ANL** - [Argonne National Laboratory (ANL)](https://www.anl.gov) is a multipurpose DOE national laboratory located in Lemont, IL
 
-  * AS - [Analysis Systems](https://iris-hep.org/as.html), one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
+  * **AS** - [Analysis Systems](https://iris-hep.org/as.html), one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
 
-  * ATLAS - [A Toroidal LHC ApparatuS (ATLAS)](https://atlas.cern) is one of two large general-purpose detectors at the LHC
+  * **ATLAS** - [A Toroidal LHC ApparatuS (ATLAS)](https://atlas.cern) is one of two large general-purpose detectors at the LHC
 
-  * Blueprint - The [Blueprint](https://iris-hep.org/blueprint.html) activity in the IRIS-HEP Software Institute is designed to inform the strategic vision of the institute through dedicated workshops on topics of interest to the institute's mission.
+  * **Blueprint** - The [Blueprint](https://iris-hep.org/blueprint.html) activity in the IRIS-HEP Software Institute is designed to inform the strategic vision of the institute through dedicated workshops on topics of interest to the institute's mission.
 
-  * BoF - "Birds of a Feather" sessions at a conference are informal (typically parallel, ad-hoc) sessions at a conference or workshop where interested parties get together to discuss some specific common topic of interest
+  * **BoF** - "Birds of a Feather" sessions at a conference are informal (typically parallel, ad-hoc) sessions at a conference or workshop where interested parties get together to discuss some specific common topic of interest
 
-  * CERN - the [European Laboratory for Particle Physics](https://home.cern), located in Geneva, Switzerland
+  * **CERN** - the [European Laboratory for Particle Physics](https://home.cern), located in Geneva, Switzerland
 
-  * CHEP - The [Computing in High Energy and Nuclear Physics (CHEP)](http://chep2019.org) conference is the main conference in which software and computing topics relevant for HEP are discussed. It takes place approximately every 18 months, out of phase by approximately 9 months with the ACAT workshop series.
+  * **CHEP** - The [Computing in High Energy and Nuclear Physics (CHEP)](http://chep2019.org) conference is the main conference in which software and computing topics relevant for HEP are discussed. It takes place approximately every 18 months, out of phase by approximately 9 months with the ACAT workshop series.
 
-  * CMS - The [Compact Muon Solenoid (CMS)](http://cms.cern) is one of two large general-purpose detectors at the LHC
+  * **CMS** - The [Compact Muon Solenoid (CMS)](http://cms.cern) is one of two large general-purpose detectors at the LHC
 
-  * CTDR - Computing Technical Design Report, a technical planning document required by CERN from each of the experiments (ATLAS and CMS) in ~2022 to describe the computing plans and model for the HL-LHC upgrades
+  * **CTDR** - Computing Technical Design Report, a technical planning document required by CERN from each of the experiments (ATLAS and CMS) in ~2022 to describe the computing plans and model for the HL-LHC upgrades
 
-  * dHTC or DHTC - distributed high throughput computing
+  * **dHTC** or **DHTC** - distributed high throughput computing
 
-  * DOMA - [Data Organization, Management and Access](https://iris-hep.org/doma.html), one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
+  * **DOMA** - [Data Organization, Management and Access](https://iris-hep.org/doma.html), one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
 
-  * DUNE - The [Deep Underground Neutrino Experiment](http://www.fnal.gov/pub/science/lbnf-dune/index.html) is the U.S. future flagship neutrino experiment at FNAL.
+  * **DUNE** - The [Deep Underground Neutrino Experiment](http://www.fnal.gov/pub/science/lbnf-dune/index.html) is the U.S. future flagship neutrino experiment at FNAL.
 
-  * [FNAL or Fermilab](http://www.fnal.gov) - The main single-purpose U.S. DOE High Energy Physics laboratory, located in Batavia, IL.
+  * [**FNAL** or **Fermilab**](http://www.fnal.gov) - The main single-purpose U.S. DOE High Energy Physics laboratory, located in Batavia, IL.
 
-  * HEP - High Energy Physics
+  * **HEP** - High Energy Physics
 
-  * HSF - [HEP Software Foundation](https://hepsoftwarefoundation.org/)
+  * **HSF** - [HEP Software Foundation](https://hepsoftwarefoundation.org/)
 
   * IA - Innovative Algorithms, one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
 
