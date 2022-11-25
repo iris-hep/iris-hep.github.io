@@ -43,48 +43,48 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
   * **HSF** - [HEP Software Foundation](https://hepsoftwarefoundation.org/)
 
-  * IA - Innovative Algorithms, one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
+  * **IA** - Innovative Algorithms, one of the R&D focus areas of the [IRIS-HEP Software Institute](https://iris-hep.org/)
 
-  * JLAB - [Jefferson Lab (JLAB)](https://www.jlab.org) is a DOE national laboratory focused on nuclear physics located in Newport News, VA
+  * **JLAB** - [Jefferson Lab (JLAB)](https://www.jlab.org) is a DOE national laboratory focused on nuclear physics located in Newport News, VA
 
-  * LBNL or Berkeley Lab - [Lawrence Berkeley National Laboratory (LBNL)](https://www.lbl.gov) is a multipurpose DOE national laboratory located in Berkeley, CA
+  * **LBNL** or Berkeley Lab - [Lawrence Berkeley National Laboratory (LBNL)](https://www.lbl.gov) is a multipurpose DOE national laboratory located in Berkeley, CA
 
 
-  * LHC - Large Hadron Collider, the proton-proton collider at CERN
+  * **LHC** - Large Hadron Collider, the proton-proton collider at CERN
 
-  * LHCb - The [Large Hadron Collider Beauty](http://lhcb-public.web.cern.ch/lhcb-public/) experiment is a particle physics detector at the LHC specialized for studies in b-physics, charm physics, etc.
+  * **LHCb** - The [Large Hadron Collider Beauty](http://lhcb-public.web.cern.ch/lhcb-public/) experiment is a particle physics detector at the LHC specialized for studies in b-physics, charm physics, etc.
 
-  * OSG - The [Open Science Grid](https://opensciencegrid.org/), which provides the fabric for distributed high-through computing
+  * **OSG** - The [Open Science Grid](https://opensciencegrid.org/), which provides the fabric for distributed high-through computing
 
-  * OSG-LHC - The services provided by IRIS-HEP to enable the LHC experiments to use the [Open Science Grid](https://opensciencegrid.org/)
+  * **OSG-LHC** - The services provided by IRIS-HEP to enable the LHC experiments to use the [Open Science Grid](https://opensciencegrid.org/)
 
   * Operations Programs or Ops Programs -
 
-  * PEP - Project Execution Plan
+  * **PEP** - Project Execution Plan
 
-  * Pileup - the number of simultaneous proton-proton collisions visible in the detector as part of an "event". Typically the vast majority of these are not interesting, but because they may be"overlaid" on an interesting signal collision they complicate the processing and analysis of the data. The HL-LHC will achieve higher "luminosity" (higher data rates) in a way that significantly increases "pileup".
+  * **Pileup** - the number of simultaneous proton-proton collisions visible in the detector as part of an "event". Typically the vast majority of these are not interesting, but because they may be"overlaid" on an interesting signal collision they complicate the processing and analysis of the data. The HL-LHC will achieve higher "luminosity" (higher data rates) in a way that significantly increases "pileup".
 
-  * PTC - Programmatic Terms and Conditions, a document included in the IRIS-HEP award which includes agreements between NSF and Princeton University (and by extension the other institutions) as to how the IRIS-HEP project should be executed, how reporting should be done, etc.
+  * **PTC** - Programmatic Terms and Conditions, a document included in the IRIS-HEP award which includes agreements between NSF and Princeton University (and by extension the other institutions) as to how the IRIS-HEP project should be executed, how reporting should be done, etc.
 
-  * Run 3 -
+  * **Run 3** - The LHC running period which started in 2022.
 
-  * Run 4 or HL-LHC - The LHC running period which nominally starts from 2026, with the upgraded high luminosity LHC and upgraded ATLAS and CMS detectors
+  * **Run 4** or **HL-LHC** - The LHC running period which nominally starts from 2029, with the upgraded high luminosity LHC and upgraded ATLAS and CMS detectors
 
-  * S2I2-HEP - The [original conceptualization project](http://s2i2-hep.org) for the software institute. It produced both the [S2I2-HEP Strategic Plan](https://arxiv.org/abs/1712.06592)  and (working with the HEP Software Foundation) drove the [Community White Paper](https://arxiv.org/abs/1712.06982)  process.
+  * **S2I2-HEP** - The [original conceptualization project](http://s2i2-hep.org) for the software institute. It produced both the [S2I2-HEP Strategic Plan](https://arxiv.org/abs/1712.06592)  and (working with the HEP Software Foundation) drove the [Community White Paper](https://arxiv.org/abs/1712.06982)  process.
 
-  * Snowmass - The [Snowmass process](https://snowmass-wiki.fnal.gov/wiki/Main_Page) is a high energy physics community planning process organized by the Division of Particles and Fields of the American Physical Society. The last such process took place in 2012-2013 and a new one is being planned for 2020-2021.
+  * **Snowmass** - The [Snowmass process](https://snowmass-wiki.fnal.gov/wiki/Main_Page) is a high energy physics community planning process organized by the Division of Particles and Fields of the American Physical Society. The last such process took place in 2012-2013 and a new one is being planned for 2020-2021.
 
-  * SSC - The Sustainable Software Core is a functional area in the IRIS-HEP institute which focuses on general methods for producing and maintaining sustainable software.
+  * **SSC** - The Sustainable Software Core is a functional area in the IRIS-HEP institute which focuses on general methods for producing and maintaining sustainable software.
 
-  * SSL - The [Scalable Systems Laboratory](https://iris-hep.org/ssl.html) provides an integration path for the output of IRIS-HEP R&D to be integrated into the production infrastructure of the LHC experiments.
+  * **SSL** - The [Scalable Systems Laboratory](https://iris-hep.org/ssl.html) provides an integration path for the output of IRIS-HEP R&D to be integrated into the production infrastructure of the LHC experiments.
 
-  * TEO - [Training, Education and Outreach](https://iris-hep.org/ssc.html), one of the main focuses of the SSC area in the IRIS-HEP institute
+  * **TEO** - [Training, Education and Outreach](https://iris-hep.org/ssc.html), one of the main focuses of the SSC area in the IRIS-HEP institute
 
-  * US-CMS
+  * **US-CMS**
 
-  * US-ATLAS - refers to either the
+  * **US-ATLAS** - refers to either the
 
-  * US-LHC Ops or US-LHC Operations Programs - refers to the two
+  * **US-LHC Ops** or **US-LHC Operations Programs* - refers to the two
 
-  * WLCG - The [Worldwide LHC Computing Grid (WLCG)](http://wlcg.web.cern.ch) is a federation of national grid infrastructures to support research at the LHC
+  * **WLCG** - The [Worldwide LHC Computing Grid (WLCG)](http://wlcg.web.cern.ch) is a federation of national grid infrastructures to support research at the LHC
 
