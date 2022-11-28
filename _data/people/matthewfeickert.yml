@@ -4,6 +4,9 @@ focus-area:
   - as
   - ssc
 institution: University of Wisconsin-Madison
+past_institution:
+  institution: University of Illinois at Urbana-Champaign
+  end_date: 2022-06-01
 name: Matthew Feickert
 photo: "/assets/images/team/matthewfeickert.jpeg"
 shortname: matthewfeickert
