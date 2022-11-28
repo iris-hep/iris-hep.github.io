@@ -44,5 +44,5 @@ presentations:
 current_status: >
   A placeholder for status updates
 github-username: VolodymyrSvintozelskyi
-gitlab-url: https://gitlab.cern.ch/lhcb/Allen
+gitlab-url: https://gitlab.cern.ch/vsvintoz
 ---
