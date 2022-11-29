@@ -329,3 +329,12 @@ presentations:
     location: Virtual
     focus-area: as
     project:
+
+  - title: "Software Citation Tools, Technologies, and Best Practices"
+    date: 2022-11-23
+    url: https://indico.cern.ch/event/1211229/contributions/5120858/
+    meeting: "Software Citation and Recognition in HEP Workshop 2022"
+    meetingurl: https://indico.cern.ch/event/1211229/
+    location: Virtual
+    focus-area: as
+    project:
