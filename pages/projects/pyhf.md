@@ -70,6 +70,8 @@ An updating list of libraries, projects, and analyses that use `pyhf` are listed
 
 Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
+- Matthew Feickert, Lukas Heinrich, and Giordon Stark. pyhf: a pure-Python statistical fitting library with tensors and automatic differentiation. _PoS_, ICHEP2022:245, Nov 2022. [doi:10.22323/1.414.0245](https://doi.org/10.22323/1.414.0245).
+- Alexander Held and Oksana Shadura. The IRIS-HEP Analysis Grand Challenge. _PoS_, ICHEP2022:235, Nov 2022. [doi:10.22323/1.414.0235](https://doi.org/10.22323/1.414.0235).
 - Lukas Allwicher, Darius. A. Faroughy, Florentin Jaffredo, Olcyr Sumensari, and Felix Wilsch. HighPT: A Tool for high-pT Drell-Yan Tails Beyond the Standard Model. Jul 2022. [arXiv:2207.10756](https://arxiv.org/abs/2207.10756).
 - Belle Collaboration. Search for a dark leptophilic scalar produced in association with τ+τ− pair in e+e− annihilation at center-of-mass energies near 10.58 GeV. Jul 2022. [arXiv:2207.07476](https://arxiv.org/abs/2207.07476).
 - Gaël Alguero, Jack Y. Araz, Benjamin Fuks, and Sabine Kraml. Signal region combination with full and simplified likelihoods in MadAnalysis 5. Jun 2022. [arXiv:2206.14870](https://arxiv.org/abs/2206.14870).
