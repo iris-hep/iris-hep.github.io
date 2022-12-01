@@ -9,6 +9,14 @@ shortname: brianhlin
 title: OSG Software Team Manager
 website:
 presentations:
+  - title: OSG Container Experiences
+    date: 2022-11-17
+    url: https://indico.cern.ch/event/1222961/#3-osg-containerization-process
+    meeting: WBS 2.3/5 AF Container meeting
+    meetingurl: https://indico.cern.ch/event/1222961
+    location: Virtual
+    focus-area: osglhc
+    project: osg-software
   - title: Distributing Production-Ready Software
     date: 2022-03-25
     url: https://indico.cern.ch/event/1132360/contributions/4759835/
