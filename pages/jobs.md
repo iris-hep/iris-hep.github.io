@@ -11,24 +11,10 @@ A number of employment opportunities exist with the universities involved in IRI
 ### Princeton University
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/16019/research-software-engineer-ii/job?mode=view&mobile=false&width=696&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
 
-### University of Nebraska-Lincoln
-  * [DevOps Engineer](https://employment.unl.edu/postings/80705)
-
-### University of Washington, Seattle
-  * [Postdoc on Exotics Physics and IRIS-HEP Analysis Software](https://inspirehep.net/jobs/1863400)
-
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
-
-### CMS
-  * [Two Postdoc Openings on CMS](https://academicjobsonline.org/ajo/jobs/22334)
-
-### University of Chicago
-
-  * [Director of Computing and IT (Physical Sciences Division)](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Director-of-Computing-and-Information-Technology_JR17427)
-
 
 ### ATLAS
 
@@ -37,9 +23,5 @@ with an HEP background, but which are not directly related to IRIS-HEP.
 ### Fermilab
 
   * [Computing Services Specialist](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Computing--Services-Specialist-I_R_005963) - Envisioned to have both sysadmin/technical and user-facing components supporting HPC users (e.g. Lattice QCD) as well as multiple HEP experiments across all frontiers.
-
-### University of Wisconsin&ndash;Madison
-
-*   [Research Computing positions](https://go.wisc.edu/chtc-rcf-hire) - Support the research goals of a diverse set of researchers who use computing for their work; two positions with somewhat different roles and ideal backgrounds.
 
 ### Others
