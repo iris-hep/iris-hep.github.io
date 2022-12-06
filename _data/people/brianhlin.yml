@@ -9,6 +9,13 @@ shortname: brianhlin
 title: OSG Software Team Manager
 website:
 presentations:
+  - title: OSG-LHC Timelines
+    date: 2022-12-02
+    url: https://indico.cern.ch/event/1201515/contributions/5141108/
+    meeting: US ATLAS Computing Facilities Face-to-Face at SLAC
+    meetingurl: https://indico.cern.ch/event/1201515/
+    location: Virtual
+    focus-area: osglhc
   - title: OSG Container Experiences
     date: 2022-11-17
     url: https://indico.cern.ch/event/1222961/#3-osg-containerization-process
