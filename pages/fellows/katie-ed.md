@@ -5,7 +5,7 @@ shortname: katie-ed
 permalink: /fellows/katie-ed.html
 fellow-name: Katie Edwards
 title: Katie Edwards - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
@@ -22,13 +22,20 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/018-proposal-Katie-Edwards.pdf
 presentations:
-  - title:
-    date:
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
+  - title: Geometric Machine Learning with DUNE
+    date: 2022-06-13
+    url: https://indico.cern.ch/event/1155137/
+    meeting: IRIS-HEP Fellows Introductory Presentations
+    meetingurl: https://indico.cern.ch/event/1155137/
+    recordingurl: https://youtu.be/qgqQo_05rRo
     focus-area:
-current_status: >
+  - title: Geometric Machine Learning with DUNE
+    date: 2022-09-26
+    url: https://indico.cern.ch/event/1199557/contributions/5064304/attachments/2516262/4326110/Katie%20Edwards%20-%20Optimization%20of%20Machine%20Learning%20Algorithms.pdf
+    meeting: IRIS-HEP Fellows Presentations 2022
+    meetingurl: https://indico.cern.ch/event/1199557
+    recordingurl: https://youtu.be/7-0WZZCtqJI
+    focus-area:
+current_status: "October 2022 - Undergraduate student at Iowa State University"
 github-username: katie-ed
 ---

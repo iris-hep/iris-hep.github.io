@@ -5,7 +5,7 @@ shortname: 88683180
 permalink: /fellows/88683180.html
 fellow-name: Dmytro Horyslavets
 title: Dmytro Horyslavets - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-07-05
   end: 2022-09-12
@@ -21,6 +21,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/231-proposal-Dmytro-Horyslavets.pdf
 presentations:
+- title: Sequence-read extraction from counting de Bruijn graphs
+  date: 2022-10-19
+  url: https://indico.cern.ch/event/1199559/contributions/5097277/attachments/2531444/4355558/IRIS-HEP%20Final%20Dmytro%20Horyslavets.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199559/
+  recordingurl: https://youtu.be/gEaqn7C9ipY
+  focus-area:
 current_status: >
 github-username: d-goryslavets
 ---

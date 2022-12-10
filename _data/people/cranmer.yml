@@ -4,10 +4,10 @@ focus-area:
   - as
   - ia
 institution: University of Wisconsin–Madison
+past_institution: { institution: New York University, end_date: 2022-01-01 }
 name: Kyle Cranmer
 photo: "/assets/images/team/Kyle-Cranmer.jpg"
 shortname: cranmer
-past_institution: { institution: New York University, end_date: 2022-01-01 }
 title: Former Analysis Systems Area Lead
 website: http://theoryandpractice.org
 presentations:

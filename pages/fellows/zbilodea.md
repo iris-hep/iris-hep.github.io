@@ -5,7 +5,7 @@ shortname: zbilodea
 permalink: /fellows/zbilodea.html
 fellow-name: Zoë Bilodeau
 title: Zoë Bilodeau - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
@@ -22,6 +22,13 @@ mentors:
 proposal: /assets/pdf/fellows-2022/058-Zoe-Bilodeau.pdf
 github-username: zbilodea
 presentations:
+- title: Fast Integration of Poisson Distributions for Dead Sensor Marginalization
+  date: 2022-10-05
+  url: https://indico.cern.ch/event/1195273/contributions/5075656/attachments/2522732/4338112/IRIS-HEP%20Final%20Bilodeau.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195273/
+  recordingurl: https://youtu.be/rjqnJbT7T1s
+  focus-area:
 current_status: >
   A placeholder for status updates
 ---

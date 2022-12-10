@@ -4,6 +4,9 @@ focus-area:
   - as
   - ssc
 institution: University of Wisconsin-Madison
+past_institution:
+  institution: University of Illinois at Urbana-Champaign
+  end_date: 2022-06-01
 name: Matthew Feickert
 photo: "/assets/images/team/matthewfeickert.jpeg"
 shortname: matthewfeickert
@@ -323,6 +326,15 @@ presentations:
     url: https://indico.cern.ch/event/1134405/contributions/5046843/
     meeting: "IRIS-HEP Steering Board Meeting #15"
     meetingurl: https://indico.cern.ch/event/1134405/
+    location: Virtual
+    focus-area: as
+    project:
+
+  - title: "Software Citation Tools, Technologies, and Best Practices"
+    date: 2022-11-23
+    url: https://indico.cern.ch/event/1211229/contributions/5120858/
+    meeting: "Software Citation and Recognition in HEP Workshop 2022"
+    meetingurl: https://indico.cern.ch/event/1211229/
     location: Virtual
     focus-area: as
     project:

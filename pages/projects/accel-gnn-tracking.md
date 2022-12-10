@@ -11,6 +11,7 @@ maturity-note:
 start-date: 2019-09-12
 github:
  - https://github.com/Neubauer-Group/GNN_code
+ - https://github.com/gageDeZoort/gnn_tracking
  - https://github.com/GageDeZoort/interaction_network_paper
  - https://github.com/GageDeZoort/gnns-for-tracking
  - https://github.com/abdelabd/manual_GNN_conversion
@@ -30,6 +31,7 @@ team:
  - Savannah Thais
  - Emily Tsai
  - Bei Wang
+ - Kilian Lieret
 ---
 
 The tracking of charged particles produced in collisions at colliders is a crucial aspect of the science program in the experiments. One of the primary challenges for the HL-LHC is the ability to efficiently, accurately, and rapidly perform tracking in collision events with large interaction pile-up. This project aims to improve charged-particle tracking in the ATLAS and CMS experiments through the use of Geometric Deep Learn methods (particularly Graph Neural Networks

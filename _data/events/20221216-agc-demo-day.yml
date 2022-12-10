@@ -1,0 +1,9 @@
+name: IRIS-HEP / AGC Demo day
+startdate: 2022-12-16
+enddate: 2022-12-16
+location: CERN
+meetingurl: https://indico.cern.ch/e/agc-demo-day-1
+image:
+description: >
+  This first IRIS-HEP / AGC "Demo Day" is an informal place to showcase the latest developments with short contributions covering a variety of topics in the Analysis Grand Challenge sphere. Contributions are generally technical in nature, targeting developers and the interested community. Zoom coordinates are provided on the agenda, but feel free to also join us in room 304/1-007 at CERN!
+labels:

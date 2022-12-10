@@ -117,6 +117,14 @@ presentations:
     location: Virtual
     focus-area: as
     project: func-adl
+  - title: Implementation of the likelihood-based ABCD method for background estimation and hypothesis testing with pyhf
+    date: 2021-12-01
+    url: https://indico.cern.ch/event/855454/contributions/4596707/
+    meeting: ACAT 2021
+    meetingurl: https://indico.cern.ch/event/855454/
+    location: Virtual
+    focus-area: as
+    project: abcd-pyhf
   - title: Foundation libraries (uproot, awkward, hist, mplhep)
     date: 2022-04-25
     url: https://indico.cern.ch/event/1126109/contributions/4780138/
@@ -149,3 +157,12 @@ presentations:
     location: Argonne National Laboratory
     focus-area: as
     project: uproot
+  - title: "abcd_pyhf: Likelihood-based ABCD method for background estimation and hypothesis testing with pyhf"
+    date: 2022-09-16
+    url: https://indico.cern.ch/event/1150631/timetable/#17-abcd_pyhf-likelihood-based
+    video: https://youtu.be/TOHkvsi-PA0
+    meeting: PyHEP 2022
+    meetingurl: https://indico.cern.ch/event/1150631/
+    location: Virtual
+    focus-area: as
+    project: abcd-pyhf

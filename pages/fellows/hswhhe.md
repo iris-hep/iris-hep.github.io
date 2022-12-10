@@ -5,7 +5,7 @@ shortname: hswhhe
 permalink: /fellows/hswhhe.html
 fellow-name: Haoran Sun
 title: Haoran Sun - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-20
   end: 2022-09-21
@@ -32,5 +32,14 @@ mentors:
 proposal: /assets/pdf/fellows-2022/071-proposal-Haoran-Sun.pdf
 github-username: hswhhe
 presentations:
+- title: Support for MiniAOD Transformer for ServiceX
+  date: 2022-10-19
+  url: https://indico.cern.ch/event/1199559/contributions/5097282/
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199559/
+  recordingurl: https://youtu.be/gEaqn7C9ipY?t=2994
+  location: Virtual
+  focus-area: as
+  project:
 current_status:
 ---
