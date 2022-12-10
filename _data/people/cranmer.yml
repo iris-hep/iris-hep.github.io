@@ -712,7 +712,7 @@ presentations:
     meetingurl: https://cdis.wisc.edu/red-talks/
     focus-area: as
     location: University of Wisconsin-Madison
-    video: https://youtu.be/VUmQZoM7Eiw 
+    video: https://youtu.be/VUmQZoM7Eiw
   - title: "Simulation-based inference"
     date: 2022-06-15
     url: https://indico.flatironinstitute.org/event/3125/
@@ -748,11 +748,11 @@ presentations:
     meeting: NASA Unidentified Aerial Phenomena Study Team
     meetingurl: https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/
     focus-area: as
-    location: Washington D.C. 
+    location: Washington D.C.
   - title: "Translational AI"
     date: 2022-11-09
     url: https://indico.cern.ch/event/1203733/
     meeting: "A Coordinated Ecosystem for HL-LHC Computing R&D"
     meetingurl: https://indico.cern.ch/event/1203733/
     focus-area: as
-    location: Washington D.C. 
+    location: Washington D.C.
