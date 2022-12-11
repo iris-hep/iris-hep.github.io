@@ -1,5 +1,5 @@
 active: true
-e-mail: kscranmer@wisc.edu
+e-mail: kyle.cranmer@wisc.edu
 focus-area:
   - as
   - ia
@@ -8,7 +8,7 @@ past_institution: { institution: New York University, end_date: 2022-01-01 }
 name: Kyle Cranmer
 photo: "/assets/images/team/Kyle-Cranmer.jpg"
 shortname: cranmer
-title:
+title: Former Analysis Systems Area Lead
 website: http://theoryandpractice.org
 presentations:
   - title: What does the Revolution in Artificial Intelligence Mean for Physics?
@@ -705,3 +705,54 @@ presentations:
     meetingurl: https://inferenceproject.yale.edu/colloquium-series
     focus-area: as
     location: Yale (Virtual)
+  - title: "Data Science is on its feet, now where is it going?"
+    date: 2022-04-07
+    url: https://cdis.wisc.edu/red-talks/
+    meeting: "RED Talks"
+    meetingurl: https://cdis.wisc.edu/red-talks/
+    focus-area: as
+    location: University of Wisconsin-Madison
+    video: https://youtu.be/VUmQZoM7Eiw
+  - title: "Simulation-based inference"
+    date: 2022-06-15
+    url: https://indico.flatironinstitute.org/event/3125/
+    meeting: Challenges and Prospects of ML for the Physical Sciences
+    meetingurl: https://indico.flatironinstitute.org/event/3125/
+    focus-area: as
+    location: Flatiron Institute, New York
+  - title: "The intersection of simulation-based inference and agent based modelling (Invited Talk)"
+    date: 2022-07-23
+    url: https://ai4abm.org/workshop_icml2022/
+    meeting: AI4ABM Workshop at the International Conference on Machine Learning (ICML) 2022
+    meetingurl: https://icml.cc/virtual/2022/workshop/13470
+    focus-area: as
+    location: Virtual
+    video: https://icml.cc/virtual/2022/workshop/13470#collapse-sl-18447
+  - title: "No Free Lunch: Setting our Expectations for Model-Independent Searches"
+    date: 2022-06-14
+    url: https://indico.uni-wuppertal.de/event/196/
+    meeting: Beyond Models
+    meetingurl: https://www.philphys.com/beyondmodels.html
+    focus-area: as
+    location: Bonn, Germany
+  - title: "Machine Learning for Science: Bridging Data-driven and Mechanistic Modelling"
+    date: 2022-09-18
+    url: https://www.dagstuhl.de/program/calendar/partlist/?semnr=22382&SUOG
+    meeting: "Machine Learning for Science: Bridging Data-driven and Mechanistic Modelling"
+    meetingurl: ttps://www.dagstuhl.de/program/calendar/partlist/?semnr=22382&SUOG
+    focus-area: as
+    location: Dagstuhl, Germany
+  - title: "Searching for a needle in a haystack: lessons from particle physics"
+    date: 2022-10-22
+    url: https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/
+    meeting: NASA Unidentified Aerial Phenomena Study Team
+    meetingurl: https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/
+    focus-area: as
+    location: Washington D.C.
+  - title: "Translational AI"
+    date: 2022-11-09
+    url: https://indico.cern.ch/event/1203733/
+    meeting: "A Coordinated Ecosystem for HL-LHC Computing R&D"
+    meetingurl: https://indico.cern.ch/event/1203733/
+    focus-area: as
+    location: Washington D.C.
