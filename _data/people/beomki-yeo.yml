@@ -112,7 +112,7 @@ presentations:
   - title: ACTS GPU Track Reconstruction Demonstrator
     date: 2022-10-06
     url: https://indico.cern.ch/event/1196648/contributions/5061574/attachments/2523332/4339297/2022_10_06_Software_Week.pdf
-    meeting: Joint Upgrade Software + Reconstruction session during S&C Week 73 
+    meeting: Joint Upgrade Software + Reconstruction session during S&C Week 73
     meetingurl: https://indico.cern.ch/event/1196648/
     project: acts
     focus-area: ia
