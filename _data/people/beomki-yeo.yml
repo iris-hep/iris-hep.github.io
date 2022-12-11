@@ -93,3 +93,43 @@ presentations:
     project: acts
     focus-area: ia
     location: CERN
+  - title: Connecting the dots conference 2022
+    date: 2022-05-31
+    url: https://indico.cern.ch/event/1103637/contributions/4821828/
+    meeting: Connecting the dots conference 2022
+    meetingurl: https://indico.cern.ch/event/1103637/
+    project: acts
+    focus-area: ia
+    location: Princeton University
+  - title: ACTS R&D for GPU track reconstruction
+    date: 2022-06-15
+    url: https://indico.cern.ch/event/1168515/contributions/4907454/attachments/2463257/4223494/220615_ATLAS_SC_week.pdf
+    meeting: Core SW / HCAF Session in S&C Week
+    meetingurl: https://indico.cern.ch/event/1168515/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: ACTS GPU Track Reconstruction Demonstrator
+    date: 2022-10-06
+    url: https://indico.cern.ch/event/1196648/contributions/5061574/attachments/2523332/4339297/2022_10_06_Software_Week.pdf
+    meeting: Joint Upgrade Software + Reconstruction session during S&C Week 73
+    meetingurl: https://indico.cern.ch/event/1196648/
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Navigation, field integration and track parameter transport through detectors using GPUs and CPUs within the ACTS R&D project
+    date: 2022-10-25
+    url: https://indico.cern.ch/event/1106990/contributions/4998085/
+    meeting: 21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+    meetingurl: https://indico.cern.ch/event/1106990/
+    project: acts
+    focus-area: ia
+    location: Villa Romanazzi Carducci, Bari, Italy
+  - title: Kalman Filtering Update in traccc
+    date: 2022-12-11
+    url: https://indico.cern.ch/event/1217196/contributions/5132620/attachments/2546223/4384762/Kalman%20Filtering%20Update%20in%20traccc.pdf
+    meeting: ACTS Parallelization Meeting
+    meetingurl: https://indico.cern.ch/event/1217196/
+    project: acts
+    focus-area: ia
+    location: CERN
