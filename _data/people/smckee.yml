@@ -432,15 +432,15 @@ presentations:
   - title: Packet and Flow Marking for Global Science Domains
     url: http://grpworkshop2022.theglobalresearchplatform.net/presentations/M-5-McKEE-GRP-2022-Packet_and_Flow_Marking.pdf
     meeting: "3rd Global Research Platform"
-    meetingurl: https://www.theglobalresearchplatform.net/meetings/the-3rd-global-research-platform-workshop-3grp/ 
+    meetingurl: https://www.theglobalresearchplatform.net/meetings/the-3rd-global-research-platform-workshop-3grp/
     date: 2022-10-10
     location: Salt Lake City, US
     focus-area: osglhc
     project: osg-networking
   - title: LHC[ONE|OPN] Network Monitoring Update
-    url: https://indico.cern.ch/event/1146558/contributions/5022661/attachments/2533607/4359869/LHCONE_LHCOPN%20Monitoring%20Update%20Fall%202022.pdf 
+    url: https://indico.cern.ch/event/1146558/contributions/5022661/attachments/2533607/4359869/LHCONE_LHCOPN%20Monitoring%20Update%20Fall%202022.pdf
     meeting: "#49 LHCOPN-LHCONE Meeting"
-    meetingurl: https://indico.cern.ch/event/1146558/ 
+    meetingurl: https://indico.cern.ch/event/1146558/
     date: 2022-10-24
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
@@ -448,7 +448,7 @@ presentations:
   - title: RNTWG Packet Marking and Pacing
     url: https://indico.cern.ch/event/1146558/contributions/5011791/attachments/2534747/4362099/LHCONE_LHCOPN%20Research%20Networking%20Technical%20WG%20Update%20%2349.pdf
     meeting: "#49 LHCOPN-LHCONE Meeting"
-    meetingurl: https://indico.cern.ch/event/1146558/ 
+    meetingurl: https://indico.cern.ch/event/1146558/
     date: 2022-10-25
     location: CERN, Geneva, Switzerland
     focus-area: osglhc
