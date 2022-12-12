@@ -3,7 +3,8 @@ e-mail: alexander.held@cern.ch
 focus-area:
   - as
 inspire-id: Alexander.Held.1
-institution: University of Wisconsin-Madison
+institution: University of Wisconsin–Madison
+past_institution: { institution: New York University, end_date: 2022-06-01 }
 name: Alexander Held
 photo: "/assets/images/team/alexander-held.jpeg"
 shortname: alexander-held
