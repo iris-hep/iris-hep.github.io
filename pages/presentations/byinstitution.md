@@ -21,20 +21,21 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
 <h4>{{uni.name}}</h4>
 <ul>
   {% for talk in sorted_presentations %}
-    {% if site.data.people[talk.member].past_institution.institution contains uni.name and talk.date < site.data.people[talk.member].past_institution.end_date%}
+    {% assign end_date = site.data.people[talk.member].past_institution.end_date | default: "2018-08-31" | date: "%Y-%m-%d" %}
+    {% assign past_institution = site.data.people[talk.member].past_institution.institution %}
+    {% assign talk_date = talk.date | date: "%Y-%m-%d" %}
+    {% if past_institution contains uni.name and talk_date < end_date %}
+      <li>
+        {%- include print_pres.html talk=talk -%} {{end_date}} {{past_institution}}
+      </li>
+
+      {% assign prescount = prescount | plus: "1" %}      
+    {% elsif site.data.people[talk.member].institution contains uni.name and talk_date > end_date %}
       <li>
         {%- include print_pres.html talk=talk -%}
       </li>
 
       {% assign prescount = prescount | plus: "1" %}
-    {% elsif site.data.people[talk.member].institution contains uni.name %}
-      {% unless talk.date < site.data.people[talk.member].past_institution.end_date %}
-        <li>
-          {%- include print_pres.html talk=talk -%}
-        </li>
-
-        {% assign prescount = prescount | plus: "1" %}
-      {% endunless %}
     {% endif %}
   {% endfor %}
 </ul>
