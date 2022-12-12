@@ -26,7 +26,7 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
     {% assign talk_date = talk.date | date: "%Y-%m-%d" %}
     {% if past_institution contains uni.name and talk_date < end_date %}
       <li>
-        {%- include print_pres.html talk=talk -%} {{end_date}} {{past_institution}}
+        {%- include print_pres.html talk=talk -%}
       </li>
 
       {% assign prescount = prescount | plus: "1" %}
