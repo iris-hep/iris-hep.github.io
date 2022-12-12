@@ -29,7 +29,7 @@ date | name | title | url | meeting | meetingurl | project | focus_area | instit
         {%- include print_pres.html talk=talk -%} {{end_date}} {{past_institution}}
       </li>
 
-      {% assign prescount = prescount | plus: "1" %}      
+      {% assign prescount = prescount | plus: "1" %}
     {% elsif site.data.people[talk.member].institution contains uni.name and talk_date > end_date %}
       <li>
         {%- include print_pres.html talk=talk -%}
