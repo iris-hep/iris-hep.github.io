@@ -421,3 +421,59 @@ presentations:
     location: Zoom
     focus-area: osglhc
     project: osg-networking
+  - title: Monitoring WLCG Networks and Site Connections
+    url: https://indico.cern.ch/event/1096034/contributions/5020629/attachments/2508279/4310565/GDB_Monitoring%20WLCG%20Networks%20and%20Site%20Connections_Shawn-McKee.pdf
+    meeting: "Grid Deployment Board (GDB) at Nikhef"
+    meetingurl: https://indico.cern.ch/event/1096034/
+    date: 2022-09-14
+    location: Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: Packet and Flow Marking for Global Science Domains
+    url: http://grpworkshop2022.theglobalresearchplatform.net/presentations/M-5-McKEE-GRP-2022-Packet_and_Flow_Marking.pdf
+    meeting: "3rd Global Research Platform"
+    meetingurl: https://www.theglobalresearchplatform.net/meetings/the-3rd-global-research-platform-workshop-3grp/ 
+    date: 2022-10-10
+    location: Salt Lake City, US
+    focus-area: osglhc
+    project: osg-networking
+  - title: LHC[ONE|OPN] Network Monitoring Update
+    url: https://indico.cern.ch/event/1146558/contributions/5022661/attachments/2533607/4359869/LHCONE_LHCOPN%20Monitoring%20Update%20Fall%202022.pdf 
+    meeting: "#49 LHCOPN-LHCONE Meeting"
+    meetingurl: https://indico.cern.ch/event/1146558/ 
+    date: 2022-10-24
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+    project: osg-networking
+  - title: RNTWG Packet Marking and Pacing
+    url: https://indico.cern.ch/event/1146558/contributions/5011791/attachments/2534747/4362099/LHCONE_LHCOPN%20Research%20Networking%20Technical%20WG%20Update%20%2349.pdf
+    meeting: "#49 LHCOPN-LHCONE Meeting"
+    meetingurl: https://indico.cern.ch/event/1146558/ 
+    date: 2022-10-25
+    location: CERN, Geneva, Switzerland
+    focus-area: osglhc
+    project: osg-networking
+  - title: Update on the Global perfSONAR Monitoring Framework
+    url: https://indico.cern.ch/event/1200682/contributions/5103524/
+    meeting: "Fall 2022 HEPiX Meeting"
+    meetingurl: https://indico.cern.ch/event/1200682/
+    date: 2022-11-02
+    location: Umea, Sweden / Zoom
+    focus-area: osglhc
+    project: osg-networking
+  - title: WLCG Networking Topics from the LHCONE/LHCOPN Meeting
+    url: https://indico.cern.ch/event/1162261/contributions/5124358/
+    meeting: "WLCG Meeting"
+    meetingurl: https://indico.cern.ch/event/1162261/
+    date: 2022-11-09
+    location: Lancaster, UK
+    focus-area: osglhc
+    project: osg-networking
+  - title: Network Packet Marking and Flow Labeling, the Technical Details
+    url: https://indico.cern.ch/event/1185600/contributions/5109309/
+    meeting: "5th Rucio Workshop"
+    meetingurl: https://indico.cern.ch/event/1185600/
+    date: 2022-11-11
+    location: Lancaster, UK
+    focus-area: osglhc
+    project: osg-networking
