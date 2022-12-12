@@ -5,7 +5,7 @@ shortname: 103523141
 permalink: /fellows/103523141.html
 fellow-name: Andrii Koval
 title: Andrii Koval - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-27
   end: 2022-09-02
@@ -20,13 +20,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/203-proposal-Andrii-Koval.pdf
 presentations:
-  - title: ""
-    date: ""
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
+- title: Improvement of GNN-based algorithm for full-event filtering and interpretation at the LHCb trigger
+  date: 2022-09-26
+  url: https://indico.cern.ch/event/1199557/contributions/5064305/attachments/2516264/4326114/Andrii%20Koval.%20Final%20Presentation.%20IRIS-HEP.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199557
+  recordingurl: https://youtu.be/7-0WZZCtqJI
+  focus-area: ia
 current_status: >
 github-username: andrii-hub
 ---

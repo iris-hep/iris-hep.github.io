@@ -5,7 +5,7 @@ shortname: durbar2003
 permalink: /fellows/durbar2003.html
 fellow-name: Durbar Chakraborty
 title: Durbar Chakraborty - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-05-06
   end: 2022-09-05
@@ -20,15 +20,14 @@ mentors:
 - Alex Held (University of Wisconsin-Madison)
 proposal: /assets/pdf/fellows-2022/016-proposal-Durbar-Chakraborty.pdf
 presentations:
-- title:
-  date:
-  url:
-  meeting:
-  meetingurl:
-  recordingurl:
-  focus-area:
+- title: Metrics to define user engagement on the Coffea-Casa Analysis Facility Deployments
+  date: 2022-09-14
+  url: https://indico.cern.ch/event/1195270/contributions/5043772/attachments/2508487/4310956/IRIS%20HEP%20Final%20Presentation.pdf
+  meeting: IRIS-HEP Topical Meetings
+  meetingurl: https://indico.cern.ch/event/1195270/
+  recordingurl: https://youtu.be/leIV_gRetHU
+  focus-area: AS
 current_status: >
-
 github-username: durbar2003
 
 ---

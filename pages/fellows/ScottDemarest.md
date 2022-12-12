@@ -5,7 +5,7 @@ shortname: ScottDemarest
 permalink: /fellows/ScottDemarest.html
 fellow-name: Scott Demarest
 title: Scott Demarest - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-01
   end: 2022-08-10
@@ -21,6 +21,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/013-proposal-Scott-Demarest.pdf
 presentations:
+- title: Enable Dask interopability with xrootd-accessible storage systems
+  date: 2022-09-28
+  url: https://indico.cern.ch/event/1195272/contributions/5064316/attachments/2518072/4329501/Scott_Demarest_Final_Fellows_Presentation.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195272/
+  recordingurl: https://youtu.be/01mHSh-gnXs
+  focus-area: as
 current_status: >
 
 github-username: ScottDemarest

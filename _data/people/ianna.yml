@@ -10,6 +10,36 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+  - title: Awkward to RDataFrame and back
+    date: 2022-10-25
+    url: https://indi.to/M7FrS
+    meeting: 21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research - ACAT2022
+    meetingurl: https://indico.cern.ch/event/1106990/
+    location: Bari, Italy
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: Awkward <--> RDataFrame Status
+    date: 2022-10-06
+    url: https://github.com/ianna/Awkward-RDataFrame/blob/main/Awkward-RDataFrame-status-evaluated.ipynb
+    meeting: 143rd ROOT Parallelism, Performance and Programming Model Meeting
+    meetingurl: https://indico.cern.ch/event/1208767/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: Awkward RDataFrame Tutorial
+    date: 2022-09-15
+    url: https://indi.to/jh92b
+    meeting: PyHEP 2022 (virtual) Workshop
+    meetingurl: https://indico.cern.ch/event/1150631/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: Awkward Array to RDataFrame and back
     date: 2022-05-10
     url: https://indico.fnal.gov/event/23628/contributions/240305/

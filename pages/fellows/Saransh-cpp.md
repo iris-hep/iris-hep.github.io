@@ -5,7 +5,7 @@ shortname: Saransh-cpp
 permalink: /fellows/Saransh-cpp.html
 fellow-name: Saransh Chopra
 title: Saransh Chopra - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-01
   end: 2022-08-31
@@ -36,9 +36,26 @@ focus-area: as
 mentors:
   - Henry Schreiner (Princeton University)
   - Jim Pivarski (Princeton University)
-
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
+- title: Vector - Constructors, documentation, and benchmarks
+  date: 2022-10-05
+  url: https://indico.cern.ch/event/1195273/contributions/5075655/attachments/2522735/4338115/IRIS-HEP%20final%20presentation%20-%20Saransh%20Chopra.pdf
+  meeting: IRIS-HEP Fellowship Final Presentations
+  meetingurl: https://indico.cern.ch/event/1195273/
+  location: online
+  recordingurl: https://www.youtube.com/watch?v=rjqnJbT7T1s
+  focus-area: as
+  project: vector
+- title: Constructing HEP vectors and analyzing HEP data using Vector
+  date: 2022-09-13
+  url: https://indi.to/bPmMc
+  meeting: PyHEP 2022 (virtual) Workshop
+  meetingurl: https://indico.cern.ch/event/1150631/
+  location: online
+  recordingurl: https://www.youtube.com/watch?v=4iveMzrbe7s&list=PLKZ9c4ONm-VkohKG-skzEG_gklMaSgaO7&index=14
+  focus-area: as
+  project: vector
 - title: Vector - Constructors, documentation, and benchmarks
   date: 2022-06-15
   url: https://indico.cern.ch/event/1155138/contributions/4850299/subcontributions/385059/attachments/2463404/4223807/Saransh-Chopra.pdf
@@ -46,5 +63,6 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1155138/
   recordingurl: https://www.youtube.com/watch?v=fLt7BHuASpw
   focus-area: as
+  project: vector
 github-username: Saransh-cpp
 ---

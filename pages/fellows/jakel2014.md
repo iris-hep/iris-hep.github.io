@@ -5,7 +5,7 @@ shortname: jakel2014
 permalink: /fellows/jakel2014.html
 fellow-name: Jake Li
 title: Jake Li - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2022-06-06
   end: 2022-08-12
@@ -24,6 +24,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/077-proposal-Jake-Li.pdf
 presentations:
+- title:  ServiceX Dashboard
+  date: 2022-09-26
+  url: https://indico.cern.ch/event/1199557/contributions/5064313/attachments/2516269/4326120/Jake%20Li%20-%20Final%20Presentation%20(IRIS-HEP%20Fellows).pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199557
+  recordingurl: https://youtu.be/7-0WZZCtqJI
+  focus-area: as
 current_status: >
 
 github-username: jakel2014

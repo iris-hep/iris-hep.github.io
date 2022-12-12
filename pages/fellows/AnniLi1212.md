@@ -5,7 +5,7 @@ shortname: AnniLi1212
 permalink: /fellows/AnniLi1212.html
 fellow-name: Anni Li
 title: Anni Li - IRIS-HEP Fellow
-active: True
+active: false
 dates:
   start: 2022-06-20
   end: 2022-09-12
@@ -20,6 +20,13 @@ mentors:
 
 proposal: /assets/pdf/fellows-2022/051-proposal-Anni-Li.pdf
 presentations:
+- title: Generation of High-Energy Particle Collisions using Generative Adversarial Particle Transformers
+  date: 2022-10-19
+  url: https://indico.cern.ch/event/1199559/contributions/5097284/attachments/2531422/4355523/IRIS-HEP%20Presentation-Anni%20Li.pdf
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1199559/
+  recordingurl: https://youtu.be/gEaqn7C9ipY
+  focus-area: ia
 current_status: >
 
 github-username: AnniLi1212

@@ -5,7 +5,7 @@ shortname: peterridolfi
 permalink: /fellows/peterridolfi.html
 fellow-name: Peter Ridolfi
 title: Peter Ridolfi - IRIS-HEP Fellow
-active: true
+active: false
 dates:
   start: 2022-05-16
   end: 2022-08-19
@@ -29,6 +29,16 @@ presentations:
   url: https://indico.cern.ch/event/1155138/contributions/4850299/
   meeting: IRIS-HEP Fellows Projects Lightning Talks 2022
   meetingurl: https://indico.cern.ch/event/1155138
+  location: Virtual
+  focus-area: as
+  project:
+
+- title: 'Designing and implementing a converting tool for statistical models between pyhf and CMS combine'
+  date: 2022-09-21
+  url: https://indico.cern.ch/event/1195271/contributions/5056107/
+  meeting: IRIS-HEP Fellows Presentations 2022
+  meetingurl: https://indico.cern.ch/event/1195271
+  recordingurl: https://youtu.be/H8mwFxK7sos&t=707s
   location: Virtual
   focus-area: as
   project:

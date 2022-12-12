@@ -19,6 +19,7 @@ permissions:
 jobs:
   website:
     runs-on: ubuntu-latest
+    if: github.repository_owner == 'iris-hep'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

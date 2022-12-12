@@ -1,5 +1,6 @@
 active: true
 focus-area:
+  - ia
   - ssc
 institution: Princeton University
 name: Kilian Lieret
@@ -8,3 +9,24 @@ shortname: klieret
 title:
 website: https://lieret.net
 presentations:
+  - title: "IRIS-HEP/HSF Training Activities"
+    date: 2022-11-07
+    meeting: Coordinated Ecosystem Workshop
+    meetingurl: https://indico.cern.ch/event/1203733/
+    url: https://indico.cern.ch/event/1203733/timetable/#33-hsf-iris-hep-training-activ
+    location: Washington DC
+    focus-area: ssc
+    project:
+  - title: "Training Challenge"
+    date: 2022-10-12
+    meeting: IRIS-HEP retreat
+    url: https://indico.cern.ch/event/1196111/timetable/#21-training-challenge
+    meetingurl: https://indico.cern.ch/event/1196111/
+  - title: "Everything you didn't know you needed"
+    date: 2022-08-05
+    meeting: CoDaS-HEP 2022
+    meetingurl: https://indico.cern.ch/event/1151367/
+    url: https://indico.cern.ch/event/1151367/timetable/#31-things-you-didnt-know-you-n
+    location: Princeton
+    focus-area: ssc
+    project:
