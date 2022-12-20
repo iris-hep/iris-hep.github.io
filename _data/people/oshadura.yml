@@ -9,6 +9,19 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
+  - title: Analysis Grand Challenge updates
+    date: 2022-11-15
+    url: https://indico.cern.ch/event/1216989/contributions/5119559/attachments/2538377/4388399/20221115_AGC_OPS(1).pdf
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1216989/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
   - title: First performance measurements with the Analysis Grand Challenge
     date: 2022-10-25
     url: https://indico.cern.ch/event/1106990/contributions/4998188/attachments/2534785/4362177/Analysis%20Grand%20Challenge%20-%20ACAT.pdf
