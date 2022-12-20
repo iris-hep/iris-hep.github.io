@@ -340,3 +340,12 @@ presentations:
     location: Virtual
     focus-area: as
     project:
+
+  - title: "Overview of Publishing Statistical Models"
+    date: 2022-12-13
+    url: https://indico.cern.ch/event/1197680/contributions/5160805/
+    meeting: "LHC Reinterpretation Forum Workshop 2022"
+    meetingurl: https://indico.cern.ch/event/1197680/
+    location: CERN
+    focus-area: as
+    project:
