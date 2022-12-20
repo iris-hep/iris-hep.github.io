@@ -306,3 +306,9 @@ presentations:
       - ia
       - core
     location: Quito, Ecuador
+  - title: "Differentiable Programming: Neural Networks and Selection Cuts Working Together"
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/abstracts/1736/
+    meetingurl: https://indico.jlab.org/event/459
+    meeting: CHEP 2024
+    focus-area: as
