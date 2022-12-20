@@ -60,7 +60,23 @@ The Analysis Grand Challenge is being conducted during 2021‒2023, leaving enou
 - Improve and increase complexity of developed analysis example used for next round of demonstration  (the first example based on CMS Open Data was shown at the [AGC Tools 2022 Workshop](https://indico.cern.ch/event/1126109/))
 
 
-### Recent videos and tutorials
+### Videos and tutorials
+
+#### AGC Workshop 2022
+
+*  IRIS-HEP AGC Tools 2022 Workshop - Alex Held, Oksana Shadura -  Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=uQCJQAy81EI)
+*  "Foundation libraries (uproot, awkward, hist, mplhep)" - Mason Proffitt -  Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=O9KvsDMKOmY)
+*  "Queries with func_adl and data delivery with ServiceX" - Gordon Watts - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=bZVWil01evs)
+*  "Columnar analysis with coffea" - Mat Adamec - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=IVDAFYrlEFY&list=PLeZvkLnDkqbQRzUFfKgBuajnwNzGflodE&index=4)
+*  "Statistical Inference: pyhf and cabinetry" - Matthew Feickert - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=tj_odt3z_4A)
+*  "From data delivery to statistical inference with CMS Open Data" - Alexander Held - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=n1lUjTY8GGQ)
+*  "Scale-out with coffea: coffea-casa analysis facility" - Carl Lundstedt - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=vkFn-apjmDA)
+*  "Data management with Skyhook" - Jayjeet Chakrabort - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=dyUNOWlj2cA)
+*  "Analysis user experience with Python HEP data science tools in ATLAS" - Matthew Feickert - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=8z06bioCGmM)
+*  "Analysis user experience with Python HEP data science tools in LHCb" - Nathan Allen Grieser - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=LDopZWvKS9Y)
+*  "Analysis user experience with Python HEP data science tools in CMS" - Lindsey Gray - Youtube video at [Analysis Grand Challenge Tools workshop 2022](https://www.youtube.com/watch?v=8cPv0q0FgwI)
+
+#### AGC Workshop 2021
 
 *  "Introduction to AGC Tools workshop" - Oksana Shadura, Alexander Held - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/i8brE9qpYv0)
 *  "Data handling: uproot, awkward & vector" - Mason Proffitt - Youtube video at [Analysis Grand Challenge Tools workshop 2021](https://youtu.be/KS4_bOXf0mg)

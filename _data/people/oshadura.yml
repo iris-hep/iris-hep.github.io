@@ -9,6 +9,91 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
+  - title: Analysis Grand Challenge updates
+    date: 2022-11-15
+    url: https://indico.cern.ch/event/1216989/contributions/5119559/attachments/2538377/4388399/20221115_AGC_OPS(1).pdf
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1216989/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: First performance measurements with the Analysis Grand Challenge
+    date: 2022-10-25
+    url: https://indico.cern.ch/event/1106990/contributions/4998188/attachments/2534785/4362177/Analysis%20Grand%20Challenge%20-%20ACAT.pdf
+    meeting: ACAT 2022
+    meetingurl: https://indico.cern.ch/event/1106990
+    location: "Bari, Italy"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: AGC - Perspective from focus areas and projects
+    date: 2022-10-12
+    url: https://indico.cern.ch/event/1196111/contributions/5067472/subcontributions/398380/attachments/2527401/4347559/Analysis%20Grand%20Challenge%20-%20IRIS-HEP%20retreat.pdf
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/1196111/
+    location: Princeton, USA
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Analysis Grand Challenge updates
+    date: 2022-10-04
+    url: https://indico.cern.ch/event/1193364/contributions/5016503/attachments/2522003/4336717/AGC%20Ops%20Planning,%20October%204th%202022.pdf
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1193364/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Report from Analysis Ecosystems II Workshop
+    date: 2022-07-12
+    url: https://indico.jlab.org/event/505/contributions/10100/attachments/8057/11397/HSF%20Analysis%20Ecosystems%20Workshop%20II%20Oksana%20Shadura.pdf
+    meeting: Software & Computing Round Table (2022)
+    meetingurl: https://indico.jlab.org/event/505
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Analysis Facilities
+    date: 2022-07-16
+    url: https://indico.fnal.gov/event/22303/contributions/245916/attachments/157430/205950/CompF4%20CSS%20AF%20.pdf
+    meeting: Seattle Snowmass Summer Meeting 2022
+    meetingurl: https://indico.fnal.gov/event/22303/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Analysis Facilities - Summary
+    date: 2022-05-25
+    url: https://docs.google.com/presentation/d/10lC3aFehY9d0uDsfDbXOr1_eQh5KMZMkbuZH4bDFrRQ/edit?usp=sharing
+    meeting: Analysis Ecosystem Workshop II
+    meetingurl: https://indico.cern.ch/event/1125222/
+    location: IJCLab, Orsay, France
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
   - title: IRIS-HEP Analysis Grand Challenge Tools Workshop
     date: 2022-04-25
     url: https://indico.cern.ch/event/1126109/contributions/4788591/attachments/2430323/4162323/Analysis%20Grand%20Challenge%20Tools%20Workshop%202022.pdf
@@ -38,6 +123,18 @@ presentations:
     url: https://indico.cern.ch/event/1134876/contributions/4761553/attachments/2421358/4145395/Analysis%20Grand%20Challenge_Ops%202022_04_05.pdf
     meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
     meetingurl: https://indico.cern.ch/event/1134876/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: CompF4 Analysis Facility - Discussion & Priorities
+    date: 2022-04-08
+    url: https://indico.fnal.gov/event/53251/sessions/20219/attachments/153931/199867/CompF4_%20Analysis%20Facility.pdf
+    meeting: Snowmass CompF4 Topical Group Workshop
+    meetingurl: https://indico.fnal.gov/event/53251/
     location: Virtual
     focus-area:
       - as
