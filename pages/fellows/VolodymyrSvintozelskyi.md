@@ -22,7 +22,7 @@ projects:
   mentors:
   -  Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
   proposal: /assets/pdf/fellows-2022/201-proposal-Volodymyr-Svintozelskyi.pdf
-- project_title: New triger lines dedicated to long-lived particle detection at the LHCb experiment
+- project_title: New trigger lines dedicated to long-lived particle detection at the LHCb experiment
   project_goal: >
     Development of new algorithms and software for the high level trigger lines at the LHCb experiment. These will be crucial to detect new long-lived particles during Run3 of the LHC proton-proton collider.
   mentors:
