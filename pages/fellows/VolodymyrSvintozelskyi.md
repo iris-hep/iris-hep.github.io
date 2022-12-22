@@ -7,18 +7,27 @@ fellow-name: Volodymyr Svintozelskyi
 title: Volodymyr Svintozelskyi - IRIS-HEP Fellow
 active: false
 dates:
-  start: 2022-06-21
-  end: 2022-09-01
+  - start: 2022-06-21
+    end: 2022-09-01
+  - start: 2022-12-01
+    end: 2023-02-28
 photo: /assets/images/team/Volodymyr-Svintozelskyi.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: volodymyrsvintozelskyi@gmail.com
-project_title: Development of high-performance reconstruction algorithms for detecting long-lived particles
-project_goal: >
-    Development of new Artificial Intelligence applications that are impossible to implement with the current hardware solutions due to the requirements of high-speed response and power constraints. Development and implementation of particle reconstruction algorithms using GPUs and/or FPGAs, as well as the real-time processing of massive data from the LHCb experiment. This will be crucial for detecting long-lived particles predicted in new physics models, and also interesting for industrial and real-life applications.
-mentors:
-  -  Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
 
-proposal: /assets/pdf/fellows-2022/201-proposal-Volodymyr-Svintozelskyi.pdf
+projects:
+- project_title: Development of high-performance reconstruction algorithms for detecting long-lived particles
+  project_goal: >
+    Development of new Artificial Intelligence applications that are impossible to implement with the current hardware solutions due to the requirements of high-speed response and power constraints. Development and implementation of particle reconstruction algorithms using GPUs and/or FPGAs, as well as the real-time processing of massive data from the LHCb experiment. This will be crucial for detecting long-lived particles predicted in new physics models, and also interesting for industrial and real-life applications.
+  mentors:
+  -  Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
+  proposal: /assets/pdf/fellows-2022/201-proposal-Volodymyr-Svintozelskyi.pdf
+- project_title: New triger lines dedicated to long-lived particle detection at the LHCb experiment
+  project_goal: >
+    Development of new algorithms and software for the high level trigger lines at the LHCb experiment. These will be crucial to detect new long-lived particles during Run3 of the LHC proton-proton collider.
+  mentors:
+  -  Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
+  proposal: /assets/pdf/fellows-2022/201-proposal-Volodymyr-Svintozelskyi-2.pdf
 presentations:
   - title: "Volodymyr Svintozelskyi - Development of high-performance reconstruction algorithms for detecting long-lived particles"
     date: 2022-07-27
