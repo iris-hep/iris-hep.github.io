@@ -190,3 +190,15 @@ presentations:
     url: https://indico.cern.ch/event/1096029/contributions/4810960/attachments/2426125/4153599/2022-04-13.osg-ahm-recap.pdf
     focus-area: osglhc
     date: 2022-04-13
+  - title: "Data Grand Challenge"
+    meeting: "IRIS-HEP Institute Retreat - October 2022"
+    meetingurl: https://indico.cern.ch/event/1196111/
+    url: https://indico.cern.ch/event/1196111/contributions/5067470/attachments/2527174/4347097/IRIS-HEP-Retreat-2022-DGC.pdf
+    focus-area: doma
+    date: 2022-10-12
+  - title: "BDT: Status update"
+    meeting: "WLCG DOMA General Meeting - December 2022"
+    meetingurl: https://indico.cern.ch/event/1226223/
+    url: https://indico.cern.ch/event/1226223/contributions/5158532/attachments/2562758/4417484/BDT%20Year-In-Review.pdf
+    focus-area: doma
+    date: 2022-12-07
