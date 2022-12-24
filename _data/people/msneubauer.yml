@@ -182,3 +182,11 @@ presentations:
     location: Bologna, Italy
     focus-area:
       - as
+  - title: "Workshop Welcome and Goals"
+    date: 2022-11-22
+    url: https://indico.cern.ch/event/1211229/contributions/5120848
+    meeting: Software Citation and Recognition in HEP
+    meetingurl: https://indico.cern.ch/event/1211229
+    location: Virtual
+    focus-area:
+      - ssc
