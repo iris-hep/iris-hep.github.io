@@ -20,6 +20,12 @@
 - name: SWIFT-HEP
   url: https://swift-hep.github.io
 
+- name: HSF-India
+  url: http://research-software-collaborations.org
+  awards:
+    - type: OISE
+      number: 2201990
+
 - name: DIANA/HEP
   url: http://diana-hep.org/
   awards:
