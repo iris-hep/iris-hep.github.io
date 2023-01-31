@@ -14,7 +14,7 @@ In spite of many efforts over the years to diversify the landscape of various ST
 
 At the IRIS-HEP collaboration, the current and next generation of women in software development are working together toward the future of high energy particle physics. Collectively, the women of IRIS-HEP are integral members of the software research and development efforts which will go towards ensuring the success of the future High-Luminosity Large Hadron Collider (HL-LHC). Elizabeth Sexton-Kennedy, a computer science researcher at the Department of Energy’s Fermi National Accelerator Laboratory and member of the IRIS-HEP advisory board believes that representation for women in software develops in pockets. For example, “If you have a female mentor in software and computing, your specific group might attract more women,” she said.
 
-Here, a grouping of women working with the IRIS-HEP collaboration share their thoughts on how to encourage more women to join software and the opportunities the collaboration provides to young researchers in the field.  
+Here, a grouping of women working with the IRIS-HEP collaboration share their thoughts on how to encourage more women to join software and the opportunities the collaboration provides to young researchers in the field.
 
 {% include figure.html
     file="/assets/images/posts/2023-01-27-inclusive-space-for-women-Elizabeth-Sexton-Kennedy.png"
@@ -42,13 +42,13 @@ Shadura believes the question of why women are so underrepresented in software i
     alt="Photo of Rocky Bala Garg, a postdoctoral researcher with Stanford University"
     caption="Rocky Bala Garg. Photo credit: Rocky Bala Garg"
     figure-style="width: 45%"
-%} 
+%}
 
-Beyond allowing women to foster balance in their work lives and personal lives, it’s also crucial to foster an inclusive and welcoming environment to prevent feelings of alienation in the workplace. Rocky Bala Garg, a postdoctoral researcher with Stanford University, has recognized an absence of role models for women and minorities in software. “Most of the role models that we see are men and we don’t see many popular role models for women and minorities in these fields,” she said. “This creates a visibility problem and it’s difficult for these people to envision themselves as having a career in software.” 
+Beyond allowing women to foster balance in their work lives and personal lives, it’s also crucial to foster an inclusive and welcoming environment to prevent feelings of alienation in the workplace. Rocky Bala Garg, a postdoctoral researcher with Stanford University, has recognized an absence of role models for women and minorities in software. “Most of the role models that we see are men and we don’t see many popular role models for women and minorities in these fields,” she said. “This creates a visibility problem and it’s difficult for these people to envision themselves as having a career in software.”
 
 
 
-Bala Garg believes that putting women and minorities in crucial leadership roles would provide the role models which could be pivotal in encouraging others to enter the software field. 
+Bala Garg believes that putting women and minorities in crucial leadership roles would provide the role models which could be pivotal in encouraging others to enter the software field.
 
 
 
