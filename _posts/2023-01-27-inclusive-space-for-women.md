@@ -4,51 +4,59 @@ title: "Developing an inclusive space for women in software at IRIS-HEP"
 author:  Allison Gasparini
 image: /assets/images/posts/2023-01-27-inclusive-space-for-women-Rocky-Bala-Garg-WS.png
 image-caption: >
-    IRIS-HEP Institute Retreat at Princeton, October 2022. Credit: Floe Fusin-Wischusen, Princeton University
+    Rocky Bala Garg giving a presentation at the Connecting the Dots Workshop, Princeton University, June 2, 2022. Credit: Henry Schreiner, Princeton University
 summary: >
   At the IRIS-HEP collaboration, the current and next generation of women in software development are working together toward the future of high energy particle physics. 
 ---
 
 In spite of many efforts over the years to diversify the landscape of various STEM fields, women remained stubbornly and chronically underrepresented in software. According to a [2022 report](https://www.celential.ai/blog/percentage-of-female-software-engineers/&sa=D&source=editors&ust=1675183084200683&usg=AOvVaw3wG0ztG_q7bNlQ5Xb7iHzU) on gender diversity in software engineering, women accounted for merely 21 percent of software engineers in the U.S.
 
+
 At the IRIS-HEP collaboration, the current and next generation of women in software development are working together toward the future of high energy particle physics. Collectively, the women of IRIS-HEP are integral members of the software research and development efforts which will go towards ensuring the success of the future High-Luminosity Large Hadron Collider (HL-LHC). Elizabeth Sexton-Kennedy, a computer science researcher at the Department of Energy’s Fermi National Accelerator Laboratory and member of the IRIS-HEP advisory board believes that representation for women in software develops in pockets. For example, “If you have a female mentor in software and computing, your specific group might attract more women,” she said.
+
+Here, a grouping of women working with the IRIS-HEP collaboration share their thoughts on how to encourage more women to join software and the opportunities the collaboration provides to young researchers in the field.  
 
 {% include figure.html
     file="/assets/images/posts/2023-01-27-inclusive-space-for-women-Elizabeth-Sexton-Kennedy.png"
     alt="Photo of Elizabeth Sexton-Kennedy, a computer science researcher at the Department of Energy’s Fermi National Accelerator Laboratory"
     caption="Elizabeth Sexton-Kennedy. Photo credit: Fermilab."
+    figure-style="float: left;width: 30%;margin-right: 20px;margin-left: 0px"
 %}
-
-Elizabeth Sexton-Kennedy. Photo credit: Fermilab.
-
-Here, a grouping of women working with the IRIS-HEP collaboration share their thoughts on how to encourage more women to join software and the opportunities the collaboration provides to young researchers in the field.  
-
 
 ## Encouraging Women in Software
 
 Within the wider world of software environments, Oksana Shadura, a software engineer with the University of Nebraska, said she knows that at IRIS-HEP there are “a lot of efforts to hire women as well as promote them.” 
 
-Shadura believes the question of why women are so underrepresented in software is complex and without a single answer. The main thing, she said, is to provide an environment where women don’t feel like they have to choose between their career and family. “I noticed that at conferences in high energy physics we still have an issue that childcare facilities are not the default, for example,” Shadura said.
-
 {% include figure.html
     file="/assets/images/posts/2023-01-27-inclusive-space-for-women-Oksana-Shadura.jpg"
     alt="Photo of Oksana Shadura, a software engineer with the University of Nebraska"
     caption="Oksana Shadura. Photo credit: Noemi Caraban Gonzalez/CERN."
+    figure-style="width: 45%"
 %}
 
-Beyond allowing women to foster balance in their work lives and personal lives, it’s also crucial to foster an inclusive and welcoming environment to prevent feelings of alienation in the workplace. Rocky Bala Garg, a postdoctoral researcher with Stanford University, has recognized an absence of role models for women and minorities in software. “Most of the role models that we see are men and we don’t see many popular role models for women and minorities in these fields,” she said. “This creates a visibility problem and it’s difficult for these people to envision themselves as having a career in software.” 
+Shadura believes the question of why women are so underrepresented in software is complex and without a single answer. The main thing, she said, is to provide an environment where women don’t feel like they have to choose between their career and family. “I noticed that at conferences in high energy physics we still have an issue that childcare facilities are not the default, for example,” Shadura said.
 
-Bala Garg believes that putting women and minorities in crucial leadership roles would provide the role models which could be pivotal in encouraging others to enter the software field. 
 
 {% include figure.html
     file="/assets/images/posts/2023-01-27-inclusive-space-for-women-Rocky-Bala-Garg-solo.jpg"
     alt="Photo of Rocky Bala Garg, a postdoctoral researcher with Stanford University"
     caption="Rocky Bala Garg. Photo credit: Rocky Bala Garg"
+    figure-style="width: 45%"
 %} 
+
+Beyond allowing women to foster balance in their work lives and personal lives, it’s also crucial to foster an inclusive and welcoming environment to prevent feelings of alienation in the workplace. Rocky Bala Garg, a postdoctoral researcher with Stanford University, has recognized an absence of role models for women and minorities in software. “Most of the role models that we see are men and we don’t see many popular role models for women and minorities in these fields,” she said. “This creates a visibility problem and it’s difficult for these people to envision themselves as having a career in software.” 
+
+
+
+Bala Garg believes that putting women and minorities in crucial leadership roles would provide the role models which could be pivotal in encouraging others to enter the software field. 
+
+
 
 ## IRIS-HEP and Opportunity
 
 The key to empowering women in software goes beyond just encouraging them to join a project. Once a collaboration has a young, diverse cohort of researchers, it’s important to provide them with opportunities for growth and success as they move along in their career.
+
+
 
 In order to become a tenured professor, for example, a person must be doing excellent research. “And you need the resources to do it,” said Heather Gray, an associate professor at the University of California, Berkeley. IRIS-HEP is among the types of projects which provide those resources to young researchers, allowing them to work on interesting problems in the field.
 
@@ -58,7 +66,9 @@ In order to become a tenured professor, for example, a person must be doing exce
     file="/assets/images/posts/2023-01-27-inclusive-space-for-women-Heather-Gray.jpg"
     alt="Photo of Heather Gray,  an associate professor at the University of California, Berkeley"
     caption="Heather Gray. Photo credit: Heather Gray"
+    figure-style="float: left;margin-right: 20px;margin-left: 0px; width: 40%;"
 %}
+
 
 At IRIS-HEP, Gray is working on rewriting software to recreate the trajectories of charged particles moving through the particle detector. With the newer technology behind the HL-LHC, it’s crucial that the software be fast enough for the upgraded facility. “Working on these algorithms is going to be critical if you want to do physics there,” said Gray.
 
