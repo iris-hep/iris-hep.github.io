@@ -6,7 +6,7 @@ image: /assets/images/posts/2023-01-27-inclusive-space-for-women-Rocky-Bala-Garg
 image-caption: >
     IRIS-HEP Institute Retreat at Princeton, October 2022. Credit: Floe Fusin-Wischusen, Princeton University
 summary: >
-  At the IRIS-HEP collaboration, the current and next generation of women in software development are working together toward the future of high energy particle physics. 
+  At the IRIS-HEP collaboration, the current and next generation of women in software development are working together toward the future of high energy particle physics.
 ---
 
 In spite of many efforts over the years to diversify the landscape of various STEM fields, women remained stubbornly and chronically underrepresented in software. According to a [2022 report](https://www.celential.ai/blog/percentage-of-female-software-engineers/&sa=D&source=editors&ust=1675183084200683&usg=AOvVaw3wG0ztG_q7bNlQ5Xb7iHzU) on gender diversity in software engineering, women accounted for merely 21 percent of software engineers in the U.S.
@@ -21,12 +21,12 @@ At the IRIS-HEP collaboration, the current and next generation of women in softw
 
 Elizabeth Sexton-Kennedy. Photo credit: Fermilab.
 
-Here, a grouping of women working with the IRIS-HEP collaboration share their thoughts on how to encourage more women to join software and the opportunities the collaboration provides to young researchers in the field.  
+Here, a grouping of women working with the IRIS-HEP collaboration share their thoughts on how to encourage more women to join software and the opportunities the collaboration provides to young researchers in the field.
 
 
 ## Encouraging Women in Software
 
-Within the wider world of software environments, Oksana Shadura, a software engineer with the University of Nebraska, said she knows that at IRIS-HEP there are “a lot of efforts to hire women as well as promote them.” 
+Within the wider world of software environments, Oksana Shadura, a software engineer with the University of Nebraska, said she knows that at IRIS-HEP there are “a lot of efforts to hire women as well as promote them.”
 
 Shadura believes the question of why women are so underrepresented in software is complex and without a single answer. The main thing, she said, is to provide an environment where women don’t feel like they have to choose between their career and family. “I noticed that at conferences in high energy physics we still have an issue that childcare facilities are not the default, for example,” Shadura said.
 
@@ -36,15 +36,15 @@ Shadura believes the question of why women are so underrepresented in software i
     caption="Oksana Shadura. Photo credit: Noemi Caraban Gonzalez/CERN."
 %}
 
-Beyond allowing women to foster balance in their work lives and personal lives, it’s also crucial to foster an inclusive and welcoming environment to prevent feelings of alienation in the workplace. Rocky Bala Garg, a postdoctoral researcher with Stanford University, has recognized an absence of role models for women and minorities in software. “Most of the role models that we see are men and we don’t see many popular role models for women and minorities in these fields,” she said. “This creates a visibility problem and it’s difficult for these people to envision themselves as having a career in software.” 
+Beyond allowing women to foster balance in their work lives and personal lives, it’s also crucial to foster an inclusive and welcoming environment to prevent feelings of alienation in the workplace. Rocky Bala Garg, a postdoctoral researcher with Stanford University, has recognized an absence of role models for women and minorities in software. “Most of the role models that we see are men and we don’t see many popular role models for women and minorities in these fields,” she said. “This creates a visibility problem and it’s difficult for these people to envision themselves as having a career in software.”
 
-Bala Garg believes that putting women and minorities in crucial leadership roles would provide the role models which could be pivotal in encouraging others to enter the software field. 
+Bala Garg believes that putting women and minorities in crucial leadership roles would provide the role models which could be pivotal in encouraging others to enter the software field.
 
 {% include figure.html
     file="/assets/images/posts/2023-01-27-inclusive-space-for-women-Rocky-Bala-Garg-solo.jpg"
     alt="Photo of Rocky Bala Garg, a postdoctoral researcher with Stanford University"
     caption="Rocky Bala Garg. Photo credit: Rocky Bala Garg"
-%} 
+%}
 
 ## IRIS-HEP and Opportunity
 
@@ -52,7 +52,7 @@ The key to empowering women in software goes beyond just encouraging them to joi
 
 In order to become a tenured professor, for example, a person must be doing excellent research. “And you need the resources to do it,” said Heather Gray, an associate professor at the University of California, Berkeley. IRIS-HEP is among the types of projects which provide those resources to young researchers, allowing them to work on interesting problems in the field.
 
-“IRIS-HEP is enabling science which is helping people progress in their careers in ways they may not have otherwise,” said Gray. 
+“IRIS-HEP is enabling science which is helping people progress in their careers in ways they may not have otherwise,” said Gray.
 
 {% include figure.html
     file="/assets/images/posts/2023-01-27-inclusive-space-for-women-Heather-Gray.jpg"
@@ -72,6 +72,6 @@ Together, the IRIS-HEP researchers are propelling forward technology which will 
 
 “The research that’s going in to figure out how physicists can actually access all that data in a meaningful way that can produce the results that are worthy of all the spending that’s being done to build the accelerator and the upgraded experiments – there’s a lot of good work going on in that area,” said Sexton-Kennedy.
 
-IRIS-HEP fellowship programs allow for students to get involved in developing new ideas for research and software development. Bala Garg said she’s worked with a diverse array of fellows at IRIS-HEP over the last couple of years. 
+IRIS-HEP fellowship programs allow for students to get involved in developing new ideas for research and software development. Bala Garg said she’s worked with a diverse array of fellows at IRIS-HEP over the last couple of years.
 
-“I would encourage everyone at the beginning of university to apply for an IRIS-HEP fellowship,” said Shadura. And in the end, Shadura has one last piece of advice for all girls looking to break into computer science and software development, “Just don’t give up, don’t listen to anybody and join our army of female computer scientists.” 
+“I would encourage everyone at the beginning of university to apply for an IRIS-HEP fellowship,” said Shadura. And in the end, Shadura has one last piece of advice for all girls looking to break into computer science and software development, “Just don’t give up, don’t listen to anybody and join our army of female computer scientists.”
