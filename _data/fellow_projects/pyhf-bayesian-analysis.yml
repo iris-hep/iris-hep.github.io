@@ -1,0 +1,23 @@
+open: yes
+postdate: 2023-01-09
+title: Bayesian Analysis with pyhf
+description: >
+  Collider physics analyses have historically favored Frequentist statistical methodologies,
+  with some exceptions of Bayesian inference in LHC analyses through use of the [Bayesian
+  Analysis Toolkit (BAT)](https://bat.github.io/BAT.jl/stable).
+  As HistFactory's model construction allows for creation of models that can be interpreted
+  as having Bayesian priors, HistFactory models built with [pyhf](https://pyhf.readthedocs.io/)
+  can be used for both Frequentist and Bayesian analyses.
+  The project goal is to build a library on top of the pyhf Python API to allow for Bayesian
+  analysis of HistFactory models using the [PyMC](https://www.pymc.io/) Python library
+  and leverage pyhf's automatic differentiation and hardware acceleration through its
+  [JAX](http://jax.readthedocs.io/) computational backend.
+  Validation tests of results will be conducted against the BAT and
+  [LiteHF](https://github.com/JuliaHEP/LiteHF.jl) Julia libraries.
+  If time permits, work on integrating the functionality into pyhf would be possible, though
+  it would not be expected to be completed in this Fellow project.
+  Applicants are expected to have strong working experience with Python and basic knowledge
+  of statistical analysis.
+contacts:
+  - matthewfeickert
+  - Lukas Heinrich

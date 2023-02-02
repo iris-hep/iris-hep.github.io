@@ -238,5 +238,26 @@ presentations:
     meeting: "The Data Thread Conference"
     meetingurl: "https://thedatathread.com"
     url: "https://youtu.be/QN_NVseO-NA?t=3392"
-    focu-area: doma
+    focus-area: doma
+    project: skyhookdm
+  - title: "Welcome & Introductions"
+    date: 2022-09-27
+    meeting: "2022 UC Santa Cruz Open Source Symposium"
+    meetingurl: "https://ospo.ucsc.edu/event/20220927/"
+    url: "https://drive.google.com/file/d/1FspRtHD5MSqmTo65-hkjrBY_Br2ZrFCu/view?usp=sharing"
+    focus-area: doma
+    project: skyhookdm
+  - title: "Birds of a Feather: Pathways to Enable an Open Source Ecosystem for the Skyhook Project"
+    date: 2022-09-28
+    meeting: "2022 UC Santa Cruz Open Source Symposium"
+    meetingurl: "https://ospo.ucsc.edu/event/20220927/"
+    url: "https://drive.google.com/file/d/1GkeHc87rUPgCIDtaIv7Ls3rJl-CZLKa_/view?usp=sharing"
+    focus-area: doma
+    project: skyhookdm
+  - title: "Open Source Program Offices in Research Universities"
+    date: 2022-12-02
+    meeting: "CHPC National Conference 2022"
+    meetingurl: "https://events.chpc.ac.za/event/113/timetable/#20221202.detailed"
+    url: "https://events.chpc.ac.za/event/113/contributions/1707/"
+    focus-area: doma
     project: skyhookdm
