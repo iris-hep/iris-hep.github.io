@@ -79,7 +79,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
 * **DOE** - [The U.S. Department of Energy](https://www.energy.gov)
 
-* **DOMA** - [Data Organization, Management and Access](https://iris-hep.org/doma.html) One of the R&D focus areas of the IRIS-HEP Software Institute. A term for an integrated view of all aspects of how a project interacts with and uses data.  
+* **DOMA** - [Data Organization, Management and Access](https://iris-hep.org/doma.html) One of the R&D focus areas of the IRIS-HEP Software Institute. A term for an integrated view of all aspects of how a project interacts with and uses data.
 
 * **DUNE** - The [Deep Underground Neutrino Experiment](http://www.fnal.gov/pub/science/lbnf-dune/index.html) is the U.S. future flagship neutrino experiment at FNAL.
 
@@ -165,7 +165,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
 * **ONNX** - [Open Neural Network Exchange](https://onnx.ai), an evolving open-source standard for exchanging AI models
 
-* **Operations Programs or Ops Programs -** -  
+* **Operations Programs or Ops Programs -** -
 
 * **Openlab** - ERN [Openlab](https://openlab.cern) is a public-private partnership that accelerates the development of cutting-edge solutions for the worldwide LHC community and wider scientific research.
 
