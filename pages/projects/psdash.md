@@ -24,7 +24,7 @@ team:
 ### Project description
 
 
-The OSG and WLCG collaborations have been operating a global Research & Education (R&E) network monitoring infrastructure for more than 10 years.  Currently data from over 230 perfSONAR instances are centrally gathered into an Elasticsearch cluster at the University of Chicago.   This rich dataset should be able to provide visibility into our R&E networks and identify various types of network problems as they occur.  
+The OSG and WLCG collaborations have been operating a global Research & Education (R&E) network monitoring infrastructure for more than 10 years.  Currently data from over 230 perfSONAR instances are centrally gathered into an Elasticsearch cluster at the University of Chicago.   This rich dataset should be able to provide visibility into our R&E networks and identify various types of network problems as they occur.
 
 [`pSDash`](https://ps-dash.uc.ssl-hep.org/) is designed to track, visualize, and filter for network issues based upon the perfSONAR and related network monitoring data being gathered by OSG and WLCG services. The project is complementary to the Alarms&Alerts service (for which anyone can subscribe; see below) and currently covers the following problems:
 -   **Throughput issues**
@@ -37,8 +37,8 @@ The OSG and WLCG collaborations have been operating a global Research & Educatio
 
 You can access the application at [https://ps-dash.uc.ssl-hep.org/](https://ps-dash.uc.ssl-hep.org/)  and subscribe to receive emails about the most recent alarms at [https://aaas.atlas-ml.org/](https://aaas.atlas-ml.org/) (make sure you add a tag if you are interested in specific sites).
 
-[![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/sand-ci/ps-dash) pSDash code   
-[![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/sand-ci/AlarmsAndAlerts) Alarms&Alerts Service code   
+[![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/sand-ci/ps-dash) pSDash code
+[![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/sand-ci/AlarmsAndAlerts) Alarms&Alerts Service code
 
 
 ### Contact us
