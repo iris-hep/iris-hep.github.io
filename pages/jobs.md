@@ -25,3 +25,5 @@ with an HEP background, but which are not directly related to IRIS-HEP.
   * [Computing Services Specialist](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Computing--Services-Specialist-I_R_005963) - Envisioned to have both sysadmin/technical and user-facing components supporting HPC users (e.g. Lattice QCD) as well as multiple HEP experiments across all frontiers.
 
 ### Others
+
+  * More in general, many RSE positions beyond HEP can be found on the [US-RSE Jobs page](https://us-rse.org/jobs/) or the [Society of Research Software Engineering](https://society-rse.org/careers/vacancies/) for the UK and elsewhere.
