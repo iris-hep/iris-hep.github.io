@@ -1,0 +1,8 @@
+name: PyHEP.dev 2023 developers workshop
+startdate: 2023-07-25
+enddate: 2023-07-28
+location: Princeton University
+meetingurl: https://indico.cern.ch/event/1234156/
+image:
+description: PyHEP.dev is an in-person, informal workshop for developers of Python software in HEP to plan a coherent roadmap and make priorities for the upcoming year.
+labels:
