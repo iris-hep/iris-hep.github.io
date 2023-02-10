@@ -4,8 +4,11 @@ layout: default
 title: Open IRIS-HEP fellow projects
 ---
 <center>
-<h3> Open IRIS-HEP fellow projects</h3>
+<h3> Former page of Open IRIS-HEP fellow projects</h3>
 </center>
+
+<br>
+Please visit [this page](http://research-software-collaborations.org/projects_irishep) instead.
 
 <br>
 This page lists a number of known software R&D projects of interest
