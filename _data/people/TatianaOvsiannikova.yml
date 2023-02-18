@@ -1,6 +1,6 @@
 active: true
 focus-area:
-  - as?
+  - as
 institution: University of Washington, Seattle
 name: Tatiana Ovsiannikova
 photo: "/assets/images/team/Tatiana-Ovsiannikova.jpg"
@@ -14,4 +14,4 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1211083/
     focus-area: as
     location: "CERN, Switzerland"
-    project: Athena, SPOT
+    project: 
