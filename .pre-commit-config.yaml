@@ -37,7 +37,7 @@ repos:
       - id: codespell
         exclude: (^Gemfile.lock|\.js|\.map)$
         args:
-          ["-L", "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu"]
+          ["-L", "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser"]
 
   - repo: local
     hooks:
