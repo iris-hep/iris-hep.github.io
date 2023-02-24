@@ -8,8 +8,14 @@ title: Available Positions
 
 A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
+### Morgridge Institute
+  * [Research Software Engineer](https://morgridge.org/job-posting/research-software-engineer/)
+
 ### Princeton University
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/16019/research-software-engineer-ii/job?mode=view&mobile=false&width=696&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
+
+### University of Wisconsin–Madison
+  * [CHTC Resarch Cyberinfrastructure Specialist](https://jobs.hr.wisc.edu/en-us/job/516945/chtc-research-cyberinfrastructure-specialist-1)
 
 # Other positions of interest for HEP people
 
