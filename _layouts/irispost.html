@@ -21,9 +21,9 @@ layout: default
   </header>
   {%- if page.image and page.image != "/assets/images/default-card.png" -%}
     {%- if page.image-caption -%}
-      {% include figure.html file=page.image alt="Post primary image" caption=page.image-caption %}
+      {% include figure.html file=page.image alt="Post primary image" caption=page.image-caption class=page.figure-class %}
     {%- else -%}
-      {% include figure.html file=page.image alt="Post primary image" %}
+      {% include figure.html file=page.image alt="Post primary image" class=page.figure-class %}
     {%- endif -%}
   {%- endif -%}
 
