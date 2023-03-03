@@ -317,3 +317,14 @@ presentations:
     project:
       - coffea-casa
       - agc
+
+  - title: cabinetry tutorial
+    date: 2023-03-03
+    url: https://indico.belle2.org/event/8470/contributions/55829/
+    meeting: Belle II pyhf workshop
+    meetingurl: https://indico.belle2.org/event/8470/
+    location: "(Virtual)"
+    focus-area: as
+    project:
+      - cabinetry
+      - pyhf
