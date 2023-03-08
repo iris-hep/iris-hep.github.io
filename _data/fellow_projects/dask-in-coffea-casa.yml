@@ -1,6 +1,6 @@
 open: yes
 postdate: 2023-03-08
-title: 
+title:
 description: >
   [Coffea-casa](https://coffea-casa.readthedocs.io/) is a prototype Analysis
   Facility (AF), which provides services for "low-latency columnar analysis."
