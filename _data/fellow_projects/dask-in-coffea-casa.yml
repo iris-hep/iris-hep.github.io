@@ -1,0 +1,20 @@
+open: yes
+postdate: 2023-03-08
+title: 
+description: >
+  [Coffea-casa](https://coffea-casa.readthedocs.io/) is a prototype Analysis
+  Facility (AF), which provides services for "low-latency columnar analysis."
+  [Dask](https://www.dask.org/) is an industry-standard scale-out mechanism for
+  array-oriented data processing in Python, and Dask capabilities were recently
+  added to Uproot and Awkward Array, making it possible to analyze jagged
+  particle physics data from ROOT files as Dask arrays for the first time. The
+  aim of this project is to determine how well these capabilities scale in a
+  real AF environment. The project will involve stress-testing the
+  [uproot.dask](https://uproot.readthedocs.io/en/latest/uproot._dask.dask.html)
+  and [dask-awkward](https://github.com/dask-contrib/dask-awkward)
+  implementations with physics-motivated workloads, learning best-practices, and
+  performance-testing/tuning in single and multi-user environments.
+contacts:
+  - jpivarski
+  - ianna
+  - oshadura
