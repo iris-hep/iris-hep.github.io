@@ -39,8 +39,8 @@ The first day included introductory talks by Maxim Perelstein from a theoretical
 a computer scientist that has collaborated with LHC physicists.
 
 "This year we have really seen an growth in the scope of topics being discussed at ML4Jets," explained Kyle Cranmer. Generative models such as GANs were a hot topic. In addition, we heard from both physicists and mathematicians about Optimal Transport,
-which provides a natural way of comaring how similar two jets are. Connections were made to topic modelling, hierarchical clustering, variational inference, likelihood-free inference, domain adaptation, unfolding, and robustness. In addition, an entire session
-was devoted to a challenge dubbed the LHC Olympics, which focused on anomaly detection. A number of techniques have beeen developed recently to try to uncover new physics from the data. This is a fresh approach to the LHC data analysis that complements the
+which provides a natural way of comparing how similar two jets are. Connections were made to topic modelling, hierarchical clustering, variational inference, likelihood-free inference, domain adaptation, unfolding, and robustness. In addition, an entire session
+was devoted to a challenge dubbed the LHC Olympics, which focused on anomaly detection. A number of techniques have been developed recently to try to uncover new physics from the data. This is a fresh approach to the LHC data analysis that complements the
 highly optimized searches for specific theories.
 
 
