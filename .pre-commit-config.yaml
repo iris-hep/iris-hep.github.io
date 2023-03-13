@@ -32,14 +32,14 @@ repos:
         language: fail
 
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.2
+    rev: v2.2.4
     hooks:
       - id: codespell
         exclude: (^Gemfile.lock|\.js|\.map)$
         args:
           [
             "-L",
-            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser",
+            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus",
           ]
 
   - repo: local
