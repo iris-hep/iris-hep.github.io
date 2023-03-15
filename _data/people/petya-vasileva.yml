@@ -8,3 +8,10 @@ shortname: petya-vasileva
 title: Ph.D Student (University of Plovdiv)
 website:
 presentations:
+  - title: Tools and methods for tracking network issues based on perfSONAR datasets
+    date: 2023-03-10
+    url: https://drive.google.com/file/d/1UjNy80UlOKwVGx0GThM45TeCBTofd-G-/view
+    meeting: CI Engineering Lunch & Learn Series
+    focus-area: osglhc
+    project: psdash
+    location: Online
