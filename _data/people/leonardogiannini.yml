@@ -64,3 +64,10 @@ presentations:
     date: 2022-04-25
     focus-area: ia
     project: mkfit
+  - title: "mkFit for Phase 2"
+    meeting: CMS Upgrade Software Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1247039
+    url: https://indico.cern.ch/event/1247039/contributions/5296624/subcontributions/415809/attachments/2608322/4505754/MkFit-status-phase-2.pdf
+    date: 2023-03-09
+    focus-area: ia
+    project: mkfit

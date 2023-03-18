@@ -15,3 +15,10 @@ presentations:
     date: 2022-01-21
     focus-area: ia
     project: mkfit
+  - title: "mkFit phase-2 geometry support and related generalizations"
+    meeting: CMS Tracker DPG, Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1199481
+    url: https://indico.cern.ch/event/1199481/contributions/5115461/attachments/2540016/4372372/mkFit-phase2-string-configurable-std-funcs.pdf
+    date: 2022-11-02
+    focus-area: ia
+    project: mkfit

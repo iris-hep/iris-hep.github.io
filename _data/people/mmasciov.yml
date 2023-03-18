@@ -155,3 +155,17 @@ presentations:
     date: 2018-04-12
     focus-area: ia
     project: mkfit
+  - title: Summary of recent mkFit developments
+    meeting: CMS Tracking POG meeting
+    meetingurl: https://indico.cern.ch/event/1244573
+    url: https://indico.cern.ch/event/1244573/contributions/5264486/attachments/2592602/4474564/mkFit_13Feb2023.pdf
+    date: 2023-02-13
+    focus-area: ia
+    project: mkfit
+  - title: mkFit updates
+    meeting: CMS Tracking POG meeting
+    meetingurl: https://indico.cern.ch/event/1189133
+    url: https://indico.cern.ch/event/1189133/contributions/4998930/attachments/2492980/4281242/mkFit_statusUpdate_2022August15.pdf
+    date: 2022-08-15
+    focus-area: ia
+    project: mkfit
