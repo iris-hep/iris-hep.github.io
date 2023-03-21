@@ -82,7 +82,7 @@ Prospective fellows are encouraged to **contact specific mentors** listed on the
 If you have a idea for a project which excites you, but do not find similar examples or are not sure which mentor to contact, please do not hesitate to contact the IRIS-HEP fellows@iris-hep.org mailing list. The lists above are not exhaustive. We will help you link up with possible mentor candidates!
 -->
 
-**Applying:** Prospective fellows can apply using this [Application Google Form](https://docs.google.com/forms/d/1yi-MAXRA6fmJVf-afDhjIwEoCuyDpm1Csd9QLFdumb4/edit?pli=1#settings). You will need to provide:
+**Applying:** Prospective fellows can apply using this [Application Google Form](https://docs.google.com/forms/d/1yi-MAXRA6fmJVf-afDhjIwEoCuyDpm1Csd9QLFdumb4/edit?pli=1). You will need to provide:
 
  * Your full name, email address, the name of your university or college and your current or planned major and/or area of study
  * A resume/CV (in pdf format) with contact information
