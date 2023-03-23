@@ -328,3 +328,29 @@ presentations:
     project:
       - cabinetry
       - pyhf
+
+  - title: Analysis Grand Challenge updates
+    date: 2023-03-14
+    url: https://indico.cern.ch/event/1263386/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1263386/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "Physics analysis workflows and pipelines for the HL-LHC"
+    date: 2023-03-23
+    url: https://indico4.twgrid.org/event/25/contributions/1182/
+    meeting: International Symposium on Grids & Clouds (ISGC) 2023
+    meetingurl: https://indico4.twgrid.org/event/25/
+    location: "Academia Sinica, Taipei"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
