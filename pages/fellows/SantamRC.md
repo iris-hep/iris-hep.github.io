@@ -41,4 +41,5 @@ current_status: >
 
 github-username: SantamRC
 
+linkedin-profile: https://www.linkedin.com/in/src00
 ---

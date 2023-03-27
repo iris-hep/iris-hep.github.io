@@ -31,4 +31,5 @@ presentations:
   focus-area:
 current_status: >
   A placeholder for status updates
+linkedin-profile: https://www.linkedin.com/in/zoë-bilodeau-0778b3202
 ---

@@ -39,4 +39,5 @@ current_status: >
   <strong>April 2022</strong> - Research Software Intern for the Compiler Research project (https://compiler-research.org) and CERN SFT (at CERN in Geneva, Switzerland)
 github-username: sudo-panda
 
+linkedin-profile: https://www.linkedin.com/in/sudo-panda
 ---

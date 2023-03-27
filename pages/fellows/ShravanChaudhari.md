@@ -41,4 +41,5 @@ current_status: >
   <strong>December 2021</strong> - Graduate student in Computer Science at New York University (NYU)
 github-username: Shra1-25
 
+linkedin-profile: https://www.linkedin.com/in/shravan-chaudhari
 ---

@@ -96,4 +96,5 @@ presentations:
 current_status: >
 github-username: amangoel185
 
+linkedin-profile: https://www.linkedin.com/in/amangoel185
 ---

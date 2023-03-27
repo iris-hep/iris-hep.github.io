@@ -42,4 +42,5 @@ current_status: >
   of Technology
 github-username: eric-moreno
 
+linkedin-profile: https://www.linkedin.com/in/ericdmoreno
 ---

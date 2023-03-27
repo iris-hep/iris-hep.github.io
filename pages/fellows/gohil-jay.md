@@ -46,4 +46,5 @@ presentations:
   focus-area:
 current_status: >
 github-username: gohil-jay
+linkedin-profile: https://www.linkedin.com/in/jay--gohil/
 ---

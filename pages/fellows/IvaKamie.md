@@ -28,4 +28,5 @@ presentations:
   focus-area: doma
 current_status:
 github-username: IvaKamie
+linkedin-profile: https://www.linkedin.com/in/ivanprinko/
 ---

@@ -58,4 +58,5 @@ current_status: >
   of California, San Diego
 github-username: rkansal47
 
+linkedin-profile: https://www.linkedin.com/in/raghav-kansal-7968968b
 ---

@@ -30,4 +30,5 @@ presentations:
   focus-area:
 current_status:
 github-username: kyrylogy
+linkedin-profile: https://www.linkedin.com/in/kyrylo-meliushko
 ---

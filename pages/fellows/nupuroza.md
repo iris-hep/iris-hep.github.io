@@ -36,4 +36,5 @@ presentations:
 current_status: >
 github-username: nupuroza
 
+linkedin-profile: https://www.linkedin.com/in/nupur-oza-6b85b9119
 ---

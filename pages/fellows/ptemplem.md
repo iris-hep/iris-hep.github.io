@@ -44,4 +44,5 @@ presentations:
 current_status: >
   A placeholder for status updates
 github-username: ptemplem
+linkedin-profile: https://www.linkedin.com/in/philip-templeman-2b3196257
 ---

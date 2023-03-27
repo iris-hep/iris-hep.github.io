@@ -33,4 +33,5 @@ current_status: >
 
 github-username: VarunSreenivasan16
 
+linkedin-profile: https://www.linkedin.com/in/varun-sreenivasan
 ---

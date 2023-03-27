@@ -54,4 +54,5 @@ current_status: >
   A placeholder for status updates
 github-username: VolodymyrSvintozelskyi
 gitlab-url: https://gitlab.cern.ch/vsvintoz
+linkedin-profile: https://www.linkedin.com/in/volodymyr-svintozelskyi-046b731a7
 ---

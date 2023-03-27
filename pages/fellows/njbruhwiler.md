@@ -40,4 +40,5 @@ presentations:
   recordingurl: https://youtu.be/H8mwFxK7sos?t=2285
 current_status: >
 github-username: njbruhwiler
+linkedin-profile: https://www.linkedin.com/in/natalie-bruhwiler-b7047a212
 ---

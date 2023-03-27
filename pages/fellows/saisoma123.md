@@ -30,4 +30,5 @@ presentations:
   focus-area: ia
 current_status: >
 github-username: saisoma123
+linkedin-profile: https://www.linkedin.com/in/surya-somayyajula-055410221
 ---

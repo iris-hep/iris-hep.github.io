@@ -31,4 +31,5 @@ presentations:
 current_status: >
   <strong>July 2022</strong> - Graduate student of Bioinformatics at the Taras Shevchenko National University of Kyiv, Ukraine.
 github-username: deepwebhoax
+linkedin-profile: https://www.linkedin.com/in/bohdan-tyshchenko
 ---

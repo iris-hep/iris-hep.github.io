@@ -30,4 +30,5 @@ presentations:
 current_status: >
 
 github-username: AnniLi1212
+linkedin-profile: https://www.linkedin.com/in/anni-li-16132b105
 ---

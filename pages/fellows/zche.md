@@ -35,4 +35,5 @@ presentations:
   focus-area: doma
 github-username: zorache
 
+linkedin-profile: https://www.linkedin.com/in/zche
 ---

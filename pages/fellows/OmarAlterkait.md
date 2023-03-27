@@ -30,4 +30,5 @@ proposal: /assets/pdf/Fellow_Alterkait_Proposal.pdf
 presentations:
 github-username: OmarAlterkait
 
+linkedin-profile: https://www.linkedin.com/in/omaralterkait
 ---

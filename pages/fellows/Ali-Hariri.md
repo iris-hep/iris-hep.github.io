@@ -54,4 +54,5 @@ current_status: >
 
 github-username: ahariri13
 
+linkedin-profile: https://www.linkedin.com/in/ali-hariri-06b847ba/
 ---

@@ -30,4 +30,5 @@ presentations:
   focus-area: osglhc
 current_status: >
 github-username: leehha1
+linkedin-profile: https://www.linkedin.com/in/oleksii-brovarnyk-559753259/
 ---

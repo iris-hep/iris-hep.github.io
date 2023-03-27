@@ -30,4 +30,5 @@ presentations:
   focus-area:
 current_status: >
 github-username: d-goryslavets
+linkedin-profile: https://www.linkedin.com/in/dmytro-horyslavets
 ---

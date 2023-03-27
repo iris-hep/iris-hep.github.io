@@ -78,4 +78,5 @@ current_status: >
   University of California, Santa Cruz.
 github-username: JayjeetAtGithub
 
+linkedin-profile: https://www.linkedin.com/in/jayjeetc/
 ---

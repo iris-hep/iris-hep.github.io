@@ -38,4 +38,5 @@ current_status: >
   <strong>December 2021</strong> - Postdoctoral Research at University of California Berkeley
 github-username: toyamaza
 
+linkedin-profile: https://www.linkedin.com/in/tomohiro-yamazaki-173b89200/
 ---

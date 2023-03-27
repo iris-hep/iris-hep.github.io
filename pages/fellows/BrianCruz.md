@@ -32,4 +32,5 @@ presentations:
   focus-area: as
 github-username: 936-BCruz
 
+linkedin-profile: https://www.linkedin.com/in/brian-cruz-physics
 ---

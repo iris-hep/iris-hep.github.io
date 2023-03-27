@@ -37,4 +37,5 @@ presentations:
   focus-area: as
 github-username: edvb
 
+linkedin-profile: https://www.linkedin.com/in/ed-van-bruggen-58a379171
 ---

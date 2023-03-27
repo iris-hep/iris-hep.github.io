@@ -37,4 +37,5 @@ current_status: >
   <strong>December 2021</strong> - Graduate student in Physics at Stony Brook University
 github-username: stormsomething
 
+linkedin-profile: https://www.linkedin.com/in/storm-lin-104aa7143/
 ---

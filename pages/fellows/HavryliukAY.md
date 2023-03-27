@@ -28,4 +28,5 @@ presentations:
   focus-area:
 current_status: >
 github-username: HavryliukAY
+linkedin-profile: https://www.linkedin.com/in/havryliuka/
 ---

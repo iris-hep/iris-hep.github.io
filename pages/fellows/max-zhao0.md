@@ -30,4 +30,5 @@ presentations:
   focus-area: IA
 current_status: >
 
+linkedin-profile: https://www.linkedin.com/in/max-zhao-689b511b8/
 ---

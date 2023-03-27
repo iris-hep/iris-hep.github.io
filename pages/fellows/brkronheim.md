@@ -35,4 +35,5 @@ current_status: >
 
 github-username: brkronheim
 
+linkedin-profile: https://www.linkedin.com/in/braden-kronheim-488406139/
 ---

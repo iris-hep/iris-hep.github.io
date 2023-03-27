@@ -30,4 +30,5 @@ presentations:
 current_status: >
 
 github-username: maxymnaumchyk
+linkedin-profile: https://www.linkedin.com/in/maxym-naumchyk-3b3bb31aa/
 ---

@@ -69,4 +69,5 @@ current_status: >
   University.
 github-username: reikdas
 
+linkedin-profile: https://www.linkedin.com/in/pratyush-das/
 ---

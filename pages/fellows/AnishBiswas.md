@@ -44,4 +44,5 @@ presentations:
   focus-area: as
 github-username: swishdiff
 
+linkedin-profile: https://www.linkedin.com/in/anish-biswas
 ---

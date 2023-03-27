@@ -35,4 +35,5 @@ presentations:
   focus-area: ia
 github-username: seancondon99
 
+linkedin-profile: https://www.linkedin.com/in/sean-condon-9a0452187
 ---

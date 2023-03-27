@@ -32,4 +32,5 @@ presentations:
 current_status:
 github-username: ekauffma
 gitlab-url: https://gitlab.cern.ch/ekauffma
+linkedin-profile: https://www.linkedin.com/in/elliott-kauffman-673314160
 ---

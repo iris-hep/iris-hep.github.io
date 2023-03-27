@@ -29,4 +29,5 @@ presentations:
 current_status: >
 
 github-username: wallachmaya
+linkedin-profile: https://www.linkedin.com/in/maya-wallach-kenya
 ---

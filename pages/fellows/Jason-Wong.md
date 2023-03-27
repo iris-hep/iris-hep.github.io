@@ -34,4 +34,5 @@ presentations:
 current_status: >
 github-username: jw5243
 
+linkedin-profile: https://www.linkedin.com/in/jason-wong-757b72172/
 ---
