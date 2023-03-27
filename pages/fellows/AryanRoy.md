@@ -57,4 +57,5 @@ presentations:
   focus-area: as
 github-username: aryan26roy
 
+linkedin-profile: https://www.linkedin.com/in/aryan-roy-914458189/
 ---

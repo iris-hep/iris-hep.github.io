@@ -29,4 +29,5 @@ presentations:
 current_status: >
   Finished project and presented it
 github-username: slavakucherenko
+linkedin-profile: https://www.linkedin.com/in/viacheslavkucherenko/
 ---

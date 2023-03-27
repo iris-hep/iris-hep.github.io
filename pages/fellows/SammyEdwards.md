@@ -35,4 +35,5 @@ presentations: >
 current_status: >
 github-username:
 
+linkedin-profile: https://www.linkedin.com/in/sammyedwards
 ---

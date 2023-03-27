@@ -40,4 +40,5 @@ presentations:
   focus-area: ia
 github-username: alanjoshua
 
+linkedin-profile: https://www.linkedin.com/in/alan-joshua-aneeth-jegaraj
 ---

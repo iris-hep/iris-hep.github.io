@@ -38,4 +38,5 @@ current_status: >
   <strong>December 2021</strong> - PhD Candidate in Physics at University of Illinois Urbana-Champaign
 github-username: vesal-rm
 
+linkedin-profile: https://www.linkedin.com/in/vesal-razavimaleki
 ---

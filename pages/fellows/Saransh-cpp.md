@@ -65,4 +65,5 @@ presentations:
   focus-area: as
   project: vector
 github-username: Saransh-cpp
+linkedin-profile: https://www.linkedin.com/in/saransh-cpp/
 ---

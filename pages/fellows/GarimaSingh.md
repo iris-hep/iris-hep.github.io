@@ -43,4 +43,5 @@ current_status: >
   <strong>February 2022</strong> - Research Software Intern for IRIS-HEP and CERN SFT (at CERN in Geneva, Switzerland)
 github-username: grimmmyshini
 
+linkedin-profile: https://www.linkedin.com/in/garimasingh28/
 ---

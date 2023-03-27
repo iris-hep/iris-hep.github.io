@@ -33,4 +33,5 @@ current_status: >
   <strong>December 2021</strong> - Master student at the Light Dark Matter eXperiment (LDMX)
 github-username: Skelpdar
 
+linkedin-profile: https://www.linkedin.com/in/erik-wallin-835648143/
 ---

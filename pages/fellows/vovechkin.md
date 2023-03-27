@@ -41,4 +41,5 @@ presentations:
   focus-area: as
 github-username: vladov3000
 
+linkedin-profile: https://www.linkedin.com/in/vladov3000
 ---
