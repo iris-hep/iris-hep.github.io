@@ -64,6 +64,8 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=fLt7BHuASpw
   focus-area: as
   project: vector
+current_status: >
+  <strong> June - August 2023 </strong> - Joining McMaster University as a visiting research student to work on - "Formalizing Mathematics and Computing in Agda" - under the Mitacs Globalink Research Internship program
 github-username: Saransh-cpp
 linkedin-profile: https://www.linkedin.com/in/saransh-cpp/
 ---
