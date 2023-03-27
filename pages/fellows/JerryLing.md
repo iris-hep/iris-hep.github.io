@@ -42,4 +42,5 @@ presentations:
 current_status: >
   A placeholder for status updates
 github-username: Moelf
+linkedin-profile: https://www.linkedin.com/in/jerrylinghep
 ---

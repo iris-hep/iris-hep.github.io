@@ -31,4 +31,5 @@ presentations:
 current_status:
 github-username: parth-07
 
+linkedin-profile: https://www.linkedin.com/in/parth-r07/
 ---

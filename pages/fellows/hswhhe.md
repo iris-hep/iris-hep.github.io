@@ -42,4 +42,5 @@ presentations:
   focus-area: as
   project:
 current_status:
+linkedin-profile: https://www.linkedin.com/in/haoran-sun-3712ba211/
 ---

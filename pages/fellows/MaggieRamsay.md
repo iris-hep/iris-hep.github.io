@@ -29,4 +29,5 @@ proposal: /assets/pdf/fellow-Maggie-Ramsay-proposal.pdf
 presentations:
 github-username: maggieramsay
 
+linkedin-profile: https://www.linkedin.com/in/maggie-ramsay-435525259
 ---

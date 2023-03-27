@@ -34,4 +34,5 @@ presentations:
   recordingurl: https://youtu.be/uSCABMAsd64
   focus-area: ia
 github-username: sukikrishna
+linkedin-profile: https://www.linkedin.com/in/sukanya-krishna/
 ---

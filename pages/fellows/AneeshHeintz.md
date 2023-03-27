@@ -41,4 +41,5 @@ current_status: >
   <strong>December 2021</strong> - Ph.D. Candidate in Aerospace Engineering at Cornell University
 github-username: a-heintz
 
+linkedin-profile: https://www.linkedin.com/in/aneeshheintz
 ---

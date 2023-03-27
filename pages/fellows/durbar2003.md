@@ -30,4 +30,5 @@ presentations:
 current_status: >
 github-username: durbar2003
 
+linkedin-profile: https://www.linkedin.com/in/durbar-chakrabarty-867395200/
 ---

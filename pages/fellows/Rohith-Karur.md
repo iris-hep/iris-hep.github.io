@@ -38,4 +38,5 @@ presentations:
   focus-area: ia
 github-username: rkarur
 
+linkedin-profile: https://www.linkedin.com/in/rohith-karur-2007bb16a/
 ---

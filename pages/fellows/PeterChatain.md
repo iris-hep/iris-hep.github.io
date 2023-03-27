@@ -32,4 +32,5 @@ presentations:
   focus-area: ia
 github-username: Pchatain
 
+linkedin-profile: https://www.linkedin.com/in/peterchatain
 ---

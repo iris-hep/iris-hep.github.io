@@ -30,4 +30,5 @@ proposal: /assets/pdf/CaitlinPatterson_proposal.pdf
 presentations:
 github-username: elocat
 
+linkedin-profile: https://www.linkedin.com/in/caitlin-patterson-6537bb159
 ---
