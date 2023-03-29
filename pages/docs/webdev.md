@@ -15,26 +15,39 @@ You can always click the edit button to make small edits to the website source, 
 
 #### Installing Ruby
 
-Visit [this page](https://jekyllrb.com/docs/installation/) for information about installing Ruby if your current version is too old; the instructions there form the basis for what you see here, and come in variants for all major operating systems.
-You should have Ruby 2.6+ for Jekyll; 3.1 recommended and used in CI. You can use rbenv to manage multiple ruby versions. On macOS with homebrew, you'll want:
+Visit [this page](https://jekyllrb.com/docs/installation/) for information
+about installing Ruby if your current version is too old; the instructions
+there form the basis for what you see here, and come in variants for all major
+operating systems.  You should have Ruby 2.6+ for Jekyll; 3.1+ recommended and
+used in CI. You can use rbenv to manage multiple ruby versions. On macOS with
+homebrew, you'll want:
 
 ```bash
 brew install rbenv
 ```
 
-You'll need to run `rbenv init` and follow the instructions for your current shell. After you've installed rbenv on your system, use:
+You'll need to run:
 
 ```bash
-rbenv install 3.1.2
+rbenv init
 ```
 
-to get a current version of ruby. Then, inside the main iris-hep website directory, run:
+and **then follow the instructions printed for your current shell**. After you've installed rbenv on your system, use:
 
 ```bash
-rbenv local 3.1.2
+rbenv install 3.2.1
 ```
 
-This will run the Ruby you just built whenever you enter this directory. You'll want to install bundler too:
+to get a current version of Ruby downloaded and built for your system. Then,
+inside the main iris-hep website directory, run:
+
+```bash
+rbenv local 3.2.1
+```
+
+This will add a file (`.ruby-version`, if you are curious) to your local
+directory that rbenv's shell integration will enable whenever you enter this
+directory. You'll want to install bundler too:
 
 ```bash
 gem install bundler
@@ -76,7 +89,7 @@ If you want to also perform the full link checking without exclusions, you can r
 bundle exec rake checkall
 ```
 
-If you are not familiar with it, `rake` is short for "Ruby make". The `clean` and `clobber` targets are available (the later removes the Inspire-HEP cache as well). You can also run `bundle exec jekyll ...` directly.
+If you are not familiar with it, `rake` is short for "Ruby make". The `clean` and `clobber` targets are available (the later removes the Inspire-HEP cache as well). You can see all available tasks with `bundle exec rake --tasks`. You can also run `bundle exec jekyll ...` directly.
 
 ### Using `pixi`
 
@@ -129,6 +142,20 @@ cat assets/js/myfile.js | openssl dgst -sha384 -binary | openssl base64 -A
 ```
 
 Run the site locally and verify no warnings appear in your terminal. Also turn on your browser's debugger and make sure no warnings are emitted.
+
+### Updating Ruby files
+
+If you edit Ruby files, you should run `rubocop` to verify:
+
+```bash
+bundle exec rake rubocop
+```
+
+If it suggests changes, you can often apply them automatically:
+
+```bash
+bundle exec rake rubocop:auto_correct
+```
 
 ### Styles
 
