@@ -14,6 +14,9 @@ A number of employment opportunities exist with the universities involved in IRI
 ### Princeton University
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/16019/research-software-engineer-ii/job?mode=view&mobile=false&width=696&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
 
+### Univresity of Washington
+  * [Postdoc](https://inspirehep.net/jobs/2641332)
+
 ### University of Wisconsin–Madison
   * [CHTC Research Cyberinfrastructure Specialist](https://jobs.hr.wisc.edu/en-us/job/516945/chtc-research-cyberinfrastructure-specialist-1)
 
@@ -22,9 +25,6 @@ A number of employment opportunities exist with the universities involved in IRI
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
-### ATLAS
-
-  * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
 
 ### Fermilab
 
