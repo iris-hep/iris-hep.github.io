@@ -312,3 +312,10 @@ presentations:
     meetingurl: https://indico.jlab.org/event/459
     meeting: CHEP 2024
     focus-area: as
+  - title: "Analysis Grand Challenge Demonstrator"
+    date: 2023-03-30
+    url: https://indico.cern.ch/event/1268248/#6-analysis-grand-challenge-dem
+    meetingurl: https://indico.cern.ch/event/1268248
+    meeting: "ATLAS Software & Computing Plenary (internal)"
+    focus-area: as
+    project: agc
