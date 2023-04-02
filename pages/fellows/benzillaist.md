@@ -36,4 +36,5 @@ presentations:
   focus-area: IA
 current_status:
 github-username: Benzillaist
+linkedin-profile: https://www.linkedin.com/in/benjamin-kuchma-3b2019142
 ---

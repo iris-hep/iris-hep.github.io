@@ -31,4 +31,5 @@ presentations:
   focus-area: ia
 github-username: jeremyferguson
 
+linkedin-profile: https://www.linkedin.com/in/jeremy-ferguson-66051715a/
 ---

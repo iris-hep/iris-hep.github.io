@@ -102,5 +102,5 @@ include:
 
 Further information can be found in the following documents:
 
-- NSF proposal - [Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)](/assets/pdf/iris-hep-nsf-proposal.pdf)
+- NSF proposal (2018) - [Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)](/assets/pdf/iris-hep-nsf-proposal.pdf)
 - [Strategic Plan for a Scientific Software Innovation Institute (S2I2) for High Energy Physics](https://arxiv.org/abs/1712.06592)

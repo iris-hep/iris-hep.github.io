@@ -1,0 +1,9 @@
+name: IRIS-HEP AGC workshop 2023
+startdate: 2023-05-03
+enddate: 2023-05-05
+location: University of Wisconsin–Madison
+meetingurl: https://indico.cern.ch/e/agc-workshop-2023
+image:
+description: >
+  The Analysis Grand Challenge (AGC) workshop is a three-day event, hosted from May 3–5 at the University of Wisconsin–Madison's Data Science Institute. It aims to bring together experts and all those interested to survey the current status of the AGC project and to build a concrete plan for addressing remaining items towards an AGC showcase event later this summer.
+labels:

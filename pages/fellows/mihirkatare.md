@@ -41,4 +41,5 @@ presentations:
 current_status:
 github-username: mihirkatare
 
+linkedin-profile: https://www.linkedin.com/in/mihirkatare
 ---

@@ -39,4 +39,5 @@ current_status: >
   <strong>December 2021</strong> - Software Engineer at Electronic Arts (EA)
 github-username: coolalexzb
 
+linkedin-profile: https://www.linkedin.com/in/bo-zheng-1511a017b
 ---

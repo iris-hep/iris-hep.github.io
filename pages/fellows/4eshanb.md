@@ -45,4 +45,5 @@ current_status: >
 
 github-username: 4eshanb
 
+linkedin-profile: https://www.linkedin.com/in/eshan-bhargava-75012819a
 ---

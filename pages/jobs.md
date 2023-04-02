@@ -8,20 +8,28 @@ title: Available Positions
 
 A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
+### Morgridge Institute
+  * [Research Software Engineer](https://morgridge.org/job-posting/research-software-engineer/)
+
 ### Princeton University
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/16019/research-software-engineer-ii/job?mode=view&mobile=false&width=696&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
+
+### Univresity of Washington
+  * [Postdoc](https://inspirehep.net/jobs/2641332)
+
+### University of Wisconsin–Madison
+  * [CHTC Research Cyberinfrastructure Specialist](https://jobs.hr.wisc.edu/en-us/job/516945/chtc-research-cyberinfrastructure-specialist-1)
 
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
-### ATLAS
-
-  * [Atlas Software Grants](https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/AtlasComputing) - see the Help Needed section for application details.  Open to all levels, requires about 6 months work at CERN on a software project, and then significant continuing contributions at home institution.
 
 ### Fermilab
 
   * [Computing Services Specialist](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Computing--Services-Specialist-I_R_005963) - Envisioned to have both sysadmin/technical and user-facing components supporting HPC users (e.g. Lattice QCD) as well as multiple HEP experiments across all frontiers.
 
 ### Others
+
+  * More in general, many RSE positions beyond HEP can be found on the [US-RSE Jobs page](https://us-rse.org/jobs/) or the [Society of Research Software Engineering](https://society-rse.org/careers/vacancies/) for the UK and elsewhere.

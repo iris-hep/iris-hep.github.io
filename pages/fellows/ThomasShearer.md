@@ -38,4 +38,5 @@ presentations:
   focus-area: osglhc
 github-username: shearert
 
+linkedin-profile: https://www.linkedin.com/in/thomas-shearer-28b412199/
 ---

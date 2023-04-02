@@ -1,0 +1,17 @@
+active: true
+focus-area:
+  - as
+institution: University of Washington, Seattle
+name: Tatiana Ovsiannikova
+photo: "/assets/images/team/Tatiana-Ovsiannikova.jpg"
+shortname: TatianaOvsiannikova
+title:
+presentations:
+  - title: "AQP lightning talk: Optimizing Memory Usage in Derivation Production Jobs"
+    date: 2023-01-27
+    url: https://indico.cern.ch/event/1211083/contributions/5229532/
+    meeting: 74th ATLAS S&C week
+    meetingurl: https://indico.cern.ch/event/1211083/
+    focus-area: as
+    location: "CERN, Switzerland"
+    project:

@@ -41,4 +41,5 @@ presentations:
   focus-area: ia
 github-username: sofiagra
 
+linkedin-profile: https://www.linkedin.com/in/sofia-graziano
 ---
