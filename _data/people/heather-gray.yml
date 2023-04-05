@@ -8,6 +8,14 @@ shortname: heather-gray
 title: Innovative Algorithms Area <nobr>co-Lead</nobr>
 website: https://atlas.cern/authors/heather-gray
 presentations:
+  - title: "HEP software: overview and future challenges"
+    date: 2022-07-12
+    meeting: ICHEP
+    url: https://agenda.infn.it/event/28874/timetable/?view=standard
+    focus-area: ia
+    project: acts
+    labels:
+      - conference
   - title: Perspective on HEP Software
     date: 2021-05-17
     meeting: vCHEP
