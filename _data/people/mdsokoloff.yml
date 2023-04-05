@@ -9,3 +9,11 @@ shortname: mdsokoloff
 title:
 website: https://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof
 presentations:
+  - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC
+    date: 2022-11-04
+    url: https://indico.cern.ch/event/1159913/contributions/5062695/
+    meeting: ML4Jets2022
+    meetingurl: https://indico.cern.ch/event/1159913/
+    project: pv-finder
+    focus-area: ia
+    location: Rutgers University, New Jersey, USA
