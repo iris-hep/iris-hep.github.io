@@ -1,0 +1,9 @@
+title: "Using a DSL to read ROOT TTrees faster in Uproot"
+link: https://arxiv.org/abs/2303.02202
+date: 2023-03-03
+inspire-id: 2638609
+focus-area: as
+project:
+  - awkward
+  - uproot
+submitted-to: ACAT 2022
