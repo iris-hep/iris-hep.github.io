@@ -7,3 +7,9 @@ shortname: vgvassilev
 title: Compiler Research + USCMS collaborator
 website: http://vassil.vassilev.info
 presentations:
+  - title: "Adapting C++ for Data Science"
+    date: 2022-10-28
+    url: https://indico.cern.ch/event/1106990/contributions/5021253/attachments/2537310/4367387/VV-AdaptingCpp.pdf
+    meeting: ACAT 2022
+    meetingurl: https://indico.cern.ch/event/1106990
+    location: "Bari, Italy"
