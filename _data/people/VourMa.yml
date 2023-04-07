@@ -15,3 +15,5 @@ presentations:
     date: 2022-10-26
     focus-area: ia
     project: mkfit
+    labels:
+      - conference
