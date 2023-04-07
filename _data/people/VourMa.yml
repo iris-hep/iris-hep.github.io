@@ -6,7 +6,7 @@ name: Emmanouil Vourliotis
 photo: "/assets/images/team/Emmanouil-Vourliotis.jpg"
 shortname: VourMa
 title:
-website: https://github.com/mmasciov
+website: https://github.com/VourMa
 presentations:
   - title: Speeding up the CMS track reconstruction with a parallelized and vectorized Kalman-filter-based algorithm during the LHC Run 3 (poster)
     meeting: ACAT 2022
