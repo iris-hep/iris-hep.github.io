@@ -8,6 +8,34 @@ shortname: mmasciov
 title:
 website: https://github.com/mmasciov
 presentations:
+  - title: "Summary of recent mkFit developments"
+    meeting: CMS Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1244573
+    url: https://indico.cern.ch/event/1244573/contributions/5264486/attachments/2592602/4474564/mkFit_13Feb2023.pdf
+    date: 2023-02-13
+    focus-area: ia
+    project: mkfit
+  - title: "Tracking final fit: opportunities for simplification or speedup"
+    meeting: CMS Weekly Tracker DPG Meetings: Tracker DPG / Tracking POG (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1199474/
+    url: https://indico.cern.ch/event/1199474/contributions/5086200/attachments/2527141/4347035/trackFinalFit_templateCPE_Oct12.pdf
+    date: 2022-10-12
+    focus-area: ia
+    project: mkfit
+  - title: "Tracking final fit: opportunities for simplification or speedup"
+    meeting: CMS Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1197539/
+    url: https://indico.cern.ch/event/1197539/contributions/5040836/attachments/2506557/4307000/trackFinalFit_Sep12.pdf
+    date: 2022-09-12
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit updates"
+    meeting: CMS Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1189133
+    url: https://indico.cern.ch/event/1189133/contributions/4998930/attachments/2492980/4281242/mkFit_statusUpdate_2022August15.pdf
+    date: 2022-08-15
+    focus-area: ia
+    project: mkfit
   - title: "mkFit status report"
     meeting: Tracker General Meeting (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1142469
@@ -153,19 +181,5 @@ presentations:
     meetingurl: https://indico.cern.ch/event/711343/
     url: https://indico.cern.ch/event/711343/contributions/2964760/attachments/1632394/2603097/ParallelKFTracking_Mario-Masciovecchio_12-04-2018.pdf
     date: 2018-04-12
-    focus-area: ia
-    project: mkfit
-  - title: Summary of recent mkFit developments
-    meeting: CMS Tracking POG meeting
-    meetingurl: https://indico.cern.ch/event/1244573
-    url: https://indico.cern.ch/event/1244573/contributions/5264486/attachments/2592602/4474564/mkFit_13Feb2023.pdf
-    date: 2023-02-13
-    focus-area: ia
-    project: mkfit
-  - title: mkFit updates
-    meeting: CMS Tracking POG meeting
-    meetingurl: https://indico.cern.ch/event/1189133
-    url: https://indico.cern.ch/event/1189133/contributions/4998930/attachments/2492980/4281242/mkFit_statusUpdate_2022August15.pdf
-    date: 2022-08-15
     focus-area: ia
     project: mkfit
