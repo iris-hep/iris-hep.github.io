@@ -349,3 +349,21 @@ presentations:
     location: CERN
     focus-area: as
     project:
+
+  - title: "Integrating AGC pipeline at BNL facility"
+    date: 2022-12-16
+    url: https://indico.cern.ch/event/1218004/contributions/5123645/
+    meeting: "IRIS-HEP / AGC Demo Day #1"
+    meetingurl: https://indico.cern.ch/event/1218004/
+    location: CERN
+    focus-area: as
+    project: agc
+
+  - title: "How to contribute to pyhf development"
+    date: 2023-03-03
+    url: https://indico.belle2.org/event/8470/contributions/55871/
+    meeting: "Belle II pyhf workshop 2023"
+    meetingurl: https://indico.belle2.org/event/8470/
+    location: Virtual
+    focus-area: as
+    project: pyhf
