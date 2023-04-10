@@ -11,7 +11,7 @@ presentations:
   - title: Speeding up the CMS track reconstruction with a parallelized and vectorized Kalman-filter-based algorithm during the LHC Run 3 (poster)
     meeting: ACAT 2022
     meetingurl: https://indico.cern.ch/event/1106990/
-    url: https://indico.cern.ch/event/1106990/contributions/4998120/attachments/2533387/4359448/ACAT2022_MkFit.pdf
+    url: https://indico.cern.ch/event/1106990/contributions/4998120/
     date: 2022-10-26
     focus-area: ia
     project: mkfit
