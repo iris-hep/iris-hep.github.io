@@ -57,4 +57,4 @@ jobs:
           && github.ref == 'refs/heads/master'
           && github.repository == 'iris-hep/iris-hep.github.io'
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
