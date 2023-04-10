@@ -22,7 +22,7 @@ presentations:
     date: 2023-03-10
     focus-area: ia
     project: lst
-  - title: "Effect of the OT(Outer Tracker) Inefficiencies on the LST Algorithm"
+  - title: "Effect of the Outer Tracker Inefficiencies on the LST Algorithm"
     meeting: CMS Tracker Upgrade Modelling, Simulation and Performance (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1201190/
     url: https://indico.cern.ch/event/1201190/#2-effect-of-the-ot-inefficienc
