@@ -51,3 +51,10 @@ presentations:
     location: CERN
     focus-area: ia
     project: mkfit
+  - title: "Tracking final fit: opportunities for simplification or speedup"
+    meeting: CMS Pixel Calibration and Local Reconstruction Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1187097/
+    url: https://indico.cern.ch/event/1187097/contributions/5046215
+    date: 2022-09-13
+    focus-area: ia
+    project: mkfit
