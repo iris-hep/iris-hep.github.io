@@ -37,7 +37,7 @@ In 2022, IRIS-HEP members worked to make Allen fully production ready for deploy
 - [LHCb’s unique approach to real-time data processing](https://lhcb-outreach.web.cern.ch/2023/03/01/lhcbs-unique-approach-to-real-time-data-processing)
 - [LHCb begins using unique approach to process collision data in real-time](https://home.cern/news/news/experiments/lhcb-begins-using-unique-approach-process-collision-data-real-time)
 
-IRIS-HEP members are now working to prepare and deploy the Allen version that will process data at the nomimal 40 MHz rate in 2023. Leading our efforts is Kate Richardson, who is lead developer of the Allen monitoring framework and one of several rotating on-call experts for the LHCb real-time processing system. 
+IRIS-HEP members are now working to prepare and deploy the Allen version that will process data at the nomimal 40 MHz rate in 2023. Leading our efforts is Kate Richardson, who is lead developer of the Allen monitoring framework and one of several rotating on-call experts for the LHCb real-time processing system.
 
 The Allen software is available open source, and able to run without linking to LHCb software, on [gitlab](https://gitlab.cern.ch/lhcb/Allen).
 
