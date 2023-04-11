@@ -28,7 +28,7 @@ The "Analysis Grand Challenge" organized by IRIS-HEP includes the binned analysi
 
 - **New user interfaces**: complementary services that present the analyst with a notebook-based interface. Example software: Jupyter.
 - **Data access**: services that provide quick access to the experiment’s official data sets, often allowing simple derivations and local caching for efficient access. Example software and services: Rucio, ServiceX, SkyHook, RNTuple.
-- **Event selection**: systems/frameworks allowing analysts to process entire datasets, select desired events, and calculate derived quantities. Example software and services: Coffea, awkward-array, awkward-dask, func_adl, RDataFrame. 
+- **Event selection**: systems/frameworks allowing analysts to process entire datasets, select desired events, and calculate derived quantities. Example software and services: Coffea, awkward-array, awkward-dask, func_adl, RDataFrame.
 - **Histogramming and summary statistics**: closely tied to the event selection, histogramming tools provide physicists with the ability to summarize the observed quantities in a dataset. Example software and services: Coffea, func_adl, cabinetry, hist.
 - **Statistical model building and fitting**: tools that translate specifications for event selection, summary statistics, and histogramming quantities into statistical models, leveraging the capabilities above, and perform fits and statistical analysis with the resulting models. Example software and services: cabinetry, pyhf, FuncX+pyhf fitting service
 - **Reinterpretation / analysis preservation**: standards for capturing the entire analysis workflow, and services to reuse the workflow which enables reinterpretation. Example software and services: REANA, RECAST.
