@@ -17,12 +17,11 @@ focus-area:
 team:
  - oshadura
  - kenbloom
- - kaimi2007
  - clundst
  - jthiltges
  - bbockelm
  - Garhan Attebury
- - Matous Adamec
+ - sam6734
 ---
 
 
