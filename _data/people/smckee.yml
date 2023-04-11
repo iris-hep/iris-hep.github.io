@@ -477,3 +477,51 @@ presentations:
     location: Lancaster, UK
     focus-area: osglhc
     project: osg-networking
+  - title: Status and Plans for the Research Networking Technical WG
+    url: https://indico.cern.ch/event/1222948/contributions/5321009/
+    meeting: "Spring 2023 HEPiX Meeting"
+    meetingurl: https://indico.cern.ch/event/1222948
+    date: 2023-03-29
+    location: Taipei, Taiwan
+    focus-area: osglhc
+    project: osg-networking
+  - title: perfSONAR Global Monitoring and Analytics Framework Update
+    url: https://indico.cern.ch/event/1222948/contributions/5321010/
+    meeting: "Spring 2023 HEPiX Meeting"
+    meetingurl: https://indico.cern.ch/event/1222948
+    date: 2023-03-29
+    location: Taipei, Taiwan
+    focus-area: osglhc
+    project: osg-networking
+  - title: WLCG Site Network Monitoring Campaign
+    url: https://indico.cern.ch/event/1272843/contributions/5344674/attachments/2626007/4541388/WLCG%20Network%20Monitoring%20Campaign.pdf
+    meeting: "WLCG Operations Coordination"
+    meetingurl: https://indico.cern.ch/event/1272843/
+    date: 2023-04-06
+    location: Virtual
+    focus-area: osglhc
+    project: osg-networking
+  - title: RNTWG Packet Marking and Pacing Update
+    url: https://indico.cern.ch/event/1234127/
+    meeting: "#50 LHCOPN/LHCONE Meeting"
+    meetingurl: https://indico.cern.ch/event/1234127/
+    date: 2023-04-19
+    location: Prague, Czech Republic
+    focus-area: osglhc
+    project: osg-networking
+  - title: perfSONAR Strategy in Support of DC24 Preparation
+    url: https://indico.cern.ch/event/1234127/
+    meeting: "#50 LHCOPN/LHCONE Meeting"
+    meetingurl: https://indico.cern.ch/event/1234127/
+    date: 2023-04-19
+    location: Prague, Czech Republic
+    focus-area: osglhc
+    project: osg-networking
+  - title: Identifying and Understanding Scientific Network Flows
+    url: https://indico.jlab.org/event/459/contributions/11321/
+    meeting: "CHEP 2023"
+    meetingurl: https://indico.jlab.org/event/459/
+    date: 2023-05-08
+    location: Norfolk, VA, US
+    focus-area: osglhc
+    project: osg-networking
