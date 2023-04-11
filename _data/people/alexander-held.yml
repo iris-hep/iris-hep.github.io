@@ -318,6 +318,19 @@ presentations:
       - coffea-casa
       - agc
 
+  - title: "Analysis Grand Challenge updates"
+    date: 2023-01-24
+    url: https://indico.cern.ch/event/1243052/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1243052/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
   - title: "cabinetry tutorial"
     date: 2023-03-03
     url: https://indico.belle2.org/event/8470/contributions/55829/
@@ -354,3 +367,13 @@ presentations:
     project:
       - coffea-casa
       - agc
+
+  - title: "cabinetry overview"
+    date: 2023-04-12
+    url: https://indico.cern.ch/event/1264029/#3-cabinetry
+    meeting: CMS Common Analysis Tools (CAT) general meeting
+    meetingurl: https://indico.cern.ch/event/1264029/
+    location: "(Virtual)"
+    focus-area: as
+    project:
+      - cabinetry
