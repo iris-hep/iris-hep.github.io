@@ -373,7 +373,7 @@ presentations:
     url: https://indico.cern.ch/event/1264029/#3-cabinetry
     meeting: CMS Common Analysis Tools (CAT) general meeting
     meetingurl: https://indico.cern.ch/event/1264029/
-    location: "(Virtual)"
+    location: "CERN & Virtual"
     focus-area: as
     project:
       - cabinetry
