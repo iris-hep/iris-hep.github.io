@@ -6,3 +6,24 @@ name: Elliott Kauffman
 photo: "/assets/images/team/Elliott-Kauffman.jpg"
 shortname: ekauffma
 title: Research Software Intern
+presentations:
+  - title: Integrating MLflow in AGC workflow
+    date: 2023-02-24
+    url: https://indico.cern.ch/event/1232470/contributions/5206346/attachments/2599878/4488860/emk_agcdemoday_230224.pdf
+    meeting: IRIS-HEP / AGC Demo Day \#2
+    meetingurl: https://indico.cern.ch/event/1232470/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - agc
+  - title: First steps using inference server at coffea-casa facility
+    date: 2022-12-16
+    url: https://indico.cern.ch/event/1218004/contributions/5123631/attachments/2568696/4429746/emk_agcdemoday_221216.pdf
+    meeting: IRIS-HEP / AGC Demo Day \#1
+    meetingurl: https://indico.cern.ch/event/1218004/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - agc
