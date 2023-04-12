@@ -14,7 +14,7 @@ start-date: 2018-04-19
 focus-area: ia
 team:
  - mityinzer
- - dcraik
+ - kate-richardson
  - mdsokoloff
 ---
 
@@ -32,7 +32,12 @@ In June 2020, the LHCb collaboration officially adopted Allen as the baseline ch
 - [Allen initiative – supported by CERN openlab – key to LHCb trigger upgrade](https://home.cern/news/news/computing/allen-initiative-supported-cern-openlab-key-lhcb-trigger-upgrade)
 - [CERN openlab: the use of GPUs for parallel computing within the LHCb experiment](https://www.e4company.com/en/2020/06/cern-openlab-the-use-of-gpus-for-parallel-computing-within-the-lhcb-experiment/)
 
-IRIS-HEP members are now working to make Allen fully production ready for deployment in time for the start of data taking in 2022.
+In 2022, IRIS-HEP members worked to make Allen fully production ready for deployment, successfully processing the full data rate in real time at the maximum collision rate that year, roughly 20 MHz:
+
+- [LHCb’s unique approach to real-time data processing](https://lhcb-outreach.web.cern.ch/2023/03/01/lhcbs-unique-approach-to-real-time-data-processing)
+- [LHCb begins using unique approach to process collision data in real-time](https://home.cern/news/news/experiments/lhcb-begins-using-unique-approach-process-collision-data-real-time)
+
+IRIS-HEP members are now working to prepare and deploy the Allen version that will process data at the nominal 40 MHz rate in 2023. Leading our efforts is Kate Richardson, who is lead developer of the Allen monitoring framework and one of several rotating on-call experts for the LHCb real-time processing system.
 
 The Allen software is available open source, and able to run without linking to LHCb software, on [gitlab](https://gitlab.cern.ch/lhcb/Allen).
 
@@ -42,17 +47,17 @@ The Allen software is available open source, and able to run without linking to 
 
 It is necessary for data quality purposes to monitor the acceptance rates of trigger lines as well as features of reconstructed tracks and vertices live during data taking.
 The primary output channel of Allen (depicted downwards in the diagram below) is to attach additional data banks to the input data stream. However, this is only propagated to
-the second level trigger if the event passes a trigger selection or, in the case of the luminosity summary bank (green in the diagram), if the event has been randomly selected for luminosity monitoring.
-Additionally, these data banks are not available in real time. The monitoring system (red in the diagram) serves a selection of histograms and counters directly to an external monitoring interface.
+the second level trigger if the event passes a trigger selection.
+Additionally, these data banks are not available in real time. The monitoring system serves a selection of histograms and counters directly to an external monitoring interface.
 
 <img width="60%" src ="/assets/images/allen-monitoring-io.png" />
 
 For the demonstration of Allen, monitoring histograms were populated in a dedicated monitoring thread using information from the output data banks as well as additional data copied back to the host specifically for monitoring purposes. The flow of monitoring-related data as it existed in the demonstration version is shown in the diagram below.
 
-<img width="60%" src ="/assets/images/allen-monitoring-before.png" />
+<img width="60%" src ="/assets/images/allen-monitoring-old.png" />
 
-For the production version of Allen, we have now moved the monitoring accumulation from the dedicated thread into the threads responsible for running the Allen trigger pipeline. This allows any algorithm in the sequence to define and populate monitoring counters and histograms and also opens up the possibility of monitoring features of events that are not selected by the trigger.
+For the production version of Allen, we have now moved the monitoring accumulation from the dedicated thread into the threads responsible for running the Allen trigger pipeline. This allows any algorithm in the sequence to define and populate monitoring counters and histograms and also opens up the possibility of monitoring features of events that are not selected by the trigger (including possibly performing histogram-level analyses without triggering at all).
 For GPU algorithms, this is achieved in two ways. Quantities that are copied to the host memory for other reasons (e.g. line decisions) can be used to directly populate histograms in the host memory. Quantities that are never copied to the host are used to calculate bin contents on the GPU device. The bin contents are then copied to the host to be added to the histogram, reducing the amount of data that must be copied to the host.
 Histograms are served to an external monitoring display using the Gaudi MonitoringHub interface. An additional monitoring hub is also used within the aggregation thread, which combines histograms from separate GPU streams (which use independent host memory). The current flow of monitoring data is shown in the diagram below.
 
-<img width="60%" src ="/assets/images/allen-monitoring-new.png" />
+<img width="60%" src ="/assets/images/allen-monitoring-2023.png" />
