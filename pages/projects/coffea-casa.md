@@ -21,7 +21,6 @@ team:
  - jthiltges
  - bbockelm
  - Garhan Attebury
- - sam6734
 ---
 
 
