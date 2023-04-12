@@ -51,6 +51,7 @@ The Analysis Grand Challenge is being conducted during 2021‒2023, leaving enou
 - Execute IRIS-HEP AGC tools soft-launch event - [AGC Tools 2021 Workshop](https://indico.cern.ch/event/1076231/)
 - Execute second part of IRIS-HEP AGC tools soft-launch event - [AGC Tools 2022 Workshop](https://indico.cern.ch/event/1126109/)
 - Developed an analysis example based on CMS Opendata used for Analysis Grand Challenge demonstration
+- Presented [first performance measurements with an AGC implementation](https://indico.cern.ch/event/1106990/contributions/4998188/) at ACAT 2022
 
 **Future plans for 2023**:
 
