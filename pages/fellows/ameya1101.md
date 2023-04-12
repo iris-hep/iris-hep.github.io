@@ -46,4 +46,5 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1199559/
     recordingurl: https://youtu.be/gEaqn7C9ipY
     focus-area: ia
+linkedin-profile: https://www.linkedin.com/in/ameya-thete/
 ---
