@@ -140,7 +140,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1240038/
     project: acts
     focus-area: ia
-    location: CERN    
+    location: CERN
   - title: Introduction and Updates from Traccc
     date: 2022-02-28
     url: https://indico.cern.ch/event/1252785/contributions/5280307/attachments/2601681/4492704/EF%20Tracking%20Meeting(1).pdf
@@ -148,7 +148,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1252785/
     project: ATLAS Event Filter
     focus-area: ia
-    location: CERN    
+    location: CERN
   - title: CUDA track finding with CKF
     date: 2022-03-24
     url: https://indico.cern.ch/event/1263304/contributions/5325276/attachments/2617814/4525218/CUDA%20Track%20Finding%20with%20CKF.pdf
