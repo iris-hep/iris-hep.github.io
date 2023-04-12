@@ -9,6 +9,28 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
+  - title: Coffea-casa analysis facility
+    date: 2023-03-23
+    url: https://indico4.twgrid.org/event/25/contributions/1250/attachments/739/889/ISGC.pdf
+    meeting: International Symposium on Grids & Clouds (ISGC) 2023 in conjunction with HEPiX Spring 2023 Workshop
+    meetingurl: https://indico4.twgrid.org/event/25/
+    location: "Academia Sinica, Taipei, Taiwan"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: CMS O&C CDR - Evolution of Analysis Facilities
+    date: 2023-03-05
+    url: https://indico.cern.ch/event/1245259/contributions/5299969/attachments/2606183/4502964/CMS_CDR_AF.pdf
+    meeting: CMS O&C Upgrade R&D on Workflow Management and Computing Infrastructure
+    meetingurl: https://indico.cern.ch/event/1245259/
+    location: "(Virtual)"
+    focus-area:
+      - doma
+    project:
+      - coffea-casa
   - title: Analysis Grand Challenge updates
     date: 2022-11-15
     url: https://indico.cern.ch/event/1216989/contributions/5119559/attachments/2538377/4388399/20221115_AGC_OPS(1).pdf
