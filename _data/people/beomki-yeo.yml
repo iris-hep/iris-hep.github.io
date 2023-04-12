@@ -146,7 +146,7 @@ presentations:
     url: https://indico.cern.ch/event/1252785/contributions/5280307/attachments/2601681/4492704/EF%20Tracking%20Meeting(1).pdf
     meeting: EF Tracking weekly
     meetingurl: https://indico.cern.ch/event/1252785/
-    project: ATLAS Event Filter
+    project: acts
     focus-area: ia
     location: CERN
   - title: CUDA track finding with CKF
