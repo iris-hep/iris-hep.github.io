@@ -88,3 +88,67 @@ presentations:
     project: acts
     focus-area: ia
     location: Princeton, NJ
+  - title: "ACTS Vertexing"
+    date: 2022-09-26
+    url: https://indico.cern.ch/event/1184037/contributions/4993027/
+    meeting: ACTS Developers Workshop
+    meetingurl: https://indico.cern.ch/event/1184037/
+    project: acts
+    focus-area: ia
+    location: CERN, Switzerland
+  - title: "Auto-tuning in acts for seeding and vertexing"
+    date: 2022-09-27
+    url: https://indico.cern.ch/event/1184037/contributions/5061702/
+    meeting: ACTS Developers Workshop
+    meetingurl: https://indico.cern.ch/event/1184037/
+    project: acts
+    focus-area: ia
+    location: CERN, Switzerland
+  - title: "Tutorial on Using Optuna and Orion to tune seeding parameters"
+    date: 2022-09-28
+    url: https://indico.cern.ch/event/1184037/contributions/5061736/
+    meeting: ACTS Developers Workshop
+    meetingurl: https://indico.cern.ch/event/1184037/
+    project: acts
+    focus-area: ia
+    location: CERN, Switzerland
+  - title: "ACTS for IRIS-HEP"
+    date: 2022-10-13
+    url: https://indico.cern.ch/event/1196111/contributions/5067501/subcontributions/399185/attachments/2528262/4349370/ACTS_for-IRIS-HEPRetreat2022.pdf
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/1196111/
+    project: acts
+    focus-area: ia
+    location: Princeton, NJ
+  - title: "Auto-tuning capabilities of the ACTS track reconstruction suite"
+    date: 2022-10-26
+    url: https://indico.cern.ch/event/1106990/contributions/4998102/
+    meeting: ACAT 2022
+    meetingurl: https://indico.cern.ch/event/1106990/
+    project: acts
+    focus-area: ia
+    location: Bari, Italy
+  - title: "Update on PV-Finder Study: A Deep Learning based Approach to finding Primary Vertices in ATLAS data"
+    date: 2023-03-09
+    url: https://indico.cern.ch/event/1243482/contributions/5297129/attachments/2607694/4504615/PV-Finder_Update_TVPDmeeting_March9_2023.pdf
+    meeting: Tracking and Vertexing for Prompt and Displaced Particles Meeting, ATLAS
+    meetingurl: https://indico.cern.ch/event/1243482/
+    project: pv-finder
+    focus-area: ia
+    location: CERN, Switzerland
+  - title: "PV-Finder Approval: A Deep Learning based Approach to finding Primary Vertices in ATLAS data"
+    date: 2023-04-16
+    url: https://indico.cern.ch/event/1261299/contributions/5329526/attachments/2625968/4541943/PV-Finder_Update_InnerTrkMeeting_April6_2023.pdf
+    meeting: Inner Tracking CP Plenary
+    meetingurl: https://indico.cern.ch/event/1261299/
+    project: pv-finder
+    focus-area: ia
+    location: CERN, Switzerland
+  - title: "Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC"
+    date: 2023-05-09
+    url: https://indico.jlab.org/event/459/contributions/11714/
+    meeting: CHEP 2023
+    meetingurl: https://indico.jlab.org/event/459/
+    project: pv-finder
+    focus-area: ia
+    location: Norfolk, VA
