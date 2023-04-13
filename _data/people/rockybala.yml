@@ -129,6 +129,7 @@ presentations:
     focus-area: ia
     location: Bari, Italy
   - title: "Update on PV-Finder Study: A Deep Learning based Approach to finding Primary Vertices in ATLAS data"
+    date: 2023-03-09
     url: https://indico.cern.ch/event/1243482/contributions/5297129/attachments/2607694/4504615/PV-Finder_Update_TVPDmeeting_March9_2023.pdf
     meeting: Tracking and Vertexing for Prompt and Displaced Particles Meeting, ATLAS
     meetingurl: https://indico.cern.ch/event/1243482/
@@ -136,6 +137,7 @@ presentations:
     focus-area: ia
     location: CERN, Switzerland
   - title: "PV-Finder Approval: A Deep Learning based Approach to finding Primary Vertices in ATLAS data"
+    date: 2023-04-16
     url: https://indico.cern.ch/event/1261299/contributions/5329526/attachments/2625968/4541943/PV-Finder_Update_InnerTrkMeeting_April6_2023.pdf
     meeting: Inner Tracking CP Plenary
     meetingurl: https://indico.cern.ch/event/1261299/
@@ -143,6 +145,7 @@ presentations:
     focus-area: ia
     location: CERN, Switzerland
   - title: "Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC"
+    date: 2023-05-09
     url: https://indico.jlab.org/event/459/contributions/11714/
     meeting: CHEP 2023
     meetingurl: https://indico.jlab.org/event/459/
