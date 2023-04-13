@@ -134,7 +134,7 @@ presentations:
     focus-area: ia
     location: CERN
   - title: Kalman Filter Update in traccc
-    date: 2022-01-27
+    date: 2023-01-27
     url: https://indico.cern.ch/event/1240038/contributions/5243551/attachments/2583632/4456667/2023%20Jan%2027,%20Parallelization%20meeting.pdf
     meeting: ACTS Parallelization Meeting
     meetingurl: https://indico.cern.ch/event/1240038/
@@ -142,7 +142,7 @@ presentations:
     focus-area: ia
     location: CERN
   - title: Introduction and Updates from Traccc
-    date: 2022-02-28
+    date: 2023-02-28
     url: https://indico.cern.ch/event/1252785/contributions/5280307/attachments/2601681/4492704/EF%20Tracking%20Meeting(1).pdf
     meeting: EF Tracking weekly
     meetingurl: https://indico.cern.ch/event/1252785/
@@ -150,7 +150,7 @@ presentations:
     focus-area: ia
     location: CERN
   - title: CUDA track finding with CKF
-    date: 2022-03-24
+    date: 2023-03-24
     url: https://indico.cern.ch/event/1263304/contributions/5325276/attachments/2617814/4525218/CUDA%20Track%20Finding%20with%20CKF.pdf
     meeting: ACTS Parallelization Meeting
     meetingurl: https://indico.cern.ch/event/1263304/
@@ -158,7 +158,7 @@ presentations:
     focus-area: ia
     location: CERN
   - title: Update on Energy Loss
-    date: 2022-04-12
+    date: 2023-04-12
     url: https://indico.cern.ch/event/1271602/contributions/5356791/attachments/2627351/4543807/Update%20on%20Energy%20Loss.pdf
     meeting: Acts Developers Meeting
     meetingurl: https://indico.cern.ch/event/1271602/
