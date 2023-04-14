@@ -134,3 +134,80 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1162439/
     project: acts
     focus-area: ia
+  - title: Running ACTS workflow in athena for ITk
+    date: 2022-05-20
+    url: https://indico.cern.ch/event/1152330/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1152330/
+    project: acts
+    focus-area: ia
+  - title: ACTS for ITk in Athena - tutorial section
+    date: 2022-09-29
+    url: https://indico.cern.ch/event/1184037
+    meeting: ACTS Developers Workshop
+    meetingurl: https://indico.cern.ch/event/1184037
+    project: acts
+    focus-area: ia
+  - title: ACTS-Athena integration strategy
+    date: 2022-10-06
+    url: https://indico.cern.ch/event/1196648/
+    meeting: ATLAS software and computing week
+    meetingurl: https://indico.cern.ch/event/1196648/
+    project: acts
+    focus-area: ia
+  - title: Job Options for integration
+    date: 2022-10-07
+    url: https://indico.cern.ch/event/1208999/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1208999/
+    project: acts
+    focus-area: ia
+  - title: Athena-Acts Job Options developments
+    date: 2022-12-02
+    url: https://indico.cern.ch/event/1227066/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1227066/
+    project: acts
+    focus-area: ia
+  - title: ACTS-Athena integration and configuration
+    date: 2023-01-11
+    url: https://indico.cern.ch/event/1234213/
+    meeting: Annual LBNL ATLAS Meeting
+    meetingurl: https://indico.cern.ch/event/1234213/
+    project: acts
+    focus-area: ia
+  - title: Space point EDM discussion
+    date: 2023-01-20
+    url: https://indico.cern.ch/event/1242661/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1242661/
+    project: acts
+    focus-area: ia
+  - title: ACTS Tracking EDM
+    date: 2023-01-26
+    url: https://indico.cern.ch/event/1242268/
+    meeting: ATLAS software and computing week
+    meetingurl: https://indico.cern.ch/event/1242268/
+    project: acts
+    focus-area: ia
+  - title: SP EDM and timing studies of chain components
+    date: 2023-03-03
+    url: https://indico.cern.ch/event/1244909/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1244909/
+    project: acts
+    focus-area: ia
+  - title: Space Point EDM
+    date: 2023-03-13
+    url: https://indico.cern.ch/event/1263860/
+    meeting: TDAQ Week - EF Tracking parallel session
+    meetingurl: https://indico.cern.ch/event/1263860/
+    project: acts
+    focus-area: ia
+  - title: ACTS improvements for ITk chain
+    date: 2023-03-31
+    url: https://indico.cern.ch/event/1244913/
+    meeting: ACTS-ITk meeting
+    meetingurl: https://indico.cern.ch/event/1244913/
+    project: acts
+    focus-area: ia
