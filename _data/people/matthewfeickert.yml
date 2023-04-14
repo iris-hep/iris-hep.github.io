@@ -367,3 +367,12 @@ presentations:
     location: Virtual
     focus-area: as
     project: pyhf
+
+  - title: "pyhf: pure-Python implementation of HistFactory with tensors and automatic differentiation"
+    date: 2023-04-12
+    url: https://matthewfeickert-talks.github.io/talk-pyhf-cms-common-analysis-tools-april-2023/
+    meeting: "CMS Common Analysis Tools General Meeting"
+    meetingurl: https://indico.cern.ch/event/1264029/
+    location: Virtual
+    focus-area: as
+    project: pyhf
