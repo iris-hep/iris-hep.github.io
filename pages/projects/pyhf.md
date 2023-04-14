@@ -71,6 +71,16 @@ An updating list of libraries, projects, and analyses that use `pyhf` are listed
 
 Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
+- Oksana Shadura and Alexander Held. First performance measurements with the Analysis Grand Challenge. April 2023. [arXiv:2304.05214](https://arxiv.org/abs/2304.05214).
+- Qilong Guo, Leyun Gao, Yajun Mao, and Qiang Li. Search for vector-like leptons at a Muon Collider. April 2023. [arXiv:2304.01885](https://arxiv.org/abs/2304.01885).
+- Subhasish Behera, Manuel Hageluken, and Matthias Schott. Prospects of Searches for Anomalous Hadronic Higgs Boson Decays at the LHeC. Feb 2023. [arXiv:2302.12885](https://arxiv.org/abs/2302.12885).
+- Jay Chan and Benjamin Nachman. Unbinned Profiled Unfolding. Feb 2023. [arXiv:2302.05390](https://arxiv.org/abs/2302.05390).
+- Brian Bockelman, Peter Elmer, and Gordon Watts. IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics. Feb 2023. [arxiv:2302.01317](https://arxiv.org/abs/2302.01317)
+- ATLAS Collaboration. Search for long-lived, massive particles in events with displaced vertices and multiple jets in pp collisions at s√=13 TeV with the ATLAS detector. Jan 2023. [arXiv:2301.13866](https://arxiv.org/abs/2301.13866).
+- Nicolas Berger. Simplified likelihoods using linearized systematic uncertainties. Jan 2023. [arXiv:2301.05676](https://arxiv.org/abs/2301.05676).
+- Florian Bury. _Application of deep learning techniques in CMS: from matrix element regression to the search for Higgs boson pair production_. PhD thesis, Université catholique de Louvain, Dec 2022 [https://inspirehep.net/literature/2621189](https://inspirehep.net/literature/2621189)
+- Mohamed Aly et al. Second Analysis Ecosystem Workshop Report. Dec 2022. [arxiv:2212.04889](https://arxiv.org/abs/2212.04889)
+- Belle II Collaboration. Search for an invisible Z′ in a final state with two muons and missing energy at Belle II. Dec 2022. [arXiv:2212.03066](https://arxiv.org/abs/2212.03066).
 - Matthew Feickert, Lukas Heinrich, and Giordon Stark. pyhf: a pure-Python statistical fitting library with tensors and automatic differentiation. _PoS_, ICHEP2022:245, Nov 2022. [doi:10.22323/1.414.0245](https://doi.org/10.22323/1.414.0245).
 - Alexander Held and Oksana Shadura. The IRIS-HEP Analysis Grand Challenge. _PoS_, ICHEP2022:235, Nov 2022. [doi:10.22323/1.414.0235](https://doi.org/10.22323/1.414.0235).
 - Lukas Allwicher, Darius. A. Faroughy, Florentin Jaffredo, Olcyr Sumensari, and Felix Wilsch. HighPT: A Tool for high-pT Drell-Yan Tails Beyond the Standard Model. Jul 2022. [arXiv:2207.10756](https://arxiv.org/abs/2207.10756).
