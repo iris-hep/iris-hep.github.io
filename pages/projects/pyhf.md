@@ -131,8 +131,12 @@ Updating list of citations (from use in analyses and general reference) of `pyhf
 
 ### Published Probability Models
 
-Updating list of HEPData entries for publications using `HistFactory` JSON statistical models:
+Updating list of HEPData entries for publications using `HistFactory` JSON statistical models. There is also an automatically generated list of statistical models that is updated nightly available at [pyhf.github.io/public-probability-models](https://pyhf.github.io/public-probability-models).
 
+- Search for supersymmetry in final states with missing transverse momentum and three or more b-jets in 139 fb−1 of proton-proton collisions at s√=13 TeV with the ATLAS detector. 2022. [doi:10.17182/hepdata.95928](https://doi.org/10.17182/hepdata.95928)
+- Search for flavour-changing neutral-current couplings between the top quark and the photon with the ATLAS detector at s√=13 TeV. 2022. [doi:10.17182/hepdata.129959](https://doi.org/10.17182/hepdata.129959)
+- Searches for new phenomena in events with two leptons, jets, and missing transverse momentum in 139 fb−1 of s√=13 TeV pp collisions with the ATLAS detector. 2022. [doi:10.17182/hepdata.116034](https://doi.org/10.17182/hepdata.116034)
+- Search for Higgs boson pair production in the two bottom quarks plus two photons final state in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.105864](https://doi.org/10.17182/hepdata.105864)
 - Search for charginos and neutralinos in final states with two boosted hadronically decaying bosons and missing transverse momentum in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.104458](https://doi.org/10.17182/hepdata.104458)
 - Measurement of the tt̅tt̅ production cross section in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.105039](https://doi.org/10.17182/hepdata.105039)
 - Search for R-parity violating supersymmetry in a final state containing leptons and many jets with the ATLAS experiment using s√=13 TeV proton-proton collision data. 2021. [doi:10.17182/hepdata.104860](https://doi.org/10.17182/hepdata.104860)
