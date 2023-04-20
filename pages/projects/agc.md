@@ -40,6 +40,9 @@ The Analysis Grand Challenge is being conducted during 2021‒2023, leaving enou
 
 ### AGC repositories and related resources
 
+AGC has a dedicated webpage for documentation: [https://agc.readthedocs.io/en/latest/](https://agc.readthedocs.io/en/latest/?badge=latest)
+
+[![Documentation Status](https://readthedocs.org/projects/agc/badge/?version=latest)](https://agc.readthedocs.io/en/latest/?badge=latest)
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/iris-hep/analysis-grand-challenge)
 
 
