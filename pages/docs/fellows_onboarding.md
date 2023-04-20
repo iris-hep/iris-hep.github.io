@@ -24,6 +24,8 @@ For tax purposes, we need you to answer the following questions:
 
 Please complete and attach the appropriate form and answer the two questions above in an email message to <fellows@iris-hep.org>.
 
+If you have general tax-related questions, please email <finance@princeton.edu>.  For personal tax-related questions, we encourage you to seek the advice of a tax professional.
+
 #### IRIS-HEP Web Site <i class="fas fa-link"></i>
 
 Additionally, we also would like to add you to our Fellows webpage:
