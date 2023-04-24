@@ -1,12 +1,8 @@
 active: true
 focus-area:
-  - Particle Physics
-  - Machine Learning
+  - ssc
 institution: University of Puerto Rico, Mayaguez
-past_institution: { institution: Panjab University Chandigarh end_date: 2022-12-19 }
 name: Richa Sharma
 photo: /assets/images/team/Richa-Sharma.png
 shortname: richa
 title: Postdoctoral Research Associate
-
-
