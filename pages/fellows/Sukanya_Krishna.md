@@ -34,5 +34,7 @@ presentations:
   recordingurl: https://youtu.be/uSCABMAsd64
   focus-area: ia
 github-username: sukikrishna
+current_status: >
+  <strong>October 2022</strong> - Envision: Art and Engineering Maker Space Volunteer at UC San Diego Jacobs School of Engineering
 linkedin-profile: https://www.linkedin.com/in/sukanya-krishna/
 ---
