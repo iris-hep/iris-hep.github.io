@@ -149,7 +149,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
 * **LS** -  Long Shutdown, used to denote a period (typically 1 or more years) in which the LHC is not producing data and the CERN accelerator complex and detectors are being upgraded.
 
-* **LSST** - he [Large Synoptic Survey Telescope](https://www.lsst.org), former name of Vera C. Rubin Observatory
+* **LSST** - The [Large Synoptic Survey Telescope](https://www.lsst.org), former name of Vera C. Rubin Observatory
 
 * **ML** -  Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed. It focuses on prediction making through the use of computers and encompasses a lot of algorithm classes (boosted decision trees, neural networks. . . ).
 
@@ -165,7 +165,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
 * **ONNX** - [Open Neural Network Exchange](https://onnx.ai), an evolving open-source standard for exchanging AI models
 
-* **Operations Programs or Ops Programs -** -
+* **Operations Programs or Ops Programs -** - The US participation in the LHC includese funding for "operations" for each of the two experiments (ATLAS and USCMS). This funding comes from both the NSF and the DOE, but is jointly managed for each experiment as a single program. These are typically referred to together as the US-LHC Operations Programs or individually as the US-ATLAS and US-CMS operations programs. The operations programs fund effort in both labs (BNL, FNAL, etc.) and in many universities across the US. That effort supports both maintenance and operations activities on detectors that the US has contributed and the sofsoftware and computing efforts from the US (including the Tier 1 facilities at BNL and FNAL and Tier 2 facilities in a large number of universities). The operations programs are expected to continue as funded entities as long as the US maintains its efforts at the LHC.
 
 * **Openlab** - ERN [Openlab](https://openlab.cern) is a public-private partnership that accelerates the development of cutting-edge solutions for the worldwide LHC community and wider scientific research.
 
