@@ -36,7 +36,7 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=2BnMALmU5CQ
   focus-area: as
 github-username: edvb
-current_status: > 
+current_status: >
   <strong>September 2021</strong> - Physics PhD Student at the University of Massachusetts Amherst
 
 linkedin-profile: https://www.linkedin.com/in/ed-van-bruggen-58a379171
