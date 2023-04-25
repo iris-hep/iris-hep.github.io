@@ -51,7 +51,7 @@ presentations:
   recordingurl: https://youtu.be/PZbTeLk-jNs
   focus-area: ia
 current_status: >
-
+  <strong>October 2021</strong> - Doctoral Student at École polytechnique fédérale de Lausanne
 github-username: ahariri13
 
 linkedin-profile: https://www.linkedin.com/in/ali-hariri-06b847ba/
