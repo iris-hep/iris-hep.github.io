@@ -107,7 +107,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
 * **HEP** -  High Energy Physics
 
-* **HEP-CCE ** - The [HEP Center for Computational Excellence](https://www.anl.gov/hep-cce), a DOE-funded cross-cutting initiative to promote excellence in high performance computing (HPC) including data-intensive applications, scientific simulations, and data movement and storage
+* **HEP-CCE** - The [HEP Center for Computational Excellence](https://www.anl.gov/hep-cce), a DOE-funded cross-cutting initiative to promote excellence in high performance computing (HPC) including data-intensive applications, scientific simulations, and data movement and storage
 
 * **HEPData** - The Durham [High Energy Physics Database](https://www.hepdata.net)  is an open access repository for scattering data from experimental particle physics.
 
