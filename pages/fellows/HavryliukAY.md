@@ -27,6 +27,7 @@ presentations:
   recordingurl: https://youtu.be/7-0WZZCtqJI
   focus-area:
 current_status: >
+  <strong>March 2023</strong> - Junior ML Engineer at INNORA
 github-username: HavryliukAY
 linkedin-profile: https://www.linkedin.com/in/havryliuka/
 ---

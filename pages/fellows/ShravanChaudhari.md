@@ -38,7 +38,7 @@ presentations:
   recordingurl: https://youtu.be/PZbTeLk-jNs
   focus-area: ia
 current_status: >
-  <strong>December 2021</strong> - Graduate student in Computer Science at New York University (NYU)
+  <strong>January 2023</strong> - Research Assistant at NYU Center for Data Science
 github-username: Shra1-25
 
 linkedin-profile: https://www.linkedin.com/in/shravan-chaudhari

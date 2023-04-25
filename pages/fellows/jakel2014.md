@@ -32,7 +32,7 @@ presentations:
   recordingurl: https://youtu.be/7-0WZZCtqJI
   focus-area: as
 current_status: >
-
+  <strong>January 2022</strong> - Data Science Consultant at Hipkins Inc
 github-username: jakel2014
 linkedin-profile: https://www.linkedin.com/in/jake-li-492316224/
 ---

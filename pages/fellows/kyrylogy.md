@@ -28,7 +28,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1195272/
   recordingurl: https://youtu.be/01mHSh-gnXs
   focus-area:
-current_status:
+current_status: >
+  <strong>November 2022</strong> - Junior Researcher at Software Competence Center Hagenberg
 github-username: kyrylogy
 linkedin-profile: https://www.linkedin.com/in/kyrylo-meliushko
 ---

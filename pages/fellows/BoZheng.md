@@ -36,7 +36,7 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=yjlzO5oXb1w&t=0s
   focus-area: as
 current_status: >
-  <strong>December 2021</strong> - Software Engineer at Electronic Arts (EA)
+  <strong>July 2022</strong> - Software Engineer at Google
 github-username: coolalexzb
 
 linkedin-profile: https://www.linkedin.com/in/bo-zheng-1511a017b

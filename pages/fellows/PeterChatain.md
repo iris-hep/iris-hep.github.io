@@ -31,6 +31,8 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=yjlzO5oXb1w&t=610s
   focus-area: ia
 github-username: Pchatain
+current_status:
+  <strong>June 2022</strong> - Machine Learning Intern at Ello
 
 linkedin-profile: https://www.linkedin.com/in/peterchatain
 ---

@@ -33,6 +33,7 @@ presentations: >
     recordingurl:
     focus-area:
 current_status: >
+  <strong>March 2023</strong> - Software Developer at Genova Technologies
 github-username:
 
 linkedin-profile: https://www.linkedin.com/in/sammyedwards

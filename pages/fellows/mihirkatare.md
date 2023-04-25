@@ -38,7 +38,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071423/
   recordingurl: https://youtu.be/jAyJSDiWxhw
   focus-area: as
-current_status:
+current_status: >
+  <strong>June 2022</strong> - Software Engineer at Amazon Web Services (AWS)
 github-username: mihirkatare
 
 linkedin-profile: https://www.linkedin.com/in/mihirkatare

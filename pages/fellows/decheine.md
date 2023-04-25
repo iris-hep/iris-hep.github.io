@@ -34,7 +34,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1082474/
   recordingurl: https://youtu.be/k6T12vY41oA
   focus-area: as
-current_status:
+current_status: >
+  <strong>February 2022</strong> - R&T Software Engineer at Abbott
 github-username: decheine
 
 linkedin-profile: https://www.linkedin.com/in/decheine

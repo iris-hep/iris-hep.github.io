@@ -51,7 +51,7 @@ presentations:
     recordingurl: "https://youtu.be/gEaqn7C9ipY"
     focus-area: ia
 current_status: >
-  A placeholder for status updates
+  <strong>May 2022</strong> - Printed Circuit Board Designer (Trainee) at ETH Zürich
 github-username: VolodymyrSvintozelskyi
 gitlab-url: https://gitlab.cern.ch/vsvintoz
 linkedin-profile: https://www.linkedin.com/in/volodymyr-svintozelskyi-046b731a7
