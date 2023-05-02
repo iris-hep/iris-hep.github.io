@@ -15,7 +15,7 @@ focus-area: N/A
 project_title: Integrating a Lesson on REANA into the HSF Analysis Preservation Training
 project_goal: >
 The project aim of this project is to test REANA and its training material. This study will result in improving the workshop, widening its usability, and mitigating difficult readability.
-mentors: 
+mentors:
   - Kilian Lieret (Princeton University)
   - Tibor Simko (CERN)
 proposal: /assets/pdf/fellows-2023/proposal-gabriel-soto.pdf
