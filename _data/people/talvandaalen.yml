@@ -8,3 +8,19 @@ institution: University of Washington
 website:
 photo: /assets/images/team/Tal-VanDaalen.jpg
 presentations:
+  - title: "IRIS-HEP / AGC Demo Day #1"
+    date: 2022-12-16
+    url: https://indico.cern.ch/event/1218004/#2-servicex-root-files-from-upr
+    meetingurl: https://indico.cern.ch/event/1218004/
+    meeting: "ServiceX: ROOT files from uproot transformer"
+    focus-area: as
+    project: agc
+    location: CERN, Meyrin, Switzerland
+  - title: "IRIS-HEP AGC Workshop 2023"
+    date: 2023-05-03
+    url: https://indico.cern.ch/event/1260431/contributions/5315201/
+    meetingurl: https://indico.cern.ch/event/1260431
+    meeting: "ServiceX User Experience"
+    focus-area: as
+    project: agc
+    location: Madison, WI, USA
