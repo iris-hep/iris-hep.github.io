@@ -319,3 +319,11 @@ presentations:
     meeting: "ATLAS Software & Computing Plenary (internal)"
     focus-area: as
     project: agc
+  - title: "IRIS-HEP AGC Workshop 2023"
+    date: 2023-05-03
+    url: https://indico.cern.ch/event/1260431/contributions/5315196/
+    meetingurl: https://indico.cern.ch/event/1260431
+    meeting: "ServiceX for ATLAS"
+    focus-area: as
+    project: agc
+    location: Madison, WI, USA
