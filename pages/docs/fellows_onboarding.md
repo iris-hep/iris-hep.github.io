@@ -15,8 +15,8 @@ There are some additional items needed to complete the onboarding process.
 
 You need to fill out a Payee Management Form in order to receive payment.
 
-*   For US Domestic students - <https://finance.princeton.edu/sites/g/files/toruqf151/files/2019-11/supplier_mgmt.pdf>
-*   For International students - <https://finance.princeton.edu/sites/g/files/toruqf151/files/2020-08/foregn_individual_supplier_mgmt.pdf>
+*   For US Domestic students - <https://finance.princeton.edu/forms/supplierpayee-management>
+*   For International students - <https://finance.princeton.edu/forms/foreign-individual-payeesubstitute-w-8ben>
 
 For tax purposes, we need you to answer the following questions:
 1.      Are you a US citizen/permanent resident or a foreign national?
