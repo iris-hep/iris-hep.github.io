@@ -103,6 +103,8 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
 * **GeantV** -  An R&D project that aims to fully exploit the parallelism, which is increasingly offered by the new generations of CPUs, in the field of detector simulation.
 
+* **GNN** - Graph Neural Network
+
 * **GPGPU** -  General-Purpose computing on Graphics Processing Units is the use of a Graphics Pro- cessing Unit (GPU), which typically handles computation only for computer graphics, to perform computation in applications traditionally handled by the Central Processing Unit (CPU). Pro- gramming for GPUs is typically more challenging, but can offer significant gains in arithmetic throughput.
 
 * **HEP** -  High Energy Physics
@@ -168,6 +170,10 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 * **Operations Programs or Ops Programs -** - The US participation in the LHC includese funding for "operations" for each of the two experiments (ATLAS and USCMS). This funding comes from both the NSF and the DOE, but is jointly managed for each experiment as a single program. These are typically referred to together as the US-LHC Operations Programs or individually as the US-ATLAS and US-CMS operations programs. The operations programs fund effort in both labs (BNL, FNAL, etc.) and in many universities across the US. That effort supports both maintenance and operations activities on detectors that the US has contributed and the sofsoftware and computing efforts from the US (including the Tier 1 facilities at BNL and FNAL and Tier 2 facilities in a large number of universities). The operations programs are expected to continue as funded entities as long as the US maintains its efforts at the LHC.
 
 * **Openlab** - ERN [Openlab](https://openlab.cern) is a public-private partnership that accelerates the development of cutting-edge solutions for the worldwide LHC community and wider scientific research.
+
+* **OC** - Object Condensation
+
+* **OCT** - Object Condensation Tracking
 
 * **OSG** - The [Open Science Grid](https://opensciencegrid.org/), which provides the fabric for distributed high-through computing
 
