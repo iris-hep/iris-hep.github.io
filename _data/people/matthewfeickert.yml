@@ -403,3 +403,12 @@ presentations:
     location: Madison, U.S.A.
     focus-area: as
     project:
+
+  - title: "Software Citation in HEP: Current State and Recommendations for the Future"
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/contributions/11688/
+    meeting: "CHEP 2023 Conference"
+    meetingurl: https://indico.jlab.org/event/459/
+    location: Norfolk, U.S.A.
+    focus-area:
+    project:
