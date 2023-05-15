@@ -4,7 +4,7 @@ title: "IRIS-HEP: Training a new generation of computational and data science re
 author:  Allison Gasparini
 image: /assets/images/posts/2023-04-13-training-new-generation-codas-hep-2022-group-photo.jpg
 image-caption: >
-    Group photo of participants in CoDaS-HEP 2022 school
+    Group photo of participants in CoDaS-HEP 2022 school, Credit: Rick Soden, Princeton University
 summary: >
     Overview of IRIS-HEP efforts to train future generations of physicists to have proficiency in software.
 figure-class: center
