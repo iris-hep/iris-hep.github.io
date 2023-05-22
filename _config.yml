@@ -37,6 +37,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 strict_front_matter: true
 

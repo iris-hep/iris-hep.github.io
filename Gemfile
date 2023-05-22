@@ -39,6 +39,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.16'
   gem 'jekyll-include-cache'
   gem 'jekyll-indico', '~> 0.6.2'
+  gem 'jekyll-redirect-from'
   # gem 'jekyll-indico', github: 'iris-hep/jekyll-indico', branch: 'main'
 end
 
