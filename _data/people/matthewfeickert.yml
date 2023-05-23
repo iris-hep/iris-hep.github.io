@@ -376,3 +376,39 @@ presentations:
     location: Virtual
     focus-area: as
     project: pyhf
+
+  - title: "IRIS-HEP Analysis Grand Challenge at US ATLAS Analysis Facilities"
+    date: 2023-05-04
+    url: https://indico.cern.ch/event/1260431/contributions/5315256/
+    meeting: "IRIS-HEP Analysis Grand Challenge workshop 2023"
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: Madison, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Analysis Systems: Future Directions and UX"
+    date: 2023-05-04
+    url: https://indico.cern.ch/event/1260431/contributions/5361163/
+    meeting: "IRIS-HEP Analysis Grand Challenge workshop 2023"
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: Madison, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Analysis Systems: Workshop Outcomes and Action Items"
+    date: 2023-05-05
+    url: https://indico.cern.ch/event/1260431/contributions/5315157/
+    meeting: "IRIS-HEP Analysis Grand Challenge workshop 2023"
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: Madison, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Software Citation in HEP: Current State and Recommendations for the Future"
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/contributions/11688/
+    meeting: "CHEP 2023 Conference"
+    meetingurl: https://indico.jlab.org/event/459/
+    location: Norfolk, U.S.A.
+    focus-area:
+    project:
