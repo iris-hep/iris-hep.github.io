@@ -16,14 +16,20 @@ You should submit a pull request with the photo, a markdown file with the summar
 
 
 * Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team). It should be 320x240 pixels and in general should be 150kB or less.
-* If you have been offered and accepted a Fellow position, your proposal will be uploaded by us to the [assets/pdf/follows-2022 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/pdf/fellows-2022). Find the exact filename and use that below.
-* Add a "`<your github username>.md`" file to the [fellows folder in the website repository](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/fellows). See the example below.
+* If you have been offered and accepted a Fellow position, your proposal will be uploaded by us to the [assets/pdf/follows-2023 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/pdf/fellows-2023). Find the exact filename and use that below.
+* Add a "`<your github username>.md`" file to the [fellows folder in the website repository](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/fellows/2023). See the example below.
 
 *Please Note*:  In the markdown file you create, ensure you set the “active” attribute to True – (i.e.  active: True).  Otherwise, your entry will not appear on our Fellows page.
 
 Be sure to include your project summary in the project_goal field.
 
 You can leave the “presentations” and “current_status” fields blank for now.  (Make sure to include the fields)
+
+You can optionally include your linkedin-profile.
+
+
+### Dates
+Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2021-12-31
 
 ```yml
 
@@ -59,11 +65,9 @@ presentations:
 current_status: >
   A placeholder for status updates
 github-username: <Your git-hub username>
+linkedin-profile: <Your LinkedIn Profile url>
 ---
 ```
-
-### Dates
-Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2021-12-31
 
 ### Presentations
 
