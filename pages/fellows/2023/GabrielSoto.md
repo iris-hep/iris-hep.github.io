@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-04-24
   end: 2023-06-09
-photo: /assets/images/team/Gabriel-Sot0.png
+photo: /assets/images/team/Gabriel-Soto.png
 institution: University of California, Davis
 e-mail: gjsoto@ucdavis.edu
 focus-area: ssc
