@@ -35,6 +35,10 @@ Additionally, we also would like to add you to our Fellows webpage:
 Follow the directions found here to create a markdown file for your page:
 
   <https://iris-hep.org/docs/fellow>
+  
+Once your pull request is merged and your fellows page is available on the webpage, you should update the IRIS-HEP project database with this that link. Follow instructions here to do that:
+
+  <https://github.com/research-software-collaborations/project_database/blob/main/README.md#changing-the-status-of-your-project>
 
 #### IRIS-HEP Fellows Slack Channel <i class="fab fa-slack"></i>
 
