@@ -593,7 +593,7 @@ presentations:
       - histogram
       - scikit-hep
   - title: All about AwkwardForth
-    date: 023-03-06
+    date: 2023-03-06
     url: https://github.com/jpivarski-talks/2023-03-06-awkwardforth-for-atlas
     meeting: ATLAS columnar analysis group
     meetingurl: https://indico.cern.ch/event/1260418/
@@ -604,7 +604,7 @@ presentations:
       - awkward
       - uproot
   - title: Scientific Python
-    date: 05-05-2023
+    date: 2023-05-05
     url: https://github.com/hsf-india-may2023/scientific-python
     meeting: HSF-India Training event at TIFR
     meetingurl: https://indico.cern.ch/event/1254939/
@@ -617,7 +617,7 @@ presentations:
       - histogram
       - scikit-hep
   - title: Analysis of physics analysis
-    date: 05-09-2023
+    date: 2023-05-09
     url: https://indico.jlab.org/event/459/contributions/11547/
     meeting: CHEP 2023
     meetingurl: https://www.jlab.org/conference/CHEP2023
