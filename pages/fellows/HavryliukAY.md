@@ -21,11 +21,11 @@ projects:
   mentors:
   - Michelle Kuchera (Davidson College)
   proposal: /assets/pdf/fellows-2022/209-proposal-Artem-Havryliuk.pdf
-  
+
 projects:
   - project_title: Using Diffusion Probabilistic Models for Denoising Tracks from AT-TPC Detector
   project_goal: >
-    Preliminary work in Dr. Kuchera’s group investigated using diffusion probabilistic models (dpm) as a surrogate simulator for generating point clouds from         the AT-TPC detector. I propose to continue this idea, but in order to denoise and clean charged particle tracks recorded by the AT-TPC detector. We plan to   
+    Preliminary work in Dr. Kuchera’s group investigated using diffusion probabilistic models (dpm) as a surrogate simulator for generating point clouds from         the AT-TPC detector. I propose to continue this idea, but in order to denoise and clean charged particle tracks recorded by the AT-TPC detector. We plan to
     model the problem as unpaired, event-to-event domain translation. One domain would comprise AT-TPC events generated via simulation; the other would comprise       events recorded during actual experiments with the detector. We expect the trained model to be able to remove noise from tracks.
   mentors:
   - Michelle Kuchera (Davidson College)
