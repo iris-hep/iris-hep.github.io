@@ -10,7 +10,7 @@ dates:
 - start: 2022-06-27
   end: 2022-09-19
 - start: 2023-06-12
-  end: 2023-09-4
+  end: 2023-09-04
 photo: /assets/images/team/Artem-Havryliuk.jpg
 institution: Kyiv Academic University
 e-mail: 03artem09@gmail.com
