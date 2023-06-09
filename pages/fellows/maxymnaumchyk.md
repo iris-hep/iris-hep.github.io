@@ -31,7 +31,7 @@ projects:
     meetingurl: https://indico.cern.ch/event/1195270/
     recordingurl: https://youtu.be/leIV_gRetHU
     focus-area: ia
-    
+
 - project_title: Machine Learning on Network Data for Problem Identification
   project_goal: >
     To provide a more effective method of identifying certain types of network issues using machine learning so that such problems can be quickly resolved before they impact scientists who rely on these networks.
