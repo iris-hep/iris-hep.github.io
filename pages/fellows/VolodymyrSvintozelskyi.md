@@ -32,8 +32,7 @@ projects:
   proposal: /assets/pdf/fellows-2022/201-proposal-Volodymyr-Svintozelskyi-2.pdf
 - project_title: Studies of new trigger lines, dedicated to long-lived particle detection at the LHCb experiment
   project_goal: >
-    Optimization of brand-new HLT1 trigger lines, dedicated to long-lived particle detection at LHCb experiment. Development of simple monitoring lines with using of 
-downstream reconstruction algorithm
+    Optimization of brand-new HLT1 trigger lines, dedicated to long-lived particle detection at LHCb experiment. Development of simple monitoring lines with using of downstream reconstruction algorithm
   mentors:
   -  Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
   -  Brij Kishor Jashal (IFIC - University of Valencia/CSIC, Spain)
