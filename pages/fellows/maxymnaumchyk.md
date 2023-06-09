@@ -5,12 +5,12 @@ shortname: 70752300
 permalink: /fellows/70752300.html
 fellow-name: Maxym Naumchyk
 title: Maxym Naumchyk - IRIS-HEP Fellow
-active: False
+active: True
 dates:
   - start: 2022-07-01
     end: 2022-08-31
   - start: 2023-06-12
-    end: 2022-09-24
+    end: 2023-09-24
 photo: /assets/images/team/Maxym-Naumchyk.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: maxymnaumchyk@gmail.com
