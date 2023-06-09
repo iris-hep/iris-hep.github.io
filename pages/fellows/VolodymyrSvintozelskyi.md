@@ -12,7 +12,7 @@ dates:
   - start: 2022-12-01
     end: 2023-02-28
   - start: 2023-07-01
-  - end: 2023-09-23
+    end: 2023-09-23
 photo: /assets/images/team/Volodymyr-Svintozelskyi.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: volodymyrsvintozelskyi@gmail.com
