@@ -10,7 +10,7 @@ dates:
   start: 2023-06-05
   end: 2023-09-15
 photo: /assets/images/team/Leonid-Didukh.jpg
-institution: 
+institution:
 e-mail: ledidukh@gmail.com
 focus-area: ssc
 project_title: Estimation of the energy cost and efficiency of the HEP data compression ML algorithm (Baler)
@@ -25,6 +25,6 @@ mentors:
 proposal: /assets/pdf/fellows-2023/proposal_leonid_didukh.pdf
 linkedin-profile: https://www.linkedin.com/in/ledidukh/
 github-username: neogyk
-presentation: 
-current_status: 
+presentation:
+current_status:
 ---
