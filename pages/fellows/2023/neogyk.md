@@ -1,7 +1,7 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname: LeonidDidukh
+shortname: Leonid Didukh
 permalink: /fellows/LeonidDidukh.html
 fellow-name: Leonid Didukh
 title: Leonid Didukh - IRIS-HEP Fellow
@@ -23,6 +23,8 @@ project_goal: >
 mentors:
   - Caterina Doglioni (Lund University)
 proposal: /assets/pdf/fellows-2023/proposal_leonid_didukh.pdf
+linkedin-profile: https://www.linkedin.com/in/ledidukh/
+github-username: neogyk
 presentation: 
-current_status: neogyk
+current_status: 
 ---
