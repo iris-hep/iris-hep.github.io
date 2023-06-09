@@ -11,7 +11,7 @@ dates:
   start: 2023.06.19
   end: 2023.09.10
 photo: /assets/images/team/Valerii-Kholoimov.jpg
-institution: Taras Shevchenko National University of Kyiv 
+institution: Taras Shevchenko National University of Kyiv
 e-mail: vholoimov@gmail.com
 focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 project_title: Development of simulation workflows for BSM LLPs at LHCb
