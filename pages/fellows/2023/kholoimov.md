@@ -21,7 +21,7 @@ mentors:
   - Brij Kishor Jashal (IFIC - University of Valencia/CSIC, Spain)
 proposal: assets/pdf/fellows-2023/U025-porposal-Valerii-Kholoimov.pdf
 presentations:
-current_status: 
+current_status:
 github-username: kholoimov
 linkedin-profile: linkedin.com/in/valerii-kholoimov-37969a223
 ---
