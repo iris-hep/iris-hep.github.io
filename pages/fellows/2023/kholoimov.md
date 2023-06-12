@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-19
   end: 2023-09-10
-photo: /assets/images/team/Valerii-Kholoimov.jpg
+photo: /assets/images/team/Valerii-Kholoimov.ping
 institution: Taras Shevchenko National University of Kyiv
 e-mail: vholoimov@gmail.com
 focus-area: ia
@@ -23,5 +23,5 @@ proposal: assets/pdf/fellows-2023/U025-porposal-Valerii-Kholoimov.pdf
 presentations:
 current_status:
 github-username: kholoimov
-linkedin-profile: linkedin.com/in/valerii-kholoimov-37969a223
+linkedin-profile: https://linkedin.com/in/valerii-kholoimov-37969a223
 ---
