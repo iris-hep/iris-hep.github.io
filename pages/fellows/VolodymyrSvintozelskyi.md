@@ -5,12 +5,14 @@ shortname: VolodymyrSvintozelskyi
 permalink: /fellows/VolodymyrSvintozelskyi.html
 fellow-name: Volodymyr Svintozelskyi
 title: Volodymyr Svintozelskyi - IRIS-HEP Fellow
-active: false
+active: true
 dates:
   - start: 2022-06-21
     end: 2022-09-01
   - start: 2022-12-01
     end: 2023-02-28
+  - start: 2023-07-01
+    end: 2023-09-23
 photo: /assets/images/team/Volodymyr-Svintozelskyi.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: volodymyrsvintozelskyi@gmail.com
@@ -28,6 +30,13 @@ projects:
   mentors:
   -  Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
   proposal: /assets/pdf/fellows-2022/201-proposal-Volodymyr-Svintozelskyi-2.pdf
+- project_title: Studies of new trigger lines, dedicated to long-lived particle detection at the LHCb experiment
+  project_goal: >
+    Optimization of brand-new HLT1 trigger lines, dedicated to long-lived particle detection at LHCb experiment. Development of simple monitoring lines with using of downstream reconstruction algorithm
+  mentors:
+  -  Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
+  -  Brij Kishor Jashal (IFIC - University of Valencia/CSIC, Spain)
+  proposal: /assets/pdf/fellows-2023/U012-proposal-Volodymyr-Svintozelskyi.pdf
 presentations:
   - title: "Volodymyr Svintozelskyi - Development of high-performance reconstruction algorithms for detecting long-lived particles"
     date: 2022-07-27
@@ -50,8 +59,6 @@ presentations:
     meetingurl: "https://indico.cern.ch/event/1199559/"
     recordingurl: "https://youtu.be/gEaqn7C9ipY"
     focus-area: ia
-current_status: >
-  <strong>May 2022</strong> - Printed Circuit Board Designer (Trainee) at ETH Zürich
 github-username: VolodymyrSvintozelskyi
 gitlab-url: https://gitlab.cern.ch/vsvintoz
 linkedin-profile: https://www.linkedin.com/in/volodymyr-svintozelskyi-046b731a7
