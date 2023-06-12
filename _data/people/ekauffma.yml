@@ -6,6 +6,7 @@ name: Elliott Kauffman
 photo: "/assets/images/team/Elliott-Kauffman.jpg"
 shortname: ekauffma
 title: Research Software Intern
+website: https://github.com/ekauffma
 presentations:
   - title: Machine Learning for Columnar High Energy Physics Analysis
     date: 2023-05-08
