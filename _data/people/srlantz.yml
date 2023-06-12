@@ -48,3 +48,11 @@ presentations:
     location: Princeton University
     focus-area: ia
     project: mkfit
+  - title: "Particle Track Reconstruction for the Large Hadron Collider: A Case Study in Intra-Processor Parallelism"
+    date: 2023-04-27
+    url: https://www.cac.cornell.edu/education/TrackRecoCaseStudy.pdf
+    meeting: "Guest lecture for CS 5220, Applications of Parallel Computers"
+    meetingurl: https://cornellcswiki.gitlab.io/classes/CS5220.html
+    location: Cornell University
+    focus-area: ia
+    project: mkfit
