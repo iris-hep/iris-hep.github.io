@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Vincent Garonne (Brookhaven National Laboratory)
   - Qiulan Huang (Brookhaven National Laboratory)
-proposal: /assets/pdf/fellows-2022/
+proposal: assets/pdf/fellows-2023/IRIS004-proposal-Avi-Kaufman.pdf
 presentations:
 current_status: >
 github-username: AviKaufman
