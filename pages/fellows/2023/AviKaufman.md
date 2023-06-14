@@ -21,7 +21,7 @@ mentors:
   - Qiulan Huang (Brookhaven National Laboratory)
 proposal: /assets/pdf/fellows-2023/IRIS004-proposal-Avi-Kaufman.pdf
 presentations:
-current_status: 
+current_status:
 github-username: AviKaufman
 linkedin-profile: https://www.linkedin.com/in/avi-kaufman-893434248/
 ---
