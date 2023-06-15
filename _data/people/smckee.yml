@@ -525,3 +525,19 @@ presentations:
     location: Norfolk, VA, US
     focus-area: osglhc
     project: osg-networking
+  - title: USATLAS Facility and Data Challenge 2024
+    url: https://indico.cern.ch/event/1273590
+    meeting: "USATLAS Technical Meeting June 2023"
+    meetingurl: https://indico.cern.ch/event/1273590
+    date: 2023-06-05
+    location: Bloomington, IN, US
+    focus-area: doma
+    project: osg-networking
+  - title: WLCG Data Challenge 2024 (DC24) Status and Plans Related to ATLAS DDM
+    url: https://indico.cern.ch/event/1278716/#b-512114-workflow-management
+    meeting: "ATLAS Software and Computing #75"
+    meetingurl: https://indico.cern.ch/event/1278716
+    date: 2023-06-14
+    location: CERN, Geneva, Switzerland
+    focus-area: doma
+    project: osg-networking
