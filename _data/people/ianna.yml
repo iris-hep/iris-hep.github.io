@@ -10,6 +10,16 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+  - title: "Awkward Just-In-Time (JIT) Compilation: A Developer’s Experience"
+    date: 2023-05-11
+    url: https://indico.jlab.org/event/459/contributions/11557/
+    meeting: 26th International Conference on Computing in High Energy & Nuclear Physics (CHEP2023)
+    meetingurl: https://indico.jlab.org/event/459/
+    location: Norfolk, VA 23510, USA
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: Awkward to RDataFrame and back
     date: 2022-10-25
     url: https://indi.to/M7FrS

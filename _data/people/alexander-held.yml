@@ -318,6 +318,19 @@ presentations:
       - coffea-casa
       - agc
 
+  - title: "Analysis Grand Challenge updates"
+    date: 2023-01-24
+    url: https://indico.cern.ch/event/1243052/#1-agenda-minutes
+    meeting: IRIS-HEP / Ops Program Analysis Grand Challenge Planning
+    meetingurl: https://indico.cern.ch/event/1243052/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
   - title: "cabinetry tutorial"
     date: 2023-03-03
     url: https://indico.belle2.org/event/8470/contributions/55829/
@@ -354,3 +367,50 @@ presentations:
     project:
       - coffea-casa
       - agc
+
+  - title: "cabinetry overview"
+    date: 2023-04-12
+    url: https://indico.cern.ch/event/1264029/#3-cabinetry
+    meeting: CMS Common Analysis Tools (CAT) general meeting
+    meetingurl: https://indico.cern.ch/event/1264029/
+    location: "CERN & Virtual"
+    focus-area: as
+    project:
+      - cabinetry
+
+  - title: "Analysis Grand Challenge workshop introduction"
+    date: 2023-05-03
+    url: https://indico.cern.ch/event/1260431/contributions/5315182/
+    meeting: IRIS-HEP Analysis Grand Challenge workshop 2023
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: "Madison, USA"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "Analysis Grand Challenge workshop closing"
+    date: 2023-05-05
+    url: https://indico.cern.ch/event/1260431/contributions/5315167/
+    meeting: IRIS-HEP Analysis Grand Challenge workshop 2023
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: "Madison, USA"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "Physics analysis for the HL-LHC: concepts and pipelines in practice with the Analysis Grand Challenge"
+    date: 2023-05-09
+    url: https://indico.jlab.org/event/459/contributions/11558/
+    meeting: CHEP 2023
+    meetingurl: https://indico.jlab.org/event/459/
+    location: "Norfolk, USA"
+    focus-area:
+      - as
+      - doma
+    project: agc

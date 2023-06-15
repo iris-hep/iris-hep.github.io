@@ -9,6 +9,61 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
+  - title: Coffea-casa analysis facility
+    date: 2023-05-24
+    url: https://indico.cern.ch/event/1274741/contributions/5353315/attachments/2652907/4593749/CAT%202023_coffea_casa.pdf
+    meeting: Common Analysis Tools (CAT) general meeting (CMS internal)
+    meetingurl: https://indico.cern.ch/event/1274741/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: Coffea-Casa - Building composable analysis facilities for the HL-LHC
+    date: 2023-05-09
+    url: https://indico.jlab.org/event/459/contributions/11610/attachments/9586/13938/CHEP%202023_coffea_casa__.pdf
+    meeting: 26th International Conference on Computing in High Energy & Nuclear Physics
+    meetingurl: https://indico.jlab.org/event/459
+    location: "Norfolk, Virginia, US"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: "Next steps for coffea-casa AF"
+    date: 2022-05-03
+    url: https://docs.google.com/presentation/d/1rINHkaqozp-RD9Bu-fWZtbQ1ktocw8d5fQ1sFMRjW7k/edit?usp=sharing
+    meeting: https://docs.google.com/presentation/d/1rINHkaqozp-RD9Bu-fWZtbQ1ktocw8d5fQ1sFMRjW7k/edit?usp=sharing
+    meetingurl: https://indico.cern.ch/event/1260431
+    location: "Madison, USA"
+    focus-area:
+      - doma
+    project: coffea-casa
+  - title: Coffea-casa analysis facility
+    date: 2023-03-23
+    url: https://indico4.twgrid.org/event/25/contributions/1250/attachments/739/889/ISGC.pdf
+    meeting: International Symposium on Grids & Clouds (ISGC) 2023 in conjunction with HEPiX Spring 2023 Workshop
+    meetingurl: https://indico4.twgrid.org/event/25/
+    location: "Academia Sinica, Taipei, Taiwan"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+  - title: CMS O&C CDR - Evolution of Analysis Facilities
+    date: 2023-03-05
+    url: https://indico.cern.ch/event/1245259/contributions/5299969/attachments/2606183/4502964/CMS_CDR_AF.pdf
+    meeting: CMS O&C Upgrade R&D on Workflow Management and Computing Infrastructure
+    meetingurl: https://indico.cern.ch/event/1245259/
+    location: "(Virtual)"
+    focus-area:
+      - doma
+    project:
+      - coffea-casa
   - title: Analysis Grand Challenge updates
     date: 2022-11-15
     url: https://indico.cern.ch/event/1216989/contributions/5119559/attachments/2538377/4388399/20221115_AGC_OPS(1).pdf

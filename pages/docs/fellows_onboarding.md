@@ -15,14 +15,16 @@ There are some additional items needed to complete the onboarding process.
 
 You need to fill out a Payee Management Form in order to receive payment.
 
-*   For US Domestic students - <https://finance.princeton.edu/sites/g/files/toruqf151/files/2019-11/supplier_mgmt.pdf>
-*   For International students - <https://finance.princeton.edu/sites/g/files/toruqf151/files/2020-08/foregn_individual_supplier_mgmt.pdf>
+*   For US Domestic students - <https://finance.princeton.edu/forms/supplierpayee-management>
+*   For International students - <https://finance.princeton.edu/forms/foreign-individual-payeesubstitute-w-8ben>
 
 For tax purposes, we need you to answer the following questions:
 1.      Are you a US citizen/permanent resident or a foreign national?
 2.     Will you be physically located in the United States or your home country for the duration of the fellowship?
 
 Please complete and attach the appropriate form and answer the two questions above in an email message to <fellows@iris-hep.org>.
+
+If you have general tax-related questions, please email <finance@princeton.edu>.  For personal tax-related questions, we encourage you to seek the advice of a tax professional.
 
 #### IRIS-HEP Web Site <i class="fas fa-link"></i>
 
@@ -33,6 +35,10 @@ Additionally, we also would like to add you to our Fellows webpage:
 Follow the directions found here to create a markdown file for your page:
 
   <https://iris-hep.org/docs/fellow>
+
+Once your pull request is merged and your fellows page is available on the webpage, you should update the IRIS-HEP project database with this that link. Follow instructions here to do that:
+
+  <https://github.com/research-software-collaborations/project_database/blob/main/README.md#changing-the-status-of-your-project>
 
 #### IRIS-HEP Fellows Slack Channel <i class="fab fa-slack"></i>
 
