@@ -4,7 +4,7 @@ layout: project
 title: pyhf
 shortname: pyhf
 pagetype: project
-image: logos/pyhf-logo.png
+image: logos/pyhf-logo.svg
 logowidth: 50%
 blurb: Differentiable likelihoods
 maturity: Deployed
