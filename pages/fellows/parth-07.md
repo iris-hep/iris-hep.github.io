@@ -28,7 +28,9 @@ mentors:
 - David Lange (Princeton University)
 proposal: /assets/pdf/Fellow-Parth-Arora-Proposal.pdf
 presentations:
-current_status:
+current_status: >
+  <strong>July 2022</strong> - Associate Engineer at Qualcomm
 github-username: parth-07
 
+linkedin-profile: https://www.linkedin.com/in/parth-r07/
 ---

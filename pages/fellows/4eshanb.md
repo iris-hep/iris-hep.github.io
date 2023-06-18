@@ -41,8 +41,9 @@ presentations:
   focus-area: doma
 
 current_status: >
-  <strong>December 2021</strong> - Graduate student in Computer Science at the University of Southern California
+  <strong>April 2023</strong> - Incoming Machine Learning Intern at NASA Jet Propulsion Laboratory
 
 github-username: 4eshanb
 
+linkedin-profile: https://www.linkedin.com/in/eshan-bhargava-75012819a
 ---

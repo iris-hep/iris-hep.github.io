@@ -52,5 +52,7 @@ presentations:
     focus-area: as
 
 current_status: >
+  <strong>February 2023</strong> - Software Development Intern at University of Colorado Denver
 github-username: ManasviGoyal
+linkedin-profile: https://www.linkedin.com/in/manasvi-goyal-2809/
 ---

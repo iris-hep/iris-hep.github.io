@@ -30,4 +30,5 @@ presentations:
 current_status: >
 github-username: tuongphung
 
+linkedin-profile: https://www.linkedin.com/in/tuong-phung-3347b0236
 ---

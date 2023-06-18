@@ -39,8 +39,30 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1040761/
   recordingurl:
   focus-area: ia
+- title: Estimating Floating-Point Errors Using Automatic Differentiation
+  date: 2022-04-14
+  url: https://compiler-research.org/assets/presentations/G_Singh-SIAMUQ22_FP_Error_Estimation.pdf
+  meeting: SIAM Conference on Uncertainty Quantification (UQ22)
+  meetingurl: https://www.siam.org/conferences/cm/conference/uq22
+  recordingurl: https://www.youtube.com/watch?v=pndnawFPKHA&list=PLeZvkLnDkqbS8yQZ6VprODLKQVdL7vlTO&index=8
+  focus-area: ia
+- title: Automatic Differentiation in ROOT
+  date: 2022-09-14
+  url: https://indico.cern.ch/event/1145124/contributions/4948827/
+  meeting: Second MODE Workshop on Differentiable Programming for Experiment Design
+  meetingurl: https://indico.cern.ch/event/1145124/
+  recordingurl:
+  focus-area: ia
+- title: Automatic differentiation of binned likelihoods with RooFit and Clad
+  date: 2022-10-26
+  url: https://indico.cern.ch/event/1106990/contributions/4998060/
+  meeting: 21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+  meetingurl: https://indico.cern.ch/event/1106990/
+  recordingurl:
+  focus-area: ia
 current_status: >
   <strong>February 2022</strong> - Research Software Intern for IRIS-HEP and CERN SFT (at CERN in Geneva, Switzerland)
 github-username: grimmmyshini
 
+linkedin-profile: https://www.linkedin.com/in/garimasingh28/
 ---

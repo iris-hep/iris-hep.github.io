@@ -35,4 +35,5 @@ presentations:
   focus-area: ia
 github-username:
 
+linkedin-profile: https://www.linkedin.com/in/hector-castro
 ---

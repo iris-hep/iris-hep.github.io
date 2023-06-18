@@ -40,5 +40,8 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=sATu_MJo8L4&t=1016s
   focus-area: as
 github-username: vladov3000
+current_status: >
+  <strong>June 2022</strong> - SDE Intern at Amazon Web Services (AWS)
 
+linkedin-profile: https://www.linkedin.com/in/vladov3000
 ---

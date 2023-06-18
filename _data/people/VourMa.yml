@@ -1,0 +1,56 @@
+active: true
+focus-area:
+  - ia
+institution: University of California, San Diego
+name: Emmanouil Vourliotis
+photo: "/assets/images/team/Emmanouil-Vourliotis.jpg"
+shortname: VourMa
+title:
+website: https://github.com/VourMa
+presentations:
+  - title: "Integration of Line Segment Tracking in CMSSW"
+    meeting: CMS Tracking POG General Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1247006/
+    url: https://indico.cern.ch/event/1247006/#5-integration-of-line-segment
+    date: 2023-03-13
+    focus-area: ia
+    project: lst
+  - title: "Line Segment Tracking (LST)"
+    meeting: Phase-2 Software Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1247039/
+    url: https://indico.cern.ch/event/1247039/#sc-15-4-line-segment-tracking
+    date: 2023-03-10
+    focus-area: ia
+    project: lst
+  - title: "Effect of the Outer Tracker Inefficiencies on the LST Algorithm"
+    meeting: CMS Tracker Upgrade Modelling, Simulation and Performance (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1201190/
+    url: https://indico.cern.ch/event/1201190/#2-effect-of-the-ot-inefficienc
+    date: 2022-11-11
+    focus-area: ia
+    project: lst
+  - title: "Speeding up the CMS track reconstruction with a parallelized and vectorized Kalman-filter-based algorithm during the LHC Run 3 (poster)"
+    meeting: ACAT 2022
+    meetingurl: https://indico.cern.ch/event/1106990/
+    url: https://indico.cern.ch/event/1106990/contributions/4998120/
+    date: 2022-10-26
+    focus-area: ia
+    project: mkfit
+    labels:
+      - conference
+  - title: "Update on Line Segment Tracking for Phase-2 tracking"
+    meeting: CMS Tracker DPG - Tracking POG General Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1161996/#b-462738-tracker-dpg-tracking
+    url: https://indico.cern.ch/event/1161996/#4-update-on-line-segment-track
+    date: 2022-07-27
+    focus-area: ia
+    project: lst
+  - title: "Segment Linking: A Highly Parallelizable Track Reconstruction Algorithm for HL-LHC"
+    meeting: HEP 2022 - 39th Conference on Recent Developments in High Energy Physics and Cosmology
+    meetingurl: https://indico.physics.auth.gr/event/10/
+    url: https://indico.physics.auth.gr/event/10/timetable/#107-segment-linking-a-highly-p
+    date: 2022-06-17
+    focus-area: ia
+    project: lst
+    labels:
+      - conference

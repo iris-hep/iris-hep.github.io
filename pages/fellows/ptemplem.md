@@ -42,6 +42,7 @@ presentations:
     focus-area: as
     project:
 current_status: >
-  A placeholder for status updates
+  <strong>August 2022</strong> - Physics Lab TA at University of Notre Dame
 github-username: ptemplem
+linkedin-profile: https://www.linkedin.com/in/philip-templeman-2b3196257
 ---

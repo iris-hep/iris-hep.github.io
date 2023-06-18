@@ -38,6 +38,10 @@ presentations:
   meetingurl: https://indico.cern.ch/event/946431/
   recordingurl: https://www.youtube.com/watch?v=6gCp1BwQHdg
   focus-area: ia
+current_status: >
+  <strong>September 2022</strong> - Undergraduate Research Assistant at University of Cincinnati
+
 github-username: alanjoshua
 
+linkedin-profile: https://www.linkedin.com/in/alan-joshua-aneeth-jegaraj
 ---

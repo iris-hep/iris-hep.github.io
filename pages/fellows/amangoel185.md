@@ -94,6 +94,8 @@ presentations:
   focus-area: as
 
 current_status: >
+  <strong>January 2023</strong> - Research Software Engineer at The University of Manchester
 github-username: amangoel185
 
+linkedin-profile: https://www.linkedin.com/in/amangoel185
 ---

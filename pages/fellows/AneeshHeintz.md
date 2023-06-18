@@ -38,7 +38,8 @@ presentations:
   recordingurl: https://youtu.be/ajcqHESGAQY
   focus-area: ia
 current_status: >
-  <strong>December 2021</strong> - Ph.D. Candidate in Aerospace Engineering at Cornell University
+  <strong>July 2022</strong> - Senior Autonomy / AI Research Engineer at Lockheed Martin
 github-username: a-heintz
 
+linkedin-profile: https://www.linkedin.com/in/aneeshheintz
 ---

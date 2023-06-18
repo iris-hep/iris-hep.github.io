@@ -38,8 +38,8 @@ presentations:
   recordingurl: https://youtu.be/l5ZN8fjPW9c
   focus-area: ia
 current_status: >
-  <strong>December 2021</strong> - Dual PhD candidate in Physics and Artificial Intelligence at Massachusetts Institute
-  of Technology
+  <strong>June 2022</strong> - Data Analyst at Supernal
 github-username: eric-moreno
 
+linkedin-profile: https://www.linkedin.com/in/ericdmoreno
 ---

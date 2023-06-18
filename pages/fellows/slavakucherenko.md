@@ -27,6 +27,7 @@ presentations:
   recordingurl: https://youtu.be/01mHSh-gnXs
   focus-area: ia
 current_status: >
-  Finished project and presented it
+  <strong>January 2022</strong> - Machine Learning Engineer at Jumio Corporation
 github-username: slavakucherenko
+linkedin-profile: https://www.linkedin.com/in/viacheslavkucherenko/
 ---

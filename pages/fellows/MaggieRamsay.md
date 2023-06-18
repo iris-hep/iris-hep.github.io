@@ -28,5 +28,7 @@ project_goal: >
 proposal: /assets/pdf/fellow-Maggie-Ramsay-proposal.pdf
 presentations:
 github-username: maggieramsay
-
+current_status: >
+  <strong>August 2022</strong> - Undergraduate Instrumentation Center TA at University of Nebraska-Lincoln
+linkedin-profile: https://www.linkedin.com/in/maggie-ramsay-435525259
 ---

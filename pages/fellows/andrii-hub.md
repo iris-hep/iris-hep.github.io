@@ -29,4 +29,5 @@ presentations:
   focus-area: ia
 current_status: >
 github-username: andrii-hub
+linkedin-profile: https://www.linkedin.com/in/andrii-koval-677347223/
 ---

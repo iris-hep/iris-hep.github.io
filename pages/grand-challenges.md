@@ -32,6 +32,8 @@ IRIS-HEP is engaged in these challenges at all levels via projects in multiple o
 
 ## Analysis Grand Challenge
 
+The most up-to-date documentation about the Analysis Grand Challenge is located at this website: [https://agc.readthedocs.io/en/latest/](https://agc.readthedocs.io/en/latest/?badge=latest)
+
 The large increase in data volume at the HL-LHC requires rethinking how physicists interact with the data when developing and performing analysis. In addition to raw throughput, it is critical that analysis systems are flexible, easy to use, and have low latency to facilitate the design stages. The Analysis Grand Challenge was designed to span the scope of Analysis Systems focus area, transverse a vertical slice through the tools being developed by the Analysis Systems focus area, and increase intra-Institute connections with DOMA and SSL. The goal is to demonstrate that the analysis system can not only cope with the increased data volume, but can also deliver enhanced functionality compared to the analysis systems used at the LHC today. The challenge is formulated as a user story with assumptions, and acceptance criteria.
 
 The Analysis Grand Challenge includes both integration of software components for analyzing the data as well as the deployment of the analysis software at analysis facilities. The vertical slice implements the functionality needed for a prototypical analysis use case with a moderately complex analysis with multiple event selection requirements, observables to be histogrammed, and systematic uncertainties that must be taken into account. The image below gives an overview of the software tools that must be integrated for this vertical slice.

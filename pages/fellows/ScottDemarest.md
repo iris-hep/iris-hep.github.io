@@ -31,4 +31,5 @@ presentations:
 current_status: >
 
 github-username: ScottDemarest
+linkedin-profile: https://www.linkedin.com/in/scott-demarest
 ---

@@ -1,6 +1,7 @@
 active: true
 focus-area:
   - ia
+  - osglhc
 institution: University of California, San Diego
 name: Matevz Tadel
 photo: "/assets/images/team/Matevz-Tadel.jpg"
@@ -15,3 +16,17 @@ presentations:
     date: 2022-01-21
     focus-area: ia
     project: mkfit
+  - title: "mkFit phase-2 geometry support and related generalizations"
+    meeting: CMS Tracker DPG, Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1199481
+    url: https://indico.cern.ch/event/1199481/contributions/5115461/attachments/2540016/4372372/mkFit-phase2-string-configurable-std-funcs.pdf
+    date: 2022-11-02
+    focus-area: ia
+    project: mkfit
+  - title: "XCache Developments & Plans"
+    meeting: XRootD and FTS Workshop
+    meetingurl: https://indico.cern.ch/event/875381/
+    url: https://indico.cern.ch/event/875381/contributions/5305954/attachments/2621176/4531838/XCache-DevsAndPlans-Ljubljana-2023.pdf
+    date: 2023-03-30
+    focus-area: osglhc
+    project: caching

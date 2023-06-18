@@ -43,5 +43,7 @@ presentations:
   focus-area: as
   project:
 current_status: >
+  <strong>August 2022</strong> - Undergraduate Teaching Assistant at University of Pittsburgh
 github-username: peterridolfi
+linkedin-profile: https://www.linkedin.com/in/peter-ridolfi-061888252
 ---

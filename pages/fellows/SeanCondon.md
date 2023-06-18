@@ -34,5 +34,8 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=b4iMNk2m-Dc&t=0s
   focus-area: ia
 github-username: seancondon99
+current_status: >
+  <strong>February 2022</strong> - Machine Learning Engineer at Deepcell Inc.
 
+linkedin-profile: https://www.linkedin.com/in/sean-condon-9a0452187
 ---

@@ -30,7 +30,8 @@ presentations:
   recordingurl: https://youtu.be/XIq9DyWIOP8
   focus-area: ia
 current_status: >
-
+  <strong>February 2022</strong> - Software Engineer II at DataChat Inc.
 github-username: VarunSreenivasan16
 
+linkedin-profile: https://www.linkedin.com/in/varun-sreenivasan
 ---

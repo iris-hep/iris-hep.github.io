@@ -28,6 +28,8 @@ presentations:
   recordingurl: https://youtu.be/leIV_gRetHU
   focus-area: AS
 current_status: >
+  <strong>December 2022</strong> - Research Assistant at National Institute of Technology Durgapur
 github-username: durbar2003
 
+linkedin-profile: https://www.linkedin.com/in/durbar-chakrabarty-867395200/
 ---

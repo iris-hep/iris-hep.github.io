@@ -4,7 +4,7 @@ layout: project
 title: pyhf
 shortname: pyhf
 pagetype: project
-image: logos/pyhf-logo.png
+image: logos/pyhf-logo.svg
 logowidth: 50%
 blurb: Differentiable likelihoods
 maturity: Deployed
@@ -27,6 +27,7 @@ team:
 [![JOSS DOI](https://joss.theoj.org/papers/10.21105/joss.02823/status.svg)](https://doi.org/10.21105/joss.02823)
 [![Scikit-HEP](https://scikit-hep.org/assets/images/Scikit--HEP-Project-blue.svg)](https://scikit-hep.org/)
 [![NSF-1836650](https://img.shields.io/badge/NSF-1836650-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1836650)
+[![NumFOCUS Affiliated Project](https://img.shields.io/badge/NumFOCUS-Affiliated%20Project-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://numfocus.org/sponsored-projects/affiliated-projects)
 
 [![Docs from latest](https://img.shields.io/badge/docs-latest-blue.svg)](https://pyhf.readthedocs.io/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scikit-hep/pyhf/master?filepath=docs%2Fexamples%2Fnotebooks%2Fbinderexample%2FStatisticalAnalysis.ipynb)
@@ -70,6 +71,16 @@ An updating list of libraries, projects, and analyses that use `pyhf` are listed
 
 Updating list of citations (from use in analyses and general reference) of `pyhf`:
 
+- Oksana Shadura and Alexander Held. First performance measurements with the Analysis Grand Challenge. April 2023. [arXiv:2304.05214](https://arxiv.org/abs/2304.05214).
+- Qilong Guo, Leyun Gao, Yajun Mao, and Qiang Li. Search for vector-like leptons at a Muon Collider. April 2023. [arXiv:2304.01885](https://arxiv.org/abs/2304.01885).
+- Subhasish Behera, Manuel Hageluken, and Matthias Schott. Prospects of Searches for Anomalous Hadronic Higgs Boson Decays at the LHeC. Feb 2023. [arXiv:2302.12885](https://arxiv.org/abs/2302.12885).
+- Jay Chan and Benjamin Nachman. Unbinned Profiled Unfolding. Feb 2023. [arXiv:2302.05390](https://arxiv.org/abs/2302.05390).
+- Brian Bockelman, Peter Elmer, and Gordon Watts. IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics. Feb 2023. [arxiv:2302.01317](https://arxiv.org/abs/2302.01317)
+- ATLAS Collaboration. Search for long-lived, massive particles in events with displaced vertices and multiple jets in pp collisions at s√=13 TeV with the ATLAS detector. Jan 2023. [arXiv:2301.13866](https://arxiv.org/abs/2301.13866).
+- Nicolas Berger. Simplified likelihoods using linearized systematic uncertainties. Jan 2023. [arXiv:2301.05676](https://arxiv.org/abs/2301.05676).
+- Florian Bury. _Application of deep learning techniques in CMS: from matrix element regression to the search for Higgs boson pair production_. PhD thesis, Université catholique de Louvain, Dec 2022 [https://inspirehep.net/literature/2621189](https://inspirehep.net/literature/2621189)
+- Mohamed Aly et al. Second Analysis Ecosystem Workshop Report. Dec 2022. [arxiv:2212.04889](https://arxiv.org/abs/2212.04889)
+- Belle II Collaboration. Search for an invisible Z′ in a final state with two muons and missing energy at Belle II. Dec 2022. [arXiv:2212.03066](https://arxiv.org/abs/2212.03066).
 - Matthew Feickert, Lukas Heinrich, and Giordon Stark. pyhf: a pure-Python statistical fitting library with tensors and automatic differentiation. _PoS_, ICHEP2022:245, Nov 2022. [doi:10.22323/1.414.0245](https://doi.org/10.22323/1.414.0245).
 - Alexander Held and Oksana Shadura. The IRIS-HEP Analysis Grand Challenge. _PoS_, ICHEP2022:235, Nov 2022. [doi:10.22323/1.414.0235](https://doi.org/10.22323/1.414.0235).
 - Lukas Allwicher, Darius. A. Faroughy, Florentin Jaffredo, Olcyr Sumensari, and Felix Wilsch. HighPT: A Tool for high-pT Drell-Yan Tails Beyond the Standard Model. Jul 2022. [arXiv:2207.10756](https://arxiv.org/abs/2207.10756).
@@ -120,8 +131,12 @@ Updating list of citations (from use in analyses and general reference) of `pyhf
 
 ### Published Probability Models
 
-Updating list of HEPData entries for publications using `HistFactory` JSON statistical models:
+Updating list of HEPData entries for publications using `HistFactory` JSON statistical models. There is also an automatically generated list of statistical models that is updated nightly available at [pyhf.github.io/public-probability-models](https://pyhf.github.io/public-probability-models).
 
+- Search for supersymmetry in final states with missing transverse momentum and three or more b-jets in 139 fb−1 of proton-proton collisions at s√=13 TeV with the ATLAS detector. 2022. [doi:10.17182/hepdata.95928](https://doi.org/10.17182/hepdata.95928)
+- Search for flavour-changing neutral-current couplings between the top quark and the photon with the ATLAS detector at s√=13 TeV. 2022. [doi:10.17182/hepdata.129959](https://doi.org/10.17182/hepdata.129959)
+- Searches for new phenomena in events with two leptons, jets, and missing transverse momentum in 139 fb−1 of s√=13 TeV pp collisions with the ATLAS detector. 2022. [doi:10.17182/hepdata.116034](https://doi.org/10.17182/hepdata.116034)
+- Search for Higgs boson pair production in the two bottom quarks plus two photons final state in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.105864](https://doi.org/10.17182/hepdata.105864)
 - Search for charginos and neutralinos in final states with two boosted hadronically decaying bosons and missing transverse momentum in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.104458](https://doi.org/10.17182/hepdata.104458)
 - Measurement of the tt̅tt̅ production cross section in pp collisions at s√=13 TeV with the ATLAS detector. 2021. [doi:10.17182/hepdata.105039](https://doi.org/10.17182/hepdata.105039)
 - Search for R-parity violating supersymmetry in a final state containing leptons and many jets with the ATLAS experiment using s√=13 TeV proton-proton collision data. 2021. [doi:10.17182/hepdata.104860](https://doi.org/10.17182/hepdata.104860)

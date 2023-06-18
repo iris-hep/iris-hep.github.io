@@ -349,3 +349,66 @@ presentations:
     location: CERN
     focus-area: as
     project:
+
+  - title: "Integrating AGC pipeline at BNL facility"
+    date: 2022-12-16
+    url: https://indico.cern.ch/event/1218004/contributions/5123645/
+    meeting: "IRIS-HEP / AGC Demo Day #1"
+    meetingurl: https://indico.cern.ch/event/1218004/
+    location: CERN
+    focus-area: as
+    project: agc
+
+  - title: "How to contribute to pyhf development"
+    date: 2023-03-03
+    url: https://indico.belle2.org/event/8470/contributions/55871/
+    meeting: "Belle II pyhf workshop 2023"
+    meetingurl: https://indico.belle2.org/event/8470/
+    location: Virtual
+    focus-area: as
+    project: pyhf
+
+  - title: "pyhf: pure-Python implementation of HistFactory with tensors and automatic differentiation"
+    date: 2023-04-12
+    url: https://matthewfeickert-talks.github.io/talk-pyhf-cms-common-analysis-tools-april-2023/
+    meeting: "CMS Common Analysis Tools General Meeting"
+    meetingurl: https://indico.cern.ch/event/1264029/
+    location: Virtual
+    focus-area: as
+    project: pyhf
+
+  - title: "IRIS-HEP Analysis Grand Challenge at US ATLAS Analysis Facilities"
+    date: 2023-05-04
+    url: https://indico.cern.ch/event/1260431/contributions/5315256/
+    meeting: "IRIS-HEP Analysis Grand Challenge workshop 2023"
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: Madison, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Analysis Systems: Future Directions and UX"
+    date: 2023-05-04
+    url: https://indico.cern.ch/event/1260431/contributions/5361163/
+    meeting: "IRIS-HEP Analysis Grand Challenge workshop 2023"
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: Madison, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Analysis Systems: Workshop Outcomes and Action Items"
+    date: 2023-05-05
+    url: https://indico.cern.ch/event/1260431/contributions/5315157/
+    meeting: "IRIS-HEP Analysis Grand Challenge workshop 2023"
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: Madison, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Software Citation in HEP: Current State and Recommendations for the Future"
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/contributions/11688/
+    meeting: "CHEP 2023 Conference"
+    meetingurl: https://indico.jlab.org/event/459/
+    location: Norfolk, U.S.A.
+    focus-area:
+    project:

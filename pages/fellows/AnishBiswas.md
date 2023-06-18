@@ -42,6 +42,9 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1033648/
   recordingurl: https://youtu.be/hQrCdt5gKck
   focus-area: as
+current_status: >
+  <strong>July 2022</strong> - Software Engineer at Microsoft
 github-username: swishdiff
 
+linkedin-profile: https://www.linkedin.com/in/anish-biswas
 ---

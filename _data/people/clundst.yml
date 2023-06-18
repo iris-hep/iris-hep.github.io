@@ -8,6 +8,15 @@ shortname: clundst
 title: Collaborator from US.CMS Ops program
 website: https://github.com/clundst
 presentations:
+  - title: "AGC at US CMS AFs"
+    date: 2022-05-03
+    url: https://docs.google.com/presentation/d/16ZoozW5P4zr2xsHf5oHJn_ccSvr7myn_AwAxwox6mLY/edit?usp=sharing
+    meeting: IRIS-HEP Analysis Grand Challenge workshop 2023
+    meetingurl: https://indico.cern.ch/event/1260431/
+    location: "Madison, USA"
+    focus-area:
+      - doma
+    project: coffea-casa
   - title: "Scale-out with coffea: coffea-casa analysis facility"
     date: 2022-04-25
     url: https://indico.cern.ch/event/1126109/contributions/4780165/
