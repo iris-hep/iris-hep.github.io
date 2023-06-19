@@ -10,7 +10,7 @@ dates:
   start: 2023-06-05
   end: 2023-08-25
 photo: /assets/images/team/Layan-AlSarayra.jpg
-institution: 
+institution: Stanford visiting scholar
 e-mail: layan@stanford.edu
 focus-area: ia
 project_title: Adapting a Machine Learning Algorithm for Enhanced Performance in ACTS
