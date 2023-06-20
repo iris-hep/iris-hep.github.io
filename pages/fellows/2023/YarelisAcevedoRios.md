@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-04-17
   end: 2023-06-05
-photo: /assets/images/team/Yarelis-Acevedo.jpg
+photo: /assets/images/team/fellows-2023/Yarelis-Acevedo.jpg
 institution: University of Puerto Rico
 e-mail: yarelis.acevedo@upr.edu
 focus-area: ssc
@@ -25,7 +25,7 @@ project_goal: >
     remaining material of the Analysis Preservation Training.
 mentors:
   - Kilian Lieret (Princeton University)
-proposal: /assets/pdf/fellows-2023/proposal-yarelis-acevedo.pdf
+proposal: /assets/pdf/fellows-2023/fellows-2023/proposal-yarelis-acevedo.pdf
 presentations: []
 current_status:
 github-username: YarelisAcevedo
