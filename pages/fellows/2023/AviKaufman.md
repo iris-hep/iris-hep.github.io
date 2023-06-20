@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-05
   end: 2023-08-25
-photo: /assets/images/team/Avi-Kaufman.png
+photo: /assets/images/team/fellows-2023/Avi-Kaufman.png
 institution: University of Iowa
 e-mail: sarkavism@gmail.com
 focus-area: doma
@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Vincent Garonne (Brookhaven National Laboratory)
   - Qiulan Huang (Brookhaven National Laboratory)
-proposal: /assets/pdf/fellows-2023/IRIS004-proposal-Avi-Kaufman.pdf
+proposal: /assets/pdf/fellows-2023/fellows-2023/IRIS004-proposal-Avi-Kaufman.pdf
 presentations:
 current_status:
 github-username: AviKaufman

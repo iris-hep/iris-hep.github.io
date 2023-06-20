@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-04-24
   end: 2023-06-09
-photo: /assets/images/team/Gabriel-Soto.png
+photo: /assets/images/team/fellows-2023/Gabriel-Soto.png
 institution: University of California, Davis
 e-mail: gjsoto@ucdavis.edu
 focus-area: ssc
@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Kilian Lieret (Princeton University)
   - Tibor Simko (CERN)
-proposal: /assets/pdf/fellows-2023/proposal-gabriel-soto.pdf
+proposal: /assets/pdf/fellows-2023/fellows-2023/proposal-gabriel-soto.pdf
 presentation:
 current_status:
 github-username: GabeSoto
