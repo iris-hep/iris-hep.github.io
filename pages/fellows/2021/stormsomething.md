@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-14
   end: 2021-08-13
-photo: /assets/images/team/Storm-Lin.JPG
+photo: /assets/images/team/fellows-2021/Storm-Lin.JPG
 institution: UC Berkeley
 e-mail: stormsomething@gmail.com
 project_title: Benchmarking Prototype Analysis Codes on the Coffea-Casa Analysis Facility
@@ -24,7 +24,7 @@ project_goal: >
 mentors:
 - Kyle Cranmer (New York University)
 
-proposal: /assets/pdf/Fellow-Storm-Lin-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Storm-Lin-Proposal.pdf
 presentations:
 - title: Benchmarking Prototype Analysis Codes on the Coffea-Casa Analysis Facility
   date: 2021-09-29

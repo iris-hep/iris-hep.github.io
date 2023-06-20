@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/Santam-Roy-Choudhury.jpg
+photo: /assets/images/team/fellows-2021/Santam-Roy-Choudhury.jpg
 institution: National Institute of Technology, Durgapur
 e-mail: santamdev404@gmail.com
 project_title: Automating Awkward Array Testing
@@ -28,7 +28,7 @@ project_goal: >
 mentors:
 - Jim Pivarski (Princeton)
 - Ianna Osborne (Princeton)
-proposal: /assets/pdf/Fellow-Santam-Roy-Choudhury-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Santam-Roy-Choudhury-Proposal.pdf
 presentations:
 - title: Automating Awkward Array Testing
   date: 2021-09-20

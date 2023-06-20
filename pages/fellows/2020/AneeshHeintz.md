@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2020-06-01
   end: 2020-09-30
-photo: /assets/images/team/Aneesh-Heintz.png
+photo: /assets/images/team/fellows-2020/Aneesh-Heintz.png
 institution: Cornell University
 website:
 e-mail: ah2263@cornell.edu
@@ -27,7 +27,7 @@ project_goal: >
   online in a highly parallelized fashion, greatly accelerating data throughput.
 mentors:
 - Isobel Ojalvo (Princeton University)
-proposal: /assets/pdf/AneeshHeintz_Proposal.pdf
+proposal: /assets/pdf/fellows-2020/AneeshHeintz_Proposal.pdf
 presentations:
 - title: Accelerating Graph Neural Networks on CPU + FPGA co-processors for scalable
     track reconstruction tasks

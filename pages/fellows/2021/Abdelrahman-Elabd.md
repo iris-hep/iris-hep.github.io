@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-01-04
   end: 2021-07-03
-photo: /assets/images/team/Abdelrahman-Elabd.jpg
+photo: /assets/images/team/fellows-2021/Abdelrahman-Elabd.jpg
 institution: University of Pennsylvania
 e-mail: aelabd@sas.upenn.edu
 project_title: Creating a Python Front-End for HLS Implementation of GNNs on FPGA
@@ -25,7 +25,7 @@ project_goal: >
   while providing less lossiness than post-training quantization.
 mentors:
 - Markus Atkinson (UIUC)
-proposal: /assets/pdf/Fellow-Abdelrahman-Elabd-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Abdelrahman-Elabd-Proposal.pdf
 presentations:
 - title: Developing a Python Front-End for HLS Implementation of GNNs on FPGA and
     Studies of Quantization-aware Training

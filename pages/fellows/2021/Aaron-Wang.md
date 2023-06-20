@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2021-01-04
   end: 2021-06-12
-photo: /assets/images/team/Aaron-Wang.jpg
+photo: /assets/images/team/fellows-2021/Aaron-Wang.jpg
 institution: University of Washington, Seattle
 e-mail: anrunw@uw.edu
 project_title: Reproducible Open Benchmark Compatibility with Jupyter Notebook
@@ -18,7 +18,7 @@ project_goal: >
 mentors:
   - Shih-Chieh Hsu (UW)
   - Heiko Mueller (NYU)
-proposal: /assets/pdf/Fellow-Aaron-Wang-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Aaron-Wang-Proposal.pdf
 presentations:
   - title:  "Jupyter Notebook Compatibility with ROB (Reproducible Open Benchmarks for Data Analysis Platform"
     date: 2021-06-28

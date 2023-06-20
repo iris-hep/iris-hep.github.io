@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-01
   end: 2022-08-31
-photo: /assets/images/team/Saransh-Chopra.png
+photo: /assets/images/team/fellows-2022/Saransh-Chopra.png
 institution: Cluster Innovation Centre, University of Delhi
 e-mail: saransh0701@gmail.com
 project_title: Vector - Constructors, documentation, and benchmarks
@@ -36,7 +36,7 @@ focus-area: as
 mentors:
   - Henry Schreiner (Princeton University)
   - Jim Pivarski (Princeton University)
-proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
 - title: Vector - Constructors, documentation, and benchmarks
   date: 2022-10-05

@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-31
   end: 2021-08-20
-photo: /assets/images/team/mihir-katare.jpg
+photo: /assets/images/team/fellows-2021/mihir-katare.jpg
 institution: University of Illinois, Urbana-Champaign
 e-mail: mihirkatare@gmail.com
 project_title: Deep Learning Implementations for Sustainable Matrix Element Method
@@ -30,7 +30,7 @@ mentors:
 - Mark Neubauer (University of Illinois, Urbana-Champaign)
 - Matthew Feickert (University of Illinois, Urbana-Champaign)
 
-proposal: /assets/pdf/Fellow-Mihir-Katare-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Mihir-Katare-Proposal.pdf
 presentations:
 - title: Deep Learning for the Matrix Element Method
   date: 2021-10-18

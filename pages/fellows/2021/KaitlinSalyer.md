@@ -10,7 +10,7 @@ focus-area:
 dates:
   start: 2021-06-01
   end: 2021-12-31
-photo: /assets/images/team/Kaitlin-Salyer.jpg
+photo: /assets/images/team/fellows-2021/Kaitlin-Salyer.jpg
 institution: Boston University
 website:
 e-mail: ksalyer@bu.edu
@@ -23,7 +23,7 @@ project_goal: >
   the Large Hadron Collider (LHC). This will ultimately help to simplify the data
   quality monitoring (DQM) process.
 
-proposal: /assets/pdf/ksalyer_proposal.pdf
+proposal: /assets/pdf/fellows-2021/ksalyer_proposal.pdf
 presentations:
 github-username: ksalyer
 

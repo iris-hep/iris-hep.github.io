@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-04-01
   end: 2021-09-30
-photo: /assets/images/team/Farouk-Mokhtar.jpg
+photo: /assets/images/team/fellows-2021/Farouk-Mokhtar.jpg
 institution: University of California, San Diego
 website:
 e-mail: fmokhtar@ucsd.edu
@@ -29,7 +29,7 @@ project_goal: >
   coprocessing accelerators.
 mentors:
 - Javier Duarte (University of California, San Diego)
-proposal: /assets/pdf/FaroukMokhtar_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/FaroukMokhtar_Proposal.pdf
 presentations:
 - title: Machine-Learned Particle Flow
   date: 2021-09-20

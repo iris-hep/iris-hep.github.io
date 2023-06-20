@@ -10,7 +10,7 @@ focus-area:
 dates:
   start: 2021-02-01
   end: 2021-04-30
-photo: /assets/images/team/Baidyanath-Kundu.png
+photo: /assets/images/team/fellows-2021/Baidyanath-Kundu.png
 institution: Manipal Institute of Technology
 website:
 e-mail: kundubaidya99@gmail.com
@@ -26,7 +26,7 @@ project_goal: >
   binary format, xAOD. The C++ is generated in python. This project will modify the
   C++ backend to also run on CMS Mini-AOD binary files (Run 1/Run 2), starting by
   concentrating on Run 1. The Higgs-Discovery demo will be used as a guide.
-proposal: /assets/pdf/BaidyanathKundu_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/BaidyanathKundu_Proposal.pdf
 presentations:
 - title: Reading CMS Run 1/2 miniAOD files with ServiceX and func_adl
   date: 2021-06-30

@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2020-05-01
   end: 2020-08-31
-photo: /assets/images/team/trivm963.jpg
+photo: /assets/images/team/fellows-2020/trivm963.jpg
 institution: University of Michigan, Ann Arbor
 website:
 e-mail: trivm@umich.edu
@@ -26,7 +26,7 @@ project_goal: >
   other network metrics, and the degree of path symmetry.
 mentors:
 - Shawn McKee (University of Michigan, Ann Arbor)
-proposal: /assets/pdf/trivm963_proposal.pdf
+proposal: /assets/pdf/fellows-2020/trivm963_proposal.pdf
 presentations:
 github-username: trivm963
 

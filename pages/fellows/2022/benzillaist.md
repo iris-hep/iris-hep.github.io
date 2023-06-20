@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-16
   end: 2022-08-26
-photo: /assets/images/team/Ben-Kuchma.jpg
+photo: /assets/images/team/fellows-2022/Ben-Kuchma.jpg
 institution: University of Massachusetts - Amherst
 e-mail: benkuchma@gmail.com
 project_title: Algorithms for electron reconstruction in a Muon Collider
@@ -25,7 +25,7 @@ mentors:
   - Simone Pagan Griso (Lawrence Berkeley National Laboratory)
   - Sergo Jindariani (Fermilab)
 
-proposal: /assets/pdf/fellows-2022/023-proposal-Ben-Kuchma.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/023-proposal-Ben-Kuchma.pdf
 presentations:
 - title: Reconstruction algorithms dealing with electrons
   date: 2022-09-14

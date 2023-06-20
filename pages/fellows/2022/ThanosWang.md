@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
-photo: /assets/images/team/Zijun-Wang.jpg
+photo: /assets/images/team/fellows-2022/Zijun-Wang.jpg
 institution: University of Illinois at Urbana-Champaign
 e-mail: zijun4@illinois.edu
 project_title: Exploring the FAIR principles for preservation of UFO models
@@ -20,7 +20,7 @@ mentors:
   - Avik Roy (University of Illinois at Urbana-Champaign)
   - matthewfeickert
 
-proposal: /assets/pdf/fellows-2022/074-proposal-Zijun-Wang.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/074-proposal-Zijun-Wang.pdf
 presentations:
 - title: FAIR principles guided end-to-end cyberinfrastructure for preservation of UFO models
   date: 2022-09-14

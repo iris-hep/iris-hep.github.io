@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-24
   end: 2021-08-13
-photo: /assets/images/team/Sammy-Edwards.jpg
+photo: /assets/images/team/fellows-2021/Sammy-Edwards.jpg
 institution: University of Wisconsin - Platteville
 e-mail: sam@reddan.net
 project_title: Analyzing Neutrino Interactions
@@ -23,7 +23,7 @@ mentors:
 - Jane Nachtman (University of Iowa)
 - Arghya Das (University of Wisconsin - Platteville)
 
-proposal: /assets/pdf/Fellow-Sammy-Edwards-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Sammy-Edwards-Proposal.pdf
 presentations: >
   - title:
     date:

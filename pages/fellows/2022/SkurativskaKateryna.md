@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-04
   end: 2022-09-23
-photo: /assets/images/team/Kateryna-Skurativska.JPG
+photo: /assets/images/team/fellows-2022/Kateryna-Skurativska.JPG
 institution: Kyiv Academic University
 e-mail: kateryna.skur@gmail.com
 project_title: Towards a deep learning framework for efficient jet tagging
@@ -20,7 +20,7 @@ mentors:
   - Dr. Emanuele Angelo Bagnaschi (CERN)
   - Prof. Stefano Carrazza (University of Milano)
 
-proposal: /assets/pdf/fellows-2022/232-proposal-Kateryna-Skurativska.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/232-proposal-Kateryna-Skurativska.pdf
 presentations:
 current_status: >
 github-username: SkurativskaKateryna

@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2022-02-15
   end: 2022-05-15
-photo: /assets/images/team/Dominika-Krawiec.jpeg
+photo: /assets/images/team/fellows-2022/Dominika-Krawiec.jpeg
 institution: University of Warwick, UK
 e-mail: Dominika.Krawiec@warwick.ac.uk
 project_title: Conformal Mappings for Particle Track Reconstruction
@@ -31,7 +31,7 @@ project_goal: >
 mentors:
 - Savannah Thais (Princeton University)
 
-proposal: /assets/pdf/Fellow-Dominika-Krawiec-Proposal.pdf
+proposal: /assets/pdf/fellows-2022/Fellow-Dominika-Krawiec-Proposal.pdf
 presentations:
 
 current_status: >

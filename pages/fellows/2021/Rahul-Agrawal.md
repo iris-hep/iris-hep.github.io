@@ -11,7 +11,7 @@ focus-area: doma
 dates:
   start: 2021-06-14
   end: 2021-09-12
-photo: /assets/images/team/Rahul-Agrawal.png
+photo: /assets/images/team/fellows-2021/Rahul-Agrawal.png
 institution: Indian Institute of Technology, Kharagpur (IIT KGP)
 website:
 e-mail: rahulagrawal799110@gmail.com
@@ -31,7 +31,7 @@ project_goal: >
   which will get triggered when any particular events like commit/push happen. A web
   dashboard can also be integrated to monitor the performance results of the CI tests.
 
-proposal: /assets/pdf/Fellow-Rahul-Agrawal_proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Rahul-Agrawal_proposal.pdf
 presentations:
 - title: Facilitate continuous benchmarking/regression testing for the critical components
     of SkyhookDM

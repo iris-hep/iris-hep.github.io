@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2021-01-11
   end: 2021-05-30
-photo: /assets/images/team/garima-singh.jpg
+photo: /assets/images/team/fellows-2021/garima-singh.jpg
 institution: Manipal Institute of Technology
 website:
 e-mail: garimasingh0028@gmail.com
@@ -30,7 +30,7 @@ project_goal: >
   that is not bound to a particular error approximation model. It will allow users
   to select their preferable estimation logic and automatically generate functions
   augmented with code for the specified error estimator.
-proposal: /assets/pdf/garima_proposal.pdf
+proposal: /assets/pdf/fellows-2021/garima_proposal.pdf
 presentations:
 - title: Floating Point Error Evaluation With Clad
   date: 2021-06-21

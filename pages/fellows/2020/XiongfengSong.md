@@ -11,7 +11,7 @@ focus-area: doma
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Xiongfeng_Song.JPG
+photo: /assets/images/team/fellows-2020/Xiongfeng_Song.JPG
 institution: Rice University
 e-mail: xs16@rice.edu
 mentors:
@@ -31,7 +31,7 @@ project_goal: >
   to the Spark processor/executor interface.
 
 
-proposal: /assets/pdf/Fellow-Xiongfeng-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-Xiongfeng-Proposal.pdf
 presentations:
 - title: SkyhookDM projection-only pushdown and Arrow dataset integration into Skyhook
     objects

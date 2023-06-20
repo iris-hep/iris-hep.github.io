@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-11-21
   end: 2022-05-21
-photo: /assets/images/team/Parth-Arora.jpg
+photo: /assets/images/team/fellows-2021/Parth-Arora.jpg
 institution: University School of Information, Communication and Technology, GGSIPU,
   New Delhi, India
 e-mail: partharora99160808@gmail.com
@@ -26,7 +26,7 @@ project_goal: >
 mentors:
 - Vassil Vassilev (Princeton University)
 - David Lange (Princeton University)
-proposal: /assets/pdf/Fellow-Parth-Arora-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Parth-Arora-Proposal.pdf
 presentations:
 current_status: >
   <strong>July 2022</strong> - Associate Engineer at Qualcomm

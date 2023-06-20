@@ -17,7 +17,7 @@ dates:
   start: 2022-06-01
   end: 2022-09-30
 
-photo: /assets/images/team/Jay-Gohil.png
+photo: /assets/images/team/fellows-2022/Jay-Gohil.png
 
 institution: School of Technology PDEU
 
@@ -34,7 +34,7 @@ mentors:
   - Henry Schreiner (Princeton University)
   - Hans Dembinski (TU Dortmund)
 
-proposal: /assets/pdf/fellows-2022/011-proposal-Jay-Gohil.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/011-proposal-Jay-Gohil.pdf
 
 presentations:
 - title: Features Extension, Inclusion & Rectification for Boost-Histogram

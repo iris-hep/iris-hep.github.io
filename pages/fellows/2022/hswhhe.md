@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-20
   end: 2022-09-21
-photo: /assets/images/team/Haoran-Sun.jpg
+photo: /assets/images/team/fellows-2022/Haoran-Sun.jpg
 institution: University of Washington
 e-mail: hsun3@uw.edu
 project_title: Enabling support for MiniAOD Transformer for ServiceX Data Delivery Service
@@ -29,7 +29,7 @@ mentors:
   - Oksana Shadura (University of Nebraska - Lincoln)
   - Mason Proffitt (University of Washington)
   - Alexander Held (New York University)
-proposal: /assets/pdf/fellows-2022/071-proposal-Haoran-Sun.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/071-proposal-Haoran-Sun.pdf
 github-username: hswhhe
 presentations:
 - title: Support for MiniAOD Transformer for ServiceX

@@ -9,7 +9,7 @@ hidden: true
 dates:
   start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/Tuong-Phung.jpg
+photo: /assets/images/team/fellows-2021/Tuong-Phung.jpg
 institution: Massachusetts Institute of Technology
 e-mail: tphung@mit.edu
 project_title: Scaling the Coffea-Casa Analysis Facility
@@ -25,7 +25,7 @@ mentors:
 - Ken Bloom - University of Nebraska-Lincoln)
 - Brian Bockelman (Morgridge Institute for Research)
 
-proposal: /assets/pdf/Fellow-Tuong-Phung-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Tuong-Phung-Proposal.pdf
 presentations:
 current_status: >
 github-username: tuongphung

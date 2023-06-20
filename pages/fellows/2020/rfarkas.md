@@ -8,7 +8,7 @@ title: Ralf Farkas - IRIS-HEP Fellow
 dates:
   start: 2020-01-01
   end: 2020-03-31
-photo: /assets/images/team/rfarkas.jpg
+photo: /assets/images/team/fellows-2020/rfarkas.jpg
 institution: "Universit\xE4t Bonn (Germany)"
 website:
 e-mail: ralf.farkas@uni-bonn.de

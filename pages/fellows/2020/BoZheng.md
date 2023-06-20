@@ -10,7 +10,7 @@ focus-area: as
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Bo-Zheng.jpg
+photo: /assets/images/team/fellows-2020/Bo-Zheng.jpg
 institution: Rice University
 e-mail: bz30@rice.edu
 mentors:
@@ -26,7 +26,7 @@ project_goal: >
   Evaluate the hardware acceleration test suite using Google TPUs.
   Profile the pyhf codebase to determine where the hardware acceleration is making
   the largest difference.
-proposal: /assets/pdf/Fellow-BoZheng-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-BoZheng-Proposal.pdf
 presentations:
 - title: pyhf Hardware Acceleration Benchmarking with CPUs and GPUs
   date: 2020-08-31

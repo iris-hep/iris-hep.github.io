@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-30
   end: 2022-08-12
-photo: /assets/images/team/Max-Zhao.jpg
+photo: /assets/images/team/fellows-2022/Max-Zhao.jpg
 institution: University of California, Berkeley
 e-mail: max_zhao@berkeley.edu
 project_title: Efficient implementation of algorithms to reconstruct charged particles trajectories
@@ -18,7 +18,7 @@ project_goal: >
 mentors:
   - Johannes Wagner (UC Berkeley, LBNL)
   - Heather Gray (UC Berkeley, LBNL)
-proposal: /assets/pdf/fellows-2022/054-proposal-Max-Zhao.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/054-proposal-Max-Zhao.pdf
 github-username: max-zhao0
 presentations:
 - title: Efficient implementation of algorithms to reconstruct charged particles trajectories

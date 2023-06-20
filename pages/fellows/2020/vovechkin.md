@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Vladimir-Ovechkin.jpg
+photo: /assets/images/team/fellows-2020/Vladimir-Ovechkin.jpg
 institution: University of Washington, Seattle
 website: http://vladov3000.com/
 e-mail: vladov@uw.edu
@@ -30,7 +30,7 @@ mentors:
 - Shih-Chieh Hsu (U.Washington)
 - Lukas Heinrich (CERN)
 - Alex Schuy (U.Washington)
-proposal: /assets/pdf/Fellow-Vovechkin-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-Vovechkin-Proposal.pdf
 presentations:
 - title: ' Recast-workflow: Fast Truth-level Interpretations'
   date: 2020-09-21

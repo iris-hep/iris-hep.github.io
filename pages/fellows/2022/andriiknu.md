@@ -11,7 +11,7 @@ dates:
   end: 2022-09-18
 - start: 2023-06-12
   end: 2023-09-03
-photo: /assets/images/team/Andrii_Falko.jpg
+photo: /assets/images/team/fellows-2022/Andrii_Falko.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: andrey2000fal@gmail.com
 

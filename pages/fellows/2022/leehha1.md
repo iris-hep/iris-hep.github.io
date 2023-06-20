@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-04
   end: 2022-09-04
-photo: /assets/images/team/Oleksii-Brovarnyk.jpg
+photo: /assets/images/team/fellows-2022/Oleksii-Brovarnyk.jpg
 institution: National Technical University "Kharkiv Polytechnic Institute" (NTU "KhPI")
 e-mail: aleshabrov@gmail.com
 project_title: Estimating transfer times of large datasets for scientific computing
@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Mario Lassnig (CERN)
 
-proposal: /assets/pdf/fellows-2022/205-proposal-Oleksii-Brovarnyk.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/205-proposal-Oleksii-Brovarnyk.pdf
 presentations:
 - title: Estimating transfer times of large datasets for scientific computing
   date: 2022-09-14

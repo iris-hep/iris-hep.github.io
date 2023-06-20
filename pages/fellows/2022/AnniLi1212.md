@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-06-20
   end: 2022-09-12
-photo: /assets/images/team/Anni-Li.jpg
+photo: /assets/images/team/fellows-2022/Anni-Li.jpg
 institution: University of California, San Diego
 e-mail: a5li@ucsd.edu
 project_title: Conditional Generation of High-Energy Particle Collisions with Graph Networks
@@ -18,7 +18,7 @@ project_goal: >
 mentors:
   - Javier Duarte (UCSD)
 
-proposal: /assets/pdf/fellows-2022/051-proposal-Anni-Li.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/051-proposal-Anni-Li.pdf
 presentations:
 - title: Generation of High-Energy Particle Collisions using Generative Adversarial Particle Transformers
   date: 2022-10-19

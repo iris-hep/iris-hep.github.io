@@ -8,7 +8,7 @@ fellow-name: Shravan Chaudhari
 dates:
   start: 2021-05-10
   end: 2021-08-10
-photo: /assets/images/team/Shravan-Chaudhari.jpg
+photo: /assets/images/team/fellows-2021/Shravan-Chaudhari.jpg
 institution: Birla Institute of Technology and Science Pilani
 e-mail: f20170736@goa.bits-pilani.ac.in
 project_title: Accelerating End-to-End Deep Learning Reconstruction using Graph Neural
@@ -29,7 +29,7 @@ mentors:
 - Dr. Sergei Gleyzer (The University of Alabama)
 - Dr. Davide DiCroce (The University of Alabama)
 
-proposal: /assets/pdf/Fellow-Shravan-Chaudhari-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Shravan-Chaudhari-Proposal.pdf
 presentations:
 - title: Graph Generative Models for Fast Detector Simulations in Particle Physics
   date: 2021-10-06

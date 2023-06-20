@@ -11,7 +11,7 @@ dates:
   end: 2022-09-08
 - start: 2023-06-22
   end: 2023-09-14
-photo: /assets/images/team/Atell-Krasnopolski.png
+photo: /assets/images/team/fellows-2022/Atell-Krasnopolski.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: delta_atell@protonmail.com
 
@@ -30,6 +30,7 @@ projects:
   mentors:
     - Jerry Ling (Harvard University)
     - Alexander Held (UWM)
+  proposal: /assets/pdf/fellows-2023/U014-proposal-Atell-Yehor-Krasnopolski.pdf
 
 presentations:
 - title: Jet Reconstruction with Julia

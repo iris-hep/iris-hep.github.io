@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2021-01-04
   end: 2021-06-04
-photo: /assets/images/team/Omar-Alterkait.jpg
+photo: /assets/images/team/fellows-2021/Omar-Alterkait.jpg
 institution: University of Colorado, Boulder
 website:
 e-mail: Omar.Alterkait@colorado.edu
@@ -26,7 +26,7 @@ project_goal: >
   tracker is quite diﬀerent which means that this task needs to be reevaluated. The
   goal of my project is to develop a more eﬃcient post track reconstruction algorithm
   using deep learning to classify reconstructed tracks as either real or fake.
-proposal: /assets/pdf/Fellow_Alterkait_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow_Alterkait_Proposal.pdf
 presentations:
 github-username: OmarAlterkait
 

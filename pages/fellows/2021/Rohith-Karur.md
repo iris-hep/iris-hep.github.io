@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-14
   end: 2021-09-13
-photo: /assets/images/team/Rohith-Karur.jpg
+photo: /assets/images/team/fellows-2021/Rohith-Karur.jpg
 institution: UC Berkeley/LBNL
 e-mail: r_karur137@berkeley.edu
 project_title: Implement hashing-based particle track reconstruction in ACTS
@@ -28,7 +28,7 @@ project_goal: >
 mentors:
 - Louis-Guillaume Gagnon (UC Berkeley)
 - Heather Gray (UC Berkeley, LBNL)
-proposal: /assets/pdf/Fellow-Rohith-Karur-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Rohith-Karur-Proposal.pdf
 presentations:
 - title: ANNs for ACTS
   date: 2021-10-18

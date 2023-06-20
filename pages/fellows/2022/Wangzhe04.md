@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-13
   end: 2022-09-08
-photo: /assets/images/team/Zhe-Wang.jpg
+photo: /assets/images/team/fellows-2022/Zhe-Wang.jpg
 institution: University of Wisconsin-Madison
 e-mail: zwang2428@wisc.edu
 project_title: Implement improved morphing strategy into MadMiner
@@ -21,7 +21,7 @@ mentors:
   - Kyle Cranmer (University of Wisconsin - Madison)
   - Alexander Held (University of Wisconsin - Madison)
 
-proposal: /assets/pdf/fellows-2022/025-proposal-Zhe-Wang.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/025-proposal-Zhe-Wang.pdf
 presentations:
 - title: Implement improved morphing strategy into MadMiner
   date: 2022-09-21

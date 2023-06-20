@@ -11,7 +11,7 @@ focus-area: ia
 dates:
   start: 2021-01-11
   end: 2021-05-28
-photo: /assets/images/team/Emily-Tsai.jpg
+photo: /assets/images/team/fellows-2021/Emily-Tsai.jpg
 institution: University of Texas at Austin
 e-mail: emily.tsai11@gmail.com
 mentors:
@@ -24,7 +24,7 @@ project_goal: >
   High-Luminosity LHC. This project focuses on creating an OpenCL based implementation
   of a graph neural network (GNN) completely on an FPGA, rather than the current implementation
   of the GNN on CPU and FPGA coprocessors, with the goal of speeding up tracking.
-proposal: /assets/pdf/EmilyTsai_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/EmilyTsai_Proposal.pdf
 presentations:
 github-username: emily-tsai11
 

@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-24
   end: 2021-08-21
-photo: /assets/images/team/Nicholas-Decheine.jpg
+photo: /assets/images/team/fellows-2021/Nicholas-Decheine.jpg
 institution: University of Wisconsin - Madison
 e-mail: decheine@hep.wisc.edu
 project_title: "Implementing ServiceX Data as a Source for ROOT\u2019s RDataFrame"
@@ -25,7 +25,7 @@ project_goal: >
   will be CMS Higgs event data from CERN’s Open Data collection.
 mentors:
 - gordonwatts
-proposal: /assets/pdf/Fellow-Nicholas-Decheine-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Nicholas-Decheine-Proposal.pdf
 presentations:
 - title: "Implementing ServiceX data as a source for ROOT\u2019s RDataFrame"
   date: 2021-11-01

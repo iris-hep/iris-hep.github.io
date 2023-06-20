@@ -10,7 +10,7 @@ focus-area: as
 dates:
   start: 2021-01-09
   end: 2021-04-03
-photo: /assets/images/team/Anish-Biswas.jpg
+photo: /assets/images/team/fellows-2021/Anish-Biswas.jpg
 institution: Manipal Institute of Technology
 website:
 e-mail: anishbiswas271@gmail.com
@@ -33,7 +33,7 @@ project_goal: >
   in place, the entire idea behind whole-analysis differentiability(​neos​) would
   be unable to proceed. One of the major parts of this project, hence, aims to enable
   JAX to differentiate functions containing Awkward Arrays.
-proposal: /assets/pdf/AnishBiswas_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/AnishBiswas_Proposal.pdf
 presentations:
 - title: Enabling auto-differentiation for Awkward Array functions
   date: 2021-05-10

@@ -8,7 +8,7 @@ active: False
 dates:
   start: 2022-06-06
   end: 2022-08-29
-photo: /assets/images/team/Ameya-Thete.jpg
+photo: /assets/images/team/fellows-2022/Ameya-Thete.jpg
 institution: BITS, Pilani - K.K. Birla Goa Campus
 e-mail: ameyathete11@gmail.com
 project_title: Equivariant Graph Neural Networks for Particle Tracking
@@ -24,7 +24,7 @@ project_goal: >
 mentors:
   - Savannah Thais (Princeton University)
   - Daniel Murnane (Lawrence Berkeley National Laboratory)
-proposal: /assets/pdf/fellows-2022/008-proposal-Ameya-Thete.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/008-proposal-Ameya-Thete.pdf
 presentations:
 current_status: >
   <strong> May 2022 </strong> - Undergraduate student of Physics and Computer Science at BITS, Pilani - K.K. Birla Goa Campus.

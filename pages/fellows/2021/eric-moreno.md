@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/Eric-Moreno.jpg
+photo: /assets/images/team/fellows-2021/Eric-Moreno.jpg
 institution: MIT
 e-mail: emoreno@mit.edu
 project_title: Anomaly Detection with Spiking Neural Networks
@@ -28,7 +28,7 @@ mentors:
 - Maurizio Pierini (CERN)
 - Jean-Roch Vlimant (Caltech)
 
-proposal: /assets/pdf/Fellow-Eric-Moreno-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Eric-Moreno-Proposal.pdf
 presentations:
 - title: Anomaly Detection with Spiking Neural Networks
   date: 2021-10-27

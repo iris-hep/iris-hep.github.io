@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-06-26
   end: 2022-09-26
-photo: /assets/images/team/Jerry-Ling.jpg
+photo: /assets/images/team/fellows-2022/Jerry-Ling.jpg
 institution: Harvard University
 e-mail: jling@g.harvard.edu
 project_title: Reading (and possibly writing) RNTuples in Uproot
@@ -30,7 +30,7 @@ project_goal: >
 mentors:
   - Jim Pivarski - (Princeton)
 
-proposal: /assets/pdf/fellows-2022/xyz-proposal-Jerry-Ling.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/xyz-proposal-Jerry-Ling.pdf
 presentations:
   - title: "<Presentation Title"
     date: "Presentation Date"

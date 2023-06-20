@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-14
   end: 2021-09-03
-photo: /assets/images/team/jason-hipkins.jpg
+photo: /assets/images/team/fellows-2021/jason-hipkins.jpg
 institution: University of Maryland - College Park
 e-mail: hipkinsj@terpmail.umd.edu
 project_title: "Advancing an\_active learning algorithm for more efficient generation\
@@ -32,7 +32,7 @@ mentors:
 - Kyle Cranmer (New York University)
 - Irina Espejo Morales (New York University)
 
-proposal: /assets/pdf/Fellow-jason-hipkins-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-jason-hipkins-Proposal.pdf
 presentations:
 - title: Active Learning for Excursion Set Estimation
   date: 2021-09-29

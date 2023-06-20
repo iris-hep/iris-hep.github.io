@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2021-01-04
   end: 2021-06-19
-photo: /assets/images/team/Jeremy-Ferguson.jpg
+photo: /assets/images/team/fellows-2021/Jeremy-Ferguson.jpg
 institution: University of California-Berkeley
 e-mail: jmfergie@berkeley.edu
 mentors:
@@ -20,7 +20,7 @@ project_goal: >
   particle tracks. Apply traditional graph algorithms and end-to-end machine learning
   techniques to the TrackML and ATLAS datasets to label tracks. This will allow for
   faster processing of particle tracks while still producing meaningful results.
-proposal: /assets/pdf/Fellow-Jeremy-Ferguson-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Jeremy-Ferguson-Proposal.pdf
 presentations:
 - title: Graph Methods for Particle Tracking
   date: 2021-06-28

@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-05
   end: 2022-09-12
-photo: /assets/images/team/Dmytro-Horyslavets.jpg
+photo: /assets/images/team/fellows-2022/Dmytro-Horyslavets.jpg
 institution: Kyiv Academic University
 e-mail: nepotlet@gmail.com
 project_title: Sequence-read extraction from counting de Bruijn graphs
@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Andre Kahles (University of Zurich)
 
-proposal: /assets/pdf/fellows-2022/231-proposal-Dmytro-Horyslavets.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/231-proposal-Dmytro-Horyslavets.pdf
 presentations:
 - title: Sequence-read extraction from counting de Bruijn graphs
   date: 2022-10-19

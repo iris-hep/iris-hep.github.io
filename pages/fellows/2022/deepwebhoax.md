@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-07-11
   end: 2022-09-17
-photo: /assets/images/team/Bohdan-Tyshchenko.jpg
+photo: /assets/images/team/fellows-2022/Bohdan-Tyshchenko.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: jityshchenko@gmail.com
 project_title: A rigorous benchmarking of methods for SARS-CoV-2 lineage detection in wastewater.
@@ -19,7 +19,7 @@ mentors:
   - Serghei Mangul (University of Southern California)
   - Sergey Knyazev (University of California)
   - Alina Frolova (Institute of Molecular Biology and Genetics)
-proposal: /assets/pdf/fellows-2022/228-proposal-Bohdan-Tyshchenko-v2.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/228-proposal-Bohdan-Tyshchenko-v2.pdf
 presentations:
 - title: A rigorous benchmarking of methods for SARS-CoV-2 lineage detection in wastewater
   date: 2022-10-19

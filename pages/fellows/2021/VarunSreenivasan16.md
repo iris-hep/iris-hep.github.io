@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-24
   end: 2021-08-27
-photo: /assets/images/team/Varun-Sreenivasan.jpg
+photo: /assets/images/team/fellows-2021/Varun-Sreenivasan.jpg
 institution: University of Wisconsin-Madison
 e-mail: vsreenivasan@wisc.edu
 project_title: Graph Methods for Particle Tracking
@@ -20,7 +20,7 @@ project_goal: >
 mentors:
 - Daniel Murnane (Lawrence Berkeley National Laboratory)
 
-proposal: /assets/pdf/Fellow-Varun-Sreenivasan-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Varun-Sreenivasan-Proposal.pdf
 presentations:
 - title: Graph Methods for Particle Tracking
   date: 2021-09-08

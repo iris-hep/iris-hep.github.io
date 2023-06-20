@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Alan-AneethJegaraj.jpeg
+photo: /assets/images/team/fellows-2020/Alan-AneethJegaraj.jpeg
 institution: University of Cincinnati
 website:
 e-mail: aneethaj@mail.uc.edu
@@ -29,7 +29,7 @@ project_goal: >
   viability of matrix factorization for PV identification, specifically Matrix tri-factorization
   with orthogonality constraints.
 
-proposal: /assets/pdf/Fellow-Alan-AneethJegaraj-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-Alan-AneethJegaraj-Proposal.pdf
 presentations:
 - title: Matrix Factorization for PV finding in LHCb
   date: 2020-10-05

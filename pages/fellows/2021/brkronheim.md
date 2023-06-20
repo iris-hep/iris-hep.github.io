@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-31
   end: 2021-08-20
-photo: /assets/images/team/Braden-Kronheim.jpg
+photo: /assets/images/team/fellows-2021/Braden-Kronheim.jpg
 institution: Davidson College
 e-mail: brkronheim@davidson.edu
 project_title: CMS Jet Reconstruction with Quantile Neural Networks
@@ -23,7 +23,7 @@ project_goal: >
 
 mentors:
 - Michelle Kuchera (Davidson College)
-proposal: /assets/pdf/Fellow-Braden-Kronheim-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Braden-Kronheim-Proposal.pdf
 presentations:
 - title: Jet Correction and Simulation with Quantile Neural Networks
   date: 2021-10-18

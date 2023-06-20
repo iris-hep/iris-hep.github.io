@@ -11,7 +11,7 @@ focus-area: ia
 dates:
   start: 2021-01-01
   end: 2021-06-30
-photo: /assets/images/team/Caitlin-Patterson.jpg
+photo: /assets/images/team/fellows-2021/Caitlin-Patterson.jpg
 institution: The Ohio State University
 e-mail: patterson383@gmail.com
 mentors:
@@ -26,7 +26,7 @@ project_goal: >
   lower latency and higher energy efficiency than CPUs. This project proposes building
   on the work of Aneesh Heintz by scaling up graph neural network implementations
   co-processed on FPGAs.
-proposal: /assets/pdf/CaitlinPatterson_proposal.pdf
+proposal: /assets/pdf/fellows-2021/CaitlinPatterson_proposal.pdf
 presentations:
 github-username: elocat
 

@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2020-07-01
   end: 2020-09-30
-photo: /assets/images/team/Tomohiro-Yamazaki.jpeg
+photo: /assets/images/team/fellows-2020/Tomohiro-Yamazaki.jpeg
 institution: University of California, Berkeley
 website:
 e-mail: tomohiro.yamazaki@cern.ch
@@ -24,7 +24,7 @@ project_goal: >
   layout.
 mentors:
 - heather-gray
-proposal: /assets/pdf/Fellow-TomohiroYamazaki-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-TomohiroYamazaki-Proposal.pdf
 presentations:
 - title: Track Seed Finding in ACTS
   date: 2021-03-24

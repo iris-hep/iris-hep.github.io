@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-20
   end: 2021-08-20
-photo: /assets/images/team/shuoliu.png
+photo: /assets/images/team/fellows-2021/shuoliu.png
 institution: Columbia University in the City of New York
 website:
 e-mail: sl4921@columbia.edu
@@ -25,7 +25,7 @@ project_goal: >
 mentors:
 - henryiii
 - Hans Dembinski (TU Dortmund University)
-proposal: /assets/pdf/Fellow-ShuoLiu-proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-ShuoLiu-proposal.pdf
 presentations:
 - title: Histograms Using Numba
   date: 2021-09-27

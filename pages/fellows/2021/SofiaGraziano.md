@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-14
   end: 2021-08-14
-photo: /assets/images/sofiagraziano.png
+photo: /assets/images/team/fellows-2021/sofiagraziano.png
 institution: University of Pennsylvania
 e-mail: sofiagra@sas.upenn.edu
 project_title: Developing Symmetric Graph Neural Networks for Charged Particle Tracking
@@ -30,7 +30,7 @@ project_goal: >
 mentors:
 - Savannah Thais (Princeton University)
 - Daniel Murnane (LBNL)
-proposal: /assets/pdf/SofiaGrazianoProposal.pdf
+proposal: /assets/pdf/fellows-2021/SofiaGrazianoProposal.pdf
 presentations:
 - title: Rotationally Equivariant Graph Neural Networks
   date: 2021-11-01

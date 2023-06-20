@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-31
   end: 2022-08-19
-photo: /assets/images/team/Philip-Templeman.jpg
+photo: /assets/images/team/fellows-2022/Philip-Templeman.jpg
 institution: University of Notre Dame
 e-mail: ptemplem@nd.edu
 project_title: Prototyping an Analysis Workflow for MINERvA
@@ -20,7 +20,7 @@ mentors:
   - Matthew Feickert (University of Illinois at Urbana-Champaign)
   - Abe Megahed (University of Wisconsin–Madison)
 
-proposal: /assets/pdf/fellows-2022/042-proposal-Philip-Templeman.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/042-proposal-Philip-Templeman.pdf
 presentations:
   - title: "Prototyping a REANA workflow for MINERvA"
     date: 2022-06-13

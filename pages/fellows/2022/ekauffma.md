@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
-photo: /assets/images/team/Elliott-Kauffman.jpg
+photo: /assets/images/team/fellows-2022/Elliott-Kauffman.jpg
 institution: Duke University
 e-mail: elmaka8700@gmail.com
 project_title: Adapting PV-Finder to the CMS and ATLAS Experiments
@@ -20,7 +20,7 @@ mentors:
   - Mike Sokoloff (University of Cincinnati)
   - Rocky Bala Garg (Standord University)
 
-proposal: /assets/pdf/fellows-2022/006-proposal-Elliott-Kauffman.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/006-proposal-Elliott-Kauffman.pdf
 presentations:
 - title: "PV-Finder for ATLAS: Exploring a deep learning approach for Primary Vertex Identification"
   date: 2022-10-19

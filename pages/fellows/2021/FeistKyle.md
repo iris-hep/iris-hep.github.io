@@ -7,7 +7,7 @@ active: false
 dates:
   start: 2021-06-01
   end: 2021-08-23
-photo: /assets/images/team/Kyle-Feist.jpg
+photo: /assets/images/team/fellows-2021/Kyle-Feist.jpg
 institution: University of Kentucky
 e-mail: kfle230@uky.edu
 project_title: Muon Collider Tracking Software
@@ -21,7 +21,7 @@ project_goal: >
 mentors:
 - Sergo Jindariani (Fermilab)
 - Simone Pagan (Lawrence Berkeley National Laboratory)
-proposal: /assets/pdf/Fellows-Kyle-Feist-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellows-Kyle-Feist-Proposal.pdf
 presentations:
 - title: Evolutionary Algorithm for Optimization of Track Reconstruction at a Muon
     Collider

@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-05-16
   end: 2022-08-19
-photo: /assets/images/team/Peter-Ridolfi.jpg
+photo: /assets/images/team/fellows-2022/Peter-Ridolfi.jpg
 institution: University of Pittsburgh
 e-mail: pbr11@pitt.edu
 project_title: Designing and implementing a converting tool for statistical models between pyhf and CMS combine
@@ -22,7 +22,7 @@ mentors:
   - Matthew Feickert (University of Wisconsin-Madison)
   - Alexander Held (University of Wisconsin-Madison)
   - Kyle Cranmer (NYU / University of Wisconsin-Madison)
-proposal: /assets/pdf/fellows-2022/009-proposal-Peter-Ridolfi.pdf
+proposal: /assets/pdf/fellows-2022/fellows-2022/009-proposal-Peter-Ridolfi.pdf
 presentations:
 - title: 'Pyhf to Combine Converter'
   date: 2022-06-15

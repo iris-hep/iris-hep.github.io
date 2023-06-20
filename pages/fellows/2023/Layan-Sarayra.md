@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-05
   end: 2023-08-25
-photo: /assets/images/team/Layan_AlSarayra.jpg
+photo: /assets/images/team/fellows-2023/Layan_AlSarayra.jpg
 institution: Stanford visiting scholar
 e-mail: layan@stanford.edu
 focus-area: ia
@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Lauren Tompkins (Stanford University)
   - Rocky Bala Garg (Stanford University)
-proposal: /assets/pdf/fellows-2023/E005-proposal-Layan-AlSarayra.pdf
+proposal: /assets/pdf/fellows-2023/fellows-2023/E005-proposal-Layan-AlSarayra.pdf
 presentations:
 current_status:
 github-username: Layan-Sarayra

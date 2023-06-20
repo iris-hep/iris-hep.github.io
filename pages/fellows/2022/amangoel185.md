@@ -11,7 +11,7 @@ dates:
   end: 2022-08-15
 - start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/Aman-Goel.png
+photo: /assets/images/team/fellows-2022/Aman-Goel.png
 institution: Cluster Innovation Centre, University of Delhi
 e-mail: aman.goel185@gmail.com
 focus-area: as
@@ -30,7 +30,7 @@ projects:
     look inside a ROOT file, completely via the terminal.
   mentors:
   - Henry Schreiner (Princeton University)
-  proposal: /assets/pdf/Fellow-Aman-Goel-Proposal-2.pdf
+  proposal: /assets/pdf/fellows-2022/Fellow-Aman-Goel-Proposal-2.pdf
 
 - project_title: Advancing the Hist library
   project_goal: >
@@ -43,7 +43,7 @@ projects:
     of the library.
   mentors:
   - Henry Schreiner - (Princeton University)
-  proposal: /assets/pdf/Fellow-Aman-Goel-Proposal.pdf
+  proposal: /assets/pdf/fellows-2021/Fellow-Aman-Goel-Proposal.pdf
 
 presentations:
 - title: "Hist Serialization and Interactivity"
