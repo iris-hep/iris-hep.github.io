@@ -29,7 +29,7 @@ project_goal: >
   functionality from beginning to end. This allows developers to rapidly find and
   fix bugs and test the
   software's stress limits.
-proposal: /assets/pdf/dwliu_proposal.pdf
+proposal: /assets/pdf/fellows-2020/dwliu_proposal.pdf
 presentations:
 - title: 'ServiceX: Backend Tests'
   date: 2020-09-21

@@ -21,7 +21,7 @@ project_goal: >
   example into a prototype analysis system using Coffea and Awkward-array. This prototype
   will be benchmarked and compared to the original approach to see if it has a reduced
   time-to-insight, greater functionality, and reusability.
-proposal: /assets/pdf/Brian Cruz_proposal.pdf
+proposal: /assets/pdf/fellows-2021/Brian Cruz_proposal.pdf
 presentations:
 - title: Translating analyses into prototype analysis systems
   date: 2021-06-02

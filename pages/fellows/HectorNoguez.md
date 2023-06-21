@@ -24,7 +24,7 @@ project_goal: >
   examples from the source and target domain (as done for the gradient reversal layer),
   we propose to explicitly reward the DNN for minimizing differences between distributions
   in the source and target domains.
-proposal: /assets/pdf/Fellow-HectorCastorNoguez-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-HectorCastorNoguez-Proposal.pdf
 presentations:
 - title: Domain Adaptation via Histogram Loss Component
   date: 2021-10-27

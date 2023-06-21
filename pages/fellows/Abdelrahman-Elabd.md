@@ -25,7 +25,7 @@ project_goal: >
   while providing less lossiness than post-training quantization.
 mentors:
 - Markus Atkinson (UIUC)
-proposal: /assets/pdf/Fellow-Abdelrahman-Elabd-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Abdelrahman-Elabd-Proposal.pdf
 presentations:
 - title: Developing a Python Front-End for HLS Implementation of GNNs on FPGA and
     Studies of Quantization-aware Training

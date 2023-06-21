@@ -21,7 +21,7 @@ project_goal: >
   This will help validate the RNTuple class design in the context of a large experiment
   framework and allow for comparisons between the TTree and RNTuple formats for compact
   analysis object data (AOD) files.
-proposal: /assets/pdf/Max_Orok_proposal.pdf
+proposal: /assets/pdf/fellows-2021/Max_Orok_proposal.pdf
 presentations:
 - title: CMSSW Generating ROOT RNTuple NanoAODs
   date: 2021-06-30

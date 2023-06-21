@@ -25,7 +25,7 @@ project_goal: >
   in FPGA coprocessor applications possibly including the L1 trigger.
 mentors:
 - Javier Duarte (University of California, San Diego)
-proposal: /assets/pdf/VesalRazavimaleki_Proposal.pdf
+proposal: /assets/pdf/fellows-2020/VesalRazavimaleki_Proposal.pdf
 presentations:
 - title: Graph Neural Networks for Particle Tracking in FPGAs with hls4m
   date: 2020-09-28

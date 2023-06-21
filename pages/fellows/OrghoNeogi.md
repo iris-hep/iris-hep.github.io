@@ -20,7 +20,7 @@ project_goal: >
   My goad is to create a machine learning model for neutrino reconstruction. Then
   to optimize inference on said model using Tensor RT leading to quicker inference
   times.
-proposal: /assets/pdf/Fellow-OrghoNeogi-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-OrghoNeogi-Proposal.pdf
 github-username: OrghoN
 
 ---

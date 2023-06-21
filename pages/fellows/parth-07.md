@@ -26,7 +26,7 @@ project_goal: >
 mentors:
 - Vassil Vassilev (Princeton University)
 - David Lange (Princeton University)
-proposal: /assets/pdf/Fellow-Parth-Arora-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Parth-Arora-Proposal.pdf
 presentations:
 current_status: >
   <strong>July 2022</strong> - Associate Engineer at Qualcomm

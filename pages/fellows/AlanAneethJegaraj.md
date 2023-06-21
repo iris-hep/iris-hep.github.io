@@ -29,7 +29,7 @@ project_goal: >
   viability of matrix factorization for PV identification, specifically Matrix tri-factorization
   with orthogonality constraints.
 
-proposal: /assets/pdf/Fellow-Alan-AneethJegaraj-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-Alan-AneethJegaraj-Proposal.pdf
 presentations:
 - title: Matrix Factorization for PV finding in LHCb
   date: 2020-10-05

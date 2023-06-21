@@ -28,7 +28,7 @@ mentors:
 - Maurizio Pierini (CERN)
 - Jean-Roch Vlimant (Caltech)
 
-proposal: /assets/pdf/Fellow-Eric-Moreno-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Eric-Moreno-Proposal.pdf
 presentations:
 - title: Anomaly Detection with Spiking Neural Networks
   date: 2021-10-27

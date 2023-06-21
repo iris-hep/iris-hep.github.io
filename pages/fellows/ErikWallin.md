@@ -20,7 +20,7 @@ project_goal: >
   Data compression is necessary in high energy physics because of the enormous amounts
   of data involved. This project will explore the use of the zfp lossy data compression
   algorithm for compression of HEP data, focusing on the CMS MiniAOD data format.
-proposal: /assets/pdf/Fellow-Erik-Wallin-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-Erik-Wallin-Proposal.pdf
 presentations:
 - title: zfp compression on a CMS NanoAOD
   date: 2020-09-21

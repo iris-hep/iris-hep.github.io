@@ -26,7 +26,7 @@ project_goal: >
   binary format, xAOD. The C++ is generated in python. This project will modify the
   C++ backend to also run on CMS Mini-AOD binary files (Run 1/Run 2), starting by
   concentrating on Run 1. The Higgs-Discovery demo will be used as a guide.
-proposal: /assets/pdf/BaidyanathKundu_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/BaidyanathKundu_Proposal.pdf
 presentations:
 - title: Reading CMS Run 1/2 miniAOD files with ServiceX and func_adl
   date: 2021-06-30

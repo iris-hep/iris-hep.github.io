@@ -24,7 +24,7 @@ project_goal: >
   data set, or more complex CMS simulation to search for new physics.
 mentors:
 - Javier Duarte (University of California, San Diego)
-proposal: /assets/pdf/Fellow-Sukanya-Krishna-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Sukanya-Krishna-Proposal.pdf
 presentations:
 - title: Particle Graph Autoencoders for Real-Time Jet Anomaly Detection
   date: 2021-09-20

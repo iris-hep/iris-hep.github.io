@@ -20,7 +20,7 @@ project_goal: >
   particle tracks. Apply traditional graph algorithms and end-to-end machine learning
   techniques to the TrackML and ATLAS datasets to label tracks. This will allow for
   faster processing of particle tracks while still producing meaningful results.
-proposal: /assets/pdf/Fellow-Jeremy-Ferguson-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Jeremy-Ferguson-Proposal.pdf
 presentations:
 - title: Graph Methods for Particle Tracking
   date: 2021-06-28

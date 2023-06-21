@@ -24,7 +24,7 @@ project_goal: >
   facilitate the use of Coffea-Casa AF for Boston University and UNL CMS physicists
   currently working with NanoAOD datasets and investigation of possibility to use
   Arrow Dataset API as an input to Coffea for further integration with Skyhook DM.
-proposal: /assets/pdf/zche_proposal.pdf
+proposal: /assets/pdf/fellows-2021/zche_proposal.pdf
 presentations:
 - title: Coffea-Casa Analysis Facility
   date: 2021-06-02

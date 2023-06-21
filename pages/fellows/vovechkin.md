@@ -30,7 +30,7 @@ mentors:
 - Shih-Chieh Hsu (U.Washington)
 - Lukas Heinrich (CERN)
 - Alex Schuy (U.Washington)
-proposal: /assets/pdf/Fellow-Vovechkin-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-Vovechkin-Proposal.pdf
 presentations:
 - title: ' Recast-workflow: Fast Truth-level Interpretations'
   date: 2020-09-21

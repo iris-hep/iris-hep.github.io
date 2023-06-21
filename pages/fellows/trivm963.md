@@ -26,7 +26,7 @@ project_goal: >
   other network metrics, and the degree of path symmetry.
 mentors:
 - Shawn McKee (University of Michigan, Ann Arbor)
-proposal: /assets/pdf/trivm963_proposal.pdf
+proposal: /assets/pdf/fellows-2020/trivm963_proposal.pdf
 presentations:
 github-username: trivm963
 

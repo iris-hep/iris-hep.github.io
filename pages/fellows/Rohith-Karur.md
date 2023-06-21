@@ -28,7 +28,7 @@ project_goal: >
 mentors:
 - Louis-Guillaume Gagnon (UC Berkeley)
 - Heather Gray (UC Berkeley, LBNL)
-proposal: /assets/pdf/Fellow-Rohith-Karur-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Rohith-Karur-Proposal.pdf
 presentations:
 - title: ANNs for ACTS
   date: 2021-10-18

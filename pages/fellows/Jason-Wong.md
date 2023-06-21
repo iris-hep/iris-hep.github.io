@@ -22,7 +22,7 @@ project_goal: >
 mentors:
 - savvy379
 - Daniel Murnane (Lawrence Berkeley National Laboratory)
-proposal: /assets/pdf/Fellow-Jason-Wong-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Jason-Wong-Proposal.pdf
 presentations:
 - title: LEGNN Jet Tagging Network
   date: 2021-09-14

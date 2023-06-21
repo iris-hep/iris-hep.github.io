@@ -24,7 +24,7 @@ project_goal: >
   High-Luminosity LHC. This project focuses on creating an OpenCL based implementation
   of a graph neural network (GNN) completely on an FPGA, rather than the current implementation
   of the GNN on CPU and FPGA coprocessors, with the goal of speeding up tracking.
-proposal: /assets/pdf/EmilyTsai_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/EmilyTsai_Proposal.pdf
 presentations:
 github-username: emily-tsai11
 

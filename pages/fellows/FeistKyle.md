@@ -21,7 +21,7 @@ project_goal: >
 mentors:
 - Sergo Jindariani (Fermilab)
 - Simone Pagan (Lawrence Berkeley National Laboratory)
-proposal: /assets/pdf/Fellows-Kyle-Feist-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellows-Kyle-Feist-Proposal.pdf
 presentations:
 - title: Evolutionary Algorithm for Optimization of Track Reconstruction at a Muon
     Collider

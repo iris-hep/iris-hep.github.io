@@ -29,7 +29,7 @@ mentors:
 - Jianshen Liu (UC Santa Cruz)
 - Jayjeet Chakraborty (NIT, Durgapur)
 
-proposal: /assets/pdf/Fellow-Eshan-Bhargava-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Eshan-Bhargava-Proposal.pdf
 presentations:
 - title: SkyhookDM - Ability to Push back query execution to Client in case of overload
     OSDs

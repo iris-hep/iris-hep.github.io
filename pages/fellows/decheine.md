@@ -25,7 +25,7 @@ project_goal: >
   will be CMS Higgs event data from CERN’s Open Data collection.
 mentors:
 - gordonwatts
-proposal: /assets/pdf/Fellow-Nicholas-Decheine-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Nicholas-Decheine-Proposal.pdf
 presentations:
 - title: "Implementing ServiceX data as a source for ROOT\u2019s RDataFrame"
   date: 2021-11-01

@@ -26,7 +26,7 @@ project_goal: >
 mentors:
 - Shih-Chieh Hsu (U.Washington)
 - Alex Schuy (U.Washington)
-proposal: /assets/pdf/Fellow-van_Bruggen-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-van_Bruggen-Proposal.pdf
 presentations:
 - title: ' Expanding Subworkflow Catalog of RECAST-wf For Event Generators'
   date: 2021-06-28

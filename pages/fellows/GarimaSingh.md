@@ -30,7 +30,7 @@ project_goal: >
   that is not bound to a particular error approximation model. It will allow users
   to select their preferable estimation logic and automatically generate functions
   augmented with code for the specified error estimator.
-proposal: /assets/pdf/garima_proposal.pdf
+proposal: /assets/pdf/fellows-2021/garima_proposal.pdf
 presentations:
 - title: Floating Point Error Evaluation With Clad
   date: 2021-06-21

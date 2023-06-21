@@ -29,7 +29,7 @@ mentors:
 - Dr. Sergei Gleyzer (The University of Alabama)
 - Dr. Davide DiCroce (The University of Alabama)
 
-proposal: /assets/pdf/Fellow-Shravan-Chaudhari-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Shravan-Chaudhari-Proposal.pdf
 presentations:
 - title: Graph Generative Models for Fast Detector Simulations in Particle Physics
   date: 2021-10-06

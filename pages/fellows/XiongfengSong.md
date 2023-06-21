@@ -31,7 +31,7 @@ project_goal: >
   to the Spark processor/executor interface.
 
 
-proposal: /assets/pdf/Fellow-Xiongfeng-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-Xiongfeng-Proposal.pdf
 presentations:
 - title: SkyhookDM projection-only pushdown and Arrow dataset integration into Skyhook
     objects

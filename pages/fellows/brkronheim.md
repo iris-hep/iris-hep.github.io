@@ -23,7 +23,7 @@ project_goal: >
 
 mentors:
 - Michelle Kuchera (Davidson College)
-proposal: /assets/pdf/Fellow-Braden-Kronheim-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Braden-Kronheim-Proposal.pdf
 presentations:
 - title: Jet Correction and Simulation with Quantile Neural Networks
   date: 2021-10-18

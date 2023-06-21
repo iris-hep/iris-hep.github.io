@@ -25,7 +25,7 @@ project_goal: >
 mentors:
 - henryiii
 - Hans Dembinski (TU Dortmund University)
-proposal: /assets/pdf/Fellow-ShuoLiu-proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-ShuoLiu-proposal.pdf
 presentations:
 - title: Histograms Using Numba
   date: 2021-09-27

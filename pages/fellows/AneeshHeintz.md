@@ -27,7 +27,7 @@ project_goal: >
   online in a highly parallelized fashion, greatly accelerating data throughput.
 mentors:
 - Isobel Ojalvo (Princeton University)
-proposal: /assets/pdf/AneeshHeintz_Proposal.pdf
+proposal: /assets/pdf/fellows-2020/AneeshHeintz_Proposal.pdf
 presentations:
 - title: Accelerating Graph Neural Networks on CPU + FPGA co-processors for scalable
     track reconstruction tasks

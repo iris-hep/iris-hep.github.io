@@ -31,7 +31,7 @@ project_goal: >
 mentors:
 - Savannah Thais (Princeton University)
 
-proposal: /assets/pdf/Fellow-Dominika-Krawiec-Proposal.pdf
+proposal: /assets/pdf/fellows-2022/Fellow-Dominika-Krawiec-Proposal.pdf
 presentations:
 
 current_status: >

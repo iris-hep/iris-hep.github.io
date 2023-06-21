@@ -27,7 +27,7 @@ project_goal: >
   they have and iteratively evolve dashboards to meet those needs. This will ensure
   that the use-case specific dashboards created are relevant and useful for the community.
 
-proposal: /assets/pdf/Fellow-Thomas_Shearer-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-Thomas_Shearer-Proposal.pdf
 presentations:
 - title: Improving the OSG-LHC Network Metrics User Interface
   date: 2020-09-21

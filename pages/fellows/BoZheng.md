@@ -26,7 +26,7 @@ project_goal: >
   Evaluate the hardware acceleration test suite using Google TPUs.
   Profile the pyhf codebase to determine where the hardware acceleration is making
   the largest difference.
-proposal: /assets/pdf/Fellow-BoZheng-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-BoZheng-Proposal.pdf
 presentations:
 - title: pyhf Hardware Acceleration Benchmarking with CPUs and GPUs
   date: 2020-08-31

@@ -30,7 +30,7 @@ mentors:
 - Mark Neubauer (University of Illinois, Urbana-Champaign)
 - Matthew Feickert (University of Illinois, Urbana-Champaign)
 
-proposal: /assets/pdf/Fellow-Mihir-Katare-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Mihir-Katare-Proposal.pdf
 presentations:
 - title: Deep Learning for the Matrix Element Method
   date: 2021-10-18

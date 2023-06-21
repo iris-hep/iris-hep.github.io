@@ -24,7 +24,7 @@ project_goal: >
   this, I will develop and evaluate many possible multivariate algorithms to find
   the best fitted for this task, and then deploy these into the baseline algorithm
   repository for LHCb run 3.
-proposal: /assets/pdf/Fellow-SeanCondon-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-SeanCondon-Proposal.pdf
 presentations:
 - title: Particle decay classifiers for the LHCb Run 3 first-level trigger
   date: 2020-09-28

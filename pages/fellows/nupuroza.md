@@ -24,7 +24,7 @@ mentors:
 - Dr. Carlo Varni (UC Berkeley)
 - Professor Heather Gray (UC Berkeley, LBNL)
 
-proposal: /assets/pdf/Oza_Nupur_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Oza_Nupur_Proposal.pdf
 presentations:
 - title: Deep Learning for Ambiguity Resolution in ACTS
   date: 2021-09-08

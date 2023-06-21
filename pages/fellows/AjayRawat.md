@@ -20,7 +20,7 @@ project_goal: >
   He will build upon Aaron’s work to execute Jupyter Notebooks on REANA using papermill.
 mentors:
 - Shih-Chieh Hsu (University of Washington)
-proposal: /assets/pdf/AjayRawat.pdf
+proposal: /assets/pdf/fellows-2021/AjayRawat.pdf
 presentations:
 - title: Integrating REANA Backend into ROB for evaluating workflows in the cloud
   date: 2021-09-14

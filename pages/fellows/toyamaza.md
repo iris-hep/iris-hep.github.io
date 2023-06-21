@@ -24,7 +24,7 @@ project_goal: >
   layout.
 mentors:
 - heather-gray
-proposal: /assets/pdf/Fellow-TomohiroYamazaki-Proposal.pdf
+proposal: /assets/pdf/fellows-2020/Fellow-TomohiroYamazaki-Proposal.pdf
 presentations:
 - title: Track Seed Finding in ACTS
   date: 2021-03-24

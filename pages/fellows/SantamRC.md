@@ -28,7 +28,7 @@ project_goal: >
 mentors:
 - Jim Pivarski (Princeton)
 - Ianna Osborne (Princeton)
-proposal: /assets/pdf/Fellow-Santam-Roy-Choudhury-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Santam-Roy-Choudhury-Proposal.pdf
 presentations:
 - title: Automating Awkward Array Testing
   date: 2021-09-20

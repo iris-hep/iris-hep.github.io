@@ -29,7 +29,7 @@ project_goal: >
   coprocessing accelerators.
 mentors:
 - Javier Duarte (University of California, San Diego)
-proposal: /assets/pdf/FaroukMokhtar_Proposal.pdf
+proposal: /assets/pdf/fellows-2021/FaroukMokhtar_Proposal.pdf
 presentations:
 - title: Machine-Learned Particle Flow
   date: 2021-09-20

@@ -26,7 +26,7 @@ project_goal: >
   lower latency and higher energy efficiency than CPUs. This project proposes building
   on the work of Aneesh Heintz by scaling up graph neural network implementations
   co-processed on FPGAs.
-proposal: /assets/pdf/CaitlinPatterson_proposal.pdf
+proposal: /assets/pdf/fellows-2021/CaitlinPatterson_proposal.pdf
 presentations:
 github-username: elocat
 

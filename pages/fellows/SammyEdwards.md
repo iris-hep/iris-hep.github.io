@@ -23,7 +23,7 @@ mentors:
 - Jane Nachtman (University of Iowa)
 - Arghya Das (University of Wisconsin - Platteville)
 
-proposal: /assets/pdf/Fellow-Sammy-Edwards-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Sammy-Edwards-Proposal.pdf
 presentations: >
   - title:
     date:

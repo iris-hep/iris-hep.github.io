@@ -25,7 +25,7 @@ project_goal: "Researchers using the OSG rely on the stability of resources in o
   \ accounting system.  The alert would run periodically on OSG resources."
 mentors:
 - djw8605
-proposal: /assets/pdf/Fellow-SuhaibShaikh-Proposal
+proposal: /assets/pdf/fellows-2020/Fellow-SuhaibShaikh-Proposal
 presentations:
 - title: Proactive Site Monitoring
   date: 2020-09-28

@@ -32,7 +32,7 @@ mentors:
 - Kyle Cranmer (New York University)
 - Irina Espejo Morales (New York University)
 
-proposal: /assets/pdf/Fellow-jason-hipkins-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-jason-hipkins-Proposal.pdf
 presentations:
 - title: Active Learning for Excursion Set Estimation
   date: 2021-09-29

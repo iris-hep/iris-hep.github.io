@@ -30,7 +30,7 @@ project_goal: >
 mentors:
 - Savannah Thais (Princeton University)
 - Daniel Murnane (LBNL)
-proposal: /assets/pdf/SofiaGrazianoProposal.pdf
+proposal: /assets/pdf/fellows-2021/SofiaGrazianoProposal.pdf
 presentations:
 - title: Rotationally Equivariant Graph Neural Networks
   date: 2021-11-01

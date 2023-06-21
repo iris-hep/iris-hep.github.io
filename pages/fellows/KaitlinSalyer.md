@@ -23,7 +23,7 @@ project_goal: >
   the Large Hadron Collider (LHC). This will ultimately help to simplify the data
   quality monitoring (DQM) process.
 
-proposal: /assets/pdf/ksalyer_proposal.pdf
+proposal: /assets/pdf/fellows-2021/ksalyer_proposal.pdf
 presentations:
 github-username: ksalyer
 

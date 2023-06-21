@@ -25,7 +25,7 @@ project_goal: >
   expect to cover testing of analysis-related components and analysis frameworks deployed
   in AF as well as data delivery services functionality. The test suite should include
   but not be limited to an already collected set of available sample physics analyses.
-proposal: /assets/pdf/fellow-Maggie-Ramsay-proposal.pdf
+proposal: /assets/pdf/fellows-2021/fellow-Maggie-Ramsay-proposal.pdf
 presentations:
 github-username: maggieramsay
 current_status: >

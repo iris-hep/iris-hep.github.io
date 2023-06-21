@@ -41,7 +41,7 @@ mentors:
 - Harrison Prosper (Florida State University)
 - Michelle Kuchera (Davidson College)
 
-proposal: /assets/pdf/Fellow-Ali-Hariri-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Ali-Hariri-Proposal.pdf
 presentations:
 - title: Graph Generative Models for Fast Detector Simulations in Particle Physics
   date: 2021-10-06

@@ -25,7 +25,7 @@ mentors:
 - Ken Bloom - University of Nebraska-Lincoln)
 - Brian Bockelman (Morgridge Institute for Research)
 
-proposal: /assets/pdf/Fellow-Tuong-Phung-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Tuong-Phung-Proposal.pdf
 presentations:
 current_status: >
 github-username: tuongphung

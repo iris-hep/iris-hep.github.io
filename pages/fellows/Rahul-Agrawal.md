@@ -31,7 +31,7 @@ project_goal: >
   which will get triggered when any particular events like commit/push happen. A web
   dashboard can also be integrated to monitor the performance results of the CI tests.
 
-proposal: /assets/pdf/Fellow-Rahul-Agrawal_proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Rahul-Agrawal_proposal.pdf
 presentations:
 - title: Facilitate continuous benchmarking/regression testing for the critical components
     of SkyhookDM

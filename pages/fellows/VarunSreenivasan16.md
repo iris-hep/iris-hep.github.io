@@ -20,7 +20,7 @@ project_goal: >
 mentors:
 - Daniel Murnane (Lawrence Berkeley National Laboratory)
 
-proposal: /assets/pdf/Fellow-Varun-Sreenivasan-Proposal.pdf
+proposal: /assets/pdf/fellows-2021/Fellow-Varun-Sreenivasan-Proposal.pdf
 presentations:
 - title: Graph Methods for Particle Tracking
   date: 2021-09-08
