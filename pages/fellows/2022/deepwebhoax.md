@@ -19,7 +19,7 @@ mentors:
   - Serghei Mangul (University of Southern California)
   - Sergey Knyazev (University of California)
   - Alina Frolova (Institute of Molecular Biology and Genetics)
-proposal: /assets/pdf/fellows-2022/fellows-2022/228-proposal-Bohdan-Tyshchenko-v2.pdf
+proposal: /assets/pdf//228-proposal-Bohdan-Tyshchenko-v2.pdf
 presentations:
 - title: A rigorous benchmarking of methods for SARS-CoV-2 lineage detection in wastewater
   date: 2022-10-19

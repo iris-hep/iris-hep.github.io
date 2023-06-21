@@ -30,7 +30,7 @@ mentors:
   - Jim Pivarski (Princeton University)
   - Ianna Osborne (CERN)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/007-proposal-Manasvi-Goyal.pdf
+proposal: /assets/pdf//007-proposal-Manasvi-Goyal.pdf
 
 presentations:
   - title: "Accelerating Awkward Array Builders"

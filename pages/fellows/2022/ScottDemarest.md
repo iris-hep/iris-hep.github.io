@@ -19,7 +19,7 @@ mentors:
   - Nick Smith (FNAL)
   - Jim Pivarski (Princeton)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/013-proposal-Scott-Demarest.pdf
+proposal: /assets/pdf//013-proposal-Scott-Demarest.pdf
 presentations:
 - title: Enable Dask interopability with xrootd-accessible storage systems
   date: 2022-09-28

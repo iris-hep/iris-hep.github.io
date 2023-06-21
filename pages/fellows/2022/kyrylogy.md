@@ -19,7 +19,7 @@ mentors:
   - Brij Kishor Jashal (Valencia U., IFIC and TIFR, Mumbai, DHEP)
   - Ceyhun Uzunoglu (CERN)
   - Federica Legger (INFN)
-proposal: /assets/pdf/fellows-2022/fellows-2022/206-proposal-Kyrylo-Meliushko.pdf
+proposal: /assets/pdf//206-proposal-Kyrylo-Meliushko.pdf
 presentations:
 - title: Implementation of CI/CD Automation and Orchestration in CMS Monitoring Kubernetes Clusters
   date: 2022-09-28

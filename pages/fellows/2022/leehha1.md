@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Mario Lassnig (CERN)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/205-proposal-Oleksii-Brovarnyk.pdf
+proposal: /assets/pdf//205-proposal-Oleksii-Brovarnyk.pdf
 presentations:
 - title: Estimating transfer times of large datasets for scientific computing
   date: 2022-09-14

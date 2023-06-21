@@ -19,7 +19,7 @@ mentors:
   - Simone Pagan Grisio (Lawrence Berkeley National Laboratory)
   - Sergo Jindariani (Fermilab)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/044-proposal-Natalie-Bruhwiler.pdf
+proposal: /assets/pdf//044-proposal-Natalie-Bruhwiler.pdf
 presentations:
 - title: Muon Collider Tracking Software
   date: 2022-06-13

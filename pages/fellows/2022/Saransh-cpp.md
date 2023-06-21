@@ -36,7 +36,7 @@ focus-area: as
 mentors:
   - Henry Schreiner (Princeton University)
   - Jim Pivarski (Princeton University)
-proposal: /assets/pdf/fellows-2022/fellows-2022/040-proposal-Saransh-Chopra.pdf
+proposal: /assets/pdf//040-proposal-Saransh-Chopra.pdf
 presentations:
 - title: Vector - Constructors, documentation, and benchmarks
   date: 2022-10-05

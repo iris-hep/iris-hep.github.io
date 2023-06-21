@@ -17,7 +17,7 @@ project_goal: >
     Measurements of semi-inclusive deep-inelastic scattering (SIDIS) oﬀer a tremendous opportunity to learn about the partonic structure of nucleons. For a correct phenomenological interpretation of the information they encode, it is vital to develop tools that allow experimental data to be connected to the corresponding theoretical framework. Factorization theorems only apply under speciﬁc kinematic conditions, essentially dictated by power counting. It is therefore very important to be able to identify as precisely as possible the sensitivity of each data subset to those kinematic requirements.
 mentors:
   -  Markus Diefenthaler (Jefferson Lab)
-proposal: /assets/pdf/fellows-2022/fellows-2022/221-proposal-Tetiana-Yushkevych.pdf
+proposal: /assets/pdf//221-proposal-Tetiana-Yushkevych.pdf
 presentations:
 - title: Tools for understanding semi-inclusive deep-inelastic scattering measurements
   date: 2022-09-14

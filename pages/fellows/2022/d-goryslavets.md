@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Andre Kahles (University of Zurich)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/231-proposal-Dmytro-Horyslavets.pdf
+proposal: /assets/pdf//231-proposal-Dmytro-Horyslavets.pdf
 presentations:
 - title: Sequence-read extraction from counting de Bruijn graphs
   date: 2022-10-19
