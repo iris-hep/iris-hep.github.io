@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-05
   end: 2023-09-15
-photo: /assets/images/team/fellows-2023/Leonid-Didukh.jpg
+photo: /assets/images/team/Leonid-Didukh.jpg
 institution:
 e-mail: ledidukh@gmail.com
 focus-area: ssc
