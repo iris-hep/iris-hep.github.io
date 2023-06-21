@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-05
   end: 2023-08-25
-photo: /assets/images/team/fellows-2023/Avi-Kaufman.png
+photo: /assets/images/team/Avi-Kaufman.png
 institution: University of Iowa
 e-mail: sarkavism@gmail.com
 focus-area: doma
