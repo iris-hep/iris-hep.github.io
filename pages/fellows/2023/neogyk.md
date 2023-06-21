@@ -22,7 +22,7 @@ project_goal: >
   In this project, we will estimate the computational resource and energy consumption of the Baler framework.
 mentors:
   - Caterina Doglioni (Lund University)
-proposal: /assets/pdf/fellows-2023/fellows-2023/proposal_leonid_didukh.pdf
+proposal: /assets/pdf/fellows-2023/proposal_leonid_didukh.pdf
 linkedin-profile: https://www.linkedin.com/in/ledidukh/
 github-username: neogyk
 presentation:

@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Tina Peters (University of Delaware)
   - Chris Tunnell (Rice University)
-proposal: /assets/pdf/fellows-2022/fellows-2022/058-Zoe-Bilodeau.pdf
+proposal: /assets/pdf/fellows-2022/058-Zoe-Bilodeau.pdf
 github-username: zbilodea
 presentations:
 - title: Fast Integration of Poisson Distributions for Dead Sensor Marginalization

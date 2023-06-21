@@ -25,7 +25,7 @@ mentors:
   - Simone Pagan Griso (Lawrence Berkeley National Laboratory)
   - Sergo Jindariani (Fermilab)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/023-proposal-Ben-Kuchma.pdf
+proposal: /assets/pdf/fellows-2022/023-proposal-Ben-Kuchma.pdf
 presentations:
 - title: Reconstruction algorithms dealing with electrons
   date: 2022-09-14
