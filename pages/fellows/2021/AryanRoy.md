@@ -28,7 +28,7 @@ projects:
   mentors:
   - Jim Pivarski (Princeton University)
   - Eduardo Rodrigues (outside collaborator, University of Liverpool)
-  proposal: /assets/pdf/AryanRoy_Proposal.pdf
+  proposal: /assets/pdf/fellows-2021/AryanRoy_Proposal.pdf
 
 projects:
 - project_title: Accelerating Uproot with AwkwardForth

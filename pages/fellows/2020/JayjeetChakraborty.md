@@ -33,7 +33,7 @@ projects:
     infrastructure like GCP, Cloudlab and Kubernetes clusters and benchmark SkyhookDM
     at the 10's of terabyte
     scale over the various supported data formats.
-  proposal: /assets/pdf/Fellow-Jayjeet-Chakraborty-Proposal.pdf
+  proposal: /assets/pdf/fellows-2020/Fellow-Jayjeet-Chakraborty-Proposal.pdf
   mentors:
   - Carlos Maltzahn (UC Santa Cruz)
   - Ivo Jimenez  (UC Santa Cruz)
@@ -51,7 +51,7 @@ projects:
     the Rados specific implementations of the Arrow C++ SDK also. Native support for
     Arrow will allow applications such as Coffea Processors, and ServiceX transformers
     to seamlessly interact with SkyhookDM, as well as other storage systems.
-  proposal: /assets/pdf/Fellow-Jayjeet-Chakraborty-Proposal-2.pdf
+  proposal: /assets/pdf/fellows-2021/Fellow-Jayjeet-Chakraborty-Proposal-2.pdf
   mentors:
   - Carlos Maltzahn (UC Santa Cruz)
   - Ivo Jimenez  (UC Santa Cruz)

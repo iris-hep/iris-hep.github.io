@@ -30,7 +30,7 @@ projects:
     look inside a ROOT file, completely via the terminal.
   mentors:
   - Henry Schreiner (Princeton University)
-  proposal: /assets/pdf/Fellow-Aman-Goel-Proposal-2.pdf
+  proposal: /assets/pdf/fellows-2022/Fellow-Aman-Goel-Proposal-2.pdf
 
 - project_title: Advancing the Hist library
   project_goal: >
@@ -43,7 +43,7 @@ projects:
     of the library.
   mentors:
   - Henry Schreiner - (Princeton University)
-  proposal: /assets/pdf/Fellow-Aman-Goel-Proposal.pdf
+  proposal: /assets/pdf/fellows-2021/Fellow-Aman-Goel-Proposal.pdf
 
 presentations:
 - title: "Hist Serialization and Interactivity"

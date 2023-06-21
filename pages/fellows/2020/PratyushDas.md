@@ -32,7 +32,7 @@ projects:
     prompt.
   mentors:
   - jpivarski
-  proposal: /assets/pdf/Fellow-Pratyush-Das-Proposal2.pdf
+  proposal: /assets/pdf/fellows-2020/Fellow-Pratyush-Das-Proposal2.pdf
 
 - project_title: Adding ability to write TTrees to uproot
   project_goal: >
@@ -46,7 +46,7 @@ projects:
     arrays.
   mentors:
   - jpivarski
-  proposal: /assets/pdf/Fellow-Pratyush-Das-Proposal.pdf
+  proposal: /assets/pdf/fellows-2019/Fellow-Pratyush-Das-Proposal.pdf
 
 presentations:
 - title: Writing TTrees with uproot
