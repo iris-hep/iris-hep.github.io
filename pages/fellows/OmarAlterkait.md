@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2021-01-04
   end: 2021-06-04
-photo: /assets/images/team/Omar-Alterkait.jpg
+photo: /assets/images/team/fellows-2021/Omar-Alterkait.jpg
 institution: University of Colorado, Boulder
 website:
 e-mail: Omar.Alterkait@colorado.edu

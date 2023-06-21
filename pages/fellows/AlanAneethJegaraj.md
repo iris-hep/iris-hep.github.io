@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Alan-AneethJegaraj.jpeg
+photo: /assets/images/team/fellows-2020/Alan-AneethJegaraj.jpeg
 institution: University of Cincinnati
 website:
 e-mail: aneethaj@mail.uc.edu

@@ -8,7 +8,7 @@ title: Suhaib Shaikh - IRIS-HEP Fellow
 dates:
   start: 2020-07-01
   end: 2020-09-30
-photo: /assets/images/team/SuhaibShaikhPicture.jpg
+photo: /assets/images/team/fellows-2020/SuhaibShaikhPicture.jpg
 institution: University of Nebraska - Lincoln
 website:
 e-mail:

@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
-photo: /assets/images/team/Zijun-Wang.jpg
+photo: /assets/images/team/fellows-2022/Zijun-Wang.jpg
 institution: University of Illinois at Urbana-Champaign
 e-mail: zijun4@illinois.edu
 project_title: Exploring the FAIR principles for preservation of UFO models

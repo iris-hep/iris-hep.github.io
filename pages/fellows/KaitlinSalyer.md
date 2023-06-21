@@ -10,7 +10,7 @@ focus-area:
 dates:
   start: 2021-06-01
   end: 2021-12-31
-photo: /assets/images/team/Kaitlin-Salyer.jpg
+photo: /assets/images/team/fellows-2021/Kaitlin-Salyer.jpg
 institution: Boston University
 website:
 e-mail: ksalyer@bu.edu

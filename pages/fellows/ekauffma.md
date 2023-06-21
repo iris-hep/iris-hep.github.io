@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
-photo: /assets/images/team/Elliott-Kauffman.jpg
+photo: /assets/images/team/fellows-2022/Elliott-Kauffman.jpg
 institution: Duke University
 e-mail: elmaka8700@gmail.com
 project_title: Adapting PV-Finder to the CMS and ATLAS Experiments

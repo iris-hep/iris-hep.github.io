@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-11-21
   end: 2022-05-21
-photo: /assets/images/team/Parth-Arora.jpg
+photo: /assets/images/team/fellows-2021/Parth-Arora.jpg
 institution: University School of Information, Communication and Technology, GGSIPU,
   New Delhi, India
 e-mail: partharora99160808@gmail.com

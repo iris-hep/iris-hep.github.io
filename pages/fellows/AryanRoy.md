@@ -11,7 +11,7 @@ dates:
   end: 2021-08-30
 - start: 2022-05-25
   end: 2022-07-23
-photo: /assets/images/team/Aryan-Roy.jpg
+photo: /assets/images/team/fellows-2021/Aryan-Roy.jpg
 institution: Manipal Institute of Technology
 website:
 e-mail: aryanroy5678@gmail.com

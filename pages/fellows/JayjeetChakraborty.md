@@ -10,7 +10,7 @@ dates:
   end: 2020-09-30
 - start: 2021-01-10
   end: 2021-07-10
-photo: /assets/images/team/Jayjeet-Chakraborty.png
+photo: /assets/images/team/fellows-2020/Jayjeet-Chakraborty.png
 institution: National Institute Of Technology, Durgapur
 e-mail: jayjeetchakraborty25@gmail.com
 

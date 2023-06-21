@@ -8,7 +8,7 @@ active: False
 dates:
   start: 2022-06-06
   end: 2022-08-29
-photo: /assets/images/team/Ameya-Thete.jpg
+photo: /assets/images/team/fellows-2022/Ameya-Thete.jpg
 institution: BITS, Pilani - K.K. Birla Goa Campus
 e-mail: ameyathete11@gmail.com
 project_title: Equivariant Graph Neural Networks for Particle Tracking

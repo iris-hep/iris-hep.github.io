@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-01-04
   end: 2021-06-14
-photo: /assets/images/team/Ed-van_Bruggen.jpg
+photo: /assets/images/team/fellows-2021/Ed-van_Bruggen.jpg
 institution: University of Washington, Seattle
 website: https://edryd.org
 e-mail: edvb@uw.edu

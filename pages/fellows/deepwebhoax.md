@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-07-11
   end: 2022-09-17
-photo: /assets/images/team/Bohdan-Tyshchenko.jpg
+photo: /assets/images/team/fellows-2022/Bohdan-Tyshchenko.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: jityshchenko@gmail.com
 project_title: A rigorous benchmarking of methods for SARS-CoV-2 lineage detection in wastewater.

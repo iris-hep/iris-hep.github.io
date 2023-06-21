@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2020-07-01
   end: 2020-09-30
-photo: /assets/images/team/Tomohiro-Yamazaki.jpeg
+photo: /assets/images/team/fellows-2020/Tomohiro-Yamazaki.jpeg
 institution: University of California, Berkeley
 website:
 e-mail: tomohiro.yamazaki@cern.ch

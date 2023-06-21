@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-27
   end: 2022-09-18
-photo: /assets/images/team/Andrii-Len.jpg
+photo: /assets/images/team/fellows-2022/Andrii-Len.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: andrlen2002@gmail.com
 project_title: The usage of Deep Learning for QCD background estimation

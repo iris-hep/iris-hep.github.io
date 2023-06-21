@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-14
   end: 2022-08-07
-photo: /assets/images/team/Manasvi-Goyal.jpg
+photo: /assets/images/team/fellows-2022/Manasvi-Goyal.jpg
 institution: Delhi Technological University
 e-mail: mg.manasvi@gmail.com
 focus-area: as

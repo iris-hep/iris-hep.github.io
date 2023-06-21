@@ -10,7 +10,7 @@ focus-area: as
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Bo-Zheng.jpg
+photo: /assets/images/team/fellows-2020/Bo-Zheng.jpg
 institution: Rice University
 e-mail: bz30@rice.edu
 mentors:

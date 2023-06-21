@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-01
   end: 2022-08-10
-photo: /assets/images/team/Scott-Demarest.jpg
+photo: /assets/images/team/fellows-2022/Scott-Demarest.jpg
 institution: Florida Institute of Technology
 e-mail: sdemarest2019@my.fit.edu
 project_title: Enable Dask interopability with xrootd-accessible storage systems

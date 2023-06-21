@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/AjayRawat.jpg
+photo: /assets/images/team/fellows-2021/AjayRawat.jpg
 institution: University of Washington
 website:
 e-mail: ajay712@cs.washington.edu

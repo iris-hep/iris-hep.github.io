@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-11
   end: 2022-09-11
-photo: /assets/images/team/Tetiana-Yushkevych.jpg
+photo: /assets/images/team/fellows-2022/Tetiana-Yushkevych.jpg
 institution: Odessa Polytechnic National University
 e-mail: zebra2368@gmail.com
 project_title: Tools for understanding semi-inclusive deep-inelastic scattering measurements

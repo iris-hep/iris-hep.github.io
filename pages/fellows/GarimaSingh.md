@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2021-01-11
   end: 2021-05-30
-photo: /assets/images/team/garima-singh.jpg
+photo: /assets/images/team/fellows-2021/garima-singh.jpg
 institution: Manipal Institute of Technology
 website:
 e-mail: garimasingh0028@gmail.com

@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-24
   end: 2021-08-27
-photo: /assets/images/team/Varun-Sreenivasan.jpg
+photo: /assets/images/team/fellows-2021/Varun-Sreenivasan.jpg
 institution: University of Wisconsin-Madison
 e-mail: vsreenivasan@wisc.edu
 project_title: Graph Methods for Particle Tracking

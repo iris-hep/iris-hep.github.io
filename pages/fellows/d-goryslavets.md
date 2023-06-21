@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-05
   end: 2022-09-12
-photo: /assets/images/team/Dmytro-Horyslavets.jpg
+photo: /assets/images/team/fellows-2022/Dmytro-Horyslavets.jpg
 institution: Kyiv Academic University
 e-mail: nepotlet@gmail.com
 project_title: Sequence-read extraction from counting de Bruijn graphs

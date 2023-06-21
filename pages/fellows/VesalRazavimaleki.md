@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2020-07-01
   end: 2020-09-30
-photo: /assets/images/team/Vesal-Razavimaleki.png
+photo: /assets/images/team/fellows-2020/Vesal-Razavimaleki.png
 institution: University of California, San Diego
 website:
 e-mail: vrazavim@ucsd.edu

@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-05-16
   end: 2022-08-19
-photo: /assets/images/team/Peter-Ridolfi.jpg
+photo: /assets/images/team/fellows-2022/Peter-Ridolfi.jpg
 institution: University of Pittsburgh
 e-mail: pbr11@pitt.edu
 project_title: Designing and implementing a converting tool for statistical models between pyhf and CMS combine

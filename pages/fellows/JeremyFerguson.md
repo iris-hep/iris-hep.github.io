@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2021-01-04
   end: 2021-06-19
-photo: /assets/images/team/Jeremy-Ferguson.jpg
+photo: /assets/images/team/fellows-2021/Jeremy-Ferguson.jpg
 institution: University of California-Berkeley
 e-mail: jmfergie@berkeley.edu
 mentors:

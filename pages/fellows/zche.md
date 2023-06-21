@@ -10,7 +10,7 @@ focus-area: doma
 dates:
   start: 2021-01-01
   end: 2021-05-31
-photo: /assets/images/team/Zora-Che.png
+photo: /assets/images/team/fellows-2021/Zora-Che.png
 institution: Boston University
 website:
 e-mail: zche@bu.edu

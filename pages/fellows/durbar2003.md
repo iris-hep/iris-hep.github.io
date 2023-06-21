@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-06
   end: 2022-09-05
-photo: /assets/images/team/Durbar-Chakraborty.jpeg
+photo: /assets/images/team/fellows-2022/Durbar-Chakraborty.jpeg
 institution: National Institute of Technology, Durgapur
 e-mail: durbardibyo@gmail.com
 project_title: Metrics to define user activities and engagement on the various coffea-casa Analysis Facility deployments

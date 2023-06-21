@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-14
   end: 2021-09-03
-photo: /assets/images/team/jason-hipkins.jpg
+photo: /assets/images/team/fellows-2021/jason-hipkins.jpg
 institution: University of Maryland - College Park
 e-mail: hipkinsj@terpmail.umd.edu
 project_title: "Advancing an\_active learning algorithm for more efficient generation\

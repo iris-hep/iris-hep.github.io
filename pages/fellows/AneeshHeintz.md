@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2020-06-01
   end: 2020-09-30
-photo: /assets/images/team/Aneesh-Heintz.png
+photo: /assets/images/team/fellows-2020/Aneesh-Heintz.png
 institution: Cornell University
 website:
 e-mail: ah2263@cornell.edu

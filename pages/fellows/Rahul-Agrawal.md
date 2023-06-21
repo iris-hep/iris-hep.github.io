@@ -11,7 +11,7 @@ focus-area: doma
 dates:
   start: 2021-06-14
   end: 2021-09-12
-photo: /assets/images/team/Rahul-Agrawal.png
+photo: /assets/images/team/fellows-2021/Rahul-Agrawal.png
 institution: Indian Institute of Technology, Kharagpur (IIT KGP)
 website:
 e-mail: rahulagrawal799110@gmail.com

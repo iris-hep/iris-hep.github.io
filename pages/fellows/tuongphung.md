@@ -9,7 +9,7 @@ hidden: true
 dates:
   start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/Tuong-Phung.jpg
+photo: /assets/images/team/fellows-2021/Tuong-Phung.jpg
 institution: Massachusetts Institute of Technology
 e-mail: tphung@mit.edu
 project_title: Scaling the Coffea-Casa Analysis Facility

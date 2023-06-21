@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-24
   end: 2021-08-21
-photo: /assets/images/team/Nicholas-Decheine.jpg
+photo: /assets/images/team/fellows-2021/Nicholas-Decheine.jpg
 institution: University of Wisconsin - Madison
 e-mail: decheine@hep.wisc.edu
 project_title: "Implementing ServiceX Data as a Source for ROOT\u2019s RDataFrame"

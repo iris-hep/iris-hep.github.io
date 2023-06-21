@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-20
   end: 2022-09-21
-photo: /assets/images/team/Haoran-Sun.jpg
+photo: /assets/images/team/fellows-2022/Haoran-Sun.jpg
 institution: University of Washington
 e-mail: hsun3@uw.edu
 project_title: Enabling support for MiniAOD Transformer for ServiceX Data Delivery Service

@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-21
   end: 2021-09-10
-photo: /assets/images/team/Sukanya-Krishna.jpg
+photo: /assets/images/team/fellows-2021/Sukanya-Krishna.jpg
 institution: University of California, San Diego
 website:
 e-mail: sskrishn@ucsd.edu

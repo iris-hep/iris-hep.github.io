@@ -7,7 +7,7 @@ active: false
 dates:
   start: 2021-06-01
   end: 2021-08-23
-photo: /assets/images/team/Kyle-Feist.jpg
+photo: /assets/images/team/fellows-2021/Kyle-Feist.jpg
 institution: University of Kentucky
 e-mail: kfle230@uky.edu
 project_title: Muon Collider Tracking Software

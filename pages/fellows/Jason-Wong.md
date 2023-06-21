@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-19
   end: 2021-08-24
-photo: /assets/images/team/Jason-Wong.jpg
+photo: /assets/images/team/fellows-2021/Jason-Wong.jpg
 institution: University of California, Berkeley
 e-mail: jtwong71@berkeley.edu
 project_title: Developing Lorentz Equivariant Graph Neural Networks for Top Quark

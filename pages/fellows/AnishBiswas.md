@@ -10,7 +10,7 @@ focus-area: as
 dates:
   start: 2021-01-09
   end: 2021-04-03
-photo: /assets/images/team/Anish-Biswas.jpg
+photo: /assets/images/team/fellows-2021/Anish-Biswas.jpg
 institution: Manipal Institute of Technology
 website:
 e-mail: anishbiswas271@gmail.com

@@ -10,7 +10,7 @@ focus-area:
 dates:
   start: 2021-01-11
   end: 2021-07-11
-photo: /assets/images/team/Max-Orok.png
+photo: /assets/images/team/fellows-2021/Max-Orok.png
 institution: University of Ottawa
 e-mail: morok028@uottawa.ca
 mentors:

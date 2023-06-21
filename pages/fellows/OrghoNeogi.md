@@ -10,7 +10,7 @@ focus-area: ia
 dates:
   start: 2021-02-15
   end: 2021-08-14
-photo: /assets/images/team/Orgho-Neogi.jpg
+photo: /assets/images/team/fellows-2021/Orgho-Neogi.jpg
 institution: University of Iowa
 e-mail: anoronyo@gmail.com
 mentors:

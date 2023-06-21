@@ -8,7 +8,7 @@ fellow-name: Shravan Chaudhari
 dates:
   start: 2021-05-10
   end: 2021-08-10
-photo: /assets/images/team/Shravan-Chaudhari.jpg
+photo: /assets/images/team/fellows-2021/Shravan-Chaudhari.jpg
 institution: Birla Institute of Technology and Science Pilani
 e-mail: f20170736@goa.bits-pilani.ac.in
 project_title: Accelerating End-to-End Deep Learning Reconstruction using Graph Neural

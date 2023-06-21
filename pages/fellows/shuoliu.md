@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-20
   end: 2021-08-20
-photo: /assets/images/team/shuoliu.png
+photo: /assets/images/team/fellows-2021/shuoliu.png
 institution: Columbia University in the City of New York
 website:
 e-mail: sl4921@columbia.edu

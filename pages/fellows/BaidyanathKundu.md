@@ -10,7 +10,7 @@ focus-area:
 dates:
   start: 2021-02-01
   end: 2021-04-30
-photo: /assets/images/team/Baidyanath-Kundu.png
+photo: /assets/images/team/fellows-2021/Baidyanath-Kundu.png
 institution: Manipal Institute of Technology
 website:
 e-mail: kundubaidya99@gmail.com

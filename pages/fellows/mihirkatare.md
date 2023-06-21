@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-31
   end: 2021-08-20
-photo: /assets/images/team/mihir-katare.jpg
+photo: /assets/images/team/fellows-2021/mihir-katare.jpg
 institution: University of Illinois, Urbana-Champaign
 e-mail: mihirkatare@gmail.com
 project_title: Deep Learning Implementations for Sustainable Matrix Element Method

@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-06-20
   end: 2022-09-12
-photo: /assets/images/team/Anni-Li.jpg
+photo: /assets/images/team/fellows-2022/Anni-Li.jpg
 institution: University of California, San Diego
 e-mail: a5li@ucsd.edu
 project_title: Conditional Generation of High-Energy Particle Collisions with Graph Networks

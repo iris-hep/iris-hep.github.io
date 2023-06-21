@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-05-23
   end: 2022-07-25
-photo: /assets/images/team/Maya-Wallach.jpeg
+photo: /assets/images/team/fellows-2022/Maya-Wallach.jpeg
 institution: Michigan State University
 e-mail: wallachm@msu.edu
 project_title: Machine Learning Methods for Event Classification in The Active-Target Time Projection Chamber

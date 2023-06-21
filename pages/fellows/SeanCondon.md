@@ -11,7 +11,7 @@ focus-area: ia
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Sean-Condon.jpg
+photo: /assets/images/team/fellows-2020/Sean-Condon.jpg
 institution: Massachusetts Institute of Technology
 e-mail: scondon@mit.edu
 mentors:

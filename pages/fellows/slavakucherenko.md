@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-06-27
   end: 2022-08-26
-photo: /assets/images/team/Viacheslav-Kucherenko.jpg
+photo: /assets/images/team/fellows-2022/Viacheslav-Kucherenko.jpg
 institution: Kyiv Academic University (KAU)
 e-mail: kucherenko.slavaslava@gmail.com
 project_title: Machine Learning Based Tracking and Trigger

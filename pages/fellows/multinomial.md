@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-04
   end: 2022-10-03
-photo: /assets/images/team/Oleksii-Kiva.jpg
+photo: /assets/images/team/fellows-2022/Oleksii-Kiva.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: kiva.oleksii@gmail.com
 project_title: Developing an automatic pruning utility for statistical models in HistFactory format

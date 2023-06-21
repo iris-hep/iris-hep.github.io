@@ -11,7 +11,7 @@ focus-area: ia
 dates:
   start: 2021-01-11
   end: 2021-05-28
-photo: /assets/images/team/Emily-Tsai.jpg
+photo: /assets/images/team/fellows-2021/Emily-Tsai.jpg
 institution: University of Texas at Austin
 e-mail: emily.tsai11@gmail.com
 mentors:

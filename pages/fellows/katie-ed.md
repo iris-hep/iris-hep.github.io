@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-16
   end: 2022-08-05
-photo: /assets/images/team/Katie-Edwards.jpg
+photo: /assets/images/team/fellows-2022/Katie-Edwards.jpg
 institution: Iowa State University
 e-mail: katie@reddan.net
 project_title: Geometric Machine Learning with DUNE

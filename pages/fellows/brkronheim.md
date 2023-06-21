@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-31
   end: 2021-08-20
-photo: /assets/images/team/Braden-Kronheim.jpg
+photo: /assets/images/team/fellows-2021/Braden-Kronheim.jpg
 institution: Davidson College
 e-mail: brkronheim@davidson.edu
 project_title: CMS Jet Reconstruction with Quantile Neural Networks

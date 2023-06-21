@@ -8,7 +8,7 @@ title: Raghav Kansal - IRIS-HEP Fellow
 dates:
   start: 2019-06-01
   end: 2019-08-31
-photo: /assets/images/team/Raghav-Kansal.jpg
+photo: /assets/images/team/fellows-2019/Raghav-Kansal.jpg
 institution: University of California, San Diego
 e-mail: NoEmailYet
 focus-area: ia

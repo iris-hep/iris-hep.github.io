@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-06
   end: 2022-08-12
-photo: /assets/images/team/Jake-Li.jpg
+photo: /assets/images/team/fellows-2022/Jake-Li.jpg
 institution: University of Illinois at Urbana-Champaign
 e-mail: jli301@illinois.edu
 project_title: ServiceX Dashboard

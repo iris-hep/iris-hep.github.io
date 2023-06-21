@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-11
   end: 2022-09-30
-photo: /assets/images/team/Borys-Olifirov.jpg
+photo: /assets/images/team/fellows-2022/Borys-Olifirov.jpg
 institution: Bogomoletz Institute of Physiology of NAS of Ukraine
 e-mail: omnia.fatum@gmail.com
 project_title: Investigation of stimulus-specific expression of multiple ITFs in different hippocampal cell types by smFISH data automatic analysis pipeline

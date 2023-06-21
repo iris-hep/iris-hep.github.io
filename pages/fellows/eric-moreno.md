@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/Eric-Moreno.jpg
+photo: /assets/images/team/fellows-2021/Eric-Moreno.jpg
 institution: MIT
 e-mail: emoreno@mit.edu
 project_title: Anomaly Detection with Spiking Neural Networks

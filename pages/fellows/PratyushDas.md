@@ -10,7 +10,7 @@ dates:
   end: 2020-09-01
 - start: 2019-06-01
   end: 2019-09-01
-photo: /assets/images/team/Pratyush-Das.jpg
+photo: /assets/images/team/fellows-2020/Pratyush-Das.jpg
 institution: Institute of Engineering & Management (Kolkata)
 website: https://reikdas.github.io/
 e-mail: reikdas@gmail.com

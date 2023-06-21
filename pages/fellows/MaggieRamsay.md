@@ -12,7 +12,7 @@ focus-area: doma
 dates:
   start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/maggie-ramsay.png
+photo: /assets/images/team/fellows-2021/maggie-ramsay.png
 institution: University of Nebraska Lincoln
 e-mail: mramsay4@huskers.unl.edu
 mentors:

@@ -10,7 +10,7 @@ focus-area: doma
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Erik-Wallin.jpg
+photo: /assets/images/team/fellows-2020/Erik-Wallin.jpg
 institution: Lund University
 website:
 e-mail: er5872wa-s@student.lu.se

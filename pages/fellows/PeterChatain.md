@@ -8,7 +8,7 @@ title: Peter Chatain - IRIS-HEP Fellow
 dates:
   start: 2020-06-01
   end: 2020-09-30
-photo: /assets/images/team/Peter-Chatain.jpeg
+photo: /assets/images/team/fellows-2020/Peter-Chatain.jpeg
 institution: Stanford University
 e-mail: pchatain@stanford.edu
 project_title: Example Track Seeding Algorithm for ACTS

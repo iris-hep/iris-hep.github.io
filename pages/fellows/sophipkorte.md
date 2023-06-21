@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-23
   end: 2022-09-15
-photo: /assets/images/team/Sophia-Korte.jpg
+photo: /assets/images/team/fellows-2022/Sophia-Korte.jpg
 institution: Florida State University
 e-mail: sophiapkorte@gmail.com
 project_title: Geometric Machine Learning for Particle Tracking

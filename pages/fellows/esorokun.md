@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-08-01
   end: 2022-10-23
-photo: /assets/images/team/Ernest-Sorokun.jpg
+photo: /assets/images/team/fellows-2022/Ernest-Sorokun.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: sorokun.ernest@gmail.com
 project_title: Data Reduction for the ProtoDUNE Detector Control System

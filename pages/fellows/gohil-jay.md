@@ -17,7 +17,7 @@ dates:
   start: 2022-06-01
   end: 2022-09-30
 
-photo: /assets/images/team/Jay-Gohil.png
+photo: /assets/images/team/fellows-2022/Jay-Gohil.png
 
 institution: School of Technology PDEU
 

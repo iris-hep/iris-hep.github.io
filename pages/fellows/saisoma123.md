@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-23
   end: 2022-08-12
-photo: /assets/images/team/Surya-Somayyajula.jpg
+photo: /assets/images/team/fellows-2022/Surya-Somayyajula.jpg
 institution: University of Wisconsin-Madison
 e-mail: somayyajula@wisc.edu
 project_title: Improve Cling’s packaging system, Cling Packaging Tool

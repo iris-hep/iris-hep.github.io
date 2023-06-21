@@ -11,7 +11,7 @@ focus-area:
 dates:
   start: 2020-05-01
   end: 2020-09-30
-photo: /assets/images/team/David-Liu.jpg
+photo: /assets/images/team/fellows-2020/David-Liu.jpg
 institution: University of Washington
 website:
 e-mail: dwliu@uw.edu

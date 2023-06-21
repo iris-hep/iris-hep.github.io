@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/Santam-Roy-Choudhury.jpg
+photo: /assets/images/team/fellows-2021/Santam-Roy-Choudhury.jpg
 institution: National Institute of Technology, Durgapur
 e-mail: santamdev404@gmail.com
 project_title: Automating Awkward Array Testing

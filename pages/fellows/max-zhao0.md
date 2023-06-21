@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-30
   end: 2022-08-12
-photo: /assets/images/team/Max-Zhao.jpg
+photo: /assets/images/team/fellows-2022/Max-Zhao.jpg
 institution: University of California, Berkeley
 e-mail: max_zhao@berkeley.edu
 project_title: Efficient implementation of algorithms to reconstruct charged particles trajectories

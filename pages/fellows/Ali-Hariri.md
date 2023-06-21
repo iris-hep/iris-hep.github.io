@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-10
   end: 2021-08-10
-photo: /assets/images/team/Ali_Hariri.jpg
+photo: /assets/images/team/fellows-2021/Ali_Hariri.jpg
 institution: University of Alabama
 e-mail: hariri.ali961@gmail.com
 project_title: Graph Generative Models For Fast Detector Simulations in Particle Physics

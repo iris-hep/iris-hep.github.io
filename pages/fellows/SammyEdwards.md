@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-24
   end: 2021-08-13
-photo: /assets/images/team/Sammy-Edwards.jpg
+photo: /assets/images/team/fellows-2021/Sammy-Edwards.jpg
 institution: University of Wisconsin - Platteville
 e-mail: sam@reddan.net
 project_title: Analyzing Neutrino Interactions

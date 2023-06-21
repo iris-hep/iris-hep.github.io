@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-18
   end: 2022-10-09
-photo: /assets/images/team/Shabanov-Volodymyr.jpg
+photo: /assets/images/team/fellows-2022/Shabanov-Volodymyr.jpg
 institution: V. N. Karazin Kharkiv National University.
 e-mail: shabanov.vova24@gmail.com
 project_title: Role of Myocardin-Related Transcription Factors in the Smooth Muscle Cell gene program

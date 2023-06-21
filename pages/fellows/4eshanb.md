@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-06-14
   end: 2021-09-10
-photo: /assets/images/team/Eshan-Bhargava.jpg
+photo: /assets/images/team/fellows-2021/Eshan-Bhargava.jpg
 institution: University of Southern California
 e-mail: 4eshanb@gmail.com
 project_title: SkyhookDM - Ability to push back query execution to Client in case

@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-24
   end: 2021-08-20
-photo: /assets/images/team/Nupur-Oza.jpg
+photo: /assets/images/team/fellows-2021/Nupur-Oza.jpg
 institution: University of Pennsylvania
 e-mail: nupoza@sas.upenn.edu
 project_title: Implementation of ML algorithms for ambiguity resolution in ACTS track

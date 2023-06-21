@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-05-23
   end: 2022-08-12
-photo: /assets/images/team/Natalie-Bruhwiler.png
+photo: /assets/images/team/fellows-2022/Natalie-Bruhwiler.png
 institution: University of California, Berkeley
 e-mail: nataliebruhwiler@berkeley.edu
 project_title: Muon Collider Tracking Software

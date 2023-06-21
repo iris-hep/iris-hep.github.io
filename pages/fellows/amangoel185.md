@@ -11,7 +11,7 @@ dates:
   end: 2022-08-15
 - start: 2021-06-01
   end: 2021-08-31
-photo: /assets/images/team/Aman-Goel.png
+photo: /assets/images/team/fellows-2022/Aman-Goel.png
 institution: Cluster Innovation Centre, University of Delhi
 e-mail: aman.goel185@gmail.com
 focus-area: as

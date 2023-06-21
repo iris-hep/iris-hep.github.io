@@ -11,7 +11,7 @@ focus-area: ia
 dates:
   start: 2021-01-01
   end: 2021-06-30
-photo: /assets/images/team/Caitlin-Patterson.jpg
+photo: /assets/images/team/fellows-2021/Caitlin-Patterson.jpg
 institution: The Ohio State University
 e-mail: patterson383@gmail.com
 mentors:

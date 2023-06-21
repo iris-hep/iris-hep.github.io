@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-06-27
   end: 2022-09-02
-photo: /assets/images/team/Andrii-Koval.jpg
+photo: /assets/images/team/fellows-2022/Andrii-Koval.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: andrii.koval.nm@gmail.com
 project_title: Improvement of GNN-based algorithm for full-event filtering and interpretation at the LHCb trigger

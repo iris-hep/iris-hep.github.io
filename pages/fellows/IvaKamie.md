@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-06
   end: 2022-09-14
-photo: /assets/images/team/Ivan-Prinko.jpg
+photo: /assets/images/team/fellows-2022/Ivan-Prinko.jpg
 institution: Kyiv Academic University
 e-mail: ivan.prinko@protonmail.com
 project_title: Developing a Jupiter Notebook for converting confocal microscopic images to 3D cell images and metrics calculation.

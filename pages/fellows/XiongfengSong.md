@@ -11,7 +11,7 @@ focus-area: doma
 dates:
   start: 2020-06-01
   end: 2020-08-31
-photo: /assets/images/team/Xiongfeng_Song.JPG
+photo: /assets/images/team/fellows-2020/Xiongfeng_Song.JPG
 institution: Rice University
 e-mail: xs16@rice.edu
 mentors:

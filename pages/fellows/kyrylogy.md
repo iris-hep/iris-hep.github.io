@@ -9,7 +9,7 @@ active: False
 dates:
   start: 2022-07-01
   end: 2022-09-23
-photo: /assets/images/team/Kyrylo-Meliushko.png
+photo: /assets/images/team/fellows-2022/Kyrylo-Meliushko.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: meliushkokyrylo@gmail.com
 project_title: Implementation of CI/CD Automation and Orchestration in CMS Monitoring Kubernetes Clusters

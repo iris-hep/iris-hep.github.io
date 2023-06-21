@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-05
   end: 2023-08-25
-photo: /assets/images/team/Layan_AlSarayra.jpg
+photo: /assets/images/team/fellows-2023/Layan_AlSarayra.jpg
 institution: Stanford visiting scholar
 e-mail: layan@stanford.edu
 focus-area: ia
