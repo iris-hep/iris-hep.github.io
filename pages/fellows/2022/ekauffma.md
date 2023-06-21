@@ -20,7 +20,7 @@ mentors:
   - Mike Sokoloff (University of Cincinnati)
   - Rocky Bala Garg (Standord University)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/006-proposal-Elliott-Kauffman.pdf
+proposal: /assets/pdf/fellows-2022/006-proposal-Elliott-Kauffman.pdf
 presentations:
 - title: "PV-Finder for ATLAS: Exploring a deep learning approach for Primary Vertex Identification"
   date: 2022-10-19

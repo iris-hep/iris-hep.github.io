@@ -22,7 +22,7 @@ project_goal: >
   functional role of the affected genes.
 mentors:
   - Dmytro Kryvokhyzha (Lund University Diabetes Center)
-proposal: /assets/pdf/fellows-2022/fellows-2022/230-proposal-Volodymir-Shabanov.pdf
+proposal: /assets/pdf/fellows-2022/230-proposal-Volodymir-Shabanov.pdf
 presentations:
 - title: Role of Myocardin-Related Transcription Factors in the Smooth Muscle Cell gene program
   date: 2022-10-19

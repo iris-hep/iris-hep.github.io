@@ -21,7 +21,7 @@ mentors:
   - Kyle Cranmer (University of Wisconsin - Madison)
   - Alexander Held (University of Wisconsin - Madison)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/025-proposal-Zhe-Wang.pdf
+proposal: /assets/pdf/fellows-2022/025-proposal-Zhe-Wang.pdf
 presentations:
 - title: Implement improved morphing strategy into MadMiner
   date: 2022-09-21

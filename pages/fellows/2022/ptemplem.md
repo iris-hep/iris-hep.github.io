@@ -20,7 +20,7 @@ mentors:
   - Matthew Feickert (University of Illinois at Urbana-Champaign)
   - Abe Megahed (University of Wisconsin–Madison)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/042-proposal-Philip-Templeman.pdf
+proposal: /assets/pdf/fellows-2022/042-proposal-Philip-Templeman.pdf
 presentations:
   - title: "Prototyping a REANA workflow for MINERvA"
     date: 2022-06-13

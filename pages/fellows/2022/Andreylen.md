@@ -18,7 +18,7 @@ project_goal: >
 mentors:
   - Ece Asilar (CERN)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/211-proposal-Andrii-Len.pdf
+proposal: /assets/pdf/fellows-2022/211-proposal-Andrii-Len.pdf
 presentations:
 - title: The usage of Deep Learning for QCD background estimation
   date: 2022-10-19

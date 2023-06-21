@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Lauren Tompkins (Stanford University)
   - Rocky Bala Garg (Stanford University)
-proposal: /assets/pdf/fellows-2023/fellows-2023/E005-proposal-Layan-AlSarayra.pdf
+proposal: /assets/pdf/fellows-2023/E005-proposal-Layan-AlSarayra.pdf
 presentations:
 current_status:
 github-username: Layan-Sarayra

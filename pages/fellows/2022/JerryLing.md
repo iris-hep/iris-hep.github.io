@@ -30,7 +30,7 @@ project_goal: >
 mentors:
   - Jim Pivarski - (Princeton)
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/xyz-proposal-Jerry-Ling.pdf
+proposal: /assets/pdf/fellows-2022/xyz-proposal-Jerry-Ling.pdf
 presentations:
   - title: "<Presentation Title"
     date: "Presentation Date"

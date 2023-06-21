@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Kilian Lieret (Princeton University)
   - Tibor Simko (CERN)
-proposal: /assets/pdf/fellows-2023/fellows-2023/proposal-gabriel-soto.pdf
+proposal: /assets/pdf/fellows-2023/proposal-gabriel-soto.pdf
 presentation:
 current_status:
 github-username: GabeSoto

@@ -25,7 +25,7 @@ project_goal: >
     remaining material of the Analysis Preservation Training.
 mentors:
   - Kilian Lieret (Princeton University)
-proposal: /assets/pdf/fellows-2023/fellows-2023/proposal-yarelis-acevedo.pdf
+proposal: /assets/pdf/fellows-2023/proposal-yarelis-acevedo.pdf
 presentations: []
 current_status:
 github-username: YarelisAcevedo

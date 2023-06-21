@@ -17,7 +17,7 @@ project_goal: >
     The goal of the project is to create a Python module for analyzing of RNA smFISH images with automatic mRNA spots counting simultaneously for many target genes and simultaneous integration with the segmentation of individual anatomical regions of the hippocampus, cell counting, and cell typing by expression of specific markers.
 mentors:
   - Stefano Brigidi (University of Utah)
-proposal: /assets/pdf/fellows-2022/fellows-2022/233-proposal-Borys-Olifirov-v2.pdf
+proposal: /assets/pdf/fellows-2022/233-proposal-Borys-Olifirov-v2.pdf
 presentations:
 current_status: >
 github-username: wisstock

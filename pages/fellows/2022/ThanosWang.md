@@ -20,7 +20,7 @@ mentors:
   - Avik Roy (University of Illinois at Urbana-Champaign)
   - matthewfeickert
 
-proposal: /assets/pdf/fellows-2022/fellows-2022/074-proposal-Zijun-Wang.pdf
+proposal: /assets/pdf/fellows-2022/074-proposal-Zijun-Wang.pdf
 presentations:
 - title: FAIR principles guided end-to-end cyberinfrastructure for preservation of UFO models
   date: 2022-09-14
