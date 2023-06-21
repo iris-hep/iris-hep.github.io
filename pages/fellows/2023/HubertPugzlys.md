@@ -18,7 +18,11 @@ project_goal: >
     The project aim is to integrate and test the GNN model to the LST algorithm to augment its capability to produce high quality track candidates at a shorter time while keeping the same or better tracking performance.
 mentors:
   - Philip Chang (University of Florida)
+<<<<<<< HEAD
 proposal: /assets/pdf//IRIS016-proposal-Povilas-Hubert-Pugzlys.pdf
+=======
+proposal: /assets/pdf/fellows-2023/fellows-2023/IRIS016-proposal-Povilas-Hubert-Pugzlys.pdf
+>>>>>>> master
 current_status:
 github-username: HubertPugzlys
 linkedin-profile: https://www.linkedin.com/in/hubert-pugzlys-240150257/

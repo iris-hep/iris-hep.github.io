@@ -18,7 +18,11 @@ project_goal: >
 mentors:
   - Jonas Eschle (University of Zurich)
 
+<<<<<<< HEAD
 proposal: /assets/pdf//203-proposal-Andrii-Koval.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/203-proposal-Andrii-Koval.pdf
+>>>>>>> master
 presentations:
 - title: Improvement of GNN-based algorithm for full-event filtering and interpretation at the LHCb trigger
   date: 2022-09-26

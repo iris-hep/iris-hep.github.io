@@ -19,7 +19,11 @@ project_goal: >
 mentors:
   - Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
   - Brij Kishor Jashal (IFIC - University of Valencia/CSIC, Spain)
+<<<<<<< HEAD
 proposal: assets/pdf//U025-porposal-Valerii-Kholoimov.pdf
+=======
+proposal: assets/pdf/fellows-2023/fellows-2023/U025-porposal-Valerii-Kholoimov.pdf
+>>>>>>> master
 presentations:
 current_status:
 github-username: kholoimov

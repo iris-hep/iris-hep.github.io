@@ -22,7 +22,11 @@ mentors:
   - Mason Proffit (University of Washington)
   - Benjamin Galwesky (University of Illinois at Urbana-Champaign)
 
+<<<<<<< HEAD
 proposal: /assets/pdf//077-proposal-Jake-Li.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/077-proposal-Jake-Li.pdf
+>>>>>>> master
 presentations:
 - title:  ServiceX Dashboard
   date: 2022-09-26

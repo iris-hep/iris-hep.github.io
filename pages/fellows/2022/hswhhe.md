@@ -29,7 +29,11 @@ mentors:
   - Oksana Shadura (University of Nebraska - Lincoln)
   - Mason Proffitt (University of Washington)
   - Alexander Held (New York University)
+<<<<<<< HEAD
 proposal: /assets/pdf//071-proposal-Haoran-Sun.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/071-proposal-Haoran-Sun.pdf
+>>>>>>> master
 github-username: hswhhe
 presentations:
 - title: Support for MiniAOD Transformer for ServiceX

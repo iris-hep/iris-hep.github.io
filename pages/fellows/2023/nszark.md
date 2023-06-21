@@ -19,7 +19,11 @@ project_goal: >
 mentors:
   - Michele Atzeni (Massachusetts Institute of Technology, USA)
   - Dr. Eluned Anne Smith (Massachusetts Institute of Technology, USA)
+<<<<<<< HEAD
 proposal: /assets/pdf//proposal-Nazar-Semkiv.pdf
+=======
+proposal: /assets/pdf/fellows-2023/fellows-2023/proposal-Nazar-Semkiv.pdf
+>>>>>>> master
 presentations:
   - title: "<Presentation Title"
     date: "Presentation Date"

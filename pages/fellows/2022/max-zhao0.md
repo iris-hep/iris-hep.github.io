@@ -18,7 +18,11 @@ project_goal: >
 mentors:
   - Johannes Wagner (UC Berkeley, LBNL)
   - Heather Gray (UC Berkeley, LBNL)
+<<<<<<< HEAD
 proposal: /assets/pdf//054-proposal-Max-Zhao.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/054-proposal-Max-Zhao.pdf
+>>>>>>> master
 github-username: max-zhao0
 presentations:
 - title: Efficient implementation of algorithms to reconstruct charged particles trajectories

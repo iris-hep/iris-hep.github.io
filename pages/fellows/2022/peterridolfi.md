@@ -22,7 +22,11 @@ mentors:
   - Matthew Feickert (University of Wisconsin-Madison)
   - Alexander Held (University of Wisconsin-Madison)
   - Kyle Cranmer (NYU / University of Wisconsin-Madison)
+<<<<<<< HEAD
 proposal: /assets/pdf//009-proposal-Peter-Ridolfi.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/009-proposal-Peter-Ridolfi.pdf
+>>>>>>> master
 presentations:
 - title: 'Pyhf to Combine Converter'
   date: 2022-06-15

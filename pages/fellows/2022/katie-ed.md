@@ -20,7 +20,11 @@ mentors:
   - Hongyang Gao (Iowa State University)
   - Jin Tian (Iowa State University)
 
+<<<<<<< HEAD
 proposal: /assets/pdf//018-proposal-Katie-Edwards.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/018-proposal-Katie-Edwards.pdf
+>>>>>>> master
 presentations:
   - title: Geometric Machine Learning with DUNE
     date: 2022-06-13

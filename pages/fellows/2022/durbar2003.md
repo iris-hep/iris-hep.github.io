@@ -18,7 +18,11 @@ project_goal: >
 mentors:
 - Oksana Shadura (University of Nebraska-Lincoln)
 - Alex Held (University of Wisconsin-Madison)
+<<<<<<< HEAD
 proposal: /assets/pdf//016-proposal-Durbar-Chakraborty.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/016-proposal-Durbar-Chakraborty.pdf
+>>>>>>> master
 presentations:
 - title: Metrics to define user engagement on the Coffea-Casa Analysis Facility Deployments
   date: 2022-09-14

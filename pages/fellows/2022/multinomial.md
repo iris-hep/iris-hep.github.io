@@ -27,7 +27,11 @@ project_goal: >
 mentors:
   - Alexander Held (University of Wisconsin-Madison)
 
+<<<<<<< HEAD
 proposal: /assets/pdf//210-proposal-Oleksii-Kiva.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/210-proposal-Oleksii-Kiva.pdf
+>>>>>>> master
 presentations:
 
 current_status: >

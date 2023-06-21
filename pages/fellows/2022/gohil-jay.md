@@ -34,7 +34,11 @@ mentors:
   - Henry Schreiner (Princeton University)
   - Hans Dembinski (TU Dortmund)
 
+<<<<<<< HEAD
 proposal: /assets/pdf//011-proposal-Jay-Gohil.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/011-proposal-Jay-Gohil.pdf
+>>>>>>> master
 
 presentations:
 - title: Features Extension, Inclusion & Rectification for Boost-Histogram

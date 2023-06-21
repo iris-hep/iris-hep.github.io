@@ -19,7 +19,11 @@ project_goal: >
 mentors:
   - Vassil Vassilev (Princeton University)
 
+<<<<<<< HEAD
 proposal: /assets/pdf//029-proposal-Surya-Somayyajula.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/029-proposal-Surya-Somayyajula.pdf
+>>>>>>> master
 presentations:
 - title:  Improve Cling’s packaging system, Cling Packaging Tool
   date: 2022-09-26

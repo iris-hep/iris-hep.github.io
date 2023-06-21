@@ -17,7 +17,11 @@ project_goal: >
     Work with the ALPhA team on a machine learning algorithm for event classification with the Active-Target Time Projection Chamber (AT-TPC) located at the Facility for Rare Isotope Beams (FRIB) in East Lansing, Michigan.
 mentors:
   - Dr. Michelle Kuchera (Davidson College)
+<<<<<<< HEAD
 proposal: /assets/pdf//002-proposal-Maya-Safiya-Wallach.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/002-proposal-Maya-Safiya-Wallach.pdf
+>>>>>>> master
 presentations:
 - title: Machine Learning Methods for Event Classification in The Active-Target Time Projection Chamber
   date: 2022-09-28

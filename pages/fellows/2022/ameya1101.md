@@ -24,7 +24,11 @@ project_goal: >
 mentors:
   - Savannah Thais (Princeton University)
   - Daniel Murnane (Lawrence Berkeley National Laboratory)
+<<<<<<< HEAD
 proposal: /assets/pdf//008-proposal-Ameya-Thete.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/008-proposal-Ameya-Thete.pdf
+>>>>>>> master
 presentations:
 current_status: >
   <strong> May 2022 </strong> - Undergraduate student of Physics and Computer Science at BITS, Pilani - K.K. Birla Goa Campus.

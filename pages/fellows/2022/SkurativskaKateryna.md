@@ -20,7 +20,11 @@ mentors:
   - Dr. Emanuele Angelo Bagnaschi (CERN)
   - Prof. Stefano Carrazza (University of Milano)
 
+<<<<<<< HEAD
 proposal: /assets/pdf//232-proposal-Kateryna-Skurativska.pdf
+=======
+proposal: /assets/pdf/fellows-2022/fellows-2022/232-proposal-Kateryna-Skurativska.pdf
+>>>>>>> master
 presentations:
 current_status: >
 github-username: SkurativskaKateryna
