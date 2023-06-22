@@ -7,7 +7,7 @@ fellow-name: Ernest Sorokun
 title: Ernest Sorokun - IRIS-HEP Fellow
 active: True
 dates:
-  - start: 2022-08-01
+  - start: 2022-08-01 
     end: 2022-10-23
   - start: 2023-06-12
     end: 2023-09-01
