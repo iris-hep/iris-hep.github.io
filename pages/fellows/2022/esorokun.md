@@ -7,10 +7,10 @@ fellow-name: Ernest Sorokun
 title: Ernest Sorokun - IRIS-HEP Fellow
 active: True
 dates:
-  start: 2022-08-01
-  end: 2022-10-23
-  start: 2023-06-12
-  end: 2023-09-01
+  - start: 2022-08-01
+    end: 2022-10-23
+  - start: 2023-06-12
+    end: 2023-09-01
 photo: /assets/images/team/fellows-2022/Ernest-Sorokun.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: sorokun.ernest@gmail.com
