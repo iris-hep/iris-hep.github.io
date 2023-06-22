@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-05
   end: 2023-08-08
-photo: /assets/images/team/Povilas-Pugzlys.jpg
+photo: /assets/images/team/fellows-2023/Povilas-Pugzlys.jpg
 institution: University of Florida
 e-mail: phubert.pugzlys@ufl.edu
 focus-area: ia
