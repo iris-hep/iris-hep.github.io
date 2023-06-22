@@ -8,7 +8,7 @@ active: false
 dates:
   start: 2021-05-14
   end: 2021-08-14
-photo: /assets/images/sofiagraziano.png
+photo: /assets/images/team/fellows-2021/sofiagraziano.png
 institution: University of Pennsylvania
 e-mail: sofiagra@sas.upenn.edu
 project_title: Developing Symmetric Graph Neural Networks for Charged Particle Tracking
