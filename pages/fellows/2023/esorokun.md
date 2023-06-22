@@ -22,7 +22,7 @@ projects:
   - Dr. Lino Gerlach (Brookhaven National Laboratory, USA)
   proposal: /assets/pdf/fellows-2022/234-proposal-Ernest-Sorokun.pdf
 
-projects: 
+projects:
 - project_title: Intelligent Caching for the HSF Conditions Database: Investigate patterns in conditions database accesses
   project_goal: >
     Conditions data (voltage, current, temperature, detector calibration, etc.) is an important part of all HEP experiments and is required to process event data. Access to conditions data is critical to producing the best physics results from HEP experiments. The challenges for conditions data access are many, notably the requirement to provide simultaneous read access to conditions data for distributed computing resources at kHz rates. One way to improve the performance of a Conditions Database is to use a cache, but the main problem is that it can only store a limited number of queries, so we need to make a smart choice of the records we want to store, namely those that are more likely to be queried many time. The goal is to identify patterns in database queries that will help develop an intelligent caching solution.
