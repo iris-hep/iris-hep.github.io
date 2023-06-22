@@ -1,0 +1,108 @@
+<!doctype html>
+
+{% include layout_header_navbar.html %}
+    <div id="container">
+      <div class="container page">
+        <main role="main">
+
+            <div>
+                <br>
+                <div class="container">
+                    <div class="row align-items-center no-gutters">
+                        <div class="col">
+                            <center>
+                    
+                            <img src="{{page.photo}}" width="150px">
+                            <br>
+                            <br>
+                            <b> Home Institution:</b> {{ page.institution }}
+                            <br>
+                            <br>
+                            </center>
+                        </div>
+                        <div class="col">
+                            <h1>{{ page.name }}</h1>
+                            {{ page.title }}
+                        </div>
+                    </div>
+                </div>
+
+                {% if page.my_research.size > 4 %}
+                <h3>My research:</h3>
+                {{ page.my_research }}
+                <br>
+                <br>
+                {% endif %}
+
+                {% if page.my_expertise.size > 4 %}
+                <h3>My expertise is:</h3>
+                {{ page.my_expertise }}
+                <br>
+                <br>
+                {% endif %}
+
+                {% if page.problem_i_am_grappling_with.size > 4 %}
+                <h3>A problem I&apos;m grappling with:</h3>
+                {{ page.problem_i_am_grappling_with }}
+                <br>
+                <br>
+                {% endif %}
+
+                {% if page.what_i_am_watching.size > 4 %}
+                <h3>I&apos;ve got my eyes on:</h3>
+                {{ page.what_i_am_watching }}
+                <br>
+                <br>
+                {% endif %}
+        
+                {% if page.i_want_to_know_more_about.size > 4 %}
+                <h3>I want to know more about:</h3>
+                {{ page.i_want_to_know_more_about }}
+                <br>
+                <br>
+                {% endif %}
+
+                <br><br><b>Contact me:</b><br>
+                <ul class="list-unstyled">
+                  {% if page.e-mail.size > 4 %}
+                  <li>
+                    <i class="fas fa-envelope-square"></i><a href = "mailto:{{page.e-mail}}"> Send me an email</a><br>
+                  </li>
+                  {% endif %}
+                  {% if page.website.size > 4 %}
+                  <li>
+                    <i class="fas fa-link"></i><a href = {{page.website}}> Visit my website</a><br>
+                  </li>
+                  {% endif %}
+                  {% if page.github-username.size > 4 %}
+                  <li>
+                    <i class="fab fa-github"></i><a href = "https://github.com/{{page.github-username}}"> Visit my GitHub Repo</a><br>
+                  </li>
+                  {% endif %}
+                   {% if page.gitlab-url.size > 4 %}
+                  <li>
+                    <i class="fab fa-gitlab"></i><a href = "{{page.gitlab-url}}"> Visit my GitLab Repo</a><br>
+                  </li>
+                  {% endif %}
+                  {% if page.linkedin-profile.size > 4 %}
+                  <li>
+                    <i class="fab fa-linkedin"></i><a href = "{{page.linkedin-profile}}"> Visit my LinkedIn Profile</a><br>
+                  </li>
+                  {% endif %}
+                </ul>
+        
+        
+                <div>
+                  {{content}}
+                </div>
+        
+              </div>
+        </main>
+      </div>
+      {% include_cached footer.html %}
+    </div>
+
+  {% include_cached layout_analytics.html %}
+
+  </body>
+</html>
