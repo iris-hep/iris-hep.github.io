@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-19
   end: 2023-09-10
-photo: /assets/images/team/Valerii-Kholoimov.png
+photo: /assets/images/team/fellows-2023/Valerii-Kholoimov.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: vholoimov@gmail.com
 focus-area: ia
