@@ -11,7 +11,7 @@
                     <div class="row align-items-center no-gutters">
                         <div class="col">
                             <center>
-                    
+
                             <img src="{{page.photo}}" width="150px">
                             <br>
                             <br>
@@ -54,7 +54,7 @@
                 <br>
                 <br>
                 {% endif %}
-        
+
                 {% if page.i_want_to_know_more_about.size > 4 %}
                 <h3>I want to know more about:</h3>
                 {{ page.i_want_to_know_more_about }}
@@ -95,17 +95,17 @@
                 <div class="container">
                     <div class="row align-items-center bg-light">
                         {% for logo in page.logos %}
-                        <div class="col text-center" >                   
+                        <div class="col text-center" >
                             <img src="{{logo}}" width="150px">
                         </div>
                         {% endfor %}
                     </div>
                 </div>
-      
+
                 <div>
                   {{content}}
                 </div>
-        
+
               </div>
         </main>
       </div>

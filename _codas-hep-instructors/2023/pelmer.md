@@ -7,7 +7,7 @@ institution: Princeton University
 name: Peter Elmer
 photo: "/assets/images/team/Peter-Elmer.jpg"
 shortname: pelmer
-title: > 
+title: >
     Senior Research Physicist, Princeton University
     Executive Director and Lead PI for the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)
 website: https://scholar.princeton.edu/elmer/home
