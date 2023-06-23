@@ -21,4 +21,9 @@ what_i_am_watching: >
     HEP software challenges in the 2020s...
 i_want_to_know_more_about: >
     Places where HEP problems overlap with the larger research community; ideas and prior experience which show how we might collaborate on those problems.
+logos:
+    - /assets/images/codas-hep/2023/Princeton_logo.png
+    - /assets/images/codas-hep/2023/CERN_logo.png
+    - /assets/images/codas-hep/2023/CMS.jpg
+    - /assets/images/codas-hep/2023/Iris-hep-logo.png
 ---

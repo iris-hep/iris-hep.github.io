@@ -62,7 +62,7 @@
                 <br>
                 {% endif %}
 
-                <br><br><b>Contact me:</b><br>
+                <b>Contact me:</b><br>
                 <ul class="list-unstyled">
                   {% if page.e-mail.size > 4 %}
                   <li>
@@ -90,8 +90,18 @@
                   </li>
                   {% endif %}
                 </ul>
-        
-        
+                <br>
+
+                <div class="container">
+                    <div class="row align-items-center bg-light">
+                        {% for logo in page.logos %}
+                        <div class="col text-center" >                   
+                            <img src="{{logo}}" width="150px">
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+      
                 <div>
                   {{content}}
                 </div>
