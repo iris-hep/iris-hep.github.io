@@ -4,7 +4,7 @@ title: "Spotlight: IRIS-HEP Fellows"
 author:  Allison Gasparini
 image: /assets/images/posts/2023-06-26-Fellows-Spotlight-fellows-story-main.png
 image-caption: >
-    Group photo of participants in CoDaS-HEP 2022 school, Credit: Rick Soden, Princeton University
+    "Recent IRIS-HEP Fellows: Garima Singh, Elliott Kauffman, Aman Goel & Rohith Karur"
 summary: >
     Some recent IRIS-HEP fellows on what they learned during their time with the software collaboration, what they’re up to now, and why they’d recommend the IRIS-HEP fellowship to other up and coming researchers in the field.
 figure-class: center
