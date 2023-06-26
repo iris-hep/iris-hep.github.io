@@ -190,3 +190,11 @@ presentations:
     location: Virtual
     focus-area:
       - ssc
+  - title: "Deep Learning for Matrix Element Method"
+    date: 2023-05-09
+    url: https://indico.jlab.org/event/459/contributions/11588
+    meeting: International Conference on Computing in High Energy and Nuclear Physics (CHEP 2023)
+    meetingurl: https://indico.jlab.org/event/459/
+    location: Norfolk, VA
+    focus-area:
+      - as
