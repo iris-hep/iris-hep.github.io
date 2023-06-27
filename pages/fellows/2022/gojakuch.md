@@ -18,7 +18,7 @@ e-mail: delta_atell@protonmail.com
 projects:
 - project_title: Jet Reconstruction with Julia
   project_goal: >
-      The task is to write an Anti-Kt jet reconstruction algorithm in Julia. This will read simulated calorimeter data files and implement the jet finding algorithm on this data. Data will be output as clustered jets. To ensure correctness, comparison with FastJet will be done, both numerically and using visualisation. The speeds of the two codes will then be benchmarked on different platforms, for both serial and multi-threaded running; the convenience for the developer and code maintainability will be assessed.
+    The task is to write an Anti-Kt jet reconstruction algorithm in Julia. This will read simulated calorimeter data files and implement the jet finding algorithm on this data. Data will be output as clustered jets. To ensure correctness, comparison with FastJet will be done, both numerically and using visualisation. The speeds of the two codes will then be benchmarked on different platforms, for both serial and multi-threaded running; the convenience for the developer and code maintainability will be assessed.
   mentors:
     - Benedikt Hegner (CERN)
     - Graeme A Stewart (CERN)
@@ -26,7 +26,7 @@ projects:
 
 - project title: Julia for Analysis Grand Challenge
   project goal: >
-      The goal is to have the AGC 1.0 pipeline as well as some supplementary features implemented in Julia. Additional “stretch” goals might include implementing tools for ML inference from beyond the version 1.0.
+    The goal is to have the AGC 1.0 pipeline as well as some supplementary features implemented in Julia. Additional “stretch” goals might include implementing tools for ML inference from beyond the version 1.0.
   mentors:
     - Jerry Ling (Harvard University)
     - Alexander Held (UWM)
