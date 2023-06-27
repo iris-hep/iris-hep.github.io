@@ -762,7 +762,7 @@ presentations:
     meeting: "Learning and Emergence in Molecular Systems"
     meetingurl: https://www.ipam.ucla.edu/programs/workshops/learning-and-emergence-in-molecular-systems/?tab=overview
     focus-area: as
-    location: IPAM, UCLA 
+    location: IPAM, UCLA
   - title: "How ML is enabling an information-theoretic approach to data analysis and the design of experiments"
     date: 2022-03-07
     url: https://meetings.aps.org/Meeting/MAR23/Session/K01
@@ -798,4 +798,3 @@ presentations:
     meetingurl: https://indico.nikhef.nl/event/4325/
     focus-area: as
     location: Amsterdam
-  
