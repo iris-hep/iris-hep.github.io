@@ -33,7 +33,7 @@ dates:
 ### Projects
 You will also have to make changes to the projects section to display multiple projects
 
-First project (Project #1 in the example) will be the information from your previous fellowship.  The second project will be the information for your current project (Projec #2 in the example).
+First project (Project #1 in the example) will be the information from your previous fellowship.  The second project will be the information for your current project (Project #2 in the example).
 
 ```yml
 
