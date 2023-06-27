@@ -791,7 +791,9 @@ presentations:
     meetingurl: https://cvpr.thecvf.com
     focus-area: as
     location: Vancouver, Canada
-  - title: "Panel: Scientific Discovery and the Environment"
+  - title: 
+      How machine learning can help us get the most out of our highest fidelity
+      physical models
     date: 2023-07-03
     url: https://indico.nikhef.nl/event/4325/contributions/16989/
     meeting: "GRAPPA 10th Anniversary"
