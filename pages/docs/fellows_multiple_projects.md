@@ -1,5 +1,5 @@
 ---
-permalink: /docs/fellow_multiple_projects.html
+permalink: /docs/fellows_multiple_projects.html
 layout: default
 title: Fellows Pages with multiple projects
 pagetype: doc
@@ -11,6 +11,9 @@ If you are a returning IRIS-HEP Fellow, the format for adding multiple projects 
 
 *Please Note*:  In the markdown file you create, ensure you set the “active” attribute to True – (i.e.  active: True).  Otherwise, your entry will not appear on our Fellows page.
 
+You should submit a pull request with the updated markdown file to this repo:
+
+<https://github.com/iris-hep/iris-hep.github.io>
 
 ### Dates
 Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2021-12-31
