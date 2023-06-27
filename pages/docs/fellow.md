@@ -5,7 +5,7 @@ title: Information to add or update fellows
 pagetype: doc
 ---
 
-### Adding a New Fellow Page
+### Adding or updating a Fellow Page
 
 #### IRIS-HEP website
 In order to add your information, we request you to please supply a photo ( First_Name-Last_Name.jpg or .png - 320x240 pixels) and a paragraph summarizing your project’s goals.
@@ -27,6 +27,10 @@ You can leave the “presentations” and “current_status” fields blank for 
 
 You can optionally include your linkedin-profile.
 
+#### Adding multiple projects
+If you are a returning fellow and need to add multiple projects, follow the directions found here to update the markdown file for your page:
+
+  <https://iris-hep.org/docs/fellows_multiple_projects>
 
 ### Dates
 Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2021-12-31
