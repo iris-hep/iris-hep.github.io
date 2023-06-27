@@ -756,3 +756,47 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1203733/
     focus-area: as
     location: Washington D.C.
+  - title: "Connections and cross pollination from quarks to the cosmos"
+    date: 2022-01-26
+    url: http://www.ipam.ucla.edu/abstract/?tid=18157&pcode=EMS2023
+    meeting: "Learning and Emergence in Molecular Systems"
+    meetingurl: https://www.ipam.ucla.edu/programs/workshops/learning-and-emergence-in-molecular-systems/?tab=overview
+    focus-area: as
+    location: IPAM, UCLA
+  - title: "How ML is enabling an information-theoretic approach to data analysis and the design of experiments"
+    date: 2022-03-07
+    url: https://meetings.aps.org/Meeting/MAR23/Session/K01
+    meeting: "APS March Meeting"
+    meetingurl: https://meetings.aps.org/Meeting/MAR23/Session/K01
+    focus-area: as
+    location: Las Vegas, NV
+  - title: "Radically different futures for HEP enabled by AI/ML"
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/contributions/12491/
+    meeting: "CHEP 2023"
+    meetingurl: https://indico.jlab.org/event/459/
+    focus-area: as
+    location: Norfolk
+  - title: "Simulation-Based Inference"
+    date: 2023-06-13
+    url: https://sites.psu.edu/astrostatistics/scma8-program/
+    meeting: "Statistical Challenges in Modern Astronomy VIII"
+    meetingurl: https://sites.psu.edu/astrostatistics/scma8/
+    focus-area: as
+    location: Penn State
+  - title: "Panel: Scientific Discovery and the Environment"
+    date: 2023-06-23
+    url: https://cvpr.thecvf.com/Conferences/2023/KeynotesAndPanels
+    meeting: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR)"
+    meetingurl: https://cvpr.thecvf.com
+    focus-area: as
+    location: Vancouver, Canada
+  - title:
+      How machine learning can help us get the most out of our highest fidelity
+      physical models
+    date: 2023-07-03
+    url: https://indico.nikhef.nl/event/4325/contributions/16989/
+    meeting: "GRAPPA 10th Anniversary"
+    meetingurl: https://indico.nikhef.nl/event/4325/
+    focus-area: as
+    location: Amsterdam
