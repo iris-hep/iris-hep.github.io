@@ -8,28 +8,28 @@ shortname: fatala22
 title: Training, Education and Outreach Coordinator
 website: http://charma.uprm.edu/~malik/
 presentations:
- - title: Train to Sustain
+  - title: Train to Sustain
     date: 2023-05-08
     url: https://indico.jlab.org/event/459/contributions/11538/
     meeting: CHEP2023
     meetingurl: https://indico.jlab.org/event/459/
     focus-area: ssc
     location: Jefferosn Lab (Norfolk Waterside Marriott)
- - title: Building a Global HEP Software Training Community
+  - title: Building a Global HEP Software Training Community
     date: 2023-05-09
     url: https://indico.jlab.org/event/459/contributions/11685/
     meeting: CHEP2023
     meetingurl: https://indico.jlab.org/event/459/
     focus-area: ssc
     location: Jefferosn Lab (Norfolk Waterside Marriott)
- - title: Software Training Outreach In HEP
+  - title: Software Training Outreach In HEP
     date: 2023-05-11
     url: https://indico.jlab.org/event/459/contributions/11704/
     meeting: CHEP2023
     meetingurl: https://indico.jlab.org/event/459/
     focus-area: ssc
     location: Jefferosn Lab (Norfolk Waterside Marriott)
-- title: Training and on-boarding initiatives in HEP
+  - title: Training and on-boarding initiatives in HEP
     date: 2023-05-08
     url: https://indico.jlab.org/event/459/contributions/11672/
     meeting: CHEP2023
