@@ -20,3 +20,11 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1150631/
     focus-area: ssc
     location: Virtual
+  - title: "Software Training on HSF and IRIS-HEP"
+    date: 2023-06-27
+    url: https://indico.fnal.gov/event/59506/contributions/269987/
+    meeting: FNAL 2023 New Perspectives Meeting
+    meetingurl: https://indico.fnal.gov/event/59506/
+    focus-area: ssc
+    location: Fermilab
+    
