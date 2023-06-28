@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-07-03
   end: 2023-09-18
-photo: /assets/images/team/Sambridhi-deo.jpg
+photo: /assets/images/team/fellows-2023/Sambridhi-deo.png
 institution: Caldwell Universiy
 e-mail: deo@caldwell.edu
 focus-area: as
