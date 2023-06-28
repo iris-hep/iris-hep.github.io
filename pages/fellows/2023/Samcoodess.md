@@ -21,22 +21,15 @@ project_goal: >
   analyses. This project would aim to implement a REANA workflow for a galaxy
   rotation-curve fitting analysis (RCFM) to improve replicability and to
   provide a starting point for future work.
+proposal: /assets/pdf/fellows-2023/IRIS000-proposal-Sambridhi-Deo.pdf
 mentors:
     - Lukas Heinrich (Technical University Munich)
     - Matthew Feickert (UW-Madison)
     - Amy Roberts (CU Denver)
     - Giordon Stark (UC Santa Cruz)
-# proposal: /assets/pdf/fellows-2022/<find-your-file>
-# presentations:
-#   - title: "<Presentation Title"
-#     date: "Presentation Date"
-#     url: <Presentation materials link>
-#     meeting: <Meeting name>
-#     meetingurl: <Meeting url - indico link, etc.>
-#     recordingurl: <Recording url> (Optional)
-#     focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+proposal: /assets/pdf/fellows-2022/<find-your-file>
+presentations:
 current_status:
-  Working on Literature review
 github-username: Samcoodess
 linkedin-profile: https://www.linkedin.com/in/sambridhi-deo-3002b0206/
 ---
