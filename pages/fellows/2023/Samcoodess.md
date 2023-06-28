@@ -12,7 +12,7 @@ dates:
 photo: /assets/images/team/Sambridhi-deo.jpg
 institution: Caldwell Universiy
 e-mail: deo@caldwell.edu
-focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+focus-area: as
 project_title: REANA workflow for Dark Matter Searches
 project_goal: >
     [REANA](https://reana.io/) is a platform for reproducible data analysis workflows
@@ -27,7 +27,7 @@ mentors:
     - Matthew Feickert (UW-Madison)
     - Amy Roberts (CU Denver)
     - Giordon Stark (UC Santa Cruz)
-proposal: /assets/pdf/fellows-2022/<find-your-file>
+proposal: /assets/pdf/fellows-2023/IRIS000-proposal-Sambridhi-Deo.pdf
 presentations:
 current_status:
 github-username: Samcoodess
