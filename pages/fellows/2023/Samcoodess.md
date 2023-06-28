@@ -15,7 +15,7 @@ e-mail: deo@caldwell.edu
 focus-area: as
 project_title: REANA workflow for Dark Matter Searches
 project_goal: >
-    [REANA](https://reana.io/) is a platform for reproducible data analysis workflows
+  [REANA](https://reana.io/) is a platform for reproducible data analysis workflows
   that can be run at scale. REANA has been used extensively for running containerized
   workflows of LHC experiments, like ATLAS, and for reinterpretation of published
   analyses. This project would aim to implement a REANA workflow for a galaxy
@@ -23,13 +23,13 @@ project_goal: >
   provide a starting point for future work.
 proposal: /assets/pdf/fellows-2023/IRIS000-proposal-Sambridhi-Deo.pdf
 mentors:
-    - Lukas Heinrich (Technical University Munich)
-    - Matthew Feickert (UW-Madison)
-    - Amy Roberts (CU Denver)
-    - Giordon Stark (UC Santa Cruz)
+  - Lukas Heinrich (Technical University Munich)
+  - Matthew Feickert (UW-Madison)
+  - Amy Roberts (CU Denver)
+  - Giordon Stark (UC Santa Cruz)
 proposal: /assets/pdf/fellows-2023/IRIS000-proposal-Sambridhi-Deo.pdf
 presentations:
-current_status:
+current_status: >
 github-username: Samcoodess
 linkedin-profile: https://www.linkedin.com/in/sambridhi-deo-3002b0206/
 ---
