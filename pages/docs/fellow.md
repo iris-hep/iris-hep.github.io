@@ -5,9 +5,10 @@ title: Information to add or update fellows
 pagetype: doc
 ---
 
-### Adding or updating a Fellow Page
+### Adding or updating a Fellow Page on the IRIS-HEP Website
 
-#### IRIS-HEP website
+**NOTE**: Do not add a new file if you were a fellow before - just make updates to to your existing markdown file. (See "Adding multiple projects" to include your new project)
+
 In order to add your information, we request you to please supply a photo ( First_Name-Last_Name.jpg or .png - 320x240 pixels) and a paragraph summarizing your project’s goals.
 
 You should submit a pull request with the photo, a markdown file with the summary information above, and your proposal to this repo:
