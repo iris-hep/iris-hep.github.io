@@ -22,10 +22,10 @@ project_goal: >
   rotation-curve fitting analysis (RCFM) to improve replicability and to
   provide a starting point for future work.
 mentors:
-    - Lukas Heinrich (Technical University Munich) 
+    - Lukas Heinrich (Technical University Munich)
     - Matthew Feickert (UW-Madison)
-    - Amy Roberts (CU Denver) 
-    - Giordon Stark (UC Santa Cruz) 
+    - Amy Roberts (CU Denver)
+    - Giordon Stark (UC Santa Cruz)
 # proposal: /assets/pdf/fellows-2022/<find-your-file>
 # presentations:
 #   - title: "<Presentation Title"
@@ -35,7 +35,7 @@ mentors:
 #     meetingurl: <Meeting url - indico link, etc.>
 #     recordingurl: <Recording url> (Optional)
 #     focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-current_status: 
+current_status:
   Working on Literature review
 github-username: Samcoodess
 linkedin-profile: https://www.linkedin.com/in/sambridhi-deo-3002b0206/
