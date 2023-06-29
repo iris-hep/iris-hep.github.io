@@ -5,7 +5,7 @@ shortname: kyrylogy
 permalink: /fellows/kyrylogy.html
 fellow-name: Kyrylo Meliushko
 title: Kyrylo Meliushko - IRIS-HEP Fellow
-active: False
+active: True
 dates:
   - start: 2022-07-01
     end: 2022-09-23
