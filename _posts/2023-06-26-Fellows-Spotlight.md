@@ -3,6 +3,7 @@ layout: irispost
 title: "Spotlight: IRIS-HEP Fellows"
 author:  Allison Gasparini
 image: /assets/images/posts/2023-06-26-Fellows-Spotlight-fellows-story-main.png
+image-whole: true
 image-caption: >
     "Recent IRIS-HEP Fellows: Garima Singh, Elliott Kauffman, Aman Goel & Rohith Karur"
 summary: >
@@ -19,6 +20,8 @@ Below are some recent IRIS-HEP fellows on what they learned during their time wi
     file="/assets/images/posts/2023-06-26-Fellows-Spotlight-Garima_Singh.png"
     alt="Garima Singh"
     caption="Garima Singh Photo credit: Garima Singh"
+    img-style="width: 230px"
+    figure-style="width: min-content"
 %}
 
 Garima Singh first got involved with IRIS-HEP in January of 2021 while pursuing a bachelor’s in information technology from the Manipal Institute of Technology in India. In high school, Singh took a computer science class which launched her interest in pursuing the subject as a career.
@@ -38,6 +41,8 @@ To prospective fellows, Singh advises that you’ll learn a lot. “The fellowsh
     file="/assets/images/posts/2023-06-26-Fellows-Spotlight-Elliott_Kauffman.png"
     alt="Elliott Kauffman"
     caption="Elliott Kauffman Photo credit: Elliott Kauffman"
+    img-style="width: 230px"
+    figure-style="width: min-content"
 %}
 
 Elliott Kauffman joined IRIS-HEP as a fellow in May of 2022 between his junior and senior year as an undergraduate in physics at Duke University. Kauffman said he was inspired to pursue particle physics after watching a documentary about the discovery of the Higgs boson when he was in middle school.
@@ -56,6 +61,8 @@ Kauffman said he’d “definitely” recommend other young physicists apply for
     file="/assets/images/posts/2023-06-26-Fellows-Spotlight-Aman_Goel.png"
     alt="Aman Goel"
     caption="Aman Goel Photo credit: Aman Goel"
+    img-style="width: 230px"
+    figure-style="width: min-content"
 %}
 
 
@@ -75,6 +82,8 @@ The fellowship opportunity with IRIS-HEP is one that Goel said he’d recommend 
     file="/assets/images/posts/2023-06-26-Fellows-Spotlight-Rohith_Karur.png"
     alt="Rohith Karur"
     caption="Rohith Karur Photo credit: Rohith Karur"
+    img-style="width: 230px"
+    figure-style="width: min-content"
 %}
 
 Rohith Karur became a fellow for IRIS-HEP in June 2021, during his time as an undergraduate at the University of California, Berkeley. His professor Heather Gray, the Innovative Algorithms Area co-Lead for IRIS-HEP, recommended he apply for the role. “The fellowship represents a computer science and physics crossover,” said Karur. “So it seemed to be very aligned with things that I was interested in.”
