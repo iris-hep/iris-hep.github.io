@@ -14,7 +14,7 @@ institution: Odesa National University of Technology
 e-mail: levpambuk@gmail.com
 focus-area: doma
 project_title: Software development for the Rucio Scientific Data Management system
-project_goal: > 
+project_goal: >
 With this summer fellow project we aim to bring critical developments to the common parts of Rucio, shared by many communities and experiments.
 mentors:
   - Martin Barisits (CERN EP)
