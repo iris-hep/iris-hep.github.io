@@ -54,3 +54,17 @@ presentations:
     project: lst
     labels:
       - conference
+  - title: "Line Segment Tracking (LST)"
+    meeting: CMS Upgrade Software Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1247039
+    url: https://indico.cern.ch/event/1247039/contributions/5296624/subcontributions/415810/attachments/2608478/4506056/Line%20Segment%20tracking%20Mar%209%202023%20v3.pdf
+    date: 2023-03-09
+    focus-area: ia
+    project: lst
+  - title: "Future tracking"
+    meeting: CMS Tracker Training Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1238081
+    url: https://indico.cern.ch/event/1238081/contributions/5274067/attachments/2603178/4495392/FutureTracking_TrackerTrainingDays2023_230302.pdf
+    date: 2023-03-02
+    focus-area: ia
+    project: lst
