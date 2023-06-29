@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-06-19
   end: 2023-09-10
-photo: /assets/images/team/Lev-Pambuk.jpg
+photo: /assets/images/team/fellows-2023/Lev-Pambuk.jpg
 institution: Odesa National University of Technology
 e-mail: levpambuk@gmail.com
 focus-area: doma
