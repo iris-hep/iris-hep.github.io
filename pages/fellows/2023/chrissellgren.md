@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: chrissellgren
@@ -22,3 +23,4 @@ presentations: >
 current_status: >
 github-username: chrissellgren
 linkedin-profile: https://www.linkedin.com/in/chris-sellgren/
+---
