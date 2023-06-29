@@ -7,19 +7,34 @@ fellow-name: Kyrylo Meliushko
 title: Kyrylo Meliushko - IRIS-HEP Fellow
 active: False
 dates:
-  start: 2022-07-01
-  end: 2022-09-23
+  - start: 2022-07-01
+    end: 2022-09-23
+  - start: 2023-07-03
+    end: 2023-09-22
 photo: /assets/images/team/fellows-2022/Kyrylo-Meliushko.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: meliushkokyrylo@gmail.com
-project_title: Implementation of CI/CD Automation and Orchestration in CMS Monitoring Kubernetes Clusters
-project_goal: >
+projects:
+- project_title: Implementation of CI/CD Automation and Orchestration in CMS Monitoring Kubernetes Clusters
+  project_goal: >
     Lots of cron jobs are running in various environments, writing outputs to different storages, which creates a dependency to the older infrastructure, also including Spark Analytix Cluster managed by CERN IT and ElasticSearch/EOS/MongoDB to store the results. The goal of this project is to ease and secure the adoption process of each cron job to the k8s clusters by writing individual test scripts.
-mentors:
+  mentors:
   - Brij Kishor Jashal (Valencia U., IFIC and TIFR, Mumbai, DHEP)
   - Ceyhun Uzunoglu (CERN)
   - Federica Legger (INFN)
-proposal: /assets/pdf/fellows-2022/206-proposal-Kyrylo-Meliushko.pdf
+  proposal: /assets/pdf/fellows-2022/206-proposal-Kyrylo-Meliushko.pdf
+
+- project_title: "Rucio-S3-compatible access interface for analysis facilities: Add S3 compatible access interface to Rucio"
+  project_goal: >
+    Rucio project currently lacks a more flexible and streamlined data exchange process that allows scientists to efficiently share specific data subsets for collaboration and analysis purposes. A key aspect of this project is therefore to introduce an interface that enables users to directly manage S3 buckets. This enhancement would greatly improve the user experience, providing a seamless way to handle and manipulate specific pieces of data produced within Rucio for efficient collaboration and analysis in a standardized way.
+  mentors:
+  - Martin Barisits (CERN)
+  - Lukas Heinrich (TUM)
+  - Matthew Feickert (UWM)
+  - Mario Lassnig (CERN)
+  proposal: /assets/pdf/fellows-2023/U021-proposal-Kyrylo-Meliushko.pdf
+
+
 presentations:
 - title: Implementation of CI/CD Automation and Orchestration in CMS Monitoring Kubernetes Clusters
   date: 2022-09-28
