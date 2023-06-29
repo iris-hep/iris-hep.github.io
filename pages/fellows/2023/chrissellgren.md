@@ -8,7 +8,7 @@ active: True
 dates:
   start: 2023-06-19
   end: 2023-09-10
-photo: /assets/images/team/Chris-Sellgren.jpg
+photo: /assets/images/team/fellows-2023/Chris-Sellgren.jpg
 institution: University of California, Santa Barbara
 e-mail: chrissellgren1@gmail.com
 focus-area: Analysis Systems
