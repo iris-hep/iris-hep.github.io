@@ -22,3 +22,10 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1140356/
     project: lst
     focus-area: ia
+  - title: Example application: Line Segment Linking project
+    date: 2022-08-05
+    url: https://indico.cern.ch/event/1151367/contributions/4969876/attachments/2489946/4275828/Parallelize%20track%20finding%20on%20GPUs-%20Codas%20hep%208-5-22.pdf
+    meeting: CoDas-HEP school
+    meetingurl: https://indico.cern.ch/event/1151367
+    project: lst
+    focus-area: ia
