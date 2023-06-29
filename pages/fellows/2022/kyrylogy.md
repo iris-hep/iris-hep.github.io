@@ -26,7 +26,7 @@ projects:
 
 - project_title: "Rucio-S3-compatible access interface for analysis facilities: Add S3 compatible access interface to Rucio"
   project_goal: >
-    Rucio project currently lacks a more flexible and streamlined data exchange process that allows scientists to efficiently share specific data subsets for collaboration and analysis purposes. A key aspect of this project is therefore to introduce an interface that enables users to directly manage S3 buckets. This enhancement would greatly improve the user experience, providing a seamless way to handle and manipulate specific pieces of data produced within Rucio for efficient collaboration and analysis in a standartized way.
+    Rucio project currently lacks a more flexible and streamlined data exchange process that allows scientists to efficiently share specific data subsets for collaboration and analysis purposes. A key aspect of this project is therefore to introduce an interface that enables users to directly manage S3 buckets. This enhancement would greatly improve the user experience, providing a seamless way to handle and manipulate specific pieces of data produced within Rucio for efficient collaboration and analysis in a standardized way.
   mentors:
   - Martin Barisits (CERN)
   - Lukas Heinrich (TUM)
