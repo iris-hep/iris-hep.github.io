@@ -54,6 +54,11 @@
                     <i class="fab fa-linkedin"></i><a href = "{{page.linkedin-profile}}"> Visit my LinkedIn Profile</a><br>
                   </li>
                   {% endif %}
+                  {% if page.orcid.size > 4 %}
+                  <li>
+                    <i class="fab fa-orcid"></i><a href = "https://orcid.org/{{page.orcid}}"> Visit my ORCID page</a><br>
+                  </li>
+                  {% endif %}
                 </ul>
                 <br>
 
