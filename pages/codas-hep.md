@@ -34,7 +34,7 @@ permalink: codas-hep.html
     <br>
 </div>
 
-## Students
+## School Students
 
 <div class="container-fluid">
     <div class="row">
