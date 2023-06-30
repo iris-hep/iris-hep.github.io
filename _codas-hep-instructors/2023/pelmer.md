@@ -4,7 +4,9 @@ e-mail: Peter.Elmer@cern.ch
 institution: Princeton University
 name: Peter Elmer
 photo: "/assets/images/team/Peter-Elmer.jpg"
-shortname: pelmer
+github-username: pelmer
+orcid: 0000-0001-6830-3356
+linkedin-profile: https://ch.linkedin.com/in/peter-elmer-75b27964
 title: >
     Senior Research Physicist, Princeton University
     Executive Director and Lead PI for the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)
