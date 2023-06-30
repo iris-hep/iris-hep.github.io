@@ -10,10 +10,10 @@ title: >
     Executive Director and Lead PI for the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)
 website: https://scholar.princeton.edu/elmer/home
 logos:
-    - /assets/images/codas-hep/2023/Princeton_logo.png
-    - /assets/images/codas-hep/2023/CERN_logo.png
-    - /assets/images/codas-hep/2023/CMS.jpg
-    - /assets/images/codas-hep/2023/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/Princeton_logo.png
+    - /assets/images/codas-hep/logos/CERN_logo.png
+    - /assets/images/codas-hep/logos/CMS.jpg
+    - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
 
