@@ -3,7 +3,7 @@ layout: fellow
 pagetype: fellow
 shortname: AndriiPovsten
 permalink: /fellows/AndriiPovsten.html
-fellow-name: Andrii Povsten 
+fellow-name: Andrii Povsten
 title: Andrii Povsten - IRIS-HEP Fellow
 active: True
 dates:
