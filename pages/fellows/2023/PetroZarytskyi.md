@@ -14,7 +14,7 @@ institution: Taras Shevchenko National University of Kyiv, Ukraine
 e-mail: petro.zarytskyi@gmail.com
 project_title: Optimizing reverse-mode automatic differentiation with advanced activity-analysis
 project_goal: >
-  The goal of this project is to modify Clad so that its output code in reverse mode doesn't include any unnecessary variables or computations. This will allow Clad to compute derivatives more efficiently. 
+  The goal of this project is to modify Clad so that its output code in reverse mode doesn't include any unnecessary variables or computations. This will allow Clad to compute derivatives more efficiently.
 mentors:
   - Vassil Vassilev (Princeton)
   - David Lange (Princeton)
