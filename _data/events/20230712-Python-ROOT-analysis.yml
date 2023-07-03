@@ -1,0 +1,9 @@
+name: HSF/IRIS-HEP Python for Analysis Training (Virtual)
+startdate: 2023-07-12
+enddate: 2023-07-12
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1300865/
+image:
+description: Python for analysis (Python with ROOT to start analysing data)
+labels:
+  - training
