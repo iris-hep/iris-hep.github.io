@@ -31,8 +31,8 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Sunday, 16 July, 2022 |||| Subaward grant admins send draft Y5 budgets and justifications to Maureen, Floe and Peter |
-| Friday, 25 July, 2022 |||| Final budgets ready for Y6 SOWs |
+| Monday, 17 July, 2023 (COB) |||| Subaward grant admins send draft Y6 budgets and justifications to Maureen, Floe and Peter |
+| Friday, 4 August, 2023 |||| Goal: Final budgets ready for Y6 SOWs |
 
 ---
 
