@@ -14,7 +14,7 @@ institution: University of Leipzig
 e-mail: voreychannel@gmail.com
 project_title: <Implement a Snakemake backend for RECAST workflows>
 project_goal: >
-    The focus of this project is to create a new backend alternative for RECAST workflows utilizing Snakemake workflow management system.
+    The focus of this project is to create a new backend alternative for RECAST workflows using the Snakemake workflow management system.
 mentors:
   - Matthew Feickert (University of Wisconsin-Madison)
   - Lukas Heinrich (Technical University Munich)
