@@ -9,12 +9,12 @@ active: True
 dates:
   start: 2023-07-03
   end: 2023-09-22
-photo: /assets/images/team/fellows-2023/Andrii-Povsten.jpg
+photo: /assets/images/team/fellows-2023/Andrii-Povsten.png
 institution: University of Leipzig
 e-mail: voreychannel@gmail.com
 project_title: <Implement a Snakemake backend for RECAST workflows>
 project_goal: >
-    The focus of this project is to create a new backend alternative for RECAST workflows utilizing Snakemake workflow manegment system
+    The focus of this project is to create a new backend alternative for RECAST workflows utilizing Snakemake workflow management system.
 mentors:
   - Matthew Feickert (University of Wisconsin-Madison)
   - Lukas Heinrich (Technical University Munich)
