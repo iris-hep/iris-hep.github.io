@@ -25,22 +25,21 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
   This combined multi-step process is what is meant by the "annual budget and SOW process".
 
-### Dates for IRIS-HEP annual budget and SOW process for Year 5 (2022 - 2023), covering the period from 1 September, 2022, through 31 August, 2023.
+### Dates for IRIS-HEP annual budget and SOW process for Year 6 (2023 - 2024), covering the period from 1 September, 2023, through 31 August, 2024.
 
 ---
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Friday, 20 June, 2022 |||| Subaward grant admins send draft Y5 budgets and justifications to Maureen, Floe and Peter |
-| Friday, 25 July, 2022 |||| Final budgets ready for Y5 SOWs |
+| Sunday, 16 July, 2022 |||| Subaward grant admins send draft Y5 budgets and justifications to Maureen, Floe and Peter |
+| Friday, 25 July, 2022 |||| Final budgets ready for Y6 SOWs |
 
 ---
 
 ## Preparation of budget and budget justifications
 
-  As part of the annual SOW process, each institution should produce a **one year** budget and budget justification. This should be described in a single
-document, which will be submitted as a pdf. This will likely differ from that
-submitted with the original IRIS-HEP proposal for the following reasons:
+  As part of the annual SOW process, each institution should produce a **one year** budget and budget justification. This should be described in a **single document**, which will be submitted as a pdf. This will likely differ from that
+submitted with the original/renewal IRIS-HEP proposals for the following reasons:
 
   * current salaries, fringe and indirect cost rates should be used
   * specific names for personnel to receive salary should be included when known (and "TBN" otherwise).
@@ -53,8 +52,8 @@ budget is required.
 In addition you should write a budget justification which contains the
 information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg22_1/pappg_2.jsp#IIC2g). The budget described should however be limited to
 funds required for a _single_ year and the defined time period, which should
-be noted explicitly in the justification. For example, "IRIS-HEP Year 5:
-1 September, 2022 - 31 August, 2023" or similar should appear near the top
+be noted explicitly in the justification. For example, "IRIS-HEP Year 6:
+1 September, 2023 - 31 August, 2024" or similar should appear near the top
 of the document.
 
   In addition to the standard budget justification information, additional
