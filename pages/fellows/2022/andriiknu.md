@@ -22,7 +22,7 @@ projects:
   mentors:
     - Enrico Guiraud (CERN)
   proposal: /assets/pdf/fellows-2022/204-proposal-Andrii-Falko.pdf
-  
+
 - project_title: An RDataFrame implementation for the new Analysis Grand Challenge version
   project_goal: >
       Providing an RDataFrame implementation of the newest Analysis Grand Challenge (AGC) version (2.0.0).
