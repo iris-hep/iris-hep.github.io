@@ -20,15 +20,7 @@ mentors:
   - Lukas Heinrich (Technical University Munich)
 proposal: /assets/pdf/fellows-2023/U043-proposal-Andrii-Povsten.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-current_status: >
-  A placeholder for status updates
+current_status: 
 github-username: AndriiPovsten
-linkedin-profile: <Your LinkedIn Profile url>
+linkedin-profile: 
 ---
