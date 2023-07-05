@@ -1,0 +1,90 @@
+<!doctype html>
+
+{% include layout_header_navbar.html %}
+    <div id="container">
+      <div class="container page">
+        <main role="main">
+
+            <div>
+                <br>
+                <div class="container">
+                    <div class="row align-items-center no-gutters">
+                        <div class="col">
+                            <center>
+
+                            <img src="{{page.photo}}" width="150px">
+                            <br>
+                            <br>
+                            <b> Home Institution:</b> {{ page.institution }}
+                            <br>
+                            <br>
+                            </center>
+                        </div>
+                        <div class="col">
+                            <h1>{{ page.name }}</h1>
+                            {{ page.title }}
+                        </div>
+                    </div>
+                </div>
+
+                <b>Contact me:</b><br>
+                <ul class="list-unstyled">
+                  {% if page.e-mail.size > 4 %}
+                  <li>
+                    <i class="fas fa-envelope-square"></i><a href = "mailto:{{page.e-mail}}"> Send me an email</a><br>
+                  </li>
+                  {% endif %}
+                  {% if page.website.size > 4 %}
+                  <li>
+                    <i class="fas fa-link"></i><a href = {{page.website}}> Visit my website</a><br>
+                  </li>
+                  {% endif %}
+                  {% if page.github-username.size > 4 %}
+                  <li>
+                    <i class="fab fa-github"></i><a href = "https://github.com/{{page.github-username}}"> Visit my GitHub Repo</a><br>
+                  </li>
+                  {% endif %}
+                   {% if page.gitlab-url.size > 4 %}
+                  <li>
+                    <i class="fab fa-gitlab"></i><a href = "{{page.gitlab-url}}"> Visit my GitLab Repo</a><br>
+                  </li>
+                  {% endif %}
+                  {% if page.linkedin-profile.size > 4 %}
+                  <li>
+                    <i class="fab fa-linkedin"></i><a href = "{{page.linkedin-profile}}"> Visit my LinkedIn Profile</a><br>
+                  </li>
+                  {% endif %}
+                  {% if page.orcid.size > 4 %}
+                  <li>
+                    <i class="fab fa-orcid"></i><a href = "https://orcid.org/{{page.orcid}}"> Visit my ORCID page</a><br>
+                  </li>
+                  {% endif %}
+                </ul>
+                <br>
+
+
+
+                <div>
+                  {{content}}
+                </div>
+
+                <div class="container">
+                  <div class="row align-items-center bg-light">
+                      {% for logo in page.logos %}
+                      <div class="col text-center" >
+                          <img src="{{logo}}" width="150px">
+                      </div>
+                      {% endfor %}
+                  </div>
+              </div>
+
+              </div>
+        </main>
+      </div>
+      {% include_cached footer.html %}
+    </div>
+
+  {% include_cached layout_analytics.html %}
+
+  </body>
+</html>
