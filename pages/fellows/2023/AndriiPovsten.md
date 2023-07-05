@@ -20,7 +20,7 @@ mentors:
   - Lukas Heinrich (Technical University Munich)
 proposal: /assets/pdf/fellows-2023/U043-proposal-Andrii-Povsten.pdf
 presentations:
-current_status: 
+current_status:
 github-username: AndriiPovsten
 linkedin-profile:
 ---
