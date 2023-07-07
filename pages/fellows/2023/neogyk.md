@@ -12,7 +12,7 @@ dates:
 photo: /assets/images/team/fellows-2023/Leonid-Didukh.jpg
 institution:
 e-mail: ledidukh@gmail.com
-focus-area: 
+focus-area:
 project_title: Estimation of the energy cost and efficiency of the HEP data compression ML algorithm (Baler)
 project_goal: >
   With the increasing amount of information, the management and preservation of research data become memory and energy costly.

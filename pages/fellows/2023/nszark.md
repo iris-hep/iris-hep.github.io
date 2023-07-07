@@ -12,7 +12,7 @@ dates:
 photo: /assets/images/team/fellows-2023/Nazar-Semkiv.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: nazar.semkiv.2000@gmail.com
-focus-area: 
+focus-area:
 project_title: Testing Real Time Analysis at LHCb
 project_goal: >
     Development of a machine learning algorithm for accurately selecting specific decay candidates and evaluating the performance of the trigger paradigm at LHCb.
@@ -27,7 +27,7 @@ presentations:
     meeting: <Meeting name>
     meetingurl: <Meeting url - indico link, etc.>
     recordingurl: <Recording url> (Optional)
-    focus-area: 
+    focus-area:
 current_status: >
   A placeholder for status updates
 github-username: nszark
