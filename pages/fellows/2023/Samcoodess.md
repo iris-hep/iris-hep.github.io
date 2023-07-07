@@ -15,7 +15,7 @@ e-mail: deo@caldwell.edu
 focus-area: as
 project_title: REANA workflow for Dark Matter Searches
 project_goal: >
-  [REANA](https://reana.io/) is a platform for reproducible data analysis workflows
+  <a href="https://reana.io/">REANA</a> is a platform for reproducible data analysis workflows
   that can be run at scale. REANA has been used extensively for running containerized
   workflows of LHC experiments, like ATLAS, and for reinterpretation of published
   analyses. This project would aim to implement a REANA workflow for a galaxy
