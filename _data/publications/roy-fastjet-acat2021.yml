@@ -1,6 +1,7 @@
 title: "An array-oriented Python interface for FastJet"
 date: 2022-02-08
 inspire-id: 2029622
+nsf-par-id: 10430293
 focus-area: as
 project:
   - awkward
