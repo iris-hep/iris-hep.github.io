@@ -9,6 +9,30 @@ shortname: ddavila0
 title: Scientific Software Developer and Researcher
 website:
 presentations:
+  - title: "Automated Network Services for Exascale Data Movement"
+    date: 2022-11-11
+    url: https://indico.cern.ch/event/1185600/contributions/5109192/attachments/2545788/4383989/Automated%20Network%20Services%20for%20Exascale%20Data%20Movement%20(1).pdf
+    meeting: "5th Rucio Community Workshop"
+    meetingurl: https://indico.cern.ch/event/1185600/
+    focus-area: doma
+    project: tpc
+    location: Lancaster University, UK
+  - title: "Network Management Enhancements for the High Luminosity Era"
+    date: 2022-11-07
+    url: https://indico.cern.ch/event/1162261/contributions/5081894/attachments/2542584/4377825/Network%20Management%20Enhancements%20for%20the%20High%20Luminosity%20Era%20-%20v1.pdf
+    meeting: "WLCG Workshop 2022"
+    meetingurl: https://indico.cern.ch/event/1162261/
+    focus-area: doma
+    project: tpc
+    location: Lancaster University, UK
+  - title: "Managed Network Services for Exascale Data Movement Across Large Global Scientific Collaborations"
+    date: 2022-08-31
+    url: https://indico.cern.ch/event/1188340/contributions/4994950/attachments/2499811/4293751/rucio_sense_doma_general_20220831.pdf
+    meeting: "WLCG DOMA General Meeting"
+    meetingurl: https://indico.cern.ch/event/1188340/
+    focus-area: doma
+    project: tpc
+    location: virtual
   - title: "Migration to WebDAV"
     date: 2021-10-22
     url: https://indico.cern.ch/event/1078363/contributions/4555663/attachments/2332908/3976478/Migration%20to%20WebDAV%20-%20fall%20O%26C%20week%2C%202021.pdf
