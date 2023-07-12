@@ -14,71 +14,33 @@ Summary: you should submit a pull request with the photo and a markdown file as 
 <https://github.com/iris-hep/iris-hep.github.io>
 
 
-* Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team/fellows-2023 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team/fellows-2023). It should be 320x240 pixels and in general should be 150kB or less.
-* If you have been offered and accepted a Fellow position, your proposal will be uploaded by us to the [assets/pdf/follows-2023 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/pdf/fellows-2023). Find the exact filename and use that below.
-* Add a "`<your github username>.md`" file to the [fellows folder in the website repository](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/fellows/2023). See the example below.
+* Add a photo named `First-Last.jpg` or `.png` to the [assets/images/codas-hep/2023/ folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/codas-hep/2023/). It should be 320x240 pixels and in general should be 150kB or less.
+* Add a "`<your github username>.md`" file to the [CoDaS-HEP 2023 participants folder in the website repository](https://github.com/iris-hep/iris-hep.github.io/tree/master/_codas-hep-students/2023/). There is a "example-template.md.txt" in that directory that you copy to to <your github username>.md and edit. See the example below. There are some portions which you can edit to tell us more about yourself. See [examples from CoDaS-HEP 2022](https://codas-hep.org/downloads/CoDaS-HEP-2022-introduction-slides.pdf).
 
-*Please Note*:  In the markdown file you create, ensure you set the “active” attribute to True – (i.e.  active: True).  Otherwise, your entry will not appear on our Fellows page.
-
-Be sure to include your project summary in the project_goal field.
-
-You can leave the “presentations” and “current_status” fields blank for now.  (Make sure to include the fields)
-
-You can optionally include your linkedin-profile.
-
-#### Adding multiple projects
-If you are a returning fellow and need to add multiple projects, follow the directions found here to update the markdown file for your page:
-
-  <https://iris-hep.org/docs/fellows_multiple_projects>
-
-### Dates
-Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2021-12-31
-
-```yml
-
+You can optionally include your linkedin-profile and your orcid if you have one. 
 ---
-layout: fellow
-pagetype: fellow
-shortname: <your GitHub user id>
-permalink: /fellows/<your GitHub user id>.html
-fellow-name: <Your Name>
-title: <Your Name> - IRIS-HEP Fellow
-active: True
-dates:
-  start: <start date>
-  end: <end date>
-photo: /assets/images/team/<First name>-<Last name>.jpg
-institution: <Your institution>
-e-mail: <Your email>
-focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-project_title: <Project title>
-project_goal: >
-    Short description of your project
-mentors:
-  - <Mentor Name (<Mentor Institution>)
-proposal: /assets/pdf/fellows-2022/<find-your-file>
-presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-current_status: >
-  A placeholder for status updates
-github-username: <Your git-hub username>
-linkedin-profile: <Your LinkedIn Profile url>
+layout: codas-hep-participant
+e-mail: YOUR-EMAIL
+institution: YOUR-UNIVERSITY
+name: YOUR-NAME
+photo: "/assets/images/team/Robert-Tuck.jpg"
+github-username: YOUR-GITHUB-USERNAME
+linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
+orcid:
+title:
+website:
+logos:
+    - /assets/images/codas-hep/logos/CMS.jpg
+    - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
-```
 
-### Presentations
+### My research: TO-EDIT
 
-The meaning of the fields is the following:
+### My expertise is: TO-EDIT
 
-  * title - the title of the talk: you made need to place it in double quotes, if certain characters like a colon (":") are included in the title
-  * date - the date on which the presentation was made, in the numeric format "YYYY-MM-DD"
-  * url - this should be a direct URL to the presentation or page containing the presentation. For Indico, link to the contribution, not the PDF or other links.
-  * meeting - the name of the meeting
-  * meetingurl - the URL for the meeting in which the presentation was made
-  * focus-area - optionally list the relevant focus area for this presentation, using its short name, i.e. one of [ia,ssl,ssc,doma,as,osglhc]. Must be a yaml list if more than one is present.
+### A problem I'm grappling with: TO-EDIT
+
+### I've got my eyes on: TO-EDIT
+
+### I want to know more about: TO-EDIT
+
