@@ -7,8 +7,8 @@ pagetype: doc
 
 ### Adding or updating a CoDaS-HEP participant page on the IRIS-HEP Website
 
-In order to add your information, we request you to please supply a photo ( First_Name-Last_Name.jpg or .png - 320x240 pixels) and some information in the
-form a markdown file.
+In order to add your information, we request you to please supply a photo ( First_Name-Last_Name.jpg or .png - 320x240 pixels) and some information about
+yourself in the form a markdown file.
 
 Summary: you should submit a pull request with the photo and a markdown file as described below to this repo:
 
