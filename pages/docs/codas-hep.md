@@ -36,6 +36,7 @@ logos:
 ---
 ```
 
+```
 ### My research: TO-EDIT
 
 ### My expertise is: TO-EDIT
@@ -45,5 +46,5 @@ logos:
 ### I've got my eyes on: TO-EDIT
 
 ### I want to know more about: TO-EDIT
-
+'''
 
