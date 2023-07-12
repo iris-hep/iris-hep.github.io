@@ -14,12 +14,12 @@ logos:
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
-### My research:
+### My research: TO-EDIT
 
-### My expertise is:
+### My expertise is: TO-EDIT
 
-### A problem I'm grappling with:
+### A problem I'm grappling with: TO-EDIT
 
-### I've got my eyes on:
+### I've got my eyes on: TO-EDIT
 
-### I want to know more about:
+### I want to know more about: TO-EDIT
