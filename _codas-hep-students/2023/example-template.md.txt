@@ -6,8 +6,8 @@ name: YOUR-NAME
 photo: "/assets/images/team/Robert-Tuck.jpg"
 github-username: YOUR-GITHUB-USERNAME
 linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
-orcid: 
-title: 
+orcid:
+title:
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg

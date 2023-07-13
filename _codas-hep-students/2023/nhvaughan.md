@@ -15,4 +15,4 @@ logos:
     - /assets/images/codas-hep/logos/OregonState_logo.png
 ---
 
-### My research: Working on neutrino interactions in MINERvA and computing stuff in DUNE. 
+### My research: Working on neutrino interactions in MINERvA and computing stuff in DUNE.
