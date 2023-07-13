@@ -11,15 +11,19 @@ title:
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
-### My research: di-Higgs pair production in final states with photons and tau leptons.
+## My research:
+di-Higgs pair production in final states with photons and tau leptons.
 
-### My expertise is: Take any random piece of code and make it run, somehow.
+## My expertise is:
+Take any random piece of code and make it run, somehow.
 
-### A problem I'm grappling with: Bureaucracy of the CMS publication process, along with the non-sense requests from the review committee.
+## A problem I'm grappling with:
+Bureaucracy of the CMS publication process, along with the non-sense requests from the review committee.
 
-### I've got my eyes on: Refining my C++ skills and apply them outside of HEP.
+## I've got my eyes on:
+Refining my C++ skills and apply them outside of HEP.
 
-### I want to know more about: GPUs and low latency systems, along with best practices for optimised C++ coding.
+## I want to know more about:
+GPUs and low latency systems, along with best practices for optimised C++ coding.
