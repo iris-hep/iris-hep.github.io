@@ -6,8 +6,8 @@ name: Francesco Setti
 photo: "/assets/images/codas-hep/2023/francesco_setti.png"
 github-username: fsetti
 linkedin-profile: https://www.linkedin.com/in/francesco-setti-40b322253/
-orcid: 
-title: 
+orcid:
+title:
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
@@ -16,7 +16,7 @@ logos:
 
 ### My research: di-Higgs pair production in final states with photons and tau leptons.
 
-### My expertise is: Take any random piece of code and make it run, somehow. 
+### My expertise is: Take any random piece of code and make it run, somehow.
 
 ### A problem I'm grappling with: Bureaucracy of the CMS publication process, along with the non-sense requests from the review committee.
 
