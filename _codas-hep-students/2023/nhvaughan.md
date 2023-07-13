@@ -15,4 +15,17 @@ logos:
     - /assets/images/codas-hep/logos/OregonState_logo.png
 ---
 
-### My research: Working on neutrino interactions in MINERvA and computing stuff in DUNE.
+## My research:
+Working on neutrino interactions in MINERvA and computing stuff in DUNE.
+
+## My expertise is:
+TO-EDIT
+
+## A problem I'm grappling with:
+TO-EDIT
+
+## I've got my eyes on:
+TO-EDIT
+
+## I want to know more about: 
+TO-EDIT
