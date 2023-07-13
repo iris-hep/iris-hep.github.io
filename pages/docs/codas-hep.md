@@ -24,7 +24,7 @@ layout: codas-hep-participant
 e-mail: YOUR-EMAIL
 institution: YOUR-UNIVERSITY
 name: YOUR-NAME
-photo: "/assets/images/codas-hep/Your-Name.jpg"
+photo: "/assets/images/codas-hep/2023/Your-Name.jpg"
 github-username: YOUR-GITHUB-USERNAME
 linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid:
