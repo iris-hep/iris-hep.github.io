@@ -10,7 +10,7 @@ orcid: https://orcid.org/0000-0001-9566-4640
 title: Mr
 website:
 logos:
-    - /assets/images/codas-hep/logos/ATLAS-logo.jpg
+    - /assets/images/codas-hep/logos/ATLAS-logo.png
     - /assets/images/codas-hep/logos/okstate-logo.png
 ---
 
