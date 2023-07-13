@@ -12,6 +12,7 @@ website:
 logos:
     - /assets/images/codas-hep/logos/dune-logo.jpeg
     - /assets/images/codas-hep/logos/MINERvA_logo.jpeg
+    - /assets/images/codas-hep/logos/OregonState_logo.png
 ---
 
 ### My research: Working on neutrino interactions in MINERvA and do computing stuff in DUNE. 
