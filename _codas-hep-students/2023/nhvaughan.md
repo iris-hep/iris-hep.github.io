@@ -5,9 +5,9 @@ institution: Oregon State University
 name: Noah Harvey Vaughan
 photo: "/assets/images/codas-hep/2023/Noah-Vaughan.jpg"
 github-username: nhvaughan
-linkedin-profile: https://www.linkedin.com/in/noah-v-2186098a/
+linkedin-profile: https://www.linkedin.com/in/noah-vaughan/
 orcid: 0000-0002-8442-1886
-title: Graduate Research Assistant
+title: PhD Candidate and Graduate Research Assistant
 website:
 logos:
     - /assets/images/codas-hep/logos/dune-logo.jpeg
@@ -15,4 +15,4 @@ logos:
     - /assets/images/codas-hep/logos/OregonState_logo.png
 ---
 
-### My research: Working on neutrino interactions in MINERvA and do computing stuff in DUNE. 
+### My research: Working on neutrino interactions in MINERvA and computing stuff in DUNE. 
