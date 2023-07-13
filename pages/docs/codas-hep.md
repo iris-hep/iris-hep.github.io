@@ -37,15 +37,20 @@ logos:
 ```
 
 ```
-### My research: TO-EDIT
+## My research:
+TO-EDIT
 
-### My expertise is: TO-EDIT
+## My expertise is:
+TO-EDIT
 
-### A problem I'm grappling with: TO-EDIT
+## A problem I'm grappling with:
+TO-EDIT
 
-### I've got my eyes on: TO-EDIT
+## I've got my eyes on:
+TO-EDIT
 
-### I want to know more about: TO-EDIT
+## I want to know more about:
+TO-EDIT
 ```
 
 As part of this you can also specify logs for projects or experiments
