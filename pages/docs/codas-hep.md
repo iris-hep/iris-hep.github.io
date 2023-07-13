@@ -56,5 +56,5 @@ TO-EDIT
 As part of this you can also specify logs for projects or experiments
 you are involved with. (Change the CMS and IRIS-HEP examples above to
 those that make sense for you.) An initial set of possible logos
-can be found in [the CoDaS-HEP logo area](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/codas-hep/logos). If you need to add
-a new one, please aim to keep the filesize under 150kb.
+can be found in [the CoDaS-HEP logo area](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/codas-hep/logos).
+If you need to add a new one, please aim to keep the filesize under 150kb.
