@@ -11,7 +11,7 @@ title: Postdoctoral Associate
 website:
 logos:
     - /assets/images/codas-hep/logos/University-of-Pittsburgh-Logo.png
-    - /assets/images/codas-hep/logos/dune-logo.png
+    - /assets/images/codas-hep/logos/dune-logo.jpeg
     - /assets/images/codas-hep/logos/microboone_logo.png
     - /assets/images/codas-hep/logos/nova_logo.png
 ---
