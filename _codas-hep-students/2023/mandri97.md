@@ -7,7 +7,7 @@ photo: "/assets/images/codas-hep/2023/Manoa-Andriamirado.jpg"
 github-username: Mandri97
 linkedin-profile: www.linkedin.com/in/manoa-andriamirado
 orcid: 0000-0001-5459-4367
-title:
+title: PhD Student
 website:
 logos:
     - /assets/images/codas-hep/logos/PROSPECT_logo.png
@@ -24,7 +24,7 @@ Maintaining and revamping codebase.
 Design patterns and impostor syndrome.
 
 ## I've got my eyes on:
-Optmization and writing clean code.
+Optimization and writing clean code.
 
 ## I want to know more about:
 Concurrency and modern C++.
