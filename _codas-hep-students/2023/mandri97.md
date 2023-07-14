@@ -18,7 +18,7 @@ logos:
 Sterile neutrino searches at short-baseline reactor antineutrino experiment such as PROSPECT.
 
 ## My expertise is:
-Maintaining and revamping codebase. 
+Maintaining and revamping codebase.
 
 ## A problem I'm grappling with:
 Design patterns and impostor syndrome.
