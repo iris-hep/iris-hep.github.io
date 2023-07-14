@@ -1,3 +1,4 @@
+---
 layout: codas-hep-participant
 e-mail: steve.lantz@cornell.edu
 institution: Cornell University
