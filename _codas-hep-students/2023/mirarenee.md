@@ -16,10 +16,10 @@ logos:
 ---
 
 ## My research:
-I'm working on commissioning efforts for the Vera C. Rubin Observatory. 
+I'm working on commissioning efforts for the Vera C. Rubin Observatory.
 
 ## My expertise is:
-I have previously worked on galaxy morphology and Fast Radio Burst (FRB) projects. 
+I have previously worked on galaxy morphology and Fast Radio Burst (FRB) projects.
 A lot of my work involves working with pixel-level images.
 
 ## A problem I'm grappling with:
