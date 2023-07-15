@@ -11,8 +11,8 @@ title: PostDoc at New York University
 website:
 logos:
     - /assets/images/codas-hep/logos/NYU-Logo.png
-    - /assets/images/codas-hep/logos/ATLAS-logo.jpg
-    - /assets/images/codas-hep/logos/CERN_logo.jpg
+    - /assets/images/codas-hep/logos/ATLAS-logo.png
+    - /assets/images/codas-hep/logos/CERN_logo.png
 
 ---
 
