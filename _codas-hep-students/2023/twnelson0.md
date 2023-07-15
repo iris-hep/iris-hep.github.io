@@ -4,7 +4,7 @@ e-mail: twnelson2@wisc.edu
 institution: University of Wisconsin-Madison
 name: Trevor Nelson
 photo: /assets/images/team/Trevor-Nelson.jpg
-github-username: twnelson0 
+github-username: twnelson0
 #linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid:
 title: PhD Student
