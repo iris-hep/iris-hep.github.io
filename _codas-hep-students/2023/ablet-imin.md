@@ -17,7 +17,7 @@ logos:
 ---
 
 ## My research:
-I have searched Supersymmetric top quarks and Lepton Flavor Universality violation process. Currently, I am searching a process that could break lorentz symmetry with the ATLAS detector.  
+I have searched Supersymmetric top quarks and Lepton Flavor Universality violation process, with the ATLAS detector. Currently, I am searching a physics process that could break the lorentz symmetry.
 ## My expertise is:
 Collider physics and statistics.
 
