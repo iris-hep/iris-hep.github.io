@@ -11,6 +11,7 @@ title:
 website:
 logos:
     - /assets/images/codas-hep/logos/UMassAmherstLogo.png
+    - /assets/images/codas-hep/logos/ATLAS-logo.png
 ---
 
 ## My research:
