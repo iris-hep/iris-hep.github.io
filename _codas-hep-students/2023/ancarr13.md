@@ -5,7 +5,7 @@ institution: University of Oregon
 name: Anthony Carroll
 photo: "/assets/images/codas-hep/2023/Anthony-Carroll.png"
 github-username: ancarr13
-linkedin-profile: 
+linkedin-profile:
 orcid: 0000-0003-1692-2029
 title:
 website:
