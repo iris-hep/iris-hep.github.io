@@ -8,7 +8,7 @@ logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/uvalogo.png
     - /assets/images/codas-hep/logos/CERN_logo.png
-    
+
 ---
 Physics Phd Student(3rd year) at the University of Virginia.
 Works with CMS Experiment.
@@ -16,7 +16,7 @@ Works with CMS Experiment.
 ## My research:
 Self Interacting Dark Matter Studies
 ## My expertise is:
-Python 
+Python
 
 ## A problem I'm grappling with:
 Using Coffea and Awkward modules comfortably for my analysis.
@@ -25,4 +25,4 @@ Using Coffea and Awkward modules comfortably for my analysis.
 Learn more about Columnar Analysis.
 
 ## I want to know more about:
-Machine Learning Applications in Experimental High Energy Physics 
+Machine Learning Applications in Experimental High Energy Physics
