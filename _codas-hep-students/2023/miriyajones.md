@@ -10,7 +10,7 @@ orcid:
 title:
 website:
 logos:
-    - assets/images/codas-hep/logos/umassd-logo-blue-2x.png
+    - /assets/images/codas-hep/logos/umassd-logo-blue-2x.png
 ---
 
 ## My research:
