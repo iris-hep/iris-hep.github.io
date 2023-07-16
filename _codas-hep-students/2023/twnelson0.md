@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: twnelson2@wisc.edu
 institution: University of Wisconsin-Madison
 name: Trevor Nelson
-photo: /assets/images/team/Trevor-Nelson.jpg
+photo: /assets/images/codas-hep/2023/Trevor-Nelson.jpg
 github-username: twnelson0
 #linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid:
@@ -16,7 +16,7 @@ logos:
 ---
 
 ## My research:
-My research work includes investigating the feasibility of porting compoents of the E/Gamma reconstruction code from cmssw to run on GPUs and an analysis project focused on searches for boosted Higgs decaying to four boosted taus.
+My research work includes investigating the feasibility of porting components of the E/Gamma reconstruction code from cmssw to run on GPUs and an analysis project focused on searches for boosted Higgs decaying to four boosted taus.
 
 ## My expertise is:
 I have some experience working in C++ and python.
