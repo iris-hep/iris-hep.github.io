@@ -10,7 +10,6 @@ orcid: 0000-0002-2445-6681
 title: Gradaute student
 website:
 logos:
-    - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
