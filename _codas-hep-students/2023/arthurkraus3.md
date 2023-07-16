@@ -18,13 +18,13 @@ logos:
 ROOT CPU/memory usage optimization 
 
 ## My expertise is:
-Making mistakes
+Making mistakes, lots of troubleshooting, correcting said mistakes. 
 
 ## A problem I'm grappling with:
 Modifying athena and running derivation production jobs without errors
 
 ## I've got my eyes on:
-All things computationally extensive
+All things computationally involved. 
 
 ## I want to know more about:
-HEP analysis
+HEP analysis techniques, including ML and theory behind statistical methods and particle physics searches. 
