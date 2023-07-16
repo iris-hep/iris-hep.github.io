@@ -20,6 +20,8 @@ logos:
 
 ### My expertise is: 
     - A little bit of coffea, CUDA, Alpaka, Kokkos, SYCL, std::par
+    - LLP searches
+    - Boosted Higgs physics
 
 ### A problem I'm grappling with: 
     - Migrate GPU code written in CUDA into performance and portable code using Alpaka 
