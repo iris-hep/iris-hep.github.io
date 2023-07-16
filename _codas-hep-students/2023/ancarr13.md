@@ -11,7 +11,7 @@ title:
 website:
 logos:
     - /assets/images/codas-hep/logos/ATLAS-logo.png
-    - /assets/images/codas-hep/logos/univ_oreogon.jpg
+    - /assets/images/codas-hep/logos/univ_oregon.jpg
 ---
 
 ## My research:
