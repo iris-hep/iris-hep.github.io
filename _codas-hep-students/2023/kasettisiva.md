@@ -7,7 +7,7 @@ photo: "/assets/images/codas-hep/2023/SivaPrasad-Kasetti.jpg"
 github-username: kasettisivaE
 linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid: 0000-0001-7895-4718
-title: 
+title:
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
