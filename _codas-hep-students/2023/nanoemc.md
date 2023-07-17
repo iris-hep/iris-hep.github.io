@@ -22,7 +22,7 @@ I work on a search for vector-like leptons, which are beyond the standard model 
 Python, C++, Particle Physics, Unix
 
 ## A problem I'm grappling with:
-How to develop flexible software and how to use coffea 
+How to develop flexible software and how to use coffea
 
 ## I've got my eyes on:
 Machine learning techniques and data driven techniques for distinguishing signal and background
