@@ -14,4 +14,16 @@ logos:
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 ## My research:
-HLS4ML
+Machine Learning algorithms and hardware for LHC
+
+## My expertise is:
+Machine Leanring Algorithms
+
+## A problem I'm grappling with:
+High level synthesis
+
+## I've got my eyes on:
+Particle physics and large ML models
+
+## I want to know more about:
+CERN!!!
