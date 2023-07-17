@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: lauren.larson@utexas.edu
 institution: The University of Texas at Austin
 name: Lauren Larson
-photo: "/assets/images/codas-hep/2023/lauren-larson.jpg"
+photo: "/assets/images/codas-hep/2023/Lauren-Larson.jpg"
 github-username: laurenlarson
 linkedin-profile:
 orcid:
