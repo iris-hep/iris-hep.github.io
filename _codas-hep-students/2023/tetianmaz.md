@@ -10,7 +10,7 @@ title: Graduate Student
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/UPR_at_Mayaguez.svg.png
+    - /assets/images/codas-hep/logos/UPRM_logo.png
 
 ---
 ## My research:
