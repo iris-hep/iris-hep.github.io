@@ -13,11 +13,11 @@ logos:
     - /assets/images/codas-hep/logos/UCDavis-logo.png
     - /assets/images/codas-hep/logos/FNAL-Logo.jpg
     - /assets/images/codas-hep/logos/Mu2e-logo.png
-    
+
 ---
 
 ## My research:
-Working on Mu2e experiment: Extinction dipole system and Geant4 geometry changes for radiation measurement 
+Working on Mu2e experiment: Extinction dipole system and Geant4 geometry changes for radiation measurement
 
 ## My expertise is:
 Geant4, gas detectors
