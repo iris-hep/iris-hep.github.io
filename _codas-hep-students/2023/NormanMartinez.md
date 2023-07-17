@@ -5,7 +5,7 @@ institution: Kansas State University
 name: Norman Martinez
 photo: "/assets/images/codas-hep/2023/Norman_Martinez.jpg"
 github-username: Nmartin30
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title: Physics Grad Student
 website:
