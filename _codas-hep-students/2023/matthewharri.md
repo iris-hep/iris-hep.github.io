@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: matthewharri@umass.edu
 institution: University of Massachusetts, Amherst
 name: Matthew Harris
-photo: "/assets/images/codas-hep/2023/Matthew-Harris.png
+photo: "/assets/images/codas-hep/2023/Matthew-Harris.png"
 github-username: matthewharri
 # linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid: 0009-0001-8882-5976
