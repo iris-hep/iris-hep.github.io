@@ -15,13 +15,13 @@ logos:
 ---
 
 ## My research:
-Currently working on LAr detector upgrades for the ATLAS experiment. 
+Currently working on LAr detector upgrades for the ATLAS experiment.
 
 ## My expertise is:
-Python and version control. 
+Python and version control.
 
 ## A problem I'm grappling with:
-Finding better ways to optimize my code with parallel processing. Learning about databases. 
+Finding better ways to optimize my code with parallel processing. Learning about databases.
 
 ## I've got my eyes on:
 Starting an analysis on Long Lived Particles.
