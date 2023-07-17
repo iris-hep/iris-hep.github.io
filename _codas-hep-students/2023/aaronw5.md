@@ -17,7 +17,7 @@ logos:
 Machine Learning algorithms and hardware for LHC
 
 ## My expertise is:
-Machine Leanring Algorithms
+Machine Learning Algorithms
 
 ## A problem I'm grappling with:
 High level synthesis
