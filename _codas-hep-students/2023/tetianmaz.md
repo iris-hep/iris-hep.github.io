@@ -1,3 +1,4 @@
+---
 layout: codas-hep-participant
 e-mail: tetiana.mazurets@upr.edu
 institution: University of Puerto Rico, Mayaguez
@@ -11,8 +12,8 @@ website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/UPRM_logo.png
-
 ---
+
 ## My research:
 Using a ML algorithm that can adapt to any domain on data from the CMS experiment
 
