@@ -11,7 +11,7 @@ repos:
       - id: check-yaml
 
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.0-alpha.9-for-vscode"
+    rev: "v3.0.0"
     hooks:
       - id: prettier
         types_or: [yaml, css, scss, javascript, json]
@@ -39,7 +39,7 @@ repos:
         args:
           [
             "-L",
-            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus",
+            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus,ablet",
           ]
 
   - repo: local
