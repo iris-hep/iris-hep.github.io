@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: xiaohe_shen@brown.edu
 institution: Brown University
 name: Xiaohe Shen
-photo: "/assets/images/codas-hep/2023/Xiaohe-Shen.jpg"
+photo: "/assets/images/codas-hep/2023/Xiaohe-Shen.png"
 github-username: Ari-mu-l
 linkedin-profile:
 orcid:
