@@ -2,7 +2,7 @@
 layout: codas-hep-participant
 e-mail: yiming.abulaiti@cern.ch
 institution: New York University
-name: Yiming (Ablet) Abulaiti
+name: "Yiming (Ablet) Abulaiti"
 photo: "/assets/images/codas-hep/2023/Yiming-Abulaiti.jpg"
 github-username: ablet-imin
 linkedin-profile: https://www.linkedin.com/in/dr-ablet-imin-0b70a6124/
