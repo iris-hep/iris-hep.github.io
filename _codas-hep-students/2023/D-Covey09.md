@@ -1,8 +1,9 @@
+---
 layout: codas-hep-participant
 e-mail: drc2p@virginia.edu
 institution: University of Virginia
 name: Dayne Robert Coveyou
-photo: "/assets/images/codas-hep/2023/Your-Name.jpg"
+photo: "/assets/images/codas-hep/2023/Dayne_Coveyou.jpg"
 github-username: D-Covey09
 linkedin-profile:
 orcid:
