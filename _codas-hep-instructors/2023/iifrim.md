@@ -24,7 +24,7 @@ Uproot, Awkward Array, xeus-cpp
 Python, C++, ML
 
 ## A problem I'm grappling with:
-Feature expansion for Uproot 
+Feature expansion for Uproot
 
 ## I've got my eyes on:
 Columnar analysis
