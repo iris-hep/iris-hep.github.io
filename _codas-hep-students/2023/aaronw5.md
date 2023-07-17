@@ -14,4 +14,4 @@ logos:
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 ## My research:
-HLS4M
+HLS4ML
