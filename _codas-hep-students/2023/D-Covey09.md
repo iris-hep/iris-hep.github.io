@@ -23,8 +23,8 @@ Primarily C++ and Python. I've been working with the standard physics data "mana
 Retrieving real and simulated data from NOvA's ART framework to do my analysis.
 
 ## I've got my eyes on:
-More generalized data analysis tools than ROOT in preparation for entering the private sector. 
+More generalized data analysis tools than ROOT in preparation for entering the private sector.
 
 ## I want to know more about:
-Optimization in videogames. It's a bit out of left field, but a game as complex as The Legend of Zelda: Tears of the Kingdom running on hardware effectively as powerful as a high-end smartphone fascinates me. Especially with it's robust interactive kinematic physics systems. 
+Optimization in videogames. It's a bit out of left field, but a game as complex as The Legend of Zelda: Tears of the Kingdom running on hardware effectively as powerful as a high-end smartphone fascinates me. Especially with it's robust interactive kinematic physics systems.
 
