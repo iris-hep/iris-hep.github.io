@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: skasetti1@lsu.edu
 institution: Louisiana State University
 name: Siva Prasad Kasetti
-photo: "/assets/images/codas-hep/2023/SivaPrasad-Kasetti.jpg"
+photo: "/assets/images/codas-hep/2023/SivaPrasad-Kasetti.jpeg"
 github-username: kasettisivaE
 linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid: 0000-0001-7895-4718
