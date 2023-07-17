@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: xujack2001@gmail.com
 institution: Duke University
 name: Jack (Yuheng) Xu
-photo: "/assets/images/codas-hep/2023/Jack-Xu.jpg"
+photo: "/assets/images/codas-hep/2023/Jack-Xu.png"
 github-username: jack-y-xu
 linkedin-profile: https://www.linkedin.com/in/jackyuhengxu/
 orcid:
