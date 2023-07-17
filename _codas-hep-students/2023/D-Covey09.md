@@ -1,3 +1,4 @@
+---
 layout: codas-hep-participant
 e-mail: drc2p@virginia.edu
 institution: University of Virginia
