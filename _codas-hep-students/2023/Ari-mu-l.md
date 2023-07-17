@@ -11,6 +11,7 @@ title: Graduate Student
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
+    - /assets/images/codas-hep/logos/Brown_Logo.jpg
 ---
 
 ## My research:
