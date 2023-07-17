@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: michellecc@utexas.edu
 institution: The University of Texas at Austin
 name: Michelle Contreras Cossio
-photo: "/assets/images/codas-hep/2023/crow-t-robot.jpg"
+photo: "/assets/images/codas-hep/2023/Michelle-Contreras_Cossio.jpg"
 github-username: micontre
 linkedin-profile: https://www.linkedin.com/in/michelle-contreras-cossio-021986243/
 orcid:
