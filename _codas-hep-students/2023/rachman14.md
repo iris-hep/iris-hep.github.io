@@ -15,7 +15,7 @@ logos:
 ---
 
 ## My research:
-I work with the ATLAS detector at the LHC. I am involved in analysis and tracking. More specifically, I am analyzing the properties of the Higgs boson and developing the Hough transform algorithm for the FPGAs involved in tracking. 
+I work with the ATLAS detector at the LHC. I am involved in analysis and tracking. More specifically, I am analyzing the properties of the Higgs boson and developing the Hough transform algorithm for the FPGAs involved in tracking.
 
 ## My expertise is:
 I am supposed to be an expert in the proposed Event filter for the Phase II upgrade for ATLAS.
@@ -27,4 +27,4 @@ I struggle to remember the semicolons in C/C++.
 I'd also want to learn emacs.
 
 ## I want to know more about:
-I want to know more about good coding techniques. I feel like the structure of my code may be unreadable for others. 
+I want to know more about good coding techniques. I feel like the structure of my code may be unreadable for others.
