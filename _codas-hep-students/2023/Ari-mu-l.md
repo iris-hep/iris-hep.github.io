@@ -5,9 +5,9 @@ institution: Brown University
 name: Xiaohe Shen
 photo: "/assets/images/codas-hep/2023/crow-t-robot.jpg"
 github-username: Ari-mu-l
-linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
+linkedin-profile: 
 orcid:
-title:
+title: Graduate Student
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
