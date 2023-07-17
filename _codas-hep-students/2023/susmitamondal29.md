@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: mondal6@wisc.edu
 institution: University of Wisconsin-Madison
 name: Susmita Mondal
-photo: "/assets/images/codas-hep/2023/Susmita-Mondal.jpg"
+photo: "/assets/images/codas-hep/2023/Susmita_Mondal.jpg"
 github-username: susmitamondal29
 linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid:
