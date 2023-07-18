@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: james.haiston@mines.sdsmt.edu
 institution: South Dakota School of Mines and Technology
 name: James Haiston
-photo: "/assets/images/codas-hep/2023/JamesHaiston.jpg"
+photo: "/assets/images/codas-hep/2023/James-Haiston.jpg"
 github-username: Haiston
 linkedin-profile: www.linkedin.com/in/james-haiston-69067025
 orcid:
