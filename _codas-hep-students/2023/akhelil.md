@@ -10,9 +10,8 @@ orcid:
 title:
 website:
 logos:
-    - /assets/images/codas-hep/logos/CMS.jpg
+    - /assets/images/codas-hep/logos/ATLAS-logo.png
     - /assets/images/codas-hep/logos/UMassAmherstLogo.png
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
 ## My research:
