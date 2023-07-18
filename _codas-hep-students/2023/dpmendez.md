@@ -2,7 +2,7 @@
 layout: codas-hep-participant
 e-mail: dmendezme@bnl.gov
 institution: Brookhaven National Laboratory
-name: Diana Patricia Mendez Mendez
+name: Diana Patricia Mendez
 photo: "/assets/images/codas-hep/2023/diana-mendez.jpg"
 github-username: dpmendez
 linkedin-profile: https://www.linkedin.com/in/dpmendez/
