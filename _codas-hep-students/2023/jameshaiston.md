@@ -10,8 +10,8 @@ orcid:
 title: Graduate Student
 website:
 logos:
-    - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/SDSMTlogo_jh.jpg
+    - /assets/images/codas-hep/logos/LZlogo_jh.png
 ---
 
 ## My research:
