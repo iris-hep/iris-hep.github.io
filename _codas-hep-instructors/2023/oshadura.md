@@ -17,7 +17,7 @@ logos:
 
 
 ### My research:
-development of a prototype of Analysis Facility for HL-LHC 
+development of a prototype of Analysis Facility for HL-LHC
 
 ### My expertise is:
 Analysis Facilities and Data Organization, Management and Access (DOMA)
