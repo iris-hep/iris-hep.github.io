@@ -16,13 +16,13 @@ logos:
 ---
 
 ## My research:
-I am working in detector development nowdays. Specifically in timing detectors, like BTL to be used in CMS upgrade project.
+I am working in detector development nowadays. Specifically in timing detectors, like BTL to be used in CMS upgrade project.
 
 ## My expertise is:
 I am proficient in data analysis, computer simulation and hardware development for nuclear and particle physics.
 
 ## A problem I'm grappling with:
-Finding a detector solution that is 1) fast, 2) can withstand aging in highly radiation enviroments, and 3) afordable.
+Finding a detector solution that is 1) fast, 2) can withstand aging in highly radiation environments, and 3) afordable.
 
 ## I've got my eyes on:
 Learn new developments in technology and new echniques for science compunication.
