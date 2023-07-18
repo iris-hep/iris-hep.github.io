@@ -26,4 +26,4 @@ Exploring the diffusion models and its possible applications
 
 I want to know more about:
 
-Machine Learning and more programing Languages (other than Python)
+Machine Learning and more programming Languages (other than Python)
