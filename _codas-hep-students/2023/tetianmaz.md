@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: tetiana.mazurets@upr.edu
 institution: University of Puerto Rico, Mayaguez
 name: Tetiana Mazurets
-photo: "/assets/images/codas-hep/2023/Tetiana_Mazurets.jpg"
+photo: "/assets/images/codas-hep/2023/Tetiana_Mazurets.png"
 github-username: tetianmaz
 linkedin-profile:
 orcid:
