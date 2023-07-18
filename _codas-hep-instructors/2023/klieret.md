@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: kl5675@princeton.edu
 institution: Princeton University
 name: Kilian Lieret
-photo: "/assets/images/team/Kilian-Lieret.jpg
+photo: /assets/images/team/Kilian-Lieret.jpg
 github-username: klieret
 orcid: 0000-0003-2792-7511
 linkedin-profile: kilian-lieret-0b0667104
