@@ -5,7 +5,7 @@ institution: South Dakota School of Mines and Technology
 name: James Haiston
 photo: "/assets/images/codas-hep/2023/JamesHaiston.jpg"
 github-username: Haiston
-linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
+linkedin-profile: www.linkedin.com/in/james-haiston-69067025
 orcid:
 title: Graduate Student
 website:
