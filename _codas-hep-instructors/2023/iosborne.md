@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: iosborne@princeton.edu
 institution: Princeton University
 name: Ianna Osborne
-photo: "/assets/images/team/Ianna-Osborne.jpg"
+photo: "/assets/images/team/Ianna-Osborne.png"
 github-username: ianna
 linkedin-profile: "https://linkedin.com/in/ianna-osborne-9982a342"
 orcid: 0000-0002-6955-1033
