@@ -2,9 +2,9 @@
 layout: codas-hep-participant
 e-mail: dmendezme@bnl.gov
 institution: Brookhaven National Laboratory
-name: Diana Mendez
+name: Diana Patricia Mendez
 photo: "/assets/images/codas-hep/2023/diana-mendez.jpg"
-github-username: mendezdpatricia
+github-username: dpmendez
 linkedin-profile: https://www.linkedin.com/in/dpmendez/
 orcid: https://orcid.org/0000-0002-5411-2038
 title: Research Associate
@@ -30,4 +30,4 @@ Improve ICARUS neutrino event selection efficiency with neural networks.
 Graph neural networks.
 
 ## I want to know more about:
-Big data handling, paralization.
+Big data, paralization.
