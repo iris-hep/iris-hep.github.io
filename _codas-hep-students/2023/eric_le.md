@@ -23,4 +23,4 @@ I struggle to read documentation, especially C. It takes me a long time to under
 Learning about FPGAs and GPUs.
 
 ## I want to know more about:
-I want to know more about how to write good code. I feel like the structure of my code is heavily bloated and hard for others to read. 
+I want to know more about how to write good code. I feel like the structure of my code is heavily bloated and hard for others to read.
