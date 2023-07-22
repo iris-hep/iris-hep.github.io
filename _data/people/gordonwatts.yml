@@ -327,3 +327,10 @@ presentations:
     focus-area: as
     project: agc
     location: Madison, WI, USA
+  - title: "Summary of the Differentiable and Probalistic discussions on Analysis at Munich Workshop"
+    date: 2023-07-21
+    url: https://indico.cern.ch/event/1307783/contributions/5504958/
+    meetingurl: https://indico.cern.ch/event/1307783/
+    meeting: "ATLAS Analysis Model Group (internal)"
+    focus-area: as
+    location: virtual
