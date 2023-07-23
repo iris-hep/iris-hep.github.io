@@ -6,9 +6,9 @@ name: Ryan Simeon
 photo: "/assets/images/codas-hep/2023/ryan-simeon2.JPG"
 github-username: rpsimeon34
 linkedin-profile: [(https://www.linkedin.com/in/ryan-simeon-529165161/)]
-orcid: 
+orcid:
 title: PhD Student
-website: 
+website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
