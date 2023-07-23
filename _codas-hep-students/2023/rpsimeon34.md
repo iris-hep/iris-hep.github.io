@@ -1,14 +1,14 @@
 ---
 layout: codas-hep-participant
-e-mail: YOUR-EMAIL
-institution: YOUR-UNIVERSITY
-name: Example Name
-photo: "/assets/images/codas-hep/2023/crow-t-robot.jpg"
-github-username: YOUR-GITHUB-USERNAME
-linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
+e-mail: rsimeon@wisc.edu
+institution: University of Wisconsin - Madison
+name: Ryan Simeon
+photo: "/assets/images/codas-hep/2023/ryan-simeon2.JPG"
+github-username: rpsimeon34
+linkedin-profile: [(https://www.linkedin.com/in/ryan-simeon-529165161/)]
 orcid: 
 title: PhD Student
-website: [(https://www.linkedin.com/in/ryan-simeon-529165161/)]
+website: 
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
