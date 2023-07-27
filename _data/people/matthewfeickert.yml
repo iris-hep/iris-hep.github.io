@@ -412,3 +412,21 @@ presentations:
     location: Norfolk, U.S.A.
     focus-area:
     project:
+
+  - title: "Working Towards Fully Differentiable Analysis"
+    date: 2023-07-25
+    url: https://indico.cern.ch/event/1234156/contributions/5510688/
+    meeting: "PyHEP.dev Workshop 2023"
+    meetingurl: https://indico.cern.ch/event/1234156/
+    location: Princeton, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "pyhf Tutorial and Demonstration"
+    date: 2023-07-26
+    url: https://indico.cern.ch/event/1293313/contributions/5437775/
+    meeting: "Computational HEP Traineeship Summer School 2023"
+    meetingurl: https://indico.cern.ch/event/1293313/
+    location: Princeton, U.S.A.
+    focus-area: as
+    project: pyhf
