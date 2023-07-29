@@ -334,3 +334,17 @@ presentations:
     meeting: "ATLAS Analysis Model Group (internal)"
     focus-area: as
     location: virtual
+  - title: "Cuts and NN - living together in peace"
+    date: 2023-07-25
+    url: https://indico.cern.ch/event/1242538/contributions/5432836/
+    meetingurl: https://indico.cern.ch/event/1242538
+    meeting: "Third MODE Workshop on Differentiable Programming for Experiment Design"
+    focus-area: as
+    location: Princeton, NJ, USA
+  - title: "Intro Talk: Who am I?"
+    date: 2023-07-25
+    url: https://indico.cern.ch/event/1234156/contributions/5506053
+    meetingurl: https://indico.cern.ch/event/1234156
+    meeting: "PyHEP.dev 2023 - Python in HEP Developer's Workshop"
+    focus-area: as
+    location: Princeton, NJ, USA
