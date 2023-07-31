@@ -1,6 +1,6 @@
 ---
 layout: codas-hep-participant
-e-mail: jorgeeh@princeton.edu 
+e-mail: jorgeeh@princeton.edu
 institution: Princeton
 name: Jorge Hernandez
 photo: "/assets/images/codas-hep/2023/Jorge-Hernandez.jpeg"
@@ -21,10 +21,10 @@ Implementing Anomaly Detection Machine Learning in the CMS L1 Trigger
 I'm still and undergraduate so mostly I do minor comparative algorithms.
 
 ## A problem I'm grappling with:
-Learning how to use CMMSW interface and collections for my analyzers. 
+Learning how to use CMMSW interface and collections for my analyzers.
 
 ## I've got my eyes on:
-Learning more about innovative software and its applications to complicated physics problems. 
+Learning more about innovative software and its applications to complicated physics problems.
 
 ## I want to know more about:
-Machine Learning, Efficient interfacing between languages, low level computing, proabibility models, monte carlo simulations and a lot more stuff.  
+Machine Learning, Efficient interfacing between languages, low level computing, proabibility models, monte carlo simulations and a lot more stuff.
