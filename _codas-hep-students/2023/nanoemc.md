@@ -11,7 +11,6 @@ title:
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
     - /assets/images/codas-hep/logos/uw-logo-flush-web.png
 ---
 

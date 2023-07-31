@@ -11,7 +11,6 @@ title:
 website:
 logos:
     - /assets/images/codas-hep/logos/ATLAS-logo.png
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 ## My research:
 I work on a standard model VH physics analysis, more precisely WH(WW) with a three lepton final state.
