@@ -10,6 +10,16 @@ orcid:
 title:
 website:
 logos:
-    - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/ATLAS-logo.jpg
 ---
+
+## My research:
+
+## My expertise is:
+
+## A problem I'm grappling with:
+
+## I've got my eyes on:
+
+## I want to know more about:
+

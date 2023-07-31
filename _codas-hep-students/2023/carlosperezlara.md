@@ -12,7 +12,6 @@ website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/UVA-Logo.png
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
 ## My research:
