@@ -6,7 +6,7 @@ name: Gaurav Arora
 photo: "/assets/images/codas-hep/2023/Gaurav-Arora.jpg"
 github-username: Gaurav-Arora-MatSci
 linkedin-profile: www.linkedin.com/in/gaurav-arora-1100
-orcid: 
+orcid:
 title:
 website:
 logos:
@@ -27,4 +27,4 @@ Designing beam windows for high power accelerators.
 High entropy alloys for next-gen accelerators.
 
 ## I want to know more about:
-High energy physics. 
+High energy physics.
