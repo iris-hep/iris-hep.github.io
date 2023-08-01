@@ -9,6 +9,13 @@ shortname: brianhlin
 title: OSG Software Team Manager
 website:
 presentations:
+  - title: OSG-LHC Updates
+    date: 2023-07-12
+    url: https://agenda.hep.wisc.edu/event/2014/contributions/28506/
+    meeting: Throughput Computing \'23
+    meetingurl: https://agenda.hep.wisc.edu/event/2014/
+    location: University of Wisconsin–Madison
+    focus-area: osglhc
   - title: OSG-LHC Timelines
     date: 2022-12-02
     url: https://indico.cern.ch/event/1201515/contributions/5141108/
