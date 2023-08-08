@@ -14,9 +14,6 @@ A number of employment opportunities exist with the universities involved in IRI
 ### Princeton University
   * [Research Software Engineer](https://main-princeton.icims.com/jobs/16019/research-software-engineer-ii/job?mode=view&mobile=false&width=696&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
 
-### Univresity of Washington
-  * [Postdoc](https://inspirehep.net/jobs/2641332)
-
 ### University of Wisconsin–Madison
   * [CHTC Research Cyberinfrastructure Specialist](https://jobs.hr.wisc.edu/en-us/job/516945/chtc-research-cyberinfrastructure-specialist-1)
 
