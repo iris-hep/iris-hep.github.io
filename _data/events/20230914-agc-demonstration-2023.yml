@@ -1,0 +1,9 @@
+name: IRIS-HEP AGC Demonstration 2023
+startdate: 2023-09-14
+enddate: 2023-09-14
+location: University of Wisconsin–Madison
+meetingurl: https://indico.cern.ch/e/agc-demonstration
+image:
+description: >
+  The Analysis Grand Challenge (AGC) demonstration event is a half-day workshop, hosted on 14 September at the Morgridge Institute for Research and the University of Wisconsin–Madison's Data Science Institute. It aims to bring together experts and all those interested in the IRIS-HEP AGC execution milestone and its results.
+labels:
