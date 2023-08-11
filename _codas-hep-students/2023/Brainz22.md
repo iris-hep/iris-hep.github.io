@@ -11,7 +11,6 @@ title: Particle Physics and Machine Learning 2nd. year PhD student
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 ## My research:
 My research involves the development of ML hardware co-designed algorithms and their implementation on the triggering hardware of the CMS detector at the LHC.
@@ -25,7 +24,6 @@ A problem I am grappling with is related to the deployment of a ML algorithm on 
 
 ## I've got my eyes on:
 I've got my eyes on Beyond the Standard Model searches for particles and the theories that back their existence.
-
 
 ## I want to know more about:
 I want to know more about 1) particle physics analyses and the computational tools employed to realize such analyses, 2) optimization and enhancement of ML models, and 3) detector data acquisition systems.
