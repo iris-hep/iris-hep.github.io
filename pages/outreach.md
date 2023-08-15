@@ -1,16 +1,20 @@
 ---
-permalink: /quarknet.html
+permalink: /outreach.html
 layout: default
-title: QuarkNet
+title: Education and Outreach
 ---
+<center>
+<h1> Education and Outreach</h1>
+</center>
 
+{%comment %}
 
-  <a href="https://quarknet.org" style="text-decoration: none;color: #002b5c;background: #fff !important;border: 1px solid #777;font-size: 30px; padding: 15px 0px">
-    <img src="/assets/logos/quarknet-logo.png" alt="QuarkNet Logo" style="line-height: 1.42857143;color: #002b5c;font-size: 30px;border: 0;max-height: 60px;vertical-align: top;margin-top: 2px;">
-    <span style="font-size: 30px;margin-right: 10px;margin-left: -8px;line-height: 70px;color: #e53030;font-family: Times New Roman, Times, serif;">QuarkNet</span>
-  </a>
+<a href="https://quarknet.org" style="text-decoration: none;color: #002b5c;background: #fff !important;border: 1px solid #777;font-size: 30px; padding: 15px 0px">
+  <img src="/assets/logos/quarknet-logo.png" alt="QuarkNet Logo" style="line-height: 1.42857143;color: #002b5c;font-size: 30px;border: 0;max-height: 60px;vertical-align: top;margin-top: 2px;">
+  <span style="font-size: 30px;margin-right: 10px;margin-left: -8px;line-height: 70px;color: #e53030;font-family: Times New Roman, Times, serif;">QuarkNet</span>
+</a>
 
-<br>
+{%endcomment%}
 
 The [QuarkNet](https://quarknet.org) program is national in scope and funded by the National Science Foundation through a grant to the University of Notre Dame. The main purpose is to provide professional development to high school physics teachers in particle physics content and methods. QuarkNet is organized into Centers at universities or laboratories where one or more particle physicists mentor, on average, about ten teachers. In addition, the QuarkNet staff provides professional development opportunities as well as activities that teachers can do with their students. In this way, teachers can excite their students about physics by bringing their learning to the cutting edge and help them understand how physics works by engaging in authentic experiences with actual experimental particle physics data.
 
@@ -27,7 +31,10 @@ IRIS-HEP is collaborating with QuarkNet to sponsor _Coding Camp 2_ at Fermilab f
 
 <br><br>
 
-<h4 id="tr_events" style="padding-top:90px; margin-top: -90px;">Upcoming and Recent Training and Outreach Events</h4>
+## Training and Outreach Events
+
+
+
 {% include get_all_events.html %}
 {% assign sorted_events = all_events | sort: 'startdate' | reverse %}
 {% assign training_events = "" | split: "," %}
@@ -39,6 +46,22 @@ IRIS-HEP is collaborating with QuarkNet to sponsor _Coding Camp 2_ at Fermilab f
 {% endif %}
 {% endfor %}
 
-{% expandable training_events 7 %}
+{% expandable training_events 2 %}
 {% include print_event.html students=1 event=expandable %}
 {% endexpandable %}
+
+<!--
+
+{%comment %}
+
+{% for outevt in training_events limit:1 %}
+1. {{outevt}}
+{% endfor %}
+
+
+
+{% for outevt in training_events %}
+1. [{{outevt.name}}]({{outevt.meetingurl}}) - {{outevt.startdate | date_to_string }}  ({{outevt.location}})
+{% endfor %}
+
+{%endcomment%} -->
