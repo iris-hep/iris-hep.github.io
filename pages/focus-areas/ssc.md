@@ -1,17 +1,16 @@
 ---
 permalink: /ssc.html
 layout: focus-area
-title: "" #Training, Education and Outreach
+title: Training, Education and Outreach
 short_title: ssc
 pagetype: focus-area
 ---
-
-# Training, [Education and Outreach]({%link pages/outreach.md%})
 
 #### Quick links
 - <a href="#tr_events">Upcoming and recent events</a>
 - [Training Modules and videos][introductory HEP software curriculum]
 - [HSF Training Events][HSF events]
+- [Education and Outreach]({%link pages/outreach.md%})
 
 #### Introduction
 
