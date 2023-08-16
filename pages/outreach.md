@@ -33,8 +33,6 @@ IRIS-HEP is collaborating with QuarkNet to sponsor _Coding Camp 2_ at Fermilab f
 
 ## Training and Outreach Events
 
-
-
 {% include get_all_events.html %}
 {% assign sorted_events = all_events | sort: 'startdate' | reverse %}
 {% assign training_events = "" | split: "," %}
@@ -46,22 +44,6 @@ IRIS-HEP is collaborating with QuarkNet to sponsor _Coding Camp 2_ at Fermilab f
 {% endif %}
 {% endfor %}
 
-{% expandable training_events 2 %}
+{% expandable training_events 6 %}
 {% include print_event.html students=1 event=expandable %}
 {% endexpandable %}
-
-<!--
-
-{%comment %}
-
-{% for outevt in training_events limit:1 %}
-1. {{outevt}}
-{% endfor %}
-
-
-
-{% for outevt in training_events %}
-1. [{{outevt.name}}]({{outevt.meetingurl}}) - {{outevt.startdate | date_to_string }}  ({{outevt.location}})
-{% endfor %}
-
-{%endcomment%} -->
