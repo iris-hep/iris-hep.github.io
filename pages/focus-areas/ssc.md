@@ -10,6 +10,7 @@ pagetype: focus-area
 - <a href="#tr_events">Upcoming and recent events</a>
 - [Training Modules and videos][introductory HEP software curriculum]
 - [HSF Training Events][HSF events]
+- [Education and Outreach](outreach)
 
 #### Introduction
 
