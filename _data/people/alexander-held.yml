@@ -414,3 +414,26 @@ presentations:
       - as
       - doma
     project: agc
+
+  - title: "Analysis Grand Challenge Demo"
+    date: 2023-07-24
+    url: https://indico.cern.ch/event/1293313/contributions/5447565/
+    meeting: Computational HEP Traineeship Summer School
+    meetingurl: https://indico.cern.ch/event/1293313/
+    location: "Princeton, USA"
+    focus-area:
+      - as
+    project:
+      - agc
+
+  - title: "Statistical models, analysis workflows & automatic differentiation"
+    date: 2023-07-26
+    url: https://indico.cern.ch/event/1234156/contributions/5506050/
+    meeting: PyHEP.dev 2023
+    meetingurl: https://indico.cern.ch/event/1234156/
+    location: "Princeton, USA"
+    focus-area:
+      - as
+    project:
+      - agc
+      - cabinetry
