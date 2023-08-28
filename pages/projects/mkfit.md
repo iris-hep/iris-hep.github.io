@@ -4,7 +4,8 @@ layout: project
 title: mkFit
 shortname: mkfit
 pagetype: project
-image: logos/mkfit-graphic.png
+image: logos/mkfit-graphic2.png
+logowidth: 20%
 blurb: Modernizing Kalman filter tracking for CMS
 maturity: Deployed
 maturity-note:

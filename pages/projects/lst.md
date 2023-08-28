@@ -17,6 +17,7 @@ team:
  - srlantz
  - tresreid
  - dan131riley
+ - gniendorf
  - Leonardo Giannini
  - slava77
  - mmasciov
