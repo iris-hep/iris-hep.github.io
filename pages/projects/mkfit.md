@@ -33,8 +33,9 @@ team:
 focus-area: ia
 ---
 
-
-MkFit aims to develop fully vectorized and parallelized tracking algorithms based on the Kalman Filter for use in a collider experiment.
+<h3>mkFit</h3>
+The mkFit project aims to develop fully vectorized and parallelized tracking algorithms based on the Kalman Filter for use in collider experiments.
+The software has been integrated into CMSSW and is currently being used in [CMS Run 3](https://cms.cern/news/wait-overthe-lhc-run-3-has-started).
 For a more complete account, see the [main project page](http://trackreco.github.io/) and the [JINST publication](http://inspirehep.net/record/1798734).
 
 <br/>
