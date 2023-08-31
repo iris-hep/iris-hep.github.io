@@ -28,6 +28,7 @@ proposal: /assets/pdf/fellows-2022/008-proposal-Ameya-Thete.pdf
 presentations:
 current_status: >
   <strong> May 2022 </strong> - Undergraduate student of Physics and Computer Science at BITS, Pilani - K.K. Birla Goa Campus.
+  <strong> August 2023 </strong> - Beginning Ph.D. studies in Physics at the University of Wisconsin-Madison.
 github-username: ameya1101
 focus-area:
   - ia
@@ -47,4 +48,5 @@ presentations:
     recordingurl: https://youtu.be/gEaqn7C9ipY
     focus-area: ia
 linkedin-profile: https://www.linkedin.com/in/ameya-thete/
+website: https://ameya1101.github.io
 ---
