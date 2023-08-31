@@ -27,7 +27,7 @@ mentors:
 proposal: /assets/pdf/fellows-2022/008-proposal-Ameya-Thete.pdf
 presentations:
 current_status: >
-  <strong> May 2022 </strong> - Undergraduate student of Physics and Computer Science at BITS, Pilani - K.K. Birla Goa Campus.
+  <strong> May 2022 </strong> - Undergraduate student of Physics and Computer Science at BITS, Pilani - K.K. Birla Goa Campus.<br>
   <strong> August 2023 </strong> - Beginning Ph.D. studies in Physics at the University of Wisconsin-Madison.
 github-username: ameya1101
 focus-area:
