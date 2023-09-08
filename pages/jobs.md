@@ -11,21 +11,10 @@ A number of employment opportunities exist with the universities involved in IRI
 ### Morgridge Institute
   * [Research Software Engineer](https://morgridge.org/job-posting/research-software-engineer/)
 
-### Princeton University
-  * [Research Software Engineer](https://main-princeton.icims.com/jobs/16019/research-software-engineer-ii/job?mode=view&mobile=false&width=696&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
-
-### University of Wisconsin–Madison
-  * [CHTC Research Cyberinfrastructure Specialist](https://jobs.wisc.edu/jobs/research-systems-integrator-madison-wisconsin-united-states-f1253dd5-d0f5-4607-a8e1-1dbbab0419f6)
-
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
-
-
-### Fermilab
-
-  * [Computing Services Specialist](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Computing--Services-Specialist-I_R_005963) - Envisioned to have both sysadmin/technical and user-facing components supporting HPC users (e.g. Lattice QCD) as well as multiple HEP experiments across all frontiers.
 
 ### Others
 
