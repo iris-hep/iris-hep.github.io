@@ -11,7 +11,7 @@ summary: >
 figure-class: center
 ---
 
-(Orginally posted [here](https://research.princeton.edu/news/out-harm%E2%80%99s-way-physics-research-program-supports-ukrainian-students-displaced-war) Reposted with permission from the Princeton University, Office of the Dean for Research)
+(Originally posted [here](https://research.princeton.edu/news/out-harm%E2%80%99s-way-physics-research-program-supports-ukrainian-students-displaced-war) Reposted with permission from the Princeton University, Office of the Dean for Research)
 
 In March of 2022, a student in Ukraine sent an email to the Princeton University physics department. The 18-year-old, Oleksandr Shelestiuk, soon received a response from Chris Tully, Princeton professor of physics and researcher at the European Organization for Nuclear Research (CERN), where scientists congregate from all over the world.
 
