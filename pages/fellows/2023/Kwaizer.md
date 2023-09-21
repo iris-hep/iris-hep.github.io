@@ -19,9 +19,9 @@ project_goal: >
 mentors:
   - Martin Barisits (CERN EP)
   - Mario Lassnig (CERN EP)
-proposal: /assets/pdf/fellows-2022/U049-proposal-Lev-Pambuk.pdf
+proposal: /assets/pdf/fellows-2023/U049-proposal-Lev-Pambuk.pdf
 presentations:
 current_status:
 github-username: Kwaizer
-linkedin-profile: www.linkedin.com/in/lev-pambuk-89bb7b26a
+linkedin-profile: https://www.linkedin.com/in/lev-pambuk-89bb7b26a/
 ---
