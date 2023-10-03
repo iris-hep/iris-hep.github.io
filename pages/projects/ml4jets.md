@@ -44,7 +44,7 @@ The QCD-aware recursive neural networks developed as part of DIANA/HEP (<a href=
  <div class="col-8">
 
   <h3>Top Tagging Comparison </h3>
-At  <a href="https://indico.cern.ch/event/745718/">ML4Jets 2018</a> a top-tagging comparison was initaited, resulting in <a href="http://inspirehep.net/record/1722059">``The Machine Learning Landscape of Top Taggers''</a>. The table  shows a comparison of the methods.
+At  <a href="https://indico.cern.ch/event/745718/">ML4Jets 2018</a> a top-tagging comparison was initiated, resulting in <a href="http://inspirehep.net/record/1722059">``The Machine Learning Landscape of Top Taggers''</a>. The table  shows a comparison of the methods.
 
 
 

@@ -37,7 +37,7 @@ event delivery group.
 * Scable Machine Learning service to efficiently distribute ML hyperparameter optimization tasks and so on to distributed HPC/GPU resources.
 * Complex dynamic workflow management, such as DAG (Directed Acyclic Graphs), Loop workflow, Template workflow and Condition workflow, to automate complex production and analysis workflows. It has been used in different experiments, such as ATLAS hyperparameter optimization, ATLAS Active Learning, ATLAS REANA production+analysis integration workflow, Rubin data processing and near-term sPHENIX processing.
 * Operating on traditional distributed High Throughput Computing capacity, commercial clouds, and HPCs.
-* Future developmen proejcts include fine-grained data transformation and delivery for remote analysis.
+* Future developmen projects include fine-grained data transformation and delivery for remote analysis.
 
 ## Use Cases
 

@@ -47,7 +47,7 @@ as = projects - ia - doma
 
 puts "
 gantt
-    title IRIS-HEP project lifecyles
+    title IRIS-HEP project lifecycles
     dateFormat  YYYY-MM-DD
     axisFormat  %Y
 "

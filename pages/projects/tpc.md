@@ -47,7 +47,7 @@ their endpoints) and IRIS-HEP is focusing on token-based authorization of transf
   <img class="card-img-top" style="object-fit: contain"  src="/assets/images/tpc-data-challenge-2021.png" alt="WLCG Data Challenge 2021">
   <div class="card-body">
    <h5 class="card-title">Data Challenge 2021</h5>
-   <p class="card-text"> Throughtput achieved per protocol during the 2021 Data Challenge. The "davs" series represents
+   <p class="card-text"> Throughput achieved per protocol during the 2021 Data Challenge. The "davs" series represents
    the use of HTTP-TPC and the WebDAV protocol.
    </p>
   </div>

@@ -42,7 +42,7 @@ module IrisHep
       projects = process_projects(projects_raw)
       result = "<div class=\"mermaid\">
 gantt
-    title IRIS-HEP project lifecyles
+    title IRIS-HEP project lifecycles
     dateFormat  YYYY-MM-DD
     axisFormat  %Y
 "
@@ -61,7 +61,7 @@ gantt
       projects = process_projects(projects_raw)
       result = "<div class=\"mermaid\">
 gantt
-    title #{name} project lifecyles
+    title #{name} project lifecycles
     dateFormat  YYYY-MM-DD
     axisFormat  %Y
 "
