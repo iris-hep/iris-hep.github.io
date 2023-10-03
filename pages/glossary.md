@@ -249,7 +249,7 @@ light on what these terms and acronyms mean.  (See also the list of [Related Pro
 
 * **US-CMS** - The [US Collaboration for the CMS Experiment](https://uscms.org/) at the Large Hadron Collider.
 
-* **US-LHC Ops or US-LHC Operations Programs** -  Operations programs providing support to individuals at instituions and national laboratories
+* **US-LHC Ops or US-LHC Operations Programs** -  Operations programs providing support to individuals at institutions and national laboratories
 
 * **WAN** -  Wide Area Network
 
