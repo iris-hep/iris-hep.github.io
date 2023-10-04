@@ -1,0 +1,14 @@
+active: true
+institution: Princeton University
+name: Zoë Bilodeau
+photo: "/assets/images/team/Zoë-Bilodeau.jpg"
+shortname: zbilodea
+title: Research Software Intern
+website: https://github.com/zbilodea
+presentations:
+  - title: Fast Integration of Poisson Distributions for Broken Sensor Marginalization
+    date: 2023-05-09
+    url: https://indico.jlab.org/event/459/contributions/11880/
+    meeting: CHEP 2023
+    meetingurl: https://indico.jlab.org/event/459/
+    location: Norfolk, VA
