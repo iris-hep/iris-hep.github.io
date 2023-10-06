@@ -14,7 +14,7 @@ not mentioned here, or missing/unclear information, please [contribute an improv
 #### IRIS-HEP website
 
 * Request membership in the [IRIS-HEP GitHub organization][] from one of the owners - Brian Bockelman, David Lange, Gordon Watts, Heather Gray, or Peter Elmer.
-* Fork [https://github.com/iris-hep/iris-hep.github.io][] and make a pull request with two changes
+* Fork [https://github.com/iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io) and make a pull request with two changes
   * Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team folder][]. It should be 320x240 pixels.
   * Add a "`<your github username>.yml`" file to the [people folder in the website repository][people]. Here is an example:
 
