@@ -24,8 +24,8 @@ projects:
     - Graeme A Stewart (CERN)
   proposal: /assets/pdf/fellows-2022/208-proposal-Atell-Yehor-Krasnopolski.pdf
 
-- project title: Julia for Analysis Grand Challenge
-  project goal: >
+- project_title: Julia for Analysis Grand Challenge
+  project_goal: >
     The goal is to have the AGC 1.0 pipeline as well as some supplementary features implemented in Julia. Additional “stretch” goals might include implementing tools for ML inference from beyond the version 1.0.
   mentors:
     - Jerry Ling (Harvard University)
