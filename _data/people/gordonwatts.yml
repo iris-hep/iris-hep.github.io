@@ -348,3 +348,11 @@ presentations:
     meeting: "PyHEP.dev 2023 - Python in HEP Developer's Workshop"
     focus-area: as
     location: Princeton, NJ, USA
+  - title: "The AGC with ATLAS Data"
+    date: 2023-10-04
+    url: https://indico.cern.ch/event/1328739/contributions/5605607/
+    meetingurl: https://indico.cern.ch/event/1328739
+    meeting: "The ATLAS Software And Computing Week #76 (internal)"
+    focus-area: as, doma
+    location: CERN
+    project: servicex
