@@ -356,6 +356,7 @@ presentations:
     focus-area:
       - as
       - doma
-      - agc
     location: CERN
-    project: servicex
+    project:
+      - servicex
+      - agc
