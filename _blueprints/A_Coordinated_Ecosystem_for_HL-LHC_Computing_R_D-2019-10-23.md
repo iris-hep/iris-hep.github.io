@@ -6,7 +6,7 @@ meetingdate: 2019-10-23
 focus-areas:
 status: complete
 location: CUA
-documents: 
-    - type: 
+documents:
+    - type:
       url: https://indico.cern.ch/event/834880/
 ---

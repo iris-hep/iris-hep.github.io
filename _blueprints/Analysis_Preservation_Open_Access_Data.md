@@ -1,14 +1,14 @@
 ---
 layout: blueprint
 topic: Analysis Preservation & Open Access Data
-meetingurl: 
-meetingdate: 
+meetingurl:
+meetingdate:
 focus-areas:
     - ssc
-    - as 
+    - as
 status: proposed
-location: 
-documents: 
-    - type: 
-      url: 
+location:
+documents:
+    - type:
+      url:
 ---

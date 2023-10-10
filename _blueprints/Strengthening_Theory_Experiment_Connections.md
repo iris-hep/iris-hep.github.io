@@ -1,12 +1,12 @@
 ---
 layout: blueprint
 topic: Strengthening Theory & Experiment Connections
-meetingurl: 
-meetingdate: 
+meetingurl:
+meetingdate:
 focus-areas:
     - as
-    - ia 
+    - ia
 status: proposed
-location: 
-documents: 
+location:
+documents:
 ---

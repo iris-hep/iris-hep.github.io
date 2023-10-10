@@ -4,10 +4,10 @@ topic: Fast Machine Learning for Science
 meetingurl: https://indico.cern.ch/event/924283/
 meetingdate: 2020-11-30
 focus-areas:
-    - ia 
+    - ia
 status: complete
 location: Virtual
-documents: 
+documents:
     - type: report
       url: https://indico.cern.ch/event/924283/
 ---

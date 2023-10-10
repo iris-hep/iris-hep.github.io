@@ -1,13 +1,13 @@
 ---
 layout: blueprint
 topic: Cyberinfrastructure for Publishing
-meetingurl: 
-meetingdate: 
+meetingurl:
+meetingdate:
 focus-areas:
     - as
 status: proposed
 location: Virtual
-documents: 
+documents:
     - type: planning doc
-      url: 
+      url:
 ---

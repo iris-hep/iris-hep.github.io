@@ -1,7 +1,7 @@
 ---
 permalink: /blueprint-dashboard.html
 layout: default
-title: IRIS/HEP Blueprint Dashboard 
+title: IRIS/HEP Blueprint Dashboard
 ---
 
 

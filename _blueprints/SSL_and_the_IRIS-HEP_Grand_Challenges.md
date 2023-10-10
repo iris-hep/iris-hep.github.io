@@ -1,14 +1,14 @@
 ---
 layout: blueprint
 topic: SSL and the IRIS-HEP Grand Challenges
-meetingurl: 
-meetingdate: 
+meetingurl:
+meetingdate:
 focus-areas:
     - as
     - doma
     - ssl
-    - ssc 
+    - ssc
 status: proposed
 location: Virtual
-documents: 
+documents:
 ---

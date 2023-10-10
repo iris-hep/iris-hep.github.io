@@ -5,10 +5,10 @@ meetingurl: https://indico.cern.ch/event/822126/
 meetingdate: 2019-09-10
 focus-areas:
     - ia
-    - ssl 
+    - ssl
 status: complete
 location: FNAL
-documents: 
+documents:
     - type: report
       url: https://indico.cern.ch/event/822126/
 ---

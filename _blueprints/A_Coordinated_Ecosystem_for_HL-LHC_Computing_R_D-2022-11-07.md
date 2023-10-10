@@ -6,7 +6,7 @@ meetingdate: 2022-11-07
 focus-areas:
 status: complete
 location: DC
-documents: 
-    - type: 
+documents:
+    - type:
       url: https://indico.cern.ch/event/1203733/
 ---

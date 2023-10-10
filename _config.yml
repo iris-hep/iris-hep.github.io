@@ -96,4 +96,3 @@ collections:
     output: true
     permalink: /codas-hep/:collection/:path.html
   blueprints:
-  

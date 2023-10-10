@@ -7,10 +7,10 @@ focus-areas:
     - as
     - doma
     - ssl
-    - osg-lhc 
+    - osg-lhc
 status: complete
 location: Virtual
-documents: 
-    - type: 
+documents:
+    - type:
       url: https://indico.cern.ch/event/960587/
 ---

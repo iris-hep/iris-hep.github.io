@@ -4,10 +4,10 @@ topic: Portable Inference
 meetingurl: https://indico.cern.ch/event/972791/
 meetingdate: 2020-12-04
 focus-areas:
-    - ia 
+    - ia
 status: complete
 location: Virtual
-documents: 
-    - type: 
+documents:
+    - type:
       url: https://indico.cern.ch/event/972791/
 ---

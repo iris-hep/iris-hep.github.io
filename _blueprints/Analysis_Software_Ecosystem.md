@@ -1,11 +1,11 @@
 ---
 layout: blueprint
 topic: Analysis Software Ecosystem
-meetingurl: 
-meetingdate: 
+meetingurl:
+meetingdate:
 focus-areas:
-    -as 
+    -as
 status: proposed
-location: 
-documents: 
+location:
+documents:
 ---
