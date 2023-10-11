@@ -5,7 +5,7 @@ shortname: SethBendigo
 permalink: /fellows/SethBendigo.html
 fellow-name: Seth Bendigo
 title: Seth Bendigo - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-05
   end: 2023-09-02

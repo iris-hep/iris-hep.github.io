@@ -5,7 +5,7 @@ shortname: HubertPugzlys
 permalink: /fellows/HubertPugzlys.html
 fellow-name: Povilas Pugzlys
 title: Povilas Pugzlys - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-05
   end: 2023-08-08
