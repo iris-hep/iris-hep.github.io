@@ -5,7 +5,7 @@ shortname: 11018612
 permalink: /fellows/esorokun.html
 fellow-name: Ernest Sorokun
 title: Ernest Sorokun - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   - start: 2022-08-01
     end: 2022-10-23

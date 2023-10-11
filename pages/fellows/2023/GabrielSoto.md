@@ -5,7 +5,7 @@ shortname: GabrielSoto
 permalink: /fellows/GabrielSoto.html
 fellow-name: Gabriel J. Soto
 title: Gabriel J. Soto - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-04-24
   end: 2023-06-09

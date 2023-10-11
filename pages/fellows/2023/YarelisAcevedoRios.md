@@ -5,7 +5,7 @@ shortname: YarelisAcevedo
 permalink: /fellows/YarelisAcevedo.html
 fellow-name: Yarelis D Acevedo Rios
 title: Yarelis D Acevedo Rios - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-04-17
   end: 2023-06-05

@@ -5,7 +5,7 @@ shortname: PetroZarytskyi
 permalink: /fellows/2023/PetroZarytskyi.html
 fellow-name: Petro Zarytskyi
 title: Petro Zarytskyi - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-07-03
   end: 2023-09-22

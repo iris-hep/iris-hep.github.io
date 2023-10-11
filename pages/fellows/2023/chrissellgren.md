@@ -5,7 +5,7 @@ shortname: chrissellgren
 permalink: /fellows/chrissellgren.html
 fellow-name: Chris Sellgren
 title: Chris Sellgren - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-19
   end: 2023-09-10
