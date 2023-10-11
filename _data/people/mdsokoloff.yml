@@ -17,14 +17,14 @@ presentations:
     focus-area: ia
     location: Rutgers University, New Jersey, USA
   - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC
-    date: 23-05-09
+    date: 2023-05-09
     url: https://indico.jlab.org/event/459/contributions/11714/
     meeting: CHEP-2023
     project: pv-finder
     focus-area: ia
     location: Norfolk, VA
   - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC
-    date: 23-09-22
+    date: 2023-09-22
     meeting: seminar at Ramon LLull University, LaSalle Campus
     project: pv-finder
     focus-area: ia
