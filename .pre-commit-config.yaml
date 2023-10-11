@@ -19,6 +19,10 @@ repos:
         name: Check people files
         args: [--schemafile, _scripts/people.schema.json]
         files: '^_data/people/.*\.yml$'
+      - id: check-jsonschema
+        name: Check publication files
+        args: [--schemafile, _scripts/publication.schema.json]
+        files: '^_data/publications/.*\.yml$'
 
   - repo: https://github.com/pre-commit/mirrors-prettier
     rev: "v3.0.3"
