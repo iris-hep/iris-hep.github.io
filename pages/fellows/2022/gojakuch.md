@@ -5,7 +5,7 @@ shortname: gojakuch
 permalink: /fellows/gojakuch.html
 fellow-name: Atell-Yehor Krasnopolski
 title: Atell-Yehor Krasnopolski - IRIS-HEP Fellow
-active: True
+active: False
 dates:
 - start: 2022-06-24
   end: 2022-09-08
