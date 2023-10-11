@@ -6,8 +6,9 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
+<!--
 **Applications for the Undergraduate Fellows program in Summer 2023 are now open. The final deadline for applications is Sunday, 16 April, 2023 (end of the day, any time zone).**
-
+-->
 
 **Applications for the Graduate Fellows program are not yet open, but will appear again in 2024.**
 
