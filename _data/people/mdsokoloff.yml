@@ -25,6 +25,7 @@ presentations:
     location: Norfolk, VA
   - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC
     date: 2023-09-22
+    url:  
     meeting: seminar at Ramon LLull University, LaSalle Campus
     project: pv-finder
     focus-area: ia
