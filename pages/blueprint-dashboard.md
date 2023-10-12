@@ -13,9 +13,9 @@ table {
 
 
 
-| Topic | Focus Area(s) | Dates | Location | Status | Notes |
-|------|-------|-------|:------------|-------|
-{% assign blueprints = site.blueprints | sort: 'meetingdate' -%}
+| Topic | Dates | Location | Focus Area(s)| Notes | Status |
+|------|:-------|-------|:------------|-------:|-----:|
+{% assign blueprints = site.blueprints | sort: 'meetingdate' | sort: 'status' -%}
 {% for mypage in blueprints %}
 {%- capture focus-areas -%}
 {%- assign notfirst = false -%}
@@ -38,13 +38,14 @@ table {
 {%- endfor -%}
 {%- endcapture -%}
 {%- capture meetinglink -%}
-{%- if myppage.meetingurl != ""  -%}
-{{mypage.topic}} - {{mypage.meetingurl}}
-{%- else -%}
+{%- assign test_url = mypage.meetingurl -%}
+{%- if test_url contains "https"  -%}
 [{{mypage.topic}}]({{mypage.meetingurl}})
+{%- else -%}
+[{{mypage.topic}}]({{mypage.url}})
 {%- endif -%}
 {%- endcapture -%}
-| {{meetinglink}} | {{focus-areas}} | {{mypage.meetingdate}} | {{ mypage.location }} | {{mypage.status}} | {{documents}} |
+|{{meetinglink}}| {{mypage.meetingdate}} | {{ mypage.location }} | {{focus-areas}} | {{documents}} | {{mypage.status}}  |
 {% endfor %}
 
 <br/>

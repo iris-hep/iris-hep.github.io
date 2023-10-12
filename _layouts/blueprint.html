@@ -1,0 +1,23 @@
+<!doctype html>
+
+{% include layout_header_navbar.html %}
+
+  <div id="container">
+      <div class="container page">
+        <main role="main">
+
+            <div class="container-fluid">
+              <h1 class="alt-h2 text-center mb-0 mt-lg-6">{{page.topic}}</h1>
+              <div class="text-center mb-3">{{page.status}}</div>
+            </div>
+
+            
+        </main>
+      </div>
+      {% include_cached footer.html %}
+    </div>
+
+  {% include_cached layout_analytics.html %}
+
+  </body>
+</html>
