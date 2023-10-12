@@ -8,6 +8,4 @@ focus-areas:
 status: complete
 location: Virtual
 documents:
-    - type:
-      url: https://indico.cern.ch/event/972791/
 ---

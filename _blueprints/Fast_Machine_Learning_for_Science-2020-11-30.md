@@ -9,5 +9,5 @@ status: complete
 location: Virtual
 documents:
     - type: report
-      url: https://indico.cern.ch/event/924283/
+      url: https://arxiv.org/abs/2110.13041
 ---
