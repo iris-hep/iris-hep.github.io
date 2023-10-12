@@ -15,7 +15,7 @@ decays of B mesons, and stringent constraints on many viable
 theories of physics beyond the Standard Model demonstrate the
 great scientific value of the LHC physics program. The next phase
 of this global scientific project will be the High-Luminosity LHC
-(HL-LHC) which will collect data starting circa 2027 and continue
+(HL-LHC) which will collect data starting circa 2029 and continue
 into the 2030's.  The primary science goal is to search for physics
 beyond the Standard Model and, should it be discovered, to study its details
 and implications.  During the HL-LHC era, the ATLAS and CMS experiments
