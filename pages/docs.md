@@ -26,5 +26,6 @@ title: "Documentation pages for the IRIS-HEP team"
 * [Add new news post](/docs/add_news)
 * [Add new focus-area page](/docs/add_focusarea_page)
 * [Add new project page](/docs/add_project_page)
+* [Add new presentation](/docs/add_presentation)
 * [Add new publication](/docs/add_publication)
 * [Last modified](/docs/modified)
