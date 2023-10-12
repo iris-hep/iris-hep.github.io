@@ -35,14 +35,14 @@ rbenv init
 and **then follow the instructions printed for your current shell**. After you've installed rbenv on your system, use:
 
 ```bash
-rbenv install 3.2.1
+rbenv install 3.2.2
 ```
 
 to get a current version of Ruby downloaded and built for your system. Then,
 inside the main iris-hep website directory, run:
 
 ```bash
-rbenv local 3.2.1
+rbenv local 3.2.2
 ```
 
 This will add a file (`.ruby-version`, if you are curious) to your local
