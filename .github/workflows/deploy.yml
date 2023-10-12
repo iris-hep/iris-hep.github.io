@@ -3,7 +3,7 @@ name: Deploy
 on:
   workflow_dispatch:
   push:
-    branches: master
+    branches: [master]
   schedule:
     - cron: "0 0 * * *"
 

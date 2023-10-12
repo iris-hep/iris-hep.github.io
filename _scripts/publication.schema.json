@@ -1,0 +1,61 @@
+{
+  "@id": "https://github.com/iris-hep/iris-hep.github.io/blob/master/_scripts/publication.schema.json",
+  "@schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "oneOf": [
+    {
+      "required": ["inspire-id"]
+    },
+    {
+      "required": ["title", "date", "citation"]
+    }
+  ],
+  "properties": {
+    "inspire-id": { "type": "integer" },
+    "project": {
+      "$ref": "#/definitions/string_or_array"
+    },
+    "focus-area": {
+      "$ref": "#/definitions/focus_areas"
+    },
+    "title": { "type": "string" },
+    "date": { "type": "string", "format": "date" },
+    "citation": { "type": "string" },
+    "submitted-to": { "type": "string" },
+    "link": { "type": "string" },
+    "nsf-par-id": { "type": "integer" },
+    "related-work": { "type": "boolean" },
+    "comment": { "type": "string" },
+    "needs-nsf-par": { "type": "boolean" }
+  },
+  "definitions": {
+    "focus_area": {
+      "enum": [
+        "as",
+        "ia",
+        "ssc",
+        "doma",
+        "ssl",
+        "osglhc",
+        "core",
+        "blueprint",
+        "outreach"
+      ]
+    },
+    "focus_areas": {
+      "oneOf": [
+        { "type": "null" },
+        { "$ref": "#/definitions/focus_area" },
+        { "type": "array", "items": { "$ref": "#/definitions/focus_area" } }
+      ]
+    },
+    "string_or_array": {
+      "oneOf": [
+        { "type": "null" },
+        { "type": "string" },
+        { "type": "array", "elements": { "type": "string" } }
+      ]
+    }
+  }
+}
