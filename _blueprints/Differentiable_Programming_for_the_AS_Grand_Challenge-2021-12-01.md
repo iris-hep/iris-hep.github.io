@@ -9,5 +9,5 @@ status: complete
 location: Virtual
 documents:
     - type: report
-      url: https://indico.cern.ch/event/1096431/
+      url: https://docs.google.com/document/d/1vZaB8M9HlgJ6xYP75oOFDpLwI2rj-8Qm6_DyIRUMIpA/edit#
 ---

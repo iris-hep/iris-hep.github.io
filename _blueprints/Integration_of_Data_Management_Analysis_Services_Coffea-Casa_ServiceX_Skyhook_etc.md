@@ -8,6 +8,4 @@ focus-areas:
 status: proposed
 location:
 documents:
-    - type:
-      url:
 ---

@@ -10,5 +10,5 @@ status: complete
 location: FNAL
 documents:
     - type: report
-      url: https://indico.cern.ch/event/822126/
+      url: https://github.com/iris-hep/blueprint/blob/master/reports/2019/Fast-Machine-Learning-and-Inference/report.pdf
 ---

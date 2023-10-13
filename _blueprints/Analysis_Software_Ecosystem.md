@@ -4,7 +4,7 @@ topic: Analysis Software Ecosystem
 meetingurl:
 meetingdate:
 focus-areas:
-    -as
+    - as
 status: proposed
 location:
 documents:

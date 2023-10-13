@@ -8,5 +8,5 @@ status: complete
 location: Virtual
 documents:
     - type: report
-      url: https://indico.cern.ch/event/1026363/
+      url: https://arxiv.org/abs/2106.15783
 ---

@@ -9,5 +9,5 @@ status: complete
 location: Virtual
 documents:
     - type: report
-      url: https://indico.cern.ch/event/889665/
+      url: https://docs.google.com/document/d/1uUGOJPp0kH0kTofe5GocfRNhbxm1oPxR9KTSbzvuoIQ/edit?usp=sharing
 ---

@@ -4,35 +4,73 @@ layout: default
 title: IRIS/HEP Blueprint Dashboard
 ---
 
+# IRIS-HEP Blueprints
 
-{% assign indico_list = site.data.indico.blueprint | values | sort: 'startdate' %}
-{% assign grouping = indico_list | group_by_exp: "item", "item.startdate | date: '%Y'" %}
-
-<!-- {% assign completed = grouping | where_exp:"item", "item.startdate < site.time" %} -->
-
-{% for pair in grouping %}
-  <h5>{{ pair.name }}</h5>
-  <ul>
-  {% for event in pair.items %}
-    <script>console.log('{{pair}}');</script>
-    <li> {{event.startdate | date: "%-d %b" }}{{event.enddate | date: " - %-d %b" }}, {{event.startdate | date: "%Y" }} - <a href="{{event.meetingurl}}">{{event.name}}</a>
-    {%- if event.youtube.size > 4 %} - (<a href="{{event.youtube}}">Watch the meeting recording</a>){%- endif -%}
-    <!-- {% assign event_id = event.meetingurl | remove: "https://indico.cern.ch/event" | remove: "/" %} -->
-    {% assign new_info = site.blueprints | where:"meetingurl",  event.meetingurl | first %}
-    <script>console.log('{{event.startdate}}');</script>
-    {% if new_info %} {{new_info.status}} {% endif %}
-    <!-- <script>console.log('{{new_info}}');</script> -->
-    </li>
-  {% endfor %}
-  </ul>
+<table style="width: 100%">
+  <thead>
+    <tr>
+      <th style="width: 400px">Topic / Title</th>
+      <th style="text-align: left">Focus Area(s)</th>
+      <th style="width: 150px">Dates</th>
+      <th style="width: 150px">Location</th>
+      <th style="width: 150px">Status</th>
+      <th style="text-align: left">Summary Report / Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+{% assign blueprints = site.blueprints | sort: 'meetingdate' | sort: 'status' -%}
+{% for mypage in blueprints %}
+{%- capture focus-areas -%}
+{%- assign notfirst = false -%}
+{%- for fa in mypage.focus-areas -%}
+{%- if notfirst -%}
+{{", "}}
+{%- endif -%}
+{%- assign notfirst = true -%}
+[{{fa | upcase }}](/{{fa}}.html)
+{%- endfor -%}
+{%- endcapture -%}
+{%- capture documents -%}
+{%- assign notfirst = false -%}
+{%- for doc in mypage.documents -%}
+{%- if notfirst -%}
+{{", "}}
+{%- endif -%}
+{%- assign notfirst = true -%}
+[{{doc.type}}]({{doc.url}})
+{%- endfor -%}
+{%- endcapture -%}
+{%- capture meetinglink -%}
+{%- assign test_url = mypage.meetingurl -%}
+{%- if test_url contains "https"  -%}
+{{mypage.meetingurl}}
+{%- else -%}
+{{mypage.url}}
+{%- endif -%}
+{%- endcapture -%}
+{%- capture statusbadge -%}
+{%- assign status = mypage.status -%}
+{% case status %}
+{% when "complete" %}
+<span class="badge badge-pill badge-success">{{ status | capitalize }}</span>
+{% when "proposed" %}
+<span class="badge badge-pill badge-warning">{{ status | capitalize }}</span>
+{% else %}
+<span class="badge badge-pill badge-info">{{ "Unknown" | capitalize }}</span>
+{% endcase %}
+{%- endcapture -%}
+    <tr>
+      <td><a href="{{meetinglink}}">{{mypage.topic}}</a></td>
+      <td>{{focus-areas | markdownify }}</td>
+      <td>{{mypage.meetingdate}}</td>
+      <td>{{mypage.location}}</td>
+      <td>{{statusbadge}}</td>
+      <td>{{documents | markdownify }}</td>
+    </tr>
 {% endfor %}
+  </tbody>
+</table>
 
+<br/>
 
-{% assign proposals = site.blueprints | where_exp: "item", "item.status != 'complete'" %}
-<h5>Proposed<h5>
-<ul>
-{% for event in proposals %}
-    <li> {{event.topic}}
-    </li>
-{% endfor %}
-</ul>
+{% assign indico_list = site.data.indico.topical | values | sort: 'startdate' %}

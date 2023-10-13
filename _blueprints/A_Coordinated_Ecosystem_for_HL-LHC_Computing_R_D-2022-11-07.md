@@ -7,6 +7,4 @@ focus-areas:
 status: complete
 location: DC
 documents:
-    - type:
-      url: https://indico.cern.ch/event/1203733/
 ---
