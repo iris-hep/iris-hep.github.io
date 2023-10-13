@@ -10,6 +10,16 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+  - title: "Python and Fast Imperative Code: Lowering the Barriers"
+    date: 2023-10-09
+    url: https://doi.org/10.5281/zenodo.10000124
+    meeting: PyHEP 2023 - "Python in HEP" Users Workshop (online)
+    meetingurl: https://indico.cern.ch/event/1252095/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Awkward Just-In-Time (JIT) Compilation: A Developer’s Experience"
     date: 2023-05-11
     url: https://indico.jlab.org/event/459/contributions/11557/
