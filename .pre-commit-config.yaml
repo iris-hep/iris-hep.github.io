@@ -19,7 +19,7 @@ repos:
         name: Check people files
         args: [--schemafile, _scripts/people.schema.json]
         files: '^_data/people/.*\.yml$'
-        exclude: "_data/people/efajardo.yml|_data/people/m-carothers.yml"
+        exclude: "_data/people/m-carothers.yml"
       - id: check-jsonschema
         name: Check publication files
         args: [--schemafile, _scripts/publication.schema.json]
