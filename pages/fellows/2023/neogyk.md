@@ -5,7 +5,7 @@ shortname: Leonid Didukh
 permalink: /fellows/LeonidDidukh.html
 fellow-name: Leonid Didukh
 title: Leonid Didukh - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-05
   end: 2023-09-15

@@ -5,7 +5,7 @@ shortname: VolodymyrSvintozelskyi
 permalink: /fellows/VolodymyrSvintozelskyi.html
 fellow-name: Volodymyr Svintozelskyi
 title: Volodymyr Svintozelskyi - IRIS-HEP Fellow
-active: true
+active: False
 dates:
   - start: 2022-06-21
     end: 2022-09-01
