@@ -2,16 +2,60 @@
 
 {% include layout_header_navbar.html %}
 
+{%- capture statusbadge -%}
+{%- assign status = page.status -%}
+{% case status %}
+{% when "complete" %}
+<span class="badge badge-pill badge-success">{{ status | capitalize }}</span>
+{% when "proposed" %}
+<span class="badge badge-pill badge-warning">{{ status | capitalize }}</span>
+{% else %}
+<span class="badge badge-pill badge-info">{{ "Unknown" | capitalize }}</span>
+{% endcase %}
+{%- endcapture -%}
+
+{%- capture focus-areas -%}
+{%- assign notfirst = false -%}
+{%- for fa in page.focus-areas -%}
+{%- if notfirst -%}
+{{", "}}
+{%- endif -%}
+{%- assign notfirst = true -%}
+[{{fa | upcase }}](/{{fa}}.html)
+{%- endfor -%}
+{%- endcapture -%}
+
+{%- capture documents -%}
+{%- assign notfirst = false -%}
+{%- for doc in page.documents -%}
+{%- if notfirst -%}
+{{", "}}
+{%- endif -%}
+{%- assign notfirst = true -%}
+* [{{doc.type}}]({{doc.url}})
+{%- endfor -%}
+{%- endcapture -%}
+
   <div id="container">
       <div class="container page">
         <main role="main">
 
             <div class="container-fluid">
               <h1 class="alt-h2 text-center mb-0 mt-lg-6">{{page.topic}}</h1>
-              <div class="text-center mb-3">{{page.status}}</div>
+              <div class="text-center mb-3">{{statusbadge}}</div>
             </div>
 
+            {{ content }}
 
+            <ul>
+              <li>Meeting Date: {{page.meetingdate}}</li>
+              <li>Meeting URL: {{page.meetingurl}}</li>
+              <li>Focus Areas: {{focus-areas | markdownify }}</li>
+              <li>Location: {{page.location}}</li>
+              <li>Documents: 
+                <ul>{{documents | markdownify }}</ul>
+              </li>
+            </ul>
         </main>
       </div>
       {% include_cached footer.html %}
