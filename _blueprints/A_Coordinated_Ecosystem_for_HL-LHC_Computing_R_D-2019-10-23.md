@@ -7,6 +7,5 @@ focus-areas:
 status: complete
 location: CUA
 documents:
-    - type:
-      url: https://indico.cern.ch/event/834880/
 ---
+
