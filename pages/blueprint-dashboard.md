@@ -3,18 +3,21 @@ permalink: /blueprint-dashboard.html
 layout: default
 title: IRIS/HEP Blueprint Dashboard
 ---
+
 # IRIS-HEP Blueprints
 
-<style>
-table {
-    width: 100%;
-}
-</style>
-
-
-
-| Topic | Dates | Location | Focus Area(s)| Notes | Status |
-|------|:-------|-------|:------------|-------:|-----:|
+<table style="width: 100%">
+  <thead>
+    <tr>
+      <th style="width: 400px">Topic / Title</th>
+      <th style="text-align: left">Focus Area(s)</th>
+      <th style="width: 150px">Dates</th>
+      <th style="width: 150px">Location</th>
+      <th style="width: 150px">Status</th>
+      <th style="text-align: left">Summary Report / Notes</th>
+    </tr>
+  </thead>
+  <tbody>
 {% assign blueprints = site.blueprints | sort: 'meetingdate' | sort: 'status' -%}
 {% for mypage in blueprints %}
 {%- capture focus-areas -%}
@@ -40,13 +43,33 @@ table {
 {%- capture meetinglink -%}
 {%- assign test_url = mypage.meetingurl -%}
 {%- if test_url contains "https"  -%}
-[{{mypage.topic}}]({{mypage.meetingurl}})
+{{mypage.meetingurl}}
 {%- else -%}
-[{{mypage.topic}}]({{mypage.url}})
+{{mypage.url}}
 {%- endif -%}
 {%- endcapture -%}
-|{{meetinglink}}| {{mypage.meetingdate}} | {{ mypage.location }} | {{focus-areas}} | {{documents}} | {{mypage.status}}  |
+{%- capture statusbadge -%}
+{%- assign status = mypage.status -%}
+{% case status %}
+{% when "complete" %}
+<span class="badge badge-pill badge-success">{{ status | capitalize }}</span>
+{% when "proposed" %}
+<span class="badge badge-pill badge-warning">{{ status | capitalize }}</span>
+{% else %}
+<span class="badge badge-pill badge-info">{{ "Unknown" | capitalize }}</span>
+{% endcase %}
+{%- endcapture -%}
+    <tr>
+      <td><a href="{{meetinglink}}">{{mypage.topic}}</a></td>
+      <td>{{focus-areas | markdownify }}</td>
+      <td>{{mypage.meetingdate}}</td>
+      <td>{{mypage.location}}</td>
+      <td>{{statusbadge}}</td>
+      <td>{{documents | markdownify }}</td>
+    </tr>
 {% endfor %}
+  </tbody>
+</table>
 
 <br/>
 
