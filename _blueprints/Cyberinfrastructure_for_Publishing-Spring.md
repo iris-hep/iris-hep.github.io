@@ -1,5 +1,6 @@
 ---
 layout: blueprint
+visible: false
 topic: Cyberinfrastructure for Publishing
 meetingurl:
 meetingdate:

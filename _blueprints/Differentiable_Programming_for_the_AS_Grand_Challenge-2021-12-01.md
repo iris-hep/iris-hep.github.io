@@ -1,5 +1,6 @@
 ---
 layout: blueprint
+visible: true
 topic: Differentiable Programming for the AS Grand Challenge
 meetingurl: https://indico.cern.ch/event/1096431/
 meetingdate: 2021-12-01

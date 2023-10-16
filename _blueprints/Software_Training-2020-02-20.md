@@ -1,5 +1,6 @@
 ---
 layout: blueprint
+visible: true
 topic: Software Training
 meetingurl: https://indico.cern.ch/event/889665/
 meetingdate: 2020-02-20
