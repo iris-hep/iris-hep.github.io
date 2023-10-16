@@ -16,7 +16,7 @@ title: IRIS/HEP Blueprint Dashboard
 {% assign blueprints = site.blueprints | where_exp:"item", "item.visible != false and item.status != 'proposed'" | sort: 'meetingdate' | sort: 'status' -%}
 
 
-## Completed
+## Completed / Scheduled
 {% include list_blueprints.html blueprints=blueprints %}
 
 <br/>
