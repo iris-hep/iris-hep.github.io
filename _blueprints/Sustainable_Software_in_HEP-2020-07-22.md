@@ -1,5 +1,6 @@
 ---
 layout: blueprint
+visible: true
 topic: Sustainable Software in HEP
 meetingurl: https://indico.cern.ch/event/930127
 meetingdate: 2020-07-22

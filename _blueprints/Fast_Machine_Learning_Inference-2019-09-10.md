@@ -1,5 +1,6 @@
 ---
 layout: blueprint
+visible: true
 topic: Fast Machine Learning & Inference
 meetingurl: https://indico.cern.ch/event/822126/
 meetingdate: 2019-09-10

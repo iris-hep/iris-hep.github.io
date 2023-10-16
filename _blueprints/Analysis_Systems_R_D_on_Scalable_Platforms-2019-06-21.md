@@ -1,5 +1,6 @@
 ---
 layout: blueprint
+visible: true
 topic: Analysis Systems R&D on Scalable Platforms
 meetingurl: https://indico.cern.ch/event/820946/
 meetingdate: 2019-06-21

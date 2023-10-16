@@ -1,5 +1,6 @@
 ---
 layout: blueprint
+visible: true
 topic: Virtual Meeting on Virtual Meetings
 meetingurl: https://indico.cern.ch/event/1026363/
 meetingdate: 2021-05-05

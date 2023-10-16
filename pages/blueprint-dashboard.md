@@ -6,71 +6,24 @@ title: IRIS/HEP Blueprint Dashboard
 
 # IRIS-HEP Blueprints
 
-<table style="width: 100%">
-  <thead>
-    <tr>
-      <th style="width: 400px">Topic / Title</th>
-      <th style="text-align: left">Focus Area(s)</th>
-      <th style="width: 150px">Dates</th>
-      <th style="width: 150px">Location</th>
-      <th style="width: 150px">Status</th>
-      <th style="text-align: left">Summary Report / Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-{% assign blueprints = site.blueprints | sort: 'meetingdate' | sort: 'status' -%}
-{% for mypage in blueprints %}
-{%- capture focus-areas -%}
-{%- assign notfirst = false -%}
-{%- for fa in mypage.focus-areas -%}
-{%- if notfirst -%}
-{{", "}}
-{%- endif -%}
-{%- assign notfirst = true -%}
-[{{fa | upcase }}](/{{fa}}.html)
-{%- endfor -%}
-{%- endcapture -%}
-{%- capture documents -%}
-{%- assign notfirst = false -%}
-{%- for doc in mypage.documents -%}
-{%- if notfirst -%}
-{{", "}}
-{%- endif -%}
-{%- assign notfirst = true -%}
-[{{doc.type}}]({{doc.url}})
-{%- endfor -%}
-{%- endcapture -%}
-{%- capture meetinglink -%}
-{%- assign test_url = mypage.meetingurl -%}
-{%- if test_url contains "https"  -%}
-{{mypage.meetingurl}}
-{%- else -%}
-{{mypage.url}}
-{%- endif -%}
-{%- endcapture -%}
-{%- capture statusbadge -%}
-{%- assign status = mypage.status -%}
-{% case status %}
-{% when "complete" %}
-<span class="badge badge-pill badge-success">{{ status | capitalize }}</span>
-{% when "proposed" %}
-<span class="badge badge-pill badge-warning">{{ status | capitalize }}</span>
-{% else %}
-<span class="badge badge-pill badge-info">{{ "Unknown" | capitalize }}</span>
-{% endcase %}
-{%- endcapture -%}
-    <tr>
-      <td><a href="{{meetinglink}}">{{mypage.topic}}</a></td>
-      <td>{{focus-areas | markdownify }}</td>
-      <td>{{mypage.meetingdate}}</td>
-      <td>{{mypage.location}}</td>
-      <td>{{statusbadge}}</td>
-      <td>{{documents | markdownify }}</td>
-    </tr>
-{% endfor %}
-  </tbody>
-</table>
+  The Blueprint Activity is designed to inform the development and evolution of the IRIS-HEP strategic vision. At its core, it is a [series of workshops](https://indico.cern.ch/category/11329) that bring together IRIS-HEP team members, key stakeholders and domain experts from disciplines of importance to the Institute’s mission. The Blueprint Activity facilitates the Institute's role as an intellectual hub for software and computing R&D in high-energy particle physics and beyond.
+
+![Blueprint](/assets/images/blueprint-process.png){:style="display:block; margin-left: auto; margin-right: auto; width: 75%"}
+
+# Blueprint Dashboard
+
+
+{% assign blueprints = site.blueprints | where_exp:"item", "item.visible != false and item.status != 'proposed'" | sort: 'meetingdate' | sort: 'status' -%}
+
+
+## Completed / Scheduled
+{% include list_blueprints.html blueprints=blueprints %}
 
 <br/>
 
-{% assign indico_list = site.data.indico.topical | values | sort: 'startdate' %}
+{% assign blueprints = site.blueprints | where_exp:"item", "item.visible != false and item.status == 'proposed'" | sort: 'meetingdate' | sort: 'status' -%}
+
+## Proposed
+{% include list_blueprints.html blueprints=blueprints %}
+
+<br/>
