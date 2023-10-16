@@ -1,5 +1,6 @@
 ---
 layout: blueprint
+visible: true
 topic: Fast Machine Learning for Science
 meetingurl: https://indico.cern.ch/event/924283/
 meetingdate: 2020-11-30
