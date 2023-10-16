@@ -1,4 +1,4 @@
-{% assign blueprint = include.blueprint %}
+{% assign blueprints = include.blueprints %}
 
 <table style="width: 100%">
     <thead>
@@ -46,6 +46,8 @@
   {% case status %}
   {% when "complete" %}
   <span class="badge badge-pill badge-success">{{ status | capitalize }}</span>
+  {% when "scheduled" %}
+  <span class="badge badge-pill badge-primary">{{ status | capitalize }}</span>
   {% when "proposed" %}
   <span class="badge badge-pill badge-warning">{{ status | capitalize }}</span>
   {% else %}
