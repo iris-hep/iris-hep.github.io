@@ -24,4 +24,13 @@ presentations:
 current_status:
 github-username: SethBendigo
 linkedin-profile: https://www.linkedin.com/in/sethbendigo/
+
+presentations:
+- title: "Refactoring AwkwardForth Generation in Uproot"
+  date: 2023-10-04
+  url: https://indico.cern.ch/event/1329070/contributions/5593956/attachments/2725751/4740700/Refactoring_AwkwardForth_Generation_in_Uproot___Seth_Bendigo.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329070/
+  recordingurl: https://youtu.be/yEpN3ug04WM
+  focus-area: as
 ---

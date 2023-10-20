@@ -5,7 +5,7 @@ shortname: layan-sarayra
 permalink: /fellows/layan-sarayra.html
 fellow-name: Layan AlSarayra
 title: Layan AlSarayra - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-05
   end: 2023-08-25
@@ -21,6 +21,13 @@ mentors:
   - Rocky Bala Garg (Stanford University)
 proposal: /assets/pdf/fellows-2023/E005-proposal-Layan-AlSarayra.pdf
 presentations:
+- title:  Adapting a Machine Learning Algorithm for Enhanced Performance in ACTS
+  date: 2023-10-18
+  url: https://indico.cern.ch/event/1329065/contributions/5593928/attachments/2735172/4756092/IRIS-HEP%20Presentation%20-%20Layan%20AlSarayra.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329065/
+  recordingurl: https://youtu.be/AMCEy_tDU50
+  focus-area: ia
 current_status:
 github-username: Layan-Sarayra
 linkedin-profile: /www.linkedin.com/in/layan-sarayra-646aa0192/

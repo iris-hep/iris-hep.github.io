@@ -37,6 +37,13 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1199557
   recordingurl: https://youtu.be/7-0WZZCtqJI
   focus-area:
+- title: "Using Diffusion Probabilistic Models for Denoising Tracks from AT-TPC Detector"
+  date: 2023-10-11
+  url: https://indico.cern.ch/event/1329062/contributions/5593914/attachments/2730732/4750722/DPM_IRIS-HEP.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329062/
+  recordingurl: https://youtu.be/viw2dolkkaY
+  focus-area:
 current_status: >
   <strong>March 2023</strong> - Data Scientist at ALPhA
 github-username: HavryliukAY

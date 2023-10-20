@@ -24,4 +24,13 @@ presentations: >
 current_status: >
 github-username: chrissellgren
 linkedin-profile: https://www.linkedin.com/in/chris-sellgren/
+
+presentations:
+- title: "Improving Performance of Track Reconstruction Algorithms in a Muon Collider Detector"
+  date: 2023-09-27
+  url: https://indico.cern.ch/event/1329043/contributions/5593791/attachments/2719438/4731564/IRIS-HEP%20Final%20Pres.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329043/
+  recordingurl: https://youtu.be/QUmDGgsJxB8
+  focus-area: ia
 ---

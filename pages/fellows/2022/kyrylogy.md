@@ -43,6 +43,13 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1195272/
   recordingurl: https://youtu.be/01mHSh-gnXs
   focus-area:
+- title: "Rucio-S3-compatible access interface for analysis facilities: Add S3 compatible access interface to Rucio"
+  date: 2023-10-11
+  url: https://indico.cern.ch/event/1329062/contributions/5593911/attachments/2730743/4750759/IRIS-HEP_Kyrylo_Final.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329062/
+  recordingurl: https://youtu.be/viw2dolkkaY
+  focus-area: as
 current_status: >
   <strong>November 2022</strong> - Junior Researcher at Software Competence Center Hagenberg
 github-username: kyrylogy

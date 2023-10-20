@@ -19,7 +19,14 @@ mentors:
   - Vassil Vassilev (Princeton)
   - David Lange (Princeton)
 proposal: /assets/pdf/fellows-2023/U015-proposal-Petro-Zarytskyi.pdf
-presentation:
+presentations:
+- title: "Optimizing reverse-mode automatic differentiation with advanced activity-analysis"
+  date: 2023-10-11
+  url: https://indico.cern.ch/event/1329062/contributions/5622799/attachments/2731771/4750716/PetroZ_Final_Talk_Slides.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329062/
+  recordingurl: https://youtu.be/viw2dolkkaY
+  focus-area: ia
 current_status:
 github-username: PetroZarytskyi
 ---

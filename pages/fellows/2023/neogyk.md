@@ -25,6 +25,13 @@ mentors:
 proposal: /assets/pdf/fellows-2023/proposal_leonid_didukh.pdf
 linkedin-profile: https://www.linkedin.com/in/ledidukh/
 github-username: neogyk
-presentation:
+presentations:
+- title: "Estimation of the energy cost and efficiency of the HEP data compression ML algorithm (Baler)"
+  date: 2023-10-09
+  url: https://indico.cern.ch/event/1329061/contributions/5593903/attachments/2729612/4746957/Estimation%20of%20the%20energy%20cost%20and%20efficiency%20of%20the%20HEP%20data%20compression%20ML%20algorithm%20(Baler).pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329061/
+  recordingurl: https://youtu.be/-rKVbc2Vf2Q
+  focus-area:
 current_status:
 ---
