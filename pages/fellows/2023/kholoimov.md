@@ -27,7 +27,7 @@ presentations:
   url: https://indico.cern.ch/event/1329064/contributions/5593922/attachments/2734211/4755827/IRIS%20project%20Kholoimov%20new.pdf
   meetingurl: https://indico.cern.ch/event/1329064/
   recordingurl: https://youtu.be/as645t4T9jc
-  focus-area: 
+  focus-area:
 current_status:
 github-username: kholoimov
 linkedin-profile: https://linkedin.com/in/valerii-kholoimov-37969a223

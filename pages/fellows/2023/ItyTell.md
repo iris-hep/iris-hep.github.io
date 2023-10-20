@@ -27,7 +27,7 @@ presentations:
   url: https://indico.cern.ch/event/1329064/contributions/5627738/attachments/2734216/4755950/Презентація%201(1).pdf
   meetingurl: https://indico.cern.ch/event/1329064/
   recordingurl: https://youtu.be/as645t4T9jc
-  focus-area: 
+  focus-area:
 current_status:
 github-username: ItyTell
 linkedin-profile: https://www.linkedin.com/in/mycola-kolomiiets-5350961b0

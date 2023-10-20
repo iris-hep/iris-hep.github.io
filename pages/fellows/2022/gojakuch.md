@@ -59,6 +59,6 @@ presentations:
   meeting: IRIS-HEP Fellows Presentations 2023
   meetingurl: https://indico.cern.ch/event/1329062/
   recordingurl: https://youtu.be/viw2dolkkaY
-  focus-area: 
+  focus-area:
 github-username: gojakuch
 ---

@@ -41,7 +41,7 @@ presentations:
   meeting: IRIS-HEP Fellows Presentations 2023
   meetingurl: https://indico.cern.ch/event/1329064/
   recordingurl: https://youtu.be/as645t4T9jc
-  focus-area: 
+  focus-area:
 current_status:
 github-username: Andreylen
 ---

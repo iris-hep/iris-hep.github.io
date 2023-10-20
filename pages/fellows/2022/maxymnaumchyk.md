@@ -46,7 +46,7 @@ presentations:
   url: https://indico.cern.ch/event/1329064/contributions/5593920/attachments/2734213/4755835/Project%20presentation%20Maxym%20Naumchyk.pdf
   meetingurl: https://indico.cern.ch/event/1329064/
   recordingurl: https://youtu.be/as645t4T9jc
-  focus-area: 
+  focus-area:
 current_status: >
 github-username: maxymnaumchyk
 linkedin-profile: https://www.linkedin.com/in/maxym-naumchyk-3b3bb31aa/

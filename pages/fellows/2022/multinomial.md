@@ -39,7 +39,7 @@ projects:
       The goal of this project is to develop a differentiable simulation and optimization pipeline to solve an inverse problem to the one described above. The problem of finding the best, in a certain sense, geometry of detector material and optimal starting conditions for the experiment, given the target properties of particle hits inside a detector.
 
     mentors:
-      - Lukas Heinrich (TUM) 
+      - Lukas Heinrich (TUM)
       - Michael Kagan (SLAC)
 
     proposal: /assets/pdf/fellows-2023/U000-proposal-Oleksii-Kiva.pdf

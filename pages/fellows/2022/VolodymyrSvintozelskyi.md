@@ -65,7 +65,7 @@ presentations:
     meeting: IRIS-HEP Fellows Presentations 2023
     meetingurl: https://indico.cern.ch/event/1329062/
     recordingurl: https://youtu.be/viw2dolkkaY
-    focus-area: 
+    focus-area:
 github-username: VolodymyrSvintozelskyi
 gitlab-url: https://gitlab.cern.ch/vsvintoz
 linkedin-profile: https://www.linkedin.com/in/volodymyr-svintozelskyi-046b731a7
