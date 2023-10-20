@@ -5,7 +5,7 @@ shortname: Kholoimov Valerii
 permalink: /fellows/KholoimovValerii.html
 fellow-name: Valerii Kholoimov
 title: Valerii Kholoimov - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-19
   end: 2023-09-10
@@ -20,7 +20,14 @@ mentors:
   - Arantza Oyanguren (IFIC - University of Valencia/CSIC, Spain)
   - Brij Kishor Jashal (IFIC - University of Valencia/CSIC, Spain)
 proposal: assets/pdf/fellows-2023/U025-porposal-Valerii-Kholoimov.pdf
+
 presentations:
+- title: "Development of simulation workflows for BSM LLPs at LHCb"
+  date: 2023-10-16
+  url: https://indico.cern.ch/event/1329064/contributions/5593922/attachments/2734211/4755827/IRIS%20project%20Kholoimov%20new.pdf
+  meetingurl: https://indico.cern.ch/event/1329064/
+  recordingurl: https://youtu.be/as645t4T9jc
+  focus-area: 
 current_status:
 github-username: kholoimov
 linkedin-profile: https://linkedin.com/in/valerii-kholoimov-37969a223

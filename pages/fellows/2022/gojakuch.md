@@ -53,5 +53,12 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1195272/
   recordingurl: https://youtu.be/01mHSh-gnXs
   focus-area:
+- title: "Julia for Analysis Grand Challenge"
+  date: 2023-10-11
+  url: https://indico.cern.ch/event/1329062/contributions/5593913/attachments/2730738/4750781/final-talk-krasnopolski-2023.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329062/
+  recordingurl: https://youtu.be/viw2dolkkaY
+  focus-area: 
 github-username: gojakuch
 ---

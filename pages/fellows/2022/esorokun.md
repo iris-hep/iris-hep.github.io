@@ -37,7 +37,16 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1199559/
   recordingurl: https://youtu.be/gEaqn7C9ipY
   focus-area:
+- title: "Intelligent Caching for the HSF Conditions Database: Investigate patterns in conditions database accesses"
+  date: 2023-10-09
+  url: https://indico.cern.ch/event/1329061/contributions/5593906/attachments/2729609/4746705/Sorokun_project_pres.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329061/
+  recordingurl: https://youtu.be/-rKVbc2Vf2Q
+  focus-area:
+
 current_status: >
   A placeholder for status updates
 github-username: esorokun
+
 ---

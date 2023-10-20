@@ -5,7 +5,7 @@ shortname: andriiknu
 permalink: /fellows/andriiknu.html
 fellow-name: Andrii Falko
 title: Andrii Falko - IRIS-HEP Fellow
-active: True
+active: False
 dates:
 - start: 2022-06-27
   end: 2022-09-18
@@ -38,6 +38,13 @@ presentations:
   meeting: IRIS-HEP Fellows Presentations 2022
   meetingurl: https://indico.cern.ch/event/1195272/
   recordingurl: https://youtu.be/01mHSh-gnXs
+  focus-area:
+- title:  An RDataFrame implementation for the new Analysis Grand Challenge version
+  date: 2023-10-18
+  url: https://indico.cern.ch/event/1329065/contributions/5593929/attachments/2735173/4759425/The%20RDF%20AGC.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329065/
+  recordingurl: https://youtu.be/AMCEy_tDU50
   focus-area:
 current_status: >
 

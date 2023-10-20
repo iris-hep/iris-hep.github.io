@@ -5,7 +5,7 @@ shortname: Samcoodess
 permalink: /fellows/Samcoodess.html
 fellow-name: Sambridhi Deo
 title: Sambridhi Deo - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-07-03
   end: 2023-09-18
@@ -29,6 +29,13 @@ mentors:
   - Giordon Stark (UC Santa Cruz)
 proposal: /assets/pdf/fellows-2023/IRIS000-proposal-Sambridhi-Deo.pdf
 presentations:
+- title:  REANA workflow for Dark Matter Searches
+  date: 2023-10-18
+  url: https://indico.cern.ch/event/1329065/contributions/5593931/attachments/2735178/4759091/reana-final.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
+  meetingurl: https://indico.cern.ch/event/1329065/
+  recordingurl: https://youtu.be/AMCEy_tDU50
+  focus-area: as
 current_status: >
 github-username: Samcoodess
 linkedin-profile: https://www.linkedin.com/in/sambridhi-deo-3002b0206/

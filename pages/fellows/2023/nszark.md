@@ -5,7 +5,7 @@ shortname: nszark
 permalink: /fellows/nszark.html
 fellow-name: Nazar Semkiv
 title: Nazar Semkiv - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-26
   end: 2023-09-15

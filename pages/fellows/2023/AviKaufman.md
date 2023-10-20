@@ -5,7 +5,7 @@ shortname: AviKaufman
 permalink: /fellows/AviKaufman.html
 fellow-name: Avi G. Kaufman
 title: Avi Kaufman - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-05
   end: 2023-08-25
