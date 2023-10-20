@@ -59,6 +59,13 @@ presentations:
     meetingurl: "https://indico.cern.ch/event/1199559/"
     recordingurl: "https://youtu.be/gEaqn7C9ipY"
     focus-area: ia
+  - title: "Studies of new trigger lines, dedicated to long-lived particle detection at the LHCb experiment"
+    date: 2023-10-11
+    url: https://indico.cern.ch/event/1329062/contributions/5593912/attachments/2730740/4750756/TTrackExtrapolation_IRIS_2023.pdf
+    meeting: IRIS-HEP Fellows Presentations 2023
+    meetingurl: https://indico.cern.ch/event/1329062/
+    recordingurl: https://youtu.be/viw2dolkkaY
+    focus-area:
 github-username: VolodymyrSvintozelskyi
 gitlab-url: https://gitlab.cern.ch/vsvintoz
 linkedin-profile: https://www.linkedin.com/in/volodymyr-svintozelskyi-046b731a7

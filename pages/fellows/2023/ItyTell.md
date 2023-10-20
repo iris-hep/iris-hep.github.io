@@ -5,7 +5,7 @@ shortname: Mycola Kolomiiets
 permalink: /fellows/MycolaKolomiiets.html
 fellow-name: Mycola Kolomiiets
 title: Mycola Kolomiiets - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-07-05
   end: 2023-09-19
@@ -22,6 +22,12 @@ mentors:
   - Jan Eysermans
 proposal: /assets/pdf/fellows-2023/U008-proposal-Kolomiec-Mykola.pdf
 presentations:
+- title: " Improving testing procedures for prompt data processing at CMS"
+  date: 2023-10-16
+  url: https://indico.cern.ch/event/1329064/contributions/5627738/attachments/2734216/4755950/Презентація%201(1).pdf
+  meetingurl: https://indico.cern.ch/event/1329064/
+  recordingurl: https://youtu.be/as645t4T9jc
+  focus-area:
 current_status:
 github-username: ItyTell
 linkedin-profile: https://www.linkedin.com/in/mycola-kolomiiets-5350961b0
