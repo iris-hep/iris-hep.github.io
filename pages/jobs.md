@@ -8,6 +8,17 @@ title: Available Positions
 
 A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
+## University of Wisconsin–Madison
+
+### Research Computing Facilitator
+
+The Center for High Throughput Computing (CHTC) seeks a Research Computing Facilitator to support the goals of a diverse
+set of researchers who use computing for their research. This is an ideal position for an academic researcher who has
+used computational approaches in their own work and is strongly motivated to support and empower the work of other
+researchers through access to large-scale computing resources.
+
+Apply here: https://go.wisc.edu/chtc-rcf-hire
+
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
