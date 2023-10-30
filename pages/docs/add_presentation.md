@@ -1,7 +1,7 @@
 ---
 permalink: /docs/add_presentation.html
 layout: default
-title: Information for new IRIS-HEP team members
+title: Adding a presentation
 pagetype: doc
 ---
 
