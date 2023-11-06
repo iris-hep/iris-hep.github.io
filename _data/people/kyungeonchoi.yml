@@ -45,7 +45,7 @@ presentations:
     location: virtual
     focus-area: doma
     project: servicex
-  - title: ServiceX: On-Demand Data Transformation and Delivery for the Present and HL-LHC Era
+  - title: ServiceX On-Demand Data Transformation and Delivery for the Present and HL-LHC Era
     date: 2020-07-14
     url: https://indico.cern.ch/event/882824/contributions/3930010/
     meeting: PyHEP 2020 Workshop
