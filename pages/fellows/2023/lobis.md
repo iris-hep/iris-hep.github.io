@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-10-02
   end: 2023-12-22
-photo: /assets/images/team/Luis-Obis.jpg
+photo: /assets/images/team/fellows-2023/Luis-Obis.jpg
 institution: University of Zaragoza
 e-mail: luis.antonio.obis@gmail.com
 focus-area: as
