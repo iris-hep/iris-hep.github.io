@@ -15,7 +15,7 @@ e-mail: luis.antonio.obis@gmail.com
 focus-area: as
 project_title: Integrate File System Spec (fsspec) into Uproot
 project_goal: >
-Integrate fsspec in the Uproot python library. This will allow Uproot to read ROOT files from different sources (local, http(s), s3, ssh, etc.) without the need for a specific implementation for each source.
+  Integrate fsspec in the Uproot python library. This will allow Uproot to read ROOT files from different sources (local, http(s), s3, ssh, etc.) without the need for a specific implementation for each source.
 mentors:
   - Jim Pivarski (Princeton University)
   - Nick Smith (FNAL)
