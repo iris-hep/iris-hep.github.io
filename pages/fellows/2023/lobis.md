@@ -1,5 +1,4 @@
 ---
-
 layout: fellow
 pagetype: fellow
 shortname: lobis
@@ -18,13 +17,12 @@ project_title: Integrate File System Spec (fsspec) into Uproot
 project_goal: >
 Integrate fsspec in the Uproot python library. This will allow Uproot to read ROOT files from different sources (local, http(s), s3, ssh, etc.) without the need for a specific implementation for each source.
 mentors:
-
-- Jim Pivarski (Princeton University)
-- Nick Smith (FNAL)
-  proposal: # does not exist yet? /assets/pdf/fellows-2023/
-  presentations:
-  current_status:
-  github-username: lobis
-  linkedin-profile: www.linkedin.com/in/luisobis/
-
+  - Jim Pivarski (Princeton University)  
+  - Nick Smith (FNAL)
+proposal:  /assets/pdf/fellows-2023/proposal-luis-obis.pdf
 presentations:
+current_status:
+github-username: lobis
+linkedin-profile: www.linkedin.com/in/luisobis/
+presentations:
+---
