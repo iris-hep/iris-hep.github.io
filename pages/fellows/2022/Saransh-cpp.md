@@ -39,14 +39,14 @@ mentors:
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
 - title: What's new with Vector? First major release is out!
-   date: 2023-10-09
-   url: https://indi.to/35ym5
-   meeting: PyHEP 2023 (virtual) Workshop
-   meetingurl: https://indico.cern.ch/event/1252095/
-   location: online
-   recordingurl: https://www.youtube.com/watch?v=JHEAb2R3xzE&list=PLKZ9c4ONm-VlAorAG8kR09ZqhMfHiH2LJ&index=11
-   focus-area: as
-   project: vector
+  date: 2023-10-09
+  url: https://indi.to/35ym5
+  meeting: PyHEP 2023 (virtual) Workshop
+  meetingurl: https://indico.cern.ch/event/1252095/
+  location: online
+  recordingurl: https://www.youtube.com/watch?v=JHEAb2R3xzE&list=PLKZ9c4ONm-VlAorAG8kR09ZqhMfHiH2LJ&index=11
+  focus-area: as
+  project: vector
 - title: Vector - Constructors, documentation, and benchmarks
   date: 2022-10-05
   url: https://indico.cern.ch/event/1195273/contributions/5075655/attachments/2522735/4338115/IRIS-HEP%20final%20presentation%20-%20Saransh%20Chopra.pdf
@@ -75,7 +75,6 @@ presentations:
   project: vector
 current_status: >
   <strong> January - June 2024 </strong> - Research Intern at IRIS-HEP/Princeton Research Computing Group, based at CERN
-  <strong> June - August 2023 </strong> - Mitacs Globalink Research Intern at McMaster University
 github-username: Saransh-cpp
 linkedin-profile: https://www.linkedin.com/in/saransh-cpp/
 ---
