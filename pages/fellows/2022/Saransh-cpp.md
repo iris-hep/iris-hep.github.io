@@ -38,7 +38,7 @@ mentors:
   - Jim Pivarski (Princeton University)
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
-- title: Constructing HEP vectors and analyzing HEP data using Vector
+- title: What's new with Vector? First major release is out!
    date: 2023-10-09
    url: https://indi.to/35ym5
    meeting: PyHEP 2023 (virtual) Workshop
