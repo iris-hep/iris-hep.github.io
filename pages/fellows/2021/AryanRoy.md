@@ -56,6 +56,7 @@ presentations:
   recordingurl: https://youtu.be/01mHSh-gnXs
   focus-area: as
 github-username: aryan26roy
-
+current_status: >
+  <strong>November 2023</strong> -  Associate Software Developer at Oracle
 linkedin-profile: https://www.linkedin.com/in/aryan-roy-914458189/
 ---
