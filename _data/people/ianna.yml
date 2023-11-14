@@ -10,6 +10,16 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+  - title: "An Awkward module for round-tripping data structures between Python and Julia"
+    date: 2023-11-08
+    url: https://indi.to/vNWpB
+    meeting: JuliaHEP 2023 Workshop
+    meetingurl: https://indico.cern.ch/event/1292759/
+    location: ECAP (Erlangen Centre for Astroparticle Physics), Nikolaus-Fiebiger-Straße 2, 91058, Erlangen, Germany
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Python and Fast Imperative Code: Lowering the Barriers"
     date: 2023-10-09
     url: https://doi.org/10.5281/zenodo.10000124
