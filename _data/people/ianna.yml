@@ -10,6 +10,16 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+  - title: "JuliaHEP workshop summary"
+    date: 2023-11-21
+    url: https://indico.cern.ch/event/1265188/
+    meeting: AS Biweekly Meeting
+    meetingurl: https://indico.cern.ch/event/1265188/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "An Awkward module for round-tripping data structures between Python and Julia"
     date: 2023-11-08
     url: https://indi.to/vNWpB
