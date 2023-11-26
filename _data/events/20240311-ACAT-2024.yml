@@ -1,0 +1,18 @@
+name: ACAT 2024
+startdate: 2024-03-11
+enddate: 2024-03-15
+location: Stony Brook, USA
+meetingurl: https://indico.cern.ch/event/1330797/
+image:
+description: >
+  22nd International Workshop on Advanced Computing and Analysis Techniques in Physics Research.
+  Foundation Models for Physics - Nexus of Computation and Physics through Embracing the Era of
+  Foundation Models: The 2024 ACAT workshop invites the vanguard of computational and physics experts
+  to delve into the transformative potential of foundation models. As the intersection between physics
+  and computational realms deepens, these advanced models, underpinned by colossal datasets and capable
+  of generating nuanced outputs, are redefining the research spectrum and increasingly reshaping the
+  way researchers approach complex problems, simulations, and data analyses. As we chart this new
+  territory, we'll address challenges and opportunities encompassing integration into computational
+  ecosystems, innovative data practices, training nuances, infrastructure evolution, uncertainty
+  metrics, ethical dimensions, and collaborative vistas across disciplines.
+labels:
