@@ -1,0 +1,10 @@
+name: pyhf Users and Developers Workshop
+startdate: 2023-12-04
+enddate: 2023-12-08
+location: CERN
+meetingurl: https://indico.cern.ch/e/pyhf-workshop-2023
+image:
+description: >
+  The inaugural pyhf workshop for users and developers across all of physics. Contributions from the workshop come from Scikit-HEP, ATLAS, Belle II, MicroBooNE, SModelS, CheckMate, and MadAnlaysis 5.
+labels:
+  - pyhf
