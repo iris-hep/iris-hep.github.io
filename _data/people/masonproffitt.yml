@@ -166,3 +166,11 @@ presentations:
     location: Virtual
     focus-area: as
     project: abcd-pyhf
+  - title: "abcd_pyhf: Likelihood-based ABCD method for background estimation and hypothesis testing with pyhf"
+    date: 2023-12-04
+    url: https://indico.cern.ch/event/1294577/contributions/5700251/
+    meeting: pyhf Users and Developers Workshop 2023
+    meetingurl: https://indico.cern.ch/event/1294577/
+    location: CERN
+    focus-area: as
+    project: abcd-pyhf
