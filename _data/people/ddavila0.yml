@@ -9,6 +9,46 @@ shortname: ddavila0
 title: Scientific Software Developer and Researcher
 website:
 presentations:
+  - title: "Rucio/SENSE in DC24"
+    date: 2023-11-09
+    url: https://indico.cern.ch/event/1307338/contributions/5657204/attachments/2749033/4784331/Rucio_SENSE%20DC24%20workshop%20(1).pdf
+    meeting: "Data Challenge 2024 Workshop"
+    meetingurl: https://indico.cern.ch/event/1307338/overview
+    focus-area: doma
+    project: tpc
+    location: CERN
+  - title: "Rucio/SENSE overview and our plans for DC24"
+    date: 2023-10-11
+    url: https://indico.cern.ch/event/1329684/contributions/5597322/attachments/2727766/4750809/20231004%20-%20Rucio_SENSE%20-%20S&C%20Blueprint%20Meeting(DC24%20prep)%20(1).pdf
+    meeting: "USCMS S&C Blueprint Meeting - DC24 preparation"
+    meetingurl: https://indico.cern.ch/event/1329684/
+    focus-area: doma
+    project: tpc
+    location: virtual
+  - title: "Rucio/SENSE overview and our plans for DC24"
+    date: 2023-09-12
+    url: https://indico.cern.ch/event/1288444/contributions/5568647/attachments/2713294/4712014/Rucio_SENSE_DC24_plan.pdf
+    meeting: "IRIS-HEP Institute Retreat"
+    meetingurl: https://indico.cern.ch/event/1288444/
+    focus-area: doma
+    project: tpc
+    location: Madison, WI
+  - title: "Rucio/SENSE implementation for CMS"
+    date: 2023-07-12
+    url: https://agenda.hep.wisc.edu/event/2014/contributions/28501/attachments/9176/11072/Rucio_SENSE%20integration%20within%20CMS.pdf
+    meeting: "Throughput Computing 2023"
+    meetingurl: https://agenda.hep.wisc.edu/event/2014/
+    focus-area: doma
+    project: tpc
+    location: Madison,WI
+  - title: "Scaling transfers for HL-LHC, DC24 plan"
+    date: 2023-03-23
+    url: https://indico.cern.ch/event/1258343/contributions/5309986/subcontributions/419482/attachments/2620753/4530996/Rucio_SENSE%20DC24%20plan.pdf
+    meeting: "WLCG DOMA General Meeting"
+    meetingurl: https://indico.cern.ch/event/1258343/
+    focus-area: doma
+    project: tpc
+    location: virtual
   - title: "Automated Network Services for Exascale Data Movement"
     date: 2022-11-11
     url: https://indico.cern.ch/event/1185600/contributions/5109192/attachments/2545788/4383989/Automated%20Network%20Services%20for%20Exascale%20Data%20Movement%20(1).pdf
