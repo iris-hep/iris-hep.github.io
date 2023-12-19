@@ -4,7 +4,7 @@ focus-area:
 institution: University of California, San Diego
 name: Aashay Arora
 photo: /assets/images/team/Aashay-Arora.png
-shortname: aaarora
+shortname: aashayarora
 title: Graduate Student
 website: https://www.aashayarora.com
 presentations:
@@ -32,3 +32,11 @@ presentations:
     project: tpc
     focus-area: doma
     location: Norfolk, VA
+  - title: "400Gbps benchmark of XRootD HTTP-TPC"
+    date: 2023-11-14
+    url: https://delaat.net/sc/sc23/indis/T4-4-SC23.pdf
+    meeting: SC'23
+    meetingurl: https://sc23.supercomputing.org
+    project: tpc
+    focus-area: doma
+    location: Denver, CO
