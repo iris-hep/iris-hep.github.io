@@ -30,3 +30,17 @@ presentations:
     date: 2023-03-30
     focus-area: osglhc
     project: caching
+  - title: "Generalizing mkFit and its Application to HL-LHC"
+    meeting: CHEP-2023, Norfolk, VA, USA
+    meetingurl: https://indico.jlab.org/event/459/
+    url: https://indico.jlab.org/event/459/contributions/11432/
+    date: 2023-05-08
+    focus-area: ia
+    project: mkfit
+  - title: "RenderCore – a new WebGPU-based rendering engine for ROOT-EVE"
+    meeting: CHEP-2023, Norfolk, VA, USA
+    meetingurl: https://indico.jlab.org/event/459/
+    url: https://indico.jlab.org/event/459/contributions/11459/
+    date: 2023-05-11
+    focus-area: ia
+    project: mkfit
