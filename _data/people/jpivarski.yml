@@ -626,3 +626,76 @@ presentations:
       - as
     project:
       - scikit-hep
+  - title: Thinking in arrays
+    date: 2023-07-11
+    url: https://cfp.scipy.org/2023/talk/XBUC8S/
+    meeting: SciPy 2023
+    meetingurl: https://www.scipy2023.scipy.org/
+    location: Austin, TX
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: Vertical and horizontal scaling with Python
+    date: 2023-07-24
+    url: https://github.com/jpivarski-talks/2023-07-24-tac-hep-tutorial
+    meeting: Computational HEP Traineeship Summer School
+    meetingurl: https://indico.cern.ch/event/1293313/
+    location: Princeton, NJ
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: Tiled: A Service for Structured Data Access
+    date: 2023-10-25
+    url: https://github.com/jpivarski-talks/2023-10-25-tiled-uproot-irishep-topical
+    meeting: IRIS-HEP Topical Meeting
+    meetingurl: https://indico.cern.ch/event/1311780/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: GPUs in Python
+    date: 2023-11-02
+    url: https://github.com/jpivarski-talks/2023-11-02-atlas-gpu-python-tutorial
+    meeting: ATLAS GPU Training
+    meetingurl: https://indico.cern.ch/event/1331139/overview
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: Engaging the HEP community in Julia
+    date: 2023-11-06
+    url: https://github.com/jpivarski-talks/2023-11-06-juliahep-physicists
+    meeting: JuliaHEP 2023 Workshop
+    meetingurl: https://indico.cern.ch/event/1292759/
+    location: Erlangen, Germany and online
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: Superhistograms
+    date: 2023-11-15
+    url: https://github.com/jpivarski-talks/2023-11-15-superhistograms-irishep-topical
+    meeting: IRIS-HEP Topical Meeting
+    meetingurl: https://indico.cern.ch/event/1342945/
+    location: online
+    focus-area:
+      - as
+    project:
+      - histogram
+  - title: Python tutorials
+    date: 2023-12-18
+    url: https://github.com/jpivarski-talks/2023-12-18-hsf-india-tutorial-bhubaneswar
+    meeting: HSF-India HEP Software Workshop at NISER - Bhubaneswar
+    meetingurl: https://indico.cern.ch/event/1328624/
+    location: Bhubaneswar, India
+    focus-area:
+      - as
+    project:
+      - uproot
+      - awkward
+      - histogram
+      - scikit-hep
