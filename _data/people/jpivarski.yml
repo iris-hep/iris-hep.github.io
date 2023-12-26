@@ -646,7 +646,7 @@ presentations:
       - as
     project:
       - awkward
-  - title: Tiled: A Service for Structured Data Access
+  - title: "Tiled: A Service for Structured Data Access"
     date: 2023-10-25
     url: https://github.com/jpivarski-talks/2023-10-25-tiled-uproot-irishep-topical
     meeting: IRIS-HEP Topical Meeting
