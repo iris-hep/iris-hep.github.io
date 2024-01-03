@@ -29,4 +29,4 @@ Direct links to previous meetings are listed below:
 
 {% include list_indico_table.html name="sb" %}
 
-<br/>
+<br/> 
