@@ -437,3 +437,38 @@ presentations:
     project:
       - agc
       - cabinetry
+
+  - title: "AGC Team End-to-End Demo"
+    date: 2023-09-14
+    url: https://indico.cern.ch/event/1291680/contributions/5451088/
+    meeting: IRIS-HEP AGC Demonstration 2023
+    meetingurl: https://indico.cern.ch/event/1291680/
+    location: "Madison, USA"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "Constructing and steering pyhf models with cabinetry"
+    date: 2023-12-04
+    url: https://indico.cern.ch/event/1294577/contributions/5689564/
+    meeting: pyhf Users and Developers Workshop 2023
+    meetingurl: https://indico.cern.ch/event/1294577/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+
+  - title: "Introduction to simulation-based inference (SBI)"
+    date: 2023-12-14
+    url: https://indico.cern.ch/event/1335237/contributions/5707428/
+    meeting: ATLAS end-of-year physics plenary 2023
+    meetingurl: https://indico.cern.ch/event/1335237/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - madminer
