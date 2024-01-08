@@ -165,3 +165,24 @@ presentations:
     project: acts
     focus-area: ia
     location: CERN
+  - title: "Status of KF and CKF: traccc"
+    date: 2023-11-09
+    url: https://indico.cern.ch/event/1295479/contributions/5616084/
+    meeting: Acts Workshop 2023
+    project: acts
+    focus-area: ia
+    location: IJCLab (Orsay, France)
+  - title: ACTS GPU R&D Status
+    date: 2023-11-16
+    url: https://indico.cern.ch/event/1346488/
+    meeting: "US ATLAS Software & Computing / Physics Support joint management meeting (Internal)"
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: CKF and KF development in traccc
+    date: 2023-11-28
+    url: https://indico.cern.ch/event/1346804/
+    meeting: EF Tracking Weekly (Internal)
+    project: acts
+    focus-area: ia
+    location: CERN
