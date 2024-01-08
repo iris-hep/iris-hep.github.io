@@ -165,7 +165,7 @@ presentations:
     project: acts
     focus-area: ia
     location: CERN
-  - title: Status of KF and CKF: traccc
+  - title: "Status of KF and CKF: traccc"
     date: 2023-11-09
     url: https://indico.cern.ch/event/1295479/contributions/5616084/
     meeting: Acts Workshop 2023
