@@ -1,7 +1,7 @@
 ---
 permalink: /blueprint.html
 layout: focus-area
-title: IRIS-HEP Blueprints
+title: Blueprints
 short_title: blueprint
 pagetype: focus-area
 ---
