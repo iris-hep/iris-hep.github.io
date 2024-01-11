@@ -24,7 +24,7 @@ IRIS-HEP makes an impact beyond the LHC; the Institute provides key services for
     file="/assets/images/posts/20240111-IRIS-HEP-Renewal-CoDaS-HEP-students.jpg"
     alt="School participants working on practical exercises during the CoDaS-HEP 2019 summer school at Princeton University"
     caption="School participants working on practical exercises during the CoDaS-HEP 2019 summer school at Princeton University. Credit: Floe Fusin-Wischusen, Princeton University."
-    img-style="width: 230px"
+    img-style="width: 500px"
     figure-style="width: min-content"
 %}
 
@@ -42,7 +42,7 @@ In phase two of IRIS-HEP, Onyisi hopes the funding will be used to ensure the so
     file="/assets/images/posts/20240111-IRIS-HEP-Renewal-PyHEP-developers.jpg"
     alt="A group of software developers discusses design options for the particle physics data science software ecosystem at the PyHEP.dev workshop at Princeton, in July, 2023"
     caption="A group of software developers discusses design options for the particle physics data science software ecosystem at the PyHEP.dev workshop at Princeton, in July, 2023. Credit: Jim Pivarski, Princeton University."
-    img-style="width: 230px"
+    img-style="width: 500px"
     figure-style="width: min-content"
 %}
 A group of software developers discusses design options for the particle physics data science software ecosystem at the PyHEP.dev workshop at Princeton, in July, 2023. Credit: Jim Pivarski, Princeton University.
