@@ -39,7 +39,7 @@ In phase two of IRIS-HEP, Onyisi hopes the funding will be used to ensure the so
 "The amount of scientific data expected to be produced by the High-Luminosity Large Hadron Collider is staggering," says Saul Gonzalez, director of NSF's Physics Division, which supports the institute along with NSF's Office of Advanced Cyberinfrastructure. "The innovative software and data analysis tools being developed by IRIS-HEP will allow researchers to find those 'needles' of discovery that unlock new understanding of our universe — and which would otherwise remain hidden in a haystack of data."
 
 {% include figure.html
-    file="assets/images/posts/20240111-IRIS-HEP-Renewal-PyHEP-developers.jpg"
+    file="/assets/images/posts/20240111-IRIS-HEP-Renewal-PyHEP-developers.jpg"
     alt="A group of software developers discusses design options for the particle physics data science software ecosystem at the PyHEP.dev workshop at Princeton, in July, 2023"
     caption="A group of software developers discusses design options for the particle physics data science software ecosystem at the PyHEP.dev workshop at Princeton, in July, 2023. Credit: Jim Pivarski, Princeton University."
     img-style="width: 230px"
