@@ -5,7 +5,7 @@ author:  "Allison Gasparini, Floe Fusin-Wischusen and Members of IRIS-HEP"
 image: /assets/images/posts/20240111-IRIS-HEP-Renewal-group-photo.jpg
 image-whole: true
 image-caption: >
-    "Group of attendees at the IRIS-HEP Retreat at the University of Madison Wisconsin on September 11-13, 2023. Credit: Jeff Peterson, Morgridge Institute for Research"
+    Group of attendees at the IRIS-HEP Retreat at the University of Madison Wisconsin on September 11-13, 2023. Credit: Jeff Peterson, Morgridge Institute for Research
 summary: >
     "IRIS-HEP received funding from the Office of Advanced Cyberinfrastructure and the Physics Division at the National Science Foundation for five years."
 figure-class: center
@@ -28,8 +28,6 @@ IRIS-HEP makes an impact beyond the LHC; the Institute provides key services for
     figure-style="width: min-content"
 %}
 
-School participants working on practical exercises during the CoDaS-HEP 2019 summer school at Princeton University. Credit: Floe Fusin-Wischusen, Princeton University.
-
 Peter Oniyisi, professor of Physics at the University of Texas Austin, who recently joined IRIS-HEP as a principal investigator, would like to see the collaboration work on ensuring that their software is easy for new users to get started with. The question, he says, is “How do we transition the software from essentially being a project that some R&D types are working on into something that’s really supported by the experiments?”
 
 In phase two of IRIS-HEP, Onyisi hopes the funding will be used to ensure the software can be used by high energy experiments for decades and decades. “It’s not a project that’s being developed, but rather a project that’s being maintained by the community.”
@@ -45,7 +43,6 @@ In phase two of IRIS-HEP, Onyisi hopes the funding will be used to ensure the so
     img-style="width: 500px"
     figure-style="width: min-content"
 %}
-A group of software developers discusses design options for the particle physics data science software ecosystem at the PyHEP.dev workshop at Princeton, in July, 2023. Credit: Jim Pivarski, Princeton University.
 
 The current subawardees and collaborating institutions include the University of Wisconsin Madison, the University of Washington, Stanford University, the Morgridge Institute for Research, Inc., the University of Notre Dame, the University of Chicago, Indiana University, Cornell University, the University of Cincinnati, the University of California Berkeley, University of California at San Diego, the University of Nebraska Lincoln, the University of Texas at Austin, the University of Michigan and the University of Puerto Rico Mayaguez.
 
