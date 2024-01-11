@@ -28,7 +28,7 @@ IRIS-HEP makes an impact beyond the LHC; the Institute provides key services for
     figure-style="width: min-content"
 %}
 
-Peter Oniyisi, professor of Physics at the University of Texas Austin, who recently joined IRIS-HEP as a principal investigator, would like to see the collaboration work on ensuring that their software is easy for new users to get started with. The question, he says, is “How do we transition the software from essentially being a project that some R&D types are working on into something that’s really supported by the experiments?”
+Peter Onyisi, associate professor of Physics at the University of Texas Austin, who recently joined IRIS-HEP as a principal investigator, would like to see the collaboration work on ensuring that their software is easy for new users to get started with. The question, he says, is “How do we transition the software from essentially being a project that some R&D types are working on into something that’s really supported by the experiments?”
 
 In phase two of IRIS-HEP, Onyisi hopes the funding will be used to ensure the software can be used by high energy experiments for decades and decades. “It’s not a project that’s being developed, but rather a project that’s being maintained by the community.”
 
