@@ -10,13 +10,6 @@ summary: >
     "IRIS-HEP received funding from the Office of Advanced Cyberinfrastructure and the Physics Division at the National Science Foundation for five years."
 figure-class: center
 ---
-
-![](images/image1.jpg)
-
-Group photo of attendees at  the IRIS-HEP Retreat at the University of Madison Wisconsin on September 11-13, 2023. Credit: Jeff Peterson, Morgridge Institute for Research  
-
-IRIS-HEP Receives $25M Funding for Another Five Years of Research
-
 This September marked the end of the first five years of research for the [Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)](https://iris-hep.org/). In mid-month, an international cohort of the software collaboration’s researchers and project team gathered in Madison, Wisconsin for an all-hands meeting. The congregation marked another exciting milestone for IRIS-HEP as well — the renewal of funding through a $25M award from the National Science Foundation for another five years of research.
 
 “We are excited that the National Science Foundation, our proposal reviewers, and the particle physics community have recognized the significant progress we have made in the first five years and endorsed our plan for the next five years”, said Peter Elmer, a senior research physicist at Princeton and the principal investigator and Executive Director of IRIS-HEP. The IRIS-HEP software institute, headquartered at the [Princeton Institute for Computational Science & Engineering](https://researchcomputing.princeton.edu/about/about-picscie) at CERN.
@@ -56,10 +49,10 @@ A group of software developers discusses design options for the particle physics
 
 The current subawardees and collaborating institutions include the University of Wisconsin Madison, the University of Washington, Stanford University, the Morgridge Institute for Research, Inc., the University of Notre Dame, the University of Chicago, Indiana University, Cornell University, the University of Cincinnati, the University of California Berkeley, University of California at San Diego, the University of Nebraska Lincoln, the University of Texas at Austin, the University of Michigan and the University of Puerto Rico Mayaguez.
 
-Facts & Figures and Key Accomplishments from 2018-2023
+## Facts & Figures and Key Accomplishments from 2018-2023
 
 *   Advanced Data Processing Algorithms:  IRIS-HEP has pursued multiple R&D paths for a [key pattern recognition challenge](https://indico.cern.ch/event/1103637/) charged particles each year in a real-time environment. Initial software has been deployed to the current LHC data taking.
-*   Extreme Data Science: IRIS-HEP has played a key role in building a cutting edge [High Energy Physics (HEP) community python ecosystem for data science](https://scikit-hep.org) had more than 40 active participants.
+*   Extreme Data Science: IRIS-HEP has played a key role in building a cutting edge [High Energy Physics (HEP) community python ecosystem for data science](https://scikit-hep.org) had more than 40 active participants. LHC experiments are already using these tools to perform analysis for publication.
 *   Distributed Data Management:  The institute is working to enable the LHC community to modernize how it moves data across the globe.  IRIS-HEP spearheaded the migration from older, niche transfer protocols to using industry-standard HTTPS for data distribution.
 *   High Throughput Computing and Facilities: IRIS-HEP supports the services run by the OSG Consortium and used by the LHC.  These services provide a backbone for today’s distributed high-throughput computing infrastructure and are evolving to prepare for the scale of tomorrow’s HL-LHC.
 *   Software Skills Training: More than 2000 people have participated in basic software development skills training events organized by IRIS-HEP and taught by more than 60 educators and more than 120 contributors since 2020. IRIS-HEP also sponsors the more advanced (in-person) [Computational and Data Science for High Energy Physics (CoDaS-HEP)](https://codas-hep.org) summer school, with typically 50 participants and 10 instructors per year, in 2019, 2022 and 2023.
