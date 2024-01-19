@@ -699,3 +699,12 @@ presentations:
       - awkward
       - histogram
       - scikit-hep
+  - title: "Three garbage collectors: Java, Python, and Julia"
+    date: 2024-01-10
+    url: https://github.com/jpivarski-talks/2024-01-10-compute-accelerator-garbage-collectors
+    meeting: Compute & Accelerator Forum
+    meetingurl: https://indico.cern.ch/event/1329685/
+    location: online
+    focus-area:
+      - as
+    project: null
