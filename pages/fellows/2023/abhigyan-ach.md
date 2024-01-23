@@ -21,7 +21,7 @@ mentors:
   - Vassil Vassilev (Princetonn University)
 proposal: /assets/pdf/fellows-2022/<find-your-file>
 presentations:
-current_status: 
+current_status:
 github-username: abhigyan-ach
 linkedin-profile: https://www.linkedin.com/in/abhigyan-acherjee-099385198/
 ---
