@@ -5,7 +5,7 @@ shortname: lobis
 permalink: /fellows/lobis.html
 fellow-name: Luis Antonio Obis Aparicio
 title: Luis Antonio Obis Aparicio - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-10-02
   end: 2023-12-22

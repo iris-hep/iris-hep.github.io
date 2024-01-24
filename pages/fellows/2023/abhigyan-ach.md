@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2023-08-21
   end:   2024-03-04
-photo: /assets/images/team/Abhigyan-Acherjee.jpg
+photo: /assets/images/team/fellows-2023/Abhigyan-Acherjee.jpg
 institution: University of Cincinnati
 e-mail: abhigyanacharjee@gmail.com
 focus-area: ia
