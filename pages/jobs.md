@@ -23,7 +23,7 @@ Apply here: https://go.wisc.edu/chtc-rcf-hire
 
 ## Postdoc
 
-We have a postdoctoral position open working with IRIS-HEP and ATLAS with Gordon Watts. Full review of applications starts on Feburary 15, and will continue until the position is filled. See details on the [inspire posting](https://inspirehep.net/jobs/2743711).
+We have a postdoctoral position open working with IRIS-HEP and ATLAS with Gordon Watts. Full review of applications starts on February 15 and will continue until the position is filled. See details on the [inspire posting](https://inspirehep.net/jobs/2743711).
 
 # Other positions of interest for HEP people
 
