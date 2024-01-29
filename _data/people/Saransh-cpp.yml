@@ -1,13 +1,13 @@
 active: true
 e-mail: saransh0701@gmail.com
-focus-area: as
+focus-area:
+  - as
 institution: Princeton University
 name: Saransh Chopra
 photo: "/assets/images/team/Saransh-Chopra.jpeg"
 shortname: Saransh-cpp
 title: Research Software Intern
 website: https://saransh-cpp.github.io
-presentations:
 presentations:
   - title: What's new with Vector? First major release is out!
     date: 2023-10-09
