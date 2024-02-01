@@ -9,6 +9,30 @@ shortname: klieret
 title:
 website: https://lieret.net
 presentations:
+  - title: "Tracking with Graph Neural Networks"
+    date: 2023-10-09
+    meeting: PyHEP
+    meetingurl: https://indico.cern.ch/event/1252095/
+    url: https://indico.cern.ch/event/1252095/contributions/5592412/
+    location: Online
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "High Pileup Particle Tracking with Object Condensation"
+    date: 2023-10-10
+    meeting: Connecting the Dots
+    meetingurl: https://indico.cern.ch/event/1252748/
+    url: https://indico.cern.ch/event/1252748/contributions/5521458/
+    location: Toulouse, France
+    focus-area: ia
+    project: accel-gnn-tracking
+  - title: "An Object Condensation Pipeline for Charged Particle Tracking"
+    date: 2023-05-09
+    meeting: CHEP
+    meetingurl: https://indico.jlab.org/event/459/
+    url: https://indico.jlab.org/event/459/contributions/11741/
+    location: Norfolk, VA
+    focus-area: ia
+    project: accel-gnn-tracking
   - title: "IRIS-HEP/HSF Training Activities"
     date: 2022-11-07
     meeting: Coordinated Ecosystem Workshop
