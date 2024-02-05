@@ -10,6 +10,16 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+  - title: "Bridging Worlds: Achieving Language Interoperability between Julia and Python in Scientific Computing"
+    date: 2024-03-11
+    url: https://indi.to/7vNMH
+    meeting: 22nd International Workshop on Advanced Computing and Analysis Techniques in Physics Research - ACAT2024
+    meetingurl: https://indico.cern.ch/event/1330797/
+    location: Stony Brook University, 100 Circle Rd, Stony Brook, NY 11794
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "JuliaHEP workshop summary"
     date: 2023-11-21
     url: https://indico.cern.ch/event/1265188/
