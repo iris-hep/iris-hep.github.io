@@ -57,4 +57,4 @@ If you don't have any presentations yet, you can leave presentations blank. For 
 [university file]:              https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/universities
 [IRIS-HEP Slack]:               https://iris-hep.slack.com
 [Google mailing lists]:         https://groups.google.com/a/iris-hep.org
-[presentation]:                 https://iris-hep.org/docs/addpresentation.html
+[presentation]:                 https://iris-hep.org/docs/add_presentation.html
