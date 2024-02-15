@@ -1,0 +1,9 @@
+name: USCMS Sofware Training
+startdate: 2024-06-20
+enddate: 2024-06-21
+location: Princeton University
+meetingurl: https://indico.cern.ch/event/383972/
+image:
+description: Workshop on analysis software at the USCMS annual meeting
+labels:
+  - training
