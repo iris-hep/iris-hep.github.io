@@ -47,7 +47,7 @@ jobs:
         run: bundle exec rake checkonly || true
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
@@ -57,4 +57,4 @@ jobs:
           && github.ref == 'refs/heads/master'
           && github.repository == 'iris-hep/iris-hep.github.io'
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4
