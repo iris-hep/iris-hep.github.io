@@ -9,12 +9,12 @@ title:
 website: https://www.linkedin.com/in/simon-akar-b350b3164/?originalSubdomain=fr
 presentations:
   - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC
-  date: 2024-01-30
-  url: https://indico.cern.ch/event/1297159/contributions/5729223/attachments/2789566/4864356/IML_WORKSHOP_2024.pdf
-  meeting: 6th Inter-experiment Machine Learning Workshop
-  meetingurl: https://indico.cern.ch/event/1297159/
-  location: CERN
-  focus-area:
-    - ia
-  project:
-    - pv-finder
+    date: 2024-01-30
+    url: https://indico.cern.ch/event/1297159/contributions/5729223/attachments/2789566/4864356/IML_WORKSHOP_2024.pdf
+    meeting: 6th Inter-experiment Machine Learning Workshop
+    meetingurl: https://indico.cern.ch/event/1297159/
+    location: CERN
+    focus-area:
+      - ia
+    project:
+      - pv-finder
