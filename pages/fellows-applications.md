@@ -29,6 +29,8 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
 During the Fellowship, you will work with your mentor and likely other collaborators using Slack, Zoom, GitHub and other similar tools. You will also make a short
 presentation about your project to other Fellows and Mentors as you start your Fellowship, another midway through the project to show your progress and a final presentation about your results at the very end. You will also have an opportunity to attend [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specific software skills.
 
+**Fellows projects:** A number of possible projects (and mentors) for summer 2024 are listed on the [Fellows Projects](http://research-software-collaborations.org/projects_irishep) webpage. You can mention particular projects/mentors which interest you in your application. We also create new projects or adapt existing ones based on the interests of Fellow applicants. These can come from any of the R&D areas of interest to IRIS-HEP.
+
 **Which R&D areas are relevant for IRIS-HEP?** - We are particularly interested in software R&D areas where IRIS-HEP personnel are active, but may also consider proposals for other software R&D topics of larger relevance to the HEP community. The IRIS-HEP activities include:
 
   * [Analysis Systems](/as.html)
