@@ -14,7 +14,7 @@ title: IRIS/HEP Fellows Program Applications
 -->
 
 
-**Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 4 March, 2024 (end of the day, any time zone) will prioritized for consideration, but submissions will be considered until the end of March.**
+**Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 4 March, 2024 (end of the day, any time zone) will prioritized for consideration. The application form will however remain open and applications can nonetheless be submitted through March 18th.**
 
 <!--
 **Applications for the Graduate Fellows program are not yet open, but will appear again in 2024.**
@@ -81,11 +81,11 @@ If you have a idea for a project which excites you, but do not find similar exam
 -->
 
 <!--
-**Applying:** Prospective fellows can apply using this [Application Google Form](https://docs.google.com/forms/d/1yi-MAXRA6fmJVf-afDhjIwEoCuyDpm1Csd9QLFdumb4/edit?pli=1). You will need to provide:
+**Applying:** Prospective fellows can apply using this [Application Google Form](https://docs.google.com/forms/d/1N19_B8nTWkaTD-Rf-tu0ErPc0-RE24Gih0NA4t1C1uE/viewform?edit_requested=true). You will need to provide:
 
  * Your full name, email address, the name of your university or college and your current or planned major and/or area of study
  * A resume/CV (in pdf format) with contact information
- * An academic transcript - this can be unofficial, but should include course titles and overall GPA. At the time the Fellowship starts you must have completed at least 1 year of university/college. [If you cannot obtain your transcript, e.g. due to the war in Ukraine, please just upload a pdf with a statement noting that it is not possible.]
+ * An academic transcript - this can be unofficial, but should include course titles and overall GPA. At the time the Fellowship starts you must have completed at least 1 year of university/college. [If you cannot obtain your transcript, please just upload a pdf with a statement explaining that it is not possible.]
  * A short essay describing your interest in the internship program (maximum 1 page, pdf format). For example, you may wish to expand on 3 or 4 topics from the following list: your background, your skills, and strengths;  what software, computing or scientific topics appeal to you; previous research experience, if any; what you may want to pursue as a future career; and what benefits you would like to gain from this program. If you already have a potential mentor and/or particular projects which interest you from the project lists above, you can also mention them here. It is however not required to have a mentor/project finalized to submit an application. Successful applicants will be connected to mentors to select and define their projects in a 2nd step following this application
  * [Optional] The full name and email address of a reference. This is optional. Ideally it would be someone with whom you have interacted in a STEM context (e.g. a course or a previous research activity). You should contact the person in advance to confirm that they will write a letter for you and simply provide their name/email in the application form. After you submit the form, we will contact them to request the letter.
 
