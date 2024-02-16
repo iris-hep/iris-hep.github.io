@@ -21,7 +21,7 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
   * Eligibility:
     * You must be enrolled in an undergraduate program at an accredited University or College and have completed at least 1 academic year by the start of the Fellowship.
     * For Summer 2024, the IRIS-HEP Fellows program will support (1) students of all nationalities that are associated to U.S. academic institutions (U.S. citizenship is not required) and (2) students of Ukrainian nationality. Students from India should consider applying instead to the [Trainee program](video and audio equipment) of the [HSF-India project](http://research-software-collaborations.org).
-  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 12 FTE-weeks (full time equivalent) at $600/week (paid monthly) during Summer 2023. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last 10-12 weeks (2.5 or 3 months).
+  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 12 FTE-weeks (full time equivalent) at $600/week (paid monthly) during Summer 2024. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last 10-12 weeks (2.5 or 3 months).
   * It is expected that the Fellow is available full time during the Fellowship period and will *not* have another significant activity (such as classes, another trainee position or a job) in the same time period.
 
 
