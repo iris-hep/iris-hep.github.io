@@ -6,19 +6,12 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-<!--
-**Applications for the Undergraduate Fellows program in Summer 2023 are now open. The final deadline for applications is Sunday, 16 April, 2023 (end of the day, any time zone).**
--->
+**Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 4 March, 2024 (end of the day, any time zone) will prioritized for consideration, but applications will be accepted through 18 March, 2024.**
 
-**Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 4 March, 2024 (end of the day, any time zone) will prioritized for consideration, but submissions will be considered until the end of March. Please see the [Application webpgae](/fellows-applications.html] for information on applying.**
+** Please see the [Application webpgae](/fellows-applications.html) for information on applying.**
 
 People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
 To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP Fellows will spend some number of months working with a mentor to build their skills while working on a research software project relevant to the Institute.
-
-
-**Funding:** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreements OAC-1836650 and PHY-2323298 as well as private foundation support. Funding for Fellows associated with international academic institutions has been provided by a combination of university, industry and private foundation support.
-
-**Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 4 March, 2024 (end of the day, any time zone) will prioritized for consideration, but submissions will be considered until the end of March. Please see the [Application webpgae](/fellows-applications.html] for information on applying.**
 
 
 {% assign fellows = site.pages | where: "pagetype", "fellow"
