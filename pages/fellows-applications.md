@@ -24,7 +24,6 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
   * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 12 FTE-weeks (full time equivalent) at $600/week (paid monthly) during Summer 2024. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last 10-12 weeks (2.5 or 3 months).
   * It is expected that the Fellow is available full time during the Fellowship period and will *not* have another significant activity (such as classes, another trainee position or a job) in the same time period.
 
-
 **How does it work?** - After you apply, we will make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will turn into a short 2-page project proposal and timeline (with some help from your mentor). Based on that, we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step.
 
 During the Fellowship, you will work with your mentor and likely other collaborators using Slack, Zoom, GitHub and other similar tools. You will also make a short
@@ -80,6 +79,6 @@ If you have a idea for a project which excites you, but do not find similar exam
   * April, 2024 - Offers, Acceptances and Onboarding of Summer 2024 Fellows
   * May-Sep, 2024 - Fellows work on projects (exact dates may depend on specific academic year constraints)
 
-**Funding:** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreements OAC-1836650 and PHY-2323298 as well as private foundation support. Funding for Fellows associated with international academic institutions has been provided by a combination of university, industry and private foundation support.
+**Funding:** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreements OAC-1836650 and PHY-2323298 (including an [IMPRESS-U](https://www.nsf.gov/pubs/2023/nsf23135/nsf23135.jsp) supplemental funding award) as well as private foundation support. Funding for Fellows associated with international academic institutions has been provided by a combination of university, industry and private foundation support.
 
 
