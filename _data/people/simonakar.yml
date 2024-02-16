@@ -28,7 +28,7 @@ presentations:
       - ia
     project:
       - pv-finder
-  - title: CERN IT Machine Learning Infrastructure Workshop: Inputs from LHCb
+  - title: "CERN IT Machine Learning Infrastructure Workshop: Inputs from LHCb"
     date: 2023-10-11
     url: https://indico.cern.ch/event/1298990/contributions/5576258/attachments/2731822/4749278/IT_Workshop_LHCb.pdf
     meeting: 2nd CERN IT Machine Learning Infrastructure Workshop
@@ -57,7 +57,7 @@ presentations:
       - ia
     project:
       - pv-finder
-  - title: Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices: Performances evaluation & comparison
+  - title: "Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices: Performances evaluation & comparison"
     date: 2021-05-10
     url: https://indico.cern.ch/event/1033487/contributions/4355104/attachments/2242022/3801618/RTA_WP2_20210510.pdf
     meeting: Internal LHCb RTA-DPA meeting
@@ -67,7 +67,7 @@ presentations:
       - ia
     project:
       - pv-finder
-  - title: Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices: Learning KDEs (and PVs) from track parameters
+  - title: "Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices: Learning KDEs (and PVs) from track parameters"
     date: 2021-03-29
     url: https://indico.cern.ch/event/1023012/contributions/4294673/subcontributions/332957/attachments/2217491/3754434/RTA_PV-FINDER_20210329.pdf
     meeting: Internal LHCb RTA-DPA meeting
