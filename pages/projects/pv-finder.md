@@ -16,6 +16,7 @@ team:
  - henryiii
  - mdsokoloff
  - mityinzer
+ - simonakar
  - marianstahl
  - Rui Fang
  - AtluriLab
