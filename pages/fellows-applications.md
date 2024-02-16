@@ -76,7 +76,7 @@ If you have a idea for a project which excites you, but do not find similar exam
 
 **Timeline:**
   * Monday 4 March, 2024 - deadline for priority consideration of applications (applications will be reviewed on a rolling basis as they arrive)
-  * Monday 18 March, 2024 - final deadline for consideration of applications 
+  * Monday 18 March, 2024 - final deadline for consideration of applications
   * 16 February - 30 March, 2024 - Select potential Fellows with be matched with potential mentors to develop a project proposal - this may involve a short interview and other follow-up. Final selection as a Fellow will require submission and approval of a project proposal.
   * April, 2024 - Offers, Acceptances and Onboarding of Summer 2024 Fellows
   * May-Sep, 2024 - Fellows work on projects (exact dates may depend on specific academic year constraints)
