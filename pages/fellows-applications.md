@@ -9,24 +9,13 @@ title: IRIS/HEP Fellows Program Applications
 
 **General information about the program, as well as information about former Fellows, can be found on the [main Fellows webpage](https://iris-hep.org/fellows.html).**
 
-<!--
-**Applications for the Graduate Fellows program are not yet open, but will appear again in 2024.**
--->
-
 
 **Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 4 March, 2024 (end of the day, any time zone) will prioritized for consideration. The application form will however remain open and applications can nonetheless be submitted through March 18th.**
-
-<!--
-**Applications for the Graduate Fellows program are not yet open, but will appear again in 2024.**
--->
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
 with basic programming through skills acquired (for example) from coursework or
 dedicated training activities? Are you interested in building on those skills to gain experience through contributions to cutting edge open
 source research software projects? Then the IRIS-HEP Fellows program could be for you. Prior physics knowledge is helpful, but not required. We will also offer dedicated [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specific software skills. *Applications from women and members of underrepresented groups in STEM activities are particularly encouraged.*
-
-
-**We are currently accepting applications for IRIS-HEP Undergraduate Fellows for Summer 2024:**
 
   * Undergraduate fellows work with a mentor to develop research software relevant in one of the R&D areas listed below. Undergraduate fellows will receive a training stipend, paid monthly, during their fellowship. In most cases, they will in general remain in their home location and work remotely with their mentor.
   * Eligibility:
