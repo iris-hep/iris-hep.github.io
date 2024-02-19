@@ -6,7 +6,7 @@ title: IRIS/HEP Fellows Program
 
 # IRIS-HEP Fellows Program
 
-**Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 4 March, 2024 (end of the day, any time zone) will prioritized for consideration, but applications will be accepted through 18 March, 2024.**
+**Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 11 March, 2024 (end of the day, any time zone) will prioritized for consideration, but applications will be accepted through 25 March, 2024.**
 
 **Please see the [Application webpage](/fellows-applications.html) for information how to apply.**
 
