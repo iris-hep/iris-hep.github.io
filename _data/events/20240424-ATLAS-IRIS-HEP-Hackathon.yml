@@ -1,0 +1,20 @@
+name: Joint ATLAS / IRIS-HEP Kubernetes Hackathon
+startdate: 2024-04-24
+enddate: 2024-04-26
+location: University of Chicago
+meetingurl: https://indico.cern.ch/event/1384683/
+image:
+description: >
+  A live hackathon is being organized to develop a versatile hybrid Kubernetes platform 
+  tailored for Facility R&D endeavors.   This platform will cater to scalable, low-latency analysis 
+  systems, alongside providing persistent infrastructure for notebook-based training sessions 
+  focused on ATLAS software tutorials, machine learning, and cutting-edge analysis tools 
+  designed for HL-LHC.
+
+  The concrete goal will be to run a variety of scalable multi-cluster demonstrators: 
+
+  * A low-latency, Run 3 type analysis (driven from a notebook)
+  * Advanced workflows utilizing the Uproot/Awkward/Dask backend with PHYSLITE
+  * Advanced workflows utilizing RDataFrame
+labels:
+  - training
