@@ -53,3 +53,14 @@ presentations:
     location: virtual
     focus-area: doma
     project: servicex
+  - title: "ServiceX, the novel data delivery system, for physics analysis"
+    date: 2024-03-11
+    url: https://indico.cern.ch/event/1330797/contributions/5796587/
+    meetingurl: https://indico.cern.ch/event/1330797
+    meeting: ACAT 2024
+    focus-area:
+      - doma
+      - as
+    project: servicex
+    location: Stony Brook University
+
