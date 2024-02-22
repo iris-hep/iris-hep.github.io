@@ -360,3 +360,15 @@ presentations:
     project:
       - servicex
       - agc
+  - title: "From Amsterdam to ACAT 2024: The Evolution and Convergence of Declarative Analysis Language Tools and Imperative Analysis Tools"
+    date: 2024-3-11
+    url: https://indico.cern.ch/event/1330797/contributions/5796855/
+    meetingurl: https://indico.cern.ch/event/1330797
+    meeting: "ACAT 2024"
+    focus-area:
+      - as
+      - doma
+    location: Stony Brook University
+    project:
+      - servicex
+      - func_adl
