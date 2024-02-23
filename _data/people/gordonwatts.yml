@@ -376,8 +376,9 @@ presentations:
     date: 2024-03-11
     url: https://indico.cern.ch/event/1330797/contributions/5796631/
     meetingurl: https://indico.cern.ch/event/1330797
-    meeting: ACAT 2024
+    meeting: "ACAT 2024"
     focus-area:
       - core
       - blueprint
     location: Stony Brook University
+  
