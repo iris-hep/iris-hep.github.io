@@ -1,4 +1,4 @@
-active: false
+active: true
 focus-area:
   - as
 institution: University of Washington
@@ -7,3 +7,11 @@ photo: /assets/images/team/Alex-Golub.JPG
 shortname: alex-golub99
 title: PhD Student
 website: https://github.com/alex-golub99
+presentations:
+  - title: "The Good, The Bad, and The Ugly: A tale of Physics, Software, and ML"
+    date: 2024-03-11
+    url: https://indico.cern.ch/event/1330797/contributions/5807078/
+    meeting: Advanced Computing and Analysis Techniques in Physics Research (ACAT) Workshop
+    meetingurl: https://indico.cern.ch/event/1330797/
+    location: Stony Brook University
+    focus-area: as
