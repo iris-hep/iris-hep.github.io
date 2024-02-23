@@ -7,7 +7,7 @@ photo: /assets/images/team/Alex-Golub.JPG
 shortname: alex-golub99
 title: PhD Student
 website: https://github.com/alex-golub99
-presentations: 
+presentations:
   - title: "The Good, The Bad, and The Ugly: A tale of Physics, Software, and ML"
     date: 2024-03-11
     url: https://indico.cern.ch/event/1330797/contributions/5807078/
