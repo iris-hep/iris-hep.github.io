@@ -1,0 +1,13 @@
+name: Training on Analysis Pipelines
+startdate: 2024-02-26
+enddate: 2024-03-01
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1375507/
+image:
+description: |
+  This training event is for data analysts who are already familiar with
+  analysis tools and concepts (e.g. C++, Python, event selection, limit setting)
+  who want to learn how to make their analysis pipelines robust using continuous
+  testing (CI/CD) and containerization (Podman, Docker, and Apptainer).
+labels:
+  - training
