@@ -1,0 +1,9 @@
+name: ATLAS Software Training
+startdate: 2024-07-18
+enddate: 2024-07-19
+location: University of Washington
+meetingurl: https://indico.cern.ch/event/1376945/
+image:
+description: Training workshop on analysis software at the US ATLAS annual meeting
+labels:
+  - training
