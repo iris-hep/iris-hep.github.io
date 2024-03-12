@@ -52,7 +52,7 @@ Please note the following:
     * Fill out your name, address and business phone
     * Specify the departure and return date from your trip to the school (please use MM/DD/YY format)
     * Specify the city, state and country where the event was located for the "Destination"
-    * For "Business Purpose", specify "Participation in <name of event>" 
+    * For "Business Purpose", specify "Participation in <name of event>"
     * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars.
     * If you paid an expense in something other than U.S. Dollars, look up the exchange rate (corresponding to the date of the expense!) on some online service and make a screenshot of the rate (including the date). Include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
