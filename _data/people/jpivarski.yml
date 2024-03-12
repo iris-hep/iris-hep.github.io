@@ -708,3 +708,17 @@ presentations:
     focus-area:
       - as
     project: null
+  - title: "Awkward Family (poster)"
+    date: 2024-03-11
+    url: https://github.com/jpivarski-talks/2024-03-11-acat2024-awkward-family-poster
+    meeting: ACAT 2024
+    meetingurl: https://indico.cern.ch/event/1330797/overview
+    location: Stony Brook, NY, US
+    focus-area:
+      - as
+    project:
+      - awkward
+      - awkward-dask
+      - uproot
+      - vector
+      - scikit-hep
