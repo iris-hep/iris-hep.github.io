@@ -1,0 +1,11 @@
+name: Workshop on workflow languages for HEP analysis
+startdate: 2024-04-03
+enddate: 2024-04-05
+location: CERN
+meetingurl: https://indico.cern.ch/event/1380367/
+image:
+description: >
+  This workshop will bring together experts on workflow languages and workflow management tools from the HEP and broader scientific open source software communities, and facilitate a dialogue between them.
+  The workshop is intended for developers of tools that build on workflow languages and advanced users of workflow languages in HEP contexts, though anyone interested is welcome to register.
+labels:
+  - as
