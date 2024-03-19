@@ -4,7 +4,7 @@ inputs:
   ruby-version:
     description: "Version of ruby to prepare"
     required: false
-    default: "3.1"
+    default: "3.2"
 
 runs:
   using: composite
