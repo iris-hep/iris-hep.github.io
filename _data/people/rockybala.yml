@@ -152,3 +152,35 @@ presentations:
     project: pv-finder
     focus-area: ia
     location: Norfolk, VA
+  - title: "Potentiality of automatic parameter tuning suite available in ACTS track reconstruction software framework"
+    date: 2023-05-11
+    url: https://indico.jlab.org/event/459/contributions/11460/
+    meeting: CHEP 2023
+    meetingurl: https://indico.jlab.org/event/459/
+    project: acts
+    focus-area: ia
+    location: Norfolk, VA
+  - title: "Studying a new Primary Vertex (PV) identification algorithm within ACTS framework"
+    date: 2023-10-12
+    url: https://indico.cern.ch/event/1252748/contributions/5521444/
+    meeting: CTD 2023
+    meetingurl: https://indico.cern.ch/event/1252748/
+    project: acts
+    focus-area: ia
+    location: Toulouse, France
+  - title: "Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC"
+    date: 2024-01-30
+    url: https://indico.cern.ch/event/1297159/contributions/5729223/
+    meeting: 6th Inter-experiment Machine Learning Workshop
+    meetingurl: https://indico.cern.ch/event/1297159/
+    project: pv-finder
+    focus-area: ia
+    location: CERN
+  - title: "New Deep Learning based approach to Primary Vertex finding in ATLAS experiment"
+    date: 2024-04-05
+    url: https://meetings.aps.org/Meeting/APR24/Session/M17.2
+    meeting: APS April Meeting, 2024
+    meetingurl: https://meetings.aps.org/Meeting/APR24/Content/4544
+    project: pv-finder
+    focus-area: ia
+    location: Sacramento, CA
