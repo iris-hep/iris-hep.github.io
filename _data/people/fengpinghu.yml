@@ -13,3 +13,9 @@ presentations:
     meeting: US ATLAS Budget Scrubbing 2022 - (with parallel S&C technical meetings)
     meetingurl: https://indico.cern.ch/event/1167456/
     focus-area: ssl
+  - title: "Server Side Data Delivery using FAB @ CERN"
+    date: 2024-03-20
+    url: https://docs.google.com/presentation/d/1Q3fCQlu8wK13y3Oc68S3obzTd5wJDacT2fd8pOLc1So/edit#slide=id.p
+    meeting: "KNIT 8: A FABRIC Community Workshop"
+    meetingurl: https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/
+    focus-area: ssl
