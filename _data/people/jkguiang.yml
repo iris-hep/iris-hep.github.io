@@ -15,7 +15,17 @@ presentations:
     meeting: 6th Inter-experiment Machine Learning Workshop
     meetingurl: https://indico.cern.ch/event/1297159/
     location: CERN
-    focus-area:
-      - ia
-    project:
-      - lst
+    focus-area: ia
+    project: lst
+    labels:
+      - conference
+  - title: Improving tracking algorithms with machine learning: a case for line-segment tracking at the High Luminosity LHC
+    date: 2023-10-12
+    url: https://indico.cern.ch/event/1252748/contributions/5521522/
+    meeting: Connecting The Dots 2023
+    meetingurl: https://indico.cern.ch/event/1252748
+    location: Toulouse, France
+    focus-area: ia
+    project: lst
+    labels:
+      - conference

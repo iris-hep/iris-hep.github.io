@@ -8,6 +8,13 @@ shortname: leonardogiannini
 title:
 website: https://github.com/leonardogiannini
 presentations:
+  - title: "mkFit for Phase 2"
+    meeting: Phase-2 Software Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1247039/
+    url: https://indico.cern.ch/event/1247039/#sc-15-3-mkfit-for-phase-2
+    date: 2023-03-10
+    focus-area: ia
+    project: mkfit
   - title: "mkFit update"
     meeting: Tracking POG meeting (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1117555/

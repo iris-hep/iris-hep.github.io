@@ -8,6 +8,15 @@ shortname: sgnoohc
 title: Tracking Algorithms Collaborator
 website: https://philip.ucsd.edu
 presentations:
+  - title: Line Segment Tracking in the High-luminosity LHC
+    date: 2023-05-09
+    url: https://indico.jlab.org/event/459/contributions/11399/
+    meeting: 26th International Conference on Computing in High Energy and Nuclear Physics (ICHEP 2023)
+    meetingurl: https://indico.jlab.org/event/459/
+    project: lst
+    focus-area: ia
+    labels:
+      - conference
   - title: Line segment tracking for Phase-II Tracking
     date: 2021-10-18
     url: https://indico.cern.ch/event/1087315/contributions/4571855/attachments/2329818/3969872/PhilipChang20211018_LST_TrackPOG_v5.pdf
