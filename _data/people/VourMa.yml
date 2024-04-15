@@ -12,7 +12,7 @@ presentations:
     meeting: Phase-2 Software Days (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1394609/
     url: https://indico.cern.ch/event/1394609/#18-line-segment-tracking
-    date: 2023-04-12
+    date: 2024-04-12
     focus-area: ia
     project: lst
   - title: "Line Segment Tracking: Improving the Phase 2 CMS High Level Trigger Tracking with a Novel, Hardware-Agnostic Pattern Recognition Algorithm"

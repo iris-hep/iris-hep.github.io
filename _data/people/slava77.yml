@@ -8,23 +8,6 @@ shortname: slava77
 title:
 website:
 presentations:
-  - title: "mkFit"
-    meeting: Phase-2 Software Days (CMS restricted)
-    meetingurl: https://indico.cern.ch/event/1394609/
-    url: https://indico.cern.ch/event/1394609/#21-mkfit
-    date: 2023-04-12
-    focus-area: ia
-    project: mkfit
-  - title: Track reconstruction with mkFit and developments towards HL-LHC 
-    date: 2023-10-10
-    url: https://indico.cern.ch/event/1252748/contributions/5521491/
-    meeting: Connecting The Dots 2023
-    meetingurl: https://indico.cern.ch/event/1252748
-    location: Toulouse, France
-    focus-area: ia
-    project: mkfit
-    labels:
-      - conference
   - title: Charged Particle Tracking Reconstruction (Guest Lecture)
     date: 2019-07-25
     url: https://indico.cern.ch/event/814979/contributions/3401167/attachments/1831465/3110068/trackingCODAS19.pdf
@@ -73,5 +56,31 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1187097/
     url: https://indico.cern.ch/event/1187097/contributions/5046215
     date: 2022-09-13
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit/LST"
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/1288444/
+    url: https://indico.cern.ch/event/1288444/timetable/?view=standard#sc-43-2-mkfitlst
+    date: 2023-09-11
+    focus-area: ia
+    project:
+      - mkfit
+      - lst
+  - title: Track reconstruction with mkFit and developments towards HL-LHC 
+    date: 2023-10-10
+    url: https://indico.cern.ch/event/1252748/contributions/5521491/
+    meeting: Connecting The Dots 2023
+    meetingurl: https://indico.cern.ch/event/1252748
+    location: Toulouse, France
+    focus-area: ia
+    project: mkfit
+    labels:
+      - conference
+  - title: "mkFit"
+    meeting: Phase-2 Software Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1394609/
+    url: https://indico.cern.ch/event/1394609/#21-mkfit
+    date: 2024-04-12
     focus-area: ia
     project: mkfit
