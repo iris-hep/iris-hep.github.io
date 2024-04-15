@@ -8,6 +8,54 @@ shortname: VourMa
 title:
 website: https://github.com/VourMa
 presentations:
+  - title: "Line Segment Tracking"
+    meeting: Phase-2 Software Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1394609/
+    url: https://indico.cern.ch/event/1394609/#18-line-segment-tracking
+    date: 2024-04-12
+    focus-area: ia
+    project: lst
+  - title: "Line Segment Tracking: Improving the Phase 2 CMS High Level Trigger Tracking with a Novel, Hardware-Agnostic Pattern Recognition Algorithm"
+    meeting: 22nd International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2024)
+    meetingurl: https://indico.cern.ch/event/1330797/
+    url: https://indico.cern.ch/event/1330797/contributions/5796841/
+    date: 2024-03-11
+    focus-area: ia
+    project: lst
+    labels:
+      - conference
+  - title: "DPS Note: Performance of Line Segment Tracking in the CMS Phase 2 High Level Trigger"
+    meeting: Trigger Studies Group (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1379056/
+    url: https://indico.cern.ch/event/1379056/#43-dps-note-performance-of-lin
+    date: 2024-02-21
+    focus-area: ia
+    project: lst
+  - title: "Phase-2 Timing projections: Tracking"
+    meeting: Reconstruction and Analysis Tools (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1341548/
+    url: https://indico.cern.ch/event/1341548/#7-phase-2-timing-projections-t
+    date: 2023-11-03
+    focus-area: ia
+    project:
+      - lst
+      - mkfit
+  - title: "Tracking"
+    meeting: Phase-2 Software Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1296987/
+    url: https://indico.cern.ch/event/1296987/#17-tracking
+    date: 2023-03-10
+    focus-area: ia
+    project:
+      - lst
+      - mkfit
+  - title: "Timing considerations for LST"
+    meeting: HLT developments with GPUs (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1230366/
+    url: https://indico.cern.ch/event/1230366/#2-timing-considerations-for-ls
+    date: 2023-07-10
+    focus-area: ia
+    project: lst
   - title: "Integration of Line Segment Tracking in CMSSW"
     meeting: CMS Tracking POG General Meeting (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1247006/
@@ -30,7 +78,7 @@ presentations:
     focus-area: ia
     project: lst
   - title: "Speeding up the CMS track reconstruction with a parallelized and vectorized Kalman-filter-based algorithm during the LHC Run 3 (poster)"
-    meeting: ACAT 2022
+    meeting: 21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2022)
     meetingurl: https://indico.cern.ch/event/1106990/
     url: https://indico.cern.ch/event/1106990/contributions/4998120/
     date: 2022-10-26
