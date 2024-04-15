@@ -8,6 +8,45 @@ shortname: leonardogiannini
 title:
 website: https://github.com/leonardogiannini
 presentations:
+  - title: "Material effects updates in mkFit"
+    meeting: CMS Tracking Group (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1247011/
+    url: https://indico.cern.ch/event/1247011/contributions/5408422/attachments/2651031/4590023/Material%20effects%20updates%20in%20mkFit.pdf
+    date: 2023-05-22
+    focus-area: ia
+    project: mkfit
+  - title: "A DNN for CMS track classification and selection"
+    meeting: Computing in High Energy and Nuclear Physics (CHEP2023)
+    meetingurl: https://indico.jlab.org/event/459
+    url: https://indico.jlab.org/event/459/contributions/11864/attachments/9519/13805/DNN-poster.pdf
+    date: 2023-05-09
+    focus-area: ia
+    project: mkfit
+    labels:
+      - conference
+  - title: "Generalizing mkFit and its Application to HL-LHC"
+    meeting: Computing in High Energy and Nuclear Physics (CHEP2023)
+    meetingurl: https://indico.jlab.org/event/459
+    url: https://indico.jlab.org/event/459/contributions/11432/attachments/9330/13614/mkFit-CHEP-2023.pdf
+    date: 2023-05-08
+    focus-area: ia
+    project: mkfit
+    labels:
+      - conference
+  - title: "mkFit for Phase 2"
+    meeting: CMS Upgrade Software Days (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1247039
+    url: https://indico.cern.ch/event/1247039/contributions/5296624/subcontributions/415809/attachments/2608322/4505754/MkFit-status-phase-2.pdf
+    date: 2023-03-09
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status report"
+    meeting: Tracking POG meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1152032
+    url: https://indico.cern.ch/event/1152032/contributions/4841692/attachments/2430728/4162233/mkFit%20-%20update-1.pdf
+    date: 2022-04-25
+    focus-area: ia
+    project: mkfit
   - title: "mkFit update"
     meeting: Tracking POG meeting (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1117555/
@@ -57,42 +96,3 @@ presentations:
     date: 2021-05-17
     focus-area: ia
     project: mkfit
-  - title: "mkFit status report"
-    meeting: Tracking POG meeting (CMS restricted)
-    meetingurl: https://indico.cern.ch/event/1152032
-    url: https://indico.cern.ch/event/1152032/contributions/4841692/attachments/2430728/4162233/mkFit%20-%20update-1.pdf
-    date: 2022-04-25
-    focus-area: ia
-    project: mkfit
-  - title: "mkFit for Phase 2"
-    meeting: CMS Upgrade Software Days (CMS restricted)
-    meetingurl: https://indico.cern.ch/event/1247039
-    url: https://indico.cern.ch/event/1247039/contributions/5296624/subcontributions/415809/attachments/2608322/4505754/MkFit-status-phase-2.pdf
-    date: 2023-03-09
-    focus-area: ia
-    project: mkfit
-  - title: "A DNN for CMS track classification and selection"
-    meeting: Computing in High Energy and Nuclear Physics (CHEP2023)
-    meetingurl: https://indico.jlab.org/event/459
-    url: https://indico.jlab.org/event/459/contributions/11864/attachments/9519/13805/DNN-poster.pdf
-    date: 2023-05-09
-    focus-area: ia
-    project: mkfit
-    labels:
-      - conference
-  - title: "Material effects updates in mkFit"
-    meeting: CMS Tracking Group (CMS restricted)
-    meetingurl: https://indico.cern.ch/event/1247011/
-    url: https://indico.cern.ch/event/1247011/contributions/5408422/attachments/2651031/4590023/Material%20effects%20updates%20in%20mkFit.pdf
-    date: 2023-05-22
-    focus-area: ia
-    project: mkfit
-  - title: "Generalizing mkFit and its Application to HL-LHC"
-    meeting: Computing in High Energy and Nuclear Physics (CHEP2023)
-    meetingurl: https://indico.jlab.org/event/459
-    url: https://indico.jlab.org/event/459/contributions/11432/attachments/9330/13614/mkFit-CHEP-2023.pdf
-    date: 2023-05-08
-    focus-area: ia
-    project: mkfit
-    labels:
-      - conference
