@@ -9,7 +9,7 @@ shortname: jkguiang
 title: PhD Candidate
 website: https://jguiang.com
 presentations:
-  - title: Improving the line-segment tracking algorithm with machine learning for the High Luminosity LHC
+  - title: "Improving the line-segment tracking algorithm with machine learning for the High Luminosity LHC"
     date: 2024-01-31
     url: https://indico.cern.ch/event/1297159/contributions/5729200/
     meeting: 6th Inter-experiment Machine Learning Workshop
@@ -19,7 +19,7 @@ presentations:
     project: lst
     labels:
       - conference
-  - title: Improving tracking algorithms with machine learning: a case for line-segment tracking at the High Luminosity LHC
+  - title: "Improving tracking algorithms with machine learning: a case for line-segment tracking at the High Luminosity LHC"
     date: 2023-10-12
     url: https://indico.cern.ch/event/1252748/contributions/5521522/
     meeting: Connecting The Dots 2023
