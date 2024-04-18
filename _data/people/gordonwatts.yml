@@ -380,3 +380,11 @@ presentations:
     focus-area:
       - core
     location: Stony Brook University
+  - title: "AI In Science and Society"
+    date: 2024-04-17
+    url: https://indico.cern.ch/event/1406903/
+    meetingurl: https://indico.cern.ch/event/1406903/
+    meeting: "Science Conversations at Skyline Retirement Home"
+    focus-area:
+      - core
+    location: Seattle
