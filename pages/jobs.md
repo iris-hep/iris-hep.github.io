@@ -30,6 +30,8 @@ We have a postdoctoral position open working with IRIS-HEP and ATLAS with Gordon
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
+* [RSE position at the University of Washington to work at CERN](https://uwhires.admin.washington.edu/eng/candidates/default.cfm?szCategory=jobprofile&szOrderID=233095&szCandidateID=0&szSearchWords=&szReturnToSearch=1). Close date is April 30th.
+
 ### Others
 
   * More in general, many RSE positions beyond HEP can be found on the [US-RSE Jobs page](https://us-rse.org/jobs/) or the [Society of Research Software Engineering](https://society-rse.org/careers/vacancies/) for the UK and elsewhere.
