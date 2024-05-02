@@ -541,3 +541,38 @@ presentations:
     location: CERN, Geneva, Switzerland
     focus-area: doma
     project: osg-networking
+  - title: perfSONAR Plans for DC24
+    meeting: "Data Challenge 2024 Workshop"
+    url: https://indico.cern.ch/event/1307338
+    date: 2023-11-09
+    focus-area: doma
+    project: osg-networking
+  - title: USATLAS Data Challenge 2024 Take-aways
+    meeting: "USATLAS Topical meeting (virtual)"
+    url: https://indico.cern.ch/event/1377561/
+    date: 2024-02-28
+    focus-area: osglhc
+    project: osg-networking
+  - title: Medium to Long Term Network Plans for ATLAS and CMS
+    meeting: "#12 RCS-ICT Meeting"
+    url: https://indico.cern.ch/event/1318713/
+    location: CERN, Geneva, Switzerland
+    date: 2024-03-08
+    focus-area: osglhc
+    project: osg-networking
+  - title: Research Networking Technical Working Group Status and Plans
+    meeting: "HEPiX Spring 2024 meeting"
+    url: https://indico.cern.ch/event/1377701/
+    location: Paris, France
+    meetingurl: https://indico.cern.ch/event/1377701/timetable/#20240417
+    date: 2024-04-17
+    focus-area: doma
+    project: osg-networking
+  - title: WLCG Network Monitoring and Analytics Updates
+    meeting: "HEPiX Spring 2024 meeting"
+    url: https://indico.cern.ch/event/1377701/
+    location: Paris, France
+    meetingurl: https://indico.cern.ch/event/1377701/timetable/#20240417
+    date: 2024-04-17
+    focus-area: osglhc
+    project: osg-networking
