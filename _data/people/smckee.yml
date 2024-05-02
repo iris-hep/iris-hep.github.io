@@ -563,15 +563,13 @@ presentations:
   - title: Research Networking Technical Working Group Status and Plans
     meeting: "HEPiX Spring 2024 meeting"
     location: Paris, France
-    url: https://indico.cern.ch/event/1377701/contributions/5900862/attachments/2836957/4957741/Research%20Networking%20Technical%20Working%20Group%20Status%20and%20Plans.pdf
     meetingurl: https://indico.cern.ch/event/1377701/timetable/#20240417
     date: 2024-04-17
     focus-area: doma
     project: osg-networking
-  - title: "WLCG Network Monitoring and Analytics Updates"
-    meeting: HEPiX Spring 2024 meeting
+  - title: WLCG Network Monitoring and Analytics Updates
+    meeting: "HEPiX Spring 2024 meeting"
     location: Paris, France
-    url: https://indico.cern.ch/event/1377701/contributions/5900844/attachments/2838140/4961224/WLCG%20Network%20Monitoring%20and%20Analytics%20Updates.pdf
     meetingurl: https://indico.cern.ch/event/1377701/timetable/#20240417
     date: 2024-04-17
     focus-area: osg-lhc
