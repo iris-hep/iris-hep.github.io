@@ -551,14 +551,14 @@ presentations:
     meeting: "USATLAS Topical meeting (virtual)"
     url: https://indico.cern.ch/event/1377561/
     date: 2024-02-28
-    focus-area: osg-lhc
+    focus-area: osglhc
     project: osg-networking
   - title: Medium to Long Term Network Plans for ATLAS and CMS
     meeting: "#12 RCS-ICT Meeting"
     url: https://indico.cern.ch/event/1318713/
     location: CERN, Geneva, Switzerland
     date: 2024-03-08
-    focus-area: osg-lhc
+    focus-area: osglhc
     project: osg-networking
   - title: Research Networking Technical Working Group Status and Plans
     meeting: "HEPiX Spring 2024 meeting"
@@ -572,5 +572,5 @@ presentations:
     location: Paris, France
     meetingurl: https://indico.cern.ch/event/1377701/timetable/#20240417
     date: 2024-04-17
-    focus-area: osg-lhc
+    focus-area: osglhc
     project: osg-networking
