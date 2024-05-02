@@ -543,7 +543,7 @@ presentations:
     project: osg-networking
   - title: perfSONAR Plans for DC24
     meeting: "Data Challenge 2024 Workshop"
-    url:  https://indico.cern.ch/event/1307338
+    url: https://indico.cern.ch/event/1307338
     date: 2023-11-09
     focus-area: doma
     project: osg-networking
