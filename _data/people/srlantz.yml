@@ -56,3 +56,35 @@ presentations:
     location: Cornell University
     focus-area: ia
     project: mkfit
+  - title: What Every Computational Physicist Should Know About Computer Architecture
+    date: 2023-07-17
+    url: https://indico.cern.ch/event/1287965/contributions/5411731/attachments/2684956/4659677/WhatEveryCompPhysShouldKnowArch.pdf
+    meeting: Fifth Computational and Data Science school for HEP (CoDaS-HEP 2023)
+    meetingurl: https://indico.cern.ch/event/1287965/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: Vector Parallelism on Multi-Core Processors
+    date: 2023-07-17
+    url: https://indico.cern.ch/event/1287965/contributions/5411730/attachments/2685135/4690137/VectorParallelismMultiCoreProcs.pdf
+    meeting: Fifth Computational and Data Science school for HEP (CoDaS-HEP 2023)
+    meetingurl: https://indico.cern.ch/event/1287965/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: Introduction to Performance Tuning & Optimization Tools
+    date: 2023-07-19
+    url: https://indico.cern.ch/event/1287965/contributions/5411736/attachments/2686711/4661549/IntroPerfTuningOpt.pdf
+    meeting: Fifth Computational and Data Science school for HEP (CoDaS-HEP 2023)
+    meetingurl: https://indico.cern.ch/event/1287965/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: "Parallelized Track Reconstruction for the LHC: the mkFit Project"
+    date: 2023-07-21
+    url: https://indico.cern.ch/event/1287965/contributions/5502684/attachments/2688204/4690135/ParallelizedTrackReco.pdf
+    meeting: Fifth Computational and Data Science school for HEP (CoDaS-HEP 2023)
+    meetingurl: https://indico.cern.ch/event/1287965/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit

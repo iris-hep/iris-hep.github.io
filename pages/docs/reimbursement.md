@@ -26,10 +26,10 @@ eligible for reimbursement from the IRIS-HEP project.
   * For participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds.
   * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus).
   * Car rentals will not be reimbursed unless specifically authorized by the school organization.
-  * Breakfast, lunches and coffee breaks will be provided at no cost to you from Monday to Friday, as well as a light reception on Monday evening and a "Social Mixer" event (with food) on Tuesday evening. Additional meals costs will not be reimbursed.
+  * For many IRIS-HEP events, some number of meals and coffee breaks will be provided for you. The specifics will be described in an email from an IRIS-HEP representative about the event. Additional meals costs will not be reimbursed.
   * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
   * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file.
-  * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the school week itself (i.e. Friday, 3 August, 2018) and submitted along with the electronic copy of the receipts described above.
+  * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the event itself and submitted along with the electronic copy of the receipts described above.
 
   If you have any questions or doubts about travel reimbursement please send an email with your travel plan to [participant-reimbursement@iris-hep.org](mailto:participant-reimbursement@iris-hep.org) before booking to get confirmation on reimbursement.
 
@@ -39,8 +39,8 @@ eligible for reimbursement from the IRIS-HEP project.
 
 There are two relevant forms for travel reimbursement:
 
-  * [Guest Reimbursement Request](https://finance.princeton.edu/form-library/reimbursement/guest-reimbursement-reque/guest_reimbursement_request.pdf) - Everyone requesting travel reimbursement must fill out this form
-  * [Supplier Onboarding Form](https://finance.princeton.edu/form-library/buying-paying/supplierpayee-management/supplier_mgmt.pdf) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
+  * [Guest Reimbursement Request](https://finance.princeton.edu/forms/guest-reimbursement-request) - Everyone requesting travel reimbursement must fill out this form
+  * [Supplier Onboarding Form](https://finance.princeton.edu/forms/supplierpayee-management) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
 
 Please note the following:
 
@@ -52,7 +52,7 @@ Please note the following:
     * Fill out your name, address and business phone
     * Specify the departure and return date from your trip to the school (please use MM/DD/YY format)
     * Specify the city, state and country where the event was located for the "Destination"
-    * For "Business Purpose", specify "Participation in CoDaS-HEP 2018 school"
+    * For "Business Purpose", specify "Participation in <name of event>"
     * Fill out the list of expenses as appropriate. Include the date (in MM/DD/YY format), a short description of the type of expense and the amount in U.S. Dollars.
     * If you paid an expense in something other than U.S. Dollars, look up the exchange rate (corresponding to the date of the expense!) on some online service and make a screenshot of the rate (including the date). Include the screenshot in the pdf with the receipt. Put the equivalent U.S. Dollar cost in the form in the "Amount" column and include the amount in the foreign currency (with label such as CHF, EUR) in parentheses in the item "Description". (Note that the administration may adjust the conversion amount if the wrong rate or date is used.)
     * Add your name, date and signature at the bottom of the form.
@@ -71,17 +71,10 @@ Please note the following:
 
 ### Notes for specific events and workshops
 
-#### [Blueprint Workshop on Analysis Systems R&D on Scalable Platforms](https://indico.cern.ch/event/820946/timetable/)
-  * Location: New York University, New York, NY
-  * Meeting Dates: 21-22 June, 2019
-  * Business purpose: Participation in Blueprint Workshop on Analysis Systems R&D on Scalable Platforms
-  * "event-prefix" for pdf file naming: ASNYU
+#### [](https://indico.cern.ch/event/820946/timetable/)
+  * Location: Princeton, NJ
+  * Meeting Dates: 20-21 June, 2024
+  * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
+  * "event-prefix" for pdf file naming: USCMS
 
-#### Software Carpentry Workshops
-  * "event-prefix" for pdf file naming: ASNYU
-    * August, 2019 event at LBNL: LBNL2019
-    * June, 2019 event at ANL: ANL2019
-    * April, 2019 event at FNAL: FNAL2019
-
-#### Other Training Workshops:
 

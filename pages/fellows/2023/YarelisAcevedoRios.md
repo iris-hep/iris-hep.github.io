@@ -5,11 +5,11 @@ shortname: YarelisAcevedo
 permalink: /fellows/YarelisAcevedo.html
 fellow-name: Yarelis D Acevedo Rios
 title: Yarelis D Acevedo Rios - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-04-17
   end: 2023-06-05
-photo: /assets/images/team/Yarelis-Acevedo.jpg
+photo: /assets/images/team/fellows-2023/Yarelis-Acevedo.jpg
 institution: University of Puerto Rico
 e-mail: yarelis.acevedo@upr.edu
 focus-area: ssc

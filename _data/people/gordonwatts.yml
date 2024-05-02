@@ -327,3 +327,64 @@ presentations:
     focus-area: as
     project: agc
     location: Madison, WI, USA
+  - title: "Summary of the Differentiable and Probalistic discussions on Analysis at Munich Workshop"
+    date: 2023-07-21
+    url: https://indico.cern.ch/event/1307783/contributions/5504958/
+    meetingurl: https://indico.cern.ch/event/1307783/
+    meeting: "ATLAS Analysis Model Group (internal)"
+    focus-area: as
+    location: virtual
+  - title: "Cuts and NN - living together in peace"
+    date: 2023-07-25
+    url: https://indico.cern.ch/event/1242538/contributions/5432836/
+    meetingurl: https://indico.cern.ch/event/1242538
+    meeting: "Third MODE Workshop on Differentiable Programming for Experiment Design"
+    focus-area: as
+    location: Princeton, NJ, USA
+  - title: "Intro Talk: Who am I?"
+    date: 2023-07-25
+    url: https://indico.cern.ch/event/1234156/contributions/5506053
+    meetingurl: https://indico.cern.ch/event/1234156
+    meeting: "PyHEP.dev 2023 - Python in HEP Developer's Workshop"
+    focus-area: as
+    location: Princeton, NJ, USA
+  - title: "The AGC with ATLAS Data"
+    date: 2023-10-04
+    url: https://indico.cern.ch/event/1328739/contributions/5605607/
+    meetingurl: https://indico.cern.ch/event/1328739
+    meeting: "The ATLAS Software And Computing Week #76 (internal)"
+    focus-area:
+      - as
+      - doma
+    location: CERN
+    project:
+      - servicex
+      - agc
+  - title: "From Amsterdam to ACAT 2024: The Evolution and Convergence of Declarative Analysis Language Tools and Imperative Analysis Tools"
+    date: 2024-03-11
+    url: https://indico.cern.ch/event/1330797/contributions/5796855/
+    meetingurl: https://indico.cern.ch/event/1330797
+    meeting: "ACAT 2024"
+    focus-area:
+      - as
+      - doma
+    location: Stony Brook University
+    project:
+      - servicex
+      - func-adl
+  - title: "Retrieval Augmented Generation for Particle Physics: A Case Study with the Snowmass White Papers and Reports"
+    date: 2024-03-11
+    url: https://indico.cern.ch/event/1330797/contributions/5796631/
+    meetingurl: https://indico.cern.ch/event/1330797
+    meeting: "ACAT 2024"
+    focus-area:
+      - core
+    location: Stony Brook University
+  - title: "AI In Science and Society"
+    date: 2024-04-17
+    url: https://indico.cern.ch/event/1406903/
+    meetingurl: https://indico.cern.ch/event/1406903/
+    meeting: "Science Conversations at Skyline Retirement Home"
+    focus-area:
+      - core
+    location: Seattle

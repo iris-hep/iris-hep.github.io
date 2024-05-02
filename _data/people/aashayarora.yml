@@ -1,0 +1,42 @@
+active: true
+focus-area:
+  - doma
+institution: University of California, San Diego
+name: Aashay Arora
+photo: /assets/images/team/Aashay-Arora.png
+shortname: aashayarora
+title: Graduate Student
+website: https://www.aashayarora.com
+presentations:
+  - title: "Using Microsoft Azure for XRootD network benchmarking"
+    date: 2021-07-20
+    url: https://drive.google.com/drive/u/1/folders/1hMfmxGaY3ZEaCqUSoDtNA1frNqInE0jW
+    meeting: PEARC'21 Poster Session
+    meetingurl: https://pearc.acm.org/pearc21/
+    project: tpc
+    focus-area: doma
+    location: Virtual
+  - title: "Systematic benchmarking of HTTPS third party copy on 100Gbps links using XRootD"
+    date: 2021-05-18
+    url: https://indico.cern.ch/event/948465/contributions/4323952/editing/paper/444/5642/XRootD_HTTPS_TPC_Benchmarking.pdf
+    meeting: vCHEP'21
+    meetingurl: https://cern.zoom.us/j/62681653254
+    project: tpc
+    focus-area: doma
+    location: Virtual
+  - title: "400Gbps benchmark of XRootD HTTP-TPC"
+    date: 2023-05-11
+    url: https://indico.jlab.org/event/459/contributions/11303/attachments/9681/14120/400gbps_benchmark.pdf
+    meeting: CHEP'23
+    meetingurl: https://indico.jlab.org/event/459/
+    project: tpc
+    focus-area: doma
+    location: Norfolk, VA
+  - title: "400Gbps benchmark of XRootD HTTP-TPC"
+    date: 2023-11-14
+    url: https://delaat.net/sc/sc23/indis/T4-4-SC23.pdf
+    meeting: SC'23
+    meetingurl: https://sc23.supercomputing.org
+    project: tpc
+    focus-area: doma
+    location: Denver, CO

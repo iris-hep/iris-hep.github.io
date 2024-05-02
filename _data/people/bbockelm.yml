@@ -202,3 +202,31 @@ presentations:
     url: https://indico.cern.ch/event/1226223/contributions/5158532/attachments/2562758/4417484/BDT%20Year-In-Review.pdf
     focus-area: doma
     date: 2022-12-07
+  - title: "Managing the OSG Fabric of Services the GitOps Way"
+    meeting: "CHEP 2023 Conference"
+    meetingurl: https://indico.jlab.org/event/459/
+    url: "https://indico.jlab.org/event/459/contributions/11487/"
+    focus-area: doma
+    date: 2023-05-09
+    location: Norfolk, U.S.A.
+  - title: "Analysis Facilities AAI"
+    meeting: "WLCG-HSF Pre-CHEP Workshop 2023"
+    meetingurl: "https://indico.cern.ch/event/1230126/"
+    url: "https://indico.cern.ch/event/1230126/contributions/5315413/"
+    date: 2023-05-06
+    focus-area: doma
+    location: Norfolk, U.S.A.
+  - title: "DOMA: workshop outcomes and action items"
+    location: Madison, U.S.A.
+    focus-area: doma
+    date: 2023-05-05
+    meeting: "IRIS-HEP AGC workshop 2023"
+    meetingurl: "https://indico.cern.ch/event/1260431/"
+    url: "https://indico.cern.ch/event/1260431/contributions/5315159/"
+  - title: "Overview - Token Transition"
+    location: CERN
+    focus-area: doma
+    date: 2023-03-17
+    meeting: "CMS Spring 2023 O&C Week"
+    meetingurl: "https://indico.cern.ch/event/1256427"
+    url: "https://indico.cern.ch/event/1256427/contributions/5302386/"

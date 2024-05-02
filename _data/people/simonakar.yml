@@ -8,3 +8,72 @@ shortname: simonakar
 title:
 website: https://www.linkedin.com/in/simon-akar-b350b3164/?originalSubdomain=fr
 presentations:
+  - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC
+    date: 2024-01-30
+    url: https://indico.cern.ch/event/1297159/contributions/5729223/attachments/2789566/4864356/IML_WORKSHOP_2024.pdf
+    meeting: 6th Inter-experiment Machine Learning Workshop
+    meetingurl: https://indico.cern.ch/event/1297159/
+    location: CERN
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+  - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC (poster)
+    date: 2024-02-01
+    url: https://indico.cern.ch/event/1297159/contributions/5781002/attachments/2802294/4889218/PVFinder_IML2024.pdf
+    meeting: 6th Inter-experiment Machine Learning Workshop
+    meetingurl: https://indico.cern.ch/event/1297159/
+    location: CERN
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+  - title: CERN IT Machine Learning Infrastructure Workshop, Inputs from LHCb
+    date: 2023-10-11
+    url: https://indico.cern.ch/event/1298990/contributions/5576258/attachments/2731822/4749278/IT_Workshop_LHCb.pdf
+    meeting: 2nd CERN IT Machine Learning Infrastructure Workshop
+    meetingurl: https://indico.cern.ch/event/1298990/
+    location: CERN
+    focus-area:
+      - ia
+    project: null
+  - title: Comparing and improving hybrid deep learning algorithms for identifying and locating primary vertices (poster)
+    date: 2022-10-25
+    url: https://indico.cern.ch/event/1106990/contributions/4998031/
+    meeting: ACAT 2022 (21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research)
+    meetingurl: https://indico.cern.ch/event/1106990/
+    location: Bari, Italy
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+  - title: Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices
+    date: 2021-05-19
+    url: https://indico.cern.ch/event/948465/contributions/4324192/
+    meeting: CHEP 2021 (25th International Conference on Computing in High-Energy and Nuclear Physics)
+    meetingurl: https://indico.cern.ch/event/948465/
+    location: Virtual
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+  - title: Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices, Performances evaluation & comparison
+    date: 2021-05-10
+    url: https://indico.cern.ch/event/1033487/contributions/4355104/attachments/2242022/3801618/RTA_WP2_20210510.pdf
+    meeting: Internal LHCb RTA-DPA meeting
+    meetingurl: https://indico.cern.ch/event/1033487/
+    location: CERN
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+  - title: Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices, Learning KDEs and PVs from track parameters
+    date: 2021-03-29
+    url: https://indico.cern.ch/event/1023012/contributions/4294673/subcontributions/332957/attachments/2217491/3754434/RTA_PV-FINDER_20210329.pdf
+    meeting: Internal LHCb RTA-DPA meeting
+    meetingurl: https://indico.cern.ch/event/1023012/
+    location: CERN
+    focus-area:
+      - ia
+    project:
+      - pv-finder
