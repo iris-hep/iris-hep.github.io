@@ -562,6 +562,7 @@ presentations:
     project: osg-networking
   - title: Research Networking Technical Working Group Status and Plans
     meeting: "HEPiX Spring 2024 meeting"
+    url: https://indico.cern.ch/event/1377701/
     location: Paris, France
     meetingurl: https://indico.cern.ch/event/1377701/timetable/#20240417
     date: 2024-04-17
@@ -569,6 +570,7 @@ presentations:
     project: osg-networking
   - title: WLCG Network Monitoring and Analytics Updates
     meeting: "HEPiX Spring 2024 meeting"
+    url: https://indico.cern.ch/event/1377701/
     location: Paris, France
     meetingurl: https://indico.cern.ch/event/1377701/timetable/#20240417
     date: 2024-04-17
