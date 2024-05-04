@@ -906,26 +906,19 @@ presentations:
     focus-area: as
     location: Munich
   - title: Keynote
-    date: 2024-07-03
+    date: 2024-06-12
     url:
     meeting: "Helmholtz AI"
     meetingurl: https://haicon24.de
     focus-area: as
     location:
   - title: Generative AI Panel
-    date: 2024-07-03
+    date: 2024-06-13
     url:
     meeting: "Helmholtz AI"
     meetingurl: https://haicon24.de
     focus-area: as
     location:
-  - title: "Structured Probabilistic Inference & Generative Modeling in Physics"
-    date: 2024-07-03
-    url:
-    meeting: "Structured Probabilistic Inference & Generative Modeling workshop at ICML"
-    meetingurl: https://spigmworkshop2024.github.io
-    focus-area: as
-    location: Vienna, Austria
   - title: Keynote
     date: 2024-07-12
     url:
@@ -933,3 +926,10 @@ presentations:
     meetingurl: https://www.scipy2024.scipy.org
     focus-area: as
     location: Tacoma, WA
+  - title: "Structured Probabilistic Inference & Generative Modeling in Physics"
+    date: 2024-07-26
+    url:
+    meeting: "Structured Probabilistic Inference & Generative Modeling workshop at ICML"
+    meetingurl: https://spigmworkshop2024.github.io
+    focus-area: as
+    location: Vienna, Austria
