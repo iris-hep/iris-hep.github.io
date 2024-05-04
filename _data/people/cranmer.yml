@@ -885,7 +885,7 @@ presentations:
     focus-area: as
     location: University of Wisconsin--Madison
   - title: "Grand combinations at HL-LHC & FAIROS-HEP"
-    date: 2024-07-03
+    date: 2024-04-25
     url: https://indico.cern.ch/event/1378665/contributions/5901899/
     meeting: "LPC EFT Workshop"
     meetingurl: https://indico.cern.ch/event/1378665/overview
@@ -899,35 +899,35 @@ presentations:
     focus-area: as
     location: Amsterdam
   - title: Opening talk
-    date: 2023-05-15
+    date: 2024-05-15
     url:
     meeting: "PhyStat SBI"
     meetingurl: https://indico.cern.ch/event/1355601/overview
     focus-area: as
     location: Munich
   - title: Keynote
-    date: 2023-07-03
+    date: 2024-07-03
     url:
     meeting: "Helmholtz AI"
     meetingurl: https://haicon24.de
     focus-area: as
     location:
   - title: Generative AI Panel
-    date: 2023-07-03
+    date: 2024-07-03
     url:
     meeting: "Helmholtz AI"
     meetingurl: https://haicon24.de
     focus-area: as
     location:
   - title: "Structured Probabilistic Inference & Generative Modeling in Physics"
-    date: 2023-07-03
+    date: 2024-07-03
     url:
     meeting: "Structured Probabilistic Inference & Generative Modeling workshop at ICML"
     meetingurl: https://spigmworkshop2024.github.io
     focus-area: as
     location: Vienna, Austria
   - title: Keynote
-    date: 2023-07-12
+    date: 2024-07-12
     url:
     meeting: "SciPy 2024"
     meetingurl: https://www.scipy2024.scipy.org
