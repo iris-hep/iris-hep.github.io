@@ -801,14 +801,14 @@ presentations:
   - title: "Closeout / Conferene Synthesis"
     date: 2023-11-03
     url: https://indico.cern.ch/event/1202995/contributions/5241180/
-    meeting: Hammers and Nails 2023 
+    meeting: Hammers and Nails 2023
     meetingurl: https://indico.cern.ch/event/1202995/
     focus-area: as
     location: Ascona, Switzerland
-  - title: How AI is raising the ambition of physicists 
+  - title: How AI is raising the ambition of physicists
     date: 2023-10-10
-    url: 
-    meeting: Hans Jensen Lecture  
+    url:
+    meeting: Hans Jensen Lecture
     meetingurl: https://www.physik.uni-heidelberg.de/graddays/20232?lang=en
     focus-area: as
     location: Heidelberg
@@ -829,14 +829,14 @@ presentations:
     location: CERN
   - title: "Simulation-Based Inference: The intersection of mechanistic models and inverse problems"
     date: 2023-11-17
-    url: 
+    url:
     meeting: Biomedical Engineering Engineering Seminar
-    meetingurl: 
+    meetingurl:
     focus-area: as
     location: University of Wisconsin--Madison
   - title: Learning, Physics, and Graphs
     date: 2023-11-27
-    url: 
+    url:
     meeting: Learning on Graphs Conference
     meetingurl: http://log2023.logconference.org
     video: https://www.youtube.com/live/OcruIkiRkiU?feature=shared&t=4736
@@ -858,28 +858,28 @@ presentations:
     location: CERN
   - title: Examples of AI in Physics
     date: 2023-12-14
-    url: 
+    url:
     meeting: AI 4 Scientific Discovery workshop at NeurIPS
     meetingurl: https://ai4sciencecommunity.github.io/neurips23.html
     focus-area: as
-    location: New Orleans 
+    location: New Orleans
   - title: "Injecting knowledge and extracting insight: promis and perils"
     date: 2024-02-26
-    url: 
+    url:
     meeting: "Explainable AI for Science (XAI4Sci) workshop AAAI 2024"
     meetingurl: https://xai4sci.github.io
     focus-area: as
     location: Vancouver, Canada
   - title: Combining human and artificial intelligence for predictive modeling
     date: 2024-02-27
-    url: 
+    url:
     meeting: "National Predictive Modeling Tool Initiative Annual Meeting"
     meetingurl: https://agpmt.org/in-the-news/
     focus-area: as
     location: Raleigh, NC
   - title: Data, Decisions, and Generative AI
     date: 2024-02-06
-    url: 
+    url:
     meeting: "UW-Madison Research Bazaar"
     meetingurl: https://datascience.wisc.edu/data-science-research-bazaar/
     focus-area: as
@@ -898,37 +898,37 @@ presentations:
     meetingurl: https://indico.nikhef.nl/event/4875/
     focus-area: as
     location: Amsterdam
-  - title: Opening talk 
+  - title: Opening talk
     date: 2023-05-15
-    url: 
+    url:
     meeting: "PhyStat SBI"
     meetingurl: https://indico.cern.ch/event/1355601/overview
     focus-area: as
-    location: Munich 
+    location: Munich
   - title: Keynote
     date: 2023-07-03
-    url: 
+    url:
     meeting: "Helmholtz AI"
     meetingurl: https://haicon24.de
     focus-area: as
-    location: 
+    location:
   - title: Generative AI Panel
     date: 2023-07-03
-    url: 
+    url:
     meeting: "Helmholtz AI"
     meetingurl: https://haicon24.de
     focus-area: as
-    location: 
+    location:
   - title: "Structured Probabilistic Inference & Generative Modeling in Physics"
     date: 2023-07-03
-    url: 
+    url:
     meeting: "Structured Probabilistic Inference & Generative Modeling workshop at ICML"
     meetingurl: https://spigmworkshop2024.github.io
     focus-area: as
     location: Vienna, Austria
   - title: Keynote
     date: 2023-07-12
-    url: 
+    url:
     meeting: "SciPy 2024"
     meetingurl: https://www.scipy2024.scipy.org
     focus-area: as
