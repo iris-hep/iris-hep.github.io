@@ -798,7 +798,7 @@ presentations:
     meetingurl: https://indico.nikhef.nl/event/4325/
     focus-area: as
     location: Amsterdam
-  - title: "Closeout / Conferene Synthesis"
+  - title: "Closeout / Conference Synthesis"
     date: 2023-11-03
     url: https://indico.cern.ch/event/1202995/contributions/5241180/
     meeting: Hammers and Nails 2023
@@ -863,7 +863,7 @@ presentations:
     meetingurl: https://ai4sciencecommunity.github.io/neurips23.html
     focus-area: as
     location: New Orleans
-  - title: "Injecting knowledge and extracting insight: promis and perils"
+  - title: "Injecting knowledge and extracting insight: promise and perils"
     date: 2024-02-26
     url:
     meeting: "Explainable AI for Science (XAI4Sci) workshop AAAI 2024"
