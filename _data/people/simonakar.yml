@@ -8,6 +8,26 @@ shortname: simonakar
 title:
 website: https://www.linkedin.com/in/simon-akar-b350b3164/?originalSubdomain=fr
 presentations:
+  - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC, New approach based on Graph Neural Network (talk)
+    date: 2024-04-30
+    url: https://indico.nikhef.nl/event/4875/contributions/20317/attachments/8200/11681/AkarS_EuCAIFCon24.pdf
+    meeting: European AI for Fundamental Physics Conference
+    meetingurl: https://indico.nikhef.nl/event/4875/
+    location: Amsterdam
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+  - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC, New approach based on Graph Neural Network (poster)
+    date: 2024-05-01
+    url: https://indico.nikhef.nl/event/4875/contributions/20317/attachments/8200/11960/PVFinder_EuCAIFCon24.pdf
+    meeting: European AI for Fundamental Physics Conference
+    meetingurl: https://indico.nikhef.nl/event/4875/
+    location: Amsterdam
+    focus-area:
+      - ia
+    project:
+      - pv-finder
   - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC
     date: 2024-01-30
     url: https://indico.cern.ch/event/1297159/contributions/5729223/attachments/2789566/4864356/IML_WORKSHOP_2024.pdf
