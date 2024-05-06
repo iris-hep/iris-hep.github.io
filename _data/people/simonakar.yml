@@ -19,7 +19,7 @@ presentations:
     project:
       - pv-finder
   - title: Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC, New approach based on Graph Neural Network (poster)
-    date: 2024-04-31
+    date: 2024-05-01
     url: https://indico.nikhef.nl/event/4875/contributions/20317/attachments/8200/11960/PVFinder_EuCAIFCon24.pdf
     meeting: European AI for Fundamental Physics Conference
     meetingurl: https://indico.nikhef.nl/event/4875/
