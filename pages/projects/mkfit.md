@@ -36,8 +36,8 @@ focus-area: ia
 <h3>mkFit</h3>
 The mkFit project aims to develop fully vectorized and parallelized tracking algorithms based on the Kalman Filter for use in collider experiments.
 The software has been integrated into CMSSW and is currently being used in [CMS Run 3](https://cms.cern/news/wait-overthe-lhc-run-3-has-started).
-Development is ongoing with a view toward the Phase-2 upgrade of the CMS detector. For a complete account of how mkFit works, see the 2020
-[JINST publication](http://inspirehep.net/record/1798734); highlights from that paper appear below.
+Development is ongoing with a view toward the [Phase-2 upgrade](https://cms.cern/news/new-paradigms-cms-phase-2-upgrades) of the CMS detector.
+For a complete account of how mkFit works, see the 2020 [JINST publication](http://inspirehep.net/record/1798734); highlights from that paper appear below.
 
 <br/>
 
