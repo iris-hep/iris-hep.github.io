@@ -472,3 +472,48 @@ presentations:
       - as
     project:
       - madminer
+
+  - title: "Introduction to cabinetry"
+    date: 2024-01-30
+    url: https://indico.cern.ch/event/1364816/#11-introduction-to-cabinetry
+    meeting: ATLAS HHFramework meeting
+    meetingurl: https://indico.cern.ch/event/1364816/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+
+  - title: "AGC and new coffea 2023/4"
+    date: 2024-03-01
+    url: https://indico.cern.ch/event/1367741/#9-agc-and-new-coffea-20234
+    meeting: IRIS-HEP / AGC Demo Day 4
+    meetingurl: https://indico.cern.ch/event/1367741/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - agc
+
+  - title: "Evolution of Analysis Techniques and Statistical Treatment"
+    date: 2024-04-03
+    url: https://meetings.aps.org/Meeting/APR24/Session/C11.1
+    meeting: APS April Meeting 2024
+    meetingurl: https://meetings.aps.org/Meeting/APR24/Content/4544
+    location: "Sacramento, USA"
+    focus-area:
+      - as
+    project:
+      - agc
+      - madminer
+
+  - title: "SBI in HEP Meets Reality"
+    date: 2024-05-16
+    url: https://indico.cern.ch/event/1355601/contributions/5812026/
+    meeting: APS April Meeting 2024
+    meetingurl: https://indico.cern.ch/event/1355601/
+    location: "Munich, Germany"
+    focus-area:
+      - as
+    project:
+      - madminer
