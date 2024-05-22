@@ -19,8 +19,8 @@ mentors:
   - Matthew Feickert (University of Wisconsin-Madison)
   - Henry Schreiner (Princeton University)
 proposal: /assets/pdf/fellows-2024/proposal-jordan-ashley.pdf
-presentations: 
-current_status: 
+presentations:
+current_status:
 github-username: j-s-ashley
 linkedin-profile: https://www.linkedin.com/in/j-s-ashley/
 ---
