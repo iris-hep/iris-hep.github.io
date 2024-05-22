@@ -14,7 +14,7 @@ institution: University of Tennessee, Knoxville
 e-mail: jay.ashley@me.com
 project_title: Packaging jet substructure observable tools
 project_goal: >
-    The objective of this project is to repackage the EnergyFlow and Wasserstein tools for modern PyPI and conda-forge.
+    Repackage EnergyFlow and Wasserstein for modern PyPI and conda-forge using modern build tools.
 mentors:
   - Matthew Feickert (University of Wisconsin-Madison)
   - Henry Schreiner (Princeton University)
