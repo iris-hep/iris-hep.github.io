@@ -26,6 +26,7 @@ For foreign nationals completing the fellowship within the United States, please
 
 ##### Additional Required Documents
 
+{:class="table table-bordered"}
 |      |F-1 Visa                                                    |J-1 Visa                                                    |
 |------|------------------------------------------------------------|------------------------------------------------------------|
 |1.    |passport with picture, signature and most recent entry stamp|passport with picture, signature and most recent entry stamp|
