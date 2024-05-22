@@ -18,7 +18,7 @@ You need to fill out a Payee Management Form in order to receive payment.
 #### US Domestic students
 If you are a US national completing the fellowship within the US, please fill out and return this form <https://finance.princeton.edu/forms/supplierpayee-management>
 
-####  Iternational students
+####  International students
 
 All foreign nationals, please fill out and return this form <https://finance.princeton.edu/forms/foreign-individual-payeesubstitute-w-8ben>
 
