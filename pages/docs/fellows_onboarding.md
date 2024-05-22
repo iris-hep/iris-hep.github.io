@@ -11,29 +11,30 @@ Welcome to IRIS-HEP!  Congratulations on your acceptance into the IRIS-HEP Fello
 
 There are some additional items needed to complete the onboarding process.
 
-### Payment Information <i class="fas fa-file"></i>
+## Payment Information <i class="fas fa-file"></i>
 
 You need to fill out a Payee Management Form in order to receive payment.
 
-#### US Domestic students
+##### US Domestic students
 If you are a US national completing the fellowship within the US, please fill out and return this form <https://finance.princeton.edu/forms/supplierpayee-management>
 
-####  Iternational students
+#####  Iternational students
 
 All foreign nationals, please fill out and return this form <https://finance.princeton.edu/forms/foreign-individual-payeesubstitute-w-8ben>
 
 For foreign nationals completing the fellowship within the United States, please send copies of the additional documents below (Please note the differences depending on your particular visa):
 
-##### Additional Required Documents
+###### Additional Required Documents
 
 {:class="table table-bordered"}
-|      |F-1 Visa                                                    |J-1 Visa                                                    |
-|------|------------------------------------------------------------|------------------------------------------------------------|
-|1.    |passport with picture, signature and most recent entry stamp|passport with picture, signature and most recent entry stamp|
-|2.    |Visa                                                        |Visa                                                        |
-|3.    |I-20 form                                                   |DS-2019 form                                                |
-|4.    |I-94 form                                                   |I-94 form                                                   |
+|      |F-1 Visa                                                     |J-1 Visa                                                      |
+|------|-------------------------------------------------------------|--------------------------------------------------------------|
+|1.    |passport with picture, signature and most recent entry stamp | passport with picture, signature and most recent entry stamp |
+|2.    |Visa                                                         | Visa                                                         |
+|3.    |I-20 form                                                    | DS-2019 form                                                 |
+|4.    |I-94 form                                                    | I-94 form                                                    |
 |5.    |[Substantial Presence Test form](https://finance.princeton.edu/forms/substantial-presence-test) |[Substantial Presence Test form](https://finance.princeton.edu/forms/substantial-presence-test) |
+
 
 ### Tax Questions
 
@@ -45,7 +46,7 @@ Please complete and attach the appropriate forms with copies of any additional d
 
 If you have general tax-related questions, please email <finance@princeton.edu>.  For personal tax-related questions, we encourage you to seek the advice of a tax professional.
 
-### IRIS-HEP Web Site <i class="fas fa-link"></i>
+## IRIS-HEP Web Site <i class="fas fa-link"></i>
 
 Additionally, we also would like to add you to our Fellows webpage:
 
@@ -59,7 +60,7 @@ Once your pull request is merged and your fellows page is available on the webpa
 
   <https://github.com/research-software-collaborations/project_database/blob/main/README.md#changing-the-status-of-your-project>
 
-### IRIS-HEP Fellows Slack Channel <i class="fab fa-slack"></i>
+## IRIS-HEP Fellows Slack Channel <i class="fab fa-slack"></i>
 
 Please also join the IRIS-HEP Fellows Slack Channel to interact with other Fellows and Mentors.
 
