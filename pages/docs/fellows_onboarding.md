@@ -16,13 +16,13 @@ There are some additional items needed to complete the onboarding process.
 You need to fill out a Payee Management Form in order to receive payment.
 
 #### US Domestic students
-If you are a US national completeing the fellowship within the US, please fill out and return this form <https://finance.princeton.edu/forms/supplierpayee-management>
+If you are a US national completing the fellowship within the US, please fill out and return this form <https://finance.princeton.edu/forms/supplierpayee-management>
 
 ####  Iternational students
 
 All foreign nationals, please fill out and return this form <https://finance.princeton.edu/forms/foreign-individual-payeesubstitute-w-8ben>
 
-For foreign nationals completing the fellowship within the United States, please send copies of the additonal documents below (Please note the differences depending on your particular visa):
+For foreign nationals completing the fellowship within the United States, please send copies of the additional documents below (Please note the differences depending on your particular visa):
 
 ##### Additional Required Documents
 
