@@ -71,3 +71,11 @@ presentations:
     meetingurl: https://2020esipwintermeeting.sched.com
     location: Bethesda, MD
     focus-area: ssc
+  - title: Cloud Data Lake Technologies
+    date: 2024-05-15
+    url: https://indico.cern.ch/event/1369601/contributions/5883602/
+    meeting: WLCG/HSF Workshop
+    meetingurl: https://indico.cern.ch/event/1369601/overview
+    location: DESY Hamburg
+    focus-area: doma
+    project: servicex
