@@ -17,7 +17,7 @@ You should submit a pull request with the photo, a markdown file with the summar
 
 
 * Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team/fellows-2024 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team/fellows-2024). It should be 320x240 pixels and in general should be 150kB or less.
-* If you have been offered and accepted a Fellow position, your proposal will be uploaded by us to the [assets/pdf/follows-2023 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/pdf/fellows-2024). Find the exact filename and use that below.
+* If you have been offered and accepted a Fellow position, your proposal will be uploaded by us to the [assets/pdf/follows-2024 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/pdf/fellows-2024). Find the exact filename and use that below.
 * Add a "`<your github username>.md`" file to the [fellows folder in the website repository](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/fellows/2024). See the example below.
 
 *Please Note*:  In the markdown file you create, ensure you set the “active” attribute to True – (i.e.  active: True).  Otherwise, your entry will not appear on our Fellows page.
