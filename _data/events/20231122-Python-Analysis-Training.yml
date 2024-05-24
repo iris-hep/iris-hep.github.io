@@ -1,0 +1,9 @@
+name: HSF/IRIS-HEP Python for Analysis Training (Virtual)
+startdate: 2023-11-22
+enddate: 2023-11-22
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1332699/
+image:
+description: how to analyze data in Python either with PyROOT or with the tools from Scikit-HEP
+labels:
+  - training
