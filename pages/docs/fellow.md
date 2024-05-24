@@ -16,9 +16,9 @@ You should submit a pull request with the photo, a markdown file with the summar
 <https://github.com/iris-hep/iris-hep.github.io>
 
 
-* Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team/fellows-2023 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team/fellows-2023). It should be 320x240 pixels and in general should be 150kB or less.
-* If you have been offered and accepted a Fellow position, your proposal will be uploaded by us to the [assets/pdf/follows-2023 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/pdf/fellows-2023). Find the exact filename and use that below.
-* Add a "`<your github username>.md`" file to the [fellows folder in the website repository](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/fellows/2023). See the example below.
+* Add a photo named `First-Last.jpg` or `.png` to the [assets/images/team/fellows-2024 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/team/fellows-2024). It should be 320x240 pixels and in general should be 150kB or less.
+* If you have been offered and accepted a Fellow position, your proposal will be uploaded by us to the [assets/pdf/follows-2023 folder](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/pdf/fellows-2024). Find the exact filename and use that below.
+* Add a "`<your github username>.md`" file to the [fellows folder in the website repository](https://github.com/iris-hep/iris-hep.github.io/tree/master/pages/fellows/2024). See the example below.
 
 *Please Note*:  In the markdown file you create, ensure you set the “active” attribute to True – (i.e.  active: True).  Otherwise, your entry will not appear on our Fellows page.
 
@@ -28,13 +28,15 @@ You can leave the “presentations” and “current_status” fields blank for 
 
 You can optionally include your linkedin-profile.
 
+*MAKE SURE YOU INCLUDE THE "---" STRINGS AT THE BEGINNING (above "layout:") AND THE END (elow "linkedin-profile:") OF THE MD FILE (SEE EXAMPLE BELOW)*
+
 #### Adding multiple projects
 If you are a returning fellow and need to add multiple projects, follow the directions found here to update the markdown file for your page:
 
   <https://iris-hep.org/docs/fellows_multiple_projects>
 
 ### Dates
-Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2021-12-31
+Date format for start and end dates should be -- YYYY-MM-DD -- i.e. 2024-12-31
 
 ```yml
 
@@ -58,7 +60,7 @@ project_goal: >
     Short description of your project
 mentors:
   - <Mentor Name (<Mentor Institution>)
-proposal: /assets/pdf/fellows-2022/<find-your-file>
+proposal: /assets/pdf/fellows-2024/<find-your-file>
 presentations:
   - title: "<Presentation Title"
     date: "Presentation Date"
