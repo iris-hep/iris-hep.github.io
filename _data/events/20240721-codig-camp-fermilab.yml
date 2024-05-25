@@ -1,0 +1,10 @@
+name: Coding Camp - Fermilab
+startdate: 2024-07-21
+enddate: 2024-07-26
+location: Fermilab
+meetingurl: https://indico.cern.ch/event/1414575/
+image:
+description: Review and apply basic aspects of computer programming in Python, such as conditionals, math functions and plotting, and file manipulation. Use simple programming tools to analyze   large datasets generated from the CMS experiment and run analyses of these data. Generate conclusions about these analyses that include both calculations and plots (e.g. of invariant or transverse mass). Search for new scientific datasets available online and write code to perform analyses of these new data. Design a series of code-centered activities that either add onto existing units in a K-12 course, or replace an already existing activity; create a plan for implementation of these activities.
+labels:
+  - training
+  - outreach
