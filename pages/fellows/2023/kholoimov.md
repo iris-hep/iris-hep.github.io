@@ -15,7 +15,6 @@ photo: /assets/images/team/fellows-2023/Valerii-Kholoimov.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: vholoimov@gmail.com
 focus-area: ia
---
 projects:
 - project_title: Development of simulation workflows for BSM LLPs at LHCb
   project_goal: >
