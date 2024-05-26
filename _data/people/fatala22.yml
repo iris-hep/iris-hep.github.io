@@ -24,9 +24,9 @@ presentations:
     location: "University of Pittsburgh / Carnegie Mellon University"
   - title: "Software Training, community engagement and broader impacts"
     date: 2024-05-03
-    url: https://www.classe.cornell.edu/NewsAndEvents/JointSeminars.html
+    url: https://www.classe.cornell.edu/NewsAndEvents/JointSeminars.html # codespell:ignore
     meeting: Invited Seminar by LEPP Journal Club, Cornell University
-    meetingurl: https://www.classe.cornell.edu/NewsAndEvents/JointSeminars.html
+    meetingurl: https://www.classe.cornell.edu/NewsAndEvents/JointSeminars.html # codespell:ignore
     focus-area: ssc
     location: "Cornell University, Ithaca"
   - title: Train to Sustain
