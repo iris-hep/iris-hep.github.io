@@ -28,7 +28,7 @@ projects:
   project_goal: >
       Adding stimation of physics model parameters from the output histograms using the maximum likelihood method to AGC via RooFit, the tool provided by ROOT for statistical analysis and advanced fitting,
   mentors:
-    - Jonas Rembser (CERN) 
+    - Jonas Rembser (CERN)
     - Alexander Held (University of Wisconsin–Madison)
   proposal: assets/pdf/fellows-2024/UKR022-proposal-Valerii-Kholoimov.pdf
 
