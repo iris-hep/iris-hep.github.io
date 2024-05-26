@@ -16,7 +16,7 @@ focus-area: as
 project_title: >
     Coffea development for LHC experiments: Development of coffea to support multiple LHC experiment analysis workflows.
 project_goal: >
-    As Coffea is adopted across various HEP experiments with diverse data formats, maintaining user-friendly and performant experiment-specific schemas becomes complex. This project aims to enhance developer and user experience with Coffea schemas by updating and validating the ATLAS-specific PHYSLITE schema. 
+    As Coffea is adopted across various HEP experiments with diverse data formats, maintaining user-friendly and performant experiment-specific schemas becomes complex. This project aims to enhance developer and user experience with Coffea schemas by updating and validating the ATLAS-specific PHYSLITE schema.
 mentors:
   - Lindsey Gray (Fermilab)
   - Nick Smith (Fermilab)
