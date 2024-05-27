@@ -1,0 +1,11 @@
+name: Coding Camp 0
+startdate: 2023-06-20
+enddate: 2023-06-21
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1305234/
+image:
+description: |
+  Two-day workshop for high school teachers with no coding experience. Led by QuarkNet teacher Fellows with support from IRIS-HEP.
+labels:
+  - training
+  - outreach
