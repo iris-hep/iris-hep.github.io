@@ -9,7 +9,6 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
-
   - title: Notes about  AF users UX feedback
     date: 2024-05-08
     url: https://indico.cern.ch/event/1408215/contributions/5932438/attachments/2864409/5013077/Notes%20about%20AF%20users%20UX%20feedback%20-%20Oksana%20Shadura%20(University%20Nebraska-Lincoln).pdf
@@ -22,7 +21,6 @@ presentations:
     project:
       - coffea-casa
       - agc
-
 
   - title: View from HSF - HSF AF White Paper Overview
     date: 2024-03-19
@@ -53,6 +51,7 @@ presentations:
   - title: Analysis Grand Challenge (AGC)
     date: 2024-03-05
     url: https://indico.cern.ch/event/1391001/contributions/5847266/attachments/2813575/5013058/AGC%20-%20USCMS.pdf
+    meeting: US CMS Analysis Facility Meeting
     meetingurl: https://indico.cern.ch/event/1391001/
     location: "CERN"
     focus-area:
