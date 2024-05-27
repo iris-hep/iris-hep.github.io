@@ -1,0 +1,11 @@
+name: Coding Camp - Univ of Washington, Seattle
+startdate: 2023-07-10
+enddate: 2023-07-12
+location: Washington, Seattle
+meetingurl: https://indico.cern.ch/event/1305235/
+image:
+description: |
+  Two-day workshop for high school teachers with no coding experience. Led by QuarkNet teacher Fellows with support from IRIS-HEP.
+labels:
+  - training
+  - outreach
