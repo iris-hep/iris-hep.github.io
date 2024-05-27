@@ -1,0 +1,10 @@
+startdate: 2023-06-05
+enddate: 2023-06-06
+location: CROEM Mayaguez, Puerto Rico
+meetingurl: https://indico.cern.ch/event/1293953/
+image:
+description: |
+  Python basics Lists, Arrays and Plotting
+labels:
+  - training
+  - outreach
