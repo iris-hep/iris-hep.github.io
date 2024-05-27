@@ -47,7 +47,7 @@ repos:
         args:
           [
             "-L",
-            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus,ablet,manuel",
+            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus,ablet,manuel,classe",
           ]
 
   - repo: local
