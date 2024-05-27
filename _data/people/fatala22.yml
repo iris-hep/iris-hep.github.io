@@ -8,6 +8,27 @@ shortname: fatala22
 title: Training, Education and Outreach Coordinator
 website: http://charma.uprm.edu/~malik/
 presentations:
+  - title: "Panel discussion: Snowmass recommendations on community"
+    date: 2024-05-17
+    url: https://indico.cern.ch/event/1358339/contributions/5814160/
+    meeting: DPF-PHENO 2024
+    meetingurl: https://indico.cern.ch/event/1358339/
+    focus-area: ssc
+    location: "University of Pittsburgh / Carnegie Mellon University"
+  - title: Software Training as an enabler of community engagement and broader impacts
+    date: 2024-05-14
+    url: https://indico.cern.ch/event/1358339/contributions/5899358/
+    meeting: DPF-PHENO 2024
+    meetingurl: https://indico.cern.ch/event/1358339/
+    focus-area: ssc
+    location: "University of Pittsburgh / Carnegie Mellon University"
+  - title: "Software Training, community engagement and broader impacts"
+    date: 2024-05-03
+    url: https://www.classe.cornell.edu/NewsAndEvents/JointSeminars.html # codespell:ignore
+    meeting: Invited Seminar by LEPP Journal Club, Cornell University
+    meetingurl: https://www.classe.cornell.edu/NewsAndEvents/JointSeminars.html # codespell:ignore
+    focus-area: ssc
+    location: "Cornell University, Ithaca"
   - title: Train to Sustain
     date: 2023-05-08
     url: https://indico.jlab.org/event/459/contributions/11538/
