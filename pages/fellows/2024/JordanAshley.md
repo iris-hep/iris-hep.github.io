@@ -18,7 +18,7 @@ project_goal: >
 mentors:
   - Matthew Feickert (University of Wisconsin-Madison)
   - Henry Schreiner (Princeton University)
-proposal: /assets/pdf/fellows-2024/proposal-jordan-ashley.pdf
+proposal: /assets/pdf/fellows-2024/USA053-proposal-Jordan-Ashley.pdf
 presentations:
 current_status:
 github-username: j-s-ashley
