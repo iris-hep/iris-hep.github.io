@@ -98,7 +98,7 @@ presentations:
       - doma
     project:
       - coffea-casa
-      - agc  
+      - agc
 
   - title: Current Plans for AGC
     date: 2023-09-12
@@ -111,7 +111,7 @@ presentations:
       - doma
     project:
       - coffea-casa
-      - agc  
+      - agc
 
   - title: Future Analysis Facilities R&D
     date: 2023-09-12
@@ -124,7 +124,7 @@ presentations:
       - doma
     project:
       - coffea-casa
-      - agc      
+      - agc
 
   - title: Analysis Grand Challenge Demo - Hands-on Demo Session
     date: 2023-07-24
@@ -164,7 +164,7 @@ presentations:
     project:
       - coffea-casa
       - agc
-  
+
   - title: Coffea-casa analysis facility
     date: 2023-05-24
     url: https://indico.cern.ch/event/1274741/contributions/5353315/attachments/2652907/4593749/CAT%202023_coffea_casa.pdf
