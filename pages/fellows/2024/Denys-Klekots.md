@@ -32,5 +32,5 @@ presentations:
 current_status: #>
 #   A placeholder for status updates
 github-username: Denys-Klekots
-linkedin-profile: www.linkedin.com/in/denys-klekots-319482230
+linkedin-profile: https://www.linkedin.com/in/denys-klekots-319482230
 ---
