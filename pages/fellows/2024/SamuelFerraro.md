@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2024-06-03
   end: 2024-08-16
-photo: /assets/images/team/Samuel-Ferraro.jpg
+photo: /assets/images/team/fellows-2024/Samuel-Ferraro.jpg
 institution: Brown University
 e-mail: samuel_ferraro@brown.edu
 focus-area:
