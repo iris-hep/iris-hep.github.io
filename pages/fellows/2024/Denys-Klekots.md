@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2024-06-03
   end: 2024-08-26
-photo: /assets/images/team/Denys-Klekots.png
+photo: /assets/images/team/fellows-2024/Denys-Klekots.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: denys.klekots@gmail.com
 # focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
@@ -32,5 +32,5 @@ presentations:
 current_status: #>
 #   A placeholder for status updates
 github-username: Denys-Klekots
-linkedin-profile: www.linkedin.com/in/denys-klekots-319482230
+linkedin-profile: https://www.linkedin.com/in/denys-klekots-319482230
 ---
