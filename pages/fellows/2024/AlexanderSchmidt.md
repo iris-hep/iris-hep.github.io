@@ -7,8 +7,8 @@ fellow-name: Alexander Christoph Schmidt
 title: Alexander Schmidt - IRIS-HEP Fellow
 active: True
 dates:
-  start: 05/28/2024
-  end: 08/20/2024
+  start: 2024-05-28
+  end: 2024-08-20
 photo: /assets/images/team/fellows-2024/Alexander-Schmidt.jpg
 institution: University of Texas at Austin
 e-mail: alexcschmidt17@gmail.com
