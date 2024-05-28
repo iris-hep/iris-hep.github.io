@@ -18,7 +18,7 @@ project_title: Leveraging ServiceX to Transform PHYSLITE Data into Flat N-tuples
 project_goal: >
     Write a ServiceX transformer for "TopCPToolkit" that will be an alternative route through which data in the PHYSLITE format can be converted into flat ntuple data with systematic uncertainties included, allowing for more comprehensive columnar analysis.
 mentors:
-  - Peter Onyisi (Univeristy of Texas at Austin)
+  - Peter Onyisi (University of Texas at Austin)
   - KyungEon Choi (University of Texas at Austin)
 proposal: /assets/pdf/fellows-2024/USA017-proposal-Alex-Schmidt.pdf
 presentations:
