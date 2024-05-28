@@ -22,7 +22,7 @@ mentors:
   - KyungEon Choi (University of Texas at Austin)
 proposal: /assets/pdf/fellows-2024/USA017-proposal-Alex-Schmidt.pdf
 presentations:
-current_status: 
+current_status:
 github-username: alex-schmidty
 linkedin-profile: www.linkedin.com/in/alexander-schmidt-bb2443309
 ---
