@@ -24,10 +24,10 @@ eligible for reimbursement from the IRIS-HEP project.
   * Reimbursed travel should use the least expensive options possible, which reasonably meet normal travel time constraints.
   * Reimbursed travel should be booked in **regular, economy fares**. No business class or paid economy class upgrades can be reimbursed. In cases where airlines offer "economy basic" or similar discounted fares, with limitations on carry-on baggage or similar, it is fine to choose the "regular" economy fare permitting baggage.
   * For participants flying from outside the U.S., air flights can only be reimbursed if the carrier is allowed by the Fly America Act and U.S. Open Skies agreements and normally reimbursable with U.S. government (NSF) sponsored research funds.
-  * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. If necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus).
-  * Car rentals will not be reimbursed unless specifically authorized by the school organization.
+  * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. Short distance travel by taxi is allowed. For example, if necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus). When reasonably convenient public transportation is not available, a taxi may be used from the airport in a given city to a hotel in that same city. Long distance taxis (e.g. EWR to Princeton) should not be used, except in special cases like arrival during the night.
+  * Car rentals will not be reimbursed unless specifically authorized by the IRIS-HEP Principal Investigator (Peter Elmer).
   * For many IRIS-HEP events, some number of meals and coffee breaks will be provided for you. The specifics will be described in an email from an IRIS-HEP representative about the event. Additional meals costs will not be reimbursed.
-  * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the University rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
+  * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University (or analog with respect to other event locations) may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the standard IRS rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
   * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file.
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the event itself and submitted along with the electronic copy of the receipts described above.
 
@@ -35,7 +35,7 @@ eligible for reimbursement from the IRIS-HEP project.
 
 ### Forms for reimbursement
 
-  **Please ignore this section for now. It will be discussed on the last day of the school itself.**
+  **Please ignore this section for now. It will be discussed on the last day of the school/workshop itself.**
 
 There are two relevant forms for travel reimbursement:
 
@@ -71,10 +71,20 @@ Please note the following:
 
 ### Notes for specific events and workshops
 
-#### [](https://indico.cern.ch/event/820946/timetable/)
+#### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/820946)
   * Location: Princeton, NJ
   * Meeting Dates: 20-21 June, 2024
   * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
   * "event-prefix" for pdf file naming: USCMS
 
+#### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1376945/)
+  * Location: Seattle, WA
+  * Meeting Dates: 18-19 July, 2024
+  * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
+  * "event-prefix" for pdf file naming: USATLAS
 
+#### [CoDaS-HEP 2024 Summer School](https://codas-hep.org)
+  * Location: Princeton, NJ
+  * Meeting Dates: 22-26 July, 2024
+  * Business purpose: Participation in CoDaS-HEP 2024 Summer School
+  * "event-prefix" for pdf file naming: CoDaS-HEP
