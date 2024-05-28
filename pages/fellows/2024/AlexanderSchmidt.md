@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2024-05-28
   end: 2024-08-20
-photo: /assets/images/team/fellows-2024/Alexander-Schmidt.jpg
+photo: /assets/images/team/fellows-2024/Alexander-Schmidt.png
 institution: University of Texas at Austin
 e-mail: alexcschmidt17@gmail.com
 focus-area: Data Organization, Management and Access (DOMA)
