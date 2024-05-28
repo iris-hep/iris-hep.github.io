@@ -15,7 +15,7 @@ e-mail: samuel_ferraro@brown.edu
 focus-area:
 project_title: Charged-particles reconstruction at Muon Colliders
 project_goal: >
-    Improve the efficiency of the current charged paricle reconstruction algorithms for Muon Colliders. This includes a transfer to the Key4HEP software framework and optimization within this framework.
+    Improve the efficiency of the current charged particle reconstruction algorithms for Muon Colliders. This includes a transfer to the Key4HEP software framework and optimization within this framework.
 mentors:
   - Simone Pagan Griso (Lawrence Berkeley National Laboratory)
   - Sergo Jindariani (Fermi National Accelerator Laboratory)
