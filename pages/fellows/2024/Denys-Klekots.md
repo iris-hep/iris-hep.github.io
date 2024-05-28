@@ -20,7 +20,7 @@ mentors:
   - Alexander Held (University of Wisconsin-Madison)
   - Matthew Feickert (University of Wisconsin-Madison)
   - Vangelis Kourlitis (Technical University of Munich)
-proposal: /assets/pdf/fellows-2024/<find-your-file> #TODO
+proposal: /assets/pdf/fellows-2024/UKR054-proposal-Denys-Klekots.pdf
 presentations:
 #   - title: "<Presentation Title"
 #     date: "Presentation Date"
