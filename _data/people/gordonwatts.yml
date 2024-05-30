@@ -388,3 +388,20 @@ presentations:
     focus-area:
       - core
     location: Seattle
+  - title: "Analysis Facilities: User Experience"
+    date: 2024-05-16
+    url: https://indico.cern.ch/event/1369601/contributions/5924002/
+    meetingurl: https://indico.cern.ch/event/1369601
+    meeting: "WLCG/HSF Workshop 2024"
+    focus-area:
+      - as
+    location: Hamburg
+  - title: "Introduction Machine Learning - Tutorial"
+    date: 2024-05-22
+    url: https://indico.cern.ch/event/1386725/contributions/5854476/
+    meetingurl: https://indico.cern.ch/event/1386725/
+    meeting: "HSF-India HEP Software Workshop at the University of Delhi"
+    focus-area:
+      - as
+      - ssc
+    location: Hamburg
