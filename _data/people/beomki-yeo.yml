@@ -200,7 +200,7 @@ presentations:
     project: acts
     focus-area: ia
     location: CERN
-  - title: Reprise of ATLAS Lecture: "GPU as a Hardware Accelerator"
+  - title: Reprise of ATLAS Lecture "GPU as a Hardware Accelerator"
     date: 2024-04-30
     url: https://indico.cern.ch/event/1409329/
     meeting: ATLAS Event Filtering Weekly (internal)
