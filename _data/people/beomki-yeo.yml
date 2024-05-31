@@ -207,7 +207,7 @@ presentations:
     project: acts
     focus-area: ia
     location: CERN
-  - title: Traccc: GPU Track Reconstruction Library
+  - title: "Traccc: GPU Track Reconstruction Library"
     date: 2024-05-18
     url: https://indico.ihep.ac.cn/event/21775/contributions/155293/
     meeting: Workshop of Tracking in Particle Physics Experiments
