@@ -186,6 +186,13 @@ presentations:
     project: acts
     focus-area: ia
     location: CERN
+  - title: GPU and Hardware Accelerators R&D for ATLAS Phase-II Computing
+    date: 2024-04-09
+    url: https://indico.cern.ch/event/1366450/ (internal)
+    meeting: ATLAS Lecture Series
+    project: acts
+    focus-area: ia
+    location: CERN  
   - title: Vectorizing matrix operations
     date: 2024-04-19
     url: https://indico.cern.ch/event/1356206/
@@ -206,4 +213,11 @@ presentations:
     meeting: Workshop of Tracking in Particle Physics Experiments
     project: acts
     focus-area: ia
-    location: CERN
+    location: Zhengzhou University
+  - title: GPUs and Accelerators
+    date: 2024-05-20
+    url: https://indico.cern.ch/event/1405035/timetable/#19-gpus-and-accelerators
+    meeting: Computational HEP Traineeship Summer School 2024
+    project: acts
+    focus-area: ia
+    location: FNAL
