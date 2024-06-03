@@ -5,12 +5,14 @@ shortname: HavryliukAY
 permalink: /fellows/HavryliukAY.html
 fellow-name: Artem Havryliuk
 title: Artem Havryliuk - IRIS-HEP Fellow
-active: False
+active: True
 dates:
 - start: 2022-06-27
   end: 2022-09-19
 - start: 2023-06-12
   end: 2023-09-04
+- start: 2024-07-01
+  end: 2024-10-01
 photo: /assets/images/team/fellows-2022/Artem-Havryliuk.jpg
 institution: Kyiv Academic University
 e-mail: 03artem09@gmail.com
@@ -27,6 +29,14 @@ projects:
   mentors:
   - Michelle Kuchera (Davidson College)
   proposal: /assets/pdf/fellows-2023/U011-proposal-Artem-Havryliuk.pdf
+
+- project_title: Array-Oriented Python Interface for the Pythia Event Generator
+  project_goal: >
+    Pythia is a cornerstone C++ package used in particle physics for simulating high-energy collisions. Although Pythia's current Python interface is excellent for prototyping due to its comprehensive feature set, including bi-directional bindings, it becomes inefficient when analyzing large datasets because of its one-event-at-a-time approach. This project aims to develop an array-oriented Python interface for Pythia, leveraging the Awkward Array library to enhance performance and usability, particularly in interactive environments like Jupyter notebooks. By focusing on a streamlined feature set optimized for speed, this new interface will facilitate more efficient data handling, enabling the usage of Pythia through the Python interface for large-scale production-level simulation.
+  mentors:
+  - Jim Pivarski, Philip James Ilten
+  proposal: assets/pdf/fellows-2024/UKR016-proposal-Artem-Havryliuk.pdf
+
 
 
 presentations:
