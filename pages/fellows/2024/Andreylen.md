@@ -29,7 +29,7 @@ projects:
   mentors:
   - Dmytro Kovalskyi, Rahul Chauhan, Hasan Ozturk
   proposal: /assets/pdf/fellows-2023/U009-proposal-Andrii-Len.pdf
-- project_title: Topological Rare Hadron Decay Tagging with DNN: Deep neural net topological tagger for rare hadron decay identification
+- project_title: Topological Rare Hadron Decay Tagging with DNN. Deep neural net topological tagger for rare hadron decay identification
   project_goal: >
     Оne of the main challenges of this project will be to identify and build an effective DNN architecture to train a new model that will not only match BDT in performance but gives a significant improvement to the analysis sensitivity.
   mentors:
