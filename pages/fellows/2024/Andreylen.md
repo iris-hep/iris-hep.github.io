@@ -11,6 +11,8 @@ dates:
   end: 2022-09-18
   start: 2023-07-03
   end: 2023-09-22
+  start: 2024-06-03
+  end: 2024-08-21
 photo: /assets/images/team/fellows-2022/Andrii-Len.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: andrlen2002@gmail.com
@@ -32,7 +34,7 @@ projects:
     Оne of the main challenges of this project will be to identify and build an effective DNN architecture to train a new model that will not only match BDT in performance but gives a significant improvement to the analysis sensitivity.
   mentors:
   - Dmytro Kovalskyi (MIT)
-  proposal: /assets/pdf/fellows-2023/UKR010-proposal-Andrii-Len.pdf
+  proposal: /assets/pdf/fellows-2024/UKR010-proposal-Andrii-Len.pdf
 presentations:
 - title: The usage of Deep Learning for QCD background estimation
   date: 2022-10-19
