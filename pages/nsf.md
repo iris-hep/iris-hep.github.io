@@ -12,8 +12,8 @@ Not all of the below information is available without a password.
 * National Science Foundation - Cooperative Agreement [PHY-2323298](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323298)
 * National Science Foundation - Cooperative Agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650)
 * [NSF Monthly Meetings](https://indico.cern.ch/category/11204/) - Includes minutes, slides, etc.
-* [Milestone Registry](https://view.monday.com/961739797-a12769f13af02d67084ed68776b46030?r=use1)
-* [Metrics Registry](https://view.monday.com/1027216437-59b706eb9d24b136404f739c42a3db93?r=use1)
+* [Milestone Registry](https://view.monday.com/5736163392-ab7d3297fbf014ee1edeb6c3264d1d97?r=use1)
+* [Metrics Registry](https://view.monday.com/5736482608-d4c9f7c641901bf560466eb767963b03?r=use1)
 * [Risk Registry](risk-registry)
 * [History of the award](about/overview)
 * [High-Level Overview Slides](https://docs.google.com/presentation/d/1FOkTKZbzyEPAzhZ5TNaxB3Gkqs1VzzS9CNXdNuJhx9Y/edit#slide=id.g450ed9a7a4_0_5)
