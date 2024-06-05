@@ -405,3 +405,20 @@ presentations:
       - as
       - ssc
     location: Hamburg
+  - title: "The ATLAS 200 Ggps Challenge"
+    date: 2024-06-03
+    url: https://indico.cern.ch/event/1421916/#3-the-atlas-200-gbps-challenge
+    meetingurl: https://indico.cern.ch/event/1421916/#3-the-atlas-200-gbps-challenge
+    meeting: "ATLAS Analysis Model Group at the ATLAS S&C Week (Internal)"
+    focus-area:
+      - as
+    project: agc
+    location: Oslo
+  - title: "IRIS-HEP: Status, Timeline, Plans"
+    date: 2024-06-04
+    url: https://indico.cern.ch/event/1334594/timetable/#37-iris-hep-plans-milestones-t
+    meetingurl: httpshttps://indico.cern.ch/event/1334594
+    meeting: "ATLAS S&C Week (Internal)"
+    focus-area:
+      - core
+    location: Oslo
