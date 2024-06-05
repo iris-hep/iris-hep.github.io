@@ -412,7 +412,7 @@ presentations:
     meeting: "ATLAS Analysis Model Group at the ATLAS S&C Week (Internal)"
     focus-area:
       - as
-      - agc
+    project: agc
     location: Oslo
   - title: "IRIS-HEP: Status, Timeline, Plans"
     date: 2024-06-04
