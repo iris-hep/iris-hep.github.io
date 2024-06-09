@@ -17,7 +17,7 @@ project_title: Leveraging ServiceX to Transform PHYSLITE Data into Flat N-tuples
 project_goal: Optimizing automatic differentiation using activity analysis
 mentors:
   - Vassil Vassilev
-  - David Lange 
+  - David Lange
   - Petro Zarytskyi
 proposal: /assets/pdf/fellows-2024/UKR069-proposal-Maksym-Andriichuk.pdf
 presentations:
