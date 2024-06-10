@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2024-06-15
   end: 2024-09-07
-photo: /assets/images/team/fellows-2024/Viktoriia-Tarasenko.jpg
+photo: /assets/images/team/fellows-2024/Viktoriia-Tarasenko.jpg.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: viknsky360@gmail.com
 focus-area: lhcb
