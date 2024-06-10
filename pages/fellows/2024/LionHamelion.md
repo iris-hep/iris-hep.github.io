@@ -16,7 +16,7 @@ project_title: Modernizing Unified: Resubmissions & Assignment of workflows
 project_goal: The project aims to modernize and improve the workflow resubmission and assignment processes within CERN's infrastructure, focusing on updating key modules such as AutoACDC, Assignor, and Actor. Additionally, it seeks to enhance monitoring and integrate OpenSearch outcomes for efficient workflow management.
 mentors:
   - Luca Lavezzo (Massachusetts Institute of Technology)
-  - Muhammad Hassan Ahmed (Massachusetts Institute of Technology)
+  - Muhammad Hassan Ahmed (CERN)
 proposal: /assets/pdf/fellows-2024/UKR052-proposal-Volodymyr-Kovalenko.pdf
 presentations:
 #   - title: "<Presentation Title"
