@@ -14,7 +14,7 @@ institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: viknsky360@gmail.com
 focus-area: lhcb
 project_title: Embedded software application for a RISC-V based system-on-chip (SoC) for LHCb Velo detector
-project_goal: 
+project_goal:
     Develop a conceptual prototype for integration of firmware applications written in high-level C++ with a simulated microcontroller based on RISC-V architecture.
 mentors:
   - Alessandro Caratelli (CERN)
