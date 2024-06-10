@@ -7,8 +7,8 @@ fellow-name: Viktoriia Tarasenko
 title: Viktoriia Tarasenko - IRIS-HEP Fellow
 active: True
 dates:
-  start: 15-06-2024
-  end: 07-09-2024
+  start: 2024-06-15
+  end: 2024-09-07
 photo: /assets/images/team/fellows-2024/Viktoriia-Tarasenko.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: viknsky360@gmail.com
