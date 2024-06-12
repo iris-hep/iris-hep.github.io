@@ -5,7 +5,7 @@ shortname: <abhigyan-ach>
 permalink: /fellows/abhigyan-ach.html
 fellow-name: Abhigyan Acherjee
 title: Abhigyan Acherjee - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-08-21
   end:   2024-03-04
