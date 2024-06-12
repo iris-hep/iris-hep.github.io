@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2024-06-10
   end: 2024-09-02
-photo: /assets/images/team/fellows-2024/Maksym-Andriiichuk.jpg
+photo: /assets/images/team/fellows-2024/Maksym-Andriichuk.jpg
 institution: Julius-Maximilians-Universität Würzburg
 e-mail: maksym.andriichuk@icloud.com
 focus-area: Automatic Differentiation
