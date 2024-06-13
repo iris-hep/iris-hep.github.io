@@ -13,8 +13,7 @@ photo: /assets/images/team/fellows-2024/Maksym-Andriichuk.jpg
 institution: Julius-Maximilians-Universität Würzburg
 e-mail: maksym.andriichuk@icloud.com
 focus-area: Automatic Differentiation
-project_title: Leveraging ServiceX to Transform PHYSLITE Data into Flat N-tuples with Systematics
-project_goal: Optimizing automatic differentiation using activity analysis
+project_title: Optimizing automatic differentiation using activity analysis
 mentors:
   - Vassil Vassilev
   - David Lange
