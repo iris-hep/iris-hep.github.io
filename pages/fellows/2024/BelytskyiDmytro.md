@@ -3,7 +3,7 @@ layout: fellow
 pagetype: fellow
 shortname: Dmitriy-Belitskiy
 permalink: /fellows/Dmitriy-Belitskiy.html
-fellow-name: Dmytro Belytskyi 
+fellow-name: Dmytro Belytskyi
 title: Dmytro Belytskyi - IRIS-HEP Fellow
 active: True
 dates:
