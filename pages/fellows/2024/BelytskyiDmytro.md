@@ -1,4 +1,3 @@
-
 ---
 layout: fellow
 pagetype: fellow
@@ -15,8 +14,7 @@ institution: Taras Shevchenko National University of Kyiv
 e-mail: ktoto9785845@gmail.com
 focus-area: ia
 project_title: Usage of CUDA for improving HLT performance
-project_goal: develop unsupervised ML algoritm for anomaly vertex search in the view of possible implementation at HLT1 depending on the required GPU resources for such anomaly search
-   
+project_goal: develop unsupervised ML algorithm for anomaly vertex search in the view of possible implementation at HLT1 depending on the required GPU resources for such anomaly search
 mentors:
   - Andrii Usachov
 proposal: /assets/pdf/fellows-2024/UKR039-proposal-Dmytro-Belytskyi.pdf
