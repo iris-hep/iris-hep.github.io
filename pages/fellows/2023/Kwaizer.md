@@ -25,7 +25,7 @@ projects:
   proposal: /assets/pdf/fellows-2023/U049-proposal-Lev-Pambuk.pdf
 - project_title: Packaging the HEP simulation stack on conda-forge
   project_goal: >
-    After packaging of needed components will be finished it will allow them to have the ability to not only be installed as individual tools, but also be installed together in a coherent package environment.
+    To package components of the HEP simulation software stack on conda-forge in an interoperable manner, making them easier to quickly and correctly install in a software environment, and use together.
   mentors:
     - Matthew Feickert (University of Wisconsin-Madison)
   proposal: /assets/pdf/fellows-2024/UKR002-proposal-Lev-Pambuk.pdf
