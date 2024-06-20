@@ -14,7 +14,7 @@ institution: Kyiv Academic University
 e-mail: alexeee6@gmail.com
 # focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 project_title: Python Ragged array library development
-project_goal: 
+project_goal:
      This project aims to complete the implementation of the functions currently missing from Python's Ragged library.
 mentors:
   - Jim Pivarski (Princeton University)
@@ -28,7 +28,7 @@ presentations:
 #    meetingurl: <Meeting url - indico link, etc.>
 #    recordingurl: <Recording url> (Optional)
 #    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-current_status: 
+current_status:
 #  A placeholder for status updates
 github-username: ohrechykha
 ---
