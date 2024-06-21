@@ -19,7 +19,7 @@ project_goal:
 mentors:
   - Jim Pivarski (Princeton University)
   - Ianna Osborne (Princeton University)
-proposal: assets/pdf/fellows-2024/UKR013-proposal-Oleksii-Hrechykha.pdf
+proposal: /assets/pdf/fellows-2024/UKR013-proposal-Oleksii-Hrechykha.pdf
 presentations:
 #  - title: "<Presentation Title"
 #    date: "Presentation Date"
