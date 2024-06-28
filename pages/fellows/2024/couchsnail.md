@@ -23,6 +23,6 @@ proposal: assets/pdf/fellows-2024/USA036-proposal-Camille-Sicat.pdf
 presentations:
 current_status: >
 github-username: couchsnail
-linkedin-profile: <www.linkedin.com/in/camille-sicat-8b3267256
+linkedin-profile: < https://www.linkedin.com/in/camille-sicat-8b3267256/
 ---
 
