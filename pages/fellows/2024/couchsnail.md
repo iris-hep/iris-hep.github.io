@@ -21,7 +21,7 @@ mentors:
   - Diego Davila (University of California San Diego/San Diego Supercomputer Center)
 proposal: assets/pdf/fellows-2024/USA036-proposal-Camille-Sicat.pdf
 presentations:
-current_status: 
+current_status:
 github-username: couchsnail
 linkedin-profile: https://www.linkedin.com/in/camille-sicat-8b3267256/
 ---
