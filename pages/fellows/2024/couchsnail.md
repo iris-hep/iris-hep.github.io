@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2024-06-24
   end: 2024-09-06
-photo: /assets/images/team/fellows-2024/Camille-Sicat.jpg
+photo: /assets/images/team/fellows-2024/Camille-Sicat.png
 institution: University of California San Diego
 e-mail: cisicat@ucsd.edu
 focus-area: Data Organization, Management and Access (DOMA)
@@ -21,8 +21,8 @@ mentors:
   - Diego Davila (University of California San Diego/San Diego Supercomputer Center)
 proposal: assets/pdf/fellows-2024/USA036-proposal-Camille-Sicat.pdf
 presentations:
-current_status: >
+current_status:
 github-username: couchsnail
-linkedin-profile: <www.linkedin.com/in/camille-sicat-8b3267256
+linkedin-profile: https://www.linkedin.com/in/camille-sicat-8b3267256/
 ---
 
