@@ -1,6 +1,6 @@
 layout: fellow
 pagetype: fellow
-shortname:  YuriiPerets 
+shortname:  YuriiPerets
 permalink: /fellows/YuriiPerets.html
 fellow-name: Yurii Perets
 title: Yurii Perets - IRIS-HEP Fellow
