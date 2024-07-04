@@ -7,7 +7,7 @@ fellow-name: Yurii Perets
 title: Yurii Perets - IRIS-HEP Fellow
 active: True
 dates:
-  start: 2024-07-1
+  start: 2024-07-01
   end: 2024-09-30
 photo: /assets/images/team/fellows-2024/Yurii-Perets.jpg
 institution: Taras Shevchenko National University of Kyiv
