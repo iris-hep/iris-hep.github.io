@@ -10,6 +10,16 @@ shortname: ianna
 title: Research Software Engineer
 website:
 presentations:
+  - title: "AwkwardArrays in Julia for High-Energy Physics Data Analysis "
+    date: 2024-07-03
+    url: https://indi.to/rMzSy
+    meeting: PyHEP 2024 - "Python in HEP" Users Workshop
+    meetingurl: https://indico.cern.ch/event/1384010/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Bridging Worlds: Achieving Language Interoperability between Julia and Python in Scientific Computing"
     date: 2024-03-11
     url: https://indi.to/7vNMH
