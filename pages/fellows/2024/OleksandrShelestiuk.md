@@ -21,7 +21,7 @@ mentors:
   - Christopher G. Tully (Princeton University)
 proposal: /assets/pdf/fellows-2024/UKR111-proposal-Oleksandr-Shelestiuk.pdf
 presentations:
-current_status: 
+current_status:
 github-username: OleksandrShelestiuk
 linkedin-profile: linkedin.com/in/oleksandr-shelestiuk-054a30270
 ---
