@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2024-06-20
   end: 2024-09-12
-photo: /assets/images/team/fellows-2024/Oleksandr-Shelestiuk.jpg
+photo: /assets/images/team/fellows-2024/Oleksandr-Shelestiuk.png
 institution: The University of Manchester
 e-mail: oleks.shel@gmail.com
 #focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
