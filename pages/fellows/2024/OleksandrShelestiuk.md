@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: OleksandrShelestiuk
@@ -6,8 +7,8 @@ fellow-name: Oleksandr Shelestiuk
 title: Oleksandr Shelestiuk - IRIS-HEP Fellow
 active: True
 dates:
-  start: 20-06-2024
-  end: 12-09-2024
+  start: 2024-06-20
+  end: 2024-09-12
 photo: /assets/images/team/fellows-2024/Oleksandr-Shelestiuk.jpg
 institution: The University of Manchester
 e-mail: oleks.shel@gmail.com
@@ -20,14 +21,7 @@ mentors:
   - Christopher G. Tully (Princeton University)
 proposal: /assets/pdf/fellows-2024/UKR111-proposal-Oleksandr-Shelestiuk.pdf
 presentations:
-#  - title: "<Presentation Title"
-#    date: "Presentation Date"
-#    url: <Presentation materials link>
-#    meeting: <Meeting name>
-#    meetingurl: <Meeting url - indico link, etc.>
-#    recordingurl: <Recording url> (Optional)
-#    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-current_status: >
-#  A placeholder for status updates
+current_status:
 github-username: OleksandrShelestiuk
 linkedin-profile: linkedin.com/in/oleksandr-shelestiuk-054a30270
+---
