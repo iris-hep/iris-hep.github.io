@@ -7,8 +7,8 @@ fellow-name: Oleksandr Shelestiuk
 title: Oleksandr Shelestiuk - IRIS-HEP Fellow
 active: True
 dates:
-  start: 20-06-2024
-  end: 12-09-2024
+  start: 06-20-2024
+  end: 09-12-2024
 photo: /assets/images/team/fellows-2024/Oleksandr-Shelestiuk.jpg
 institution: The University of Manchester
 e-mail: oleks.shel@gmail.com
