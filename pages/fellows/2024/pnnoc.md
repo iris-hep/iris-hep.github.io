@@ -15,7 +15,7 @@ e-mail: namu7292@colorado.edu
 focus-area: Analysis Grand Challenge, Machine Learning (Graph Neural Network)
 project_title: Improving the Analysis Grand Challenge (AGC) Machine Learning Workflow
 project_goal: >
-  Improving the AGC workflow by implementing Graph Neural Network (GNN) to the pipeline. Investigating the performance, computational cost, and users' experience of GNN compared to the existing Boosted Decision Tree (BDT). Exploring variaties of GNN architecture that would relfex physical phenomena. 
+  Improving the AGC workflow by implementing Graph Neural Network (GNN) to the pipeline. Investigating the performance, computational cost, and users' experience of GNN compared to the existing Boosted Decision Tree (BDT). Exploring variaties of GNN architecture that would relfex physical phenomena.
 mentors:
   - Elliott Kauffman (Princeton University)
   - Alexander Held (University of Wisconsin-Madison)
