@@ -19,7 +19,7 @@ project_goal: >
 mentors:
   - Aashay Arora (University of California San Diego/CMS)
   - Diego Davila (University of California San Diego/San Diego Supercomputer Center)
-proposal: assets/pdf/fellows-2024/USA036-proposal-Camille-Sicat.pdf
+proposal: /assets/pdf/fellows-2024/USA036-proposal-Camille-Sicat.pdf
 presentations:
 current_status:
 github-username: couchsnail
