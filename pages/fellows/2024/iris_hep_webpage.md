@@ -17,6 +17,6 @@ mentors:
   - Dr. Sergo Jindariani
 proposal: /assets/pdf/fellows-2024/USA068-proposal-Sara-Shinde.pdf
 presentations:
-current_status
+current_status:
 github-username: shindesc
 ---
