@@ -17,7 +17,7 @@ project_title: >
 project_goal: >
     In this project, our focus will be on analyzing existing Python, ROOT, and C++ code within the Analysis Grand Challenge (AGC), Compact Muon Solenoid (CMS) repository. Our main goal is to transform TTree event data structures into RNTuple formats to enhance pipeline efficiency. By the project's conclusion, optimized pipeline components will be delivered to the AGC repository, complete with thorough documentation.
 mentors:
-  - David Lange (Research Staff, Department of Physics, Princeton University)
+  - David Lange (Princeton University)
 proposal: /assets/pdf/fellows-2024/LIT101-proposal-Giedrius-Juskevicius.pdf
 presentations:
 #   - title: "<Presentation Title"
