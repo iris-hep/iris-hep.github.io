@@ -10,7 +10,11 @@ title: IRIS/HEP Fellows Program Applications
 **General information about the program, as well as information about former Fellows, can be found on the [main Fellows webpage](https://iris-hep.org/fellows.html).**
 
 
+<!--
 **Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 11 March, 2024 (end of the day, any time zone) will prioritized for consideration. The application form will however remain open and applications can nonetheless be submitted through March 25th.**
+-->
+
+**Fellow selections for 2024 have been completed. Please check back in early 2025 for information on how to apply to be an IRIS-HEP Fellow in summer, 2025.**
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
 with basic programming through skills acquired (for example) from coursework or
