@@ -17,6 +17,8 @@ project_title: Towards Differentiable Jet Clustering
 project_goal: >
     Our research is centered on the differentiation of jet clustering methods, which presents a key challenge in existing algorithms like anti-kt and the more recent qanti-kt. These conventional approaches yield distinct results, making them non-differentiable and creating significant hurdles for optimization through neural networks, especially in forward automatic differentiation and backpropagation. Our goals are to address this issue by converting discrete and deterministic clustering into a probabilistic framework through the use of expectations. We also aim to employ this framework in the context of neural networks for initial attempts at jet clustering optimization.
 mentors:
+  - Nicole Hartman (TUM)
+  - Annalena Kofler (MPI-IS)
   - Michael Kagan (SLAC)
   - Lukas Heinrich (TUM)
 proposal: /assets/pdf/fellows-2024/USA080-proposal-Nishank-Gite.pdf
