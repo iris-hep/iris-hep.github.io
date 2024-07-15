@@ -15,10 +15,7 @@ e-mail: kundrotasdanielius@gmail.com
 focus-area: doma
 project_title: Data Compression Analysis in the ATLAS Experiment
 project_goal: >
-    CERN’s experiments generate huge datasets, and
-reducing their size through compression lowers costs and environmental impact
-by decreasing storage needs and energy consumption. A study will be conducted to assess how lossy com-
-pression affects online tracking performance estimation, comparing compressed data against uncompressed benchmarks.
+  CERN’s experiments generate huge datasets, and reducing their size through compression lowers costs and environmental impact by decreasing storage needs and energy consumption. A study will be conducted to assess how lossy compression affects online tracking performance estimation, comparing compressed data against uncompressed benchmarks.
 mentors:
   - Tomasz Bold (AGH University of Science and Technology Cracow)
 proposal: /assets/pdf/fellows-2024/LIT104-proposal-Danielius-Kundrotas.pdf
