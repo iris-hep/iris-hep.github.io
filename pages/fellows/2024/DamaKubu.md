@@ -7,8 +7,8 @@ fellow-name: Danieliuss Kundrotas
 title: Danielius Kundrotas - IRIS-HEP Fellow
 active: True
 dates:
-  start: 06-20-2024
-  end: 09-05-2024
+  start: 2024-06-20
+  end: 2024-09-05
 photo: /assets/images/team/fellows-2024/Danielius-Kundrotas.png
 institution: Vilnius University
 e-mail: kundrotasdanielius@gmail.com
