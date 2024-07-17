@@ -25,14 +25,14 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
   This combined multi-step process is what is meant by the "annual budget and SOW process".
 
-### Dates for IRIS-HEP annual budget and SOW process for Year 6 (2023 - 2024), covering the period from 1 September, 2023, through 31 August, 2024.
+### Dates for IRIS-HEP annual budget and SOW process for Year 7 (2024 - 2025), covering the period from 1 September, 2024, through 31 August, 2025.
 
 ---
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Monday, 17 July, 2023 (COB) |||| Subaward grant admins send draft Y6 budgets and justifications to Maureen, Floe and Peter |
-| Friday, 4 August, 2023 |||| Goal: Final budgets ready for Y6 SOWs |
+| Wednesday, 31 July, 2023 (COB) |||| Subaward grant admins send draft Y7 budgets and justifications to Maureen, Floe and Peter |
+| Wednesday, 7 August, 2023 |||| Goal: Final budgets ready for Y7 SOWs |
 
 ---
 
