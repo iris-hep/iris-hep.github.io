@@ -31,8 +31,8 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Wednesday, 31 July, 2023 (COB) |||| Subaward grant admins send draft Y7 budgets and justifications to Maureen, Floe and Peter |
-| Wednesday, 7 August, 2023 |||| Goal: Final budgets ready for Y7 SOWs |
+| Wednesday, 31 July, 2024 (COB) |||| Subaward grant admins send draft Y7 budgets and justifications to Maureen, Floe and Peter |
+| Wednesday, 7 August, 2024 |||| Goal: Final budgets ready for Y7 SOWs |
 
 ---
 
@@ -52,8 +52,8 @@ budget is required.
 In addition you should write a budget justification which contains the
 information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg22_1/pappg_2.jsp#IIC2g). The budget described should however be limited to
 funds required for a _single_ year and the defined time period, which should
-be noted explicitly in the justification. For example, "IRIS-HEP Year 6:
-1 September, 2023 - 31 August, 2024" or similar should appear near the top
+be noted explicitly in the justification. For example, "IRIS-HEP Year 7:
+1 September, 2024 - 31 August, 2025" or similar should appear near the top
 of the document.
 
   In addition to the standard budget justification information, additional
