@@ -14,7 +14,7 @@ institution: Vilnius University
 e-mail: rimantas.naina@ff.vu.lt
 focus-area:
 project_title: Development of flexible interface for rapid geometry modelling and exchange between CAD tools and simulation platforms dedicated for HEP experiments
-project_goal: > 
+project_goal: >
     Our aim is to enhance the capability of Geant4 simulations to integrate and manage complex CAD geometries more effectively and intuitively. By developing a suite of tools that simplify the processes of geometry manipulation and conversion, this initiative promises to advance the field of simulation by making sophisticated geometrical simulations more accessible and manageable for researchers and engineers alike.
 mentors:
   - Tomasz Szumlak (AGH University of Krakow)
