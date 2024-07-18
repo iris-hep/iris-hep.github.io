@@ -1,30 +1,30 @@
 ---
 layout: codas-hep-participant
-e-mail: YOUR-EMAIL
-institution: YOUR-UNIVERSITY
-name: Example Name
-photo: "/assets/images/codas-hep/2024/crow-t-robot.jpg"
-github-username: YOUR-GITHUB-USERNAME
-linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
+e-mail: chongwen_lu@brown.edu
+institution: Brown University
+name: Chongwen Lu
+photo: "/assets/images/codas-hep/2024/Chongwen-Lu.jpg"
+github-username: CLu98
+linkedin-profile: https://www.linkedin.com/in/chongwen-lu-703119135/
 orcid:
-title:
+title: Graduate Student
 website:
 logos:
-    - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/Brown_Logo.png
+    - /assets/images/codas-hep/logos/LZlogo_jh.jpg
 ---
 
 ## My research:
-TO-EDIT
+LZ Dark Matter Experiment
 
 ## My expertise is:
-TO-EDIT
+Data analysis and signal simulation related to WIMPs, and PMT analysis.
 
 ## A problem I'm grappling with:
-TO-EDIT
+Pulse shape discrimination in Xenon TPC.
 
 ## I've got my eyes on:
-TO-EDIT
+Machine learning and parallel programming.
 
 ## I want to know more about:
-TO-EDIT
+Physics and techniques involved in other particle physics experiments.
