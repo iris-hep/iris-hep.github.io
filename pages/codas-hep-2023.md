@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CoDaS-HEP
-permalink: codas-hep.html
+title: CoDaS-HEP 2023
+permalink: codas-hep-2023.html
 ---
 
 
