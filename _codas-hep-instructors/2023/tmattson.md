@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: tim@timmattson.com
 institution: Intel (until August 15)
 name: Tim Mattson
-photo: "/assets/images/team/Tim-Mattson.jpg"
+photo: "assets/images/codas-hep/2023/Tim-Mattson.jpg"
 github-username: tgmattso
 linkedin-profile: "https://www.linkedin.com/in/tim-mattson-70b1774/"
 orcid: 0000-0002-6106-8717
