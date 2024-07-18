@@ -5,7 +5,7 @@ institution: Princeton University
 name: Andres Rios Tascon
 photo: "/assets/images/team/Andres-Rios_Tascon.jpg"
 github-username: ariostas
-linkedin-profile: 
+linkedin-profile:
 title: Research Software Engineer
 website: https://ariostas.com
 logos:

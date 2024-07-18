@@ -5,10 +5,10 @@ institution: University of California, Berkeley
 name: Louis-Guillaume Gagnon
 photo: "/assets/images/team/LouisGuillaumeGagnon.jpg"
 github-username: gagnonlg
-orcid: 
-linkedin-profile: 
-title: 
-website: 
+orcid:
+linkedin-profile:
+title:
+website:
 logos:
     - /assets/images/codas-hep/logos/CERN_logo.png
     - /assets/images/codas-hep/logos/ATLAS.jpg
