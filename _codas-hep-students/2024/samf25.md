@@ -5,7 +5,7 @@ institution: Brown University
 name: Samuel Ferraro
 photo: "/assets/images/codas-hep/2024/Samuel-Ferraro.jpg"
 github-username: samf25
-linkedin-profile: [URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE](https://www.linkedin.com/in/samuel-ferraro-2ab603296/)
+linkedin-profile: https://www.linkedin.com/in/samuel-ferraro-2ab603296/
 orcid:
 title:
 website:
