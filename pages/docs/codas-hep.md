@@ -10,7 +10,7 @@ pagetype: doc
 In order to add your information, we request you to please supply a photo ( First_Name-Last_Name.jpg or .png - 320x240 pixels) and some information about
 yourself in the form a markdown file.
 
-Summary: you should submit a pull request with the photo and a markdown file as described below to this repo:
+Summary: you should submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#) with the photo and a markdown file as described below to this repo:
 
 <https://github.com/iris-hep/iris-hep.github.io>
 
