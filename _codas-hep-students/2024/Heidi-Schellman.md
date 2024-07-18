@@ -15,16 +15,16 @@ logos:
 ---
 
 ## My research:
-Neutrino physics on DUNE/MINERvA.  Developing training, documentation and tools to distribute data from DUNE worldwide and, in future, to make data public. 
+Neutrino physics on DUNE/MINERvA.  Developing training, documentation and tools to distribute data from DUNE worldwide and, in future, to make data public.
 
 ## My expertise is:
-Large scale data movement and production for experiments. Precision electroweak physics. 
+Large scale data movement and production for experiments. Precision electroweak physics.
 
 ## A problem I'm grappling with:
 Training large numbers of people in common software.
 
 ## I've got my eyes on:
-Using HDF5 and data frames for analysis. 
+Using HDF5 and data frames for analysis.
 
 ## I want to know more about:
-How LHC experiments do analysis and documentation. 
+How LHC experiments do analysis and documentation.
