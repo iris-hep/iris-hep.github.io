@@ -23,7 +23,7 @@ Molecular Scattering, Scientific Computing, Graphs in the language of linear alg
 I am on a quest to find one algebra to rule them all.  Many people think it's a relational algebra.  They are wrong.  It's Linear Algebra over sparse arrays.
 
 ## I've got my eyes on:
-Graph databases, sparse array storage engines, machine programming, and making python a high performance language. New languages (e.g. Jullia) hurt us in the long run.  Let's just make Python fast.  
+Graph databases, sparse array storage engines, machine programming, and making python a high performance language. New languages (e.g. Jullia) hurt us in the long run.  Let's just make Python fast.
 
 ## I want to know more about:
 What everyone else is working on/thinking about… the meaning of life (Monty Python but also philosophically).
