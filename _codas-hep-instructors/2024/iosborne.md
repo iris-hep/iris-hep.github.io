@@ -17,16 +17,19 @@ logos:
 ---
 
 ## My research:
-Computational and data science research to enable discoveries in fundamental physics. CMS software (CMSSW), Awkward Array
+I conduct cutting-edge computational and data science research aimed at unlocking discoveries in fundamental physics. My current projects include developing CMS software (CMSSW) and enhancing the Awkward Array library for more efficient data manipulation.
 
 ## My expertise is:
-C++, Python
+   - *Programming Languages:* C++, Python, Julia
+   - *Technologies:* Awkward Array, Numba, Just-in-Time compilation
+   - *Integration:* Python integration with other languages
+   - *Configuration & Distribution:* Managing and deploying complex software environments
 
 ## A problem I'm grappling with:
-Awkward Array in Numba, Just-in-Time compilation
+I am currently focused on integrating Awkward Array with Numba to optimize performance through Just-in-Time compilation techniques. Additionally, I am exploring Python on GPU to leverage parallel computing power for complex data analysis.
 
 ## I've got my eyes on:
-Quantum computing
+I am actively exploring the capabilities of Julia for high-performance computing and its potential applications in fundamental physics.
 
 ## I want to know more about:
-Large-scale parallelism and deep storage hierarchy for HEP applications
+I am keen to deepen my understanding of large-scale parallelism and the implementation of advanced deep storage hierarchies for high-energy physics (HEP) applications.
