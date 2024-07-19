@@ -10,7 +10,8 @@ orcid: 0000-0002-8903-5992
 title: Professor
 website: https://blogs.oregonstate.edu/schellmanresearch/
 logos:
-    - /assets/images/codas-hep/logos/dune-logo.png
+    - /assets/images/codas-hep/logos/DUNE.png
+    - /assets/images/codas-hep/logos/OregonState_logo.png
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
