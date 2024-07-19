@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: chongwen_lu@brown.edu
 institution: Brown University
 name: Chongwen Lu
-photo: "/assets/images/codas-hep/2024/Chongwen-Lu.jpg"
+photo: "/assets/images/codas-hep/2024/Chongwen-Lu.png"
 github-username: CLu98
 linkedin-profile: https://www.linkedin.com/in/chongwen-lu-703119135/
 orcid:
