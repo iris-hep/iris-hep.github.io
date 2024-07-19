@@ -31,5 +31,5 @@ I have quite a few related to my analysis, but that's an average work day.
 My thesis, I'm starting my 6th year..
 
 ## I want to know more about:
-Optimizing my scripts to be memory efficient and make better use of GPUs and other resources. 
+Optimizing my scripts to be memory efficient and make better use of GPUs and other resources.
 
