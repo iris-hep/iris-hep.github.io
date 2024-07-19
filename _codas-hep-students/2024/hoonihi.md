@@ -10,21 +10,21 @@ orcid:
 title: Ph.D. Candidate and Scientific Computer Engineer
 website:
 logos:
-    - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/ND-logo.jpg
+    - /assets/images/codas-hep/logos/radlab-logo.jpg
 ---
 
 ## My research:
-Electron scattering and transport in condensed matter, especially in liquid water at elevated temperature
+Electron scattering and transport in condensed matter, particularly in liquid water at elevated temperatures
 
 ## My expertise is:
 Scientific computing, Python, Monte Carlo methods
 
 ## A problem I'm grappling with:
-Analyzing sensitivity on various parameters affect scattering characteristics of electrons
+Analyzing the sensitivity of various parameters affecting the scattering characteristics of electrons
 
 ## I've got my eyes on:
 More convenient and efficient tools
 
 ## I want to know more about:
-ML techniques that can be applied to stochastic modeling in radiation chemistry
+ML techniques that can be applied to stochastic modeling in radiation chemistry and chemical physics
