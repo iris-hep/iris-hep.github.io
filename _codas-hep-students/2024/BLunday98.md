@@ -23,7 +23,7 @@ logos:
 • Data processing, analysis, and visualization using Python (pandas, skl, seaborn)
 • Developing machine learning networks (DNNs mainly) to tackle physics optimization problems
 • Spending hours trying to tweak plots in ROOT
- 
+
 ## A problem I'm grappling with:
 • Simulating events with 6+ jets and multiple interaction vertices in MADGRAPH
 • Automating systematics plots for large collections of xAODs/ROOT NTuples/other analysis objects
