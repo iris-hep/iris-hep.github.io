@@ -10,7 +10,7 @@ orcid:
 title:
 website:
 logos:
-    - /assets/images/codas-hep/logos/Brown_Logo.jpg
+    - /assets/images/codas-hep/logos/Brown_Logo.png
 ---
 
 ## My research:
