@@ -24,7 +24,7 @@ Knowledge Distillation for Jet Tagging
 Keeping my code and workflow organized
 
 ## I've got my eyes on:
-PhD programs
+The applications of Machine Learning in Modern Physics
 
 ## I want to know more about:
-Machine Learning!
+Machine Learning
