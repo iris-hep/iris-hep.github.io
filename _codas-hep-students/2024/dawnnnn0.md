@@ -5,7 +5,7 @@ institution: The University of Virginia
 name: Zhenyu Wu
 photo: "/assets/images/codas-hep/2024/Zhenyu-Wu.jpg"
 github-username: dawnnnn0
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
