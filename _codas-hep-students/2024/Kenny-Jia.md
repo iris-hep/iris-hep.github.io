@@ -7,7 +7,7 @@ photo: "/assets/images/codas-hep/2024/Kenny-Jia.jpg"
 github-username: Kenny-Jia
 linkedin-profile: https://www.linkedin.com/in/kenny-jia/
 orcid: 0000-0001-9191-3822
-title Physics PhD student
+title: Physics PhD student
 website: https://kenny-jia.github.io/
 logos:
     - /assets/images/codas-hep/logos/ATLAS-logo.jpg
