@@ -20,7 +20,7 @@ Collider physics at Energy Frontier. BSM physics search, Future Colliders, and M
 
 ## My expertise is:
 - C++, python, ROOT, Delphes, Tcl
-- Hardware aware AI/ML 
+- Hardware aware AI/ML
 - being lazy (let LLM write code for me)
 
 ## A problem I'm grappling with:
