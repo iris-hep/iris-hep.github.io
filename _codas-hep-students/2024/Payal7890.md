@@ -1,11 +1,11 @@
 ---
 layout: codas-hep-participant
-e-mail: YOUR-EMAIL
-institution: YOUR-UNIVERSITY
-name: Example Name
+e-mail: proy8@uic.edu
+institution: University of Illinois at Chicago
+name: Payal Roy
 photo: "/assets/images/codas-hep/2024/crow-t-robot.jpg"
-github-username: YOUR-GITHUB-USERNAME
-linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
+github-username: Payal7890
+linkedin-profile: http://linkedin.com/in/payal-roy1999
 orcid:
 title:
 website:
@@ -15,16 +15,16 @@ logos:
 ---
 
 ## My research:
-TO-EDIT
+Boosted Top Studies
 
 ## My expertise is:
-TO-EDIT
+Python, ROOT
 
 ## A problem I'm grappling with:
-TO-EDIT
+Using Awkward Array for my research
 
 ## I've got my eyes on:
-TO-EDIT
+Learn more about Columnar Data Analysis 
 
 ## I want to know more about:
-TO-EDIT
+Experimental HEP
