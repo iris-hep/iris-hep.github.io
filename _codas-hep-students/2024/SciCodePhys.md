@@ -5,7 +5,7 @@ institution: Brown University
 name: Chenguang (Nick) Guan
 photo: "/assets/images/codas-hep/2024/Chenguang-Guan.png"
 github-username: SciCodePhy
-linkedin-profile: linkedin.com/in/chenguang-guan-b47770180
+linkedin-profile: https://www.linkedin.com/in/chenguang-guan-b47770180/
 orcid:
 title:
 website:
