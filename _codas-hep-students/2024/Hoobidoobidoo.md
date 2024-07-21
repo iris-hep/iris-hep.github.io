@@ -15,7 +15,7 @@ logos:
 ---
 
 ## My research:
-Improving the CMS tracker algorithm (LST) using machine learning. 
+Improving the CMS tracker algorithm (LST) using machine learning.
 
 ## My expertise is:
 AI/ML, C++/Python, making plots
