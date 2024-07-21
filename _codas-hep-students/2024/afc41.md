@@ -15,7 +15,7 @@ logos:
 
 ## My research:
 I work on the NA61/SHINE experiment at CERN which provides hadron production measurements of various thin and long targets used to create neutrino beamlines in
-order to help reduce the flux uncertainties for accelerator neutrino experiments. Currently, I am working on the calibration of the T2K replica target.
+order to help reduce the flux uncertainties for accelerator neutrino experiments. Currently, I am working on the calibration and analysis of the T2K replica target data taken in 2022.
 
 ## My expertise is:
 Programming experience with ROOT, C++ that includes a lot of debugging of older code...
