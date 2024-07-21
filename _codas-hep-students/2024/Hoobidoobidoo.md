@@ -11,21 +11,21 @@ title: Undergraduate in Physics/CS
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/University-of-Florida-Logo.png
 ---
 
 ## My research:
-Improving the CMS tracker algorithm using machine learning. 
+Improving the CMS tracker algorithm (LST) using machine learning. 
 
 ## My expertise is:
-ML, C++/Python, making plots
+AI/ML, C++/Python, making plots
 
 ## A problem I'm grappling with:
-Parallelization and resource optimization
+Parallelization ML for improved resource optimization
 
 ## I've got my eyes on:
-ML, parallelization, and making more plots
+Learning novel parallelization and computational tools used in HEP (and making more plots)
 
 
 ## I want to know more about:
-Parallel computing/CUDA/Resource management, making better plots
+Parallel computing/CUDA/Resource management
