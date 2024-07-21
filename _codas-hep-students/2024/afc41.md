@@ -4,7 +4,7 @@ e-mail: afc41@pitt.edu
 institution: University of Pittsburgh
 name: Amelia Camino
 photo: "/assets/images/codas-hep/2024/Amelia-Camino.png"
-github-username: afc41@pitt.edu
+github-username: afc41
 logos:
     - /assets/images/codas-hep/logos/na61-shine-logo.png
     - /assets/images/codas-hep/logos/t2k_logo_small.png
