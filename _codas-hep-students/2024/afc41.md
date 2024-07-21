@@ -21,10 +21,10 @@ order to help reduce the flux uncertainties for accelerator neutrino experiments
 Programming experience with ROOT, C++ and the Shine framework - the main parts of the framework are detector interface, Shine Offline Event (SHOE), and modules.
 
 ## A problem I'm grappling with:
-How to leverage innovative software/techniques to existing databases/code to solve complicated problems in both calibration and analysis. 
+How to leverage innovative software/techniques to existing databases/code to solve complicated problems in both calibration and analysis.
 
 ## I've got my eyes on:
-I'd like to refine my coding skills and learn new techniques/better practices. 
+I'd like to refine my coding skills and learn new techniques/better practices.
 
 ## I want to know more about:
 Everything! But parallelizing workloads, AI, and Machine Learning are very interesting to me (since I know very little)
