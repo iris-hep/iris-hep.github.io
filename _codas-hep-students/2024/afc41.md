@@ -18,7 +18,7 @@ I work on the NA61/SHINE experiment at CERN which provides hadron production mea
 order to help reduce the flux uncertainties for accelerator neutrino experiments. Currently, I am working on the calibration and analysis of the T2K replica target data taken in 2022.
 
 ## My expertise is:
-Programming experience with ROOT, C++ and the Shine framework - the main parts of the framework are detector interface, Shine Offline Event (SHOE) and modules.
+Programming experience with ROOT, C++ and the Shine framework - the main parts of the framework are detector interface, Shine Offline Event (SHOE), and modules.
 
 ## A problem I'm grappling with:
 How to leverage innovative software/techniques to existing databases/code to solve complicated problems in both calibration and analysis. 
