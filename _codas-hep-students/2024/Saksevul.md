@@ -8,8 +8,8 @@ github-username: Saksevul
 linkedin-profile: https://linkedin.com/in/saksevul
 orcid:
 title: Graduate Student
-website: 
-logos: 
+website:
+logos:
     - /assets/images/codas-hep/logos/UPenn_logo.png
     - /assets/images/codas-hep/logos/CERN_logo.png
     - /assets/images/codas-hep/logos/ATLAS-logo.png
