@@ -15,7 +15,7 @@ logos:
 ---
 
 ## My research:
-I currently work on ATLAS where I have worked on anomalous jet tagging for di-boson and dark jet searches. I have also worked extensively on the ATLAS upgrade for the readout system of the LAr calorimeter. As of late, I've been interested in applying ML to low-level calorimeter data for long-lived particle searches. 
+I currently work on ATLAS where I have worked on anomalous jet tagging for di-boson and dark jet searches. I have also worked extensively on the ATLAS upgrade for the readout system of the LAr calorimeter. As of late, I've been interested in applying ML to low-level calorimeter data for long-lived particle searches.
 
 ## My expertise is:
 Python, C++, ROOT, and ML
