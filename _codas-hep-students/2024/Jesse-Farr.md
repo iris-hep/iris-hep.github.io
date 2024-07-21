@@ -14,7 +14,7 @@ logos:
 ---
 
 ## My research:
-I have been working on upgrades to the ATLAS experiment for the High Luminosity Large Hadron Collider (HL-LHC) at CERN. Specifically, I have been working on a component of the inner-most part of the detector, the Inner TracKer (ITk). Of parts in the ITk, I have helped develop thermal quality control metrics for staves which are the support structure/electrical housing for module detectors. I am beginning to start a Long-Lived Particle (LLP) search for displaced jets for Run 2 and partial Run 3 data from the LHC. 
+I have been working on upgrades to the ATLAS experiment for the High Luminosity Large Hadron Collider (HL-LHC) at CERN. Specifically, I have been working on a component of the inner-most part of the detector, the Inner TracKer (ITk). Of parts in the ITk, I have helped develop thermal quality control metrics for staves which are the support structure/electrical housing for module detectors. I am beginning to start a Long-Lived Particle (LLP) search for displaced jets for Run 2 and partial Run 3 data from the LHC.
 
 ## My expertise is:
 I am proficient in silicon strip detector assembly and testing.
