@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: haorans9@illinois.edu
 institution: University of Illinois, Urbana-Champaign
 name: Haoran Sun
-photo: "/assets/images/codas-hep/2024/Haoran-Sun.jpg"
+photo: "/assets/images/codas-hep/2024/Haoran-Sun.png"
 github-username: hswhhe-uiuc
 logos:
     - /assets/images/codas-hep/logos/ATLAS-logo.jpg

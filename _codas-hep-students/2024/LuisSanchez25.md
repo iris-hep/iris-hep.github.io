@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: las19@rice.edu
 institution: Rice University
 name: Luis Sanchez
-photo: "/assets/images/codas-hep/2024/Luis-Sanchez.jpg"
+photo: "/assets/images/codas-hep/2024/Luis-Sanchez.png"
 github-username: LuisSanchez25
 linkedin-profile:
 orcid:
