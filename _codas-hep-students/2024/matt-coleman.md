@@ -10,8 +10,7 @@ orcid: 0000-0001-5939-5957
 title: Performance Tuning Analyst
 website:
 logos:
-    - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/Princeton_logo.png
 ---
 ## My research:
 Computational hydrodynamics applied to astrophysics
