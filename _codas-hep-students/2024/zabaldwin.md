@@ -29,7 +29,7 @@ Analyzing two-psuedoscalar systems in the search for exotic hybrid mesons at Glu
 - Always missing several `}` in my C++ code
 
 ## A problem I'm grappling with:
-Regression Analysis Methods utlizing regularization to improve model performance
+Regression Analysis Methods utilizing regularization to improve model performance
 
 ## I've got my eyes on:
 Anything involving Deep Neural Networks or icecream
