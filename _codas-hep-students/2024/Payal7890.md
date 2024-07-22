@@ -2,7 +2,7 @@
 layout: codas-hep-participant
 e-mail: proy8@uic.edu
 institution: University of Illinois at Chicago
-name: Example Name
+name: Payal Roy
 photo: "/assets/images/codas-hep/2024/crow-t-robot.jpg"
 github-username: Payal7890
 linkedin-profile: http://linkedin.com/in/payal-roy1999
