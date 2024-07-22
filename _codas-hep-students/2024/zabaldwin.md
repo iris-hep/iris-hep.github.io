@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: zbaldwin@cmu.edu
 institution: Carnegie Mellon University
 name: Zachary Baldwin
-photo: "/assets/images/codas-hep/2024/Zachary_Baldwin.jpg"
+photo: "/assets/images/codas-hep/2024/Zachary_Baldwin.png"
 github-username: zabaldwin
 linkedin-profile: https://www.linkedin.com/in/zachary-b-826a291b5/
 orcid: 0000-0002-8534-0922
