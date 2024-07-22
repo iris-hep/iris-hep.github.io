@@ -11,7 +11,7 @@ title: Ph.D. Candidate, Carnegie Mellon University
 website: https://zabaldwin.github.io
 logos:
     - /assets/images/codas-hep/logos/CMU-logo.jpg
-    - /assets/images/codas-hep/logos/JeffersonLab-logo.png
+    - /assets/images/codas-hep/logos/JeffersonLab-logo.jpeg
     - /assets/images/codas-hep/logos/GlueX-logo.png
 ---
 ## My research:
