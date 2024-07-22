@@ -1,3 +1,4 @@
+---
 layout: codas-hep-participant
 e-mail: msbc@princeton.edu
 institution: Princeton University
