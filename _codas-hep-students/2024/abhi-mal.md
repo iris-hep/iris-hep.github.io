@@ -6,7 +6,7 @@ name: Abhishikth Mallampalli
 photo: "/assets/images/codas-hep/2024/Abhishikth-Mallampalli.jpg"
 github-username: abhi-mal
 linkedin-profile: https://www.linkedin.com/in/abhishikth-mallampalli-4a6643128/
-orcid: 
+orcid:
 title: Physics PhD Student
 website:
 logos:
