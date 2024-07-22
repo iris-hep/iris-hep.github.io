@@ -27,4 +27,4 @@ Optimizing software to perform analysis on LAr pulse data
 Columnar analysis tools, applications of machine learning to particle physics
 
 ## I want to know more about:
-Machine learning, parallel programming, GPU acceleration, best practices for code maintanance
+Machine learning, parallel programming, GPU acceleration, best practices for code maintenance
