@@ -16,7 +16,7 @@ logos:
 ---
 
 ## My research:
-- Improving ATLAS tracks reconstruction using taylored multi-layer neural networks.
+- Improving ATLAS tracks reconstruction using tailored multi-layer neural networks.
 
 ## My expertise is:
 - Artificial Intelligence, mainly Deep Learning with Neural Networks.
