@@ -5,7 +5,7 @@ institution: Rice University
 name: Luis Sanchez
 photo: "/assets/images/codas-hep/2024/Sanchez-Luis.jpg"
 github-username: LuisSanchez25
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
