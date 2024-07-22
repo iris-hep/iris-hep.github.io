@@ -15,7 +15,7 @@ logos:
 ---
 
 ## My research:
-Stop search and helping with the HGCAL upgrade for CMS. 
+Stop search and helping with the HGCAL upgrade for CMS.
 
 ## I want to know more about:
 Distributed computing and machine learning.
