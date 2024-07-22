@@ -2,7 +2,7 @@ layout: codas-hep-participant
 e-mail: yuzhenglin@arizona.edu
 institution: The University of Arizona
 name: Yu-Zheng Lin
-photo: "/assets/images/codas-hep/2024/Yu.jpg"
+photo: "/assets/images/codas-hep/2024/YuZheng-Lin.jpg"
 github-username: yu-zheng-lin
 linkedin-profile: https://www.linkedin.com/in/yu-zheng-lin/
 orcid:
