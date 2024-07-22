@@ -1,11 +1,11 @@
 ---
 layout: codas-hep-participant
-e-mail: saad.mohiuddin@okstate.edu  
-institution: Oklahoma State University  
+e-mail: saad.mohiuddin@okstate.edu
+institution: Oklahoma State University
 name: Saad Mohiuddin
 photo: "/assets/images/codas-hep/2024/Saad.jpg"
 github-username: saadmohiuddin
-linkedin-profile: https://www.linkedin.com/in/saadmohi/ 
+linkedin-profile: https://www.linkedin.com/in/saadmohi/
 orcid:
 title:
 website:
