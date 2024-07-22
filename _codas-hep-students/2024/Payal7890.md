@@ -24,7 +24,7 @@ Python, ROOT
 Using Awkward Array for my research
 
 ## I've got my eyes on:
-Learn more about Columnar Data Analysis 
+Learn more about Columnar Data Analysis
 
 ## I want to know more about:
 Experimental HEP
