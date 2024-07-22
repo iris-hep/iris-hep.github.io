@@ -16,9 +16,9 @@ logos:
 ---
 ## My research:
 Analyzing two-psuedoscalar systems in the search for exotic hybrid mesons at GlueX emphasizing:
-- Partial Wave Analyses 
+- Partial Wave Analyses
 - Moment Analyses
-- Machine Learning 
+- Machine Learning
 
 ## My expertise is:
 - Amplitude Analysis
@@ -33,4 +33,4 @@ Regression Analysis Methods utlizing regularization to improve model performance
 Anything involving Deep Neural Networks or icecream
 
 ## I want to know more about:
-The High Luminosity-LHC and the implementation of deep learning techniques to enhance data analyses. Also, how to properly use git... 
+The High Luminosity-LHC and the implementation of deep learning techniques to enhance data analyses. Also, how to properly use git...
