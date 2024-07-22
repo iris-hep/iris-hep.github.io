@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: blunday@sas.upenn.edu
 institution: University of Pennsylvania
 name: Benji Lunday
-photo: "/assets/images/codas-hep/2024/Benji-Lunday.jpg"
+photo: "/assets/images/codas-hep/2024/Benji-Lunday.png"
 github-username: BLunday98
 linkedin-profile: https://linkedin.com/in/blunday
 orcid: 0000-0001-9790-4724
