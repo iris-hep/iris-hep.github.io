@@ -1,16 +1,15 @@
+---
 layout: codas-hep-participant
 e-mail: rkowals2@jh.edu
 institution: Johns Hopkins University
 name: Rebecca Kowalski
 photo: "/assets/images/codas-hep/2024/Rebecca-Kowalski.jpg"
 github-username: beckykowalski
-linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
-orcid:
-title:
-website:
+orcid: https://orcid.org/0000-0001-6551-3948
+title: Graduate Student
 logos:
     - /assets/images/codas-hep/logos/cuore-logo.jpg
-	---
+	
 	## My research:
 	Searching for WIMP like dark matter on the CUORE Experiment.
 
