@@ -9,7 +9,7 @@ orcid: https://orcid.org/0000-0001-6551-3948
 title: Graduate Student
 logos:
     - /assets/images/codas-hep/logos/cuore-logo.jpg
-	
+	---
 	## My research:
 	Searching for WIMP like dark matter on the CUORE Experiment.
 
