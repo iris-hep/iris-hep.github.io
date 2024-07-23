@@ -1,6 +1,6 @@
 layout: codas-hep-participant
 e-mail: rkowals2@jh.edu
-institution: Johns Hopkins University 
+institution: Johns Hopkins University
 name: Rebecca Kowalski
 photo: "/assets/images/codas-hep/2024/Rebecca-Kowalski.jpg"
 github-username: beckykowalski
@@ -15,13 +15,13 @@ logos:
 	Searching for WIMP like dark matter on the CUORE Experiment.
 
 ## My expertise is:
-Cryogenics, pulse shape analysis optimization. 
+Cryogenics, pulse shape analysis optimization.
 
 ## A problem I'm grappling with:
-Building more efficient software. 
+Building more efficient software.
 
 ## I've got my eyes on:
-Improving efficiency of my software and workflow for collaborative efforts. 
+Improving efficiency of my software and workflow for collaborative efforts.
 
 ## I want to know more about:
-Machine learning and parallel programming. 
+Machine learning and parallel programming.
