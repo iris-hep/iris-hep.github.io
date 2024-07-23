@@ -2,6 +2,7 @@
 layout: codas-hep-participant
 e-mail: proy8@uic.edu
 institution: University of Illinois at Chicago
+
 name: Payal Roy
 photo: "/assets/images/codas-hep/2024/Payal-Roy.jpg"
 github-username: Payal7890
