@@ -14,16 +14,16 @@ logos:
 ---
 
 ## My research:
-TO-EDIT
+My analysis is undetermined. My qualification task is on powerboard quality control.
 
 ## My expertise is:
-TO-EDIT
+I don't know. Probably c++.
 
 ## A problem I'm grappling with:
-TO-EDIT
+Debugging linPOL issue of powerboard.
 
 ## I've got my eyes on:
-TO-EDIT
+Higgs to charm. Probably FCC.
 
 ## I want to know more about:
-TO-EDIT
+Standard Model.
