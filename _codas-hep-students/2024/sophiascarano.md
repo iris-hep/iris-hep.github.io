@@ -11,7 +11,7 @@ title:
 website: https://sophiascarano.github.io/
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/University_of_Maryland_seal.svg.png
 ---
 
 ## My research:
@@ -27,4 +27,4 @@ Efficiently using ROOT and other HEP software resources. Also, transitioning fro
 Model agnostic anomaly detection for LHC data (experimental); quantum error correction in AdS/CFT (theory)
 
 ## I want to know more about:
-Parallel computing
+Parallel computing, numerical analysis
