@@ -11,7 +11,6 @@ title:
 website:
 logos:
     - /assets/images/codas-hep/logos/Brown_Logo.png
-    - /assets/images/codas-hep/logos/MSU_Logo.png
 ---
 
 ## My research:
