@@ -21,10 +21,10 @@ I work on the CMS Silicon Pixel Detector Phase II upgrade. At Cornell University
 In my role, I have accumulated experience in assembly and testing of silicon modules, design of mechanical structures, development of robotic solutions to perform highly precise routines, and thermal performance evaluation.
 
 ## A problem I'm grappling with:
-Currently, I am developping a routine to install the silicon modules on the mechanical structure that support them. Since this process requires high precision, it is performed using a robotic gantry. The big challenge is to connect the modules to the power source without damaging the thermal interface material in between the module and the support structure. This has to be repeated about 2000 times with precision at the level of a 5 microns in aligment and poisitioning, then the use of robotic aid is mandatory.
+Currently, I am developing a routine to install the silicon modules on the mechanical structure that support them. Since this process requires high precision, it is performed using a robotic gantry. The big challenge is to connect the modules to the power source without damaging the thermal interface material in between the module and the support structure. This has to be repeated about 2000 times with precision at the level of a 5 microns in alignment and positioning, then the use of robotic aid is mandatory.
 
 ## I've got my eyes on:
-I have been away from analysis for a while so I am commited to come back and be good at it, meaning, being able to use the latest tools in data analysis.
+I have been away from analysis for a while so I am committed to come back and be good at it, meaning, being able to use the latest tools in data analysis.
 
 ## I want to know more about:
 Machine Learning and artificial intelligence applied to data analysis.
