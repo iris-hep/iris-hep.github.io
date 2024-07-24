@@ -6,11 +6,11 @@ name: Hayden Shaddix
 photo: "/assets/images/codas-hep/2024/Hayden-Shaddix.jpg"
 github-username: hshaddix
 orcid: 0009-0003-1194-7945
-title:
+title: Graduate Student
 website:
 logos:
     - /assets/images/codas-hep/logos/ATLAS-logo.png
-    - /assets/images/codas-hep/logos/NIU.png
+    - /assets/logos/NIU.png
 ---
 
 ## My research:
