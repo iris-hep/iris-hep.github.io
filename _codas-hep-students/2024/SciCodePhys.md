@@ -11,7 +11,6 @@ title:
 website:
 logos:
     - /assets/images/codas-hep/logos/Brown_Logo.png
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
 ## My research:
