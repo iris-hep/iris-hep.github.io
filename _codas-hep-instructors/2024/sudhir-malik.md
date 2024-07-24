@@ -21,7 +21,7 @@ Exotic Physics in CMS, Machine Learning, Silicon Detectors, Particle Tracking
 
 ### My expertise is:
 
-HEP analysis, Silicon Detectors, Software Training, Puplic Outreach
+HEP analysis, Silicon Detectors, Software Training, Public Outreach
 
 ### A problem I'm grappling with:
 
