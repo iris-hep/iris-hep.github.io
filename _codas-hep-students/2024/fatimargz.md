@@ -6,7 +6,7 @@ name: Fatima Rodriguez
 photo: "/assets/images/codas-hep/2024/Fatima-Rodriguez.jpg"
 github-username: fatimargz
 linkedin-profile: https://www.linkedin.com/in/fatimargz/
-orcid: 
+orcid:
 title: Graduate Student
 website: https://www.c2thep2.org/people/fatima-rodriguez/
 logos:
