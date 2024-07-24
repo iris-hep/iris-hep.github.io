@@ -31,7 +31,7 @@ My thesis, I'm starting my 6th year..
 
 ## I want to know more about:
 <<<<<<< HEAD
-Optimizing my scripts to be memory efficient and make better use of GPUs and other resources. 
+Optimizing my scripts to be memory efficient and make better use of GPUs and other resources.
 =======
 Optimizing my scripts to be memory efficient and make better use of GPUs and other resources.
 >>>>>>> e95afd43cb31325abc57361b676303b11a4b4955
