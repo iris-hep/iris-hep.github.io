@@ -3,16 +3,16 @@ layout: codas-hep-participant
 e-mail: luke.vaughan@okstate.edu
 institution: Oklahoma State University
 name: Luke Vaughan
-photo: "/assets/images/codas-hep/2024/Luke-Vaughan.jpg"
+photo: "/assets/images/codas-hep/2024/Luke-Vaughan.png"
 github-username: LukeV37
 linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid:
 title:
 website:
 logos:
-    - /assets/images/codas-hep/logos/ATLAS-logo.jpg
+    - /assets/images/codas-hep/logos/ATLAS-logo.png
     - /assets/images/codas-hep/logos/okstate-logo.png
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/CERN_logo.png
 ---
 
 ## My research:
