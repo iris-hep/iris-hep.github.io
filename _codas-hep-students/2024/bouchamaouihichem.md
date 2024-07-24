@@ -11,8 +11,7 @@ title:
 website: https://hboucham.web.cern.ch
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
----
+    - /assets/images/codas-hep/logos/Princeton_logo.png
 
 ## My research:
 I work with CMS and have worked on several Tracking projects with the goal of
@@ -31,5 +30,9 @@ I have quite a few related to my analysis, but that's an average work day.
 My thesis, I'm starting my 6th year..
 
 ## I want to know more about:
+<<<<<<< HEAD
 Optimizing my scripts to be memory efficient and make better use of GPUs and other resources.
+=======
+Optimizing my scripts to be memory efficient and make better use of GPUs and other resources.
+>>>>>>> e95afd43cb31325abc57361b676303b11a4b4955
 
