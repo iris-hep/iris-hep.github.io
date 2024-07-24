@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: veena.balakrishnan-1@ou.edu
 institution: University of Oklahoma
 name: Veena Balakrishnan
-photo: "/assets/images/codas-hep/2024/Veena-Balakrishnan.jpg"
+photo: "/assets/images/codas-hep/2024/Veena-Balakrishnan.png"
 github-username: veenabala123
 linkedin-profile: https://www.linkedin.com/in/veena-balakrishnan-4a1086210/
 orcid:
