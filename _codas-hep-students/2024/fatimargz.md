@@ -12,7 +12,7 @@ website: https://www.c2thep2.org/people/fatima-rodriguez/
 logos:
     - /assets/images/codas-hep/logos/ATLAS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
-    - /assets/images/codas-hep/logos/NIU.png
+    - /assets/logos/NIU.png
 ---
 
 ## My research:
