@@ -10,9 +10,9 @@ orcid:
 title:
 website:
 logos:
-    - /assets/images/codas-hep/logos/ATLAS-logo.jpg
+    - /assets/images/codas-hep/logos/ATLAS-logo.png
     - /assets/images/codas-hep/logos/okstate-logo.png
-    - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/CERN_logo.png
 ---
 
 ## My research:
