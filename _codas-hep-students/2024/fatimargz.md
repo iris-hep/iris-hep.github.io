@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: fatima@niu.edu
 institution: Northern Illinois University
 name: Fatima Rodriguez
-photo: "/assets/images/codas-hep/2024/Fatima-Rodriguez.jpg"
+photo: "/assets/images/codas-hep/2024/Fatima-Rodriguez.png"
 github-username: fatimargz
 linkedin-profile: https://www.linkedin.com/in/fatimargz/
 orcid:
