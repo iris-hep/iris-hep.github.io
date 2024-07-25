@@ -12,7 +12,7 @@ website: https://sophiascarano.github.io/
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/University_of_Maryland_seal.svg.png
-
+---
 
 ## My research:
 SUSY (theory); HHbbWW searches (experimental)

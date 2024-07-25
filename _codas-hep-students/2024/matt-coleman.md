@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: msbc@princeton.edu
 institution: Princeton University
 name: Matt Coleman
-photo: "/assets/images/codas-hep/2024/matt-coleman.jpg"
+photo: "/assets/images/codas-hep/2024/matt_coleman.jpg"
 github-username: msbc
 linkedin-profile: https://www.linkedin.com/in/matt-sb-coleman/
 orcid: 0000-0001-5939-5957
