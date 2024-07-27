@@ -13,17 +13,4 @@ logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
-## My research:
-TO-EDIT
 
-## My expertise is:
-TO-EDIT
-
-## A problem I'm grappling with:
-TO-EDIT
-
-## I've got my eyes on:
-TO-EDIT
-
-## I want to know more about:
-TO-EDIT
