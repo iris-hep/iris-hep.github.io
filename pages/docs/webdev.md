@@ -11,7 +11,9 @@ The website source is available at <https://github.com/iris-hep/iris-hep.github.
 
 You can always click the edit button to make small edits to the website source, but if you want to test locally or make larger edits, you'll want to clone the source for the website and build it with Ruby.
 
-### Installing Ruby
+### Manual environment control
+
+#### Installing Ruby
 
 Visit [this page](https://jekyllrb.com/docs/installation/) for information about installing Ruby if your current version is too old; the instructions there form the basis for what you see here, and come in variants for all major operating systems.
 You should have Ruby 2.6+ for Jekyll; 3.1 recommended and used in CI. You can use rbenv to manage multiple ruby versions. On macOS with homebrew, you'll want:
@@ -42,8 +44,7 @@ gem install bundle
 you don't have permission to install, and you are using rbenv, this means you
 forgot to set it up with `rbenv init`.)
 
-
-### Running locally
+#### Running locally
 
 The site is built with Jekyll, and is easy to run locally if you have Ruby.
 
@@ -76,6 +77,38 @@ bundle exec rake checkall
 ```
 
 If you are not familiar with it, `rake` is short for "Ruby make". The `clean` and `clobber` targets are available (the later removes the Inspire-HEP cache as well). You can also run `bundle exec jekyll ...` directly.
+
+### Using `pixi`
+
+#### Setup
+
+[Install `pixi`](https://pixi.sh/latest/#installation) and then (optionally) from the top level of the repository run
+
+```console
+pixi install
+```
+
+#### Running locally
+
+Use the `pixi` task runner to execute the tasks defined in `pixi.toml`.
+
+First install the local Ruby "bundle"
+
+```console
+pixi run install
+```
+
+and then run any defined task with `pixi run` such as building and serving the website with
+
+```console
+pixi run serve
+```
+
+Any of the commands shown above in the "manual environment control" section above can be used by launching an interactive shell with the `pixi` environment activated with
+
+```console
+pixi shell
+```
 
 ### Updating javascript files
 
