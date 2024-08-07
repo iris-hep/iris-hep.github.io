@@ -90,7 +90,11 @@ pixi install
 
 #### Running locally
 
-Use the `pixi` task runner to execute the tasks defined in `pixi.toml`.
+Use the `pixi` task runner to execute the tasks defined in `pixi.toml`, which can be listed at the command line with
+
+```console
+pixi info
+```
 
 First install the local Ruby "bundle"
 
