@@ -22,5 +22,5 @@ proposal: /assets/pdf/fellows-2024/LIT106-proposal-Liudas-Ablacinskas.pdf
 presentations:
 current_status: >
 github-username: <Ludsabl>
-linkedin-profile: 
+linkedin-profile:
 ---
