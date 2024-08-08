@@ -93,6 +93,12 @@ pixi install
 Use the `pixi` task runner to execute the tasks defined in `pixi.toml`, which can be listed at the command line with
 
 ```console
+pixi task list
+```
+
+or
+
+```console
 pixi info
 ```
 
