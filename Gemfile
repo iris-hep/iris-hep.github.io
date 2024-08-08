@@ -12,7 +12,7 @@ ruby '>= 2.6.0'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem 'jekyll', '~> 4.2.0'
+gem 'jekyll', '~> 4.3.0'
 
 # This is needed for GitHub Flavored Markdown
 gem 'kramdown-parser-gfm'
@@ -36,7 +36,7 @@ gem 'minima', '~> 2.5'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-feed', '~> 0.16'
+  gem 'jekyll-feed', '~> 0.17'
   gem 'jekyll-include-cache'
   gem 'jekyll-indico', '~> 0.6.2'
   # gem 'jekyll-indico', github: 'iris-hep/jekyll-indico', branch: 'main'
