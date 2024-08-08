@@ -238,6 +238,8 @@ PLATFORMS
 
 DEPENDENCIES
   benchmark
+  base64
+  csv
   html-proofer
   jekyll
   jekyll-feed
