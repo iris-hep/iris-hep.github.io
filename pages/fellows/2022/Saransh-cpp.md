@@ -53,7 +53,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1374922
   location: online
   focus-area: as
-  project: vector
+  project: awkward
 - title: What's new with Vector? First major release is out!
   date: 2023-10-09
   url: https://indi.to/35ym5
@@ -70,7 +70,9 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1106990
   location: Bari, Italy
   focus-area: as
-  project: vector
+  project:
+    - vector
+    - awkward
 - title: Vector - Constructors, documentation, and benchmarks
   date: 2022-10-05
   url: https://indico.cern.ch/event/1195273/contributions/5075655/attachments/2522735/4338115/IRIS-HEP%20final%20presentation%20-%20Saransh%20Chopra.pdf

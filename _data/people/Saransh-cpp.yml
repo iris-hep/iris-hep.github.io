@@ -25,7 +25,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1374922
     location: online
     focus-area: as
-    project: vector
+    project: awkward
 
   - title: What's new with Vector? First major release is out!
     date: 2023-10-09
@@ -44,7 +44,9 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1106990
     location: Bari, Italy
     focus-area: as
-    project: vector
+    project:
+      - vector
+      - awkward
 
   - title: Vector - Constructors, documentation, and benchmarks
     date: 2022-10-05
