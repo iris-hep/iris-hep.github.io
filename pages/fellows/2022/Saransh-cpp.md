@@ -43,6 +43,7 @@ presentations:
   url: https://indi.to/pfTC6
   meeting: PyHEP 2024 (virtual) Workshop
   meetingurl: https://indico.cern.ch/event/1384010/
+  recordingurl: https://youtu.be/6x1kQy5cQlc
   location: online
   focus-area: as
   project: vector
