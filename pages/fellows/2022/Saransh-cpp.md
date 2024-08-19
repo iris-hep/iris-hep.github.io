@@ -38,6 +38,22 @@ mentors:
   - Jim Pivarski (Princeton University)
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
+- title: "A new SymPy backend for vector: uniting experimental and theoretical physicists"
+  date: 2024-07-03
+  url: https://indi.to/pfTC6
+  meeting: PyHEP 2024 (virtual) Workshop
+  meetingurl: https://indico.cern.ch/event/1384010/
+  location: online
+  focus-area: as
+  project: vector
+- title: Enabling auto-differentiation for the Scikit-HEP ecosystem
+  date: 2024-02-26
+  url: https://indico.cern.ch/event/1374922/contributions/5778611/attachments/2807131/4900286/autodiff-for-scikithep.pdf
+  meeting: Research Software Intern Talks
+  meetingurl: https://indico.cern.ch/event/1374922
+  location: online
+  focus-area: as
+  project: awkward
 - title: What's new with Vector? First major release is out!
   date: 2023-10-09
   url: https://indi.to/35ym5
@@ -47,6 +63,16 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=JHEAb2R3xzE&list=PLKZ9c4ONm-VlAorAG8kR09ZqhMfHiH2LJ&index=11
   focus-area: as
   project: vector
+- title: Compiling Awkward Lorentz Vectors with Numba
+  date: 2022-10-27
+  url: https://indi.to/d6LBZ
+  meeting: 21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+  meetingurl: https://indico.cern.ch/event/1106990
+  location: Bari, Italy
+  focus-area: as
+  project:
+    - vector
+    - awkward
 - title: Vector - Constructors, documentation, and benchmarks
   date: 2022-10-05
   url: https://indico.cern.ch/event/1195273/contributions/5075655/attachments/2522735/4338115/IRIS-HEP%20final%20presentation%20-%20Saransh%20Chopra.pdf
@@ -74,7 +100,7 @@ presentations:
   focus-area: as
   project: vector
 current_status: >
-  <strong> January - June 2024 </strong> - Research Intern at IRIS-HEP/Princeton Research Computing Group, based at CERN
+  <strong> August 2024 </strong> - Assistant Research Software Engineer at Centre for Advanced Research Computing, University College London
 github-username: Saransh-cpp
 linkedin-profile: https://www.linkedin.com/in/saransh-cpp/
 ---
