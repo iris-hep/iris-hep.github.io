@@ -35,7 +35,7 @@ projects:
     Pythia is a cornerstone C++ package used in particle physics for simulating high-energy collisions. Although Pythia's current Python interface is excellent for prototyping due to its comprehensive feature set, including bi-directional bindings, it becomes inefficient when analyzing large datasets because of its one-event-at-a-time approach. This project aims to develop an array-oriented Python interface for Pythia, leveraging the Awkward Array library to enhance performance and usability, particularly in interactive environments like Jupyter notebooks. By focusing on a streamlined feature set optimized for speed, this new interface will facilitate more efficient data handling, enabling the usage of Pythia through the Python interface for large-scale production-level simulation.
   mentors:
   - Jim Pivarski, Philip James Ilten
-  proposal: assets/pdf/fellows-2024/UKR016-proposal-Artem-Havryliuk.pdf
+  proposal: /assets/pdf/fellows-2024/UKR016-proposal-Artem-Havryliuk.pdf
 
 
 
