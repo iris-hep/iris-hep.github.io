@@ -23,5 +23,5 @@ proposal: /assets/pdf/fellows-2024/UKR111-proposal-Oleksandr-Shelestiuk.pdf
 presentations:
 current_status:
 github-username: OleksandrShelestiuk
-linkedin-profile: linkedin.com/in/oleksandr-shelestiuk-054a30270
+linkedin-profile: https://www.linkedin.com/in/oleksandr-shelestiuk-054a30270
 ---
