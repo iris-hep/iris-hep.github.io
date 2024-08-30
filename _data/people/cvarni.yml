@@ -211,3 +211,101 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1244913/
     project: acts
     focus-area: ia
+  - title: How to integrate ACTS into Athena
+    date: 2023-05-15
+    url: https://indico.cern.ch/event/1258574/
+    meeting: Inner Detector Tracking Workshop 2023
+    meetingurl: https://indico.cern.ch/event/1258574/
+    project: acts
+    focus-area: ia
+  - title: ACTS Integration into Athena
+    date: 2023-09-12
+    url: https://indico.cern.ch/event/1300675/
+    meeting: ATLAS ITk Meeting
+    meetingurl: https://indico.cern.ch/event/1300675/
+    project: acts
+    focus-area: ia
+  - title: ACTS Track Reconstruction and Support for Regional Tracking
+    date: 2023-09-22
+    url: https://indico.cern.ch/event/1321197/
+    meeting: ATLAS ACTS-ITk Meeting
+    meetingurl: https://indico.cern.ch/event/1321197/
+    project: acts
+    focus-area: ia
+  - title: Upgrade Physics and Software Report
+    date: 2023-10-17
+    url: https://indico.cern.ch/event/1318605/
+    meeting: ATLAS Collaboration Week
+    meetingurl:	https://indico.cern.ch/event/1318605/
+    project: acts
+    focus-area: ia   
+  - title: ATLAS ACTS Infrastructure
+    date: 2023-11-08
+    url: https://indico.cern.ch/event/1295479/
+    meeting: ACTS Developers Workshop
+    meetingurl:	https://indico.cern.ch/event/1295479/
+    project: acts
+    focus-area: ia
+  - title: Upgrade Software status and ACTS integration
+    date: 2023-11-14
+    url: https://indico.cern.ch/event/1344120/
+    meeting: ATLAS Upgrade Week
+    meetingurl: https://indico.cern.ch/event/1344120/
+    project: acts
+    focus-area: ia
+  - title: Upgrade Tracking 2024 goals
+    date: 2023-12-14
+    url: https://indico.cern.ch/event/1356849/
+    meeting: ATLAS Upgrade Physics Meeting
+    meetingurl: https://indico.cern.ch/event/1356849/
+    project: acts
+    focus-area: ia
+  - title: ACTS Integraton into Athena
+    date: 2024-01-11
+    url: https://indico.cern.ch/event/1234213/
+    meeting: Annual LBNL ATLAS Meeting
+    meetingurl:	https://indico.cern.ch/event/1234213/
+    project: acts
+    focus-area: ia
+  - title: ACTS-based Conversion Tracking Pass
+    date: 2024-02-09
+    url: https://indico.cern.ch/event/1354972/
+    meeting: ATLAS ACTS-ITk Meeting
+    meetingurl: https://indico.cern.ch/event/1354972/
+    project: acts
+    focus-area: ia
+  - title: From Upgrade on Run 4 object reconstruction, progress and plans
+    date: 2024-02-14
+    url: https://indico.cern.ch/event/1347835
+    meeting: ATLAS Collaboration Week
+    meetingurl: https://indico.cern.ch/event/1347835
+    project: acts
+    focus-area: ia
+  - title: ACTS Integration Updates
+    date: 2024-03-01
+    url: https://indico.cern.ch/event/1354975/
+    meeting: ATLAS ACTS-ITk Meeting
+    meetingurl:	https://indico.cern.ch/event/1354975/
+    project: acts
+    focus-area: ia
+  - title: Upgrade Tracking Report
+    date: 2024-03-19
+    url: https://indico.cern.ch/event/1353986/
+    meeting: ATLAS ITk Meeting
+    meetingurl: https://indico.cern.ch/event/1353986/
+    project: acts
+    focus-area: ia
+  - title: ACTS Integration Updates
+    date: 2024-05-03
+    url: https://indico.cern.ch/event/1354984/
+    meeting: ATLAS ACTS-ITk Meeting
+    meetingurl: https://indico.cern.ch/event/1354984/
+    project: acts
+    focus-area: ia
+  - title: Upgrade Tracking Report
+    date: 2024-06-04
+    url: https://indico.cern.ch/event/1353996/
+    meeting: ATLAS ITk Meeting
+    meetingurl:	https://indico.cern.ch/event/1353996/
+    project: acts
+    focus-area: ia
