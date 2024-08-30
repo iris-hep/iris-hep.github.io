@@ -236,14 +236,14 @@ presentations:
     date: 2023-10-17
     url: https://indico.cern.ch/event/1318605/
     meeting: ATLAS Collaboration Week
-    meetingurl:	https://indico.cern.ch/event/1318605/
+    meetingurl: https://indico.cern.ch/event/1318605/
     project: acts
-    focus-area: ia   
+    focus-area: ia
   - title: ATLAS ACTS Infrastructure
     date: 2023-11-08
     url: https://indico.cern.ch/event/1295479/
     meeting: ACTS Developers Workshop
-    meetingurl:	https://indico.cern.ch/event/1295479/
+    meetingurl: https://indico.cern.ch/event/1295479/
     project: acts
     focus-area: ia
   - title: Upgrade Software status and ACTS integration
@@ -264,7 +264,7 @@ presentations:
     date: 2024-01-11
     url: https://indico.cern.ch/event/1234213/
     meeting: Annual LBNL ATLAS Meeting
-    meetingurl:	https://indico.cern.ch/event/1234213/
+    meetingurl: https://indico.cern.ch/event/1234213/
     project: acts
     focus-area: ia
   - title: ACTS-based Conversion Tracking Pass
@@ -285,7 +285,7 @@ presentations:
     date: 2024-03-01
     url: https://indico.cern.ch/event/1354975/
     meeting: ATLAS ACTS-ITk Meeting
-    meetingurl:	https://indico.cern.ch/event/1354975/
+    meetingurl: https://indico.cern.ch/event/1354975/
     project: acts
     focus-area: ia
   - title: Upgrade Tracking Report
@@ -306,6 +306,6 @@ presentations:
     date: 2024-06-04
     url: https://indico.cern.ch/event/1353996/
     meeting: ATLAS ITk Meeting
-    meetingurl:	https://indico.cern.ch/event/1353996/
+    meetingurl: https://indico.cern.ch/event/1353996/
     project: acts
     focus-area: ia
