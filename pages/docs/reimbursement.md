@@ -88,3 +88,15 @@ Please note the following:
   * Meeting Dates: 22-26 July, 2024
   * Business purpose: Participation in CoDaS-HEP 2024 Summer School
   * "event-prefix" for pdf file naming: CoDaS-HEP
+
+#### [IRIS-HEP Institute Retreat 2024](https://indico.cern.ch/event/1374962/)
+  * Location: Seattle, WA
+  * Meeting Dates: 4-6 September, 2024
+  * Business purpose: Participation in IRIS-HEP Institute Retreat 2024
+  * "event-prefix" for pdf file naming: IRIS-HEP-Retreat
+
+#### [MODE Differentiable Programming Workshop 2024](https://indico.cern.ch/event/1380163/)
+  * Location: Valencia, Spain
+  * Meeting Dates: 23-25 September, 2024
+  * Business purpose: Participation in MODE Differentiable Programming Workshop 2024
+  * "event-prefix" for pdf file naming: MODE
