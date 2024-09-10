@@ -69,25 +69,13 @@ Please note the following:
   * Send the single pdf as an attachment in email to [participant-reimbursement@iris-hep.org](mailto:participant-reimbursement@iris-hep.org) with an email subject line including your name and the word "reimbursement".
 
 
-### Notes for specific events and workshops
+### Notes for specific events and workshops (reverse chronological order)
 
-#### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/820946)
-  * Location: Princeton, NJ
-  * Meeting Dates: 20-21 June, 2024
-  * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
-  * "event-prefix" for pdf file naming: USCMS
-
-#### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1376945/)
-  * Location: Seattle, WA
-  * Meeting Dates: 18-19 July, 2024
-  * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
-  * "event-prefix" for pdf file naming: USATLAS
-
-#### [CoDaS-HEP 2024 Summer School](https://codas-hep.org)
-  * Location: Princeton, NJ
-  * Meeting Dates: 22-26 July, 2024
-  * Business purpose: Participation in CoDaS-HEP 2024 Summer School
-  * "event-prefix" for pdf file naming: CoDaS-HEP
+#### [MODE Differentiable Programming Workshop 2024](https://indico.cern.ch/event/1380163/)
+  * Location: Valencia, Spain
+  * Meeting Dates: 23-25 September, 2024
+  * Business purpose: Participation in MODE Differentiable Programming Workshop 2024
+  * "event-prefix" for pdf file naming: MODE
 
 #### [IRIS-HEP Institute Retreat 2024](https://indico.cern.ch/event/1374962/)
   * Location: Seattle, WA
@@ -95,8 +83,28 @@ Please note the following:
   * Business purpose: Participation in IRIS-HEP Institute Retreat 2024
   * "event-prefix" for pdf file naming: IRIS-HEP-Retreat
 
-#### [MODE Differentiable Programming Workshop 2024](https://indico.cern.ch/event/1380163/)
-  * Location: Valencia, Spain
-  * Meeting Dates: 23-25 September, 2024
-  * Business purpose: Participation in MODE Differentiable Programming Workshop 2024
-  * "event-prefix" for pdf file naming: MODE
+#### [CoDaS-HEP 2024 Summer School](https://codas-hep.org)
+  * Location: Princeton, NJ
+  * Meeting Dates: 22-26 July, 2024
+  * Business purpose: Participation in CoDaS-HEP 2024 Summer School
+  * "event-prefix" for pdf file naming: CoDaS-HEP
+
+#### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1376945/)
+  * Location: Seattle, WA
+  * Meeting Dates: 18-19 July, 2024
+  * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
+  * "event-prefix" for pdf file naming: USATLAS
+
+#### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/820946)
+  * Location: Princeton, NJ
+  * Meeting Dates: 20-21 June, 2024
+  * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
+  * "event-prefix" for pdf file naming: USCMS
+
+
+
+
+
+
+
+
