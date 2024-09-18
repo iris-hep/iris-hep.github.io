@@ -793,7 +793,7 @@ presentations:
   - title: "Setting the Scene"
     date: 2024-08-19
     url: https://github.com/jpivarski-talks/2024-08-19-python-school-setting-stage
-    meeting: "Fast and Efficient Python Programmming School"
+    meeting: "Fast and Efficient Python Programming School"
     meetingurl: https://indico.desy.de/event/40133/
     location: Aachen, Germany
     focus-area:
