@@ -10,7 +10,7 @@ title: "Documentation pages for the IRIS-HEP team"
 
 * [Acknowledgements](/docs/acknowledgements)
 * [Logos and colors](/docs/logo)
-* [NSF / IRIS-HEP Monthly Meetings and Reviews](/nsf)
+* [NSF / IRIS-HEP monthly meetings and reviews](/nsf)
 * [Preparing the annual IRIS-HEP SOWs](/docs/sows)
 * [Related projects](/docs/related-projects)
 
