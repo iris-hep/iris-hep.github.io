@@ -28,4 +28,4 @@ team:
 
 [Uproot](https://github.com/scikit-hep/uproot5) is a library for reading and writing ROOT files in pure Python and NumPy.
 
-Unlike the standard C++ ROOT implementation, Uproot is only an I/O library, primarily intended to stream data into machine learning libraries in Python. Unlike PyROOT and root_numpy, Uproot does not depend on C++ ROOT. Instead, it uses Numpy to cast blocks of data from the ROOT file as Numpy arrays.
+Unlike the standard C++ ROOT implementation, Uproot is only an I/O library, primarily intended to stream data into machine learning libraries in Python. Unlike PyROOT and root_numpy, Uproot does not depend on C++ ROOT. Instead, it uses NumPy to cast blocks of data from the ROOT file as NumPy arrays.
