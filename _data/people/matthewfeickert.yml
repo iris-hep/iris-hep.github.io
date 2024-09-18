@@ -467,3 +467,30 @@ presentations:
     location: Berkeley, U.S.A.
     focus-area: as
     project:
+
+  - title: "Coffea columnar analysis framework"
+    date: 2024-06-18
+    url: https://indico.cern.ch/event/1376945/contributions/5787150/
+    meeting: "US ATLAS / IRIS-HEP Analysis Software Training Event"
+    meetingurl: https://indico.cern.ch/event/1376945/
+    location: Seattle, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Distributing your Science: Turning analyses into scientific tools"
+    date: 2024-06-29
+    url: https://matthewfeickert-talks.github.io/talk-urssi-summer-school-2024/
+    meeting: "US Research Software Sustainability Institute (URSSI) Summer School on Research Software and Open Science"
+    meetingurl: https://github.com/si2-urssi/summerschool-July2024
+    location: Urbana, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Analysis Systems Focus Area Summary"
+    date: 2024-09-04
+    url: https://indico.cern.ch/event/1374962/contributions/5778772/subcontributions/463287
+    meeting: "IRIS-HEP Institute Retreat 2024"
+    meetingurl: https://indico.cern.ch/event/1374962/
+    location: Seattle, U.S.A.
+    focus-area: as
+    project:
