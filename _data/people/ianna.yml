@@ -8,7 +8,7 @@ name: Ianna Osborne
 photo: "/assets/images/team/Ianna-Osborne.png"
 shortname: ianna
 title: Research Software Engineer
-website:
+website: https://github.com/ianna
 presentations:
   - title: "Bridging Python and Julia for Enhanced Data Analysis"
     date: 2024-08-29
