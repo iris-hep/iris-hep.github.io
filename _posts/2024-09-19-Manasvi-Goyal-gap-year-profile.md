@@ -40,7 +40,7 @@ Heading into her senior year, Goyal then successfully applied to IRIS-HEP as a s
 
 Initially, her IRIS-HEP gap year project at CERN focused on furthering Awkward Array work she had continued pursuing as a software developer at the University of Colorado in February 2023, during her last semester of studies. That developer work overlapped with the new IRIS-HEP project, which started in June 2023. In October 2023, Goyal then shifted gears to a similar project developing graphics processing unit (GPU) support for Awkward Arrays. “My main task was to add the CUDA kernels to make Awkward Array functions work for GPUs,” she says.
 
-GPUs were originally developed for computer gaming, but in the 2000s computer scientists began harnessing these processors for high-performance computing. Compared to the more-familiar CPUs (central processing units) found in everyday computers, which deal with one instruction at a time in a sequential manner, GPUs offer the advantage of parallel processing, meaning they can handle multiple instructions simultaneously, thus speeding up overall number-crunching. 
+GPUs were originally developed for computer gaming, but in the 2000s computer scientists began harnessing these processors for high-performance computing. Compared to the more-familiar CPUs (central processing units) found in everyday computers, which deal with one instruction at a time in a sequential manner, GPUs offer the advantage of parallel processing, meaning they can handle multiple instructions simultaneously, thus speeding up overall number-crunching.
 
 “For CPUs, where the code runs serially, you can write a function that allows you to perform the same task repeatedly in a loop. But for GPUs, the main task is to execute tasks in parallel instead of sequentially,” explains Goyal. “My task was to develop algorithms that work in a parallel fashion.”
 
@@ -56,7 +56,7 @@ The integral nature of computing for advancing high-energy physics was eye-openi
 
 Although Goyal had other gap year opportunities, a big reason she picked the IRIS-HEP project was for its open-source nature, meaning the coding she helps create is available for all users to view and use. “With open source, I can see my work being implemented and actively utilized by the users, which is incredibly rewarding,” Goyal says.
 
-Looking ahead, Goyal will be conducting research on representation engineering in large language models at Harvard. Ultimately, Goyal envisions herself working in software engineering, perhaps for a company's research department. 
+Looking ahead, Goyal will be conducting research on representation engineering in large language models at Harvard. Ultimately, Goyal envisions herself working in software engineering, perhaps for a company's research department.
 
 Over the course of her journey through computer science, Goyal has sought to make it easier for other women to achieve in a field that has historically been predominantly male. “I actively work on empowering women in computing,” Goyal says. For instance, she is a mentor in CERN’s Women in Technology program and has enjoyed many valuable, inspiring conversations with colleagues and fellow young learners. “I like sharing my experiences with other students to help them grow,” Goyal says.
 
