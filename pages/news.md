@@ -30,6 +30,3 @@ title: "News, Featured Stories and Links"
 
 
 *IRIS-HEP is pleased to see our news stories reposted on the websites of other organizations. The stories should be reposted with credits to the IRIS-HEP website and the original authors, as well as a link to the original posting. Any alterations to the text or images for the reposting should be agreed by the IRIS-HEP Communications team.  Please email <mailto:owner@iris-hep.org>.*
-
-
-
