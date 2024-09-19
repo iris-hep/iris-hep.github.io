@@ -24,7 +24,7 @@ The IRIS\-HEP program welcomed Manasvi Goyal for two fellowships, originally as 
 
 “My internships were very helpful for building a profile in computing,” says Goyal. “I had great experiences where I got to interact and collaborate with different kinds of people for the projects and at conferences.”
 
-Goyal’s undergraduate academic background at the Delhi Technological University had originally centered more on industrial engineering. Yet during her studies, she got the chance to contribute to projects that involved computing and related technologies, such as machine learning, piquing her interest. Internships that proceeded at organizations including EY, INSEAD and The University of Auckland, all focused on software, deepening the subject’s appeal. 
+Goyal’s undergraduate academic background at the Delhi Technological University had originally centered more on industrial engineering. Yet during her studies, she got the chance to contribute to projects that involved computing and related technologies, such as machine learning, piquing her interest. Internships that proceeded at organizations including EY, INSEAD and The University of Auckland, all focused on software, deepening the subject’s appeal.
 
 Heading into her senior year, Goyal then successfully applied to IRIS\-HEP as a software development intern, essentially cementing her career ambitions. “My work with Princeton really helped me realize that I am more interested in software engineering than industrial engineering,” Goyal says.
 
