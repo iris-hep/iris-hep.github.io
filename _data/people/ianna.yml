@@ -20,6 +20,16 @@ presentations:
       - as
     project:
       - awkward
+  - title: "Columnar Data Analysis"
+    date: 2024-07-24
+    url: https://github.com/ianna/2024-07-24-codas-hep-columnar-data-analysis
+    meeting: Sixth Computational and Data Science school for HEP (CoDaS-HEP 2024)
+    meetingurl: https://indico.cern.ch/event/1422680/timetable/
+    location: Princeton University
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "AwkwardArrays in Julia for High-Energy Physics Data Analysis"
     date: 2024-07-03
     url: https://indi.to/rMzSy
