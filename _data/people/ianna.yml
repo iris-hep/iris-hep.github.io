@@ -28,7 +28,7 @@ presentations:
     location: Princeton University
     focus-area:
       - as
-    project: 
+    project:
       - awkward
   - title: "AwkwardArrays in Julia for High-Energy Physics Data Analysis"
     date: 2024-07-03
