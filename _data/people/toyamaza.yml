@@ -1,0 +1,45 @@
+active: true
+e-mail: tomohiro.yamazaki@cern.ch
+focus-area:
+  - ia
+institution: University of California, Berkeley
+name: Tomohiro Yamazaki
+photo: "/assets/images/team/Tomohiro-Yamazaki.jpeg"
+shortname: toyamaza
+title: Postdoctoral researcher
+presentations:
+  - title: ACTS in ATLAS
+    date: 2023-11-10
+    meeting: ACTS Developer Workshop 2023
+    url: https://indico.cern.ch/event/1295479/contributions/5635020/
+    meetingurl: https://indico.cern.ch/event/1295479/
+    project: acts
+    location: CERN
+  - title: ACTS GSF with ITk
+    date: 2024-01-31
+    meeting: ATLAS Upgrade Tracking Meeting
+    url: https://indico.cern.ch/event/1372820/contributions/5779153/
+    meetingurl: https://indico.cern.ch/event/1372820/contributions/5779153/
+    project: acts
+    location: CERN
+  - title: ACTS GSF with ITk
+    date: 2024-02-21
+    meeting: ATLAS Upgrade Tracking Meeting
+    url: https://indico.cern.ch/event/1380090/contributions/5803392/
+    meetingurl: https://indico.cern.ch/event/1380090/
+    project: acts
+    location: CERN
+  - title: ACTS GSF with ITk
+    date: 2024-04-10
+    meeting: ATLAS Upgrade Tracking Meeting
+    url: https://indico.cern.ch/event/1401926/contributions/5901574/
+    meetingurl: https://indico.cern.ch/event/1401926/
+    project: acts
+    location: CERN
+  - title: ACTS-ITk Status
+    date: 2024-05-15
+    meeting: ATLAS Upgrade Tracking Meeting
+    url: https://indico.cern.ch/event/1406571/contributions/5956400/
+    meetingurl: https://indico.cern.ch/event/1406571/
+    project: acts
+    location: CERN
