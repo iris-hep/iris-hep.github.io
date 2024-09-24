@@ -494,3 +494,12 @@ presentations:
     location: Seattle, U.S.A.
     focus-area: as
     project:
+
+  - title: "Building a Columnar Analysis Demonstrator for ATLAS PHYSLITE Open Data using the Python Ecosystem"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6015915/
+    meeting: "CHEP 2024 Conference"
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: Kraków, Poland
+    focus-area: as
+    project:
