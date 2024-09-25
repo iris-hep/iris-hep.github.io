@@ -309,3 +309,11 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1353996/
     project: acts
     focus-area: ia
+  - title: Integration of the ACTS track reconstruction toolkit in the ATLAS software for HL-LHC operations
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6010265/
+    meeting: "CHEP 2024 - Conference on Computing in High Energy Physics"
+    meetingurl: https://indico.cern.ch/event/1338689/
+    project: acts
+    focus-area: ia
+    location: Krakow, Poland
