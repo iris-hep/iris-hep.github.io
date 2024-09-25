@@ -438,3 +438,11 @@ presentations:
     focus-area:
       - as
     location: Tacoma, WA
+  - title: "Leveraging Language Models to Navigate Conference Abstracts: An Open-Source Approach"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6011147/
+    meetingurl: https://indico.cern.ch/event/1338689
+    meeting: "CHEP 2024 - Converence on Computing in High Energy Physics"
+    focus-area:
+      - as
+    location: Krakow, Poland
