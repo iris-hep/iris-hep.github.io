@@ -20,6 +20,16 @@ presentations:
       - as
     project:
       - awkward
+  - title: "Power of Python and Julia for Advanced Data Analysis"
+    date: 2024-09-30
+    url: https://indico.cern.ch/event/1410341/contributions/6135605/
+    meeting: JuliaHEP 2024 workshop
+    meetingurl: https://indico.cern.ch/event/1410341/
+    location: CERN, Switzerland
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Bridging Python and Julia for Enhanced Data Analysis"
     date: 2024-08-29
     url: https://indi.to/3TxKJ
