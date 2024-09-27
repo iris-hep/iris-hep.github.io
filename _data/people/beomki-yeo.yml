@@ -8,7 +8,7 @@ photo: "/assets/images/team/beomki-yeo.png"
 shortname: beomki-yeo
 title: Post-doctoral researcher
 presentations:
-  - title: traccc: GPU track reconstruction library for HEP experiments
+  - title: "traccc: GPU track reconstruction library for HEP experiments"
     date: 2024-10-23
     url: https://indico.cern.ch/event/1338689/contributions/6010050/
     meetingurl: https://indico.cern.ch/event/1338689
