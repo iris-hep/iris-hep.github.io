@@ -8,6 +8,13 @@ photo: "/assets/images/team/beomki-yeo.png"
 shortname: beomki-yeo
 title: Post-doctoral researcher
 presentations:
+  - title: "traccc: GPU track reconstruction library for HEP experiments"
+    date: 2024-10-23
+    url: https://indico.cern.ch/event/1338689/contributions/6010050/
+    meetingurl: https://indico.cern.ch/event/1338689
+    meeting: "CHEP 2024 - Conference on Computing in High Energy Physics"
+    focus-area: as
+    location: Krakow, Poland
   - title: GPU Demonstrator for ACTS Track Reconstruction
     date: 2021-05-15
     meeting: NSF review
