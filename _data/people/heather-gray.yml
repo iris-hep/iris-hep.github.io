@@ -8,6 +8,20 @@ shortname: heather-gray
 title: Innovative Algorithms Area <nobr>co-Lead</nobr>
 website: https://atlas.cern/authors/heather-gray
 presentations:
+  - title: "Software and Computing at CERN for the LHC and Beyond"
+    date: 2024-09-18
+    meeting: CERN School of Computing
+    url: https://indico.cern.ch/event/1376644/timetable/
+    focus-area: ia
+    project: acts
+  - title: "Challenges and Opportunities in Software & Computing for Future Colliders"
+    date: 2024-03-28
+    meeting: The Future of High Energy Physics: A New Generation, A New Vision
+    url: https://indico.cern.ch/event/1305841/timetable/?view=standard_numbered
+    focus-area: ia
+    project: acts
+    labels:
+      - conference
   - title: "HEP software: overview and future challenges"
     date: 2022-07-12
     meeting: ICHEP
