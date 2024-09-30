@@ -9,12 +9,11 @@ shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 presentations:
-
   - title: Tuning the CMS Coffea-casa facility for 200 Gbps Challenge
     date: 2024-11-24
     url: https://indico.cern.ch/event/1338689/contributions/6010711/
     meeting: Conference on Computing in High Energy and Nuclear Physics (CHEP 2024)
-    meetingurl: https://indico.cern.ch/event/1338689/ 
+    meetingurl: https://indico.cern.ch/event/1338689/
     location: Krakov, Poland
     focus-area:
       - as
@@ -27,7 +26,7 @@ presentations:
     date: 2024-09-04
     url: https://indico.desy.de/event/44722/contributions/168263/attachments/90925/122705/AGC%20-%20Munich.pdf
     meeting: IRIS-HEP Institute Retreat 2024
-    meetingurl: https://indico.cern.ch/event/1374962/  
+    meetingurl: https://indico.cern.ch/event/1374962/
     location: Seattle, USA
     focus-area:
       - as
@@ -40,8 +39,8 @@ presentations:
     date: 2024-09-02
     url: https://indico.cern.ch/event/1411901/contributions/6077584/attachments/2919064/5123263/HSF-AF%20whitepaper_india.pdf
     meeting: The 8th Asian Tier Center Forum
-    meetingurl: https://indico.cern.ch/event/1411901/  
-    location:  TIFR, Mumbai, India
+    meetingurl: https://indico.cern.ch/event/1411901/
+    location: TIFR, Mumbai, India
     focus-area:
       - as
       - doma
@@ -53,7 +52,7 @@ presentations:
     date: 2024-06-18
     url: https://indico.desy.de/event/44722/contributions/168263/attachments/90925/122705/AGC%20-%20Munich.pdf
     meeting: Analysis Facilities Workshop
-    meetingurl: https://indico.desy.de/event/44722/ 
+    meetingurl: https://indico.desy.de/event/44722/
     location: TUM, Munich, Germany
     focus-area:
       - as
@@ -66,7 +65,7 @@ presentations:
     date: 2024-06-09
     url: https://indico.cern.ch/event/1436284/contributions/6044149/attachments/2893322/5072385/200%20gbps%20at%20UNL%20coffea-casa.pdf
     meeting: US CMS Analysis Facility Meeting
-    meetingurl: https://indico.cern.ch/event/1436284/ 
+    meetingurl: https://indico.cern.ch/event/1436284/
     location: Virtual
     focus-area:
       - as
@@ -79,7 +78,7 @@ presentations:
     date: 2024-06-11
     url: https://docs.google.com/presentation/d/1QfKOg-DGC60-Yl7Zarobu1NRKxiU16OKt2oyixQfI8c/edit?usp=sharing
     meeting: 2024 All-Hands Workshop of the U.S. CMS Software and Computing Operations Program
-    meetingurl: https://indico.fnal.gov/event/59472 
+    meetingurl: https://indico.fnal.gov/event/59472
     location: Fermilab, USA
     focus-area:
       - as
