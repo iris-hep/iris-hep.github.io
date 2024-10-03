@@ -1,4 +1,4 @@
-active: true
+active: false
 e-mail: saransh0701@gmail.com
 focus-area:
   - as
@@ -6,7 +6,7 @@ institution: Princeton University
 name: Saransh Chopra
 photo: "/assets/images/team/Saransh-Chopra.jpeg"
 shortname: Saransh-cpp
-title: Research Software Intern
+title: Assistant Research Software Engineer - UCL Centre for Advanced Research Computing
 website: https://saransh-cpp.github.io
 presentations:
   - title: "A new SymPy backend for vector: uniting experimental and theoretical physicists"
