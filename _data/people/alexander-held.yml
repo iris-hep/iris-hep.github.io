@@ -454,6 +454,7 @@ presentations:
   - title: "Constructing and steering pyhf models with cabinetry"
     date: 2023-12-04
     url: https://indico.cern.ch/event/1294577/contributions/5689564/
+    video: https://youtu.be/hrs0EpceO_8
     meeting: pyhf Users and Developers Workshop 2023
     meetingurl: https://indico.cern.ch/event/1294577/
     location: "CERN"
