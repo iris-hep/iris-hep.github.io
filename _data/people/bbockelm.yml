@@ -202,3 +202,102 @@ presentations:
     url: https://indico.cern.ch/event/1226223/contributions/5158532/attachments/2562758/4417484/BDT%20Year-In-Review.pdf
     focus-area: doma
     date: 2022-12-07
+  - title: "Managing the OSG Fabric of Services the GitOps Way"
+    meeting: "CHEP 2023 Conference"
+    meetingurl: https://indico.jlab.org/event/459/
+    url: "https://indico.jlab.org/event/459/contributions/11487/"
+    focus-area: doma
+    date: 2023-05-09
+    location: Norfolk, U.S.A.
+  - title: "Analysis Facilities AAI"
+    meeting: "WLCG-HSF Pre-CHEP Workshop 2023"
+    meetingurl: "https://indico.cern.ch/event/1230126/"
+    url: "https://indico.cern.ch/event/1230126/contributions/5315413/"
+    date: 2023-05-06
+    focus-area: doma
+    location: Norfolk, U.S.A.
+  - title: "DOMA: workshop outcomes and action items"
+    location: Madison, U.S.A.
+    focus-area: doma
+    date: 2023-05-05
+    meeting: "IRIS-HEP AGC workshop 2023"
+    meetingurl: "https://indico.cern.ch/event/1260431/"
+    url: "https://indico.cern.ch/event/1260431/contributions/5315159/"
+  - title: "Overview - Token Transition"
+    location: CERN
+    focus-area: doma
+    date: 2023-03-17
+    meeting: "CMS Spring 2023 O&C Week"
+    meetingurl: "https://indico.cern.ch/event/1256427"
+    url: "https://indico.cern.ch/event/1256427/contributions/5302386/"
+  - title: "IRIS-HEP 200Gbps challenge"
+    location: DESY
+    focus-area: doma
+    date: 2024-05-16
+    meeting: "WLCG/HSF Workshop 2024"
+    meetingurl: "https://indico.cern.ch/event/1369601/"
+    url: "https://indico.cern.ch/event/1369601/contributions/5924000/"
+  - title: "Analysis running at 200Gbps as part of the Analysis Grand Challenge"
+    location: CERN
+    focus-area: doma
+    date: 2024-03-15
+    meetingurl: "https://indico.cern.ch/event/1388620"
+    meeting: "IRIS-HEP Data Analysis Pipeline (IDAP) meeting"
+    url: "https://indico.cern.ch/event/1388620/#6-analysis-running-at-200gbps"
+  - title: "OSG update for CMS"
+    location: CERN
+    focus-area: osglhc
+    date: 2024-03-20
+    meetingurl: "https://indico.cern.ch/event/1340661"
+    meeting: Spring 2024 Offline and Computing Week
+    url: "https://indico.cern.ch/event/1340661/contributions/5866545"
+  - title: "DOMA: workshop outcomes and action items"
+    location: Madison, WI
+    focus-area: doma
+    date: 2023-05-05
+    meetingurl: "https://indico.cern.ch/event/1260431/"
+    meeting: "IRIS-HEP AGC Workshop 2023"
+    url: "https://indico.cern.ch/event/1260431/contributions/5315159"
+  - title: "Analysis Facilities AAI"
+    meeting: "WLCG-HSF Pre-CHEP Workshop 2023"
+    location: Norfolk, VA
+    focus-area: doma
+    date: 2023-05-06
+    meetingurl: https://indico.cern.ch/event/1230126"
+    url: "https://indico.cern.ch/event/1230126/contributions/5315413/"
+  - meeting: "IRIS-HEP Institute Retreat"
+    title: "DOMA Focus Area Talk"
+    date: 2023-09-11
+    focus-area: doma
+    meetingurl: https://indico.cern.ch/event/1288444
+    url: "https://indico.cern.ch/event/1288444/contributions/5413958/subcontributions/440854"
+  - meeting: "IRIS-HEP Institute Retreat"
+    title: "DOMA Focus Area Talk"
+    date: 2023-09-11
+    focus-area: doma
+    meetingurl: https://indico.cern.ch/event/1288444
+    url: "https://indico.cern.ch/event/1288444/contributions/5413956/subcontributions/440963"
+  - meeting: "IRIS-HEP Institute Retreat"
+    title: "Community inputs – Operating System and Architectures for OSG-LHC"
+    date: 2023-09-12
+    focus-area: osglhc
+    meetingurl: https://indico.cern.ch/event/1288444
+    url: https://indico.cern.ch/event/1288444/contributions/5568645/
+  - meeting: "IRIS-HEP Institute Retreat"
+    date: 2023-09-12
+    title: "Preparing for DC24 - technology targets for DOMA"
+    focus-area: doma
+    meetingurl: "https://indico.cern.ch/event/1288444"
+    url: "https://indico.cern.ch/event/1288444/contributions/5568647/"
+  - meeting: "IRIS-HEP AGC Demonstration 2023"
+    date: 2023-09-14
+    title: "Towards the HL-LHC-scale I/O: DOMA vision talk"
+    focus-area: doma
+    meetingurl: https://indico.cern.ch/event/1291680
+    url: https://indico.cern.ch/event/1291680/contributions/5451091/
+  - meeting: "S&C Blueprint Meeting - DC24 outcomes"
+    date: 2024-03-27
+    focus-area: doma
+    meetingurl: https://indico.cern.ch/event/1396412
+    url: https://indico.cern.ch/event/1396412/contributions/5869593
+    title: "DC24: Token Achievements"

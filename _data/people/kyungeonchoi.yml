@@ -1,0 +1,65 @@
+active: true
+focus-area:
+  - doma
+  - as
+institution: University of Texas at Austin
+name: KyungEon Choi
+photo: "/assets/images/team/KyungEon-Choi.jpg"
+shortname: kyungeonchoi
+title:
+website: https://github.com/kyungeonchoi
+presentations:
+  - title: Data Management Package for the novel data delivery system, ServiceX, and Applications to various physics analysis workflows
+    date: 2023-05-11
+    url: https://indico.jlab.org/event/459/contributions/11568/
+    meeting: CHEP 2023 Conference
+    meetingurl: https://indico.jlab.org/event/459/
+    location: Norfolk, VA USA
+    focus-area:
+      - doma
+      - as
+    project: servicex
+  - title: Data Management Package for the novel data delivery system, ServiceX, and its application to an ATLAS Run-2 Physics Analysis Workflow
+    date: 2022-09-14
+    url: https://indico.cern.ch/event/1150631/contributions/5004345/
+    meeting: PyHEP 2022 Workshop
+    meetingurl: https://indico.cern.ch/event/1150631/
+    location: virtual
+    focus-area:
+      - doma
+      - as
+    project: servicex
+  - title: Towards Real-World Applications of ServiceX, an Analysis Data Transformation System
+    date: 2021-05-19
+    url: https://indico.cern.ch/event/948465/contributions/4323965/
+    meeting: CHEP 2021 Conference
+    meetingurl: https://indico.cern.ch/event/948465/overview
+    location: virtual
+    focus-area: doma
+    project: servicex
+  - title: ServiceX On-Demand Data Transformation and Delivery, and Applications
+    date: 2021-04-19
+    url: https://meetings.aps.org/Meeting/APR21/Session/Q08.6
+    meeting: APS 2021
+    meetingurl: https://meetings.aps.org/Meeting/APR21/Content/4017
+    location: virtual
+    focus-area: doma
+    project: servicex
+  - title: ServiceX On-Demand Data Transformation and Delivery for the Present and HL-LHC Era
+    date: 2020-07-14
+    url: https://indico.cern.ch/event/882824/contributions/3930010/
+    meeting: PyHEP 2020 Workshop
+    meetingurl: https://indico.cern.ch/event/882824/
+    location: virtual
+    focus-area: doma
+    project: servicex
+  - title: "ServiceX, the novel data delivery system, for physics analysis"
+    date: 2024-03-11
+    url: https://indico.cern.ch/event/1330797/contributions/5796587/
+    meetingurl: https://indico.cern.ch/event/1330797
+    meeting: ACAT 2024
+    focus-area:
+      - doma
+      - as
+    project: servicex
+    location: Stony Brook University

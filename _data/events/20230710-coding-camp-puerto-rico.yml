@@ -1,0 +1,13 @@
+name: Coding Camp
+startdate: 2023-07-10
+enddate: 2023-07-12
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1305236/
+image:
+description: |
+  Training Puerto Rico High School teachers on basics of Python, Jupyter Notebooks
+  and data analysis. Teachers are tasked to learn and for the first two days of the workshop.
+  On the third day teachers are expected to produce working examples of material to be used in their classrooms.
+labels:
+  - training
+  - outreach

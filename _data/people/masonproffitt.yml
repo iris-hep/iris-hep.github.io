@@ -166,3 +166,19 @@ presentations:
     location: Virtual
     focus-area: as
     project: abcd-pyhf
+  - title: "GitLab CI/CD"
+    date: 2023-10-16
+    url: https://indico.ific.uv.es/event/6964/timetable/#4-gitlab-cicd
+    meeting: Analysis Preservation BootCamp @ Valencia
+    meetingurl: https://indico.ific.uv.es/event/6964/
+    location: Instituto de Física Corpuscular, Valencia
+    focus-area: ssc
+  - title: "abcd_pyhf: Likelihood-based ABCD method for background estimation and hypothesis testing with pyhf"
+    date: 2023-12-04
+    url: https://indico.cern.ch/event/1294577/contributions/5700251/
+    video: https://youtu.be/EaNwmH_dTAc
+    meeting: pyhf Users and Developers Workshop 2023
+    meetingurl: https://indico.cern.ch/event/1294577/
+    location: CERN
+    focus-area: as
+    project: abcd-pyhf

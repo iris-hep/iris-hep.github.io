@@ -1,6 +1,11 @@
+ci:
+  autoupdate_commit_msg: "chore(deps): update pre-commit hooks"
+  autofix_commit_msg: "style: pre-commit fixes"
+  autoupdate_schedule: monthly
+
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0
+    rev: v5.0.0
     hooks:
       - id: check-added-large-files
       - id: mixed-line-ending
@@ -10,18 +15,26 @@ repos:
       - id: check-symlinks
       - id: check-yaml
 
+  - repo: https://github.com/python-jsonschema/check-jsonschema
+    rev: 0.29.3
+    hooks:
+      - id: check-github-workflows
+      - id: check-dependabot
+      - id: check-jsonschema
+        name: Check people files
+        args: [--schemafile, _scripts/people.schema.json]
+        files: '^_data/people/.*\.yml$'
+        exclude: "_data/people/m-carothers.yml"
+      - id: check-jsonschema
+        name: Check publication files
+        args: [--schemafile, _scripts/publication.schema.json]
+        files: '^_data/publications/.*\.yml$'
+
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.0-alpha.9-for-vscode"
+    rev: "v4.0.0-alpha.8"
     hooks:
       - id: prettier
         types_or: [yaml, css, scss, javascript, json]
-
-  - repo: https://github.com/Lucas-C/pre-commit-hooks
-    rev: v1.5.1
-    hooks:
-      - id: remove-crlf
-      - id: forbid-tabs
-        exclude_types: [svg]
 
   - repo: local
     hooks:
@@ -32,14 +45,14 @@ repos:
         language: fail
 
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.4
+    rev: v2.3.0
     hooks:
       - id: codespell
         exclude: (^Gemfile.lock|\.js|\.map)$
         args:
           [
             "-L",
-            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus",
+            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus,ablet,manuel,classe,insead",
           ]
 
   - repo: local

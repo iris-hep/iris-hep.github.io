@@ -414,3 +414,107 @@ presentations:
       - as
       - doma
     project: agc
+
+  - title: "Analysis Grand Challenge Demo"
+    date: 2023-07-24
+    url: https://indico.cern.ch/event/1293313/contributions/5447565/
+    meeting: Computational HEP Traineeship Summer School
+    meetingurl: https://indico.cern.ch/event/1293313/
+    location: "Princeton, USA"
+    focus-area:
+      - as
+    project:
+      - agc
+
+  - title: "Statistical models, analysis workflows & automatic differentiation"
+    date: 2023-07-26
+    url: https://indico.cern.ch/event/1234156/contributions/5506050/
+    meeting: PyHEP.dev 2023
+    meetingurl: https://indico.cern.ch/event/1234156/
+    location: "Princeton, USA"
+    focus-area:
+      - as
+    project:
+      - agc
+      - cabinetry
+
+  - title: "AGC Team End-to-End Demo"
+    date: 2023-09-14
+    url: https://indico.cern.ch/event/1291680/contributions/5451088/
+    meeting: IRIS-HEP AGC Demonstration 2023
+    meetingurl: https://indico.cern.ch/event/1291680/
+    location: "Madison, USA"
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+
+  - title: "Constructing and steering pyhf models with cabinetry"
+    date: 2023-12-04
+    url: https://indico.cern.ch/event/1294577/contributions/5689564/
+    video: https://youtu.be/hrs0EpceO_8
+    meeting: pyhf Users and Developers Workshop 2023
+    meetingurl: https://indico.cern.ch/event/1294577/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+
+  - title: "Introduction to simulation-based inference (SBI)"
+    date: 2023-12-14
+    url: https://indico.cern.ch/event/1335237/contributions/5707428/
+    meeting: ATLAS end-of-year physics plenary 2023
+    meetingurl: https://indico.cern.ch/event/1335237/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - madminer
+
+  - title: "Introduction to cabinetry"
+    date: 2024-01-30
+    url: https://indico.cern.ch/event/1364816/#11-introduction-to-cabinetry
+    meeting: ATLAS HHFramework meeting
+    meetingurl: https://indico.cern.ch/event/1364816/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+
+  - title: "AGC and new coffea 2023/4"
+    date: 2024-03-01
+    url: https://indico.cern.ch/event/1367741/#9-agc-and-new-coffea-20234
+    meeting: IRIS-HEP / AGC Demo Day 4
+    meetingurl: https://indico.cern.ch/event/1367741/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - agc
+
+  - title: "Evolution of Analysis Techniques and Statistical Treatment"
+    date: 2024-04-03
+    url: https://meetings.aps.org/Meeting/APR24/Session/C11.1
+    meeting: APS April Meeting 2024
+    meetingurl: https://meetings.aps.org/Meeting/APR24/Content/4544
+    location: "Sacramento, USA"
+    focus-area:
+      - as
+    project:
+      - agc
+      - madminer
+
+  - title: "SBI in HEP Meets Reality"
+    date: 2024-05-16
+    url: https://indico.cern.ch/event/1355601/contributions/5812026/
+    meeting: APS April Meeting 2024
+    meetingurl: https://indico.cern.ch/event/1355601/
+    location: "Munich, Germany"
+    focus-area:
+      - as
+    project:
+      - madminer

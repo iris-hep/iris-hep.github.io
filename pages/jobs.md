@@ -8,27 +8,29 @@ title: Available Positions
 
 A number of employment opportunities exist with the universities involved in IRIS-HEP or closely collaborating projects. If you have a strong interest in challenging computational and data science problems in an exciting research environment, please consider applying! **This page will be updated from time to time, please check back for the latest opportunities.**
 
-### Morgridge Institute
-  * [Research Software Engineer](https://morgridge.org/job-posting/research-software-engineer/)
+## University of Wisconsin–Madison
 
-### Princeton University
-  * [Research Software Engineer](https://main-princeton.icims.com/jobs/16019/research-software-engineer-ii/job?mode=view&mobile=false&width=696&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
+### Research Computing Facilitator
 
-### Univresity of Washington
-  * [Postdoc](https://inspirehep.net/jobs/2641332)
+The Center for High Throughput Computing (CHTC) seeks a Research Computing Facilitator to support the goals of a diverse
+set of researchers who use computing for their research. This is an ideal position for an academic researcher who has
+used computational approaches in their own work and is strongly motivated to support and empower the work of other
+researchers through access to large-scale computing resources.
 
-### University of Wisconsin–Madison
-  * [CHTC Research Cyberinfrastructure Specialist](https://jobs.hr.wisc.edu/en-us/job/516945/chtc-research-cyberinfrastructure-specialist-1)
+Apply here: https://go.wisc.edu/chtc-rcf-hire
+
+## University of Washington
+
+## Postdoc
+
+We have a postdoctoral position open working with IRIS-HEP and ATLAS with Gordon Watts. Full review of applications starts on February 15 and will continue until the position is filled. See details on the [inspire posting](https://inspirehep.net/jobs/2743711).
 
 # Other positions of interest for HEP people
 
 We also list some number of job positions that might be of interest for people
 with an HEP background, but which are not directly related to IRIS-HEP.
 
-
-### Fermilab
-
-  * [Computing Services Specialist](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Computing--Services-Specialist-I_R_005963) - Envisioned to have both sysadmin/technical and user-facing components supporting HPC users (e.g. Lattice QCD) as well as multiple HEP experiments across all frontiers.
+* [RSE position at the University of Washington to work at CERN](https://uwhires.admin.washington.edu/eng/candidates/default.cfm?szCategory=jobprofile&szOrderID=233095&szCandidateID=0&szSearchWords=&szReturnToSearch=1). Close date is April 30th.
 
 ### Others
 

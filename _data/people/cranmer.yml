@@ -756,3 +756,180 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1203733/
     focus-area: as
     location: Washington D.C.
+  - title: "Connections and cross pollination from quarks to the cosmos"
+    date: 2022-01-26
+    url: http://www.ipam.ucla.edu/abstract/?tid=18157&pcode=EMS2023
+    meeting: "Learning and Emergence in Molecular Systems"
+    meetingurl: https://www.ipam.ucla.edu/programs/workshops/learning-and-emergence-in-molecular-systems/?tab=overview
+    focus-area: as
+    location: IPAM, UCLA
+  - title: "How ML is enabling an information-theoretic approach to data analysis and the design of experiments"
+    date: 2022-03-07
+    url: https://meetings.aps.org/Meeting/MAR23/Session/K01
+    meeting: "APS March Meeting"
+    meetingurl: https://meetings.aps.org/Meeting/MAR23/Session/K01
+    focus-area: as
+    location: Las Vegas, NV
+  - title: "Radically different futures for HEP enabled by AI/ML"
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/contributions/12491/
+    meeting: "CHEP 2023"
+    meetingurl: https://indico.jlab.org/event/459/
+    focus-area: as
+    location: Norfolk
+  - title: "Simulation-Based Inference"
+    date: 2023-06-13
+    url: https://sites.psu.edu/astrostatistics/scma8-program/
+    meeting: "Statistical Challenges in Modern Astronomy VIII"
+    meetingurl: https://sites.psu.edu/astrostatistics/scma8/
+    focus-area: as
+    location: Penn State
+  - title: "Panel: Scientific Discovery and the Environment"
+    date: 2023-06-23
+    url: https://cvpr.thecvf.com/Conferences/2023/KeynotesAndPanels
+    meeting: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR)"
+    meetingurl: https://cvpr.thecvf.com
+    focus-area: as
+    location: Vancouver, Canada
+  - title: From the Higgs boson discovery to simulation-based inference
+    date: 2023-07-03
+    url: https://indico.nikhef.nl/event/4325/contributions/16989/
+    meeting: "GRAPPA 10th Anniversary"
+    meetingurl: https://indico.nikhef.nl/event/4325/
+    focus-area: as
+    location: Amsterdam
+  - title: "Closeout / Conference Synthesis"
+    date: 2023-11-03
+    url: https://indico.cern.ch/event/1202995/contributions/5241180/
+    meeting: Hammers and Nails 2023
+    meetingurl: https://indico.cern.ch/event/1202995/
+    focus-area: as
+    location: Ascona, Switzerland
+  - title: How AI is raising the ambition of physicists
+    date: 2023-10-10
+    url:
+    meeting: Hans Jensen Lecture
+    meetingurl: https://www.physik.uni-heidelberg.de/graddays/20232?lang=en
+    focus-area: as
+    location: Heidelberg
+  - title: A practical framework for EFT fits with published likelihoods
+    date: 2023-11-16
+    url: https://indico.cern.ch/event/1296757/timetable/#3-area-4-a-practical-framework
+    video: https://cds.cern.ch/record/2881993
+    meeting: LHC EFT Working Group
+    meetingurl: https://indico.cern.ch/event/1296757/
+    focus-area: as
+    location: CERN
+  - title: Introducing the FAIROS-HEP Research Coordination Network
+    date: 2023-11-16
+    url: https://indico.cern.ch/event/1296757/timetable/#4-area-4-introducing-the-fairo
+    meeting: LHC EFT Working Group
+    meetingurl: https://indico.cern.ch/event/1296757/
+    focus-area: as
+    location: CERN
+  - title: "Simulation-Based Inference: The intersection of mechanistic models and inverse problems"
+    date: 2023-11-17
+    url:
+    meeting: Biomedical Engineering Engineering Seminar
+    meetingurl:
+    focus-area: as
+    location: University of Wisconsin--Madison
+  - title: Learning, Physics, and Graphs
+    date: 2023-11-27
+    url:
+    meeting: Learning on Graphs Conference
+    meetingurl: http://log2023.logconference.org
+    video: https://www.youtube.com/live/OcruIkiRkiU?feature=shared&t=4736
+    focus-area: as
+    location: Virtual
+  - title: 14 years of HistFactory
+    date: 2023-12-05
+    url: https://indico.cern.ch/event/1294577/contributions/5693467/
+    meeting: PyHF Workshop
+    meetingurl: https://indico.cern.ch/event/1294577/
+    focus-area: as
+    location: CERN
+  - title: Introducing the FAIROS-HEP Research Coordination Network
+    date: 2023-12-05
+    url: https://indico.cern.ch/event/1294577/contributions/5693468/
+    meeting: PyHF Workshop
+    meetingurl: https://indico.cern.ch/event/1294577/
+    focus-area: as
+    location: CERN
+  - title: Examples of AI in Physics
+    date: 2023-12-14
+    url:
+    meeting: AI 4 Scientific Discovery workshop at NeurIPS
+    meetingurl: https://ai4sciencecommunity.github.io/neurips23.html
+    focus-area: as
+    location: New Orleans
+  - title: "Injecting knowledge and extracting insight: promise and perils"
+    date: 2024-02-26
+    url:
+    meeting: "Explainable AI for Science (XAI4Sci) workshop AAAI 2024"
+    meetingurl: https://xai4sci.github.io
+    focus-area: as
+    location: Vancouver, Canada
+  - title: Combining human and artificial intelligence for predictive modeling
+    date: 2024-02-27
+    url:
+    meeting: "National Predictive Modeling Tool Initiative Annual Meeting"
+    meetingurl: https://agpmt.org/in-the-news/
+    focus-area: as
+    location: Raleigh, NC
+  - title: Data, Decisions, and Generative AI
+    date: 2024-02-06
+    url:
+    meeting: "UW-Madison Research Bazaar"
+    meetingurl: https://datascience.wisc.edu/data-science-research-bazaar/
+    focus-area: as
+    location: University of Wisconsin--Madison
+  - title: "Grand combinations at HL-LHC & FAIROS-HEP"
+    date: 2024-04-25
+    url: https://indico.cern.ch/event/1378665/contributions/5901899/
+    meeting: "LPC EFT Workshop"
+    meetingurl: https://indico.cern.ch/event/1378665/overview
+    focus-area: as
+    location: Notre Dame
+  - title: AI for Fundamental Physics
+    date: 2024-05-03
+    url: https://indico.nikhef.nl/event/4875/contributions/21162/
+    meeting: EuCAIFConf
+    meetingurl: https://indico.nikhef.nl/event/4875/
+    focus-area: as
+    location: Amsterdam
+  - title: Opening talk
+    date: 2024-05-15
+    url:
+    meeting: "PhyStat SBI"
+    meetingurl: https://indico.cern.ch/event/1355601/overview
+    focus-area: as
+    location: Munich
+  - title: Keynote
+    date: 2024-06-12
+    url:
+    meeting: "Helmholtz AI"
+    meetingurl: https://haicon24.de
+    focus-area: as
+    location:
+  - title: Generative AI Panel
+    date: 2024-06-13
+    url:
+    meeting: "Helmholtz AI"
+    meetingurl: https://haicon24.de
+    focus-area: as
+    location:
+  - title: Keynote
+    date: 2024-07-12
+    url:
+    meeting: "SciPy 2024"
+    meetingurl: https://www.scipy2024.scipy.org
+    focus-area: as
+    location: Tacoma, WA
+  - title: "Structured Probabilistic Inference & Generative Modeling in Physics"
+    date: 2024-07-26
+    url:
+    meeting: "Structured Probabilistic Inference & Generative Modeling workshop at ICML"
+    meetingurl: https://spigmworkshop2024.github.io
+    focus-area: as
+    location: Vienna, Austria

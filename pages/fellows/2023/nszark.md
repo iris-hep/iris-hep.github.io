@@ -5,14 +5,14 @@ shortname: nszark
 permalink: /fellows/nszark.html
 fellow-name: Nazar Semkiv
 title: Nazar Semkiv - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2023-06-26
   end: 2023-09-15
-photo: /assets/images/team/Nazar-Semkiv.jpg
+photo: /assets/images/team/fellows-2023/Nazar-Semkiv.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: nazar.semkiv.2000@gmail.com
-focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+focus-area:
 project_title: Testing Real Time Analysis at LHCb
 project_goal: >
     Development of a machine learning algorithm for accurately selecting specific decay candidates and evaluating the performance of the trigger paradigm at LHCb.
@@ -27,7 +27,7 @@ presentations:
     meeting: <Meeting name>
     meetingurl: <Meeting url - indico link, etc.>
     recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+    focus-area:
 current_status: >
   A placeholder for status updates
 github-username: nszark

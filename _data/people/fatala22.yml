@@ -8,13 +8,62 @@ shortname: fatala22
 title: Training, Education and Outreach Coordinator
 website: http://charma.uprm.edu/~malik/
 presentations:
+  - title: "Panel discussion: Snowmass recommendations on community"
+    date: 2024-05-17
+    url: https://indico.cern.ch/event/1358339/contributions/5814160/
+    meeting: DPF-PHENO 2024
+    meetingurl: https://indico.cern.ch/event/1358339/
+    focus-area: ssc
+    location: "University of Pittsburgh / Carnegie Mellon University"
+  - title: Software Training as an enabler of community engagement and broader impacts
+    date: 2024-05-14
+    url: https://indico.cern.ch/event/1358339/contributions/5899358/
+    meeting: DPF-PHENO 2024
+    meetingurl: https://indico.cern.ch/event/1358339/
+    focus-area: ssc
+    location: "University of Pittsburgh / Carnegie Mellon University"
+  - title: "Software Training, community engagement and broader impacts"
+    date: 2024-05-03
+    url: https://www.classe.cornell.edu/NewsAndEvents/JointSeminars.html # codespell:ignore
+    meeting: Invited Seminar by LEPP Journal Club, Cornell University
+    meetingurl: https://www.classe.cornell.edu/NewsAndEvents/JointSeminars.html # codespell:ignore
+    focus-area: ssc
+    location: "Cornell University, Ithaca"
+  - title: Train to Sustain
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/contributions/11538/
+    meeting: CHEP2023
+    meetingurl: https://indico.jlab.org/event/459/
+    focus-area: ssc
+    location: Jefferosn Lab (Norfolk Waterside Marriott)
+  - title: Building a Global HEP Software Training Community
+    date: 2023-05-09
+    url: https://indico.jlab.org/event/459/contributions/11685/
+    meeting: CHEP2023
+    meetingurl: https://indico.jlab.org/event/459/
+    focus-area: ssc
+    location: Jefferosn Lab (Norfolk Waterside Marriott)
+  - title: Software Training Outreach In HEP
+    date: 2023-05-11
+    url: https://indico.jlab.org/event/459/contributions/11704/
+    meeting: CHEP2023
+    meetingurl: https://indico.jlab.org/event/459/
+    focus-area: ssc
+    location: Jefferosn Lab (Norfolk Waterside Marriott)
+  - title: Training and on-boarding initiatives in HEP
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/contributions/11672/
+    meeting: CHEP2023
+    meetingurl: https://indico.jlab.org/event/459/
+    focus-area: ssc
+    location: Jefferosn Lab (Norfolk Waterside Marriott)
   - title: Sustainable Software Training Delivery at the HEP Software Foundation
     date: 2022-09-05
     url: https://indico.cern.ch/event/1160140/contributions/5014539/
     meeting: Sustainable HEP - 2nd edition
     meetingurl: https://indico.cern.ch/event/1160140/
     focus-area: ssc
-    location: CERN (Virtual)
+    location: Jefferosn Lab (Norfolk Waterside Marriott)
   - title: Grand Challenge of Software Training in HEP
     date: 2022-07-06
     url: https://agenda.infn.it/event/28874/contributions/169194/

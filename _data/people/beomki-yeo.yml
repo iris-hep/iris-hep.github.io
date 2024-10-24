@@ -8,6 +8,13 @@ photo: "/assets/images/team/beomki-yeo.png"
 shortname: beomki-yeo
 title: Post-doctoral researcher
 presentations:
+  - title: "traccc: GPU track reconstruction library for HEP experiments"
+    date: 2024-10-23
+    url: https://indico.cern.ch/event/1338689/contributions/6010050/
+    meetingurl: https://indico.cern.ch/event/1338689
+    meeting: "CHEP 2024 - Conference on Computing in High Energy Physics"
+    focus-area: as
+    location: Krakow, Poland
   - title: GPU Demonstrator for ACTS Track Reconstruction
     date: 2021-05-15
     meeting: NSF review
@@ -165,3 +172,59 @@ presentations:
     project: acts
     focus-area: ia
     location: CERN
+  - title: "Status of KF and CKF: traccc"
+    date: 2023-11-09
+    url: https://indico.cern.ch/event/1295479/contributions/5616084/
+    meeting: Acts Workshop 2023
+    project: acts
+    focus-area: ia
+    location: IJCLab (Orsay, France)
+  - title: ACTS GPU R&D Status
+    date: 2023-11-16
+    url: https://indico.cern.ch/event/1346488/
+    meeting: "US ATLAS Software & Computing / Physics Support joint management meeting (Internal)"
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: CKF and KF development in traccc
+    date: 2023-11-28
+    url: https://indico.cern.ch/event/1346804/
+    meeting: EF Tracking Weekly (Internal)
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: GPU and Hardware Accelerators R&D for ATLAS Phase-II Computing
+    date: 2024-04-09
+    url: https://indico.cern.ch/event/1366450/ (internal)
+    meeting: ATLAS Lecture Series
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Vectorizing matrix operations
+    date: 2024-04-19
+    url: https://indico.cern.ch/event/1356206/
+    meeting: ACTS Parallelization Meeting
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: Reprise of ATLAS Lecture "GPU as a Hardware Accelerator"
+    date: 2024-04-30
+    url: https://indico.cern.ch/event/1409329/
+    meeting: ATLAS Event Filtering Weekly (internal)
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: "Traccc: GPU Track Reconstruction Library"
+    date: 2024-05-18
+    url: https://indico.ihep.ac.cn/event/21775/contributions/155293/
+    meeting: Workshop of Tracking in Particle Physics Experiments
+    project: acts
+    focus-area: ia
+    location: Zhengzhou University
+  - title: GPUs and Accelerators
+    date: 2024-05-20
+    url: https://indico.cern.ch/event/1405035/timetable/#19-gpus-and-accelerators
+    meeting: Computational HEP Traineeship Summer School 2024
+    project: acts
+    focus-area: ia
+    location: FNAL

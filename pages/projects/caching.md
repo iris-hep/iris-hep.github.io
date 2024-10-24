@@ -135,7 +135,7 @@ the monitoring data from the XRootD servers to the central monitoring collector 
 
 
 Finally, software improvements to the OSG collector have enabled us to start collecting and anlazying g-stream data, which is the XRootD monitoring stream
-that includes cache specific events. In the figure below we can observe an example of the g-stream data being colleted form the caches in the OSDF.
+that includes cache specific events. In the figure below we can observe an example of the g-stream data being collected form the caches in the OSDF.
 
 
 <br>

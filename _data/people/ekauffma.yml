@@ -1,9 +1,9 @@
-active: true
+active: false
 focus-area:
   - as
 institution: Princeton University
 name: Elliott Kauffman
-photo: "/assets/images/team/Elliott-Kauffman.jpg"
+photo: "/assets/images/team/fellows-2022/Elliott-Kauffman.jpg"
 shortname: ekauffma
 title: Research Software Intern
 website: https://github.com/ekauffma

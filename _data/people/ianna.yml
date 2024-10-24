@@ -8,8 +8,109 @@ name: Ianna Osborne
 photo: "/assets/images/team/Ianna-Osborne.png"
 shortname: ianna
 title: Research Software Engineer
-website:
+website: https://github.com/ianna
 presentations:
+  - title: "Navigating the Multilingual Landscape of Scientific Computing: Python, Julia, and Awkward Array"
+    date: 2024-10-24
+    url: https://indico.cern.ch/event/1338689/contributions/6010686/
+    meeting: CHEP 2024 - Conference on Computing in High Energy and Nuclear Physics
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: Kraków, Poland
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Power of Python and Julia for Advanced Data Analysis"
+    date: 2024-09-30
+    url: https://indico.cern.ch/event/1410341/contributions/6135605/
+    meeting: JuliaHEP 2024 workshop
+    meetingurl: https://indico.cern.ch/event/1410341/
+    location: CERN, Switzerland
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Bridging Python and Julia for Enhanced Data Analysis"
+    date: 2024-08-29
+    url: https://indi.to/3TxKJ
+    meeting: PyHEP.dev 2024 - "Python in HEP" Developer's Workshop
+    meetingurl: https://indico.cern.ch/event/1375573
+    location: Aachen, Germany
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Columnar Data Analysis"
+    date: 2024-07-24
+    url: https://github.com/ianna/2024-07-24-codas-hep-columnar-data-analysis
+    meeting: Sixth Computational and Data Science school for HEP (CoDaS-HEP 2024)
+    meetingurl: https://indico.cern.ch/event/1422680/timetable/
+    location: Princeton University
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "AwkwardArrays in Julia for High-Energy Physics Data Analysis"
+    date: 2024-07-03
+    url: https://indi.to/rMzSy
+    meeting: PyHEP 2024 - "Python in HEP" Users Workshop
+    meetingurl: https://indico.cern.ch/event/1384010/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Scientific Python with GPUs"
+    date: 2024-05-24
+    url: https://github.com/hsf-india-may2024/PythonGPU
+    meeting: "HSF-India HEP Software Workshop at the University of Delhi"
+    meetingurl: https://indico.cern.ch/event/1386725/
+    location: Delhi, India
+    focus-area:
+      - as
+    project:
+      - awkward
+      - scikit-hep
+  - title: "Bridging Worlds: Achieving Language Interoperability between Julia and Python in Scientific Computing"
+    date: 2024-03-11
+    url: https://indi.to/7vNMH
+    meeting: 22nd International Workshop on Advanced Computing and Analysis Techniques in Physics Research - ACAT2024
+    meetingurl: https://indico.cern.ch/event/1330797/
+    location: Stony Brook University, 100 Circle Rd, Stony Brook, NY 11794
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "JuliaHEP workshop summary"
+    date: 2023-11-21
+    url: https://indico.cern.ch/event/1265188/
+    meeting: AS Biweekly Meeting
+    meetingurl: https://indico.cern.ch/event/1265188/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "An Awkward module for round-tripping data structures between Python and Julia"
+    date: 2023-11-08
+    url: https://indi.to/vNWpB
+    meeting: JuliaHEP 2023 Workshop
+    meetingurl: https://indico.cern.ch/event/1292759/
+    location: ECAP (Erlangen Centre for Astroparticle Physics), Nikolaus-Fiebiger-Straße 2, 91058, Erlangen, Germany
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Python and Fast Imperative Code: Lowering the Barriers"
+    date: 2023-10-09
+    url: https://doi.org/10.5281/zenodo.10000124
+    meeting: PyHEP 2023 - "Python in HEP" Users Workshop (online)
+    meetingurl: https://indico.cern.ch/event/1252095/
+    location: online
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Awkward Just-In-Time (JIT) Compilation: A Developer’s Experience"
     date: 2023-05-11
     url: https://indico.jlab.org/event/459/contributions/11557/

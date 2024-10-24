@@ -1,0 +1,84 @@
+{
+  "@id": "https://github.com/iris-hep/iris-hep.github.io/blob/master/_scripts/people.schema.json",
+  "@schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "shortname"],
+  "properties": {
+    "active": { "type": "boolean" },
+    "e-mail": { "type": "string", "format": "email" },
+    "focus-area": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/focus_area" }
+    },
+    "inspire-id": { "type": "string" },
+    "institution": { "type": "string" },
+    "name": { "type": "string" },
+    "photo": { "type": "string" },
+    "shortname": { "type": "string" },
+    "title": { "$ref": "#/definitions/empty_string" },
+    "website": { "$ref": "#/definitions/empty_string" },
+    "past_institution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["institution", "end_date"],
+      "properties": {
+        "institution": { "type": "string" },
+        "end_date": { "type": "string", "format": "date" }
+      }
+    },
+    "about": { "type": "string" },
+    "hidden": { "type": "boolean" },
+    "role": { "type": "string" },
+    "presentations": {
+      "oneOf": [
+        { "type": "null" },
+        {
+          "type": "array",
+          "items": { "$ref": "#/definitions/presentation" }
+        }
+      ]
+    }
+  },
+  "definitions": {
+    "focus_area": {
+      "enum": ["as", "ia", "ssc", "doma", "ssl", "osglhc", "core"]
+    },
+    "focus_areas": {
+      "oneOf": [
+        { "type": "null" },
+        { "$ref": "#/definitions/focus_area" },
+        { "type": "array", "items": { "$ref": "#/definitions/focus_area" } }
+      ]
+    },
+    "presentation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "date", "url"],
+      "properties": {
+        "title": { "type": "string" },
+        "date": { "type": "string", "format": "date" },
+        "url": { "$ref": "#/definitions/empty_string" },
+        "meeting": { "$ref": "#/definitions/empty_string" },
+        "meetingurl": { "$ref": "#/definitions/empty_string" },
+        "focus-area": { "$ref": "#/definitions/focus_areas" },
+        "project": { "$ref": "#/definitions/string_or_array" },
+        "location": { "$ref": "#/definitions/empty_string" },
+        "comment": { "$ref": "#/definitions/empty_string" },
+        "labels": { "$ref": "#/definitions/string_or_array" },
+        "video": { "$ref": "#/definitions/string_or_array" },
+        "recordingurl": { "$ref": "#/definitions/empty_string" }
+      }
+    },
+    "string_or_array": {
+      "oneOf": [
+        { "type": "null" },
+        { "type": "string" },
+        { "type": "array", "elements": { "type": "string" } }
+      ]
+    },
+    "empty_string": {
+      "oneOf": [{ "type": "string" }, { "type": "null" }]
+    }
+  }
+}
