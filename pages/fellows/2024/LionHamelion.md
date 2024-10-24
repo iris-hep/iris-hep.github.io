@@ -29,4 +29,5 @@ presentations:
 current_status: #>
 #   A placeholder for status updates
 github-username: LionHamelion
+linkedin-profile: https://www.linkedin.com/in/volodymyr-kovalenko-1aaa14315/
 ---
