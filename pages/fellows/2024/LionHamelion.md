@@ -19,7 +19,7 @@ mentors:
   - Muhammad Hassan Ahmed (CERN)
 proposal: /assets/pdf/fellows-2024/UKR052-proposal-Volodymyr-Kovalenko.pdf
 presentations:
-  - title: Modernizing Unified: Resubmissions & Assignment of workflows
+  - title: "Modernizing Unified: Resubmissions & Assignment of workflows"
     date: 2024-09-16
     url: https://indico.cern.ch/event/1449314/
     meeting: IRIS-HEP Fellows Final Presentations 2024
