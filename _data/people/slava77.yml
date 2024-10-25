@@ -84,3 +84,11 @@ presentations:
     date: 2024-04-12
     focus-area: ia
     project: mkfit
+  - title: "CMS Tracking: LST"
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/1374962
+    url: https://indico.cern.ch/event/1374962/timetable/?view=standard#49-cms-tracking-lst
+    date: 2024-09-05
+    location: Seattle, WA, US
+    focus-area: ia
+    project: lst    
