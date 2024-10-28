@@ -10,7 +10,11 @@ title: IRIS/HEP Fellows Program Applications
 **General information about the program, as well as information about former Fellows, can be found on the [main Fellows webpage](https://iris-hep.org/fellows.html).**
 
 
+<!--
 **Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 11 March, 2024 (end of the day, any time zone) will prioritized for consideration. The application form will however remain open and applications can nonetheless be submitted through March 25th.**
+-->
+
+**Fellow selections for 2024 have been completed. Please check back in early 2025 for information on how to apply to be an IRIS-HEP Fellow in summer, 2025.**
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
 with basic programming through skills acquired (for example) from coursework or
@@ -75,11 +79,16 @@ If you have a idea for a project which excites you, but do not find similar exam
  * [Optional] The full name and email address of a reference. This is optional. Ideally it would be someone with whom you have interacted in a STEM context (e.g. a course or a previous research activity). You should contact the person in advance to confirm that they will write a letter for you and simply provide their name/email in the application form. After you submit the form, we will contact them to request the letter.
 
 **Timeline:**
+The 2025 timeline will be available when applications for summer, 2025 are opened.
+
+<!--
+**Timeline:**
   * Monday 11 March, 2024 - deadline for priority consideration of applications (applications will be reviewed on a rolling basis as they arrive)
   * Monday 25 March, 2024 - final deadline for consideration of applications
   * 19 February - 30 March, 2024 - Select potential Fellows with be matched with potential mentors to develop a project proposal - this may involve a short interview and other follow-up. Final selection as a Fellow will require submission and approval of a project proposal.
   * April, 2024 - Offers, Acceptances and Onboarding of Summer 2024 Fellows
   * May-Sep, 2024 - Fellows work on projects (exact dates may depend on specific academic year constraints)
+-->
 
 **Funding:** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreements OAC-1836650 and PHY-2323298 (including an [IMPRESS-U](https://www.nsf.gov/pubs/2023/nsf23135/nsf23135.jsp) supplemental funding award) as well as private foundation support. Funding for Fellows associated with international academic institutions has been provided by a combination of university, industry and private foundation support.
 

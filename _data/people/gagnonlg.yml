@@ -29,3 +29,87 @@ presentations:
     meetingurl: https://indico.bnl.gov/event/10699
     project: acts
     location: BNL
+  - title: Update on pixel clustering
+    date: 2022-03-11
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1127124/contributions/4770399/
+    meetingurl: https://indico.cern.ch/event/1127124/
+    project: acts
+    location: CERN
+  - title: Updates on ACTS clusterization
+    date: 2022-03-25
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1127125/contributions/4794279/
+    meetingurl: https://indico.cern.ch/event/1127125/
+    project: acts
+    location: CERN
+  - title: Update on ITk Pixel Clusterization with ACTS
+    date: 2022-09-07
+    meeting: ATLAS Upgrade Tracking meeting
+    url: https://indico.cern.ch/event/1198382/contributions/5038393/
+    meetingurl: https://indico.cern.ch/event/1198382/
+    project: acts
+    location: CERN
+  - title: Update on ITk Clusterization with ACTS
+    date: 2022-09-09
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1198333/contributions/5038272/
+    meetingurl: https://indico.cern.ch/event/1198333/
+    project: acts
+    location: CERN
+  - title: Update on ITk Strip Clusterization with ACTS
+    date: 2022-09-23
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1202448/contributions/5056728/
+    meetingurl: https://indico.cern.ch/event/1202448/
+    project: acts
+    location: CERN
+  - title: Update on ITk Strip Clusterization with ACTS
+    date: 2022-11-04
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1212871/contributions/5101649/
+    meetingurl: https://indico.cern.ch/event/1212871/
+    project: acts
+    location: CERN
+  - title: ACTS clusterization and status update
+    date: 2022-11-17
+    meeting: ATLAS Inner Tracking CP Plenary
+    url: https://indico.cern.ch/event/1212754/contributions/5127254/
+    meetingurl: https://indico.cern.ch/event/1212754/
+    project: acts
+    location: CERN
+  - title: On-the-fly measurement calibration with ACTS
+    date: 2023-10-11
+    meeting: Connecting The Dots 2023
+    url: https://indico.cern.ch/event/1252748/contributions/5521480/
+    meetingurl: https://indico.cern.ch/event/1252748/
+    project: acts
+    location: Toulouse, France
+  - title: Neural-network measurement calibration
+    date: 2023-10-11
+    meeting: ACTS Developer Workshop 2023
+    url: https://indico.cern.ch/event/1295479/contributions/5616094/
+    meetingurl: https://indico.cern.ch/event/1295479/contributions/
+    project: acts
+    location: Orsay, France
+  - title: Update on pixel measurement calibration in ACTS-ITk
+    date: 2024-03-22
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1354978/contributions/5863583/
+    meetingurl: https://indico.cern.ch/event/1354978/
+    project: acts
+    location: CERN
+  - title: Discussion on calibration
+    date: 2024-06-14
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1354990/contributions/5992166/
+    meetingurl: https://indico.cern.ch/event/1354990/
+    project: acts
+    location: CERN
+  - title: Performance Case Study on Charge Clusterization
+    date: 2024-07-24
+    meeting: CoDAS-HEP 2024
+    url: https://indico.cern.ch/event/1422680/contributions/6029252/
+    meetingurl: https://indico.cern.ch/event/1422680/
+    project: acts
+    location: Princeton, USA

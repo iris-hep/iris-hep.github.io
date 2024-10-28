@@ -1,4 +1,4 @@
-active: true
+active: false
 e-mail: saransh0701@gmail.com
 focus-area:
   - as
@@ -6,9 +6,28 @@ institution: Princeton University
 name: Saransh Chopra
 photo: "/assets/images/team/Saransh-Chopra.jpeg"
 shortname: Saransh-cpp
-title: Research Software Intern
+title: Assistant Research Software Engineer - UCL Centre for Advanced Research Computing
 website: https://saransh-cpp.github.io
 presentations:
+  - title: "A new SymPy backend for vector: uniting experimental and theoretical physicists"
+    date: 2024-07-03
+    url: https://indi.to/pfTC6
+    meeting: PyHEP 2024 (virtual) Workshop
+    meetingurl: https://indico.cern.ch/event/1384010/
+    recordingurl: https://youtu.be/6x1kQy5cQlc
+    location: online
+    focus-area: as
+    project: vector
+
+  - title: Enabling auto-differentiation for the Scikit-HEP ecosystem
+    date: 2024-02-26
+    url: https://indico.cern.ch/event/1374922/contributions/5778611/attachments/2807131/4900286/autodiff-for-scikithep.pdf
+    meeting: Research Software Intern Talks
+    meetingurl: https://indico.cern.ch/event/1374922
+    location: online
+    focus-area: as
+    project: awkward
+
   - title: What's new with Vector? First major release is out!
     date: 2023-10-09
     url: https://indi.to/35ym5
@@ -19,6 +38,27 @@ presentations:
     focus-area: as
     project: vector
 
+  - title: Compiling Awkward Lorentz Vectors with Numba
+    date: 2022-10-27
+    url: https://indi.to/d6LBZ
+    meeting: 21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+    meetingurl: https://indico.cern.ch/event/1106990
+    location: Bari, Italy
+    focus-area: as
+    project:
+      - vector
+      - awkward
+
+  - title: Vector - Constructors, documentation, and benchmarks
+    date: 2022-10-05
+    url: https://indico.cern.ch/event/1195273/contributions/5075655/attachments/2522735/4338115/IRIS-HEP%20final%20presentation%20-%20Saransh%20Chopra.pdf
+    meeting: IRIS-HEP Fellowship Final Presentations
+    meetingurl: https://indico.cern.ch/event/1195273/
+    location: online
+    recordingurl: https://www.youtube.com/watch?v=rjqnJbT7T1s
+    focus-area: as
+    project: vector
+
   - title: Constructing HEP vectors and analyzing HEP data using Vector
     date: 2022-09-13
     url: https://indi.to/bPmMc
@@ -26,5 +66,14 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1150631/
     location: online
     recordingurl: https://www.youtube.com/watch?v=4iveMzrbe7s&list=PLKZ9c4ONm-VkohKG-skzEG_gklMaSgaO7&index=14
+    focus-area: as
+    project: vector
+
+  - title: Vector - Constructors, documentation, and benchmarks
+    date: 2022-06-15
+    url: https://indico.cern.ch/event/1155138/contributions/4850299/subcontributions/385059/attachments/2463404/4223807/Saransh-Chopra.pdf
+    meeting: IRIS-HEP Fellows Lightning Talks
+    meetingurl: https://indico.cern.ch/event/1155138/
+    recordingurl: https://www.youtube.com/watch?v=fLt7BHuASpw
     focus-area: as
     project: vector

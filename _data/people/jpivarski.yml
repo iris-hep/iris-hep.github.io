@@ -722,3 +722,99 @@ presentations:
       - uproot
       - vector
       - scikit-hep
+  - title: "Scientific Python"
+    date: 2024-05-22
+    url: https://github.com/jpivarski-talks/2024-05-22-hsf-india-tutorial-delhi
+    meeting: "HSF-India HEP Software Workshop at the University of Delhi"
+    meetingurl: https://indico.cern.ch/event/1386725/
+    location: Delhi, India
+    focus-area:
+      - as
+    project:
+      - awkward
+      - awkward-dask
+      - uproot
+      - vector
+      - scikit-hep
+  - title: "Columnar analysis and Awkward"
+    date: 2024-06-20
+    url: https://github.com/jpivarski-talks/2024-06-20-uscms-princeton-tutorial
+    meeting: "USCMS/IRIS-HEP Analysis Software Training"
+    meetingurl: https://indico.cern.ch/event/1383972/
+    location: Princeton, NJ, US
+    focus-area:
+      - as
+    project:
+      - awkward
+      - awkward-dask
+      - uproot
+      - vector
+      - scikit-hep
+  - title: "Data science and machine learning"
+    date: 2024-07-08
+    url: https://github.com/jpivarski-talks/2024-07-08-scipy-teen-track
+    meeting: "SciPy Teen Track"
+    meetingurl: https://www.scipy2024.scipy.org/#Teen-Track
+    location: Tacoma, WA, US
+    focus-area:
+      - as
+  - title: "Columnar analysis and Awkward"
+    date: 2024-07-18
+    url: https://github.com/jpivarski-talks/2024-07-18-usatlas-seattle-tutorial
+    meeting: "US ATLAS / IRIS-HEP Analysis Software Training Event 2024"
+    meetingurl: https://indico.cern.ch/event/1376945/
+    location: Seattle, WA, US
+    focus-area:
+      - as
+    project:
+      - awkward
+      - awkward-dask
+      - uproot
+      - vector
+      - scikit-hep
+  - title: "Introduction to machine learning"
+    date: 2024-07-24
+    url: https://github.com/jpivarski-talks/2024-07-24-codas-hep-ml
+    meeting: "Sixth Computational and Data Science school for HEP (CoDaS-HEP 2024)"
+    meetingurl: https://indico.cern.ch/event/1422680/timetable/#all.detailed
+    location: Princeton, NJ, US
+    focus-area:
+      - as
+  - title: "Awkward Arrays: Accelerating scientific data analysis on irregularly shaped data (poster)"
+    date: 2024-08-12
+    url: https://github.com/jpivarski-talks/2024-08-12-cssi-meeting-poster
+    meeting: "NSF CSSI/CyberTraining/SCIPE PI Meeting"
+    meetingurl: https://confmeet.github.io/ccs2024/
+    location: Charlotte, NC, US
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Setting the Scene"
+    date: 2024-08-19
+    url: https://github.com/jpivarski-talks/2024-08-19-python-school-setting-stage
+    meeting: "Fast and Efficient Python Programming School"
+    meetingurl: https://indico.desy.de/event/40133/
+    location: Aachen, Germany
+    focus-area:
+      - as
+  - title: "HEP-Help: a first-stop helpline for particle physics software"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6011109/
+    meeting: "CHEP 2024"
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: Kraków, Poland
+    focus-area:
+      - as
+    project:
+      - scikit-hep
+  - title: "GIL-free scaling of Uproot with Python 3.13 subinterpreters"
+    date: 2024-10-23
+    url: https://indico.cern.ch/event/1338689/contributions/6015924/
+    meeting: "CHEP 2024"
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: Kraków, Poland
+    focus-area:
+      - as
+    project:
+      - uproot

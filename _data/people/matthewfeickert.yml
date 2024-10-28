@@ -3,6 +3,7 @@ e-mail: matthew.feickert@cern.ch
 focus-area:
   - as
   - ssc
+inspire-id: M.Feickert.1
 institution: University of Wisconsin–Madison
 past_institution:
   {
@@ -12,7 +13,7 @@ past_institution:
 name: Matthew Feickert
 photo: "/assets/images/team/matthewfeickert.jpeg"
 shortname: matthewfeickert
-title: Postdoctoral Researcher and Analysis Systems Area Lead
+title: Research Scientist and Analysis Systems Area Lead
 website: https://www.matthewfeickert.com
 presentations:
   - title: "pyhf: a pure Python implementation of HistFactory with tensors and autograd"
@@ -464,5 +465,41 @@ presentations:
     meeting: "UC Berkeley Neyman Seminar"
     meetingurl: https://events.berkeley.edu/neyman-seminar/event/236154-neyman-seminar-matthew-feickert
     location: Berkeley, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Coffea columnar analysis framework"
+    date: 2024-06-18
+    url: https://indico.cern.ch/event/1376945/contributions/5787150/
+    meeting: "US ATLAS / IRIS-HEP Analysis Software Training Event"
+    meetingurl: https://indico.cern.ch/event/1376945/
+    location: Seattle, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Distributing your Science: Turning analyses into scientific tools"
+    date: 2024-06-29
+    url: https://matthewfeickert-talks.github.io/talk-urssi-summer-school-2024/
+    meeting: "US Research Software Sustainability Institute (URSSI) Summer School on Research Software and Open Science"
+    meetingurl: https://github.com/si2-urssi/summerschool-July2024
+    location: Urbana, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Analysis Systems Focus Area Summary"
+    date: 2024-09-04
+    url: https://indico.cern.ch/event/1374962/contributions/5778772/subcontributions/463287
+    meeting: "IRIS-HEP Institute Retreat 2024"
+    meetingurl: https://indico.cern.ch/event/1374962/
+    location: Seattle, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "Building a Columnar Analysis Demonstrator for ATLAS PHYSLITE Open Data using the Python Ecosystem"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6015915/
+    meeting: "CHEP 2024 - Conference on Computing in High Energy and Nuclear Physics"
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: Kraków, Poland
     focus-area: as
     project:

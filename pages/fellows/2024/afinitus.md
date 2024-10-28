@@ -1,8 +1,8 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname: 98845821
-permalink: /fellows/98845821.html
+shortname: afinitus
+permalink: /fellows/afinitus.html
 fellow-name: Nishank Gite
 title: Nishank Gite - IRIS-HEP Fellow
 active: True
