@@ -1,8 +1,8 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname: 98845821
-permalink: /fellows/98845821.html
+shortname: afinitus
+permalink: /fellows/afinitus.html
 fellow-name: Nishank Gite
 title: Nishank Gite - IRIS-HEP Fellow
 active: True
@@ -23,13 +23,13 @@ mentors:
   - Lukas Heinrich (TUM)
 proposal: /assets/pdf/fellows-2024/USA080-proposal-Nishank-Gite.pdf
 presentations:
-  # - title: "<Presentation Title>"
-  #   date: "Presentation Date"
-  #   url: <Presentation materials link>
-  #   meeting: <Meeting name>
-  #   meetingurl: <Meeting url - indico link, etc.>
-  #   recordingurl: <Recording url> (Optional)
-  #   focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+- title: "Differentiable Jet Clustering"
+  date: 2024-10-16
+  url: https://indico.cern.ch/event/1462636/contributions/6166057/attachments/2949385/5183918/IRISHEP%20Final%20Presentation%20-%20Differentiable%20Jet%20Clustering%20-%20Nishank%20Gite.pdf
+  meeting: IRIS-HEP Fellows Presentations 2024
+  meetingurl: https://indico.cern.ch/event/1462636/
+  recordingurl: None
+  focus-area: as
 current_status:
 github-username: afinitus
 linkedin-profile: https://www.linkedin.com/in/nishank-g-997b13132/
