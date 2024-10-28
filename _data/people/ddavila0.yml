@@ -9,6 +9,34 @@ shortname: ddavila0
 title: Scientific Software Developer and Researcher
 website:
 presentations:
+  - title: "Integration between Rucio and SENSE"
+    date: 2024-10-02
+    url: https://indico.cern.ch/event/1343110/contributions/6119458/attachments/2939437/5163693/Integration%20between%20Rucio%20and%20SENSE.pdf
+    meeting: "7th Rucio Community Workshop"
+    meetingurl: https://indico.cern.ch/event/1343110/
+    focus-area: doma
+    project: tpc
+  - title: "Network isolation for multi-IP exposure in XRootD"
+    date: 2024-09-13
+    url: https://indico.cern.ch/event/1386888/contributions/6104043/attachments/2927262/5139082/Network%20Isolation%20for%20multi-IP%20exposure%20in%20XRootD.pdf
+    meeting: "XRootD and FTS Workshop"
+    meetingurl: https://indico.cern.ch/event/1386888/overview
+    focus-area: doma
+    project: tpc
+  - title: "Rucio/SENSE in SSL"
+    date: 2024-09-05
+    url: https://indico.cern.ch/event/1374962/
+    meeting: "IRIS-HEP Institute Retreat"
+    meetingurl: https://indico.cern.ch/event/1374962/
+    focus-area: doma
+    project: tpc
+  - title: "Rucio/SENSE during DC24"
+    date: 2024-03-27
+    url: https://indico.cern.ch/event/1396412/contributions/5869595/attachments/2828210/4941337/Rucio_SENSE%20during%20DC24-1.pdf
+    meeting: "S&C Blueprint Meeting"
+    meetingurl: https://indico.cern.ch/event/1396412/
+    focus-area: doma
+    project: tpc
   - title: "Rucio/SENSE in DC24"
     date: 2023-11-09
     url: https://indico.cern.ch/event/1307338/contributions/5657204/attachments/2749033/4784331/Rucio_SENSE%20DC24%20workshop%20(1).pdf
