@@ -518,3 +518,38 @@ presentations:
       - as
     project:
       - madminer
+
+  - title: "Statistical tools: pyhf and cabinetry"
+    date: 2024-07-19
+    url: https://indico.cern.ch/event/1376945/contributions/5787159/
+    meeting: US ATLAS / IRIS-HEP Analysis Software Training Event 2024
+    meetingurl: https://indico.cern.ch/event/1376945/
+    location: "Seattle, WA"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+      - pyhf
+
+  - title: "Model misspecification meets ML: a HEP perspective"
+    date: 2024-09-12
+    url: https://indico.cern.ch/event/1407421/contributions/6055431/
+    meeting: PHYSTAT - Statistics meets ML
+    meetingurl: https://indico.cern.ch/event/1407421/
+    location: "London, UK"
+    focus-area:
+      - as
+    project:
+
+  - title: "The 200 Gbps Challenge: Imagining HL-LHC analysis facilities"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6009824/
+    meeting: CHEP 2024
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: "Krakow, Poland"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    project:
+      - agc
