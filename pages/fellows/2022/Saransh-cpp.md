@@ -39,6 +39,14 @@ mentors:
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
 - title: "A new SymPy backend for vector: uniting experimental and theoretical physicists"
+  date: 2024-10-21
+  url: https://indi.to/zTs5b
+  meeting: CHEP 2024
+  meetingurl: https://indico.cern.ch/event/1338689/
+  location: Krakow, Poland
+  focus-area: as
+  project: vector
+- title: "A new SymPy backend for vector: uniting experimental and theoretical physicists"
   date: 2024-07-03
   url: https://indi.to/pfTC6
   meeting: PyHEP 2024 (virtual) Workshop
