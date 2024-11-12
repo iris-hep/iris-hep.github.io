@@ -40,3 +40,43 @@ presentations:
     project: tpc
     focus-area: doma
     location: Denver, CO
+  - title: "Data Movement Manager for the Rucio-SENSE Interoperation Prototype"
+    date: 2024-04-11
+    url: https://indico.cern.ch/event/1397996/contributions/5902931/attachments/2840184/4964315/DMM.pdf
+    meeting: Rucio Meeting
+    meetingurl: https://indico.cern.ch/event/1397996/
+    project: tpc
+    focus-area: doma
+    location: Virtual
+  - title: "Rucio-SENSE Interoperation Prototype"
+    date: 2024-10-15
+    url: https://docs.google.com/presentation/d/1shq0WPZP_n9hRKV0n78s1DGus9wycxwaiTKDpbn47QI/edit#slide=id.g2fa7c118dea_1_402
+    meeting: CMS Rucio Meeting
+    meetingurl: https://indico.cern.ch/event/1368210/
+    project: tpc
+    focus-area: doma
+    location: Virtual
+  - title: "Data Movement Manager (DMM) for the SENSE-Rucio Interoperation Prototype"
+    date: 2024-10-22
+    url: https://indico.cern.ch/event/1338689/contributions/6010883/attachments/2952078/5189610/CHEP24_DMM.pdf
+    meeting: CHEP'24
+    meetingurl: https://indico.cern.ch/event/1338689/
+    project: tpc
+    focus-area: doma
+    location: Krakow, Poland
+  - title: "Benchmarking XRootD-HTTPS on 400Gbps Links with Variable Latencies"
+    date: 2024-10-23
+    url: https://indico.cern.ch/event/1338689/contributions/6010884/attachments/2952346/5190108/CHEP_XRootD_poster.pdf
+    meeting: CHEP'24
+    meetingurl: https://indico.cern.ch/event/1338689/
+    project: tpc
+    focus-area: doma
+    location: Krakow, Poland
+  - title: "The current status of the Rucio/SENSE integration project"
+    date: 2024-10-30
+    url: https://indico.cern.ch/event/1460070/contributions/6175241/attachments/2957005/5199934/The%20current%20status%20of%20the%20Rucio_SENSE%20integration%20project%20-%20CMS%20O&C%20week%202024-10-30-1.pdf
+    meeting: CMS O&C Week
+    meetingurl: https://indico.cern.ch/event/1460070/
+    project: tpc
+    focus-area: doma
+    location: CERN
