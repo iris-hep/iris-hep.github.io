@@ -1,7 +1,5 @@
 active: true
-focus-area:
-  - ServiceX
-  - Func_ADL
+focus-area: as
 institution: University of Washington
 name: Roger Janusiak
 photo: /assets/images/team/roger-janusiak.jpg
