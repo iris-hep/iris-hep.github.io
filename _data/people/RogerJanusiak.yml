@@ -1,11 +1,11 @@
 active: true
 focus-area:
-- ServiceX
-- Func_ADL
+  - ServiceX
+  - Func_ADL
 institution: University of Washington
 name: Roger Janusiak
 photo: /assets/images/team/roger-janusiak.jpg
 shortname: RogerJanusiak
 title: PhD Student
-website: 
+website:
 presentations:
