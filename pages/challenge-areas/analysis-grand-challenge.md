@@ -1,6 +1,7 @@
 ---
 permalink: /analysis-grand-challenge.html
 layout: challenge-area
+short_title: agc
 title: Analysis Grand Challenge
 ---
 
