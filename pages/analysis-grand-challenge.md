@@ -40,25 +40,3 @@ This challenge involves milestones and deliverables in DOMA, Analysis Systems, a
 The video below provides an overview of the tools being developed by the Analysis Systems focus area, the deployment of those tools on analysis facilities, and the integration of these efforts in the context of the Analysis Grand Challenge.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDpk0tYOVlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- NOT WANTING TO DELETE THIS YET
-**User Story**: “The analyzer wants to optimize an analysis end-to-end for a targeted signal hypothesis (including systematics) on an HL-LHC sized dataset so that they can obtain sensitive observed results for that signal while still being able to later reinterpret the analysis for various signal hypotheses.”
-
-### Assumptions
-
-- The analyzer has 200 TB for background MC samples, a specific signal hypothesis to target for optimization, a placeholder for “observed data”, and multiple signal scenarios suitable for reinterpretation.
-- The analyzer has a moderately complex LHC analysis with multiple selection regions, cuts, and variables to be histogrammed for input to a template analysis tool like that of pyhf.
-- The analyzer has access to an analysis facility with ServiceX and SkyHook and 1500 cores. The number of cores estimate is based on the requirement of being able to do a full iteration of the analysis in 25 minutes: if each core can process @ 50 kHz each this gives 75MHz which would process 100B events @ 2kB/event (=200 TB) in 25 min. To optimize the result multiple iterations will have to be performed.
-
-### Acceptance Criteria
-
-- End-to-end analysis optimization including systematics on a realistically sized HL-LHC (∼200 TB) end-user analysis dataset + observed limit & reinterpretation afterburner
-- End-to-end starts with the hand-off from DOMA via ServiceX and SkyHook. Specifications of regions, variables, and systematic variations declared using cabinetry and func adl. Use of ServiceX, SkyHook, Coffea to perform event selection and deliver histograms for the pyhf model.
-12
-- Optimize analysis by using automatic differentiation to compute the gradient of the optimization target (e.g. analysis sensitivity) with respect to the analysis parameters, which are back-propagated from from output of statistics tool, through pyhf running in fitting service, back to ServiceX running at analysis facility, and through the event selection and histogramming code.
-- Once optimized and final analysis parameters are set, apply the analysis to “observed data” (may also be synthetic in reality) to obtain “observed limits”.
-- End-to-end analysis optimization and results can be achieved in 24-72 hours with an analysis facility that has the anticipated HL-LHC capabilities
-- Analysis Preservation & RECASTing: Preserve the optimized analysis (in git repositories, docker images, workflow components, etc.) and reproduce results and reinterpret the analysis with a new signal hypothesis.
-
-
--->

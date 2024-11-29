@@ -4,7 +4,7 @@ layout: default
 title: Training Grand Challenge
 ---
 
-## Training Grand Challenge
+# Training Grand Challenge
 
 We are now working to define, with the larger community, a series of specific goals for the period 2021-2023 in four categories and to work with the community to achieve them.
 

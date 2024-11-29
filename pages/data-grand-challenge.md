@@ -4,7 +4,7 @@ layout: default
 title: Data Grand Challenge
 ---
 
-## Data Processing Grand Challenge
+# Data Processing Grand Challenge
 
 During a nominal year of HL-LHC data taking, ATLAS and CMS together expect to take close to one exabyte of RAW data. Both experiments intend to process each year’s worth of data as early as possible in the year after. A reasonable working assumption is thus that one exabyte of data across both experiments will have to be processed in 100 days, or roughly 10 PB/day, or 1 Tbit/sec.
 
