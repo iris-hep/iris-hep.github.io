@@ -1,12 +1,12 @@
 ---
 permalink: /projects/200gbps.html
 layout: project
-title: 200gbps
+title: 200 Gbps Challenge
 shortname: 200gbps
 pagetype: project
-#image: logos/Iris-hep-5-just-graphic.png
+image: logos/Iris-hep-5-just-graphic.png
 blurb: 200gbps
-maturity: Development
+maturity: Deployed
 maturity-note:
 github: https://github.com/iris-hep/idap-200gbps
 start-date: 2024-03-15
