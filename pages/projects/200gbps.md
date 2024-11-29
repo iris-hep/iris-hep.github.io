@@ -6,7 +6,7 @@ shortname: 200gbps
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: 200gbps
-maturity: Deployed
+maturity: Testing
 maturity-note:
 github: https://github.com/iris-hep/idap-200gbps
 start-date: 2024-03-15
