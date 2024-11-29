@@ -1,6 +1,6 @@
 ---
 permalink: /analysis-grand-challenge.html
-layout: default
+layout: challenge-area
 title: Analysis Grand Challenge
 ---
 
