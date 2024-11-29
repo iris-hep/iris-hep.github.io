@@ -1,6 +1,6 @@
 ---
 permalink: /training-grand-challenge.html
-layout: default
+layout: challenge-area
 title: Training Grand Challenge
 ---
 

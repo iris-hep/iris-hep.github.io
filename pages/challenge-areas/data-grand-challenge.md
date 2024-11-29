@@ -1,6 +1,6 @@
 ---
 permalink: /data-grand-challenge.html
-layout: default
+layout: challenge-area
 title: Data Grand Challenge
 ---
 
