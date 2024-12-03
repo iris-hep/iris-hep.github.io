@@ -11,6 +11,7 @@
       "type": "array",
       "items": { "$ref": "#/definitions/focus_area" }
     },
+    "challenge-area": { "$ref": "#/definitions/challenge_area" },
     "inspire-id": { "type": "string" },
     "institution": { "type": "string" },
     "name": { "type": "string" },
