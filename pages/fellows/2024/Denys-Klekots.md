@@ -28,14 +28,12 @@ presentations:
     meeting: IRIS-HEP Fellows "Lightning" Talks
     meetingurl: https://indico.cern.ch/event/1428968/
     recordingurl: https://youtu.be/kErL8Gy6HC4?t=2578
-    focus-area: 
   - title: "Denys Klekots - Analysis Grand Challenge with ATLAS PHYSLITE data"
     date: "2024-09-18"
-    url: https://indico.cern.ch/event/1455396/contributions/6126406/attachments/2930401/5145764/PHYSLITE_AGS_ATLAS_TALK.pdf
+    url: https://indico.cern.ch/event/1455396/#4-denys-klekots-analysis-grand
     meeting: IRIS-HEP Fellows Final Presentations
     meetingurl: https://indico.cern.ch/event/1455396/
     recordingurl: https://youtu.be/vdWOrYRHoGE?t=2751
-    focus-area:  
 current_status: >
     Completed
 github-username: Denys-Klekots
