@@ -5,7 +5,7 @@ shortname: Denys-Klekots
 permalink: /fellows/Denys-Klekots.html
 fellow-name: Denys Kleots
 title: Denys Klekots - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-03
   end: 2024-08-26
@@ -22,15 +22,21 @@ mentors:
   - Vangelis Kourlitis (Technical University of Munich)
 proposal: /assets/pdf/fellows-2024/UKR054-proposal-Denys-Klekots.pdf
 presentations:
-#   - title: "<Presentation Title"
-#     date: "Presentation Date"
-#     url: <Presentation materials link>
-#     meeting: <Meeting name>
-#     meetingurl: <Meeting url - indico link, etc.>
-#     recordingurl: <Recording url> (Optional)
-#     focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
-current_status: #>
-#   A placeholder for status updates
+  - title: "Denys Klekots - Analysis Grand Challenge with ATLAS PHYSLITE data"
+    date: "2024-06-26"
+    url: https://indico.cern.ch/event/1428968/#8-denys-klekots-analysis-grand
+    meeting: IRIS-HEP Fellows "Lightning" Talks
+    meetingurl: https://indico.cern.ch/event/1428968/
+    recordingurl: https://youtu.be/kErL8Gy6HC4?t=2578
+  - title: "Denys Klekots - Analysis Grand Challenge with ATLAS PHYSLITE data"
+    date: "2024-09-18"
+    url: https://indico.cern.ch/event/1455396/#4-denys-klekots-analysis-grand
+    meeting: IRIS-HEP Fellows Final Presentations
+    meetingurl: https://indico.cern.ch/event/1455396/
+    recordingurl: https://youtu.be/vdWOrYRHoGE?t=2751
+current_status: >
+    Completed
 github-username: Denys-Klekots
+gitlab-url: https://gitlab.cern.ch/dklekots/
 linkedin-profile: https://www.linkedin.com/in/denys-klekots-319482230
 ---
