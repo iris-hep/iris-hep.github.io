@@ -12,6 +12,7 @@ maturity-note:
 focus-area:
  - doma
  - as
+challenge-area: analysis-grand-challenge
 team:
  - oshadura
  - alexander-held
