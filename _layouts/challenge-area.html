@@ -146,15 +146,6 @@
   </div>
 </section>
 
-{% if sorted.size > 0 %}
-  {{ sorted | gantt_project: page.title }}
-
-  <script>
-    mermaid.initialize({ startOnLoad: true });
-  </script>
-{% endif %}
-
-
         </main>
       </div>
       {% include_cached footer.html %}
