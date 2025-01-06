@@ -19,6 +19,9 @@
     "focus-area": {
       "$ref": "#/definitions/focus_areas"
     },
+    "challenge-area": {
+      "$ref": "#/definitions/challenge_areas"
+    },
     "title": { "type": "string" },
     "date": { "type": "string", "format": "date" },
     "citation": { "type": "string" },
@@ -48,6 +51,18 @@
         { "type": "null" },
         { "$ref": "#/definitions/focus_area" },
         { "type": "array", "items": { "$ref": "#/definitions/focus_area" } }
+      ]
+    },
+    "challenge_area": {
+      "enum": [
+        "agc"
+      ]
+    },
+    "challenge_areas": {
+      "oneOf": [
+        { "type": "null" },
+        { "$ref": "#/definitions/challenge_area" },
+        { "type": "array", "items": { "$ref": "#/definitions/challenge_area" } }
       ]
     },
     "string_or_array": {
