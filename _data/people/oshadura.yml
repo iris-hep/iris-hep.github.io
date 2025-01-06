@@ -1,5 +1,6 @@
 active: true
-challenge-area: agc
+challenge-area:
+  - agc
 focus-area:
   - doma
   - as

@@ -11,7 +11,10 @@
       "type": "array",
       "items": { "$ref": "#/definitions/focus_area" }
     },
-    "challenge-area": { "$ref": "#/definitions/challenge_area" },
+    "challenge-area": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/challenge_area" }
+    },
     "inspire-id": { "type": "string" },
     "institution": { "type": "string" },
     "name": { "type": "string" },
@@ -46,13 +49,20 @@
       "enum": ["as", "ia", "ssc", "doma", "ssl", "osglhc", "core"]
     },
     "challenge_area": {
-      "enum": ["analysis-grand-challenge"]
+      "enum": ["agc"]
     },
     "focus_areas": {
       "oneOf": [
         { "type": "null" },
         { "$ref": "#/definitions/focus_area" },
         { "type": "array", "items": { "$ref": "#/definitions/focus_area" } }
+      ]
+    },
+    "challenge_areas": {
+      "oneOf": [
+        { "type": "null" },
+        { "$ref": "#/definitions/challenge_area" },
+        { "type": "array", "items": { "$ref": "#/definitions/challenge_area" } }
       ]
     },
     "presentation": {

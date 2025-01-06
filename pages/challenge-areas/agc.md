@@ -38,7 +38,8 @@ would accelerate and improve essentially all fitting / tuning / optimization tas
 
 This challenge involves milestones and deliverables in DOMA, Analysis Systems, and SSL. Year 3 will include a Blueprint and other meetings focused on scoping of the target analysis, the needed capabilities of an analysis system, and roadmaps for how the components will interact. Year 4 will include initial benchmarking of analysis system components and integrations, and we aim to execute the analysis grand challenge in Year 5.
 
-
+<!---
 The video below provides an overview of the tools being developed by the Analysis Systems focus area, the deployment of those tools on analysis facilities, and the integration of these efforts in the context of the Analysis Grand Challenge.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDpk0tYOVlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->

@@ -13,7 +13,8 @@ start-date: 2024-03-15
 focus-area:
  - as
  - doma
-challenge-area: analysis-grand-challenge
+challenge-area:
+  - agc
 team:
  - oshadura
  - alexander-held

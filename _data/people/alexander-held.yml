@@ -1,6 +1,7 @@
 active: true
 e-mail: alexander.held@cern.ch
-challenge-area: analysis-grand-challenge
+challenge-area:
+  - agc
 focus-area:
   - as
 inspire-id: Alexander.Held.1
