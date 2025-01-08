@@ -54,9 +54,7 @@
       ]
     },
     "challenge_area": {
-      "enum": [
-        "agc"
-      ]
+      "enum": ["agc"]
     },
     "challenge_areas": {
       "oneOf": [
