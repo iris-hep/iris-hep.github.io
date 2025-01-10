@@ -5,7 +5,7 @@ shortname: HavryliukAY
 permalink: /fellows/HavryliukAY.html
 fellow-name: Artem Havryliuk
 title: Artem Havryliuk - IRIS-HEP Fellow
-active: True
+active: False
 dates:
 - start: 2022-06-27
   end: 2022-09-19
