@@ -5,7 +5,7 @@ shortname: samf25
 permalink: /fellows/samf25.html
 fellow-name: Samuel Ferraro
 title: Samuel Ferraro - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-03
   end: 2024-08-16
