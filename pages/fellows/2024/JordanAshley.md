@@ -5,7 +5,7 @@ shortname: JordanAshley
 permalink: /fellows/JordanAshley.html
 fellow-name: Jordan Science Ashley
 title: Jordan Science Ashley - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-05-20
   end: 2024-08-11

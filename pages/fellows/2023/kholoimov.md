@@ -5,7 +5,7 @@ shortname: Kholoimov Valerii
 permalink: /fellows/KholoimovValerii.html
 fellow-name: Valerii Kholoimov
 title: Valerii Kholoimov - IRIS-HEP Fellow
-active: True
+active: False
 dates:
 - start: 2023-06-19
   end: 2023-09-10

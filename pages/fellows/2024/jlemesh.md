@@ -5,7 +5,7 @@ shortname: jlemesh
 permalink: /fellows/jlemesh.html
 fellow-name: Jelizaveta Lemeševa
 title: Jelizaveta Lemeševa - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-07-22
   end: 2024-10-22
