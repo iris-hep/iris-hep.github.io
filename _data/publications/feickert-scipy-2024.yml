@@ -12,3 +12,4 @@ project:
   - vector
   - pyhf
   - cabinetry
+  - columnar-physlite
