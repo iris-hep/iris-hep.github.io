@@ -5,7 +5,7 @@ shortname: GiedriusJuskevicius
 permalink: /fellows/GiedriusJuskevicius.html
 fellow-name: Giedrius Juškevičius
 title: Giedrius Juškevičius - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-07-29
   end: 2024-09-22

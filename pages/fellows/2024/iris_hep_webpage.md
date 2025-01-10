@@ -5,7 +5,7 @@ shortname: shindesc
 permalink: /fellows/shindesc.html
 fellow-name: Sara Shinde
 title: Sara Shinde - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-03
   end: 2024-08-12

@@ -5,7 +5,7 @@ shortname:  YuriiPerets
 permalink: /fellows/YuriiPerets.html
 fellow-name: Yurii Perets
 title: Yurii Perets - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-07-01
   end: 2024-09-30

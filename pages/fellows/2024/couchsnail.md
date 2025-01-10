@@ -5,7 +5,7 @@ shortname: couchsnail
 permalink: /fellows/couchsnail.html
 fellow-name: Camille Sicat
 title: Camille Sicat - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-24
   end: 2024-09-06

@@ -5,7 +5,7 @@ shortname: afinitus
 permalink: /fellows/afinitus.html
 fellow-name: Nishank Gite
 title: Nishank Gite - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-24
   end: 2024-09-16

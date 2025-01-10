@@ -5,7 +5,7 @@ shortname: rimantasff
 permalink: /fellows/rimantasff.html
 fellow-name: Rimantas Naina
 title: Rimantas Naina - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-07-15
   end: 2024-10-04

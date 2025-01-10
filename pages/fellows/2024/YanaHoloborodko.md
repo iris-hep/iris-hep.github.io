@@ -5,7 +5,7 @@ shortname: hooloobooroodkoo
 permalink: /fellows/hooloobooroodkoo.html
 fellow-name: Yana Holoborodko
 title: Yana Holoborodko - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-07-03
   end: 2024-09-30

@@ -5,7 +5,7 @@ shortname: viknsky360
 permalink: /fellows/viknsky360.html
 fellow-name: Viktoriia Tarasenko
 title: Viktoriia Tarasenko - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-15
   end: 2024-09-07

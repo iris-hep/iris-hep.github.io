@@ -5,7 +5,7 @@ shortname: OleksandrShelestiuk
 permalink: /fellows/OleksandrShelestiuk.html
 fellow-name: Oleksandr Shelestiuk
 title: Oleksandr Shelestiuk - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-20
   end: 2024-09-12

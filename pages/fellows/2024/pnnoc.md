@@ -5,7 +5,7 @@ shortname: couchsnail
 permalink: /fellows/pnnoc.html
 fellow-name: Con Muangkod
 title: Con Muangkod - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-03
   end: 2024-08-24

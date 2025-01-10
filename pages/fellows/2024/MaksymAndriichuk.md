@@ -5,7 +5,7 @@ shortname: maksym-andriichuk
 permalink: /fellows/maksym-andriichuk.html
 fellow-name: Andriichuk Maksym
 title: Andrichuk Maksym - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-10
   end: 2024-09-02

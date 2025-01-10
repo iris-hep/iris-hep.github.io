@@ -5,7 +5,7 @@ shortname: alex-schmidty
 permalink: /fellows/alex-schmidty.html
 fellow-name: Alexander Christoph Schmidt
 title: Alexander Schmidt - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-05-28
   end: 2024-08-20

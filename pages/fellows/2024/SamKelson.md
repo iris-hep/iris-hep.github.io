@@ -5,7 +5,7 @@ shortname: SamKelson
 permalink: /fellows/SamKelson.html
 fellow-name: Sam Kelson
 title: Sam Kelson - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-05-20
   end: 2024-08-20

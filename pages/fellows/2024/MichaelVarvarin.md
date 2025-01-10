@@ -5,7 +5,7 @@ shortname: MichaelVarvarin
 permalink: /fellows/MichaelVarvarin.html
 fellow-name: Mykhailo Varvarin
 title: Mykhailo Varvarin - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-10
   end: 2024-09-10

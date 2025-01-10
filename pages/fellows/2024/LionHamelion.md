@@ -5,7 +5,7 @@ shortname: LionHamelion
 permalink: /fellows/LionHamelion.html
 fellow-name: Volodymyr Kovalenko
 title: Volodymyr Kovalenko - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-24
   end: 2024-09-06

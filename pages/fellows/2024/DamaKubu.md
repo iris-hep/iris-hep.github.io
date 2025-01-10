@@ -5,7 +5,7 @@ shortname: DamaKubu
 permalink: /fellows/DamaKubu.html
 fellow-name: Danieliuss Kundrotas
 title: Danielius Kundrotas - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-06-20
   end: 2024-09-05
