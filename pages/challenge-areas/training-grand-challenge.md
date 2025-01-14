@@ -1,7 +1,9 @@
 ---
 permalink: /training-grand-challenge.html
 layout: challenge-area
+short_title: tgc
 title: Training Grand Challenge
+pagetype: challenge-area
 ---
 
 # Training Grand Challenge
