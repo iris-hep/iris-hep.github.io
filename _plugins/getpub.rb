@@ -122,7 +122,6 @@ module Publications
       #
       # Do we want to force every publication to have a challenge-area?
       # What about puts that existed before the challenges?
-
     end
 
     # Setup a publication - ensures open-science-cat is valid
