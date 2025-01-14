@@ -25,7 +25,9 @@ module Checks
         publication = Record.new(msg, pub_hash)
         publication.key 'focus-area', set: focus_areas if pub_hash.key? 'focus-area'
         publication.key 'challenge-area', set: focus_areas if pub_hash.key? 'challenge-area'
+        # rubocop:disable Layout/LineLength
         publication.key 'project', :optional, set: projects unless local_fa && local_fa < projectless && local_ca && local_ca < projectless
+        # rubocop:enable Layout/LineLength
 
         publication.print_warnings
       end
