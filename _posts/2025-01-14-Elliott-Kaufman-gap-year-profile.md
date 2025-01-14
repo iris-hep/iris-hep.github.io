@@ -5,7 +5,7 @@ author:  "Adam Hadhazy (adamhadhazy@gmail.com)"
 image: /assets/images/posts/2025-01-14-Elliott-Kaufman-gap-year-profile-image3.png
 image-whole: true
 image-caption: >
-    "Elliott Kauffman at ATLAS detector at CERN. Credit: Elliott Kauffman, Princeton University"
+    Elliott Kauffman at ATLAS detector at CERN. Credit: Elliott Kauffman, Princeton University
 summary: >
     "This story is the third in a series about gap year IRIS-HEP fellows and how the program has helped shape their careers."
 # figure-class: center
