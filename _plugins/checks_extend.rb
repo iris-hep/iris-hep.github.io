@@ -25,7 +25,7 @@ module IrisHep
 
     def challenge_areas
       @challenge_areas ||= begin
-        challenge_area_pages = @pages.site.select { |p| p['pagetype'] == 'challenge-area' }
+        challenge_area_pages = @site.pages.select { |p| p['pagetype'] == 'challenge-area' }
         challenge_area_pages.map { |p| File.basename(p.name, '.*.') }.to_set
       end
     end
