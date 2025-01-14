@@ -23,6 +23,13 @@ module IrisHep
       end
     end
 
+    def challenge_areas
+      @challenge_areas ||= begin
+        challenge_area_pages = @pages.site.select { |p| p['pagetype'] == 'challenge-area' }
+        challenge_area_pages.map { |p| File.basename(p.name, '.*.') }.to_set
+      end
+    end
+
     def ensure_array(hash, key)
       return unless hash.key? key
       return if hash[key].is_a? Array
