@@ -2,6 +2,8 @@
 permalink: /data-grand-challenge.html
 layout: challenge-area
 title: Data Grand Challenge
+short_title: dgc
+pagetype: challenge-area
 ---
 
 # Data Processing Grand Challenge
