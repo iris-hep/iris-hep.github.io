@@ -119,8 +119,8 @@ module Publications
       # Make sure there is a challenge-area
       # msg = "Publication #{name} must contain a challenge-area or project"
       # raise StandardError, msg if pub['challenge-area'].empty?
-      # 
-      # Do we want to force every publication to have a challenge-area?  
+      #
+      # Do we want to force every publication to have a challenge-area?
       # What about puts that existed before the challenges?
 
     end
