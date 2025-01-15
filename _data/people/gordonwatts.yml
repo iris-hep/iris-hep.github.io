@@ -437,6 +437,7 @@ presentations:
     meeting: "SciPy 2024"
     focus-area:
       - as
+      - columnar-physlite
     location: Tacoma, WA
   - title: "Leveraging Language Models to Navigate Conference Abstracts: An Open-Source Approach"
     date: 2024-10-21
