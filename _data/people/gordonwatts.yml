@@ -429,6 +429,7 @@ presentations:
     meeting: "SciPy 2024"
     focus-area:
       - as
+    project: awkward
     location: Tacoma, WA
   - title: "How the Scientific Python ecosystem helps answering fundamental questions of the Universe"
     date: 2024-07-10
@@ -437,7 +438,7 @@ presentations:
     meeting: "SciPy 2024"
     focus-area:
       - as
-      - columnar-physlite
+    project: columnar-physlite
     location: Tacoma, WA
   - title: "Leveraging Language Models to Navigate Conference Abstracts: An Open-Source Approach"
     date: 2024-10-21
