@@ -49,7 +49,7 @@
       "enum": ["as", "ia", "ssc", "doma", "ssl", "osglhc", "core"]
     },
     "challenge_area": {
-      "enum": ["agc"]
+      "enum": ["agc", "data-grand-challenge"]
     },
     "focus_areas": {
       "oneOf": [
