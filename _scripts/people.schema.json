@@ -76,7 +76,7 @@
         "meeting": { "$ref": "#/definitions/empty_string" },
         "meetingurl": { "$ref": "#/definitions/empty_string" },
         "focus-area": { "$ref": "#/definitions/focus_areas" },
-        "challenge-area": { "$ref": "#/definitions/challenge_area" },
+        "challenge-area": { "$ref": "#/definitions/challenge_areas" },
         "project": { "$ref": "#/definitions/string_or_array" },
         "location": { "$ref": "#/definitions/empty_string" },
         "comment": { "$ref": "#/definitions/empty_string" },
