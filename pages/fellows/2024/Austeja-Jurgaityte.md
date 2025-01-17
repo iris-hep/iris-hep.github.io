@@ -5,7 +5,7 @@ shortname: ZeptoStarling
 permalink: /fellows/ZeptoStarling.html
 fellow-name: Austėja Jurgaitytė
 title: Austėja Jurgaitytė - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-08-01
   end: 2024-09-06

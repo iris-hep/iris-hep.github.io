@@ -113,3 +113,31 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1422680/
     project: acts
     location: Princeton, USA
+  - title: "Focus Area Talk: Innovative Algorithms"
+    date: 2024-09-04
+    meeting: IRIS-HEP Retreat 2024
+    url: https://indico.cern.ch/event/1374962/contributions/5778772/
+    meetingurl: https://indico.cern.ch/event/1374962/
+    project: acts
+    location: Seattle, USA
+  - title: Hybrid ML/KF algorithm(s)
+    date: 2024-09-05
+    meeting: IRIS-HEP Retreat 2024
+    url: https://docs.google.com/presentation/d/1MYl_zBfGq7kGjmwfvFYa5c3VRFD0VTydTWZFe67zVVE/edit#slide=id.g2fbff64a74d_17_0
+    meetingurl: https://indico.cern.ch/event/1374962/
+    project: acts
+    location: Seattle, USA
+  - title: Cluster splitting
+    date: 2024-09-27
+    meeting: ACTS-ITk meeting
+    url: https://indico.cern.ch/event/1455682/contributions/6146361/
+    meetingurl: https://indico.cern.ch/event/1455682/
+    project: acts
+    location: CERN
+  - title: Cluster formation, calibration, & splitting
+    date: 2024-11-20
+    meeting: ACTS Developers Workshop 2024
+    url: https://indico.cern.ch/event/1397634/contributions/6204266/
+    meetingurl: https://indico.cern.ch/event/1397634/
+    project: acts
+    location: Bogis-Bossey, Switzerland

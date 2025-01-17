@@ -5,7 +5,7 @@ shortname: Ludsabl
 permalink: /fellows/LiudasAblacinskas.html
 fellow-name: Liudas Ablacinskas
 title: Liudas Ablacinskas - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2024-07-08
   end: 2024-08-28
