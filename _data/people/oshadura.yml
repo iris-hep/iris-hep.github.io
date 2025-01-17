@@ -1,4 +1,6 @@
 active: true
+challenge-area:
+  - agc
 focus-area:
   - doma
   - as
@@ -8,6 +10,7 @@ photo: "/assets/images/team/Oksana-Shadura_.jpg"
 shortname: oshadura
 title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
+
 presentations:
   - title: Tuning the CMS Coffea-casa facility for 200 Gbps Challenge
     date: 2024-10-24
@@ -21,6 +24,8 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
 
   - title: AGC & IDAP / 200 Gbps
     date: 2024-09-04
@@ -33,6 +38,8 @@ presentations:
       - doma
     project:
       - coffea-casa
+      - agc
+    challenge-area:
       - agc
 
   - title: Facilities R&D HSF highlights
@@ -60,6 +67,8 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
 
   - title: The 200 Gbps Challenge at Nebraska
     date: 2024-06-09
@@ -73,6 +82,8 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
 
   - title: Coffea-casa and 200 Gbps challenge - experience with Kubernetes
     date: 2024-06-11
@@ -85,6 +96,8 @@ presentations:
       - doma
     project:
       - coffea-casa
+      - agc
+    challenge-area:
       - agc
 
   - title: Notes about AF users UX feedback
@@ -125,6 +138,8 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
 
   - title: Analysis Grand Challenge (AGC)
     date: 2024-03-05
@@ -138,6 +153,8 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
 
   - title: AGC Deep Dive
     date: 2024-01-10
@@ -150,6 +167,8 @@ presentations:
       - doma
     project:
       - coffea-casa
+      - agc
+    challenge-area:
       - agc
 
   - title: Updates on Coffea-Casa AF
@@ -177,6 +196,8 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
 
   - title: Current Plans for AGC
     date: 2023-09-12
@@ -189,6 +210,8 @@ presentations:
       - doma
     project:
       - coffea-casa
+      - agc
+    challenge-area:
       - agc
 
   - title: Future Analysis Facilities R&D
@@ -216,6 +239,8 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
 
   - title: Analysis Grand Challenge & Coffea-Casa analysis facility as a test environment for packages and services
     date: 2023-07-27
@@ -229,6 +254,8 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
 
   - title: Analysis Grand Challenge
     date: 2023-07-11
@@ -241,6 +268,8 @@ presentations:
       - doma
     project:
       - coffea-casa
+      - agc
+    challenge-area:
       - agc
 
   - title: Coffea-casa analysis facility
@@ -291,6 +320,7 @@ presentations:
     project:
       - coffea-casa
       - agc
+
   - title: CMS O&C CDR - Evolution of Analysis Facilities
     date: 2023-03-05
     url: https://indico.cern.ch/event/1245259/contributions/5299969/attachments/2606183/4502964/CMS_CDR_AF.pdf
@@ -301,6 +331,7 @@ presentations:
       - doma
     project:
       - coffea-casa
+
   - title: Analysis Grand Challenge updates
     date: 2022-11-15
     url: https://indico.cern.ch/event/1216989/contributions/5119559/attachments/2538377/4388399/20221115_AGC_OPS(1).pdf
@@ -312,6 +343,8 @@ presentations:
       - doma
     project:
       - coffea-casa
+      - agc
+    challenge-area:
       - agc
 
   - title: First performance measurements with the Analysis Grand Challenge
@@ -326,6 +359,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: AGC - Perspective from focus areas and projects
     date: 2022-10-12
     url: https://indico.cern.ch/event/1196111/contributions/5067472/subcontributions/398380/attachments/2527401/4347559/Analysis%20Grand%20Challenge%20-%20IRIS-HEP%20retreat.pdf
@@ -338,6 +374,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: Analysis Grand Challenge updates
     date: 2022-10-04
     url: https://indico.cern.ch/event/1193364/contributions/5016503/attachments/2522003/4336717/AGC%20Ops%20Planning,%20October%204th%202022.pdf
@@ -350,6 +389,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: Report from Analysis Ecosystems II Workshop
     date: 2022-07-12
     url: https://indico.jlab.org/event/505/contributions/10100/attachments/8057/11397/HSF%20Analysis%20Ecosystems%20Workshop%20II%20Oksana%20Shadura.pdf
@@ -398,6 +440,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: Report about HSF Analysis Facilities Forum Kick-off meeting
     date: 2022-04-01
     url: https://indico.cern.ch/event/1132360/contributions/4759781/attachments/2415341/4132929/Analysis%20Grand%20Challenge%20HSF%20AF.pdf
@@ -410,6 +455,7 @@ presentations:
     project:
       - coffea-casa
       - agc
+
   - title: Analysis Grand Challenge updates
     date: 2022-04-05
     url: https://indico.cern.ch/event/1134876/contributions/4761553/attachments/2421358/4145395/Analysis%20Grand%20Challenge_Ops%202022_04_05.pdf
@@ -422,6 +468,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: CompF4 Analysis Facility - Discussion & Priorities
     date: 2022-04-08
     url: https://indico.fnal.gov/event/53251/sessions/20219/attachments/153931/199867/CompF4_%20Analysis%20Facility.pdf
@@ -434,6 +483,7 @@ presentations:
     project:
       - coffea-casa
       - agc
+
   - title: Analysis Grand Challenge updates
     date: 2022-01-28
     url: https://indico.cern.ch/event/1120687/#1-agenda-minutes
@@ -446,6 +496,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: Analysis Grand Challenge updates
     date: 2021-12-16
     url: https://indico.cern.ch/event/1105768/contributions/4652065/attachments/2366640/4041620/Analysis%20Grand%20Challenge_Ops.pdf
@@ -458,6 +511,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: Coffea-casa news and developments
     date: 2021-11-22
     url: https://indico.cern.ch/event/1098937/contributions/4624702/attachments/2350799/4177178/Coffea-casa%20news%20and%20developments.pdf
@@ -469,6 +525,7 @@ presentations:
       - doma
     project:
       - coffea-casa
+
   - title: Deep Dive - Analysis Grand Challenge
     date: 2021-11-17
     url: https://indico.cern.ch/event/1072896/contributions/4520882/attachments/2348094/4004513/20211117_AGC_deep_dive.pdf
@@ -481,6 +538,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: Analysis Facilities
     date: 2021-11-09
     url: https://indico.cern.ch/event/1092691/contributions/4595036/attachments/2342325/4018500/Analysis%20Facilities%20CMS%20O%26C%20R%26D.pdf
@@ -515,6 +575,9 @@ presentations:
     project:
       - coffea-casa
       - agc
+    challenge-area:
+      - agc
+
   - title: Coffea-casa - an analysis facility prototype
     date: 2021-09-24
     url: https://indico.cern.ch/event/1071685/contributions/4510234/attachments/2316062/3943371/coffea-casa%20ATLAS.pdf

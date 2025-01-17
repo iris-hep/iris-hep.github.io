@@ -41,6 +41,10 @@
                         {% endfor %}
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="/grand-challenges.html">Grand Challenges</a>
+                        {% assign activities = site.pages | where: "layout", "challenge-area" | sort_natural: 'title' %}
+                        {% for mypage in activities %}
+                        <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
+                        {% endfor %}
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="/impact-beyond-hep.html">Impact Beyond HEP</a>
                         <a class="dropdown-item" href="/outreach.html">Education and Outreach</a>

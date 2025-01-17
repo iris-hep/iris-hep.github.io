@@ -18,6 +18,7 @@ module Checks
           msg = "presentation ##{index} in _data/people/#{name}.yml"
 
           ensure_array(presentations[index], 'focus-area')
+          ensure_array(presentations[index], 'challenge-area')
           ensure_array(presentations[index], 'project')
 
           local_fa = pres_hash['focus-area']&.to_set
@@ -31,6 +32,7 @@ module Checks
           presentation.key 'meetingurl', :optional
           presentation.key 'location', :optional
           presentation.key 'focus-area', :optional, set: focus_areas
+          presentation.key 'challenge-area', :optional, set: challenge_areas
           presentation.key 'project', :optional, set: projects unless local_fa && local_fa < projectless
 
           presentation.print_warnings
