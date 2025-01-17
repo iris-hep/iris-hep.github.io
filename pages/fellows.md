@@ -24,7 +24,7 @@ To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP Fell
 {% assign active-fellows = fellows   | where_exp: "item", "item.active == true" | where_exp: "item", "item.hidden != true" %}
 {% assign inactive-fellows = fellows | where_exp: "item", "item.active != true" | where_exp: "item", "item.hidden != true" %}
 
-{%- if active-fellows.size > 0 %}
+{% if active-fellows.size > 0 %}
 # Current IRIS-HEP Fellows
 
 <div class="container-fluid">
