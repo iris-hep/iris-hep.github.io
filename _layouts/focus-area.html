@@ -9,7 +9,7 @@
 {% assign page_focus_area = page.name | basename %}
 {% assign sorted = site.pages | where: "pagetype", "project" | where_exp: "item", "item.focus-area contains page_focus_area" | smart_title_sort %}
 {% assign fa_team = site.data.people | where_exp: "item", "item.focus-area contains page_focus_area and item.active and item.hidden != true" | last_name_sort: "name" %}
-{% assign fa_fellows = site.pages | sort_natural: 'title' | where_exp: "item", "item.pagetype == 'fellow' and item.focus-area contains page_focus_area and item.hidden != true" %}
+{% assign fa_fellows = site.fellows | sort_natural: 'title' | where_exp: "item", "item.pagetype == 'fellow' and item.focus-area contains page_focus_area and item.hidden != true" %}
 {% assign pres_list = site.data['sorted_presentations'] | where_exp: "item", "item.focus-area contains page_focus_area"  %}
 {% assign pubs = site.data['sorted_publications'] | where_exp: "item", "item.focus-area contains page_focus_area" %}
 {% include get_selected_videos.html nvideos=6 focus_areas=page_focus_area %}

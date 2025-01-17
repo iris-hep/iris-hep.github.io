@@ -6,12 +6,11 @@ title: IRIS/HEP Former Fellows
 
 # IRIS-HEP Former Fellows
 
-{% assign inactive-fellows = site.pages | where: "pagetype", "fellow"
-                                        | reject: "active"
-                                        | last_name_sort: "fellow-name"
-                                        | reverse
-                                        | iris_hep_fellow_sort
-                                        | reverse %}
+{% assign inactive-fellows = site.fellows | where_exp: "item", "item.active != true"
+                                          | last_name_sort: "fellow-name"
+                                          | reverse
+                                          | iris_hep_fellow_sort
+                                          | reverse %}
 
 <div class="container-fluid">
   <div class="row">
