@@ -19,16 +19,18 @@ mentors:
 - Oksana Shadura (University of Nebraska Lincoln)
 - Brian Bockelman (Morgridge University)
 - Ken Bloom (University of Nebraska Lincoln)
-project_goal: >
-  Development of a continuous functionality testing procedure (including smoke tests
-  and integration tests) for ‘Coffea-casa’ analysis facility. The test suite would
-  expect to cover testing of analysis-related components and analysis frameworks deployed
-  in AF as well as data delivery services functionality. The test suite should include
-  but not be limited to an already collected set of available sample physics analyses.
+project_goal: "Development of a continuous functionality testing procedure (including\
+  \ smoke tests and integration tests) for \u2018Coffea-casa\u2019 analysis facility.\
+  \ The test suite would expect to cover testing of analysis-related components and\
+  \ analysis frameworks deployed in AF as well as data delivery services functionality.\
+  \ The test suite should include but not be limited to an already collected set of\
+  \ available sample physics analyses.\n"
 proposal: /assets/pdf/fellows-2021/fellow-Maggie-Ramsay-proposal.pdf
 presentations:
 github-username: maggieramsay
 current_status: >
-  <strong>August 2022</strong> - Undergraduate Instrumentation Center TA at University of Nebraska-Lincoln
+  <strong>August 2022</strong> - Undergraduate Instrumentation Center TA at University
+  of Nebraska-Lincoln
 linkedin-profile: https://www.linkedin.com/in/maggie-ramsay-435525259
+challenge-area:
 ---

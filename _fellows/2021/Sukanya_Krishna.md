@@ -19,9 +19,9 @@ project_goal: >
   particle jets and isolating anomalous signals from background data. The goal of
   this project is to investigate different types of graph-based autoencoders as well
   as randomized neural network architectures, including variational autoencoders or
-  normalizing flows.
-  These architectures will then be used to analyze new data sets like the public DarkMachines
-  data set, or more complex CMS simulation to search for new physics.
+  normalizing flows. These architectures will then be used to analyze new data sets
+  like the public DarkMachines data set, or more complex CMS simulation to search
+  for new physics.
 mentors:
 - Javier Duarte (University of California, San Diego)
 proposal: /assets/pdf/fellows-2021/Fellow-Sukanya-Krishna-Proposal.pdf
@@ -35,6 +35,8 @@ presentations:
   focus-area: ia
 github-username: sukikrishna
 current_status: >
-  <strong>October 2022</strong> - Envision: Art and Engineering Maker Space Volunteer at UC San Diego Jacobs School of Engineering
+  <strong>October 2022</strong> - Envision: Art and Engineering Maker Space Volunteer
+  at UC San Diego Jacobs School of Engineering
 linkedin-profile: https://www.linkedin.com/in/sukanya-krishna/
+challenge-area:
 ---

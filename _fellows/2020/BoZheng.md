@@ -19,11 +19,10 @@ mentors:
 - Giordon Stark (UCSC, pyhf dev team)
 project_goal: >
   Write a hardware acceleration benchmarking suite for the GPU enabled backends (TensorFlow,
-  PyTorch, and JAX) in Python (pyhf Issues 301, 348).
-  Write comparison plot generation code in Python for the performance of the GPU enabled
-  backends against each other and the CPU backends.
-  Thoroughly document the performance benchmarking in the form of a case study.
-  Evaluate the hardware acceleration test suite using Google TPUs.
+  PyTorch, and JAX) in Python (pyhf Issues 301, 348). Write comparison plot generation
+  code in Python for the performance of the GPU enabled backends against each other
+  and the CPU backends. Thoroughly document the performance benchmarking in the form
+  of a case study. Evaluate the hardware acceleration test suite using Google TPUs.
   Profile the pyhf codebase to determine where the hardware acceleration is making
   the largest difference.
 proposal: /assets/pdf/fellows-2020/Fellow-BoZheng-Proposal.pdf
@@ -38,6 +37,6 @@ presentations:
 current_status: >
   <strong>July 2022</strong> - Software Engineer at Google
 github-username: coolalexzb
-
 linkedin-profile: https://www.linkedin.com/in/bo-zheng-1511a017b
+challenge-area:
 ---

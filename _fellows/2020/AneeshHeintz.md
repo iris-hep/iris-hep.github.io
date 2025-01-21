@@ -38,8 +38,9 @@ presentations:
   recordingurl: https://youtu.be/ajcqHESGAQY
   focus-area: ia
 current_status: >
-  <strong>July 2022</strong> - Senior Autonomy / AI Research Engineer at Lockheed Martin
+  <strong>July 2022</strong> - Senior Autonomy / AI Research Engineer at Lockheed
+  Martin
 github-username: a-heintz
-
 linkedin-profile: https://www.linkedin.com/in/aneeshheintz
+challenge-area:
 ---

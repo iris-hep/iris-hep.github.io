@@ -34,6 +34,6 @@ presentations:
   recordingurl: https://youtu.be/l5ZN8fjPW9c
   focus-area: ia
 github-username:
-
 linkedin-profile: https://www.linkedin.com/in/hector-castro
+challenge-area:
 ---

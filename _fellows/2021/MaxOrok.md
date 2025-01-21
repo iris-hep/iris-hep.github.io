@@ -31,5 +31,5 @@ presentations:
   recordingurl: https://youtu.be/_1Xv63HBbtE
   focus-area: doma
 github-username: mxxo
-
+challenge-area:
 ---

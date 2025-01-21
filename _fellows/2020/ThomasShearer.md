@@ -26,7 +26,6 @@ project_goal: >
   I plan to survey existing and potential users to identify the most important use-cases
   they have and iteratively evolve dashboards to meet those needs. This will ensure
   that the use-case specific dashboards created are relevant and useful for the community.
-
 proposal: /assets/pdf/fellows-2020/Fellow-Thomas_Shearer-Proposal.pdf
 presentations:
 - title: Improving the OSG-LHC Network Metrics User Interface
@@ -37,6 +36,6 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=sATu_MJo8L4&t=1782s
   focus-area: osglhc
 github-username: shearert
-
 linkedin-profile: https://www.linkedin.com/in/thomas-shearer-28b412199/
+challenge-area:
 ---

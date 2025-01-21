@@ -17,18 +17,16 @@ e-mail: aneethaj@mail.uc.edu
 mentors:
 - Gowtham Atluri (Asst. Professor, Dept. EECS, UC)
 - Mike Sokoloff (Professor, Dept. Physics, UC)
-project_goal: >
-  The Large Hadron Collider beauty detector (LHCb) aims to answer the question “Why
-  is matter more prevalent than anti-matter in the         observable Universe” by
-  studying beauty/bottom quarks (b-quarks) and their anti-matter counterpart (b anti-quarks)
-  which were abundant at the time after Big-Bang. The LHCb detector is expected to
-  produce 4Tb/sec of data when it starts running in 2021 after the LS2 maintenance
-  is completed. This calls for efficient track and primary vertex (PV) reconstruction
-  algorithms to analyze data effectively within a practical time frame using relatively
-  low powered computers. This project aims to develop a python workflow to test the
-  viability of matrix factorization for PV identification, specifically Matrix tri-factorization
-  with orthogonality constraints.
-
+project_goal: "The Large Hadron Collider beauty detector (LHCb) aims to answer the\
+  \ question \u201CWhy is matter more prevalent than anti-matter in the         observable\
+  \ Universe\u201D by studying beauty/bottom quarks (b-quarks) and their anti-matter\
+  \ counterpart (b anti-quarks) which were abundant at the time after Big-Bang. The\
+  \ LHCb detector is expected to produce 4Tb/sec of data when it starts running in\
+  \ 2021 after the LS2 maintenance is completed. This calls for efficient track and\
+  \ primary vertex (PV) reconstruction algorithms to analyze data effectively within\
+  \ a practical time frame using relatively low powered computers. This project aims\
+  \ to develop a python workflow to test the viability of matrix factorization for\
+  \ PV identification, specifically Matrix tri-factorization with orthogonality constraints.\n"
 proposal: /assets/pdf/fellows-2020/Fellow-Alan-AneethJegaraj-Proposal.pdf
 presentations:
 - title: Matrix Factorization for PV finding in LHCb
@@ -39,9 +37,9 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=6gCp1BwQHdg
   focus-area: ia
 current_status: >
-  <strong>September 2022</strong> - Undergraduate Research Assistant at University of Cincinnati
-
+  <strong>September 2022</strong> - Undergraduate Research Assistant at University
+  of Cincinnati
 github-username: alanjoshua
-
 linkedin-profile: https://www.linkedin.com/in/alan-joshua-aneeth-jegaraj
+challenge-area:
 ---

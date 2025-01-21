@@ -23,7 +23,6 @@ project_goal: >
 mentors:
 - Dr. Carlo Varni (UC Berkeley)
 - Professor Heather Gray (UC Berkeley, LBNL)
-
 proposal: /assets/pdf/fellows-2021/Oza_Nupur_Proposal.pdf
 presentations:
 - title: Deep Learning for Ambiguity Resolution in ACTS
@@ -33,8 +32,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071399/
   recordingurl: https://www.youtube.com/watch?v=XIq9DyWIOP8&t=1174s
   focus-area: ia
-current_status: >
+current_status: ''
 github-username: nupuroza
-
 linkedin-profile: https://www.linkedin.com/in/nupur-oza-6b85b9119
+challenge-area:
 ---
