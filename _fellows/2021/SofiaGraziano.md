@@ -41,7 +41,8 @@ presentations:
   focus-area: ia
 github-username: sofiagra
 current_status: >
-  <strong>December 2022</strong> - Risk & Financial Advisory Analyst - Technology at Deloitte
-
+  <strong>December 2022</strong> - Risk & Financial Advisory Analyst - Technology
+  at Deloitte
 linkedin-profile: https://www.linkedin.com/in/sofia-graziano
+challenge-area:
 ---

@@ -13,16 +13,16 @@ institution: University of Wisconsin - Madison
 e-mail: decheine@hep.wisc.edu
 project_title: "Implementing ServiceX Data as a Source for ROOT\u2019s RDataFrame"
 focus-area: as
-project_goal: >
-  ServiceX is a smart data delivery service used by physicists to retrieve data subsets
-  for analysis. This project aims to develop a streamlined C++ software service that
-  bridges the gap between ServiceX experiment data acquisition and the creation and
-  instantiation of a ROOT RDataFrame for analysis. It will accomplish this by fetching
-  ServiceX data using a user request, construct an RDataFrame instance using the fetched
-  data, and return it to the user, ready for analysis. This utility will streamline
-  the analysis process so that physicist will spend less time on organizing their
-  data and more time doing meaningful analysis on a virtual data frame. The demo dataset
-  will be CMS Higgs event data from CERN’s Open Data collection.
+project_goal: "ServiceX is a smart data delivery service used by physicists to retrieve\
+  \ data subsets for analysis. This project aims to develop a streamlined C++ software\
+  \ service that bridges the gap between ServiceX experiment data acquisition and\
+  \ the creation and instantiation of a ROOT RDataFrame for analysis. It will accomplish\
+  \ this by fetching ServiceX data using a user request, construct an RDataFrame instance\
+  \ using the fetched data, and return it to the user, ready for analysis. This utility\
+  \ will streamline the analysis process so that physicist will spend less time on\
+  \ organizing their data and more time doing meaningful analysis on a virtual data\
+  \ frame. The demo dataset will be CMS Higgs event data from CERN\u2019s Open Data\
+  \ collection.\n"
 mentors:
 - gordonwatts
 proposal: /assets/pdf/fellows-2021/Fellow-Nicholas-Decheine-Proposal.pdf
@@ -37,6 +37,6 @@ presentations:
 current_status: >
   <strong>February 2022</strong> - R&T Software Engineer at Abbott
 github-username: decheine
-
 linkedin-profile: https://www.linkedin.com/in/decheine
+challenge-area:
 ---

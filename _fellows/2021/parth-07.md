@@ -31,6 +31,7 @@ presentations:
 current_status: >
   <strong>July 2022</strong> - Associate Engineer at Qualcomm
 github-username: parth-07
-
 linkedin-profile: https://www.linkedin.com/in/parth-r07/
+focus-area:
+challenge-area:
 ---

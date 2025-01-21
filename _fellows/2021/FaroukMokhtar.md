@@ -39,7 +39,9 @@ presentations:
   recordingurl: https://youtu.be/uSCABMAsd64
   focus-area: ia
 current_status: >
-  <strong>December 2021</strong> - PhD Candidate in Experimental High Energy Physics University of California San Diego
+  <strong>December 2021</strong> - PhD Candidate in Experimental High Energy Physics
+  University of California San Diego
 github-username: farakiko
 linkedin-profile: https://www.linkedin.com/in/farouk-mokhtar-683517127/
+challenge-area:
 ---

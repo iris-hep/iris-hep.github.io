@@ -13,18 +13,15 @@ institution: National Institute of Technology, Durgapur
 e-mail: santamdev404@gmail.com
 project_title: Automating Awkward Array Testing
 focus-area: as
-project_goal: >
-  Awkward Array is a popular library for nested, variable-sized data, including
-  arbitrary-length lists, records, mixed types, and missing data, using NumPy-like
-  idioms.
-  The project involves automating tests for various “Kernel Functions” in the library
-  by working
-  on selecting appropriate input values for test cases of the kernel functions.
-  Here Hypothesis Testing Tool would be used to let off the load a bit by using various
-  statistical methods for testing. The Kernel Functions would soon be implemented
-  in CUDA therefore this project work would prove to be the genesis of the understanding
-  that the CUDA implementations are
-  correct and good to work with.
+project_goal: "Awkward Array is a popular library for nested, variable-sized data,\
+  \ including arbitrary-length lists, records, mixed types, and missing data, using\
+  \ NumPy-like idioms. The project involves automating tests for various \u201CKernel\
+  \ Functions\u201D in the library by working on selecting appropriate input values\
+  \ for test cases of the kernel functions. Here Hypothesis Testing Tool would be\
+  \ used to let off the load a bit by using various statistical methods for testing.\
+  \ The Kernel Functions would soon be implemented in CUDA therefore this project\
+  \ work would prove to be the genesis of the understanding that the CUDA implementations\
+  \ are correct and good to work with.\n"
 mentors:
 - Jim Pivarski (Princeton)
 - Ianna Osborne (Princeton)
@@ -37,9 +34,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071402/
   recordingurl: https://youtu.be/uSCABMAsd64
   focus-area: as
-current_status: >
-
+current_status: ''
 github-username: SantamRC
-
 linkedin-profile: https://www.linkedin.com/in/src00
+challenge-area:
 ---

@@ -31,8 +31,9 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1074442/
   recordingurl: https://youtu.be/HBETq2zCyY8
   focus-area: ia
-current_status: >
+current_status: ''
 github-username: jw5243
-
 linkedin-profile: https://www.linkedin.com/in/jason-wong-757b72172/
+focus-area:
+challenge-area:
 ---

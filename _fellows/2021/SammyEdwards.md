@@ -15,14 +15,12 @@ project_title: Analyzing Neutrino Interactions
 focus-area: ia
 project_goal: >
   When neutrinos interact with each other, the result is close to a pixelated image.
-  Once the image comes through it
-  can be broken down and analyzed, and then put back together. This project will develop
-  an algorithm to help
-  analyze these images using simulated events from the DUNE experiment.
+  Once the image comes through it can be broken down and analyzed, and then put back
+  together. This project will develop an algorithm to help analyze these images using
+  simulated events from the DUNE experiment.
 mentors:
 - Jane Nachtman (University of Iowa)
 - Arghya Das (University of Wisconsin - Platteville)
-
 proposal: /assets/pdf/fellows-2021/Fellow-Sammy-Edwards-Proposal.pdf
 presentations: >
   - title:
@@ -35,6 +33,6 @@ presentations: >
 current_status: >
   <strong>March 2023</strong> - Software Developer at Genova Technologies
 github-username:
-
 linkedin-profile: https://www.linkedin.com/in/sammyedwards
+challenge-area:
 ---

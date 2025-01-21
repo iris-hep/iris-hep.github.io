@@ -32,6 +32,6 @@ presentations:
 current_status: >
   <strong>August 2022</strong> - Doctoral Student at Lund University
 github-username: Skelpdar
-
 linkedin-profile: https://www.linkedin.com/in/erik-wallin-835648143/
+challenge-area:
 ---

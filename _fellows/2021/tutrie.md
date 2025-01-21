@@ -14,24 +14,18 @@ e-mail: hipkinsj@terpmail.umd.edu
 project_title: "Advancing an\_active learning algorithm for more efficient generation\
   \ of Monte Carlo for exclusion plots"
 focus-area: as
-project_goal: >
-  Current methods for computing excursion sets of black-box functions (equivalently
-  finding iso-hypersurfaces of n-dimensional scalar multivariate functions) are embarrassingly
-  parallel
-  and computationally expensive. An active learning algorithm appropriately named
-  ‘excursion’
-  has reduced the compute resources necessary to find excursion sets so that researchers
-  can quickly
-  classify BSM theories. Using a Bayesian optimization procedure it can compute excursion
-  sets in record
-  times. Our goal is to scale this method so that it still works efficiently in higher
-  dimensions. It will be
-  extremely helpful in the search for new physics.
+project_goal: "Current methods for computing excursion sets of black-box functions\
+  \ (equivalently finding iso-hypersurfaces of n-dimensional scalar multivariate functions)\
+  \ are embarrassingly parallel and computationally expensive. An active learning\
+  \ algorithm appropriately named \u2018excursion\u2019 has reduced the compute resources\
+  \ necessary to find excursion sets so that researchers can quickly classify BSM\
+  \ theories. Using a Bayesian optimization procedure it can compute excursion sets\
+  \ in record times. Our goal is to scale this method so that it still works efficiently\
+  \ in higher dimensions. It will be extremely helpful in the search for new physics.\n"
 mentors:
 - Lukas Heinrich (CERN)
 - Kyle Cranmer (New York University)
 - Irina Espejo Morales (New York University)
-
 proposal: /assets/pdf/fellows-2021/Fellow-jason-hipkins-Proposal.pdf
 presentations:
 - title: Active Learning for Excursion Set Estimation
@@ -41,8 +35,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071410/
   recordingurl: https://youtu.be/oZgESG2t1gU
   focus-area: as
-current_status: >
+current_status: ''
 github-username: tutrie
-
 linkedin-profile: https://www.linkedin.com/in/jason-hipkins/
+challenge-area:
 ---

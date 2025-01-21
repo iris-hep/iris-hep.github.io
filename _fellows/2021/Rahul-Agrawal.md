@@ -30,7 +30,6 @@ project_goal: >
   the source code. These benchmarks can be added as a separate job in the CI/CD pipeline,
   which will get triggered when any particular events like commit/push happen. A web
   dashboard can also be integrated to monitor the performance results of the CI tests.
-
 proposal: /assets/pdf/fellows-2021/Fellow-Rahul-Agrawal_proposal.pdf
 presentations:
 - title: Facilitate continuous benchmarking/regression testing for the critical components
@@ -42,5 +41,5 @@ presentations:
   recordingurl: https://youtu.be/0Z7an2D-dKc
   focus-area: doma
 github-username: rahul799
-
+challenge-area:
 ---

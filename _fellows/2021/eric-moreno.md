@@ -23,11 +23,9 @@ project_goal: >
   which learn to identify outlier events in an unsupervised manner. This algorithm
   will complement LHC scientists in their search for beyond-standard-model physics,
   delivering a list of previously unidentified anomalous events.
-
 mentors:
 - Maurizio Pierini (CERN)
 - Jean-Roch Vlimant (Caltech)
-
 proposal: /assets/pdf/fellows-2021/Fellow-Eric-Moreno-Proposal.pdf
 presentations:
 - title: Anomaly Detection with Spiking Neural Networks
@@ -40,6 +38,6 @@ presentations:
 current_status: >
   <strong>June 2022</strong> - Data Analyst at Supernal
 github-username: eric-moreno
-
 linkedin-profile: https://www.linkedin.com/in/ericdmoreno
+challenge-area:
 ---

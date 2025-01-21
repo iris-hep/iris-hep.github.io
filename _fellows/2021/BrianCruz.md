@@ -31,6 +31,6 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=G49KILQUXjs
   focus-area: as
 github-username: 936-BCruz
-
 linkedin-profile: https://www.linkedin.com/in/brian-cruz-physics
+challenge-area:
 ---

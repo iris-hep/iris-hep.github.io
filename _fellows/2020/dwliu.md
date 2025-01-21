@@ -19,15 +19,11 @@ mentors:
 - Gordon Watts (University of Washington)
 project_goal: >
   ServiceX provides delivery of any requested portion of high energy physics data
-  sets for analysis.
-  The current version of the system has two transformers, which function for Python
-  and C++.
-  In this work, we will verify that both transformers produce the same outputs when
-  queried.
-  We will also develop multiple tests that can be rapidly run against ServiceX to
-  test the whole system's
-  functionality from beginning to end. This allows developers to rapidly find and
-  fix bugs and test the
+  sets for analysis. The current version of the system has two transformers, which
+  function for Python and C++. In this work, we will verify that both transformers
+  produce the same outputs when queried. We will also develop multiple tests that
+  can be rapidly run against ServiceX to test the whole system's functionality from
+  beginning to end. This allows developers to rapidly find and fix bugs and test the
   software's stress limits.
 proposal: /assets/pdf/fellows-2020/dwliu_proposal.pdf
 presentations:
@@ -39,5 +35,5 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=sATu_MJo8L4&t=2789s
   focus-area: as
 github-username: d-w-liu
-
+challenge-area:
 ---

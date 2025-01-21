@@ -24,11 +24,11 @@ mentors:
 - Oksana Shadura (University of Nebraska-Lincoln)
 - Ken Bloom - University of Nebraska-Lincoln)
 - Brian Bockelman (Morgridge Institute for Research)
-
 proposal: /assets/pdf/fellows-2021/Fellow-Tuong-Phung-Proposal.pdf
 presentations:
-current_status: >
+current_status: ''
 github-username: tuongphung
-
 linkedin-profile: https://www.linkedin.com/in/tuong-phung-3347b0236
+focus-area:
+challenge-area:
 ---

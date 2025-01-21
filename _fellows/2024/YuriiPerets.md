@@ -1,11 +1,11 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname:  YuriiPerets
+shortname: YuriiPerets
 permalink: /fellows/YuriiPerets.html
 fellow-name: Yurii Perets
 title: Yurii Perets - IRIS-HEP Fellow
-active: False
+active: false
 dates:
   start: 2024-07-01
   end: 2024-09-30
@@ -13,11 +13,12 @@ photo: /assets/images/team/fellows-2024/Yurii-Perets.jpg
 institution: Taras Shevchenko National University of Kyiv
 e-mail: yuraperets2@gmail.com
 focus-area:
+challenge-area:
 project_title: CI/CD improvements for Alpaka library, and related projects
 project_goal: This project aims to optimize the test coverage and runtime of alpaka
 mentors:
-  - Volodymyr Bezguba(KAU)
-  - Jiří Vyskočil(CASUS)
+- Volodymyr Bezguba(KAU)
+- "Ji\u0159\xED Vysko\u010Dil(CASUS)"
 proposal: /assets/pdf/fellows-2024/UKR030-proposal-Yurii-Perets.pdf
 presentations:
 current_status:

@@ -35,8 +35,9 @@ presentations:
   recordingurl: https://www.youtube.com/watch?v=b4iMNk2m-Dc&t=845s
   focus-area: ia
 current_status: >
-  <strong>January 2022</strong> - Graduate Research Assistant in Filippini Particle Cosmology Group at University of Illinois Urbana-Champaign
+  <strong>January 2022</strong> - Graduate Research Assistant in Filippini Particle
+  Cosmology Group at University of Illinois Urbana-Champaign
 github-username: vesal-rm
-
 linkedin-profile: https://www.linkedin.com/in/vesal-razavimaleki
+challenge-area:
 ---

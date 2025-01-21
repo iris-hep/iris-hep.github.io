@@ -5,7 +5,7 @@ shortname: 88683180
 permalink: /fellows/88683180.html
 fellow-name: Dmytro Horyslavets
 title: Dmytro Horyslavets - IRIS-HEP Fellow
-active: False
+active: false
 dates:
   start: 2022-07-05
   end: 2022-09-12
@@ -14,11 +14,12 @@ institution: Kyiv Academic University
 e-mail: nepotlet@gmail.com
 project_title: Sequence-read extraction from counting de Bruijn graphs
 project_goal: >
-    We will extend the MetaGraph framework by adding the sequence-read extraction option from the counting de Bruijn graphs. Hence given a sequence search result, all reads that overlap the parts of the graph that matched could be extracted and used in further downstream analysis.
-
+  We will extend the MetaGraph framework by adding the sequence-read extraction option
+  from the counting de Bruijn graphs. Hence given a sequence search result, all reads
+  that overlap the parts of the graph that matched could be extracted and used in
+  further downstream analysis.
 mentors:
-  - Andre Kahles (University of Zurich)
-
+- Andre Kahles (University of Zurich)
 proposal: /assets/pdf/fellows-2022/231-proposal-Dmytro-Horyslavets.pdf
 presentations:
 - title: Sequence-read extraction from counting de Bruijn graphs
@@ -28,7 +29,9 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1199559/
   recordingurl: https://youtu.be/gEaqn7C9ipY
   focus-area:
-current_status: >
+current_status: ''
 github-username: d-goryslavets
 linkedin-profile: https://www.linkedin.com/in/dmytro-horyslavets
+focus-area:
+challenge-area:
 ---

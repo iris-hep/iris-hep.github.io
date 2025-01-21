@@ -36,6 +36,6 @@ presentations:
 github-username: seancondon99
 current_status: >
   <strong>February 2022</strong> - Machine Learning Engineer at Deepcell Inc.
-
 linkedin-profile: https://www.linkedin.com/in/sean-condon-9a0452187
+challenge-area:
 ---

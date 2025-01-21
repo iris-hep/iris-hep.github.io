@@ -29,7 +29,6 @@ project_goal: >
 mentors:
 - Mark Neubauer (University of Illinois, Urbana-Champaign)
 - Matthew Feickert (University of Illinois, Urbana-Champaign)
-
 proposal: /assets/pdf/fellows-2021/Fellow-Mihir-Katare-Proposal.pdf
 presentations:
 - title: Deep Learning for the Matrix Element Method
@@ -41,6 +40,6 @@ presentations:
 current_status: >
   <strong>June 2022</strong> - Software Engineer at Amazon Web Services (AWS)
 github-username: mihirkatare
-
 linkedin-profile: https://www.linkedin.com/in/mihirkatare
+challenge-area:
 ---

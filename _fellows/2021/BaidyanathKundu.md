@@ -36,8 +36,9 @@ presentations:
   recordingurl: https://youtu.be/_1Xv63HBbtE
   focus-area: as
 current_status: >
-  <strong>April 2022</strong> - Research Software Intern for the Compiler Research project (https://compiler-research.org) and CERN SFT (at CERN in Geneva, Switzerland)
+  <strong>April 2022</strong> - Research Software Intern for the Compiler Research
+  project (https://compiler-research.org) and CERN SFT (at CERN in Geneva, Switzerland)
 github-username: sudo-panda
-
 linkedin-profile: https://www.linkedin.com/in/sudo-panda
+challenge-area:
 ---

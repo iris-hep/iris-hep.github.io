@@ -36,8 +36,10 @@ presentations:
   recordingurl: https://youtu.be/UChnsoqsHIg
   focus-area: ia
 current_status: >
-  <strong>April 2023</strong> - first-year student in the Physics Department at the University of Washington and Fellow in the <a href="https://watchep.org/fellows/">WATCHEP DOE Training program</a>
+  <strong>April 2023</strong> - first-year student in the Physics Department at the
+  University of Washington and Fellow in the <a href="https://watchep.org/fellows/">WATCHEP
+  DOE Training program</a>
 github-username: abdelabd
-
 linkedin-profile: https://www.linkedin.com/in/abdelrahman-e-520193133
+challenge-area:
 ---

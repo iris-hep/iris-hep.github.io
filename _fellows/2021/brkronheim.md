@@ -20,7 +20,6 @@ project_goal: >
   to predict an output corresponding to a given quantile, allowing full distributions
   to be predicted. If effective this algorithm will be able to streamline much of
   the jet reconstruction process through a single process.
-
 mentors:
 - Michelle Kuchera (Davidson College)
 proposal: /assets/pdf/fellows-2021/Fellow-Braden-Kronheim-Proposal.pdf
@@ -31,9 +30,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071423/
   recordingurl: https://youtu.be/jAyJSDiWxhw
   focus-area: ia
-current_status: >
-
+current_status: ''
 github-username: brkronheim
-
 linkedin-profile: https://www.linkedin.com/in/braden-kronheim-488406139/
+challenge-area:
 ---

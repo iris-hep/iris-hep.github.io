@@ -27,6 +27,6 @@ project_goal: >
 proposal: /assets/pdf/fellows-2021/EmilyTsai_Proposal.pdf
 presentations:
 github-username: emily-tsai11
-
 linkedin-profile: https://www.linkedin.com/in/emily-tsai-a135ab1b1/
+challenge-area:
 ---

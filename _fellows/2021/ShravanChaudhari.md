@@ -28,7 +28,6 @@ project_goal: >
 mentors:
 - Dr. Sergei Gleyzer (The University of Alabama)
 - Dr. Davide DiCroce (The University of Alabama)
-
 proposal: /assets/pdf/fellows-2021/Fellow-Shravan-Chaudhari-Proposal.pdf
 presentations:
 - title: Graph Generative Models for Fast Detector Simulations in Particle Physics
@@ -40,6 +39,6 @@ presentations:
 current_status: >
   <strong>January 2023</strong> - Research Assistant at NYU Center for Data Science
 github-username: Shra1-25
-
 linkedin-profile: https://www.linkedin.com/in/shravan-chaudhari
+challenge-area:
 ---

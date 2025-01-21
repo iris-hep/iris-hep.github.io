@@ -23,7 +23,6 @@ project_goal: >
   the coffea-casa system.
 mentors:
 - Kyle Cranmer (New York University)
-
 proposal: /assets/pdf/fellows-2021/Fellow-Storm-Lin-Proposal.pdf
 presentations:
 - title: Benchmarking Prototype Analysis Codes on the Coffea-Casa Analysis Facility
@@ -36,6 +35,6 @@ presentations:
 current_status: >
   <strong>June 2022</strong> - Research Assistant at Stony Brook University
 github-username: stormsomething
-
 linkedin-profile: https://www.linkedin.com/in/storm-lin-104aa7143/
+challenge-area:
 ---

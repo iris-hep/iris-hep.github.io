@@ -5,7 +5,7 @@ shortname: gojakuch
 permalink: /fellows/gojakuch.html
 fellow-name: Atell-Yehor Krasnopolski
 title: Atell-Yehor Krasnopolski - IRIS-HEP Fellow
-active: False
+active: false
 dates:
 - start: 2022-06-24
   end: 2022-09-08
@@ -14,23 +14,27 @@ dates:
 photo: /assets/images/team/fellows-2022/Atell-Krasnopolski.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: delta_atell@protonmail.com
-
 projects:
 - project_title: Jet Reconstruction with Julia
   project_goal: >
-    The task is to write an Anti-Kt jet reconstruction algorithm in Julia. This will read simulated calorimeter data files and implement the jet finding algorithm on this data. Data will be output as clustered jets. To ensure correctness, comparison with FastJet will be done, both numerically and using visualisation. The speeds of the two codes will then be benchmarked on different platforms, for both serial and multi-threaded running; the convenience for the developer and code maintainability will be assessed.
+    The task is to write an Anti-Kt jet reconstruction algorithm in Julia. This will
+    read simulated calorimeter data files and implement the jet finding algorithm
+    on this data. Data will be output as clustered jets. To ensure correctness, comparison
+    with FastJet will be done, both numerically and using visualisation. The speeds
+    of the two codes will then be benchmarked on different platforms, for both serial
+    and multi-threaded running; the convenience for the developer and code maintainability
+    will be assessed.
   mentors:
-    - Benedikt Hegner (CERN)
-    - Graeme A Stewart (CERN)
+  - Benedikt Hegner (CERN)
+  - Graeme A Stewart (CERN)
   proposal: /assets/pdf/fellows-2022/208-proposal-Atell-Yehor-Krasnopolski.pdf
-
 - project_title: Julia for Analysis Grand Challenge
-  project_goal: >
-    The goal is to have the AGC 1.0 pipeline as well as some supplementary features implemented in Julia. Additional “stretch” goals might include implementing tools for ML inference from beyond the version 1.0.
+  project_goal: "The goal is to have the AGC 1.0 pipeline as well as some supplementary\
+    \ features implemented in Julia. Additional \u201Cstretch\u201D goals might include\
+    \ implementing tools for ML inference from beyond the version 1.0.\n"
   mentors:
-    - Jerry Ling (Harvard University)
-    - Alexander Held (UWM)
-
+  - Jerry Ling (Harvard University)
+  - Alexander Held (UWM)
 presentations:
 - title: Jet Reconstruction with Julia
   date: 2022-07-27
@@ -39,7 +43,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1184316/
   recordingurl:
   focus-area:
-- title: "Summer Student Report: Jet Reconstruction with Julia"
+- title: 'Summer Student Report: Jet Reconstruction with Julia'
   date: 2022-08-29
   url: https://indico.cern.ch/event/1180962/contributions/5017227/attachments/2498100/4290757/CERN-presentation-AtellKrasnopolski.pdf
   meeting: CERN SFT Group Meeting
@@ -53,7 +57,7 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1195272/
   recordingurl: https://youtu.be/01mHSh-gnXs
   focus-area:
-- title: "Julia for Analysis Grand Challenge"
+- title: Julia for Analysis Grand Challenge
   date: 2023-10-11
   url: https://indico.cern.ch/event/1329062/contributions/5593913/attachments/2730738/4750781/final-talk-krasnopolski-2023.pdf
   meeting: IRIS-HEP Fellows Presentations 2023
@@ -61,4 +65,6 @@ presentations:
   recordingurl: https://youtu.be/viw2dolkkaY
   focus-area:
 github-username: gojakuch
+focus-area:
+challenge-area: agc
 ---

@@ -15,9 +15,9 @@ e-mail: ajay712@cs.washington.edu
 project_title: Integrating REANA Backend into ROB for evaluating workflows in the
   cloud
 focus-area: as
-project_goal: >
-  Develop the backend to allow ROB to execute workflows on the REANA cloud platform.
-  He will build upon Aaron’s work to execute Jupyter Notebooks on REANA using papermill.
+project_goal: "Develop the backend to allow ROB to execute workflows on the REANA\
+  \ cloud platform. He will build upon Aaron\u2019s work to execute Jupyter Notebooks\
+  \ on REANA using papermill.\n"
 mentors:
 - Shih-Chieh Hsu (University of Washington)
 proposal: /assets/pdf/fellows-2021/AjayRawat.pdf
@@ -29,7 +29,8 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1074442/
   recordingurl: https://youtu.be/HBETq2zCyY8
   focus-area: as
-current_status: >
+current_status: ''
 github-username:
 linkedin-profile: https://www.linkedin.com/in/ajay-rawat-724814174
+challenge-area:
 ---

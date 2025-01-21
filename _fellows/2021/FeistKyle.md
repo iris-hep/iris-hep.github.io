@@ -32,5 +32,5 @@ presentations:
   recordingurl: https://youtu.be/k6T12vY41oA
   focus-area: ia
 github-username: FeistKyle
-
+challenge-area:
 ---

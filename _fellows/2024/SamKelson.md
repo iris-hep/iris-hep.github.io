@@ -5,7 +5,7 @@ shortname: SamKelson
 permalink: /fellows/SamKelson.html
 fellow-name: Sam Kelson
 title: Sam Kelson - IRIS-HEP Fellow
-active: False
+active: false
 dates:
   start: 2024-05-20
   end: 2024-08-20
@@ -13,15 +13,20 @@ photo: /assets/images/team/fellows-2024/Sam-Kelson.png
 institution: Brandeis University
 e-mail: 1samkelson1@gmail.com
 focus-area: as
+challenge-area:
 project_title: >
-    Coffea development for LHC experiments: Development of coffea to support multiple LHC experiment analysis workflows.
+  Coffea development for LHC experiments: Development of coffea to support multiple
+  LHC experiment analysis workflows.
 project_goal: >
-    As Coffea is adopted across various HEP experiments with diverse data formats, maintaining user-friendly and performant experiment-specific schemas becomes complex. This project aims to enhance developer and user experience with Coffea schemas by updating and validating the ATLAS-specific PHYSLITE schema.
+  As Coffea is adopted across various HEP experiments with diverse data formats, maintaining
+  user-friendly and performant experiment-specific schemas becomes complex. This project
+  aims to enhance developer and user experience with Coffea schemas by updating and
+  validating the ATLAS-specific PHYSLITE schema.
 mentors:
-  - Lindsey Gray (Fermilab)
-  - Nick Smith (Fermilab)
-  - Matthew Feickert (University of Wisconsin-Madison)
-  - Giordon Stark (Santa Cruz Institute for Particle Physics)
+- Lindsey Gray (Fermilab)
+- Nick Smith (Fermilab)
+- Matthew Feickert (University of Wisconsin-Madison)
+- Giordon Stark (Santa Cruz Institute for Particle Physics)
 proposal: /assets/pdf/fellows-2024/USA082-propsoal-Sam-Kelson.pdf
 presentations:
 current_status:

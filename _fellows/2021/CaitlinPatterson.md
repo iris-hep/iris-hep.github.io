@@ -6,7 +6,8 @@ active: false
 title: Caitlin Patterson - IRIS-HEP Fellow
 fellow-name: Caitlin Patterson
 shortname: elocat
-project_title: Scaling up implementations of GNNs with FPGA co-processors for charged particle track reconstruction
+project_title: Scaling up implementations of GNNs with FPGA co-processors for charged
+  particle track reconstruction
 focus-area: ia
 dates:
   start: 2021-01-01
@@ -29,6 +30,6 @@ project_goal: >
 proposal: /assets/pdf/fellows-2021/CaitlinPatterson_proposal.pdf
 presentations:
 github-username: elocat
-
 linkedin-profile: https://www.linkedin.com/in/caitlin-patterson-6537bb159
+challenge-area:
 ---
