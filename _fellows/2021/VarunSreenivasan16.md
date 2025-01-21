@@ -19,7 +19,6 @@ project_goal: >
   enhancements in the particle track reconstruction process.
 mentors:
 - Daniel Murnane (Lawrence Berkeley National Laboratory)
-
 proposal: /assets/pdf/fellows-2021/Fellow-Varun-Sreenivasan-Proposal.pdf
 presentations:
 - title: Graph Methods for Particle Tracking
@@ -32,6 +31,6 @@ presentations:
 current_status: >
   <strong>February 2022</strong> - Software Engineer II at DataChat Inc.
 github-username: VarunSreenivasan16
-
 linkedin-profile: https://www.linkedin.com/in/varun-sreenivasan
+challenge-area:
 ---

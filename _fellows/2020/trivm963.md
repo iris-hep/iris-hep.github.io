@@ -29,5 +29,5 @@ mentors:
 proposal: /assets/pdf/fellows-2020/trivm963_proposal.pdf
 presentations:
 github-username: trivm963
-
+challenge-area:
 ---

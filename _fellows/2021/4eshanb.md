@@ -28,7 +28,6 @@ mentors:
 - Jeff LeFevre (UC Santa Cruz)
 - Jianshen Liu (UC Santa Cruz)
 - Jayjeet Chakraborty (NIT, Durgapur)
-
 proposal: /assets/pdf/fellows-2021/Fellow-Eshan-Bhargava-Proposal.pdf
 presentations:
 - title: SkyhookDM - Ability to Push back query execution to Client in case of overload
@@ -39,11 +38,10 @@ presentations:
   meetingurl: https://indico.cern.ch/event/1071412/
   recordingurl: https://youtu.be/0Z7an2D-dKc
   focus-area: doma
-
 current_status: >
-  <strong>April 2023</strong> - Incoming Machine Learning Intern at NASA Jet Propulsion Laboratory
-
+  <strong>April 2023</strong> - Incoming Machine Learning Intern at NASA Jet Propulsion
+  Laboratory
 github-username: 4eshanb
-
 linkedin-profile: https://www.linkedin.com/in/eshan-bhargava-75012819a
+challenge-area:
 ---

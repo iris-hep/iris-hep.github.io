@@ -5,7 +5,7 @@ shortname: couchsnail
 permalink: /fellows/couchsnail.html
 fellow-name: Camille Sicat
 title: Camille Sicat - IRIS-HEP Fellow
-active: False
+active: false
 dates:
   start: 2024-06-24
   end: 2024-09-06
@@ -13,12 +13,14 @@ photo: /assets/images/team/fellows-2024/Camille-Sicat.png
 institution: University of California San Diego
 e-mail: cisicat@ucsd.edu
 focus-area: Data Organization, Management and Access (DOMA)
+challenge-area:
 project_title: Rucio-SENSE DMM
-project_goal: >
-  Implement the Rucio-SENSE Data Movement Manager (DMM)’s monitoring system to correlate FTS monit data with host level information to better optimize data flows for exa-scale computing level experiments.
+project_goal: "Implement the Rucio-SENSE Data Movement Manager (DMM)\u2019s monitoring\
+  \ system to correlate FTS monit data with host level information to better optimize\
+  \ data flows for exa-scale computing level experiments.\n"
 mentors:
-  - Aashay Arora (University of California San Diego/CMS)
-  - Diego Davila (University of California San Diego/San Diego Supercomputer Center)
+- Aashay Arora (University of California San Diego/CMS)
+- Diego Davila (University of California San Diego/San Diego Supercomputer Center)
 proposal: /assets/pdf/fellows-2024/USA036-proposal-Camille-Sicat.pdf
 presentations:
 current_status:
