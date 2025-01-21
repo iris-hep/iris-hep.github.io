@@ -30,6 +30,8 @@ You can optionally include your linkedin-profile.
 
 *MAKE SURE YOU INCLUDE THE "---" STRINGS AT THE BEGINNING (above "layout:") AND THE END (elow "linkedin-profile:") OF THE MD FILE (SEE EXAMPLE BELOW)*
 
+*OMIT THE "<" AND ">" CHARACTERS WHEN YOU CREATE YOUR MARKDOWN FILE - I.E. "fellow-name: <Your Name>" becomes "fellow-name: Jane Doe"*
+
 #### Adding multiple projects
 If you are a returning fellow and need to add multiple projects, follow the directions found here to update the markdown file for your page:
 
@@ -57,7 +59,8 @@ dates:
 photo: /assets/images/team/fellows-2025/<First name>-<Last name>.jpg
 institution: <Your institution>
 e-mail: <Your email>
-focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+focus-area: <Focus Area in IRIS-HEP for your project ( ask your mentor(s) ) - ia,ssl,ssc,doma,as,osglhc >
+challenge-area: <Challenge Area if your project is associated with one of the Grand Challenges: agc, data-grand-challenge, training-grand-challenge>
 project_title: <Project title>
 project_goal: >
     Short description of your project
