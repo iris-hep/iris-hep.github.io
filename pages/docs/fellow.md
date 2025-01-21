@@ -30,7 +30,7 @@ You can optionally include your linkedin-profile.
 
 *MAKE SURE YOU INCLUDE THE "---" STRINGS AT THE BEGINNING (above "layout:") AND THE END (elow "linkedin-profile:") OF THE MD FILE (SEE EXAMPLE BELOW)*
 
-*OMIT THE "<" AND ">" CHARACTERS WHEN YOU CREATE YOUR MARKDOWN FILE - I.E. "fellow-name: <Your Name>" becomes "fellow-name: Jane Doe"*  
+*OMIT THE "<" AND ">" CHARACTERS WHEN YOU CREATE YOUR MARKDOWN FILE - I.E. "fellow-name: <Your Name>" becomes "fellow-name: Jane Doe"*
 
 #### Adding multiple projects
 If you are a returning fellow and need to add multiple projects, follow the directions found here to update the markdown file for your page:
