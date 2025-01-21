@@ -98,3 +98,6 @@ collections:
   blueprints:
     output: true
     permalink: /:collection/:path.html
+  fellows:
+    output: true
+    permalink: /fellows/:collection/:path.html
