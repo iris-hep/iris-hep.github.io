@@ -28,5 +28,5 @@ presentations:
 github-username: r4lv
 linkedin-profile: https://www.linkedin.com/in/ralf-farkas-653b34225/
 challenge-area:
-funding-source: other
+funding-source: nsf
 ---
