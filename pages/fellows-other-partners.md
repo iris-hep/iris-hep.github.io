@@ -1,7 +1,7 @@
 ---
 permalink: /fellows-other-partners.html
 layout: default
-title: IRIS/HEP Fellows Program
+title: IRIS/HEP Fellows Funded by IRIS-HEP Partners
 ---
 
 # IRIS-HEP Fellows funded by IRIS-HEP partners
