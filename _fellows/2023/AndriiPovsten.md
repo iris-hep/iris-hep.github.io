@@ -32,5 +32,6 @@ presentations:
 current_status:
 github-username: AndriiPovsten
 linkedin-profile:
+challenge-area: agc
 funding-source: other
 ---
