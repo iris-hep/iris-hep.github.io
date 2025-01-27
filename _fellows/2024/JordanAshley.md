@@ -26,4 +26,5 @@ github-username: j-s-ashley
 linkedin-profile: https://www.linkedin.com/in/j-s-ashley/
 challenge-area:
 focus-area:
+funding-source: nsf
 ---

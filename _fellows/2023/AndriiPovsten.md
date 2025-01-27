@@ -32,4 +32,5 @@ presentations:
 current_status:
 github-username: AndriiPovsten
 linkedin-profile:
+funding-source: other
 ---

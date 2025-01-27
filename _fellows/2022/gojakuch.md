@@ -67,4 +67,5 @@ presentations:
 github-username: gojakuch
 focus-area:
 challenge-area: agc
+funding-source: other
 ---

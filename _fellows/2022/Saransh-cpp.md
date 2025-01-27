@@ -112,4 +112,5 @@ current_status: >
 github-username: Saransh-cpp
 linkedin-profile: https://www.linkedin.com/in/saransh-cpp/
 challenge-area:
+funding-source: other
 ---

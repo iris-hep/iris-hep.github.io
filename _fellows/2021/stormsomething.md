@@ -37,4 +37,5 @@ current_status: >
 github-username: stormsomething
 linkedin-profile: https://www.linkedin.com/in/storm-lin-104aa7143/
 challenge-area:
+funding-source: nsf
 ---

@@ -32,4 +32,5 @@ presentations:
   focus-area: doma
 github-username: mxxo
 challenge-area:
+funding-source: nsf
 ---

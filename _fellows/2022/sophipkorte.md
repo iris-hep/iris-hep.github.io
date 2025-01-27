@@ -33,4 +33,5 @@ current_status: ''
 github-username: sophipkorte
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

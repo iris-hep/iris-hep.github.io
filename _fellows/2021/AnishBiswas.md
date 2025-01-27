@@ -47,4 +47,5 @@ current_status: >
 github-username: swishdiff
 linkedin-profile: https://www.linkedin.com/in/anish-biswas
 challenge-area:
+funding-source: other
 ---

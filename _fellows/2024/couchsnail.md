@@ -26,5 +26,6 @@ presentations:
 current_status:
 github-username: couchsnail
 linkedin-profile: https://www.linkedin.com/in/camille-sicat-8b3267256/
+funding-source: nsf
 ---
 

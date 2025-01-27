@@ -37,4 +37,5 @@ current_status: ''
 github-username: gohil-jay
 linkedin-profile: https://www.linkedin.com/in/jay--gohil/
 challenge-area:
+funding-source: other
 ---

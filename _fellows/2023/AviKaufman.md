@@ -32,4 +32,5 @@ presentations:
 current_status:
 github-username: AviKaufman
 linkedin-profile: https://www.linkedin.com/in/avi-kaufman-893434248/
+funding-source: nsf
 ---

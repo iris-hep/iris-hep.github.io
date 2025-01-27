@@ -80,4 +80,5 @@ github-username: HavryliukAY
 linkedin-profile: https://www.linkedin.com/in/havryliuka/
 focus-area:
 challenge-area:
+funding-source: impress-u
 ---

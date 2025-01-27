@@ -34,4 +34,5 @@ current_status: >
   <strong>January 2022</strong> - Research Intern at UC Berkeley PLAIT Lab
 linkedin-profile: https://www.linkedin.com/in/jeremy-ferguson-66051715a/
 challenge-area:
+funding-source: nsf
 ---

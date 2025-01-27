@@ -42,4 +42,5 @@ github-username: jakel2014
 linkedin-profile: https://www.linkedin.com/in/jake-li-492316224/
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

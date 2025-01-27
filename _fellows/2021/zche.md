@@ -36,4 +36,5 @@ presentations:
 github-username: zorache
 linkedin-profile: https://www.linkedin.com/in/zche
 challenge-area:
+funding-source: nsf
 ---

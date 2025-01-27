@@ -43,4 +43,5 @@ gitlab-url: https://gitlab.cern.ch/ekauffma
 linkedin-profile: https://www.linkedin.com/in/elliott-kauffman-673314160
 focus-area:
 challenge-area:
+funding-source: nsf
 ---
