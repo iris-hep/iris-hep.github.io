@@ -14,7 +14,7 @@ title: IRIS/HEP Fellows Program
 
 <div class="container-fluid">
   <div class="row">
-    {% for person in nsf-fellows %}
+    {% for person in partner-fellows %}
       <div class="card" style="width: 12rem;">
          <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
          <div class="card-body d-flex flex-column">
