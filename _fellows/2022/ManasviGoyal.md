@@ -53,4 +53,5 @@ current_status: >
 github-username: ManasviGoyal
 linkedin-profile: https://www.linkedin.com/in/manasvi-goyal-2809/
 challenge-area:
+funding-source: other
 ---

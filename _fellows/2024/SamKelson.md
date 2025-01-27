@@ -32,4 +32,5 @@ presentations:
 current_status:
 github-username: SamKelson
 linkedin-profile: https://www.linkedin.com/in/sam-kelson-26a8b72bb/
+funding-source: nsf
 ---

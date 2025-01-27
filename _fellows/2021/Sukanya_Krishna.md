@@ -39,4 +39,5 @@ current_status: >
   at UC San Diego Jacobs School of Engineering
 linkedin-profile: https://www.linkedin.com/in/sukanya-krishna/
 challenge-area:
+funding-source: nsf
 ---

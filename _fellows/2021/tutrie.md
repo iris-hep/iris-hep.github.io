@@ -39,4 +39,5 @@ current_status: ''
 github-username: tutrie
 linkedin-profile: https://www.linkedin.com/in/jason-hipkins/
 challenge-area:
+funding-source: nsf
 ---

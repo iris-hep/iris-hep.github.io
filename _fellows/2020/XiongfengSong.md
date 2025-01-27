@@ -40,4 +40,5 @@ presentations:
   focus-area: doma
 github-username: kingwind94
 challenge-area:
+funding-source: nsf
 ---

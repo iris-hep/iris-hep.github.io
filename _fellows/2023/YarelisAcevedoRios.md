@@ -30,4 +30,5 @@ proposal: /assets/pdf/fellows-2023/proposal-yarelis-acevedo.pdf
 presentations: []
 current_status:
 github-username: YarelisAcevedo
+funding-source: nsf
 ---

@@ -34,4 +34,5 @@ github-username: IvaKamie
 linkedin-profile: https://www.linkedin.com/in/ivanprinko/
 focus-area:
 challenge-area:
+funding-source: other
 ---

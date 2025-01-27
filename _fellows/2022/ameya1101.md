@@ -51,4 +51,5 @@ focus-area:
 linkedin-profile: https://www.linkedin.com/in/ameya-thete/
 website: https://ameya1101.github.io
 challenge-area:
+funding-source: other
 ---

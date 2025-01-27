@@ -31,4 +31,5 @@ presentations:
 github-username: OmarAlterkait
 linkedin-profile: https://www.linkedin.com/in/omaralterkait
 challenge-area:
+funding-source: nsf
 ---

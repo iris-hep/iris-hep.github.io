@@ -28,4 +28,5 @@ presentations:
 current_status: ''
 github-username: <Ludsabl>
 linkedin-profile:
+funding-source: impress-u
 ---

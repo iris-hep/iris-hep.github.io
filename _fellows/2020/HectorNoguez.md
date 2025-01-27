@@ -36,4 +36,5 @@ presentations:
 github-username:
 linkedin-profile: https://www.linkedin.com/in/hector-castro
 challenge-area:
+funding-source: nsf
 ---

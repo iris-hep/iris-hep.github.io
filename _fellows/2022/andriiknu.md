@@ -50,4 +50,5 @@ current_status: ''
 github-username: andriiknu
 focus-area:
 challenge-area: agc
+funding-source: other
 ---

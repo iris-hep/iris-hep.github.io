@@ -36,4 +36,5 @@ github-username: ScottDemarest
 linkedin-profile: https://www.linkedin.com/in/scott-demarest
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

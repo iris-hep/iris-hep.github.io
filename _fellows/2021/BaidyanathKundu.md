@@ -41,4 +41,5 @@ current_status: >
 github-username: sudo-panda
 linkedin-profile: https://www.linkedin.com/in/sudo-panda
 challenge-area:
+funding-source: other
 ---

@@ -45,4 +45,5 @@ current_status: >
   at Deloitte
 linkedin-profile: https://www.linkedin.com/in/sofia-graziano
 challenge-area:
+funding-source: nsf
 ---

@@ -37,4 +37,5 @@ current_status: >
 github-username: Tetiana-Yushkevych
 focus-area:
 challenge-area:
+funding-source: other
 ---

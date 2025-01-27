@@ -27,4 +27,5 @@ presentations:
 current_status:
 github-username: samf25
 linkedin-profile: https://www.linkedin.com/in/samuel-ferraro-2ab603296/
+funding-source: nsf
 ---

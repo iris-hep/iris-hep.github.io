@@ -27,4 +27,5 @@ current_status: ''
 github-username: wisstock
 focus-area:
 challenge-area:
+funding-source: other
 ---
