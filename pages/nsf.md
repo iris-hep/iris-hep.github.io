@@ -17,6 +17,8 @@ Not all of the below information is available without a password.
 * [Risk Registry](risk-registry)
 * [History of the award](about/overview)
 * [High-Level Overview Slides](https://docs.google.com/presentation/d/1FOkTKZbzyEPAzhZ5TNaxB3Gkqs1VzzS9CNXdNuJhx9Y/edit#slide=id.g450ed9a7a4_0_5)
+* [IRIS-HEP Fellows Funded by NSF](fellows-nsf-only.html)
+* [IRIS-HEP Fellows Funded by IRIS-HEP Partners](fellows-other-partners.html)
 
 ### IRIS-HEP Areas
 IRIS-HEP is composed of the following areas:
