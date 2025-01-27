@@ -55,4 +55,5 @@ current_status: >
 github-username: peterridolfi
 linkedin-profile: https://www.linkedin.com/in/peter-ridolfi-061888252
 challenge-area:
+funding-source: nsf
 ---

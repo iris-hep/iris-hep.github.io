@@ -37,4 +37,5 @@ github-username: leehha1
 linkedin-profile: https://www.linkedin.com/in/oleksii-brovarnyk-559753259/
 focus-area:
 challenge-area:
+funding-source: other
 ---

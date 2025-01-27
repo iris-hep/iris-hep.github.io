@@ -36,5 +36,6 @@ current_status: >
   <strong>June 2022</strong> - Research Assistant at Stony Brook University
 github-username: stormsomething
 linkedin-profile: https://www.linkedin.com/in/storm-lin-104aa7143/
-challenge-area:
+challenge-area: agc
+funding-source: nsf
 ---

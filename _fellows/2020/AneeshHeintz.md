@@ -43,4 +43,5 @@ current_status: >
 github-username: a-heintz
 linkedin-profile: https://www.linkedin.com/in/aneeshheintz
 challenge-area:
+funding-source: nsf
 ---

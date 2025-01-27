@@ -43,4 +43,5 @@ current_status: >
   <strong>June 2022</strong> - SDE Intern at Amazon Web Services (AWS)
 linkedin-profile: https://www.linkedin.com/in/vladov3000
 challenge-area:
+funding-source: nsf
 ---

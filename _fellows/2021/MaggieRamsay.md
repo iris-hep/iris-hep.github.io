@@ -33,4 +33,5 @@ current_status: >
   of Nebraska-Lincoln
 linkedin-profile: https://www.linkedin.com/in/maggie-ramsay-435525259
 challenge-area:
+funding-source: nsf
 ---

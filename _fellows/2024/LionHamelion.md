@@ -34,4 +34,5 @@ github-username: LionHamelion
 linkedin-profile: https://www.linkedin.com/in/volodymyr-kovalenko-1aaa14315/
 challenge-area:
 focus-area:
+funding-source: impress-u
 ---

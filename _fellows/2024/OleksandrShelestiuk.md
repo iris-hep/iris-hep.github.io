@@ -32,4 +32,5 @@ current_status:
 github-username: OleksandrShelestiuk
 linkedin-profile: https://www.linkedin.com/in/oleksandr-shelestiuk-054a30270
 focus-area:
+funding-source: other
 ---

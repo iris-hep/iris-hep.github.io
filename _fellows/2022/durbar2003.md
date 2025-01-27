@@ -48,4 +48,5 @@ github-username: durbar2003
 linkedin-profile: https://www.linkedin.com/in/durbar-chakrabarty-867395200/
 focus-area:
 challenge-area:
+funding-source: other
 ---

@@ -36,4 +36,5 @@ presentations:
   focus-area: as
 github-username: d-w-liu
 challenge-area:
+funding-source: nsf
 ---

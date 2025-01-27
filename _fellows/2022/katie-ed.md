@@ -42,4 +42,5 @@ current_status: October 2022 - Undergraduate student at Iowa State University
 github-username: katie-ed
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

@@ -37,4 +37,5 @@ github-username: AnniLi1212
 linkedin-profile: https://www.linkedin.com/in/anni-li-16132b105
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

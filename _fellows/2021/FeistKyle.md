@@ -33,4 +33,5 @@ presentations:
   focus-area: ia
 github-username: FeistKyle
 challenge-area:
+funding-source: nsf
 ---
