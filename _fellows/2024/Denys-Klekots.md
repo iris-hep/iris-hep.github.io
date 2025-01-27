@@ -41,4 +41,5 @@ github-username: Denys-Klekots
 gitlab-url: https://gitlab.cern.ch/dklekots/
 linkedin-profile: https://www.linkedin.com/in/denys-klekots-319482230
 focus-area:
+challenge-area: agc
 ---
