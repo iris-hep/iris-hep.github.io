@@ -4,7 +4,7 @@ layout: default
 title: IRIS/HEP Fellows Funded by NSF
 ---
 
-# NSF-funded IRIS-HEP Fellows
+# IRIS/HEP Fellows Funded by NSF
 
 {% assign fellows = site.fellows | last_name_sort: "fellow-name"
                                  | reverse
