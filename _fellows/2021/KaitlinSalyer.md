@@ -26,4 +26,5 @@ proposal: /assets/pdf/fellows-2021/ksalyer_proposal.pdf
 presentations:
 github-username: ksalyer
 challenge-area:
+funding-source: nsf
 ---

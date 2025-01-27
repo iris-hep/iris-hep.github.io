@@ -61,4 +61,5 @@ github-username: reikdas
 linkedin-profile: https://www.linkedin.com/in/pratyush-das/
 focus-area:
 challenge-area:
+funding-source: other
 ---

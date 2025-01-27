@@ -41,4 +41,5 @@ current_status: >
 github-username: Shra1-25
 linkedin-profile: https://www.linkedin.com/in/shravan-chaudhari
 challenge-area:
+funding-source: other
 ---

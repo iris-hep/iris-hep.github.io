@@ -24,4 +24,5 @@ proposal: /assets/pdf/fellows-2024/UKR039-proposal-Dmytro-Belytskyi.pdf
 presentations:
 current_status:
 github-username: Dmitriy-Belitskiy
+funding-source: impress-u
 ---

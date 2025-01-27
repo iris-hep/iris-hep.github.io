@@ -46,4 +46,5 @@ current_status:
 linkedin-profile: https://www.linkedin.com/in/haoran-sun-3712ba211/
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

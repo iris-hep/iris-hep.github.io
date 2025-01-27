@@ -32,4 +32,5 @@ presentations:
 github-username: elocat
 linkedin-profile: https://www.linkedin.com/in/caitlin-patterson-6537bb159
 challenge-area:
+funding-source: nsf
 ---

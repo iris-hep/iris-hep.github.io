@@ -34,4 +34,5 @@ github-username: parth-07
 linkedin-profile: https://www.linkedin.com/in/parth-r07/
 focus-area:
 challenge-area:
+funding-source: other
 ---

@@ -40,4 +40,5 @@ current_status: >
 github-username: eric-moreno
 linkedin-profile: https://www.linkedin.com/in/ericdmoreno
 challenge-area:
+funding-source: nsf
 ---

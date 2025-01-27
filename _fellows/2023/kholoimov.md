@@ -44,4 +44,5 @@ presentations:
 current_status:
 github-username: kholoimov
 linkedin-profile: www.linkedin.com/in/valerii-kholoimov/
+funding-source: impress-u
 ---

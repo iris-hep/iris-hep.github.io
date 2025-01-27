@@ -38,4 +38,5 @@ github-username: anrunw
 linkedin-profile: https://www.linkedin.com/in/aaron-wang-80aba3177/
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

@@ -31,4 +31,5 @@ current_status:
 github-username: ZeptoStarling
 linkedin-profile: "https://www.linkedin.com/in/aust\u0117ja-jurgaityt\u0117-6565aa275"
 focus-area:
+funding-source: impress-u
 ---

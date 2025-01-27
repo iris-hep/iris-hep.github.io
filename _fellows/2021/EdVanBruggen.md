@@ -41,4 +41,5 @@ current_status: >
   Amherst
 linkedin-profile: https://www.linkedin.com/in/ed-van-bruggen-58a379171
 challenge-area:
+funding-source: nsf
 ---

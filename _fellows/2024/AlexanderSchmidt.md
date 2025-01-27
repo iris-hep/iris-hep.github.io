@@ -29,4 +29,5 @@ presentations:
 current_status:
 github-username: alex-schmidty
 linkedin-profile: www.linkedin.com/in/alexander-schmidt-bb2443309
+funding-source: nsf
 ---

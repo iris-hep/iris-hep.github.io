@@ -34,4 +34,5 @@ presentations:
 current_status:
 github-username: SethBendigo
 linkedin-profile: https://www.linkedin.com/in/sethbendigo/
+funding-source: nsf
 ---

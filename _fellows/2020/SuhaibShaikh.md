@@ -39,4 +39,5 @@ current_status: >
   <strong>December 2022</strong> - Associate Developer at Silverline
 linkedin-profile: https://www.linkedin.com/in/suhaib-shaikh-7a8826170
 challenge-area:
+funding-source: nsf
 ---

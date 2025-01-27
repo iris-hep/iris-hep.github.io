@@ -42,4 +42,5 @@ presentations:
   focus-area: doma
 github-username: rahul799
 challenge-area:
+funding-source: other
 ---

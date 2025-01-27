@@ -63,4 +63,5 @@ current_status: >
 github-username: multinomial
 focus-area:
 challenge-area:
+funding-source: other
 ---

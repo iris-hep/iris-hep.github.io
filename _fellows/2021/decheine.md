@@ -39,4 +39,5 @@ current_status: >
 github-username: decheine
 linkedin-profile: https://www.linkedin.com/in/decheine
 challenge-area:
+funding-source: nsf
 ---

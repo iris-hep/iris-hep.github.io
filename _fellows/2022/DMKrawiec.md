@@ -36,4 +36,5 @@ current_status: >
   of Warwick, UK.
 github-username: dmkrawiec
 challenge-area:
+funding-source: other
 ---

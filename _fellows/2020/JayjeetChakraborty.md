@@ -71,4 +71,5 @@ github-username: JayjeetAtGithub
 linkedin-profile: https://www.linkedin.com/in/jayjeetc/
 focus-area:
 challenge-area:
+funding-source: other
 ---

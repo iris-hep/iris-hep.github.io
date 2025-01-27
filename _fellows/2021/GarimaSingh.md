@@ -67,4 +67,5 @@ current_status: >
 github-username: grimmmyshini
 linkedin-profile: https://www.linkedin.com/in/garimasingh28/
 challenge-area:
+funding-source: other
 ---

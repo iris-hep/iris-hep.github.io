@@ -49,4 +49,5 @@ github-username: njbruhwiler
 linkedin-profile: https://www.linkedin.com/in/natalie-bruhwiler-b7047a212
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

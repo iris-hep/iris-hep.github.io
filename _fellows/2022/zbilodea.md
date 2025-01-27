@@ -44,4 +44,5 @@ current_status: >
 linkedin-profile: "https://www.linkedin.com/in/zo\xEB-bilodeau-0778b3202"
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

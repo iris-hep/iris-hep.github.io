@@ -34,4 +34,5 @@ current_status: >
 github-username: Skelpdar
 linkedin-profile: https://www.linkedin.com/in/erik-wallin-835648143/
 challenge-area:
+funding-source: other
 ---

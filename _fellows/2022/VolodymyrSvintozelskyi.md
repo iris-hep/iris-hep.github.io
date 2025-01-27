@@ -86,4 +86,5 @@ gitlab-url: https://gitlab.cern.ch/vsvintoz
 linkedin-profile: https://www.linkedin.com/in/volodymyr-svintozelskyi-046b731a7
 focus-area:
 challenge-area:
+funding-source: other
 ---

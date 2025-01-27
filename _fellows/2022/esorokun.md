@@ -66,4 +66,5 @@ current_status: >
 github-username: esorokun
 focus-area:
 challenge-area:
+funding-source: other
 ---

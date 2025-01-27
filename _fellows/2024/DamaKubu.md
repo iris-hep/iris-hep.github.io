@@ -27,4 +27,5 @@ current_status: >
   A placeholder for status updates
 github-username: DamaKubu
 linkedin-profile: https://www.linkedin.com/in/danielius-kundrotas-b1884062/
+funding-source: impress-u
 ---

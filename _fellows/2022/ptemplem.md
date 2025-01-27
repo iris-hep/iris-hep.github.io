@@ -48,4 +48,5 @@ github-username: ptemplem
 linkedin-profile: https://www.linkedin.com/in/philip-templeman-2b3196257
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

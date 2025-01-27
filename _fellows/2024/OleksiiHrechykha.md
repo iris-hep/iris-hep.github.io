@@ -24,4 +24,5 @@ presentations:
 current_status:
 github-username: ohrechykha
 focus-area:
+funding-source: impress-u
 ---

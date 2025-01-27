@@ -30,4 +30,5 @@ presentations:
 current_status:
 github-username: rimantasff
 linkedin-profile:
+funding-source: impress-u
 ---

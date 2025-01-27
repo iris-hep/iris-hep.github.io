@@ -38,4 +38,5 @@ github-username: slavakucherenko
 linkedin-profile: https://www.linkedin.com/in/viacheslavkucherenko/
 focus-area:
 challenge-area:
+funding-source: other
 ---

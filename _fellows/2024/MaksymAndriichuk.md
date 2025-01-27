@@ -24,4 +24,5 @@ presentations:
 current_status:
 github-username: ovdiiuv
 linkedin-profile:
+funding-source: other
 ---

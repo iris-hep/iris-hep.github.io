@@ -33,4 +33,5 @@ presentations:
 github-username: 936-BCruz
 linkedin-profile: https://www.linkedin.com/in/brian-cruz-physics
 challenge-area:
+funding-source: nsf
 ---

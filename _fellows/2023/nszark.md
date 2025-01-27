@@ -34,4 +34,5 @@ current_status: >
   A placeholder for status updates
 github-username: nszark
 linkedin-profile: https://www.linkedin.com/in/nazarsemkiv/
+funding-source: other
 ---

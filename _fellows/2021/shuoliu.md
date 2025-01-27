@@ -38,4 +38,5 @@ current_status: >
   University
 github-username: LovelyBuggies
 challenge-area:
+funding-source: nsf
 ---

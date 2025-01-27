@@ -35,4 +35,5 @@ github-username: wallachmaya
 linkedin-profile: https://www.linkedin.com/in/maya-wallach-kenya
 focus-area:
 challenge-area:
+funding-source: nsf
 ---

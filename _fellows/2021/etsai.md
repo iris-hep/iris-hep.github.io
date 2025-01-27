@@ -29,4 +29,5 @@ presentations:
 github-username: emily-tsai11
 linkedin-profile: https://www.linkedin.com/in/emily-tsai-a135ab1b1/
 challenge-area:
+funding-source: nsf
 ---

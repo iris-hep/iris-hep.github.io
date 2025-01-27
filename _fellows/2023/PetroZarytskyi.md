@@ -33,4 +33,5 @@ presentations:
   focus-area: ia
 current_status:
 github-username: PetroZarytskyi
+funding-source: other
 ---
