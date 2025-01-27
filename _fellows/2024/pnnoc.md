@@ -29,4 +29,5 @@ presentations:
 current_status:
 github-username: pnnoc
 linkedin-profile: https://www.linkedin.com/in/conmuangkod/
+challenge-area: agc
 ---
