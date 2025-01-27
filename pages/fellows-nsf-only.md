@@ -1,7 +1,7 @@
 ---
 permalink: /fellows-nsf-only.html
 layout: default
-title: IRIS/HEP Fellows Program
+title: IRIS/HEP Fellows Funded by NSF
 ---
 
 # NSF-funded IRIS-HEP Fellows

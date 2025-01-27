@@ -1,7 +1,7 @@
 ---
 permalink: /fellows-other-partners.html
 layout: default
-title: IRIS/HEP Fellows Program
+title: IRIS/HEP Fellows Funded by IRIS-HEP Partners
 ---
 
 # IRIS-HEP Fellows funded by IRIS-HEP partners
@@ -14,7 +14,7 @@ title: IRIS/HEP Fellows Program
 
 <div class="container-fluid">
   <div class="row">
-    {% for person in nsf-fellows %}
+    {% for person in partner-fellows %}
       <div class="card" style="width: 12rem;">
          <img class="card-img-top" src="{{person.photo}}" alt="Card image cap">
          <div class="card-body d-flex flex-column">
