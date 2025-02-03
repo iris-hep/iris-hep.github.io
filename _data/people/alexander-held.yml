@@ -613,3 +613,17 @@ presentations:
     challenge-area: agc
     project:
       - agc
+
+  - title: "HL-LHC Analysis Blueprint Meeting"
+    date: 2025-02-03
+    url: https://indico.cern.ch/event/1501541/#4-benchmark-analyses-and-scena
+    meeting: Joint ATLAS S&C / CMS O&C meeting
+    meetingurl: https://indico.cern.ch/event/1501541/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - agc
