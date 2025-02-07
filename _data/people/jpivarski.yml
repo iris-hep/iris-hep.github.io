@@ -798,3 +798,39 @@ presentations:
     location: Aachen, Germany
     focus-area:
       - as
+  - title: "Analysis of HSF-Training event data"
+    date: 2024-10-19
+    url: https://indico.cern.ch/event/1410343/contributions/6177525/
+    meeting: "HSF Training Pre-CHEP Workshop"
+    meetingurl: https://indico.cern.ch/event/1410343/
+    location: Kraków, Poland
+    focus-area:
+      - ssc
+  - title: "CoDaS-HEP and US-CMS/US-ATLAS Training"
+    date: 2024-10-19
+    url: https://indico.cern.ch/event/1410343/contributions/6116705/
+    meeting: "HSF Training Pre-CHEP Workshop"
+    meetingurl: https://indico.cern.ch/event/1410343/
+    location: Kraków, Poland
+    focus-area:
+      - ssc
+  - title: "HEP-Help: a first-stop helpline for particle physics software"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6011109/
+    meeting: "CHEP 2024"
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: Kraków, Poland
+    focus-area:
+      - as
+    project:
+      - scikit-hep
+  - title: "GIL-free scaling of Uproot with Python 3.13 subinterpreters"
+    date: 2024-10-23
+    url: https://indico.cern.ch/event/1338689/contributions/6015924/
+    meeting: "CHEP 2024"
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: Kraków, Poland
+    focus-area:
+      - as
+    project:
+      - uproot

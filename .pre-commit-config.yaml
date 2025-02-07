@@ -5,7 +5,7 @@ ci:
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v5.0.0
     hooks:
       - id: check-added-large-files
       - id: mixed-line-ending
@@ -16,7 +16,7 @@ repos:
       - id: check-yaml
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.29.2
+    rev: 0.31.1
     hooks:
       - id: check-github-workflows
       - id: check-dependabot
@@ -45,14 +45,14 @@ repos:
         language: fail
 
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.3.0
+    rev: v2.4.1
     hooks:
       - id: codespell
         exclude: (^Gemfile.lock|\.js|\.map)$
         args:
           [
             "-L",
-            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus,ablet,manuel,classe,insead",
+            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus,ablet,manuel,classe,insead,hepl",
           ]
 
   - repo: local

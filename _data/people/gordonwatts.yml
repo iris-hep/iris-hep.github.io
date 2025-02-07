@@ -310,7 +310,7 @@ presentations:
     date: 2023-05-08
     url: https://indico.jlab.org/event/459/abstracts/1736/
     meetingurl: https://indico.jlab.org/event/459
-    meeting: CHEP 2024
+    meeting: CHEP 2023
     focus-area: as
   - title: "Analysis Grand Challenge Demonstrator"
     date: 2023-03-30
@@ -429,6 +429,7 @@ presentations:
     meeting: "SciPy 2024"
     focus-area:
       - as
+    project: awkward
     location: Tacoma, WA
   - title: "How the Scientific Python ecosystem helps answering fundamental questions of the Universe"
     date: 2024-07-10
@@ -437,4 +438,13 @@ presentations:
     meeting: "SciPy 2024"
     focus-area:
       - as
+    project: columnar-physlite
     location: Tacoma, WA
+  - title: "Leveraging Language Models to Navigate Conference Abstracts: An Open-Source Approach"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6011147/
+    meetingurl: https://indico.cern.ch/event/1338689
+    meeting: "CHEP 2024 - Conference on Computing in High Energy Physics"
+    focus-area:
+      - as
+    location: Krakow, Poland
