@@ -1,0 +1,14 @@
+name: Snakemake Hackathon March 2025
+startdate: 2025-03-10
+enddate: 2025-03-14
+location: CERN
+meetingurl: https://indico.cern.ch/event/1441041/
+image:
+description: >
+  This event will bring together passionate developers and data scientists to
+  collaborate on and innovate with the Snakemake workflow management system.
+  We plan to fix issues, improve usability, implement new features and plugins,
+  and advance Snakemake's ecosystem of tool wrappers and workflows, across all
+  scientific domains.
+labels:
+  - as
