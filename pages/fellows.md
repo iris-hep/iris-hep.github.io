@@ -21,7 +21,7 @@ To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP Fell
 
 We are preparing to announce the opening for the 2025 Fellows program </fellows.html> for student applications.  In the past, our Fellows have completed a good deal of excellent work and research among a diverse set of projects.  We look to continue these efforts.  Prior to the call for new fellws we wanted to solicit any new ideas for Fellows projects.  You can see a list of projects available here:
 
- <<http://research-software-collaborations.org/projects_irishep>>
+<http://research-software-collaborations.org/projects_irishep>
 
  If there is a project that you would like to propose and you are willing to mentor a student (directly or as part of a group), please go to <https://github.com/research-software-collaborations/project_database> and make a pull request to create your particular project(s).
 
