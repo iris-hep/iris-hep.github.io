@@ -17,6 +17,16 @@ Fellow selections for 2024 have been completed. Please check back in early 2025 
 People are the key to successful software. IRIS-HEP aims to promote the development of advanced research software skills by providing opportunities for undergraduate and graduate students to connect with mentors within the larger High Energy Physics (HEP) and Computational/Data Science community. At the same time, we aim to promote software as a collaborative activity and encourage collaborations which engage individuals in ways that maximize their potential and their potential impact on the community.
 To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP Fellows will spend some number of months working with a mentor to build their skills while working on a research software project relevant to the Institute.
 
+## Adding a project
+
+We are preparing to announce the opening for the 2025 Fellows program </fellows.html> for student applications.  In the past, our Fellows have completed a good deal of excellent work and research among a diverse set of projects.  We look to continue these efforts.  Prior to the call for new fellws we wanted to solicit any new ideas for Fellows projects.  You can see a list of projects available here:
+
+<http://research-software-collaborations.org/projects_irishep>
+
+ If there is a project that you would like to propose and you are willing to mentor a student (directly or as part of a group), please go to <https://github.com/research-software-collaborations/project_database> and make a pull request to create your particular project(s).
+
+ The directions for adding a project can be found in the repository.
+
 {% assign fellows = site.fellows | last_name_sort: "fellow-name"
                                  | reverse
                                  | iris_hep_fellow_sort

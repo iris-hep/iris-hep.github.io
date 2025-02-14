@@ -17,19 +17,32 @@ logos:
 ---
 
 ## My research:
-I conduct cutting-edge computational and data science research aimed at unlocking discoveries in fundamental physics. My current projects include developing CMS software (CMSSW) and enhancing the Awkward Array library for more efficient data manipulation.
+I am a Research Software Engineer specializing in open-source software development within the Python ecosystem and Julia for fundamental physics. My work focuses on designing and optimizing software for high-energy physics (HEP) data analysis.
+
+In the past, I contributed extensively to CMS software (CMSSW), particularly in geometry description, simulation, and event display. My expertise spans software architecture, numerical optimization, and large-scale scientific computing, with a strong focus on enhancing data analysis tools for physics research.
 
 ## My expertise is:
    - *Programming Languages:* C++, Python, Julia
-   - *Technologies:* Awkward Array, Numba, Just-in-Time compilation
+   - *Technologies:* Awkward Array, Numba, Just-in-Time Compilation
    - *Integration:* Python integration with other languages
-   - *Configuration & Distribution:* Managing and deploying complex software environments
+   - *Software Development:* Open-source contributions in Python and Julia ecosystems
+   - *Scientific Computing:* Geometry modeling, simulation, event visualization
+   - *Configuration & Deployment:* Managing and distributing complex software environments
 
 ## A problem I'm grappling with:
 I am currently focused on integrating Awkward Array with Numba to optimize performance through Just-in-Time compilation techniques. Additionally, I am exploring Python on GPU to leverage parallel computing power for complex data analysis.
 
 ## I've got my eyes on:
-I am actively exploring the capabilities of Julia for high-performance computing and its potential applications in fundamental physics.
+   - High-performance computing (HPC) applications in fundamental physics
+   - Large-scale parallelism and deep storage hierarchies for HEP data
+   - Julia’s potential for optimizing scientific computing workflows
 
 ## I want to know more about:
-I am keen to deepen my understanding of large-scale parallelism and the implementation of advanced deep storage hierarchies for high-energy physics (HEP) applications.
+To further improve my work, I am keen to deepen my understanding of:
+
+   - Optimizing data movement and storage for large-scale scientific workflows
+   - Heterogeneous computing to leverage CPUs, GPUs, and specialized accelerators
+   - Efficient memory management strategies for structured and unstructured data
+   - Scalable distributed systems that handle massive physics datasets
+
+By exploring these areas, I aim to contribute to more efficient and scalable computational solutions for HEP.
