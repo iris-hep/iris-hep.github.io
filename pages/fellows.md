@@ -19,7 +19,7 @@ To accomplish these goals, IRIS-HEP has created a Fellows program. IRIS-HEP Fell
 
 ## Adding a project
 
-We are preparing to announce the opening for the 2025 Fellows program </fellows.html> for student applications.  In the past, our Fellows have completed a good deal of excellent work and research among a diverse set of projects.  We look to continue these efforts.  Prior to the call for new fellws we wanted to solicit any new ideas for Fellows projects.  You can see a list of projects available here:
+We are preparing to announce the opening for the [2025 Fellows program](/fellows.html) for student applications.  In the past,our Fellows have completed a good deal of excellent work and research among a diverse set of projects.  We look to continue these efforts.  Prior to the call for new Fellows we wanted to solicit any new ideas for Fellows projects.  You can see a list of projects available here:
 
 <http://research-software-collaborations.org/projects_irishep>
 
