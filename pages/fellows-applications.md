@@ -19,8 +19,8 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
   * Undergraduate fellows work with a mentor to develop research software relevant in one of the R&D areas listed below. Undergraduate fellows will receive a training stipend, paid monthly, during their fellowship. In most cases, they will in general remain in their home location and work remotely with their mentor.
   * Eligibility:
     * US citizens and F-1 visa holders: you must be enrolled in an undergraduate program at an accredited U.S. University or College and have completed at least 1 academic year by the start of the Fellowship. If you hold an F-1 visa, you must be eligible for Optional Practical Training (OPT). If you have a different U.S. immigration visa or are unsure, please contact us at fellows@iris-hep.org.
-    * For Summer 2024, the IRIS-HEP Fellows program will support (1) students of all nationalities that are associated to U.S. academic institutions (U.S. citizenship is not required), (2) students of Ukrainian nationality and (3) students in Lithuania. Students from India should consider applying instead to the [Trainee program](video and audio equipment) of the [HSF-India project](http://research-software-collaborations.org).
-  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 12 FTE-weeks (full time equivalent) at $600/week (paid monthly) during Summer 2024. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last 10-12 weeks (2.5 or 3 months).
+    * For Summer 2025, the IRIS-HEP Fellows program will support (1) students of all nationalities that are associated to U.S. academic institutions (U.S. citizenship is not required), (2) students of Ukrainian nationality and (3) students in Lithuania.
+  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 12 FTE-weeks (full time equivalent) at $600/week (paid monthly) during Summer 2025. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last 10-12 weeks (2.5 or 3 months).
   * It is expected that the Fellow is available full time during the Fellowship period and will *not* have another significant activity (such as classes, another trainee position or a job) in the same time period.
 
 **How does it work?** - After you apply, we will make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will turn into a short 2-page project proposal and timeline (with some help from your mentor). Based on that, we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step.
@@ -28,7 +28,7 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
 During the Fellowship, you will work with your mentor and likely other collaborators using Slack, Zoom, GitHub and other similar tools. You will also make a short
 presentation about your project to other Fellows and Mentors as you start your Fellowship, another midway through the project to show your progress and a final presentation about your results at the very end. You will also have an opportunity to attend [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specific software skills.
 
-**Fellows projects:** A number of possible projects (and mentors) for summer 2024 are listed on the [Fellows Projects](http://research-software-collaborations.org/projects_irishep) webpage. You can mention particular projects/mentors which interest you in your application. We also create new projects or adapt existing ones based on the interests of Fellow applicants. These can come from any of the R&D areas of interest to IRIS-HEP.
+**Fellows projects:** A number of possible projects (and mentors) for summer 2025 are listed on the [Fellows Projects](http://research-software-collaborations.org/projects_irishep) webpage. You can mention particular projects/mentors which interest you in your application. We also create new projects or adapt existing ones based on the interests of Fellow applicants. These can come from any of the R&D areas of interest to IRIS-HEP.
 
 **Which R&D areas are relevant for IRIS-HEP?** - We are particularly interested in software R&D areas where IRIS-HEP personnel are active, but may also consider proposals for other software R&D topics of larger relevance to the HEP community. The IRIS-HEP activities include:
 
@@ -76,8 +76,8 @@ If you have a idea for a project which excites you, but do not find similar exam
 **Timeline:**
 
   * Monday 10 March, 2025 - deadline for priority consideration of applications (applications will be reviewed on a rolling basis as they arrive)
-  * Monday 24 March, 2024 - final deadline for consideration of applications
-  * 89 February - 30 March, 2025 - Select potential Fellows with be matched with potential mentors to develop a project proposal - this may involve a short interview and other follow-up. Final selection as a Fellow will require submission and approval of a project proposal.
+  * Monday 24 March, 2025 - final deadline for consideration of applications
+  * 18 February - 30 March, 2025 - Select potential Fellows with be matched with potential mentors to develop a project proposal - this may involve a short interview and other follow-up. Final selection as a Fellow will require submission and approval of a project proposal.
   * April, 2025 - Offers, Acceptances and Onboarding of Summer 2025 Fellows
   * May-Sep, 2025 - Fellows work on projects (exact dates may depend on specific academic year constraints)
 
