@@ -8,6 +8,13 @@ shortname: VourMa
 title:
 website: https://github.com/VourMa
 presentations:
+  - title: "LST in Phase 2 HLT: Conﬁgurations with (Single Iteration) Patatrack"
+    meeting: HLT Upgrade (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1482695/
+    url: https://indico.cern.ch/event/1482695/#7-lst-in-phase-2-hlt-configura
+    date: 2024-12-03
+    focus-area: ia
+    project: lst
   - title: "Line Segment Tracking"
     meeting: Phase-2 Software Days (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1394609/
