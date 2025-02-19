@@ -13,7 +13,7 @@ presentations:
     url: https://indico.cern.ch/event/1338689/contributions/6010050/
     meetingurl: https://indico.cern.ch/event/1338689
     meeting: "CHEP 2024 - Conference on Computing in High Energy Physics"
-    focus-area: as
+    focus-area: ia
     location: Krakow, Poland
   - title: GPU Demonstrator for ACTS Track Reconstruction
     date: 2021-05-15
