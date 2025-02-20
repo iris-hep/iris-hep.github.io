@@ -8,6 +8,13 @@ shortname: VourMa
 title:
 website: https://github.com/VourMa
 presentations:
+  - title: "The Line Segment Tracking Algorithm in the CMS Phase 2 High Level Trigger" (poster)
+    meeting: CMS Upgrade Week (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1440455/
+    url: https://indico.cern.ch/event/1440455/contributions/6083882/
+    date: 2024-09-17
+    focus-area: ia
+    project: lst
   - title: "LST in Phase 2 HLT: Conﬁgurations with (Single Iteration) Patatrack"
     meeting: HLT Upgrade (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1482695/
