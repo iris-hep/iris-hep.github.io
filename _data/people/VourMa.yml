@@ -8,6 +8,13 @@ shortname: VourMa
 title:
 website: https://github.com/VourMa
 presentations:
+  - title: "LST in Phase 2 HLT: Conﬁgurations with (Single Iteration) Patatrack"
+    meeting: HLT Upgrade (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1482695/
+    url: https://indico.cern.ch/event/1482695/#7-lst-in-phase-2-hlt-configura
+    date: 2024-12-03
+    focus-area: ia
+    project: lst
   - title: "The Line Segment Tracking Algorithm in the CMS Phase 2 High Level Trigger" (poster)
     meeting: CMS Upgrade Week (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1440455/
@@ -15,11 +22,18 @@ presentations:
     date: 2024-09-17
     focus-area: ia
     project: lst
-  - title: "LST in Phase 2 HLT: Conﬁgurations with (Single Iteration) Patatrack"
-    meeting: HLT Upgrade (CMS restricted)
-    meetingurl: https://indico.cern.ch/event/1482695/
-    url: https://indico.cern.ch/event/1482695/#7-lst-in-phase-2-hlt-configura
-    date: 2024-12-03
+  - title: "Line Segment Tracking: integration in CMSSW and recent updates"
+    meeting: CMS Tracking POG Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1422861/
+    url: https://indico.cern.ch/event/1422861/#38-line-segment-tracking-integ
+    date: 2024-06-17
+    focus-area: ia
+    project: lst
+  - title: "Line Segment Tracking: CMSSW PR plans"
+    meeting: CMS Tracking POG Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1418266/
+    url: https://indico.cern.ch/event/1418266/#39-line-segment-tracking-cmssw
+    date: 2024-06-03
     focus-area: ia
     project: lst
   - title: "Line Segment Tracking"
