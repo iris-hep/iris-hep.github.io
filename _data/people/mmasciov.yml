@@ -8,6 +8,20 @@ shortname: mmasciov
 title:
 website: https://github.com/mmasciov
 presentations:
+  - title: "mkFit: status update"
+    meeting: CMS Tracking POG Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1461703
+    url: https://indico.cern.ch/event/1461703/#53-mkfit-status-update
+    date: 2024-10-07
+    focus-area: ia
+    project: mkfit
+  - title: "mkFit status and plans for Phase-2"
+    meeting: CMS Tracking POG Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1442536
+    url: https://indico.cern.ch/event/1442536/#49-mkfit-status-and-plans-for
+    date: 2024-08-26
+    focus-area: ia
+    project: mkfit
   - title: "Summary of recent mkFit developments"
     meeting: CMS Tracking POG Meeting (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1244573
