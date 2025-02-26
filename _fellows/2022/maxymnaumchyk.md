@@ -14,7 +14,7 @@ dates:
 - start: 2024-07-29
   end: 2024-09-22
 - start: 2025-03-03
-  end: 2025-07-21  
+  end: 2025-07-21
 photo: /assets/images/team/fellows-2022/Maxym-Naumchyk.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: maxymnaumchyk@gmail.com
