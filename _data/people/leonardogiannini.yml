@@ -8,6 +8,13 @@ shortname: leonardogiannini
 title:
 website: https://github.com/leonardogiannini
 presentations:
+  - title: "CMS Tracking: mkfit"
+    meeting: IRIS-HEP Institute Retreat
+    meetingurl: https://indico.cern.ch/event/1374962/
+    url: https://indico.cern.ch/event/1374962/timetable/?view=standard#46-cms-tracking-mkfit
+    date: 2024-09-05
+    focus-area: ia
+    project: mkfit
   - title: "Material effects updates in mkFit"
     meeting: CMS Tracking Group (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1247011/

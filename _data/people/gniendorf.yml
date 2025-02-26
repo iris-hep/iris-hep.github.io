@@ -8,3 +8,11 @@ shortname: gniendorf
 title: PhD Student
 website: https://github.com/GNiendorf
 presentations:
+  - title: "Line Segment Tracking: status and plans"
+    meeting: CMS Tracking POG Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1443183
+    url: https://indico.cern.ch/event/1443183/#49-line-segment-tracking-statu
+    date: 2024-09-09
+    location: CERN
+    focus-area: ia
+    project: lst
