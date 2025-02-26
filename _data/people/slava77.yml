@@ -92,3 +92,19 @@ presentations:
     location: Seattle, WA, US
     focus-area: ia
     project: lst
+  - title: "Updates on the LST integration in CMSSW"
+    meeting: CMS GPU developments for Phase-2 Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1442046
+    url: https://indico.cern.ch/event/1442046/#3-updates-on-the-lst-integrati
+    date: 2024-09-17
+    location: CERN
+    focus-area: ia
+    project: lst
+  - title: "mkFit: updates for phase 2"
+    meeting: CMS Tracking POG Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1498184
+    url: https://indico.cern.ch/event/1498184/#56-mkfit-updates-for-phase-2
+    date: 2025-02-11
+    location: CERN
+    focus-area: ia
+    project: mkfit
