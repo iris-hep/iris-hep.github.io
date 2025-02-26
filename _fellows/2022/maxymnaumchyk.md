@@ -5,7 +5,7 @@ shortname: 70752300
 permalink: /fellows/70752300.html
 fellow-name: Maxym Naumchyk
 title: Maxym Naumchyk - IRIS-HEP Fellow
-active: false
+active: true
 dates:
 - start: 2022-07-01
   end: 2022-08-31
@@ -13,10 +13,19 @@ dates:
   end: 2023-09-24
 - start: 2024-07-29
   end: 2024-09-22
+- start: 2025-03-03
+  end: 2025-07-21  
 photo: /assets/images/team/fellows-2022/Maxym-Naumchyk.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: maxymnaumchyk@gmail.com
 projects:
+- project_title: Improving and simplifying the Coffea library
+  project_goal: >
+    The goal of this project is to make coffea library more compatible with other libraries, such as Awkward, Uproot, Dask-awkward.
+    This project will also make it easier to propagate changes in these libraries to coffea.
+  mentors:
+  - Ianna Osborne (Princeton University)
+  - Peter Fackeldey (Princeton University)
 - project_title: Integrating ML algorithms for LHC data compression into the ESCAPE
     Virtual Research Environment
   project_goal: >
