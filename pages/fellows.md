@@ -2,6 +2,7 @@
 permalink: /fellows.html
 layout: default
 title: IRIS/HEP Fellows Program
+minisearch: true
 ---
 
 # IRIS-HEP Fellows Program
@@ -26,6 +27,10 @@ We are preparing to announce the opening for the [2025 Fellows program](/fellows
  If there is a project that you would like to propose and you are willing to mentor a student (directly or as part of a group), please go to <https://github.com/research-software-collaborations/project_database> and make a pull request to create your particular project(s).
 
  The directions for adding a project can be found in the repository.
+
+## Search for Fellows or Projects:
+<!-- <label for="site-search">Search for Fellows or Projects:</label> -->
+<input type="search" id="site-search" name="q" />
 
 {% assign fellows = site.fellows | last_name_sort: "fellow-name"
                                  | reverse
