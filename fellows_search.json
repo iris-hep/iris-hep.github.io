@@ -1,0 +1,38 @@
+---
+layout: none
+---
+[
+  {% assign id = 0 %}
+  {% for post in site.fellows %}
+    {% assign id = id | plus: 1 %}
+    {
+      "id"      : {{ id }},
+      "name"    : "{{ post.fellow-name }}",
+      "url"      : "{{ site.url }}{{ post.permalink }}",
+      "projects" : [
+        {% if post.projects.size > 0 %}
+            {% for project in post.projects %}
+                {
+                    "name" : "{{ project.project_title | strip }}",
+                    "mentors"  : [
+                    {% for mentor in project.mentors %}
+                        "{{ mentor }}"{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                    ]
+                } {% unless forloop.last %},{% endunless %}
+            {% endfor %}
+        {% else %}
+            {
+                "name" : "{{ post.project_title | strip }}",
+                "mentors"  : [
+                    {% for mentor in post.mentors %}
+                        "{{ mentor }}"{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                ]
+            }
+        {% endif %}
+      ]
+    } {% unless forloop.last %},{% endunless %}
+
+  {% endfor %}
+]
