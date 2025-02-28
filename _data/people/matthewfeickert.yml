@@ -502,4 +502,13 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1338689/
     location: Kraków, Poland
     focus-area: as
+    project: columnar-physlite
+
+  - title: "HEP Packaging Coordination: Reproducible reuse by default"
+    date: 2025-02-27
+    url: https://indico.cern.ch/event/1466101/contributions/6287842/
+    meeting: "LHC Reinterpretation Forum Workshop 2025"
+    meetingurl: https://indico.cern.ch/event/1466101/
+    location: Virtual
+    focus-area: as
     project:
