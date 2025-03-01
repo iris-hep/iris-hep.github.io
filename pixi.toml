@@ -9,7 +9,7 @@ platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
 [tasks]
 # Need to use '--user-install' as using pixi instead of rbenv
 install = """
-gem install --user-install bundle && \
+gem install --user-install bundler && \
 bundle install
 """
 
