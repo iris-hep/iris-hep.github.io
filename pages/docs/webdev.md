@@ -37,7 +37,7 @@ rbenv local 3.1.2
 This will run the Ruby you just built whenever you enter this directory. You'll want to install bundler too:
 
 ```bash
-gem install bundle
+gem install bundler
 ```
 
 (You may want to add `--user-install` here if you are not using rbenv. And if
