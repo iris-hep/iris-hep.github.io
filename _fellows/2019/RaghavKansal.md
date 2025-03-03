@@ -12,6 +12,7 @@ photo: /assets/images/team/fellows-2019/Raghav-Kansal.jpg
 institution: University of California, San Diego
 e-mail: NoEmailYet
 focus-area: ia
+project_title: Fast HGCAL Simulation with Graph Network
 project_goal: >
   High granular calorimeters will be the biggest novelty of the CMS Phase II upgrade
   and, in general, for the next generation of collider experiments. This kind of detectors
