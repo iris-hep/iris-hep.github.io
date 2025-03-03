@@ -4,7 +4,7 @@ inputs:
   ruby-version:
     description: "Version of ruby to prepare"
     required: false
-    default: "3.2"
+    default: "3.4"
 
 runs:
   using: composite
@@ -13,9 +13,9 @@ runs:
       uses: actions/cache@v3
       with:
         path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        key: ${{ runner.os }}-gems-${{ inputs.ruby-version }}-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
-          ${{ runner.os }}-gems-
+          ${{ runner.os }}-gems-${{ inputs.ruby-version }}-
 
     - name: Restore publication cache
       uses: actions/cache@v3
