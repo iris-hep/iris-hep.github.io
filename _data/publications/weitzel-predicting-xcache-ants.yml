@@ -1,7 +1,7 @@
 title: Predicting Future Accesses in XRootD Caching Systems using ML-Based Network Pattern Analysis
 link: https://ieeexplore.ieee.org/document/10898672
 date: 2024-12-01
-citation: S. S. Barla, V. S. S. L. Karanam, B. Ramamurthy, and D. Weitzel, “Predicting Future Accesses in XRootD Caching Systems using ML-Based Network Pattern Analysis,” in 2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Dec. 2024, pp. 1–6. doi: 10.1109/ANTS63515.2024.10898672.
+citation: "S. S. Barla, V. S. S. L. Karanam, B. Ramamurthy, and D. Weitzel, “Predicting Future Accesses in XRootD Caching Systems using ML-Based Network Pattern Analysis,” in 2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Dec. 2024, pp. 1–6. doi: 10.1109/ANTS63515.2024.10898672."
 focus-area:
 - doma
 - osg-lhc
