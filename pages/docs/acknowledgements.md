@@ -19,8 +19,10 @@ The following text should be used:
 ---
 
 Suitable variations to also acknowledge other sources of support are of
-course acceptable, but the specific award number (OAC-1836650) for IRIS-HEP
-must be included.
+course acceptable, but the specific award numbers (OAC-1836650 and/or PHY-2323298)
+for IRIS-HEP must be included. Most activities may have contributions (in 2024 and
+2025) from both awards, but as we go along newer activities may have been funded
+of course by PHY-2323298 alone.
 
 ## Referencing IRIS-HEP in Publications
 
