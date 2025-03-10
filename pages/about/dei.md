@@ -19,36 +19,25 @@ the larger community-wide software R&D efforts, and aims to transform the
 operational services required to ensure the success of the HL-LHC scientific
 program. It is a software institute funded by the National Science Foundation.
 
-IRIS-HEP is committed to fostering a welcoming and inclusive environment for
-everyone from all backgrounds not limited to political views, religion,
-national or ethnic origin, race, color, sexual orientation, gender identity or
-expression, age, marital status, veteran status, disability, research
-discipline, history of conviction or incarceration, socioeconomic status, and
-educational history. The entire team strives to create an environment that
+Princeton University and IRIS-HEP is committed to equal opportunity and non-discrimination. To maximize excellence, we seek talent from all segments of American society and the world, and we take steps to ensure everyone at Princeton and IRIS-HEP can thrive while they are here. That is the sole rationale and purpose of our diversity and inclusion programs, all of which are voluntary and open to all, and which comply with federal and state non-discrimination laws. Princeton and IRIS-HEP does not discriminate on the basis of race, sex, ethnicity, color, national origin, religion, disability, or any other protected characteristic, and Princeton and IRIS-HEP does not provide special benefits or preferential treatment on the basis of a protected characteristic.
+
+The entire team at IRIS-HEP strives to create an environment that
 makes interactions and collaborations enjoyable and fulfilling while
 eliminating discrimination, harassment, exploitation, and intimidation.
 
 We expect the entire IRIS-HEP team to promote the following best practices with
 regard to diversity, equity, and inclusion:
 
-* Affirm that promoting diversity must be consistent, ongoing, and is an active
+* Affirm that promoting opportunity must be consistent, ongoing, and is an active
   process that requires engagement;
 * Promote awareness of perspectives that may have been previously inaccessible
   (or less prominent) to groups traditionally represented in scientific
   research environments;
 * Believe that diversification requires cultural, experiential, and ideological
-  representation as well as increasing the number of researchers and staff from
-  underrepresented groups; and
+  representation from all segments of American society and the world
 * Aim to foster an environment where all perspectives are valued because they
   serve to advance the Institute’s academic excellence and intellectual
   capacity, and will contribute to a more productive and respectful
   professional environment.
 
-
-
-> IRIS-HEP will seek opportunities for education and training on diversity,
-> inclusivity, reporting, and bystander intervention techniques. There is a plan
-> to offer a DEI workshop in the coming months which will be facilitated by
-> Princeton University.
-{: .alert .alert-primary}
 
