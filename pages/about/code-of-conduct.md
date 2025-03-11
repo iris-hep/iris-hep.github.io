@@ -69,12 +69,6 @@ situations online and offline, including conferences, training events, mailing
 lists, forums, GitHub organizations, chat rooms, social media, social events
 associated with conferences and events, and one-to-one interactions.
 
-> IRIS-HEP will seek opportunities for education and training on diversity,
-> inclusivity, reporting, and bystander intervention techniques. There is a plan
-> to offer a DEI workshop in the coming months which will be facilitated by
-> Princeton University.
-{: .alert .alert-primary}
-
 ### Discussing and/or Reporting Your Concerns
 
 If you believe someone is violating the code of conduct or if you have specific
