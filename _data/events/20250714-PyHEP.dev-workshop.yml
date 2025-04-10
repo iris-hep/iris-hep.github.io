@@ -1,0 +1,8 @@
+name: PyHEP.dev 2025 - "Python in HEP" Developer's Workshop
+startdate: 2025-07-14
+enddate: 2025-07-17
+location: University of Washington
+meetingurl: https://indico.cern.ch/event/1515852/
+image:
+description: >
+  PyHEP.dev is an in-person, informal workshop for developers of Python software in HEP to plan a coherent roadmap and make priorities for the upcoming year. It complements the PyHEP Users online workshop, which is intended for both developers and physicists.
