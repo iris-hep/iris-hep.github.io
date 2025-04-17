@@ -89,6 +89,7 @@ Please note the following:
   * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
   * "event-prefix" for pdf file naming: USCMS
 
+<!--
 #### [MODE Differentiable Programming Workshop 2024](https://indico.cern.ch/event/1380163/)
   * Location: Valencia, Spain
   * Meeting Dates: 23-25 September, 2024
@@ -100,7 +101,7 @@ Please note the following:
   * Meeting Dates: 4-6 September, 2024
   * Business purpose: Participation in IRIS-HEP Institute Retreat 2024
   * "event-prefix" for pdf file naming: IRIS-HEP-Retreat
-
+-->
 
 
 
