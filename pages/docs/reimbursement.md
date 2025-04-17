@@ -71,6 +71,24 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [CoDaS-HEP 2025 Summer School](https://codas-hep.org)
+  * Location: Princeton, NJ
+  * Meeting Dates: 21-25 July, 2025
+  * Business purpose: Participation in CoDaS-HEP 2025 Summer School
+  * "event-prefix" for pdf file naming: CoDaS-HEP
+
+#### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1496325/)
+  * Location: Ann Arbor, MI
+  * Meeting Dates: 24-25 July, 2025
+  * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
+  * "event-prefix" for pdf file naming: USATLAS
+
+#### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1509580/)
+  * Location: Houston, TX
+  * Meeting Dates: 19-20 May, 2025
+  * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
+  * "event-prefix" for pdf file naming: USCMS
+
 #### [MODE Differentiable Programming Workshop 2024](https://indico.cern.ch/event/1380163/)
   * Location: Valencia, Spain
   * Meeting Dates: 23-25 September, 2024
@@ -83,23 +101,6 @@ Please note the following:
   * Business purpose: Participation in IRIS-HEP Institute Retreat 2024
   * "event-prefix" for pdf file naming: IRIS-HEP-Retreat
 
-#### [CoDaS-HEP 2024 Summer School](https://codas-hep.org)
-  * Location: Princeton, NJ
-  * Meeting Dates: 22-26 July, 2024
-  * Business purpose: Participation in CoDaS-HEP 2024 Summer School
-  * "event-prefix" for pdf file naming: CoDaS-HEP
-
-#### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1376945/)
-  * Location: Seattle, WA
-  * Meeting Dates: 18-19 July, 2024
-  * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
-  * "event-prefix" for pdf file naming: USATLAS
-
-#### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/820946)
-  * Location: Princeton, NJ
-  * Meeting Dates: 20-21 June, 2024
-  * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
-  * "event-prefix" for pdf file naming: USCMS
 
 
 
