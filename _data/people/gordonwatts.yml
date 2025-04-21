@@ -448,3 +448,13 @@ presentations:
     focus-area:
       - as
     location: Krakow, Poland
+  - title: "Analysis at the HL-LHC: Data Delivery, ServiceX, and Addressing Our Analysis Challenges"
+    date: 2025-05-06
+    url: https://indico.cern.ch/event/1484669/contributions/6462311/
+    meetingurl: https://indico.cern.ch/event/1484669
+    meeting: "WLCG/HSF Workshop - 2025"
+    focus-area:
+      - as
+      - doma
+    project: servicex
+    location: Paris, France
