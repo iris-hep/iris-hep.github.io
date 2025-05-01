@@ -30,7 +30,7 @@ the ability to pull individual columns from complex datasets into high-speed
 data analysis facilities.
 
 [ServiceX](https://github.com/ssl-hep/ServiceX) is a data extraction and
-delivery delivery service. Users provide a dataset identifier and a selection
+data delivery service. Users provide a dataset identifier and a selection
 statement that specifies filters and columns. ServiceX brings up parallel
 workers to open the files in the dataset and uses experiment approved frameworks
 to extract the data and store it in popular columnar file formats for easy
