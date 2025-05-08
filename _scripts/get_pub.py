@@ -71,6 +71,7 @@ def summarize_record(recid : int, *, max_authors : int = 5):
 
     mini_dict.update({
         'focus-area': '<FILL IN>',
+        'challenge-area': '<FILL IN>',
         'project': '<FILL IN>',
         })
 

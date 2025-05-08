@@ -1,0 +1,9 @@
+name: "JuliaHEP 2025 Workshop"
+startdate: 2025-07-28
+enddate: 2025-07-31
+location: Princeton University
+meetingurl: https://indico.cern.ch/event/1488852/
+image:
+description: The workshop will be organised with two days of contributed talks, followed by one and a half days of a JuliaHEP training, hackathons, and birds of a feather sessions.
+labels:
+  - training

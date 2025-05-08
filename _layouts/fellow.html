@@ -28,7 +28,7 @@
         <br>
         <h3>Project: {{project.project_title}}</h3>
 
-        {{project.project_goal}}
+        {{ project.project_goal | markdownify }}
         <br>
         <br>
         More information: <a href = "{{project.proposal}}">My project proposal</a><br>

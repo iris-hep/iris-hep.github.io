@@ -1,6 +1,11 @@
+ci:
+  autoupdate_commit_msg: "chore(deps): update pre-commit hooks"
+  autofix_commit_msg: "style: pre-commit fixes"
+  autoupdate_schedule: monthly
+
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.5.0
+    rev: v5.0.0
     hooks:
       - id: check-added-large-files
       - id: mixed-line-ending
@@ -11,7 +16,7 @@ repos:
       - id: check-yaml
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.28.0
+    rev: 0.32.1
     hooks:
       - id: check-github-workflows
       - id: check-dependabot
@@ -40,14 +45,14 @@ repos:
         language: fail
 
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.6
+    rev: v2.4.1
     hooks:
       - id: codespell
         exclude: (^Gemfile.lock|\.js|\.map)$
         args:
           [
             "-L",
-            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus,ablet,manuel",
+            "hist,sur,nd,pres,ist,ect,wan,wit,marge,admi,tunnell,parth,bu,ser,slac,gage,discus,ablet,manuel,classe,insead,hepl",
           ]
 
   - repo: local

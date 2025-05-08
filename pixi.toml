@@ -1,0 +1,30 @@
+[project]
+name = "iris-hep.github.io"
+version = "0.1.0"
+description = "Jekyll based website for IRIS-HEP"
+authors = ["Matthew Feickert <matthew.feickert@cern.ch>"]
+channels = ["conda-forge"]
+platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
+
+[tasks]
+# Need to use '--user-install' as using pixi instead of rbenv
+install = """
+gem install --user-install bundler && \
+bundle install
+"""
+
+check = "bundle exec rake check"
+
+rubocop = "bundle exec rake rubocop"
+
+build = "bundle exec rake build"
+
+serve = "bundle exec rake serve"
+
+clean = "bundle exec rake clean"
+
+clobber = "bundle exec rake clobber"
+
+[dependencies]
+ruby = ">=3.1,<3.2"
+compilers = ">=1.7.0,<2"

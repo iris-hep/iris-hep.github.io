@@ -1,0 +1,9 @@
+name: HSF/IRIS-HEP Software Basics Training (Virtual)
+startdate: 2023-11-13
+enddate: 2023-11-14
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1316853/
+image:
+description: Workshop on Unix, Git and Github, fundamentals of Python language, Jupyter Notebooks
+labels:
+  - training

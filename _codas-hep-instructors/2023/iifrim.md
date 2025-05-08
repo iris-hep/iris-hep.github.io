@@ -2,7 +2,7 @@
 layout: codas-hep-participant
 e-mail: ii3193@princeton.edu
 institution: Princeton University
-name: Ioana Ifirm
+name: Ioana Ifrim
 photo: "/assets/images/team/Ioana-Ifrim.jpg"
 github-username: ioanaif
 linkedin-profile: "https://uk.linkedin.com/in/ioana-ifrim-918289116"
