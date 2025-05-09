@@ -15,7 +15,7 @@ presentations:
     meetingurl: https://indico.jlab.org/event/459/
     location: Norfolk, Virginia
     focus-area: as
-    project: sbi
+    project: 
 
   - title: "Practical SBI for Measurements at the LHC"
     date: 2024-05-16
@@ -24,7 +24,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1355601/
     location: Munich
     focus-area: as
-    project: sbi
+    project: 
 
   - title: "Simulation-Based Inference at the LHC"
     date: 2024-12-17
@@ -33,4 +33,4 @@ presentations:
     meetingurl: https://agenda.infn.it/event/43386/overview
     location: Munich
     focus-area: as
-    project: sbi
+    project: 
