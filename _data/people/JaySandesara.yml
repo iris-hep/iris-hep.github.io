@@ -8,7 +8,7 @@ shortname: JaySandesara
 title: Postdoctoral Research Associate
 website:
 presentations:
-- title: "ATLAS data analysis using a parallelized workflow on distributed cloud-based services with GPUs"
+  - title: "ATLAS data analysis using a parallelized workflow on distributed cloud-based services with GPUs"
     date: 2023-05-08
     url: https://indico.jlab.org/event/459/contributions/11480/
     meeting: CHEP 2023
