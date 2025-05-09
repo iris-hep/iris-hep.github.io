@@ -8,3 +8,29 @@ shortname: JaySandesara
 title: Postdoctoral Research Associate
 website:
 presentations:
+- title: "ATLAS data analysis using a parallelized workflow on distributed cloud-based services with GPUs"
+    date: 2023-05-08
+    url: https://indico.jlab.org/event/459/contributions/11480/
+    meeting: CHEP 2023
+    meetingurl: https://indico.jlab.org/event/459/
+    location: Norfolk, Virginia
+    focus-area: as
+    project: sbi
+
+  - title: "Practical SBI for Measurements at the LHC"
+    date: 2024-05-16
+    url: https://indico.cern.ch/event/1355601/contributions/5913432/
+    meeting: PHYSTAT-SBI 2024
+    meetingurl: https://indico.cern.ch/event/1355601/
+    location: Munich
+    focus-area: as
+    project: sbi
+
+  - title: "Simulation-Based Inference at the LHC"
+    date: 2024-12-17
+    url: https://agenda.infn.it/event/43386/contributions/251169/
+    meeting: Digital Twins for Nuclear and Particle physics - NPTwins 2024
+    meetingurl: https://agenda.infn.it/event/43386/overview
+    location: Munich
+    focus-area: as
+    project: sbi
