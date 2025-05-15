@@ -71,6 +71,12 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [JuliaHEP 2025 Workshop](https://indico.cern.ch/event/1488852/)
+  * Location: Princeton, NJ
+  * Meeting Dates: 28-31 July, 2025
+  * Business purpose: Participation in JuliaHEP 2025 Workshop
+  * "event-prefix" for pdf file naming: JuliaHEP
+
 #### [CoDaS-HEP 2025 Summer School](https://codas-hep.org)
   * Location: Princeton, NJ
   * Meeting Dates: 21-25 July, 2025
