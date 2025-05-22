@@ -7,13 +7,13 @@ title: IRIS/HEP Fellows Program Applications
 
 # Applying to the IRIS-HEP Fellows Program
 
+**Applications for the Undergraduate Fellows program are not currently being accepted. Please check back in early 2026 for information about the Summer 2026 program.**
+
 **General information about the program, as well as information about former Fellows, can be found on the [main Fellows webpage](https://iris-hep.org/fellows.html).**
 
 <!--
 **Applications for the Undergraduate Fellows program in Summer 2025 are now open. Applications submitted before Monday, 10 March, 2025 (end of the day, any time zone) will prioritized for consideration. The application form will however remain open and applications can nonetheless be submitted through March 24th, 2025.**
 -->
-
-**Applications for the Undergraduate Fellows program are not currently being accepted**
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
 with basic programming through skills acquired (for example) from coursework or
