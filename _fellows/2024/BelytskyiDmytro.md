@@ -32,12 +32,12 @@ projects:
       of using 40 MHz Level-1 trigger scouting data for luminosity
       measurements in the CMS experiment by analyzing correlations
       between various trigger primitives.
-    mentors:  
+    mentors:
       - Alexey Shevelev
       - Olena Karacheban
     proposal: /assets/pdf/fellows-2025/UKR008-proposal-Dmytro-Belytskyi.pdf
 
-presentations: 
+presentations:
   - title: Usage of CUDA for improving HLT performance
     date: 2024-10-28
     url: https://indico.cern.ch/event/1449316/contributions/6101309/attachments/2956024/5197741/improving%20HLT%20performance_v2.pdf
