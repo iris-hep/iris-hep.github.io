@@ -70,6 +70,6 @@ presentations:
     recordingurl: https://youtu.be/gEaqn7C9ipY
     focus-area: ia
 
-current_status: 
+current_status:
 github-username: Andreylen
 ---
