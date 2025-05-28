@@ -19,13 +19,6 @@ photo: /assets/images/team/fellows-2022/Maxym-Naumchyk.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: maxymnaumchyk@gmail.com
 projects:
-- project_title: Improving and simplifying the Coffea library
-  project_goal: >
-    The goal of this project is to make coffea library more compatible with other libraries, such as Awkward, Uproot, Dask-awkward.
-    This project will also make it easier to propagate changes in these libraries to coffea.
-  mentors:
-  - Ianna Osborne (Princeton University)
-  - Peter Fackeldey (Princeton University)
 - project_title: Integrating ML algorithms for LHC data compression into the ESCAPE
     Virtual Research Environment
   project_goal: >
@@ -54,6 +47,14 @@ projects:
   - Ianna Osborne (Princeton University)
   - Jim Pivarski (Princeton University)
   proposal: /assets/pdf/fellows-2024/UKR018-proposal-Maxym-Naumchyk.pdf
+- project_title: Improving and simplifying the Coffea library
+  project_goal: >
+    The goal of this project is to make coffea library more compatible with other libraries, such as Awkward, Uproot, Dask-awkward.
+    This project will also make it easier to propagate changes in these libraries to coffea.
+  mentors:
+  - Ianna Osborne (Princeton University)
+  - Peter Fackeldey (Princeton University)
+  proposal: /assets/pdf/fellows-2025/proposal-Maxym-Naumchyk.pdf
 presentations:
 - title: Integrating ML algorithms for LHC data compression into the ESCAPE Virtual
     Research Environment
