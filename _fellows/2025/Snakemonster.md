@@ -14,7 +14,7 @@ institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: nikita.o.platonov@gmail.com
 focus-area:
 challenge-area:
-project_title: Packaging the HEP simulation stack on conda-forge: Package HEP tools for conda-forge
+project_title: "Packaging the HEP simulation stack on conda-forge: Package HEP tools for conda-forge"
 project_goal: This project would attempt to package as many of the dependencies of the broader HEP simulation stack on conda-forge as possible starting with those outlined in the HEP Packaging Coordination list and additionally contribute to the maintenance of the ROOT feedstock on conda-forge.
 mentors:
   - Matthew Feickert (University of Wisconsin–Madison)
