@@ -16,20 +16,20 @@ focus-area:
 challenge-area:
 project_title: Exploring the Frontier of 5D Calorimeter Reconstruction with HG-DREAM and IDEA Simulation
 project_goal:
-    achieving a low-level understanding of 5D calorimetry and its performance for jets; utilize HG-DREAM and IDEA detector simulations to investigate the impact of key calorimeter design parameters such as time resolution, spatial segmentation, etc. impact performance. 
+    achieving a low-level understanding of 5D calorimetry and its performance for jets; utilize HG-DREAM and IDEA detector simulations to investigate the impact of key calorimeter design parameters such as time resolution, spatial segmentation, etc. impact performance.
 mentors:
   - Ariel Schwartzman (SLAC)
   - Michael Kagan (SLAC)
   - Rainer Bartoldus (SLAC)
 proposal: /assets/pdf/fellows-2025/USA022-proposal-Mengke-Zhang.pdf
 presentations:
-  - title: 
-    date: 
-    url: 
-    meeting: 
-    meetingurl: 
-    recordingurl: 
-    focus-area: 
+  - title:
+    date:
+    url:
+    meeting:
+    meetingurl:
+    recordingurl:
+    focus-area:
 current_status: >
   A placeholder for status updates
 github-username: Z0zzz
