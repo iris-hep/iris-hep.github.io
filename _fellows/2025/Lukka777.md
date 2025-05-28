@@ -7,8 +7,8 @@ fellow-name: Luka Gavrysh
 title: Luka Gavrysh - IRIS-HEP Fellow
 active: True
 dates:
-  start: 01.07.2025
-  end: 23.09.2025
+  start: 2025-07-01
+  end: 2025-09-23
 photo: /assets/images/team/fellows-2025/Luka-Gavrysh.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: gavryshluka@gmail.com
