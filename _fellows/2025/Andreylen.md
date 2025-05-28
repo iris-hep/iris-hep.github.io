@@ -7,14 +7,14 @@ fellow-name: "Andrii Len"
 title: "Andrii Len - IRIS-HEP Fellow"
 active: true
 dates:
-  - start: "2022-06-27"
-    end:   "2022-09-18"
-  - start: "2023-07-03"
-    end:   "2023-09-22"
-  - start: "2024-06-03"
-    end:   "2024-08-21"
-  - start: "2025-06-02"
-    end:   "2025-08-24"
+  - start: 2022-06-27
+    end:   2022-09-18
+  - start: 2023-07-03
+    end:   2023-09-22
+  - start: 2024-06-03
+    end:   2024-08-21
+  - start: 2025-06-02
+    end:   2025-08-24
 photo: "/assets/images/team/fellows-2022/Andrii-Len.jpg"
 institution: "Taras Shevchenko National University of Kyiv"
 e-mail: "andrlen2002@gmail.com"
@@ -56,7 +56,7 @@ projects:
     proposal: "/assets/pdf/fellows-2025/UKR005-proposal-Andrii-Len.pdf"
 presentations:
   - title: "The usage of Deep Learning for QCD background estimation"
-    date: "2022-10-19"
+    date: 2022-10-19
     url: "https://indico.cern.ch/event/1199559/contributions/5097272/attachments/2531407/4355497/IRIS-Hep%20Andrii_Len_Final_Presentation.pdf"
     meeting: "IRIS-HEP Fellows Presentations 2022"
     meetingurl: "https://indico.cern.ch/event/1199559/"
