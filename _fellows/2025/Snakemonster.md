@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2025-05-19
   end: 2025-08-11
-photo: /assets/images/team/fellows-2025/Mykta-Platonov.jpg
+photo: /assets/images/team/fellows-2025/Mykyta-Platonov.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: nikita.o.platonov@gmail.com
 focus-area:
