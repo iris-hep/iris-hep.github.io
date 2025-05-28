@@ -20,7 +20,7 @@ mentors:
   - Matthew Feickert (University of Wisconsin–Madison)
 proposal: /assets/pdf/fellows-2025/Proposal-Mykyta-Platonov.pdf
 presentations:
-current_status: 
+current_status:
 github-username: Snakemonster
 linkedin-profile: https://www.linkedin.com/in/mykyta-platonov-0ab594240/
 ---
