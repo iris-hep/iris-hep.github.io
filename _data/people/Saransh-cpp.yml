@@ -3,11 +3,7 @@ e-mail: saransh0701@gmail.com
 focus-area:
   - as
 institution: Advanced Research Computing Centre, University College London
-past_institution:
-  {
-    institution: Princeton University,
-    end_date: 2024-08-15,
-  }
+past_institution: { institution: Princeton University, end_date: 2024-08-15 }
 name: Saransh Chopra
 photo: "/assets/images/team/Saransh-Chopra.jpeg"
 shortname: Saransh-cpp
