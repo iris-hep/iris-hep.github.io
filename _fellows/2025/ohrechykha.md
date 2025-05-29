@@ -12,7 +12,7 @@ dates:
   end: 2024-09-22
 - start: 2025-06-10
   end: 2025-08-18
-  
+
 photo: /assets/images/team/fellows-2024/Oleksii-Hrechykha.jpg
 institution: Kyiv Academic University
 e-mail: alexeee6@gmail.com
