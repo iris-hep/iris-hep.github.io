@@ -1,5 +1,7 @@
 active: true
 e-mail: alexander.held@cern.ch
+challenge-area:
+  - agc
 focus-area:
   - as
 inspire-id: Alexander.Held.1
@@ -130,6 +132,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - servicex
       - func-adl
@@ -146,6 +149,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -159,6 +163,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -184,6 +189,7 @@ presentations:
       - as
       - doma
       - ssl
+    challenge-area: agc
     project: agc
 
   - title: "From data delivery to statistical inference with CMS Open Data"
@@ -195,6 +201,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - servicex
       - func-adl
@@ -222,6 +229,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project: agc
 
   - title: "Analysis Grand Challenge updates"
@@ -233,6 +241,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -257,6 +266,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project: agc
 
   - title: "Analysis Grand Challenge updates"
@@ -268,6 +278,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -281,6 +292,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - servicex
       - func-adl
@@ -301,6 +313,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -314,6 +327,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -327,6 +341,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -351,6 +366,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -364,6 +380,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -387,6 +404,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -400,6 +418,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -413,6 +432,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project: agc
 
   - title: "Analysis Grand Challenge Demo"
@@ -423,6 +443,7 @@ presentations:
     location: "Princeton, USA"
     focus-area:
       - as
+    challenge-area: agc
     project:
       - agc
 
@@ -434,6 +455,7 @@ presentations:
     location: "Princeton, USA"
     focus-area:
       - as
+    challenge-area: agc
     project:
       - agc
       - cabinetry
@@ -447,6 +469,7 @@ presentations:
     focus-area:
       - as
       - doma
+    challenge-area: agc
     project:
       - coffea-casa
       - agc
@@ -454,6 +477,7 @@ presentations:
   - title: "Constructing and steering pyhf models with cabinetry"
     date: 2023-12-04
     url: https://indico.cern.ch/event/1294577/contributions/5689564/
+    video: https://youtu.be/hrs0EpceO_8
     meeting: pyhf Users and Developers Workshop 2023
     meetingurl: https://indico.cern.ch/event/1294577/
     location: "CERN"
@@ -492,6 +516,7 @@ presentations:
     location: "CERN"
     focus-area:
       - as
+    challenge-area: agc
     project:
       - agc
 
@@ -503,6 +528,7 @@ presentations:
     location: "Sacramento, USA"
     focus-area:
       - as
+    challenge-area: agc
     project:
       - agc
       - madminer
@@ -517,3 +543,87 @@ presentations:
       - as
     project:
       - madminer
+
+  - title: "Statistical tools: pyhf and cabinetry"
+    date: 2024-07-19
+    url: https://indico.cern.ch/event/1376945/contributions/5787159/
+    meeting: US ATLAS / IRIS-HEP Analysis Software Training Event 2024
+    meetingurl: https://indico.cern.ch/event/1376945/
+    location: "Seattle, WA"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+      - pyhf
+
+  - title: "Model misspecification meets ML: a HEP perspective"
+    date: 2024-09-12
+    url: https://indico.cern.ch/event/1407421/contributions/6055431/
+    meeting: PHYSTAT - Statistics meets ML
+    meetingurl: https://indico.cern.ch/event/1407421/
+    location: "London, UK"
+    focus-area:
+      - as
+    project:
+
+  - title: "The 200 Gbps Challenge: Imagining HL-LHC analysis facilities"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6009824/
+    meeting: CHEP 2024
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: "Krakow, Poland"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - agc
+
+  - title: "Practical model building for statistical analysis"
+    date: 2024-11-19
+    url: https://indico.cern.ch/event/1455307/
+    meeting: ATLAS Lecture Series
+    meetingurl: https://indico.cern.ch/event/1455307/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+      - pyhf
+
+  - title: "Installing and Managing software on your laptop"
+    date: 2025-01-16
+    url: https://indico.cern.ch/event/1394564/contributions/6137259/
+    meeting: HSF-India Hyderabad
+    meetingurl: https://indico.cern.ch/event/1394564/
+    location: "Hyderabad, India"
+    focus-area:
+      - as
+    project:
+
+  - title: "IRIS-HEP analysis pipeline"
+    date: 2025-01-17
+    url: https://indico.cern.ch/event/1394564/contributions/6316173/
+    meeting: HSF-India Hyderabad
+    meetingurl: https://indico.cern.ch/event/1394564/
+    location: "Hyderabad, India"
+    focus-area:
+      - as
+    challenge-area: agc
+    project:
+      - agc
+
+  - title: "HL-LHC Analysis Blueprint Meeting"
+    date: 2025-02-03
+    url: https://indico.cern.ch/event/1501541/#4-benchmark-analyses-and-scena
+    meeting: Joint ATLAS S&C / CMS O&C meeting
+    meetingurl: https://indico.cern.ch/event/1501541/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - agc

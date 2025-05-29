@@ -7,7 +7,7 @@ module IrisHep
       @focus_areas ||= begin
         extras = @site.config['iris-hep']['extra-focus-areas'].to_set
         focus_area_pages = @site.pages.select { |p| p['pagetype'] == 'focus-area' }
-        locals = focus_area_pages.map { |p| File.basename(p.name, '.*') }.to_set
+        locals = focus_area_pages.to_set { |p| File.basename(p.name, '.*') }
         extras | locals
       end
     end
@@ -19,7 +19,14 @@ module IrisHep
           msg = "Filename #{p.name} must match the shortname #{p['shortname']}"
           raise Checks::Error, msg unless File.basename(p.name, '.*') == p['shortname']
         end
-        project_pages.map { |p| File.basename(p.name, '.*') }.to_set
+        project_pages.to_set { |p| File.basename(p.name, '.*') }
+      end
+    end
+
+    def challenge_areas
+      @challenge_areas ||= begin
+        challenge_area_pages = @site.pages.select { |p| p['pagetype'] == 'challenge-area' }
+        challenge_area_pages.to_set { |p| File.basename(p.name, '.*') }
       end
     end
 

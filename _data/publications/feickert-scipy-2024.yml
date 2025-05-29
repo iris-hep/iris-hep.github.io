@@ -1,0 +1,15 @@
+title: "How the Scientific Python ecosystem helps answer fundamental questions of the Universe"
+link: https://doi.org/10.25080/KMXN4784
+date: 2024-07-10
+citation: "Matthew Feickert, Nikolai Hartmann, Lukas Heinrich, Alexander Held, Vangelis Kourlitis, Nils Krumnack, Giordon Stark, Matthias Vigl, Gordon Watts, SciPy 2024"
+focus-area: as
+project:
+  - scikit-hep
+  - uproot
+  - awkward
+  - awkward-dask
+  - histogram
+  - vector
+  - pyhf
+  - cabinetry
+  - columnar-physlite

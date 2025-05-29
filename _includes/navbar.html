@@ -14,7 +14,7 @@
                         <a class="dropdown-item" href="/about/team">Full Team</a>
                         <a class="dropdown-item" href="/about/steering-board">Steering Board</a>
                         <a class="dropdown-item" href="/about/advisory-panel">Advisory Panel</a>
-                        <a class="dropdown-item" href="/about/dei">Diversity, Equity, and Inclusion</a>
+                        <a class="dropdown-item" href="/about/eond">Equal Opportunity and Non-discrimination</a>
                         <a class="dropdown-item" href="/about/code-of-conduct">Code of Conduct</a>
                         <a class="dropdown-item" href="/glossary">Glossary</a>
                         <a class="dropdown-item" href="/docs">Docs</a>
@@ -41,6 +41,10 @@
                         {% endfor %}
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="/grand-challenges.html">Grand Challenges</a>
+                        {% assign activities = site.pages | where: "layout", "challenge-area" | sort_natural: 'title' %}
+                        {% for mypage in activities %}
+                        <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
+                        {% endfor %}
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="/impact-beyond-hep.html">Impact Beyond HEP</a>
                         <a class="dropdown-item" href="/outreach.html">Education and Outreach</a>

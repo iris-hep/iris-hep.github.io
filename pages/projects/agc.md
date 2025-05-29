@@ -12,6 +12,8 @@ maturity-note:
 focus-area:
  - doma
  - as
+challenge-area:
+  - agc
 team:
  - oshadura
  - alexander-held
