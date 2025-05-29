@@ -24,8 +24,7 @@ mentors:
 - Ianna Osborne (Princeton University)
 proposal: /assets/pdf/fellows-2024/UKR013-proposal-Oleksii-Hrechykha.pdf
 project_title: Completing an Array-API compliant Ragged library
-project_goal: Implementing the functions currently missing from ragged array library with complete set of tests for
-each function.
+project_goal: Implementing the functions currently missing from ragged array library with complete set of tests for each function.
 mentors:
   - Ianna Osborne (Princeton University)
 proposal: /assets/pdf/fellows-2025/UKR018-proposal-Oleksii-Hrechykha.pdf
