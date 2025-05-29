@@ -13,7 +13,7 @@ photo: /assets/images/team/fellows-2025/Peilin-Ye.jpg
 institution: University of Pennsylvania
 e-mail: peilinye@sas.upenn.edu
 focus-area: ia
-challenge-area: 
+challenge-area:
 project_title: Machine-Learning Pile-Up-Suppression Trigger Algorithms for the HL-LHC
 project_goal: >
     The project aims to develop fast, machine learning-based trigger algorithms to suppress hard-QCD pileup at the HL-LHC, focusing on multi-jet events. It aims to enhance the discrimination between single- and multi-vertex events using lightweight neural networks and/or BDTs that are compatible with FPGA trigger hardware.
