@@ -15,9 +15,9 @@ photo: /assets/images/team/fellows-2024/Oleksii-Hrechykha.jpg
 institution: Kyiv Academic University
 e-mail: alexeee6@gmail.com
 <<<<<<< HEAD
-focus-area: 
+focus-area:
 challenge-area:
-projects: 
+projects:
 - project_title: Python Ragged array library development
   project_goal: This project aims to complete the implementation of the functions currently
     missing from Python's Ragged library.
