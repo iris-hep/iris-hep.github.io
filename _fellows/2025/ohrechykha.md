@@ -7,27 +7,28 @@ fellow-name: Oleksii Hrechykha
 title: Oleksii Hrechykha - IRIS-HEP Fellow
 active: True
 dates:
-  start: <2024-07-01>
+- start: <2024-07-01>
   end: <2024-09-22>
-  start: <2025-06-10>
+- start: <2025-06-10>
   end: <2025-08-18>
 photo: /assets/images/team/fellows-2024/Oleksii-Hrechykha.jpg
 institution: Kyiv Academic University
 e-mail: alexeee6@gmail.com
 focus-area: 
-challenge-area: 
-project_title: Python Ragged array library development
-project_goal: This project aims to complete the implementation of the functions currently
-  missing from Python's Ragged library.
-mentors:
-- Jim Pivarski (Princeton University)
-- Ianna Osborne (Princeton University)
-proposal: /assets/pdf/fellows-2024/UKR013-proposal-Oleksii-Hrechykha.pdf
-project_title: Completing an Array-API compliant Ragged library
-project_goal: Implementing the functions currently missing from ragged array library with complete set of tests for each function.
-mentors:
+challenge-area:
+projects: 
+- project_title: Python Ragged array library development
+  project_goal: This project aims to complete the implementation of the functions currently
+    missing from Python's Ragged library.
+  mentors:
+  - Jim Pivarski (Princeton University)
   - Ianna Osborne (Princeton University)
-proposal: /assets/pdf/fellows-2025/UKR018-proposal-Oleksii-Hrechykha.pdf
+  proposal: /assets/pdf/fellows-2024/UKR013-proposal-Oleksii-Hrechykha.pdf
+- project_title: Completing an Array-API compliant Ragged library
+  project_goal: Implementing the functions currently missing from ragged array library with complete set of tests for each function.
+  mentors:
+  - Ianna Osborne (Princeton University)
+  proposal: /assets/pdf/fellows-2025/UKR018-proposal-Oleksii-Hrechykha.pdf
 presentations:
   - title: "Python Ragged array library development: a final report"
     date: "2024-09-18"
