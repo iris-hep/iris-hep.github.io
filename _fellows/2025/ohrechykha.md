@@ -14,6 +14,7 @@ dates:
 photo: /assets/images/team/fellows-2024/Oleksii-Hrechykha.jpg
 institution: Kyiv Academic University
 e-mail: alexeee6@gmail.com
+<<<<<<< HEAD
 focus-area: 
 challenge-area:
 projects: 
@@ -22,6 +23,20 @@ projects:
     missing from Python's Ragged library.
   mentors:
   - Jim Pivarski (Princeton University)
+=======
+focus-area:
+challenge-area:
+project_title: Python Ragged array library development
+project_goal: This project aims to complete the implementation of the functions currently
+  missing from Python's Ragged library.
+mentors:
+- Jim Pivarski (Princeton University)
+- Ianna Osborne (Princeton University)
+proposal: /assets/pdf/fellows-2024/UKR013-proposal-Oleksii-Hrechykha.pdf
+project_title: Completing an Array-API compliant Ragged library
+project_goal: Implementing the functions currently missing from ragged array library with complete set of tests for each function.
+mentors:
+>>>>>>> c725d2504373bf5d6b3431e5209e138436e1ffec
   - Ianna Osborne (Princeton University)
   proposal: /assets/pdf/fellows-2024/UKR013-proposal-Oleksii-Hrechykha.pdf
 - project_title: Completing an Array-API compliant Ragged library
@@ -36,8 +51,8 @@ presentations:
     meeting: IRIS-HEP Fellows 2024 Final Presentations
     meetingurl: https://indico.cern.ch/event/1455396/
     recordingurl: https://www.youtube.com/watch?v=vdWOrYRHoGE
-    focus-area: 
+    focus-area:
 current_status:
 github-username: ohrechykha
-linkedin-profile: 
+linkedin-profile:
 ---
