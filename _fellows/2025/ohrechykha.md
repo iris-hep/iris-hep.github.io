@@ -14,8 +14,8 @@ dates:
 photo: /assets/images/team/fellows-2024/Oleksii-Hrechykha.jpg
 institution: Kyiv Academic University
 e-mail: alexeee6@gmail.com
-focus-area:
-challenge-area:
+focus-area: 
+challenge-area: 
 project_title: Python Ragged array library development
 project_goal: This project aims to complete the implementation of the functions currently
   missing from Python's Ragged library.
@@ -35,8 +35,8 @@ presentations:
     meeting: IRIS-HEP Fellows 2024 Final Presentations
     meetingurl: https://indico.cern.ch/event/1455396/
     recordingurl: https://www.youtube.com/watch?v=vdWOrYRHoGE
-    focus-area:
+    focus-area: 
 current_status:
 github-username: ohrechykha
-linkedin-profile:
+linkedin-profile: 
 ---
