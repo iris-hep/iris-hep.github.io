@@ -8,7 +8,7 @@ title: Hannah Havel - IRIS-HEP Fellow
 active: True
 dates:
   start: 2025-06-23
-  end: TBD
+  end: 2025-09-15
 photo: /assets/images/team/fellows-2025/Hannah-Havel.jpg
 institution: Northern Illinois University
 e-mail: hannahhavel04@gmail.com
