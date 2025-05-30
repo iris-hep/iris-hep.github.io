@@ -12,8 +12,8 @@ dates:
 photo: /assets/images/team/fellows-2025/Devon-Bontrager.jpg
 institution: University of Kansas
 e-mail: devonlbontrager@ku.edu
-focus-area: 
-challenge-area: 
+focus-area:
+challenge-area:
 project_title: Cooperative Track Building with Heuristic and Quantum Acceleration
 project_goal: >
   This project aims to explore novel ways to improve track reconstruction performance for the HL-LHC through three innovations: (1) cooperative track building where parallel hypotheses share quality metrics and prune weaker candidates; (2) adaptation of underexplored heuristic methods including Ant Colony Optimization, Particle Swarm Optimization, Simulated Annealing, Genetic Algorithms, best-first A*/Hungarian matching; and (3) a quantum-parallel proof of concept using QUBO-based seed selection on quantum devices. The unified Python framework developed during the project will benchmark trade-offs in speed, accuracy, and resource consumption, and highlight the potential of hybrid classical–quantum pipelines for real-time, high-accuracy tracking in high-pileup environments.
