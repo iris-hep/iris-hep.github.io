@@ -28,7 +28,7 @@ presentations:
     meetingurl:
     recordingurl:
     focus-area:
-current_status: 
+current_status:
 github-username: Avtawker
 linkedin-profile: "https://www.linkedin.com/in/arvind-tawker-381809224/"
 ---
