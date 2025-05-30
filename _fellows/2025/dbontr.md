@@ -21,7 +21,7 @@ mentors:
   - Dr. Liv Vage
 proposal: /assets/pdf/fellows-2025/USA019-proposal-Devon-Bontrager.pdf
 presentations:
-    title:
+  - title:
     date:
     url:
     meeting:
