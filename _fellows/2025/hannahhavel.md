@@ -22,7 +22,7 @@ mentors:
   - Massimiliano Galli (Princeton)
   - Nick Smith (Fermilab)
 proposal: /assets/pdf/fellows-2025/USA021-proposal-Hannah-Havel.pdf
-presentations: []
+presentations:
 current_status:
 github-username: hannahhavel
 linkedin-profile:
