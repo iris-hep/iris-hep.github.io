@@ -7,12 +7,12 @@ fellow-name: Yehyun Choi
 title: Yehyun Choi - IRIS-HEP Fellow
 active: True
 dates:
-  start: June 1, 2025
-  end: August 23, 2025
+  start: 2025-06-01
+  end: 2025-08-23
 photo: /assets/images/team/fellows-2025/Yehyun-Choi.JPG
 institution: Cornell University
 e-mail: yc2698@cornell.edu
-focus-area: <Focus Area in IRIS-HEP for your project ( ask your mentor(s) ) - ia,ssl,ssc,doma,as,osglhc >
+focus-area: AS
 challenge-area: <Challenge Area if your project is associated with one of the Grand Challenges: agc, data-grand-challenge, training-grand-challenge>
 project_title: Split Uproot into two phases: metadata-reading and data-reading
 project_goal: >
