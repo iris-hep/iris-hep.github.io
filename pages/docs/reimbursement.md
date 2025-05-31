@@ -89,6 +89,18 @@ Please note the following:
   * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
   * "event-prefix" for pdf file naming: USATLAS
 
+#### [PyHEP.dev 2025 "Python in HEP" Workshop](https://indico.cern.ch/event/1515852/)
+  * Location: Seattle, WA
+  * Meeting Dates: 14-17 July, 2025
+  * Business purpose: Participation in PyHEP.dev 2025 Workshop
+  * "event-prefix" for pdf file naming: PyHEP.dev
+
+#### [SciPy 2025 Workshop](https://www.scipy2025.scipy.org/)
+  * Location: Tacoma, WA
+  * Meeting Dates: 7-13 July, 2025
+  * Business purpose: Participation in SciPy 2025 Workshop
+  * "event-prefix" for pdf file naming: SciPy
+
 #### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1509580/)
   * Location: Houston, TX
   * Meeting Dates: 19-20 May, 2025
