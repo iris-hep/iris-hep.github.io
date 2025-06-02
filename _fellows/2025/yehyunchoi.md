@@ -13,8 +13,8 @@ photo: /assets/images/team/fellows-2025/Yehyun-Choi.JPG
 institution: Cornell University
 e-mail: yc2698@cornell.edu
 focus-area: AS
-challenge-area: <Challenge Area if your project is associated with one of the Grand Challenges: agc, data-grand-challenge, training-grand-challenge>
-project_title: Split Uproot into two phases: metadata-reading and data-reading
+challenge-area: 
+project_title: "Split Uproot into two phases: metadata-reading and data-reading"
 project_goal: >
     This project aims to modularize Uproot and improve its performance, splitting the metadata-reading phase and the data-reading phase.
 mentors:
@@ -23,15 +23,14 @@ mentors:
   - Ianna Osbonre (Princeton University)
 proposal: /assets/pdf/fellows-2025/Proposal-Yehyun-Choi.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
+  - title: 
+    date: 
+    url: 
+    meeting: 
+    meetingurl: 
+    recordingurl: 
+    focus-area: 
 current_status: >
   A placeholder for status updates
-github-username: <Your git-hub username>
-linkedin-profile: <Your LinkedIn Profile url>
+github-username: dbizdfvy
 ---
