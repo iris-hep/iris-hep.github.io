@@ -21,4 +21,5 @@ proposal: /assets/pdf/fellows-2025/Proposal-Andrii-Anataichuk.pdf
 presentations:
 current_status:
 github-username: happydarkness
+linkedin-profile:
 ---
