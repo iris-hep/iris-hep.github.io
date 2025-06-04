@@ -21,13 +21,13 @@ mentors:
   - Angira Rastogi (LBNL)
 proposal: /assets/pdf/fellows-2025/USA015-proposal-Santiago-Ampudia-Castelazo.pdf
 presentations:
-  - title: 
-    date: 
-    url: 
-    meeting: 
-    meetingurl: 
-    recordingurl: 
-    focus-area: 
+  - title:
+    date:
+    url:
+    meeting:
+    meetingurl:
+    recordingurl:
+    focus-area:
 current_status: >
   A placeholder for status updates
 github-username: santiago-ampudia
