@@ -1,0 +1,18 @@
+active: true
+focus-area:
+- osglhc
+institution: Princeton University
+name: Yana Holoborodko
+photo: /assets/images/team/Yana-Holoborodko.png
+shortname: hooloobooroodkoo
+title:
+website:
+presentations:
+  - title: Enabling Advanced Network and Infrastructure Alarms
+    date: 2024-10-07
+    url: https://www.canva.com/design/DAGKc_f-uuk/rXJgQYTAN5Fgwbm_CQCq1w/edit?utm_content=DAGKc_f-uuk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+    meeting: IRIS HEP Fellowship Presentations
+    meetingurl: https://www.youtube.com/watch?v=kQU9NuAulNg&ab_channel=IRIS-HEP
+    project: psdash
+    focus-area: osglhc
+    location: Online
