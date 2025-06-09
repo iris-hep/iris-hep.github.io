@@ -13,17 +13,14 @@ focus-area: as
 github: https://github.com/ContinuumIO/dask-awkward
 start-date: 2021-08-19
 team:
- - jpivarski
- - douglasdavis (Anaconda)
- - martindurant (Anaconda)
- - ioifrim
- - ianna
- - and others
+- Douglas Davis (Anaconda)
+- Martin Durant (Anaconda)
+- Angus Hollands
+- Lindsey Gray
+- jpivarski
+- pfackeldey
 ---
 
 First component of the Awkward Array CSSI ([OAC-2103945](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103945), a spin-off project of IRIS-HEP,
-is the development of a new Dask container type representing Awkward Arrays. This work is in development at
-[ContinuumIO/dask-awkward](https://github.com/ContinuumIO/dask-awkward/) in collaboration with [Anaconda](https://www.anaconda.com/).
-
-GitHub Discussions in the [Planning category](https://github.com/ContinuumIO/dask-awkward/discussions/categories/planning) contain summaries of our
-weekly meetings.
+is a new Dask container type representing Awkward Arrays. This work is in development at
+[dask-contrib/dask-awkward](https://github.com/dask-contrib/dask-awkward/) in collaboration with [Anaconda](https://www.anaconda.com/).

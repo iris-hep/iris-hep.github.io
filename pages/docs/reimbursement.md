@@ -69,22 +69,68 @@ Please note the following:
   * Send the single pdf as an attachment in email to [participant-reimbursement@iris-hep.org](mailto:participant-reimbursement@iris-hep.org) with an email subject line including your name and the word "reimbursement".
 
 
-### Notes for specific events and workshops
+### Notes for specific events and workshops (reverse chronological order)
 
-#### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/820946)
+#### [JuliaHEP 2025 Workshop](https://indico.cern.ch/event/1488852/)
   * Location: Princeton, NJ
-  * Meeting Dates: 20-21 June, 2024
-  * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
-  * "event-prefix" for pdf file naming: USCMS
+  * Meeting Dates: 28-31 July, 2025
+  * Business purpose: Participation in JuliaHEP 2025 Workshop
+  * "event-prefix" for pdf file naming: JuliaHEP
 
-#### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1376945/)
-  * Location: Seattle, WA
-  * Meeting Dates: 18-19 July, 2024
+#### [CoDaS-HEP 2025 Summer School](https://codas-hep.org)
+  * Location: Princeton, NJ
+  * Meeting Dates: 21-25 July, 2025
+  * Business purpose: Participation in CoDaS-HEP 2025 Summer School
+  * "event-prefix" for pdf file naming: CoDaS-HEP
+
+#### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1496325/)
+  * Location: Ann Arbor, MI
+  * Meeting Dates: 24-25 July, 2025
   * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
   * "event-prefix" for pdf file naming: USATLAS
 
-#### [CoDaS-HEP 2024 Summer School](https://codas-hep.org)
-  * Location: Princeton, NJ
-  * Meeting Dates: 22-26 July, 2024
-  * Business purpose: Participation in CoDaS-HEP 2024 Summer School
-  * "event-prefix" for pdf file naming: CoDaS-HEP
+#### [PyHEP.dev 2025 "Python in HEP" Workshop](https://indico.cern.ch/event/1515852/)
+  * Location: Seattle, WA
+  * Meeting Dates: 14-17 July, 2025
+  * Business purpose: Participation in PyHEP.dev 2025 Workshop
+  * "event-prefix" for pdf file naming: PyHEP.dev
+
+#### [SciPy 2025 Workshop](https://www.scipy2025.scipy.org/)
+  * Location: Tacoma, WA
+  * Meeting Dates: 7-13 July, 2025
+  * Business purpose: Participation in SciPy 2025 Workshop
+  * "event-prefix" for pdf file naming: SciPy
+
+#### [MODE Workshop on Differential Programming 2025](https://indico.cern.ch/event/1481852/overview)
+  * Location: Kolymbari, Crete, Greece
+  * Meeting Dates: 8-13 June, 2025
+  * Business purpose: Participation in MODE 2025 Workshop
+  * "event-prefix" for pdf file naming: MODE
+
+#### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1509580/)
+  * Location: Houston, TX
+  * Meeting Dates: 19-20 May, 2025
+  * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
+  * "event-prefix" for pdf file naming: USCMS
+
+<!--
+#### [MODE Differentiable Programming Workshop 2024](https://indico.cern.ch/event/1380163/)
+  * Location: Valencia, Spain
+  * Meeting Dates: 23-25 September, 2024
+  * Business purpose: Participation in MODE Differentiable Programming Workshop 2024
+  * "event-prefix" for pdf file naming: MODE
+
+#### [IRIS-HEP Institute Retreat 2024](https://indico.cern.ch/event/1374962/)
+  * Location: Seattle, WA
+  * Meeting Dates: 4-6 September, 2024
+  * Business purpose: Participation in IRIS-HEP Institute Retreat 2024
+  * "event-prefix" for pdf file naming: IRIS-HEP-Retreat
+-->
+
+
+
+
+
+
+
+

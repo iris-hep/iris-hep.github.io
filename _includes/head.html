@@ -27,6 +27,10 @@
     {% if page.layout == "focus-area" or page.mermaid %}
       <script src="https://cdn.jsdelivr.net/npm/mermaid@9.1.1/dist/mermaid.min.js" integrity="sha384-6qzFcd+IG/OgXej451KTI/pbrex++8tdIfKsNF+gDVx1gfkmIG7z+uIIspvxAP7u" crossorigin="anonymous"></script>
     {% endif %}
+    {% if page.minisearch %}
+      <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.2/dist/umd/index.min.js" integrity="sha384-IniM+QBDckT3t/xRvZUiUyns2i4VQ1OFdqa5l/YN7RBCzb/BtLOoN6PDsAuACzRP" crossorigin="anonymous"></script>
+      <script src="{{ '/assets/js/search_fellows.js' | append: site.github.build_revision | relative_url }}" integrity="sha384-2RO98kKS7+8u1mTksinacoKOWhGOtZnsbBshNxSd9eDpdQ4zTPBigkL7q1wpKPGU"></script>
+    {% endif %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127196353-1"></script>

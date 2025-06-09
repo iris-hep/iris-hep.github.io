@@ -221,3 +221,31 @@ presentations:
     project: acts
     focus-area: ia
     location: FNAL
+  - title: "traccc: GPU track reconstruction library for HEP experiments"
+    date: 2024-10-23
+    url: https://indico.cern.ch/event/1338689/contributions/6010050/
+    meetingurl: https://indico.cern.ch/event/1338689
+    meeting: "CHEP 2024 - Conference on Computing in High Energy Physics"
+    focus-area: ia
+    location: Krakow, Poland
+  - title: Kalman Smoothing with a Two-Filter Method
+    date: 2024-12-13
+    url: https://indico.cern.ch/event/1435335/#8-kalman-smoothing-with-a-two
+    meeting: ACTS Parallelization Meeting
+    project: acts
+    focus-area: ia
+    location: CERN
+  - title: traccc
+    date: 2025-01-08
+    url: https://indico.cern.ch/event/1438988/#33-traccc
+    meeting: LBNL ATLAS group Annual meeting
+    project: acts
+    focus-area: ia
+    location: LBNL
+  - title: Traccc tutorial
+    date: 2025-01-08
+    url: https://indico.cern.ch/event/1447956/#32-traccc-tutorial-b15-253
+    meeting: LBNL ATLAS group Annual meeting
+    project: acts
+    focus-area: ia
+    location: LBNL

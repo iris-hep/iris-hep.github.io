@@ -1,0 +1,155 @@
+<!doctype html>
+
+{% include layout_header_navbar.html %}
+
+    <div id="container">
+      <div class="container page">
+        <main role="main">
+
+{% assign page_challenge_area = page.name | basename %}
+{% assign sorted = site.pages | where: "pagetype", "project" | where_exp: "item", "item.challenge-area contains page_challenge_area" | smart_title_sort %}
+{% assign fa_team = site.data.people | where_exp: "item", "item.challenge-area contains page_challenge_area and item.active and item.hidden != true" | last_name_sort: "name" %}
+{% assign fa_fellows = site.fellows | sort_natural: 'title' | where_exp: "item", "item.challenge-area contains page_challenge_area and item.hidden != true" %}
+{% assign pres_list = site.data['sorted_presentations'] | where_exp: "item", "item.challenge-area contains page_challenge_area"  %}
+{% assign pubs = site.data['sorted_publications'] | where_exp: "item", "item.challenge-area contains page_challenge_area" %}
+{% include get_selected_videos.html nvideos=6 challenge_areas=page_challenge_area %}
+
+{% assign quicklinks = "" | split: "," %}
+{% if fa_fellows.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#fellows"> Fellows</a>' %}
+{% endif %}
+{% if sorted.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#projects"> Projects</a>' %}
+{% endif %}
+{% if pres_list.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#presentations"> Presentations</a>' %}
+{% endif %}
+{% if pubs.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#publications"> Publications</a>' %}
+{% endif %}
+{% if selected_videos.size > 0 %}
+{% assign quicklinks = quicklinks | push: '<a href="#videos"> Videos</a>' %}
+{% endif %}
+{% if quicklinks.size > 0 %}
+  Jump to: {{ quicklinks | join: " - " }}
+{% endif %}
+
+<div>
+<br>
+<center><h1>{{ page.title }}</h1></center>
+
+{{content}}
+</div>
+
+
+{% if fa_team.size > 0 %}
+<div class="container-fluid">
+  <div class="row">
+    {% for person in fa_team %}
+    <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px; border: none; text-align: center;">
+      <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
+      {%- if person.website -%}
+        <a href="{{person.website}}">{{ person.name }}</a>
+      {%- else -%}
+        {{ person.name }}
+      {%- endif -%}
+      </div>
+    {% endfor %}
+  </div>
+  <br>
+</div>
+{% endif %}
+
+{% if fa_fellows.size > 0 %}
+<h2 id="fellows" class="alt-h2 text-center mb-3 mt-lg-6" id="pres">Current and Previous {{page.short_title | upcase }} Fellows</h2>
+
+<div class="container-fluid">
+  <div class="row">
+    {% for person in fa_fellows %}
+    <div class="card" style="font-size:10px;width: 87px;height: 135px;margin-bottom:-15px;">
+      <img style="width: 85px;height: 85px; object-fit:cover;" src="{{person.photo}}"  alt="Card image cap">
+        <a href="{{person.permalink}}">{{ person.fellow-name }}</a>
+      </div>
+    {% endfor %}
+  </div>
+  <br>
+</div>
+{% endif %}
+
+
+{% if sorted.size > 0 %}
+<div class="container-fluid projects">
+  <h2 id="projects"  class="alt-h2 text-center mb-3 mt-lg-6" id="projects">{{ page.short_title | upcase }} Projects</h2><br>
+<center>
+  <div class="row">
+{% for mypage in sorted %}
+<div class="card" style="width: 17rem;">
+<a href=/projects/{{mypage.shortname}}.html>
+<img class="card-img-top" src="/assets/{{mypage.image | default: "logos/Iris-hep-5-just-graphic.png"}}" alt="Card image cap">
+</a>
+<div class="card-body d-flex flex-column">
+<div class="card-text">
+<b><p><font size="+2">{{mypage.title}}</font></p></b>
+{{mypage.blurb}}<br>
+<a href=/projects/{{mypage.shortname}}.html> More information</a><br>
+{%- include maturity.html project=mypage -%}
+</div>
+</div>
+</div>
+{% endfor %}
+  </div>
+</center>
+  <br>
+</div>
+{% endif %}
+
+{% if pres_list.size > 0 %}
+<section class="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 id="presentations" class="alt-h2 text-center mb-3 mt-lg-6" id="pres">{{page.short_title | upcase }} Presentations</h2>
+    {% expandable pres_list 15 %}
+      {% include print_pres.html talk=expandable %}
+    {% endexpandable %}
+</div>
+</section>
+{% endif %}
+
+{% if pubs.size > 0 %}
+<section class="">
+<div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 id="publications" style="margin-top: -110px;" class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">{{ page.short_title | upcase }} Publications</h2>
+    {% expandable pubs 15 %}
+      {% include print_pub.html pub=expandable %}
+    {% endexpandable %}
+</div>
+</section>
+{% endif %}
+
+{% if selected_videos.size > 0 %}
+<h2 id="videos" class="alt-h2 text-center mb-3 mt-lg-6" id="pubs">Recent {{ page.short_title | upcase }} Recordings</h2>
+{% include display_videos.html videos=selected_videos %}
+{% endif %}
+
+<section class="">
+  <div class="container-lg p-responsive py-5 py-md-6 ">
+    <h2 class="alt-h2 text-center mb-3 mt-lg-6" id="join-us">Join us</h2>
+    <p class="alt-lead text-gray text-center col-md-10 mx-auto">We collaborate with groups around the world on code, data, and more. See our project pages for more.</p>
+  </div>
+  <div style="overflow: hidden;">
+    <div class="featured-orgs text-center p-2">
+      {% for org_list in page.collaborators   %}
+        {% assign org_hash = org_list | first  %}
+        {% assign org = org_hash[1] %}
+        <a href="{{org.link}}"><img src="/assets/images/{{org.image}}" height="100" alt="{{org_hash[0]}}"> </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+        </main>
+      </div>
+      {% include_cached footer.html %}
+    </div>
+
+  {% include_cached layout_analytics.html %}
+  </body>
+</html>

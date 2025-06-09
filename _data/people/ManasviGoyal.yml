@@ -1,4 +1,4 @@
-active: true
+active: false
 e-mail: mg.manasvi@gmail.com
 focus-area:
   - as
@@ -6,7 +6,7 @@ institution: Princeton University
 name: Manasvi Goyal
 photo: "/assets/images/team/Manasvi-Goyal.jpg"
 shortname: ManasviGoyal
-title: Research Software Intern
+title: Masters Student Computer Science - Harvard University
 website: https://github.com/ManasviGoyal
 presentations:
   - title: Awkward Target for Kaitai Struct
