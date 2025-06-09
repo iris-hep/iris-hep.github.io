@@ -16,13 +16,13 @@ institution: Taras Shevchenko National University of Kyiv
 e-mail: vladislav221b@gmail.com
 # focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 projects:
-  - project_title: Development of the generic vertex finder in HLT1-level trigger at LHCb 
+  - project_title: Development of the generic vertex finder in HLT1-level trigger at LHCb
     project_goal: >
         The goal of this project is to develop novel HLT1 algorithms to expand LHCb physics reach in QCD as well as searches for New Physics
     mentors:
       - Andrii Usachov (VU Amsterdam and Nikhef)
     proposal: /assets/pdf/fellows-2024/UKR014-proposal-Vladyslav-Yankovskyi.pdf
-  - project_title: Displaced Vertex Finder on GPUs for LHCb 
+  - project_title: Displaced Vertex Finder on GPUs for LHCb
     project_goal: >
         The goal of this project is to build generic vertex finder for displaced vertices and provide generic vertices formed by VELO tracks: their positions, uncertainties
     mentors:
