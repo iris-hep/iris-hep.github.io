@@ -101,6 +101,12 @@ Please note the following:
   * Business purpose: Participation in SciPy 2025 Workshop
   * "event-prefix" for pdf file naming: SciPy
 
+#### [MODE Workshop on Differential Programming 2025](https://indico.cern.ch/event/1481852/overview)
+  * Location: Kolymbari, Crete, Greece
+  * Meeting Dates: 8-13 June, 2025
+  * Business purpose: Participation in MODE 2025 Workshop
+  * "event-prefix" for pdf file naming: MODE
+
 #### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1509580/)
   * Location: Houston, TX
   * Meeting Dates: 19-20 May, 2025
