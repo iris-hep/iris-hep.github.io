@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2025-06-23
   end: 2025-09-12
-photo: "/assets/images/team/fellows-2025/Santigao-Ampudia.png"
+photo: /assets/images/team/fellows-2025/Santiago-Ampudia.png
 institution: "Stanford University"
 e-mail: "ampudia@stanford.edu"
 focus-area:
