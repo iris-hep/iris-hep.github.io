@@ -33,4 +33,5 @@ current_status: >
   A placeholder for status updates
 github-username: santiago-ampudia
 linkedin-profile: https://www.linkedin.com/in/santiago-ampudia-castelazo-1804741b8/
+funding-source: nsf
 ---

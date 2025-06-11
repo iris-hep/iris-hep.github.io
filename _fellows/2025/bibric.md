@@ -34,4 +34,5 @@ current_status: >
   A placeholder for status updates
 github-username: "bibric"
 linkedin-profile:
+funding-source: impress-u
 ---

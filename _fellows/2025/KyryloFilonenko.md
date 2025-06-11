@@ -32,4 +32,5 @@ current_status: >
   A placeholder for status updates
 github-username: "KyryloFilonenko"
 linkedin-profile:
+funding-source: impress-u
 ---

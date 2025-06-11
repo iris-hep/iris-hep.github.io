@@ -26,4 +26,5 @@ presentations:
 current_status:
 github-username: hannahhavel
 linkedin-profile:
+funding-source: nsf
 ---

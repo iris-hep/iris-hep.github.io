@@ -40,4 +40,5 @@ current_status: # >
   # A placeholder for status updates
 github-username: VladyslavYankovskyi
 # linkedin-profile: <Your LinkedIn Profile url>
+funding-source: impress-u
 ---

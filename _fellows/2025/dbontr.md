@@ -32,4 +32,5 @@ current_status: >
     A placeholder for status updates
 github-username: dbontr
 linkedin-profile: https://www.linkedin.com/in/devon-bontrager/
+funding-source: nsf
 ---
