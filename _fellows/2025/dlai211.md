@@ -33,4 +33,5 @@ current_status: >
   A placeholder for status updates
 github-username: "dlai211"
 linkedin-profile:
+funding-source: nsf
 ---

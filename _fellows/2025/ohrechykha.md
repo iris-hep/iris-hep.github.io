@@ -43,4 +43,5 @@ presentations:
 current_status:
 github-username: ohrechykha
 linkedin-profile:
+funding-source: impress-u
 ---

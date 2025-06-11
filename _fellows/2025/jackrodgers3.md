@@ -1,4 +1,3 @@
-
 ---
 layout: fellow
 pagetype: fellow
@@ -15,7 +14,7 @@ institution: Purdue University
 e-mail: jprodger@purdue.edu
 focus-area: ml
 challenge-area:
-project_title: One Flow to Unfold Them All: Unfolding quantities with a single normalizing flow
+project_title: "One Flow to Unfold Them All: Unfolding quantities with a single normalizing flow"
 project_goal: In the LHC (or any detector), measurements are made on physical observables by a number of instruments (ECAL, HCAL, etc.) which ultimately have an intrinsic resolution constraint, limiting how well we can extract the true physical observables of our particles. This project attempts to use normalizing flows to transform our detected distributions to the pre-detector (truth) distributions, conditioning on a binary label of representing reco/gen.
 mentors:
   - Massimiliano Galli (Princeton University)
@@ -31,4 +30,5 @@ presentations:
 current_status: In Progress
 github-username: jackrodgers3
 linkedin-profile: https://www.linkedin.com/in/jack-rodgers3/
+funding-source: nsf
 ---
