@@ -36,4 +36,5 @@ current_status: >
   A placeholder for status updates
 github-username: Lukka777
 linkedin-profile:
+funding-source: impress-u
 ---

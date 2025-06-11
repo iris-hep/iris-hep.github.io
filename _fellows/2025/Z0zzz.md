@@ -34,4 +34,5 @@ current_status: >
   A placeholder for status updates
 github-username: Z0zzz
 linkedin-profile:
+funding-source: nsf
 ---

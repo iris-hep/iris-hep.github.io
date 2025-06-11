@@ -1,4 +1,3 @@
-
 ---
 layout: fellow
 pagetype: fellow
@@ -31,4 +30,5 @@ presentations:
 current_status: In Progress
 github-username: jackrodgers3
 linkedin-profile: https://www.linkedin.com/in/jack-rodgers3/
+funding-source: nsf
 ---

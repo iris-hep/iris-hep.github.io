@@ -33,4 +33,5 @@ current_status: >
   A placeholder for status updates
 github-username: egle-git
 linkedin-profile: <Your LinkedIn Profile url>
+funding-source: other
 ---
