@@ -5,9 +5,9 @@ author: Adam Hadhazy
 image: /assets/images/posts/2025-06-12-200Gbps-Data-Challenge-image3.jpg
 image-whole: true
 image-caption: >
-    "A live exercise at the 2024 IRIS-HEP retreat in Seattle stress-tested how well the systems work when many people perform data analysis in parallel. The picture shows the audience participating in this test. Credit: Matthew Feickert (University of Wisconsin - Madison)"
+    A live exercise at the 2024 IRIS-HEP retreat in Seattle stress-tested how well the systems work when many people perform data analysis in parallel. The picture shows the audience participating in this test. Credit: Oksana Shadura (University of Nebraska - Lincoln)
 summary: >
-    "A look at the 200 Gbps data challenge conducted during the 2024 IRIS-HEP retreat, exploring advances in distributed data access and analysis for high-energy physics."
+    A look at the 200 Gbps data challenge conducted during the 2024 IRIS-HEP retreat, exploring advances in distributed data access and analysis for high-energy physics.
 figure-class: center
 ---
 
@@ -29,7 +29,7 @@ The 200 Gbps Challenge was fostered by the (Institute for Research and Innovatio
 For the exercise, researchers sought to analyze 25% of a 180-terabyte dataset in 30 minutes. The HL-LHC is expected to routinely generate such massive datasets describing the particle shrapnel
 produced by collisions of protons or heavy ions, such as lead, detected within the experiment’s main instruments.
 
-Two of those instruments are [CMS](https://www.home.cern/science/experiments/cms) and [ATLAS](https://home.cern/science/experiments/atlas), each of which is roughly the size of a multi-story building. Nebraska, mentionedprior, hosts a research group that works extensively with CMS. A second research group that participated in the 200 Gbps Challenge is at the University of Chicago, with ATLAS data analysis being their specialty. Each facility was selected to participate in the Challenge because they work with different LHC detectors while also conveniently possessing varied data analysis infrastructures and capabilities, allowing the team to explore diverse strategies for obtaining 200Gbps.
+Two of those instruments are [CMS](https://www.home.cern/science/experiments/cms) and [ATLAS](https://home.cern/science/experiments/atlas), each of which is roughly the size of a multi-story building. Nebraska, mentioned prior, hosts a research group that works extensively with CMS. A second research group that participated in the 200 Gbps Challenge is at the University of Chicago, with ATLAS data analysis being their specialty. Each facility was selected to participate in the Challenge because they work with different LHC detectors while also conveniently possessing varied data analysis infrastructures and capabilities, allowing the team to explore diverse strategies for obtaining 200Gbps.
 
 The primary components in play for data analysis are central processing units (CPUs), where
 number-crunching data decompression takes place, and the networks over which data flows to
