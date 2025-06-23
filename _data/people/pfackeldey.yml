@@ -8,3 +8,13 @@ shortname: pfackeldey
 title: Postdoctoral Research Associate
 website: https://github.com/pfackeldey
 presentations:
+  - title: "Awkward Array: manipulating nested, variable-sized data with NumPy-like idioms"
+    date: 2025-06-06
+    url: https://events.berkeley.edu/BIDS/event/299829-bids-seminar-with-peter-fackeldey
+    meeting: BIDS Seminar
+    meetingurl: https://events.berkeley.edu/BIDS/event/299829-bids-seminar-with-peter-fackeldey
+    location: UC Berkeley, USA
+    focus-area:
+      - as
+    project:
+      - awkward
