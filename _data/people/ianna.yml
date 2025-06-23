@@ -10,6 +10,26 @@ shortname: ianna
 title: Research Software Engineer
 website: https://github.com/ianna
 presentations:
+  - title: "Python for analysis (Scikit-HEP): an introduction to the Scikit-HEP ecosystem of tools, starting with Uproot and Awkward Array."
+    date: 2025-06-20
+    url: https://github.com/ianna/2025-06-20-hsf-iris-hep-uproot-awkward-tutorial
+    meeting: HSF/IRIS-HEP Software Basics Training at CERN (Hybrid)
+    meetingurl: https://indico.cern.ch/event/1516608/timetable/
+    location: CERN and virtual
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Columnar analysis and Awkward Array"
+    date: 2025-05-19
+    url: https://github.com/iris-hep/uscms-idap-training
+    meeting: USCMS/IRIS-HEP Analysis Software Training 2025
+    meetingurl: https://indico.cern.ch/event/1509580/
+    location: RICE University, Houston, USA
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Navigating the Multilingual Landscape of Scientific Computing: Python, Julia, and Awkward Array"
     date: 2024-10-24
     url: https://indico.cern.ch/event/1338689/contributions/6010686/
