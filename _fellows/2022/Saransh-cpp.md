@@ -107,8 +107,8 @@ presentations:
   focus-area: as
   project: vector
 current_status: >
-  <strong> August 2024 </strong> - Assistant Research Software Engineer at Centre
-  for Advanced Research Computing, University College London
+  <strong> August 2024 </strong> - Assistant Research Software Engineer at Advanced
+  Research Computing Centre, University College London
 github-username: Saransh-cpp
 linkedin-profile: https://www.linkedin.com/in/saransh-cpp/
 challenge-area:

@@ -1,0 +1,8 @@
+title: "Vector: JIT-compilable mathematical manipulations of ragged Lorentz vectors"
+link: https://joss.theoj.org/papers/10.21105/joss.07791
+date: 2025-05-23
+citation: "Chopra, S., Schreiner, H., Rodrigues, E., Eschle, J., & Pivarski, J. (2025). Vector: JIT-compilable mathematical manipulations of ragged Lorentz vectors. Journal of Open Source Software, 10(109), 7791. https://doi.org/10.21105/joss.07791."
+focus-area: as
+submitted-to: The Journal of Open Source Software
+project:
+  - vector
