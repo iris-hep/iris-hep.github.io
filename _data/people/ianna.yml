@@ -26,10 +26,9 @@ presentations:
     meeting: USCMS/IRIS-HEP Analysis Software Training 2025
     meetingurl: https://indico.cern.ch/event/1509580/
     location: RICE University, Houston, USA
-    focus-area: 
+    focus-area:
       - as
-    project:
-      -awkward
+    project: -awkward
   - title: "Navigating the Multilingual Landscape of Scientific Computing: Python, Julia, and Awkward Array"
     date: 2024-10-24
     url: https://indico.cern.ch/event/1338689/contributions/6010686/
