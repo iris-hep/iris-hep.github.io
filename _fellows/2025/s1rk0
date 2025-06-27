@@ -12,7 +12,7 @@ dates:
 photo: "/assets/images/team/fellows-2025/ivan_andriievskyi.jpg"
 institution: "Taras Shevchenko National University of Kyiv"
 e-mail: "ivan.andriievskyi@knu.ua"
-focus-area: 
+focus-area:
 challenge-area:
 project_title: "Alpaka Benchmarks for CMS Pixel Track Reconstruction"
 project_goal: >
@@ -29,7 +29,7 @@ presentations:
     meetingurl:
     recordingurl:
     focus-area:
-current_status: > 
+current_status: >
 github-username: "s1rk0"
 linkedin-profile:
 ---
