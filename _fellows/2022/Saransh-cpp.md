@@ -35,7 +35,15 @@ mentors:
 - Jim Pivarski (Princeton University)
 proposal: /assets/pdf/fellows-2022/040-proposal-Saransh-Chopra.pdf
 presentations:
-- title: 'A new SymPy backend for vector: uniting experimental and theoretical physicists'
+- title: Differentiable Computation with Awkward Array and JAX
+  date: 2025-06-11
+  url: https://indi.to/8WZTS
+  meeting: MODE Workshop 2025
+  meetingurl: https://indico.cern.ch/event/1481852
+  location: Crete, Greece
+  focus-area: as
+  project: awkward
+- title: "A new SymPy backend for vector: uniting experimental and theoretical physicists"
   date: 2024-10-21
   url: https://indi.to/zTs5b
   meeting: CHEP 2024
@@ -43,7 +51,7 @@ presentations:
   location: Krakow, Poland
   focus-area: as
   project: vector
-- title: 'A new SymPy backend for vector: uniting experimental and theoretical physicists'
+- title: "A new SymPy backend for vector: uniting experimental and theoretical physicists"
   date: 2024-07-03
   url: https://indi.to/pfTC6
   meeting: PyHEP 2024 (virtual) Workshop
@@ -60,7 +68,7 @@ presentations:
   location: online
   focus-area: as
   project: awkward
-- title: What's new with Vector? First major release is out!
+- title: "What's new with Vector? First major release is out!"
   date: 2023-10-09
   url: https://indi.to/35ym5
   meeting: PyHEP 2023 (virtual) Workshop
