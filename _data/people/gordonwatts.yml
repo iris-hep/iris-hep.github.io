@@ -458,3 +458,29 @@ presentations:
       - doma
     project: servicex
     location: Paris, France
+  - title: "Using Large Language Models to Accelerate Access to Physics"
+    date: 2025-07-01
+    url: https://indico.cern.ch/event/1557398/#4-leveraging-chatbots-in-daily
+    meetingurl: https://indico.cern.ch/event/1557398/
+    meeting: "IML Machine Learning Working Group: Chatbots at CERN"
+    focus-area:
+      - as
+    location: CERN
+  - title: "Using Large Language Models to Accelerate Access to Physics"
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562829
+    meetingurl: https://indico.cern.ch/event/1488410
+    meeting: "ACAT - 2025"
+    focus-area:
+      - as
+    location: Hamburg, Germany
+  - title: "Using ServiceX to prepare training data for an ATLAS Long-Lived Particle Search"
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562952
+    meetingurl: https://indico.cern.ch/event/1488410
+    meeting: "ACAT - 2025"
+    focus-area:
+      - as
+      - doma
+    project: servicex
+    location: Hamburg, Germany
