@@ -17,6 +17,8 @@ team:
  - mdsokoloff
  - mityinzer
  - simonakar
+ - mohamedelashri
+ - qibinlei
  - marianstahl
  - Rui Fang
  - AtluriLab
@@ -31,4 +33,4 @@ The PV-Finder algorithm uses a custom kernel to transform the sparse 3D space of
 
 The current version of PV-Finder is based on a toy simulation of the LHCb detector in Run 3 conditions. We are breaking out the kernel generation, to allow the algorithm to be run on different inputs, such as the official LHCb framework, ATLAS or ACTS, and CMS track output.
 
-The code currently lives at [gitlab.cern.ch/LHCb-Reco-Dev/pv-finder](https://gitlab.cern.ch/LHCb-Reco-Dev/pv-finder).
+The code currently lives at [https://gitlab.cern.ch/sakar/pv-finder_v2](https://gitlab.cern.ch/sakar/pv-finder_v2).
