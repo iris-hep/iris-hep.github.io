@@ -1,3 +1,4 @@
+---
 layout: fellow
 pagetype: fellow
 shortname: rrutaa
@@ -32,3 +33,4 @@ current_status: >
   A placeholder for status updates
 github-username: rrutaa
 linkedin-profile:
+---
