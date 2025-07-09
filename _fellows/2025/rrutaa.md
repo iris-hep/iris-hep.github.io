@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2025-07-01
   end: 2025-08-24
-photo: /assets/images/team/fellows-2025/Ruta-Lomsargyte.jpg
+photo: /assets/images/team/fellows-2025/Ruta_Lomsargyte.jpg
 institution: Vilnius University
 e-mail: ruta.lomsargyte@ff.stud.vu.lt
 focus-area: as
