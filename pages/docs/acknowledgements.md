@@ -32,13 +32,13 @@ the Community White Paper that led to IRIS-HEP. BibTex entries for these would b
 
 ```
 @misc{IRISHEPSPUPDATE,
-      title={IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics}, 
+      title={IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics},
       author={Brian Bockelman and Peter Elmer and Gordon Watts},
       year={2023},
       eprint={2302.01317},
       archivePrefix={arXiv},
       primaryClass={hep-ex},
-      url={https://arxiv.org/abs/2302.01317}, 
+      url={https://arxiv.org/abs/2302.01317},
 }
 
 @Article{S2I2HEPSP,
