@@ -13,7 +13,7 @@ photo: /assets/images/team/fellows-2025/Ruta-Lomsargyte.jpg
 institution: Vilnius University
 e-mail: ruta.lomsargyte@ff.stud.vu.lt
 focus-area: as
-challenge-area: 
+challenge-area:
 project_title: Development of an LLM-Based Co-Pilot Tool for CMS Analysts
 project_goal: >
     The aim of the project is to explore the possibilities of building an LLM-based co-pilot tool that assists CMS analysts. The tool would provide helpful answers to technical questions, assist in writing or understanding code, and retrieve relevant technical information from internal CMS sources.
