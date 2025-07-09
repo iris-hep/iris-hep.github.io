@@ -31,7 +31,7 @@ as above (OAC-1836650 and/or PHY-2323298), you can reference the website and you
 the Community White Paper that led to IRIS-HEP. BibTex entries for these would be:
 
 ```
-@misc{bockelman2023irishepstrategicplanphase,
+@misc{IRISHEPSPUPDATE,
       title={IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics}, 
       author={Brian Bockelman and Peter Elmer and Gordon Watts},
       year={2023},
