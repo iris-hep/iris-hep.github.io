@@ -13,7 +13,7 @@ photo: /assets/images/team/fellows-2025/Ruta-Lomsargyte.jpg
 institution: Vilnius University
 e-mail: ruta.lomsargyte@ff.stud.vu.lt
 focus-area: as
-challenge-area: <Challenge Area if your project is associated with one of the Grand Challenges: agc, data-grand-challenge, training-grand-challenge>
+challenge-area: 
 project_title: Development of an LLM-Based Co-Pilot Tool for CMS Analysts
 project_goal: >
     The aim of the project is to explore the possibilities of building an LLM-based co-pilot tool that assists CMS analysts. The tool would provide helpful answers to technical questions, assist in writing or understanding code, and retrieve relevant technical information from internal CMS sources.
@@ -22,13 +22,6 @@ mentors:
   - David Lange (Princeton University)
 proposal: /assets/pdf/fellows-2025/LIT004-proposal-Ruta-Lomsargyte.pdf
 presentations:
-  - title: "<Presentation Title"
-    date: "Presentation Date"
-    url: <Presentation materials link>
-    meeting: <Meeting name>
-    meetingurl: <Meeting url - indico link, etc.>
-    recordingurl: <Recording url> (Optional)
-    focus-area: <Focus Area - ia,ssl,ssc,doma,as,osglhc>
 current_status: >
   A placeholder for status updates
 github-username: rrutaa
