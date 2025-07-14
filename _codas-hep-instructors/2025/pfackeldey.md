@@ -1,12 +1,12 @@
 ---
 layout: codas-hep-participant
-e-mail: 
+e-mail:
 institution: Princeton University
 name: Peter Fackeldey
 photo: /assets/images/team/Peter-Fackeldey.jpg
 github-username: pfackeldey
-linkedin-profile: 
-orcid: 
+linkedin-profile:
+orcid:
 title: Postdoctoral Research Associate
 website: https://github.com/pfackeldey
 logos:

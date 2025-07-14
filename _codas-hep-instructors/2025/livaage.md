@@ -1,14 +1,14 @@
 ---
 layout: codas-hep-participant
-e-mail: 
+e-mail:
 institution: Princeton University
 name: Liv Helen Våge
 photo: /assets/images/team/Liv-Vage.jpg
-github-username: 
-linkedin-profile: 
-orcid: 
+github-username:
+linkedin-profile:
+orcid:
 title: Postdoctoral Research Associate
-website: 
+website:
 logos:
     - /assets/images/codas-hep/logos/Princeton_logo.png
 ---

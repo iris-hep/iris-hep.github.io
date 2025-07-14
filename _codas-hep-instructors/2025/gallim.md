@@ -1,12 +1,12 @@
 ---
 layout: codas-hep-participant
-e-mail: 
+e-mail:
 institution: Princeton University
 name: Massimiliano Galli
 photo: /assets/images/team/Massimiliano_Galli.png
 github-username: maxgalli
-linkedin-profile: 
-orcid: 
+linkedin-profile:
+orcid:
 title: Postdoctoral Research Associate
 website: https://github.com/maxgalli
 logos:
