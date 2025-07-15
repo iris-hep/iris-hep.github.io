@@ -6,16 +6,16 @@ name: Bishnu Acharya
 photo: "/assets/images/codas-hep/2025/Bishnu_Acharya.jpg"
 github-username: bacharya11
 linkedin-profile: https://www.linkedin.com/in/bishnu-acharya-bab716196/
-orcid: 
+orcid:
 title: Ph.D. Student
-website: 
+website:
 logos:
   - /assets/logos/Nova.jpg
   - /assets/logos/olemiss_logo.pdf
 ---
 
 ## My research:
-I work on short-baseline sterile neutrino searches using the NOvA experiment. 
+I work on short-baseline sterile neutrino searches using the NOvA experiment.
 
 ## My expertise is:
 Neutrino oscillation analysis, ROOT and CAFAna-based data processing, grid computing for high-energy physics, and statistical tools for χ² surface generation.
