@@ -7,7 +7,7 @@ photo: "/assets/images/codas-hep/2024/Razu-Mohiuddin.png"
 github-username: mohiuddinrazu
 linkedin-profile: https://www.linkedin.com/in/mohiuddinrazu/
 orcid: https://orcid.org/0000-0001-8103-7670
-title:
+title: PhD Student
 website: https://razu.me/
 logos:
     - /assets/images/codas-hep/logos/P8-logo.jpg
