@@ -10,8 +10,8 @@ orcid: https://orcid.org/0000-0001-8103-7670
 title:
 website: https://razu.me/
 logos:
-    - /assets/images/codas-hep/logos/p8.jpg
-    - /assets/images/codas-hep/logos/CWRU-logo.png
+    - /assets/images/codas-hep/logos/P8-logo.jpg
+    - /assets/images/codas-hep/logos/CWRU-logo.jpg
 ---
 
 ## My research:
