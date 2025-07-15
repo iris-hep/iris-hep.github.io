@@ -16,16 +16,16 @@ logos:
 
 ## My research:
 I am currently working on searches for beyond-the-Standard-Model physics in all-hadronic final states using Run 3 data with anomaly detection triggers
-and scouting data in the CMS experiment. I am also involved in efforts to port MC event generators onto hardware accelerators like GPGPUs and vector CPUs and integrating them with the CMS Monte Carlo production framework. 
+and scouting data in the CMS experiment. I am also involved in efforts to port MC event generators onto hardware accelerators like GPGPUs and vector CPUs and integrating them with the CMS Monte Carlo production framework.
 
 ## My expertise is:
-Building data analysis tools in Python and programming heterogeneous architectures. 
+Building data analysis tools in Python and programming heterogeneous architectures.
 
 ## A problem I'm grappling with:
-The lack of clear, accessible, and well-written documentation for really important tools and methodologies used in our experiments. 
+The lack of clear, accessible, and well-written documentation for really important tools and methodologies used in our experiments.
 
 ## I've got my eyes on:
-The computing challenges posed by the High-Luminosity LHC, and developing analysis techniques inspired by cutting-edge research in computer science. 
+The computing challenges posed by the High-Luminosity LHC, and developing analysis techniques inspired by cutting-edge research in computer science.
 
 ## I want to know more about:
 How to structure HEP frameworks, and writing clean & optimized code
