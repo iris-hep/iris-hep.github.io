@@ -24,7 +24,7 @@ Simulation, Data Science, Machine Learning, Artificial Intelligence, Hardware De
 I'm working on developing a physics-informed diffusion model to generate synthetic electron cyclotron signals that captures the complex motion of electrons in electromagnetic fields. The challenge lies in combining constraints with machine learning to create realistic, high-fidelity signals.
 
 ## I've got my eyes on:
-TO-EDIT
+Quantum computing and how quantum algorithms will change the computational physics world.
 
 ## I want to know more about:
-TO-EDIT
+Physics informed machine learning techniques, quantum algorithms, and their applications in fields beyond physics.
