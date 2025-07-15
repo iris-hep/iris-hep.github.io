@@ -17,7 +17,7 @@ Summary: you should submit a [pull request](https://docs.github.com/en/pull-requ
 * Add a photo named `First-Last.jpg` or `.png` to the [assets/images/codas-hep/2025/](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/codas-hep/2025/) folder. It should be 320x240 pixels and in general should be 150kB or less.
 * Add a "`<your github username>.md`" file to the [CoDaS-HEP 2025 participants folder in the website repository](https://github.com/iris-hep/iris-hep.github.io/tree/master/_codas-hep-students/2025/). There is a "example-template.md" in that directory that you copy to to "`<your github username>.md`" and edit. See the example below. There are some portions which you can edit to tell us more about yourself. See examples from CoDaS-HEP 2024 on the [website](https://iris-hep.org/codas-hep-2024.html) and in [github](https://github.com/iris-hep/iris-hep.github.io/tree/master/_codas-hep-students/2024/).
 
-You can optionally include your linkedin-profile and your orcid if you have one.
+You can optionally include your linkedin-profile and your orcid if you have one. (**Hint: everything in green in the following example is something you should edit to adapt for your own information, including the logos (see below for more info on logos).**)
 
 ```yml
 ---
