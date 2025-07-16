@@ -12,6 +12,8 @@ website: https://www.physics.wisc.edu/directory/lomte-shivani-sanjay/
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
+    - /assets/images/codas-hep/logos/uw-logo-flush-web.png
+    - /assets/images/codas-hep/logos/mucolLogo.png
 ---
 
 ## My research:
