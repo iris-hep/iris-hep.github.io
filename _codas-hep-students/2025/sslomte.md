@@ -15,16 +15,16 @@ logos:
 ---
 
 ## My research:
-I worked on a CMS Run-2 search for dark matter with mono-Higgs(bb) signature. Currently, I'm working on a CMS Run-3 measurement of Standard Model ZH process, using a neural network model to improve signal/background separation. I have some experience with a muon collider detector simulation studies, particularly with jet reconstruction performance in presence of the beam-induced background originating from muon decays.     
+I worked on a CMS Run-2 search for dark matter with mono-Higgs(bb) signature. Currently, I'm working on a CMS Run-3 measurement of Standard Model ZH process, using a neural network model to improve signal/background separation. I have some experience with a muon collider detector simulation studies, particularly with jet reconstruction performance in presence of the beam-induced background originating from muon decays.
 
 ## My expertise is:
 Collider searches for dark matter; using columnar analysis framework. Some experience using muon collider software (adapted from CLIC).
 
 ## A problem I'm grappling with:
-Using tools to write clean code and modular workflow. Locating relevant recommendations for Run-3 analysis. 
+Using tools to write clean code and modular workflow. Locating relevant recommendations for Run-3 analysis.
 
 ## I've got my eyes on:
-Writing thesis and post-doc applications! Learning about ML based models in order to improve sensitivity to new physics signatures.  
+Writing thesis and post-doc applications! Learning about ML based models in order to improve sensitivity to new physics signatures.
 
 ## I want to know more about:
-The popular ML models used in ongoing LHC data analyses, their strengths and limitations. Easy to pickup tools to use in my analysis.   
+The popular ML models used in ongoing LHC data analyses, their strengths and limitations. Easy to pickup tools to use in my analysis.
