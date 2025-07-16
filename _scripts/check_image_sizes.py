@@ -23,5 +23,5 @@ def check_image_sizes(filenames):
 
 if __name__ == "__main__":
     # Get the list of staged files from pre-commit
-    staged_files = sys.argv[1:] 
+    staged_files = sys.argv[1:]
     check_image_sizes(staged_files)
