@@ -67,7 +67,8 @@ repos:
     hooks:
       - id: check-image-sizes
         name: Check Image Sizes
-        entry: python _scripts/check_image_sizes.py
-        language: system # or 'python' if the script is simple and has no dependencies
+        require_serial: true
+        entry: _scripts/check_image_size.sh
+        language: script # or 'python' if the script is simple and has no dependencies
         # files: \.(png|jpg|jpeg|gif|webp)$
         types: [image]
