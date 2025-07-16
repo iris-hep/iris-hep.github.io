@@ -13,13 +13,13 @@ logos:
     - /assets/images/codas-hep/logos/CMS.jpg
 ---
 ## My research:
-I am working on charmonium detection in Ultraperipheral collisions (UPCs) with CMS, which allows the investigation of the gluonic properties of the target nucleus.  
+I am working on charmonium detection in Ultraperipheral collisions (UPCs) with CMS, which allows the investigation of the gluonic properties of the target nucleus.
 
 ## My expertise is:
 Data Science.
 
 ## A problem I'm grappling with:
-Optimization of data processing. 
+Optimization of data processing.
 
 ## I've got my eyes on:
 ML
