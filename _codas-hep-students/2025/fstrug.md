@@ -5,7 +5,7 @@ institution: University of Illinois Chicago
 name: Frank Strug
 photo: "/assets/images/codas-hep/2025/frank-strug.jpg"
 github-username: fstrug
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
@@ -18,7 +18,7 @@ logos:
 I am currently working on a run 3 search for quantum entanglement in the angular momentum states of W and b-jets from top-quark decays in single-top-quark production at the LHC with CMS data. I also develop the software in Uproot which allows for GPU interpretation of raw ROOT RNTuple data.
 
 ## My expertise is:
-I have experience with columnar analysis tools, cuda programming, and python software development.  
+I have experience with columnar analysis tools, cuda programming, and python software development.
 
 ## A problem I'm grappling with:
 In the coming years, High energy physics analysis turn around time will be greatly limited by how fast one can process data. Hardware accelerators like GPUs offer a potential solution to accelerating analysis timelines, but we lack tools for efficient IO. Current tools which promise increased performance of IO from storage to GPUs are yet to realize increased bandwidth from storage to device memory over traditional means at HEP computing clusters.
