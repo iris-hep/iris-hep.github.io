@@ -12,7 +12,7 @@ website:
 logos:
   - /assets/logos/Nova.jpg
   - /assets/logos/olemiss_logo.pdf
-
+---
 
 ## My research:
 I work on short-baseline sterile neutrino searches using the NOvA experiment.
