@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: mthakore2@wisc.edu
 institution: University of Wisconsin - Madison
 name: Mitanshu Thakore
-photo: "assets/images/codas-hep/2025/Mitanshu-Thakore.jpg"
+photo: "/assets/images/codas-hep/2025/Mitanshu-Thakore.jpg"
 github-username: mthakorecern
 linkedin-profile: www.linkedin.com/in/mitanshu987
 orcid: I haven't authored a research paper yet.
