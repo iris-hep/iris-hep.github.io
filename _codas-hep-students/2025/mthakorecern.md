@@ -16,7 +16,7 @@ logos:
 ---
 
 ## My research:
-I am currently involved in searches for heavy resonances decaying into a pair of Higgs bosons, with bb tau tau in the final state. In the near future, I will also be contributing to CMS trigger operations.
+I am currently involved in searches for heavy resonances decaying into a pair of Higgs bosons, with bb tau tau in the final state, using Compact Muon Solenoid (CMS) Experiment's Run 3 data. In the near future, I will also be contributing to CMS trigger operations.
 
 ## My expertise is:
 While I wouldn’t claim to be an expert just yet, after spending a considerable amount of time working on CMS analyses, I’ve become quite comfortable using PyROOT. I’m also passionate about science outreach, which I’ve been actively involved in for a long time - always happy to chat more about it!
