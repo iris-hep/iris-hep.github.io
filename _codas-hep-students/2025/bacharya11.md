@@ -11,8 +11,9 @@ title: Ph.D. Student
 website:
 logos:
   - /assets/logos/Nova.jpg
-  - /assets/logos/olemiss_logo.pdf
-
+  - /assets/images/codas-hep/logos/umneutrino.png
+  - /assets/images/codas-hep/logos/FNAL-Logo.jpg
+---
 
 ## My research:
 I work on short-baseline sterile neutrino searches using the NOvA experiment.
