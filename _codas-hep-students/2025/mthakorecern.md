@@ -7,7 +7,7 @@ photo: "assets/images/codas-hep/2025/Mitanshu-Thakore.jpg"
 github-username: mthakorecern
 linkedin-profile: www.linkedin.com/in/mitanshu987
 orcid:
-title: Mitanshu Thakore
+title: Graduate Student
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
