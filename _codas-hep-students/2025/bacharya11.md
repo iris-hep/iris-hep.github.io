@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: bacharya11@olemiss.edu
 institution: University of Mississippi
 name: Bishnu Acharya
-photo: "/assets/images/codas-hep/2025/Bishnu_Acharya_resized_320x240.jpg"
+photo: "/assets/images/codas-hep/2025/Bishnu_Acharya.jpg"
 github-username: bacharya11
 linkedin-profile: https://www.linkedin.com/in/bishnu-acharya-bab716196/
 orcid:
@@ -12,6 +12,7 @@ website:
 logos:
   - /assets/logos/Nova.jpg
   - /assets/logos/olemiss_logo.pdf
+    - /assets/images/codas-hep/logos/FNAL-Logo.jpg
 ---
 
 ## My research:
