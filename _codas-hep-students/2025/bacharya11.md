@@ -12,8 +12,8 @@ website:
 logos:
   - /assets/logos/Nova.jpg
   - /assets/images/codas-hep/logos/umneutrino.png
-    - /assets/images/codas-hep/logos/FNAL-Logo.jpg
-
+  - /assets/images/codas-hep/logos/FNAL-Logo.jpg
+---
 
 ## My research:
 I work on short-baseline sterile neutrino searches using the NOvA experiment.
