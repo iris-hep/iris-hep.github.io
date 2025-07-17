@@ -6,9 +6,9 @@ name: Mitanshu Thakore
 photo: "assets/images/codas-hep/2025/Mitanshu-Thakore.jpg"
 github-username: mthakorecern
 linkedin-profile: www.linkedin.com/in/mitanshu987
-orcid: Haven't authored a research paper yet.
+orcid: I haven't authored a research paper yet.
 title: Graduate Student
-website: My site is still under construction. Sorry! 
+website: My personal website is still under construction. Sorry! 
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
