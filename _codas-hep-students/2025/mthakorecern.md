@@ -8,11 +8,11 @@ github-username: mthakorecern
 linkedin-profile: www.linkedin.com/in/mitanshu987
 orcid: I haven't authored a research paper yet.
 title: Graduate Student
-website: My personal website is still under construction. Sorry! 
+website: My personal website is still under construction. Sorry!
 logos:
     - /assets/images/codas-hep/logos/uw-logo-flush-web.png
     - /assets/images/codas-hep/logos/CMS.jpg
-    
+
 ---
 
 ## My research:
