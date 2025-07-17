@@ -8,7 +8,7 @@ github-username: mthakorecern
 linkedin-profile: www.linkedin.com/in/mitanshu987
 orcid:
 title: Graduate Student
-website: Under construction : (
+website: My site is still under construction. Sorry! 
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
