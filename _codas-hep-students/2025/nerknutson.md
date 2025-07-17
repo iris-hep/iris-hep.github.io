@@ -10,7 +10,7 @@ orcid: 0009-0008-6913-0264
 title: Ph.D. Student
 website:
 logos:
-    - /assets/logos/olemiss_logo.pdf
+    - /assets/images/codas-hep/logos/umneutrino.png
     - /assets/images/codas-hep/logos/FNAL-Logo.jpg
     - /assets/images/codas-hep/logos/EMPHATIC-logo.png
 ---
