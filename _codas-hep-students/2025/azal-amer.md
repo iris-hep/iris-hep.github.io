@@ -5,7 +5,7 @@ institution: University of Texas at Austin
 name: Azal Amer
 photo: "/assets/images/codas-hep/2024/Azal-Amer.jpg"
 github-username: Azal-Amer
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
@@ -21,10 +21,10 @@ I am developing convolutional neural networks (CNNs) to distinguish ALPs from ba
 Convolutional Neural Networks
 
 ## A problem I'm grappling with:
-Identifying why improving the distinguishibility in the spectrum of features reduces the performance of a my model to classify. 
+Identifying why improving the distinguishibility in the spectrum of features reduces the performance of a my model to classify.
 
 ## I've got my eyes on:
-Improving the readibility and documentation surrounding my work, along with revisiting some of my older tests on newer code. 
+Improving the readibility and documentation surrounding my work, along with revisiting some of my older tests on newer code.
 
 ## I want to know more about:
 Using existing tools to interpret information about the features neural networks I train, extract.
