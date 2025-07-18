@@ -24,7 +24,7 @@ Convolutional Neural Networks
 Identifying why improving the distinguishibility in the spectrum of features reduces the performance of a my model to classify.
 
 ## I've got my eyes on:
-Improving the readibility and documentation surrounding my work, along with revisiting some of my older tests on newer code.
+Improving the readability and documentation surrounding my work, along with revisiting some of my older tests on newer code.
 
 ## I want to know more about:
 Using existing tools to interpret information about the features neural networks I train, extract.
