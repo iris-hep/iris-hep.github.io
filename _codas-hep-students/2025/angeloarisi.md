@@ -16,7 +16,7 @@ logos:
 I am currently working in an analysis for the measurements of spin correlations and quantum correlations in top quark pair (ttbar) production within CMS using Run2 and Run3 data.
 
 ## My expertise is:
-Data Analysis.
+Top quark physics.
 
 ## A problem I'm grappling with:
 How to construct an efficient columnar analysis python framework for a large analysis.
