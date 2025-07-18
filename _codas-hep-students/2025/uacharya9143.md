@@ -24,7 +24,7 @@ My expertise lies in the phi meson analysis.
 The problem I have is that I have not used python. I know its basics. But for the larger analysis framework,I have a long way to go.
 
 ## I've got my eyes on:
-To understand more of Python and Maching learning.
+To understand more of Python and Machine learning.
 
 ## I want to know more about:
 I want to know more about python programming in the large data analysis and its applicability in Machine Learning and other high volume data analysis.
