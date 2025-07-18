@@ -9,3 +9,13 @@ shortname: ponyisi
 title:
 website: https://ph.utexas.edu/component/cobalt/item/18-physics/452-onyisi-peter?Itemid=1264
 presentations:
+  - title: "ServiceX"
+    date: 2025-07-08
+    url: https://indico.cern.ch/event/1565830/contributions/6595509/attachments/3100393/5493368/20250708_servicex_cms.pdf
+    meeting: US CMS Analysis Facility Meeting
+    meetingurl: https://indico.cern.ch/event/1565830/
+    location: Virtual
+    project: servicex
+    focus-area:
+      - as
+      - doma
