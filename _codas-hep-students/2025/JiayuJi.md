@@ -15,7 +15,7 @@ logos:
 ---
 
 ## My research:
-T2K neutrino experiment. 
+T2K neutrino experiment.
 I worked on the upgraded near detector of the T2K experiment, focusing on the Super Fine-Grained Detector (SFGD). I participated in the construction, commissioning, and calibration of the SFGD. I am now analyzing beam data collected by the upgraded near detectors.
 
 ## My expertise is:
