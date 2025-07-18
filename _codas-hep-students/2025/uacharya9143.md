@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: uttam.acharya@vanderbilt.edu
 institution: Vanderbilt University
 name: Uttam Acharya
-photo: "assets/images/codas-hep/2025/Uttam-Acharya.jpg"
+photo: "/assets/images/codas-hep/2025/Uttam-Acharya.jpg"
 github-username: uacharya9143
 linkedin-profile: https://www.linkedin.com/in/uttam-acharya-19318b180/
 orcid: https://orcid.org/0000-0001-8560-963X
