@@ -5,7 +5,7 @@ institution: University of Massachusetts Amherst
 name: David Kessler
 photo: "/assets/images/codas-hep/2025/DavidKessler.jpg"
 github-username: DavKessler
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
