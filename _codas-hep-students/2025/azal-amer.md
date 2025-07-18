@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: azalamer@utexas.edu
 institution: University of Texas at Austin
 name: Azal Amer
-photo: "/assets/images/codas-hep/2024/Azal-Amer.jpg"
+photo: "/assets/images/codas-hep/2025/Azal-Amer.jpg"
 github-username: Azal-Amer
 linkedin-profile:
 orcid:
