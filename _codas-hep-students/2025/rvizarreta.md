@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: rvizarr@fnal.gov
 institution: University of Rochester
 name: Renzo Vizarreta
-photo: "/assets/images/codas-hep/2024/Renzo-Vizarreta.jpg"
+photo: "/assets/images/codas-hep/2025/Renzo-Vizarreta.jpg"
 github-username: rvizarreta
 linkedin-profile: https://www.linkedin.com/in/renzo-vizarreta/
 orcid: https://orcid.org/0009-0004-6929-1587
