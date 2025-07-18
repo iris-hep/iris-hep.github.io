@@ -25,4 +25,4 @@ How to construct an efficient columnar analysis python framework for a large ana
 Learning how to construct an analysis framework in the most optimized and flexible way possible.
 
 ## I want to know more about:
-Parallelization techniques and machine learning techiques for HEP
+Parallelization techniques and machine learning techniques for HEP
