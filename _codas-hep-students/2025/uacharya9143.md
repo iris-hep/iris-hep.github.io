@@ -21,7 +21,7 @@ I am currently working on the OO collision analysis for the study of Jet Quenchi
 My expertise lies in the phi meson analysis.
 
 ## A problem I'm grappling with:
-The problem I have is that I have not used python. I know its basics. But for the larger analysis framework,I have a long way to go. 
+The problem I have is that I have not used python. I know its basics. But for the larger analysis framework,I have a long way to go.
 
 ## I've got my eyes on:
 To understand more of Python and Maching learning.
