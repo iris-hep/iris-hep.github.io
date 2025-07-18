@@ -16,7 +16,7 @@ logos:
 ---
 
 ## My research:
-The Mu2e Experiment at Fermilab. 
+The Mu2e Experiment at Fermilab.
 *** Panel Construction and QC, Spark Mitigation Studies, Automation in Analysis, and BSM Frameworks (especially scalar leptoquarks)
 
 ## My expertise is:
