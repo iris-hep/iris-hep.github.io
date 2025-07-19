@@ -15,15 +15,15 @@ logos:
 ---
 
 ## My research:
-Search for Inelastic Dark Matter (IDM) and building the MIP Timing Detector (MTD) for CMS
+Search for Inelastic Dark Matter (IDM) and building the MIP Timing Detector (MTD) for CMS.
 ## My expertise is:
 Python, C++
 
 ## A problem I'm grappling with:
-Managing and analyzing IDM Run3 samples smoothly using CMSSW
+Managing and analyzing IDM Run3 samples smoothly using CMSSW.
 
 ## I've got my eyes on:
-Learn more about Columnar Data Analysis
+Learn more about Columnar Data Analysis.
 
 ## I want to know more about:
 Machine Learning and AI
