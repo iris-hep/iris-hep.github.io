@@ -1,7 +1,7 @@
 ---
 layout: codas-hep-participant
 e-mail: pct3kd@virginia.edu
-institution: University of Virginia 
+institution: University of Virginia
 name: Reshma Menon R
 photo: "/assets/images/codas-hep/2025/Reshma-MenonR.jpg"
 github-username: Reshma27Menon
