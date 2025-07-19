@@ -5,7 +5,7 @@ institution: Brown University
 name: Camille Mauceri
 photo: "/assets/images/codas-hep/2025/Camille-Mauceri.jpg"
 github-username: cmauceri
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
@@ -18,7 +18,7 @@ logos:
 Jet physics with CMS (Currently track reconstruction performance in the cores of jets)
 
 ## My expertise is:
-Python, ROOT, Mathematica, some C++ 
+Python, ROOT, Mathematica, some C++
 
 ## A problem I'm grappling with:
 Coffea processors and dask...
