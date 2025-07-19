@@ -17,7 +17,7 @@ logos:
 I work on Di-Higgs and Higgs-to-invisible searches with the ATLAS detector. 
 
 ## My expertise is:
-Fake-tau background estimation in the HH->bbtautau channel and forward jet modelling in the VBF+MET H->invisble search. 
+Fake-tau background estimation in the HH->bbtautau channel and forward jet modelling in the VBF+MET H->invisible search. 
 
 ## A problem I'm grappling with:
 Connecting a series of analysis packages (nTuple generation, parallel processing, ML toolkits) together into one consistent, reproducible analysis pipeline.
