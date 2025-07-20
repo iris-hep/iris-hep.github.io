@@ -14,35 +14,28 @@ logos:
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
     - /assets/logos/skhep-logo.svg
     - /assets/logos/awkward.svg
+    - /assets/logos/uproot.svg
 ---
 
 ## My research:
-I am a Research Software Engineer specializing in open-source software development within the Python ecosystem and Julia for fundamental physics. My work focuses on designing and optimizing software for high-energy physics (HEP) data analysis.
 
-In the past, I contributed extensively to CMS software (CMSSW), particularly in geometry description, simulation, and event display. My expertise spans software architecture, numerical optimization, and large-scale scientific computing, with a strong focus on enhancing data analysis tools for physics research.
+I’m a Research Software Engineer writing and maintaining open-source code in Python and Julia. I focus on building fast, scalable data analysis tools using JIT compilation and GPU acceleration.
 
 ## My expertise is:
-   - *Programming Languages:* C++, Python, Julia
-   - *Technologies:* Awkward Array, Numba, Just-in-Time Compilation
-   - *Integration:* Python integration with other languages
-   - *Software Development:* Open-source contributions in Python and Julia ecosystems
-   - *Scientific Computing:* Geometry modeling, simulation, event visualization
-   - *Configuration & Deployment:* Managing and distributing complex software environments
+
+Building fast, reliable tools for complex data using Python, Julia, and C++, with JIT compilation, GPU acceleration, and large-scale computing.
+
+I have extensive experience with CMS software (CMSSW), focusing on geometry, simulation, and event display. I’m comfortable with C++, software design, numerical optimization, and managing large software projects.
 
 ## A problem I'm grappling with:
-I am currently focused on integrating Awkward Array with Numba to optimize performance through Just-in-Time compilation techniques. Additionally, I am exploring Python on GPU to leverage parallel computing power for complex data analysis.
+
+Optimizing and scaling up nested data computations on GPUs for speed and efficiency.
 
 ## I've got my eyes on:
-   - High-performance computing (HPC) applications in fundamental physics
-   - Large-scale parallelism and deep storage hierarchies for HEP data
-   - Julia’s potential for optimizing scientific computing workflows
+
+Julia, GPU-accelerated Python, Numba v2
+
 
 ## I want to know more about:
-To further improve my work, I am keen to deepen my understanding of:
 
-   - Optimizing data movement and storage for large-scale scientific workflows
-   - Heterogeneous computing to leverage CPUs, GPUs, and specialized accelerators
-   - Efficient memory management strategies for structured and unstructured data
-   - Scalable distributed systems that handle massive physics datasets
-
-By exploring these areas, I aim to contribute to more efficient and scalable computational solutions for HEP.
+How Rust can complement Python and Julia for fast, reliable physics data analysis.
