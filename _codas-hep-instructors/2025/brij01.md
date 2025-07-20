@@ -6,7 +6,7 @@ name: Brij Kishor Jashal
 photo: /assets/images/codas-hep/2025/Brij-Kishor-Jashal.jpeg
 github-username: brij01
 publications: https://inspirehep.net/authors/1210079
-title: Expermental Particle Physicist / Staff Scientist
+title: Experimental Particle Physicist / Staff Scientist
 
 ---
 
