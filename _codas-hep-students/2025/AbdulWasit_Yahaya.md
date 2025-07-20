@@ -15,10 +15,10 @@ logos:
     - /assets/images/codas-hep/logos/FNAL-Logo.jpg
 ---
 ## My research:
-I am working on improving NOvA Detector interaction vertexing using Regression based CNN   
+I am working on improving NOvA Detector interaction vertexing using Regression based CNN
 
 ## My expertise is:
-Deep Learning 
+Deep Learning
 
 ## A problem I'm grappling with:
 I am still figuring out how to use ROOT and CAFANA to analyze my trained model in the NOvA art framework.
@@ -28,4 +28,4 @@ Improving the vertexing in NOvA detector reconstruction using CNN.
 Contributing to DUNE software and computing group.
 
 ## I want to know more about:
-ML techniques in HEP 
+ML techniques in HEP
