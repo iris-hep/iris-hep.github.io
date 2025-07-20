@@ -15,10 +15,10 @@ logos:
 ---
 
 ## My research:
-I am part of the Mu2e and ICARUS experiments, based at Fermilab. 
+I am part of the Mu2e and ICARUS experiments, based at Fermilab.
 
 ## My expertise is:
-Performing simulations using Geant4, developing pattern recognition algorithms for particle track reconstruction, 
+Performing simulations using Geant4, developing pattern recognition algorithms for particle track reconstruction,
 analysis using ROOT, gaseous detectors
 
 ## A problem I'm grappling with:
