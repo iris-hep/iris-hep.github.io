@@ -30,4 +30,4 @@ How to transition a GNN from being a hit classifier to an edge/track classifier
 Learning about heterogenous processing. I find GPU's to be really fascinating and have potential for very large preformance improvements.
 
 ## I want to know more about:
-I'd like to dig deeper into Graphical Neural Networks and Transformers. It would be really cool to build my own LLM. 
+I'd like to dig deeper into Graphical Neural Networks and Transformers. It would be really cool to build my own LLM.
