@@ -21,7 +21,7 @@ As part of the Calorimeter Data Quality Monitoring (Calo DQM) team within the Mu
 I'm comfortable managing unfamiliar technical challenges. I've written C++ modules for detector data, worked with complex nested data structures, and learned tools like ROOT and otsdaq. I focus on deeply understanding the task, learning quickly, and building robust, maintainable solutions.
 
 ## A problem I'm grappling with:
-I'm working how to grow from solving technical problems to identifying and shaping opportunities for original, high-impact contributions.
+I'm exploring how to grow from solving technical problems to identifying and shaping opportunities for original, high-impact contributions.
 
 ## I've got my eyes on:
 I'm aiming to integrate C++, Python, ROOT, and machine learning into the Mu2e experiment to create a novel diagnostic or analytical tool. This direction brings together my interests in systems-level programming, data science, and high-energy physics, and will form the foundation of my master’s thesis.
