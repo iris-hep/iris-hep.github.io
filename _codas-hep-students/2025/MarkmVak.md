@@ -10,7 +10,7 @@ orcid:
 title: Physics Research Assistant & Graduate Student
 website:
 logos:
-    - /assets/images/codas-hep/logos/Mu2e.jpg
+    - /assets/images/codas-hep/logos/Mu2e-logo.png
     - /assets/images/codas-hep/logos/Drew.svg
 ---
 
