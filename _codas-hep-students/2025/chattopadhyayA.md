@@ -8,7 +8,7 @@ github-username: chattopadhyayA
 linkedin-profile: https://www.linkedin.com/in/the-chattopadhyay/
 orcid: 0000-0002-6427-5076
 title: Postdoctoral Fellow
-website:https://chattopadhyaya.github.io
+website: https://chattopadhyaya.github.io
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
