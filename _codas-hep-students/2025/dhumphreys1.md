@@ -27,7 +27,7 @@ My primary analysis is a search for Higgs light resonances. Specifically I am co
 How to transition a GNN from being a hit classifier to an edge/track classifier
 
 ## I've got my eyes on:
-Learning about heterogenous processing. I find GPU's to be really fascinating and have potential for very large preformance improvements.
+Learning about heterogeneous processing. I find GPU's to be really fascinating and have potential for very large performance improvements.
 
 ## I want to know more about:
 I'd like to dig deeper into Graphical Neural Networks and Transformers. It would be really cool to build my own LLM.
