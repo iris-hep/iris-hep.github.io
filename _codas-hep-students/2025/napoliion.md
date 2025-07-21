@@ -2,7 +2,7 @@
 layout: codas-hep-participant
 e-mail: il11@rice.edu
 institution: Rice University
-name: Ivy Li 
+name: Ivy Li
 photo: "/assets/images/codas-hep/2025/Ivy-Li.jpg"
 github-username: napoliion
 linkedin-profile: https://www.linkedin.com/in/li-ivy
