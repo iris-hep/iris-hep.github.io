@@ -15,10 +15,20 @@ logos:
 
 ## My research:
 
+Statistical tools for HEP, application of normalizing flows to HEP analysis, simulation based inference, Higgs physics.
+
 ## My expertise is:
+
+Python, statistics, Higgs physics.
 
 ## A problem I'm grappling with:
 
+Use JAX to write a package for parametric models in HEP.
+
 ## I've got my eyes on:
 
+New statistical tools for analysis.
+
 ## I want to know more about:
+
+Generative models.
