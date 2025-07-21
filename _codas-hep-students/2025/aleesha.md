@@ -23,7 +23,7 @@ logos:
 using Coffea 2025.
 
 ## My expertise is:
-Python, C++ and worked with several domain-specific softwares during my undergrad.
+Python, C++ and worked with several domain-specific software during my undergrad.
 
 ## A problem I'm grappling with:
 - In search of a helper function in matplotlib to compute uncertainties on data/MC ratio plots for
