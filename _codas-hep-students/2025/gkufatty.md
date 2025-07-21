@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: gkufatty@fsu.edu
 institution: Florida State University
 name: Georgette Kufatty Anton
-photo: "/assets/images/codas-hep/2025/gkufatty.jpg"
+photo: "/assets/images/codas-hep/2025/georgette-kufatty.jpg"
 github-username: gkufatty
 linkedin-profile:
 orcid:
