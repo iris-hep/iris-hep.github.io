@@ -14,7 +14,7 @@ logos:
 ---
 
 ## My research:
-Machine learning for HEP 
+Machine learning for HEP
 
 ## My expertise is:
 Machine learning
@@ -23,7 +23,7 @@ Machine learning
 Few shot ML, like [this super interesting problem](https://www.kaggle.com/competitions/arc-prize-2025/overview)
 
 ## I've got my eyes on:
-Student led research for ML research 
+Student led research for ML research
 
 ## I want to know more about:
-HPC and how I can implement custom code seamlessly in ML 
+HPC and how I can implement custom code seamlessly in ML
