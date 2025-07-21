@@ -10,7 +10,7 @@ orcid:
 title:
 website:
 logos:
-    - /assets/images/codas-hep/logos/nova_logo.jpg
+    - /assets/images/codas-hep/logos/nova_logo.png
     - /assets/images/codas-hep/logos/wm_logo.png
 ---
 ## My research:
