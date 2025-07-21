@@ -18,13 +18,13 @@ logos:
 Neutron Multiplicity from Neutrino Interactions in DUNE-ND 2x2 Prototype.
 
 ## My expertise is:
-I would not call myself an expert but working on experimental neutrino physics and energy reconstruction from LArTPC. 
+I would not call myself an expert but working on experimental neutrino physics and energy reconstruction from LArTPC.
 
 ## A problem I'm grappling with:
 Improve neutron tagging techniques in LArTPCs.
 
 ## I've got my eyes on:
-Complementing my research with Machine Learning and improve my computational skills. 
+Complementing my research with Machine Learning and improve my computational skills.
 
 ## I want to know more about:
 Machine Learning, data science, and overall improving my computational skills for my research!
