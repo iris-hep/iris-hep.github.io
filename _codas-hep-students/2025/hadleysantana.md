@@ -5,10 +5,10 @@ institution: University of California, Berkeley
 name: Hadley Santana Queiroz
 photo: "/assets/images/codas-hep/2025/Hadley-SantanaQueiroz.jpg"
 github-username: hadleysantana
-linkedin-profile: 
+linkedin-profile:
 orcid: 0009-0004-1209-0661
 title: PhD Student
-website: 
+website:
 logos:
     - /assets/images/codas-hep/logos/ATLAS-logo.png
 ---
