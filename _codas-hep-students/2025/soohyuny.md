@@ -1,3 +1,4 @@
+---
 layout: codas-hep-participant
 e-mail: soohyun.yoon@princeton.edu
 institution: Princeton University
