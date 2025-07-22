@@ -1,3 +1,4 @@
+---
 layout: codas-hep-participant
 e-mail: ttbaah@arizona.edu
 institution: The University of Arizona
