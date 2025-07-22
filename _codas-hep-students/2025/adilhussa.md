@@ -7,8 +7,8 @@ photo: "/assets/images/codas-hep/2025/Adil_hussain.jpg"
 github-username: adilhussa
 linkedin-profile: https://www.linkedin.com/in/adil-hussain-73539621b/
 orcid: 0000-0001-6216-9002
-title: 
-website: 
+title:
+website:
 logos:
     - /assets/images/codas-hep/logos/KSU_logo.jpg
     - /assets/images/codas-hep/logos/microboone_logo.png
