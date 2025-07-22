@@ -9,7 +9,7 @@ logos:
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 ## My research:
-I am working on CMS DeepCore algorithm, which is a part of the iterative tracking dedicated for the dense environment in the core of jets. 
+I am working on CMS DeepCore algorithm, which is a part of the iterative tracking dedicated for the dense environment in the core of jets.
 
 ## My expertise is:
 Tracking, jets, machine learning
@@ -21,4 +21,4 @@ Being patient when dealing with technical issues such as making sure I'm using c
 Interpreting plots into the language of physics
 
 ## I want to know more about:
-How to most efficeinctly utilize computing resources 
+How to most efficeinctly utilize computing resources
