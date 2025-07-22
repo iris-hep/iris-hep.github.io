@@ -4,7 +4,7 @@ institution: Kansas State University
 name: Nabila Majeed
 photo: "/assets/images/codas-hep/2025/nabila_majeed.png"
 github-username: nabilamjd
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
