@@ -5,7 +5,7 @@ institution: Stony Brook University
 name: Mo Jia
 photo: "/assets/images/codas-hep/2025/Mo-Jia.jpg"
 github-username: mojiastonybrook
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
