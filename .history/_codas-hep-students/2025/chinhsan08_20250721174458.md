@@ -6,9 +6,9 @@ name: Chinhsan Sieng
 photo: "/assets/images/codas-hep/2025/Chinhsan-Sieng.jpeg"
 github-username: chinhsan08
 linkedin-profile:
-orcid: 
+orcid:
 title: Graduate Student
-website: 
+website:
 logos:
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 
