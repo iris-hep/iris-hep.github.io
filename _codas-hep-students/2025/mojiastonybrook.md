@@ -21,7 +21,7 @@ T2K-SK joint neutrino oscillation analysis
 a bit self-taught C++, python, and ML :)
 
 ## A problem I'm grappling with:
-working on detector uncertainty systematics parameterized by shifting and baising parameters;
+working on detector uncertainty systematics parameterized by shifting and biasing parameters;
 
 ## I've got my eyes on:
 trying to have a diffusion model work as a generator of water Cherenkov ring images
