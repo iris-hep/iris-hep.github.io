@@ -8,7 +8,7 @@ github-username: UnnatiAkhouri
 linkedin-profile: https://www.linkedin.com/in/unnatiakhouri/
 orcid:
 title:
-website:https://unnatiakhouri2.wordpress.com
+website: https://unnatiakhouri2.wordpress.com
 logos:
     - /assets/images/codas-hep/logos/IGC_logo.jpg
 ---
