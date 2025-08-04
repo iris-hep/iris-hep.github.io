@@ -115,7 +115,7 @@ presentations:
   focus-area: as
   project: vector
 current_status: >
-  <strong> August 2024 </strong> - Assistant Research Software Engineer at Advanced
+  <strong> June 2025 </strong> - Research Software Engineer at Advanced
   Research Computing Centre, University College London
 github-username: Saransh-cpp
 linkedin-profile: https://www.linkedin.com/in/saransh-cpp/

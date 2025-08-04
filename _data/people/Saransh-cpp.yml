@@ -7,7 +7,7 @@ past_institution: { institution: Princeton University, end_date: 2024-08-15 }
 name: Saransh Chopra
 photo: "/assets/images/team/Saransh-Chopra.jpeg"
 shortname: Saransh-cpp
-title: Assistant Research Software Engineer
+title: Research Software Engineer
 website: https://saransh-cpp.github.io
 presentations:
   - title: Differentiable Computation with Awkward Array and JAX
