@@ -1,10 +1,10 @@
-name: Coding Camp (Spanish) at University Gardens High School - Hato Rey Sur -  San Juan -  Puerto Rico.
+name: Coding Camp in Spanish at University Gardens High School - Hato Rey Sur -  San Juan -  Puerto Rico
 startdate: 2025-06-11
 enddate: 2025-06-13
 location: University Gardens High School Puerto Rico
 meetingurl: https://indico.cern.ch/event/1572090/
 image:
-description:IRIS-HEP Coding Camp workshop happened at University Garden High School (UGHS). The session was focused on teaching Python programming fundamentals to science teachers from both CROEM and UGHS. The aim was to provide them with computational tools they could apply in their own classrooms to support STEM learning.
+description: IRIS-HEP Coding Camp workshop happened at University Garden High School (UGHS). The session was focused on teaching Python programming fundamentals to science teachers from both CROEM and UGHS. The aim was to provide them with computational tools they could apply in their own classrooms to support STEM learning.
 labels:
   - training
   - outreach
