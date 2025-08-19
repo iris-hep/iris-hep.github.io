@@ -5,6 +5,7 @@ location: University of Puerto Rico Mayaguez
 meetingurl: https://indico.cern.ch/event/1572116/
 image:
 description:
-labels: 3 day coding workshop in Spanish for high school teachers (2 days were at UPRM and 1 day was at CROEM), details in the indico link
+labels:
+  3 day coding workshop in Spanish for high school teachers (2 days were at UPRM and 1 day was at CROEM), details in the indico link
   - training
   - outreach
