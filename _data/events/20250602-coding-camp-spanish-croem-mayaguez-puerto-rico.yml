@@ -1,0 +1,10 @@
+name: Coding Camp at CROEM High School - Mayaguez - Puerto Rico
+startdate: 2025-06-02
+enddate: 2025-06-04
+location: CROEM High School Mayaguez Puerto Rico
+meetingurl: https://indico.cern.ch/event/1572181/
+image:
+description: 3 day coding workshop in Spanish for high school teachers, Python programming fundamentals, data visualisation
+labels:
+  - training
+  - outreach
