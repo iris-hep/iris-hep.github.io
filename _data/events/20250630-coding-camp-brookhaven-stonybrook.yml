@@ -4,7 +4,7 @@ enddate: 2025-07-02
 location: Brookhaven-Stony Brook NY
 meetingurl: https://indico.cern.ch/event/1572129/
 image:
-description:
-  Brookhaven-Stony Brook 3-day Coding Workshop - 2025 for high school teachers
+description: Brookhaven-Stony Brook 3-day Coding Workshop - 2025 for high school teachers
+labels:
   - training
   - outreach
