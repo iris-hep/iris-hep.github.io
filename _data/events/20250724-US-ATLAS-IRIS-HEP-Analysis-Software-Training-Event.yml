@@ -1,9 +1,0 @@
-name: US ATLAS / IRIS-HEP Analysis Software Training Event 2025
-startdate: 2025-07-24
-enddate: 2025-07-25
-location: University of Michigan Ann Arbor
-meetingurl: https://indico.cern.ch/event/1572261/
-image:
-description: Columnar analysis and uproot, Distributed analysis and Dask, Data Visualization techniques and libraries, Using the UChicago Analysis Facility Statistical tools
-labels:
-  - training

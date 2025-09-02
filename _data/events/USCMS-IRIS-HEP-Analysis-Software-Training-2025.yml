@@ -1,9 +1,0 @@
-name: USCMS/IRIS-HEP Analysis Software Training 2025
-startdate: 2025-05-19
-enddate: 2025-05-20
-location: Virtual
-meetingurl: https://indico.cern.ch/event/1572260/
-image:
-description: Columnar analysis and uproot, Distributed analysis and Dask, Data Visualization techniques and libraries, Coffea columnar analysis framework, The Coffea-Casa analysis facility, Statistical tools
-labels:
-  - training
