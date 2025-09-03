@@ -76,7 +76,7 @@ Please note the following:
   * Meeting Dates: 10-14 November, 2025
   * Business purpose: Participation in CTD 2025 Workshop
   * "event-prefix" for pdf file naming: CTD2025
-    
+
 #### [IRIS-HEP 2025 Retreat](https://indico.cern.ch/event/1576135/)
   * Location: NEAR CERN
   * Meeting Dates: 8-10 October, 2025
