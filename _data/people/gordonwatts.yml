@@ -491,5 +491,8 @@ presentations:
     meeting: "Build Big or Build Smart: Examing Scale and Domain Knowledge in Machine Learning for Fundamental Physics"
     focus-area:
       - as
-    project: servicex
+      - doma
+    project:
+      - servicex
+      - awkward
     location: Munich, Germany
