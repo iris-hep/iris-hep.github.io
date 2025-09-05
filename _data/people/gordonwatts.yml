@@ -484,3 +484,12 @@ presentations:
       - doma
     project: servicex
     location: Hamburg, Germany
+  - title: "LLMs for physics software"
+    date: 2025-09-05
+    url: https://indico.ph.tum.de/event/7932/contributions/10744/attachments/6916/9619/Watts_Slides.pptx
+    meetingurl: https://www.munich-iapbp.de/activities/activities-2025/machine-learning
+    meeting: "Build Big or Build Smart: Examing Scale and Domain Knowledge in Machine Learning for Fundamental Physics"
+    focus-area:
+      - as
+    project: servicex
+    location: Munich, Germany
