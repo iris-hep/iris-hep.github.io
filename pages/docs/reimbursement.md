@@ -37,14 +37,15 @@ eligible for reimbursement from the IRIS-HEP project.
 
   **Please ignore this section for now. It will be discussed on the last day of the school/workshop itself.**
 
-There are two relevant forms for travel reimbursement:
+There are three relevant forms for travel reimbursement:
 
   * [Guest Reimbursement Request](https://finance.princeton.edu/forms/guest-reimbursement-request) - Everyone requesting travel reimbursement must fill out this form
   * [Supplier Onboarding Form](https://finance.princeton.edu/forms/supplierpayee-management) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
+  * [Foreign Payee Form](https://finance.princeton.edu/forms/foreign-individual-payeesubstitute-w-8ben) - This form should be completed for all new foreign individuals/payees
 
 Please note the following:
 
-  * The form can be filled out electronically (e.g. in Acrobat Reader). This is the preferred method in order to guarantee legibility.
+  * These forms can be filled out electronically (e.g. in Acrobat Reader). This is the preferred method in order to guarantee legibility.
   * You can either sign the pdf electronically (e.g. in Acrobat Reader) or fill it out electronically, print the result, sign it and scan the result.
   * If you cannot fill the form out electronically, print the form and fill it out using clear block letters. Sign it and make a clear scan of the completed form.
   * On the form:
@@ -60,6 +61,7 @@ Please note the following:
   * Combine the forms and scanned receipt images into a **single pdf** in the following order:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
+    * Foreign Payee Form (if relevant)
     * Scans of relevant receipts
   * Please name the file using this convention:
     * shorteventname-YYYYMMDD-yourfirstname-yourlastname.pdf
