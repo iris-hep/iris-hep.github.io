@@ -16,3 +16,11 @@ presentations:
     location: CERN
     focus-area: ia
     project: lst
+  - title: "Line Segment Tracking: Particle Tracking on GPUs"
+    meeting: Seventh Computational and Data Science school for HEP (CoDaS-HEP 2025)
+    meetingurl: https://indico.cern.ch/event/1568686/timetable/
+    url: https://indico.cern.ch/event/1568686/contributions/6608185/attachments/3110551/5513852/Codas-HEP-LST.pdf
+    date: 2025-07-25
+    location: Princeton University
+    focus-area: ia
+    project: lst

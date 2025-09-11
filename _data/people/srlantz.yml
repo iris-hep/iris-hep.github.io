@@ -120,3 +120,27 @@ presentations:
     location: Princeton University
     focus-area: ia
     project: mkfit
+  - title: What Every Computational Physicist Should Know About Computer Architecture
+    date: 2025-07-21
+    url: https://indico.cern.ch/event/1568686/contributions/6608190/attachments/3107053/5508437/KnowCompArch.pdf
+    meeting: Seventh Computational and Data Science school for HEP (CoDaS-HEP 2024)
+    meetingurl: https://indico.cern.ch/event/1568686/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: Vector Parallelism on Multi-Core Processors
+    date: 2025-07-23
+    url: https://indico.cern.ch/event/1568686/contributions/6608187/attachments/3107059/5510344/VectorParallelism.pdf
+    meeting: Seventh Computational and Data Science school for HEP (CoDaS-HEP 2025)
+    meetingurl: https://indico.cern.ch/event/1568686/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
+  - title: "Performance Case Study: the mkFit Particle Tracking Code"
+    date: 2025-07-23
+    url: https://indico.cern.ch/event/1568686/contributions/6608167/attachments/3107110/5506976/CaseStudy-mkFit.pdf
+    meeting: Seventh Computational and Data Science school for HEP (CoDaS-HEP 2025)
+    meetingurl: https://indico.cern.ch/event/1568686/timetable/
+    location: Princeton University
+    focus-area: ia
+    project: mkfit
