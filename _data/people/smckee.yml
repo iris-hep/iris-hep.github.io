@@ -680,3 +680,83 @@ presentations:
     date: 2025-02-04
     focus-area: osglhc
     project: osg-networking
+  - title: LHCOPN - perfSONAR 20 Years
+    meeting: "LHCONE/LHCOPN Meeting 54"
+    url: https://indico.cern.ch/event/1479019/contributions/6418095/attachments/3033808/5356966/LHCOPN%20-%20perfSONAR%2020%20years.pdf
+    location: Manchester, Jodrell Bank, UK
+    meetingurl: https://indico.cern.ch/event/1479019
+    date: 2025-03-18
+    focus-area: osglhc
+    project: osg-networking
+  - title: Results from US Mini-Challenges
+    meeting: "LHCONE/LHCOPN Meeting 54"
+    url: https://indico.cern.ch/event/1479019/contributions/6300516/attachments/3033757/5356906/Results%20from%20US%20Mini-Challenges.pdf
+    location: Manchester, Jodrell Bank, UK
+    meetingurl: https://indico.cern.ch/event/1479019
+    date: 2025-03-18
+    focus-area: doma
+    project: osg-networking
+  - title: Network Monitoring Update
+    meeting: "LHCONE/LHCOPN Meeting 54"
+    url: https://indico.cern.ch/event/1479019/contributions/6300520/attachments/3033628/5356900/LHCONE%20Monitoring%20Update%20Spring%202025.pdf
+    location: Manchester, Jodrell Bank, UK
+    meetingurl: https://indico.cern.ch/event/1479019
+    date: 2025-03-18
+    focus-area: osglhc
+    project: osg-networking
+  - title: Plans for the next WLCG Data Challenges
+    meeting: "LHCONE/LHCOPN Meeting 54"
+    url: https://indico.cern.ch/event/1479019/contributions/6347992/attachments/3033820/5356989/Plans%20for%20the%20next%20WLCG%20Data%20Challenges.pdf
+    location: Manchester, Jodrell Bank, UK
+    meetingurl: https://indico.cern.ch/event/1479019
+    date: 2025-03-19
+    focus-area: doma
+    project: osg-networking
+  - title: WLCG Network Monitoring Infrastructure and perfSONAR Evolution
+    meeting: "Spring 2025 HEPiX Meeting"
+    url: https://indico.cern.ch/event/1477299/contributions/6412762/attachments/3043903/5377828/WLCG%20Network%20Monitoring%20Infrastructure%20and%20perfSONAR%20Evolution.pdf
+    location: Lugano, CH
+    meetingurl: https://indico.cern.ch/event/1477299
+    date: 2025-04-03
+    focus-area: osglhc
+    project: osg-networking
+  - title: Activities Update from the Research Networking Technical Working Group
+    meeting: "Spring 2025 HEPiX Meeting"
+    url: https://indico.cern.ch/event/1477299/contributions/6412763/attachments/3043902/5377827/Activities%20Update%20from%20the%20Research%20Networking%20Technical%20Working%20Group.pdf
+    location: Lugano, CH
+    meetingurl: https://indico.cern.ch/event/1477299
+    date: 2025-04-03
+    focus-area: osglhc
+    project: osg-networking
+  - title: Networking perfSONAR, SciTags and WLCG Site Network Monitoring
+    meeting: "HTC25"
+    url: https://docs.google.com/presentation/d/1rBVPytSPP8bQ5xgK9u-sWLARMS2pcByAnKzPqKAYjak/edit?slide=id.p1#slide=id.p1
+    location: Madison, WI
+    meetingurl: https://agenda.hep.wisc.edu/event/2297/
+    date: 2025-06-05
+    focus-area: osglhc
+    project: osg-networking
+  - title: Results of the Removal of IPv4 Peering on LHCOPN in the U.S.
+    meeting: "WLCG OTF #6"
+    url: https://indico.cern.ch/event/1562124/contributions/6680944/attachments/3133036/5558340/Results%20of%20Removal%20of%20IPv4%20Peering%20on%20US%20LHCOPN.pdf
+    location: ONLINE
+    meetingurl: https://indico.cern.ch/event/1562124/
+    date: 2025-09-10
+    focus-area: osglhc
+    project: osg-networking
+  - title: Results of Mini Data Challenges in the U.S.
+    meeting: "WLCG OTF #6"
+    url: https://indico.cern.ch/event/1562124/contributions/6680945/attachments/3133245/5558717/Results%20of%20Mini%20Data%20Challenges%20in%20the%20U.S..pdf
+    location: ONLINE
+    meetingurl: https://indico.cern.ch/event/1562124/
+    date: 2025-09-10
+    focus-area: doma
+    project: osg-networking
+  - title: ATLAS Network Data Challenge Plans for DC27
+    meeting: "6th Global Research Platform Meeting"
+    url: https://docs.google.com/presentation/d/1IorcjCCLF8hRPdf7HQtR04hbS-5TrpmlQaHo42iBjps/edit?slide=id.g276cf42bd13_0_98#slide=id.g276cf42bd13_0_98
+    location: Chicago, IL
+    meetingurl: https://grpworkshop2025.theglobalresearchplatform.net/
+    date: 2025-09-15
+    focus-area: doma
+    project: osg-networking
