@@ -1,14 +1,7 @@
-active: true
-focus-area:
-  - ia
-institution: Princeton University
-name: Liv Helen Våge
-photo: /assets/images/team/Liv-Vage.jpg
-shortname: livaage
 title: Postdoctoral Research Associate
 website:
 presentations:
-- title: ML templates for HEP
+  - title: ML templates for HEP
     date: 2025-09-15
     url: https://indico.cern.ch/event/1585887/
     meeting: ML Knowledge Group Meeting
@@ -17,7 +10,7 @@ presentations:
     focus-area: ia
     project:
 
- - title: Rapid ML inference in HEP using logic gate neural nets
+  - title: Rapid ML inference in HEP using logic gate neural nets 
     date: 2025-09-09
     url: https://indico.cern.ch/event/1488410/contributions/6562816/
     meeting: ACAT 2025
@@ -47,4 +40,3 @@ presentations:
     project:
     labels:
       - conference
-
