@@ -15,36 +15,36 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1585887/
     location: Virtual
     focus-area: ia
-    project: 
-    
- - title: Rapid ML inference in HEP using logic gate neural nets 
+    project:
+
+ - title: Rapid ML inference in HEP using logic gate neural nets
     date: 2025-09-09
     url: https://indico.cern.ch/event/1488410/contributions/6562816/
-    meeting: ACAT 2025 
+    meeting: ACAT 2025
     meetingurl: https://indico.cern.ch/event/1488410/
     location: Hamburg, Germany
     focus-area: ia
     project:
     labels:
       - conference
- 
+
   - title: Extending graph neural nets from proof of concept to CMS Phase 2 MC data
     date: 2025-09-08
     url: https://indico.cern.ch/event/1586294/
-    meeting: Tracking POG meeting 
+    meeting: Tracking POG meeting
     meetingurl: https://indico.cern.ch/event/1586294/
     location: Virtual
     focus-area: ia
-    project: 
-    
-  - title: Go small then go home - hyperparameter transfer for ML in HEP 
+    project:
+
+  - title: Go small then go home - hyperparameter transfer for ML in HEP
     date: 2025-09-04
     url: https://indico.cern.ch/event/1496673/contributions/6637963/
     meeting: Fast Machine Learning for Science Conference 2025
     meetingurl: https://indico.cern.ch/event/1496673/overview
     location: ETH Zurich
     focus-area: ia
-    project: 
+    project:
     labels:
       - conference
 
