@@ -10,6 +10,56 @@ shortname: ianna
 title: Research Software Engineer
 website: https://github.com/ianna
 presentations:
+  - title: "Advancing Awkward Arrays for High-Performance CPU and GPU Processing."
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562844/attachments/3130285/5553216/ACAT2025%20Advancing%20Awkward%20Arrays%20for%20High-Performance%20GPU%20and%20CPU%20Processing.pdf
+    meeting: ACAT2025 Workshop
+    meetingurl: https://indico.cern.ch/event/1488410/
+    location: Hamburg, Germany
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Current Status of AwkwardArray.jl: Advancing Interoperability in High-Energy Physics Workflows."
+    date: 2025-07-29
+    url: https://indico.cern.ch/event/1488852/contributions/6517431/attachments/3111624/5515884/JuliaHEP2025-AwkwardArray.jl.pdf
+    meeting: JuliaHEP 2025 Workshop
+    meetingurl: https://indico.cern.ch/event/1488852/
+    location: Princeton, NJ, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Columnar Data Analysis."
+    date: 2025-07-23
+    url: https://indico.cern.ch/event/1568686/timetable/#41-columnar-data-analysis
+    meeting: Seventh Computational and Data Science school for HEP (CoDaS-HEP 2025)
+    meetingurl: https://indico.cern.ch/event/1568686/timetable/
+    location: Princeton, NJ, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Awkward Array: The Swiss Army Knife of Irregular Data (and Still a Little Awkward)."
+    date: 2025-07-14
+    url: https://indi.to/bVPVG
+    meeting: PyHEP.dev 2025
+    meetingurl: https://indico.cern.ch/event/1515852/
+    location: Seattle, WA, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Advancing High Energy Physics Data Analysis with Julia: A Case for JuliaHEP."
+    date: 2026-07-08
+    url: https://github.com/ianna/2025-SciPy-Advancing-High-Energy-Physics-Data-Analysis-with-Julia-A-Case-for-JuliaHEP/blob/main/poster/I.Osborne%20SciPy%202025%20poster.pdf
+    meeting: SciPy 2025
+    meetingurl: https://www.scipy2025.scipy.org/
+    location: Tacoma, WA, USA
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Python for analysis (Scikit-HEP): an introduction to the Scikit-HEP ecosystem of tools, starting with Uproot and Awkward Array."
     date: 2025-06-20
     url: https://github.com/ianna/2025-06-20-hsf-iris-hep-uproot-awkward-tutorial
