@@ -51,7 +51,7 @@ presentations:
     project:
       - awkward
   - title: "Advancing High Energy Physics Data Analysis with Julia: A Case for JuliaHEP."
-    date: 2026-07-08
+    date: 2025-07-08
     url: https://github.com/ianna/2025-SciPy-Advancing-High-Energy-Physics-Data-Analysis-with-Julia-A-Case-for-JuliaHEP/blob/main/poster/I.Osborne%20SciPy%202025%20poster.pdf
     meeting: SciPy 2025
     meetingurl: https://www.scipy2025.scipy.org/
