@@ -20,6 +20,7 @@ presentations:
       - as
     project:
       - servicex
+      
   - title: "IRIS-HEP ServiceX Tutorial"
     date: 2025-07-25
     url: https://github.com/iris-hep/us-atlas-idap-training-2025/blob/main/servicex/servicex_tutorial.ipynb
@@ -29,7 +30,7 @@ presentations:
     focus-area:
       - doma
       - as
-     project:
+    project:
       - servicex
 
 
