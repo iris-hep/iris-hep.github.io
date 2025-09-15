@@ -21,7 +21,7 @@ presentations:
     project:
       - servicex
   - title: "IRIS-HEP ServiceX Tutorial"
-    date: 2025-07-25 
+    date: 2025-07-25
     url: https://github.com/iris-hep/us-atlas-idap-training-2025/blob/main/servicex/servicex_tutorial.ipynb
     meeting: US ATLAS / IRIS-HEP Analysis Software Training Event 2025
     meetingurl: https://indico.cern.ch/event/1496325/
@@ -31,5 +31,5 @@ presentations:
       - as
      project:
       - servicex
-    
-    
+
+
