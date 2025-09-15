@@ -12,7 +12,6 @@ title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 
 presentations:
-
   - title: 200 Gbps Challenge v2
     date: 2025-06-10
     url: https://indico.cern.ch/event/1557624/contributions/6559616/attachments/3083813/5460039/uscms-200gbps-1.pdf
@@ -28,7 +27,7 @@ presentations:
     challenge-area:
       - agc
 
-  - title:  CMS survey results 
+  - title: CMS survey results
     date: 2025-05-15
     url: https://indico.cern.ch/event/1515493/contributions/6522206/
     meeting: Physics analysis at the HL-LHC
@@ -43,7 +42,7 @@ presentations:
     challenge-area:
       - agc
 
-  - title:  Run-3 CMS compute model  
+  - title: Run-3 CMS compute model
     date: 2025-05-15
     url: https://indico.cern.ch/event/1515493/contributions/6392941/
     meeting: Physics analysis at the HL-LHC
@@ -73,7 +72,6 @@ presentations:
     challenge-area:
       - agc
 
-
   - title: CMS analysis facility contribution
     date: 2025-05-06
     url: https://indico.cern.ch/event/1484669/contributions/6464584/attachments/3061521/5413975/AF_CMS_May-3.pdf
@@ -88,7 +86,6 @@ presentations:
       - agc
     challenge-area:
       - agc
-
 
   - title: Integration Challenge - Next Steps
     date: 2025-07-29
