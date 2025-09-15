@@ -12,6 +12,114 @@ title: Analysis Grand Challenge Co-coordinator
 website: https://github.com/oshadura
 
 presentations:
+
+  - title: 200 Gbps Challenge v2
+    date: 2025-06-10
+    url: https://indico.cern.ch/event/1557624/contributions/6559616/attachments/3083813/5460039/uscms-200gbps-1.pdf
+    meeting: US CMS Analysis Facility Meeting
+    meetingurl: https://indico.cern.ch/event/1557624/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+    challenge-area:
+      - agc
+
+  - title:  CMS survey results 
+    date: 2025-05-15
+    url: https://indico.cern.ch/event/1515493/contributions/6522206/
+    meeting: Physics analysis at the HL-LHC
+    meetingurl: https://indico.cern.ch/event/1515493
+    location: CERN, Geneve
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+    challenge-area:
+      - agc
+
+  - title:  Run-3 CMS compute model  
+    date: 2025-05-15
+    url: https://indico.cern.ch/event/1515493/contributions/6392941/
+    meeting: Physics analysis at the HL-LHC
+    meetingurl: https://indico.cern.ch/event/1515493
+    location: CERN, Geneve
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+    challenge-area:
+      - agc
+
+  - title: 200 Gbps Challenge
+    date: 2025-04-08
+    url: https://indico.cern.ch/event/1557624/contributions/6559616/attachments/3083813/5460039/uscms-200gbps-1.pdf
+    meeting: US CMS Analysis Facility Meeting
+    meetingurl: https://indico.cern.ch/event/1557624/
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+    challenge-area:
+      - agc
+
+
+  - title: CMS analysis facility contribution
+    date: 2025-05-06
+    url: https://indico.cern.ch/event/1484669/contributions/6464584/attachments/3061521/5413975/AF_CMS_May-3.pdf
+    meeting: WLCG/HSF Workshop 2025
+    meetingurl: https://indico.cern.ch/event/1484669/
+    location: Orsay, Paris
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+    challenge-area:
+      - agc
+
+
+  - title: Integration Challenge - Next Steps
+    date: 2025-07-29
+    url: https://indico.cern.ch/event/1507606/#15-integration-challenge-next
+    meeting: IRIS-HEP Steering Board Meeting #24
+    meetingurl: https://indico.cern.ch/event/1507606
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+    challenge-area:
+      - agc
+
+  - title: LHCC Focus Session on WLCG - Analysis Facilities
+    date: 2024-10-24
+    url: https://indico.cern.ch/event/1519112/contributions/6392453/attachments/3021993/5332037/LHCC%20AF%20draft.pdf
+    meeting: O&C Weekly Meeting
+    meetingurl: https://indico.cern.ch/event/1519112
+    location: Virtual
+    focus-area:
+      - as
+      - doma
+    project:
+      - coffea-casa
+      - agc
+    challenge-area:
+      - agc
+
   - title: Tuning the CMS Coffea-casa facility for 200 Gbps Challenge
     date: 2024-10-24
     url: https://indico.cern.ch/event/1338689/contributions/6010711/
