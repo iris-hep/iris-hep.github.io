@@ -693,3 +693,17 @@ presentations:
     challenge-area: agc
     project:
       - agc
+
+  - title: "Analysis Facilities: recent activities & questions"
+    date: 2025-07-09
+    url: https://indico.cern.ch/event/1509063/timetable/#26-analysis-facilities
+    meeting: ATLAS Software & Computing Week
+    meetingurl: https://indico.cern.ch/event/1509063/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - agc
