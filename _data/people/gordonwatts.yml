@@ -496,3 +496,24 @@ presentations:
       - servicex
       - awkward
     location: Munich, Germany
+  - title: "LLMs for physics software"
+    date: 2025-09-22
+    url: https://indico.cern.ch/event/1590530/#2-using-llms-to-do-analysis-in
+    meetingurl: https://indico.cern.ch/event/1590530
+    meeting: "ATLAS Software & Computing Week [private]"
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+      - awkward
+    location: Ljubljana, Slovenia
+  - title: "IRIS-HEP and ATLAS"
+    date: 2025-09-22
+    url: https://indico.cern.ch/event/1509065/timetable/#22-iris-hep-atlas-looking-towa
+    meetingurl: https://indico.cern.ch/event/1509065
+    meeting: "ATLAS Software & Computing Week [private]"
+    project:
+      - servicex
+      - awkward
+    location: Ljubljana, Slovenia
