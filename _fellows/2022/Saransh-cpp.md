@@ -115,8 +115,8 @@ presentations:
   focus-area: as
   project: vector
 current_status: >
-  <strong> June 2025 </strong> - Research Software Engineer at Advanced
-  Research Computing Centre, University College London
+  <strong> September 2025 </strong> - Master's (Computational Science) student at
+  École Polytechnique Fédérale de Lausanne (EPFL)
 github-username: Saransh-cpp
 linkedin-profile: https://www.linkedin.com/in/saransh-cpp/
 challenge-area:
