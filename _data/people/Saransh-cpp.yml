@@ -3,7 +3,8 @@ e-mail: saransh0701@gmail.com
 focus-area:
   - as
 institution: École Polytechnique Fédérale de Lausanne (EPFL)
-past_institution: { institution: University College London, end_date: 2025-08-31 }
+past_institution:
+  { institution: University College London, end_date: 2025-08-31 }
 name: Saransh Chopra
 photo: "/assets/images/team/Saransh-Chopra.jpeg"
 shortname: Saransh-cpp
