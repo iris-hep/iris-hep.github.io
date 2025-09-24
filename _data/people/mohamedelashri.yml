@@ -18,10 +18,10 @@ presentations:
       - ia
     project:
       - pv-finder
-  - title: Experiences Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb’s GPU-Resident HLT1 
+  - title: Experiences Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb’s GPU-Resident HLT1
     date: 2025-09-05
     url: https://indico.cern.ch/event/1496673/contributions/6637932/attachments/3129379/5551299/pvfinder_fastml_2025.pdf
-    meeting:  Fast Machine Learning for Science Conference 2025 
+    meeting: Fast Machine Learning for Science Conference 2025
     meetingurl: https://indico.cern.ch/event/1496673/
     location: ETH Zurich
     focus-area:
