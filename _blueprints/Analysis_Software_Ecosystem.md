@@ -1,6 +1,6 @@
 ---
 layout: blueprint
-visible: true
+visible: false
 topic: Analysis Software Ecosystem
 meetingurl:
 meetingdate:

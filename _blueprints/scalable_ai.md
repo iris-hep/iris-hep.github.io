@@ -1,6 +1,6 @@
 ---
 layout: blueprint
-visible: true
+visible: false
 topic: Community work on Scalable AI
 meetingurl:
 meetingdate:

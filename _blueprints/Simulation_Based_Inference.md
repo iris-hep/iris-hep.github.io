@@ -1,12 +1,11 @@
 ---
 layout: blueprint
-visible: false
-topic: Analysis Preservation & Open Access Data
+visible: true
+topic: Simulation Based Inference (SBI)
 meetingurl:
 meetingdate:
 focus-areas:
-    - ssc
-    - as
+    - AS
 status: planned
 location:
 documents:

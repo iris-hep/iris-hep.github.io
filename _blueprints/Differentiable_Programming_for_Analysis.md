@@ -1,12 +1,11 @@
 ---
 layout: blueprint
-visible: false
-topic: Analysis Preservation & Open Access Data
+visible: true
+topic: Differentiable Programming for Analysis
 meetingurl:
 meetingdate:
 focus-areas:
-    - ssc
-    - as
+    - AS
 status: planned
 location:
 documents:
