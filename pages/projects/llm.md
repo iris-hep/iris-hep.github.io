@@ -4,7 +4,7 @@ layout: project
 title: Large Language Models As Assistants
 shortname: llm
 pagetype: project
-image: logos/ACTSlogo.gif
+image: logos/particle-llm.png
 logowidth: 30%
 blurb: Umbrella project gathering institute efforts using LLMs as asisstants.
 maturity: Development
