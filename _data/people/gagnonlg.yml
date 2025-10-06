@@ -141,3 +141,16 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1397634/
     project: acts
     location: Bogis-Bossey, Switzerland
+  - title: Innovative Algorithms Deep Dive
+    date: 2025-04-09
+    meeting: NSF / IRIS-HEP Meeting
+    url: https://indico.cern.ch/event/1534486/contributions/6456708/
+    meetingurl: https://indico.cern.ch/event/1534486/
+    project: acts
+    location: Zoom
+  - title: The ATLAS Computing Pipeline
+    date: 2025-06-23
+    meeting: Computational HEP Traineeship Summer School 2025
+    url: https://indico.cern.ch/event/1531818/contributions/6558182/
+    meetingurl: https://indico.cern.ch/event/1531818/
+    location: Berkeley, USA
