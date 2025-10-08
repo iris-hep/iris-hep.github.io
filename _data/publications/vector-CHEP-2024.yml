@@ -1,0 +1,11 @@
+title: "A new SymPy backend for Vector: Uniting experimental and theoretical physicists"
+link: https://doi.org/10.1051/epjconf/202533701240
+DOI: 10.1051/epjconf/202533701240
+date: 2025-10-07
+citation: |
+  A new SymPy backend for Vector: Uniting experimental and theoretical physicists
+  Saransh  Chopra, Jim  Pivarski
+  EPJ Web Conf. 337 01240 (2025)
+focus-area: as
+project:
+  - vector
