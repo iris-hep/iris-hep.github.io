@@ -310,7 +310,7 @@ presentations:
     date: 2023-05-08
     url: https://indico.jlab.org/event/459/abstracts/1736/
     meetingurl: https://indico.jlab.org/event/459
-    meeting: CHEP 2024
+    meeting: CHEP 2023
     focus-area: as
   - title: "Analysis Grand Challenge Demonstrator"
     date: 2023-03-30
@@ -422,3 +422,98 @@ presentations:
     focus-area:
       - core
     location: Oslo
+  - title: "Thinking in Arrays"
+    date: 2024-07-08
+    url: https://cfp.scipy.org/2024/talk/FUYG37/
+    meetingurl: https://www.scipy2024.scipy.org
+    meeting: "SciPy 2024"
+    focus-area:
+      - as
+    project: awkward
+    location: Tacoma, WA
+  - title: "How the Scientific Python ecosystem helps answering fundamental questions of the Universe"
+    date: 2024-07-10
+    url: https://cfp.scipy.org/2024/talk/KCXVVR/
+    meetingurl: https://www.scipy2024.scipy.org
+    meeting: "SciPy 2024"
+    focus-area:
+      - as
+    project: columnar-physlite
+    location: Tacoma, WA
+  - title: "Leveraging Language Models to Navigate Conference Abstracts: An Open-Source Approach"
+    date: 2024-10-21
+    url: https://indico.cern.ch/event/1338689/contributions/6011147/
+    meetingurl: https://indico.cern.ch/event/1338689
+    meeting: "CHEP 2024 - Conference on Computing in High Energy Physics"
+    focus-area:
+      - as
+    location: Krakow, Poland
+  - title: "Analysis at the HL-LHC: Data Delivery, ServiceX, and Addressing Our Analysis Challenges"
+    date: 2025-05-06
+    url: https://indico.cern.ch/event/1484669/contributions/6462311/
+    meetingurl: https://indico.cern.ch/event/1484669
+    meeting: "WLCG/HSF Workshop - 2025"
+    focus-area:
+      - as
+      - doma
+    project: servicex
+    location: Paris, France
+  - title: "Using Large Language Models to Accelerate Access to Physics"
+    date: 2025-07-01
+    url: https://indico.cern.ch/event/1557398/#4-leveraging-chatbots-in-daily
+    meetingurl: https://indico.cern.ch/event/1557398/
+    meeting: "IML Machine Learning Working Group: Chatbots at CERN"
+    focus-area:
+      - as
+    location: CERN
+  - title: "Using Large Language Models to Accelerate Access to Physics"
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562829
+    meetingurl: https://indico.cern.ch/event/1488410
+    meeting: "ACAT - 2025"
+    focus-area:
+      - as
+    location: Hamburg, Germany
+  - title: "Using ServiceX to prepare training data for an ATLAS Long-Lived Particle Search"
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562952
+    meetingurl: https://indico.cern.ch/event/1488410
+    meeting: "ACAT - 2025"
+    focus-area:
+      - as
+      - doma
+    project: servicex
+    location: Hamburg, Germany
+  - title: "LLMs for physics software"
+    date: 2025-09-05
+    url: https://indico.ph.tum.de/event/7932/contributions/10744/attachments/6916/9619/Watts_Slides.pptx
+    meetingurl: https://www.munich-iapbp.de/activities/activities-2025/machine-learning
+    meeting: "Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics"
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+      - awkward
+    location: Munich, Germany
+  - title: "LLMs for physics software"
+    date: 2025-09-22
+    url: https://indico.cern.ch/event/1590530/#2-using-llms-to-do-analysis-in
+    meetingurl: https://indico.cern.ch/event/1590530
+    meeting: "ATLAS Software & Computing Week [private]"
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+      - awkward
+    location: Ljubljana, Slovenia
+  - title: "IRIS-HEP and ATLAS"
+    date: 2025-09-22
+    url: https://indico.cern.ch/event/1509065/timetable/#22-iris-hep-atlas-looking-towa
+    meetingurl: https://indico.cern.ch/event/1509065
+    meeting: "ATLAS Software & Computing Week [private]"
+    project:
+      - servicex
+      - awkward
+    location: Ljubljana, Slovenia

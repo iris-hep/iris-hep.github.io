@@ -8,3 +8,19 @@ shortname: gniendorf
 title: PhD Student
 website: https://github.com/GNiendorf
 presentations:
+  - title: "Line Segment Tracking: status and plans"
+    meeting: CMS Tracking POG Meeting (CMS restricted)
+    meetingurl: https://indico.cern.ch/event/1443183
+    url: https://indico.cern.ch/event/1443183/#49-line-segment-tracking-statu
+    date: 2024-09-09
+    location: CERN
+    focus-area: ia
+    project: lst
+  - title: "Line Segment Tracking: Particle Tracking on GPUs"
+    meeting: Seventh Computational and Data Science school for HEP (CoDaS-HEP 2025)
+    meetingurl: https://indico.cern.ch/event/1568686/timetable/
+    url: https://indico.cern.ch/event/1568686/contributions/6608185/attachments/3110551/5513852/Codas-HEP-LST.pdf
+    date: 2025-07-25
+    location: Princeton University
+    focus-area: ia
+    project: lst

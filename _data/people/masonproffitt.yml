@@ -1,4 +1,4 @@
-active: true
+active: false
 focus-area:
   - as
   - doma
@@ -176,6 +176,7 @@ presentations:
   - title: "abcd_pyhf: Likelihood-based ABCD method for background estimation and hypothesis testing with pyhf"
     date: 2023-12-04
     url: https://indico.cern.ch/event/1294577/contributions/5700251/
+    video: https://youtu.be/EaNwmH_dTAc
     meeting: pyhf Users and Developers Workshop 2023
     meetingurl: https://indico.cern.ch/event/1294577/
     location: CERN

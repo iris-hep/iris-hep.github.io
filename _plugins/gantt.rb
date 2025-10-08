@@ -1,11 +1,5 @@
 # frozen_string_literal: true
 
-if Gem.ruby_version < Gem::Version.new('2.7.0')
-  # Add filter_map
-  require 'ruby-next'
-  using RubyNext
-end
-
 def process_projects(projects)
   projects.filter_map do |project|
     project['start-date'] && {

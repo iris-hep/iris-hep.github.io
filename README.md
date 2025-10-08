@@ -13,11 +13,24 @@ request will be tested to ensure that all is ok with your changes...
 
 ## Testing locally quick instructions (see [setup](https://iris-hep.org/docs/webdev) for full instructions):
 
+### Existing Ruby install
+
 ```bash
 gem install bundler
 bundle install
 bundle exec rake serve
 ```
+
+### `pixi`
+
+[Install `pixi`](https://pixi.sh/latest/#installation) and then run
+
+```shell
+pixi run install
+pixi run serve
+```
+
+### Docker
 
 Alternatively, you can test your changes out using the Jekyll docker image:
 ```bash

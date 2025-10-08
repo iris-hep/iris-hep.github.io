@@ -1,0 +1,9 @@
+name: HSF/IRIS-HEP Software Basics Training
+startdate: 2025-06-18
+enddate: 2025-06-20
+location: In person at CERN Kjell Johnsen Auditorium
+meetingurl: https://indico.cern.ch/event/1516608/
+image:
+description: This was combo of ROOT, python for analysis and also Workshop on Unix, Git and Github, fundamentals of Python language, Jupyter Notebooks
+labels:
+  - training

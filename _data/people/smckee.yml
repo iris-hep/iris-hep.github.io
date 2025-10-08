@@ -576,3 +576,187 @@ presentations:
     date: 2024-04-17
     focus-area: osglhc
     project: osg-networking
+  - title: DC24 Network Activities and Results
+    meeting: "WLCG/HSF Workshop 2024"
+    url: https://indico.cern.ch/event/1369601/contributions/5923592/attachments/2855770/4994637/DC24%20Network%20Activities%20&%20Results-1.pdf
+    location: DESY, Hamburg, Germany
+    meetingurl: https://indico.cern.ch/event/1369601
+    date: 2024-05-14
+    focus-area: osglhc
+    project: osg-networking
+  - title: Network Traffic Optimization (Jumbo, protocols, pacing)
+    meeting: "HTC 24"
+    url: https://agenda.hep.wisc.edu/event/2175/sessions/3176/#20240710
+    location: Madison, WI, USA
+    meetingurl: https://agenda.hep.wisc.edu/event/2175
+    date: 2024-06-10
+    focus-area: osglhc
+    project: osg-networking
+  - title: Post-DC24 Activities and Plans for DC26
+    meeting: "HTC 24"
+    url: https://agenda.hep.wisc.edu/event/2175/contributions/31551/attachments/9771/12209/Post-DC24%20Activities%20and%20Plans%20for%20DC26%20Preparation.pdf
+    location: Madison, WI, USA
+    meetingurl: https://agenda.hep.wisc.edu/event/2175
+    date: 2024-06-10
+    focus-area: osglhc
+    project: osg-networking
+  - title: Fall 2024 (and beyond) WLCG Mini-Challenges Planning and Discussion
+    meeting: "WLCG DOMA"
+    url: https://indico.cern.ch/event/1439566/contributions/6081795/attachments/2917367/5119856/Fall%202024%20(and%20beyond)%20WLCG%20Mini-Challenges_%20Planning%20and%20Discussion.pdf
+    location: Zoom
+    meetingurl: https://indico.cern.ch/event/1439566/
+    date: 2024-08-28
+    focus-area: osglhc
+    project: osg-networking
+  - title: Mini-Challenges Building from DC24
+    meeting: "IRIS-HEP 2024 Retreat"
+    url: https://indico.cern.ch/event/1374962/contributions/5778763/attachments/2921661/5128230/Mini-Challenges_%20Building%20from%20DC24.pdf
+    location: Seattle, WA, USA
+    meetingurl: https://indico.cern.ch/event/1374962
+    date: 2024-09-04
+    focus-area: osglhc
+    project: osg-networking
+  - title: perfSONAR Monitoring Update
+    meeting: "#53 LHCOPN/LHCONE Meeting"
+    url: https://indico.cern.ch/event/1410638/contributions/6085858/attachments/2942498/5170162/perfSONAR%20Monitoring%20Update%20(Oct%202024)%20(2).pdf
+    location: IHEP Beijing, CN
+    meetingurl: https://indico.cern.ch/event/1410638/
+    date: 2024-10-09
+    focus-area: osglhc
+    project: osg-networking
+  - title: perfSONAR Network Analytics - Status and Plans
+    meeting: "#53 LHCOPN/LHCONE Meeting"
+    url: https://indico.cern.ch/event/1410638/contributions/6127645/attachments/2944638/5174816/perfSONAR%20Network%20Analytics%20-%20Status%20&%20Plans.pdf
+    location: IHEP Beijing, CN
+    meetingurl: https://indico.cern.ch/event/1410638/
+    date: 2024-10-10
+    focus-area: osglhc
+    project: osg-networking
+  - title: Scitags A Standardized Framework for Traffic Identification and Network Visibility in Data-Intensive Research Infrastructures
+    meeting: "#53 LHCOPN/LHCONE Meeting"
+    url: https://indico.cern.ch/event/1410638/contributions/6127648/attachments/2944506/5174243/Scitags%20Framework.pdf
+    location: IHEP Beijing, CN
+    meetingurl: https://indico.cern.ch/event/1410638/
+    date: 2024-10-10
+    focus-area: osglhc
+    project: osg-networking
+  - title: Networking Topics for WLCG
+    meeting: "Fall 2024 HEPiX Meeting"
+    url: https://indico.cern.ch/event/1450798/contributions/6199201/attachments/2963416/5212818/Networking%20Topics%20for%20WLCG.pdf
+    location: University of Oklahoma, Norman, OK, USA
+    meetingurl: https://indico.cern.ch/event/1450798/
+    date: 2024-11-07
+    focus-area: osglhc
+    project: osg-networking
+  - title: Upcoming Mini-Challenges in the US
+    meeting: "WLCG DOMA General Meeting"
+    url: https://indico.cern.ch/event/1470863/contributions/6195019/attachments/2966660/5220092/Upcoming%20Mini-Challenges%20in%20the%20US.pdf
+    location: Zoom
+    meetingurl: https://indico.cern.ch/event/1470863
+    date: 2024-11-13
+    focus-area: osglhc
+    project: osg-networking
+  - title: Results from Fall 2024 US Mini-Challenges
+    meeting: "WLCG DOMA General Meeting"
+    url: https://indico.cern.ch/event/1495675/contributions/6300594/attachments/2996790/5279864/Results%20from%20Fall%202024%20US%20Mini-Challenges.pdf
+    location: Zoom
+    meetingurl: https://indico.cern.ch/event/1495675
+    date: 2025-01-15
+    focus-area: osglhc
+    project: osg-networking
+  - title: US Mini Data Challenges (and ATLAS ADC Planning)
+    meeting: "ATLAS ADC TIM"
+    url: https://indico.cern.ch/event/1472836/contributions/6325700/attachments/3001187/5289902/US%20Mini%20Data%20Challenges%20(&%20ATLAS%20ADC%20Planning).pdf
+    location: Stony Brook, NY, USA
+    meetingurl: https://indico.cern.ch/event/1472836
+    date: 2025-01-23
+    focus-area: osglhc
+    project: osg-networking
+  - title: US Mini Data Challenges Plans
+    meeting: "ATLAS S&C Week"
+    url: https://indico.cern.ch/event/1485818/contributions/6308656/attachments/3007981/5303364/US%20Mini%20Data%20Challenge%20Plans.pdf
+    location: CERN, Geneva, Switzerland
+    meetingurl: https://indico.cern.ch/event/1485818
+    date: 2025-02-04
+    focus-area: osglhc
+    project: osg-networking
+  - title: LHCOPN - perfSONAR 20 Years
+    meeting: "LHCONE/LHCOPN Meeting 54"
+    url: https://indico.cern.ch/event/1479019/contributions/6418095/attachments/3033808/5356966/LHCOPN%20-%20perfSONAR%2020%20years.pdf
+    location: Manchester, Jodrell Bank, UK
+    meetingurl: https://indico.cern.ch/event/1479019
+    date: 2025-03-18
+    focus-area: osglhc
+    project: osg-networking
+  - title: Results from US Mini-Challenges
+    meeting: "LHCONE/LHCOPN Meeting 54"
+    url: https://indico.cern.ch/event/1479019/contributions/6300516/attachments/3033757/5356906/Results%20from%20US%20Mini-Challenges.pdf
+    location: Manchester, Jodrell Bank, UK
+    meetingurl: https://indico.cern.ch/event/1479019
+    date: 2025-03-18
+    focus-area: doma
+    project: osg-networking
+  - title: Network Monitoring Update
+    meeting: "LHCONE/LHCOPN Meeting 54"
+    url: https://indico.cern.ch/event/1479019/contributions/6300520/attachments/3033628/5356900/LHCONE%20Monitoring%20Update%20Spring%202025.pdf
+    location: Manchester, Jodrell Bank, UK
+    meetingurl: https://indico.cern.ch/event/1479019
+    date: 2025-03-18
+    focus-area: osglhc
+    project: osg-networking
+  - title: Plans for the next WLCG Data Challenges
+    meeting: "LHCONE/LHCOPN Meeting 54"
+    url: https://indico.cern.ch/event/1479019/contributions/6347992/attachments/3033820/5356989/Plans%20for%20the%20next%20WLCG%20Data%20Challenges.pdf
+    location: Manchester, Jodrell Bank, UK
+    meetingurl: https://indico.cern.ch/event/1479019
+    date: 2025-03-19
+    focus-area: doma
+    project: osg-networking
+  - title: WLCG Network Monitoring Infrastructure and perfSONAR Evolution
+    meeting: "Spring 2025 HEPiX Meeting"
+    url: https://indico.cern.ch/event/1477299/contributions/6412762/attachments/3043903/5377828/WLCG%20Network%20Monitoring%20Infrastructure%20and%20perfSONAR%20Evolution.pdf
+    location: Lugano, CH
+    meetingurl: https://indico.cern.ch/event/1477299
+    date: 2025-04-03
+    focus-area: osglhc
+    project: osg-networking
+  - title: Activities Update from the Research Networking Technical Working Group
+    meeting: "Spring 2025 HEPiX Meeting"
+    url: https://indico.cern.ch/event/1477299/contributions/6412763/attachments/3043902/5377827/Activities%20Update%20from%20the%20Research%20Networking%20Technical%20Working%20Group.pdf
+    location: Lugano, CH
+    meetingurl: https://indico.cern.ch/event/1477299
+    date: 2025-04-03
+    focus-area: osglhc
+    project: osg-networking
+  - title: Networking perfSONAR, SciTags and WLCG Site Network Monitoring
+    meeting: "HTC25"
+    url: https://docs.google.com/presentation/d/1rBVPytSPP8bQ5xgK9u-sWLARMS2pcByAnKzPqKAYjak/edit?slide=id.p1#slide=id.p1
+    location: Madison, WI
+    meetingurl: https://agenda.hep.wisc.edu/event/2297/
+    date: 2025-06-05
+    focus-area: osglhc
+    project: osg-networking
+  - title: Results of the Removal of IPv4 Peering on LHCOPN in the U.S.
+    meeting: "WLCG OTF #6"
+    url: https://indico.cern.ch/event/1562124/contributions/6680944/attachments/3133036/5558340/Results%20of%20Removal%20of%20IPv4%20Peering%20on%20US%20LHCOPN.pdf
+    location: ONLINE
+    meetingurl: https://indico.cern.ch/event/1562124/
+    date: 2025-09-10
+    focus-area: osglhc
+    project: osg-networking
+  - title: Results of Mini Data Challenges in the U.S.
+    meeting: "WLCG OTF #6"
+    url: https://indico.cern.ch/event/1562124/contributions/6680945/attachments/3133245/5558717/Results%20of%20Mini%20Data%20Challenges%20in%20the%20U.S..pdf
+    location: ONLINE
+    meetingurl: https://indico.cern.ch/event/1562124/
+    date: 2025-09-10
+    focus-area: doma
+    project: osg-networking
+  - title: ATLAS Network Data Challenge Plans for DC27
+    meeting: "6th Global Research Platform Meeting"
+    url: https://docs.google.com/presentation/d/1IorcjCCLF8hRPdf7HQtR04hbS-5TrpmlQaHo42iBjps/edit?slide=id.g276cf42bd13_0_98#slide=id.g276cf42bd13_0_98
+    location: Chicago, IL
+    meetingurl: https://grpworkshop2025.theglobalresearchplatform.net/
+    date: 2025-09-15
+    focus-area: doma
+    project: osg-networking

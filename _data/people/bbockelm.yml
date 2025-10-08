@@ -301,3 +301,9 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1396412
     url: https://indico.cern.ch/event/1396412/contributions/5869593
     title: "DC24: Token Achievements"
+  - meeting: "CHEP 2024 - Conference on Computing in High Energy and Nuclear Physics"
+    date: 2024-10-22
+    focus-area: doma
+    meetingurl: https://indico.cern.ch/event/1338689
+    url: https://indico.cern.ch/event/1338689/contributions/6011018/
+    title: "CMS Token Transition"

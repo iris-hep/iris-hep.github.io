@@ -7,14 +7,13 @@ title: IRIS/HEP Fellows Program Applications
 
 # Applying to the IRIS-HEP Fellows Program
 
+**Applications for the Undergraduate Fellows program are not currently being accepted. Please check back in early 2026 for information about the Summer 2026 program.**
+
 **General information about the program, as well as information about former Fellows, can be found on the [main Fellows webpage](https://iris-hep.org/fellows.html).**
 
-
 <!--
-**Applications for the Undergraduate Fellows program in Summer 2024 are now open. Applications submitted before Monday, 11 March, 2024 (end of the day, any time zone) will prioritized for consideration. The application form will however remain open and applications can nonetheless be submitted through March 25th.**
+**Applications for the Undergraduate Fellows program in Summer 2025 are now open. Applications submitted before Monday, 10 March, 2025 (end of the day, any time zone) will prioritized for consideration. The application form will however remain open and applications can nonetheless be submitted through March 24th, 2025.**
 -->
-
-**Fellow selections for 2024 have been completed. Please check back in early 2025 for information on how to apply to be an IRIS-HEP Fellow in summer, 2025.**
 
 **Who should apply to the Fellows program?** - Are you reasonably comfortable
 with basic programming through skills acquired (for example) from coursework or
@@ -24,8 +23,8 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
   * Undergraduate fellows work with a mentor to develop research software relevant in one of the R&D areas listed below. Undergraduate fellows will receive a training stipend, paid monthly, during their fellowship. In most cases, they will in general remain in their home location and work remotely with their mentor.
   * Eligibility:
     * US citizens and F-1 visa holders: you must be enrolled in an undergraduate program at an accredited U.S. University or College and have completed at least 1 academic year by the start of the Fellowship. If you hold an F-1 visa, you must be eligible for Optional Practical Training (OPT). If you have a different U.S. immigration visa or are unsure, please contact us at fellows@iris-hep.org.
-    * For Summer 2024, the IRIS-HEP Fellows program will support (1) students of all nationalities that are associated to U.S. academic institutions (U.S. citizenship is not required), (2) students of Ukrainian nationality and (3) students in Lithuania. Students from India should consider applying instead to the [Trainee program](video and audio equipment) of the [HSF-India project](http://research-software-collaborations.org).
-  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 12 FTE-weeks (full time equivalent) at $600/week (paid monthly) during Summer 2024. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last 10-12 weeks (2.5 or 3 months).
+    * For Summer 2025, the IRIS-HEP Fellows program will support (1) students of all nationalities that are associated to U.S. academic institutions (U.S. citizenship is not required), (2) students of Ukrainian nationality and (3) students in Lithuania.
+  * Duration of fellowship and total stipend: An IRIS-HEP Undergraduate fellowship will pay up to 12 FTE-weeks (full time equivalent) at $600/week (paid monthly) during Summer 2025. (International Fellows will be paid a training stipend scaled for Purchasing Power Parity (PPP).) We have some flexibility to accommodate different summer schedules and lengths. Fellowships should in general last 10-12 weeks (2.5 or 3 months).
   * It is expected that the Fellow is available full time during the Fellowship period and will *not* have another significant activity (such as classes, another trainee position or a job) in the same time period.
 
 **How does it work?** - After you apply, we will make a first selection of Fellow candidates and reach out to you for a short interview and to discuss a possible research software project which you will turn into a short 2-page project proposal and timeline (with some help from your mentor). Based on that, we will make a final Fellows selection. It is *not* necessary to fully prepare a project proposal in order to apply, however including information on your potential interests as part of the application will help us match you to the right mentor/mentors for the 2nd step.
@@ -33,7 +32,7 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
 During the Fellowship, you will work with your mentor and likely other collaborators using Slack, Zoom, GitHub and other similar tools. You will also make a short
 presentation about your project to other Fellows and Mentors as you start your Fellowship, another midway through the project to show your progress and a final presentation about your results at the very end. You will also have an opportunity to attend [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specific software skills.
 
-**Fellows projects:** A number of possible projects (and mentors) for summer 2024 are listed on the [Fellows Projects](http://research-software-collaborations.org/projects_irishep) webpage. You can mention particular projects/mentors which interest you in your application. We also create new projects or adapt existing ones based on the interests of Fellow applicants. These can come from any of the R&D areas of interest to IRIS-HEP.
+**Fellows projects:** A number of possible projects (and mentors) for summer 2025 are listed on the [Fellows Projects](http://research-software-collaborations.org/projects_irishep) webpage. You can mention particular projects/mentors which interest you in your application. We also create new projects or adapt existing ones based on the interests of Fellow applicants. These can come from any of the R&D areas of interest to IRIS-HEP.
 
 **Which R&D areas are relevant for IRIS-HEP?** - We are particularly interested in software R&D areas where IRIS-HEP personnel are active, but may also consider proposals for other software R&D topics of larger relevance to the HEP community. The IRIS-HEP activities include:
 
@@ -70,26 +69,24 @@ Prospective fellows are encouraged to **contact specific mentors** listed on the
 If you have a idea for a project which excites you, but do not find similar examples or are not sure which mentor to contact, please do not hesitate to contact the IRIS-HEP fellows@iris-hep.org mailing list. The lists above are not exhaustive. We will help you link up with possible mentor candidates!
 -->
 
-**Applying:** Prospective fellows can apply using this [Application Google Form](https://docs.google.com/forms/d/1N19_B8nTWkaTD-Rf-tu0ErPc0-RE24Gih0NA4t1C1uE/viewform?edit_requested=true). You will need to provide:
+<!--
+**Applying:** Prospective fellows can apply using this [Application Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeTLuJnBRwvAqNqwOfOGIXj7WnhFqAo6IuEp4AvHPBOtegG_Q/viewform?edit_requested=true). You will need to provide:
 
  * Your full name, email address, the name of your university or college and your current or planned major and/or area of study
  * A resume/CV (in pdf format) with contact information
  * An academic transcript - this can be unofficial, but should include course titles and overall GPA. At the time the Fellowship starts you must have completed at least 1 year of university/college. [If you cannot obtain your transcript, please just upload a pdf with a statement explaining that it is not possible.]
  * A short essay describing your interest in the internship program (maximum 1 page, pdf format). For example, you may wish to expand on 3 or 4 topics from the following list: your background, your skills, and strengths;  what software, computing or scientific topics appeal to you; previous research experience, if any; what you may want to pursue as a future career; and what benefits you would like to gain from this program. If you already have a potential mentor and/or particular projects which interest you from the project lists above, you can also mention them here. It is however not required to have a mentor/project finalized to submit an application. Successful applicants will be connected to mentors to select and define their projects in a 2nd step following this application
  * [Optional] The full name and email address of a reference. This is optional. Ideally it would be someone with whom you have interacted in a STEM context (e.g. a course or a previous research activity). You should contact the person in advance to confirm that they will write a letter for you and simply provide their name/email in the application form. After you submit the form, we will contact them to request the letter.
-
-**Timeline:**
-The 2025 timeline will be available when applications for summer, 2025 are opened.
+-->
 
 <!--
 **Timeline:**
-  * Monday 11 March, 2024 - deadline for priority consideration of applications (applications will be reviewed on a rolling basis as they arrive)
-  * Monday 25 March, 2024 - final deadline for consideration of applications
-  * 19 February - 30 March, 2024 - Select potential Fellows with be matched with potential mentors to develop a project proposal - this may involve a short interview and other follow-up. Final selection as a Fellow will require submission and approval of a project proposal.
-  * April, 2024 - Offers, Acceptances and Onboarding of Summer 2024 Fellows
-  * May-Sep, 2024 - Fellows work on projects (exact dates may depend on specific academic year constraints)
+  * Monday 10 March, 2025 - deadline for priority consideration of applications (applications will be reviewed on a rolling basis as they arrive)
+  * Monday 24 March, 2025 - final deadline for consideration of applications
+  * 18 February - 30 March, 2025 - Select potential Fellows with be matched with potential mentors to develop a project proposal - this may involve a short interview and other follow-up. Final selection as a Fellow will require submission and approval of a project proposal.
+  * April, 2025 - Offers, Acceptances and Onboarding of Summer 2025 Fellows
+  * May-Sep, 2025 - Fellows work on projects (exact dates may depend on specific academic year constraints)
 -->
-
 **Funding:** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreements OAC-1836650 and PHY-2323298 (including an [IMPRESS-U](https://www.nsf.gov/pubs/2023/nsf23135/nsf23135.jsp) supplemental funding award) as well as private foundation support. Funding for Fellows associated with international academic institutions has been provided by a combination of university, industry and private foundation support.
 
 

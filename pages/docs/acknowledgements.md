@@ -19,17 +19,28 @@ The following text should be used:
 ---
 
 Suitable variations to also acknowledge other sources of support are of
-course acceptable, but the specific award number (OAC-1836650) for IRIS-HEP
-must be included.
+course acceptable, but the specific award numbers (OAC-1836650 and/or PHY-2323298)
+for IRIS-HEP must be included. Most activities may have contributions (in 2024 and
+2025) from both awards, but as we go along newer activities (start in 2024 and beyond) may have been funded of course by PHY-2323298 alone and thus you can drop OAC-1836650.
 
 ## Referencing IRIS-HEP in Publications
 
 If you need to reference/cite IRIS-HEP in a Publication (independent from the acknowledgement of funding
-support as described above) you have several non-exclusive choices: you can reference the NSF award number
-as above (OAC-1836650), you can reference the website and you can reference the Strategic Plan and/or
+support as described above) you have several non-exclusive choices: you can reference one or both of the NSF award numbers
+as above (OAC-1836650 and/or PHY-2323298), you can reference the website and you can reference the Strategic Plan (Update and Original) and/or
 the Community White Paper that led to IRIS-HEP. BibTex entries for these would be:
 
 ```
+@misc{IRISHEPSPUPDATE,
+      title={IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics},
+      author={Brian Bockelman and Peter Elmer and Gordon Watts},
+      year={2023},
+      eprint={2302.01317},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2302.01317},
+}
+
 @Article{S2I2HEPSP,
   author        = "Elmer, Peter and Neubauer, Mark and Sokoloff, Michael D.",
   title         = "{Strategic Plan for a Scientific Software Innovation Institute (S2I2) for High Energy Physics}",

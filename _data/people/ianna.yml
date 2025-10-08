@@ -8,9 +8,119 @@ name: Ianna Osborne
 photo: "/assets/images/team/Ianna-Osborne.png"
 shortname: ianna
 title: Research Software Engineer
-website:
+website: https://github.com/ianna
 presentations:
-  - title: "AwkwardArrays in Julia for High-Energy Physics Data Analysis "
+  - title: "Advancing Awkward Arrays for High-Performance CPU and GPU Processing."
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562844/attachments/3130285/5553216/ACAT2025%20Advancing%20Awkward%20Arrays%20for%20High-Performance%20GPU%20and%20CPU%20Processing.pdf
+    meeting: ACAT2025 Workshop
+    meetingurl: https://indico.cern.ch/event/1488410/
+    location: Hamburg, Germany
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Current Status of AwkwardArray.jl: Advancing Interoperability in High-Energy Physics Workflows."
+    date: 2025-07-29
+    url: https://indico.cern.ch/event/1488852/contributions/6517431/attachments/3111624/5515884/JuliaHEP2025-AwkwardArray.jl.pdf
+    meeting: JuliaHEP 2025 Workshop
+    meetingurl: https://indico.cern.ch/event/1488852/
+    location: Princeton, NJ, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Columnar Data Analysis."
+    date: 2025-07-23
+    url: https://indico.cern.ch/event/1568686/timetable/#41-columnar-data-analysis
+    meeting: Seventh Computational and Data Science school for HEP (CoDaS-HEP 2025)
+    meetingurl: https://indico.cern.ch/event/1568686/timetable/
+    location: Princeton, NJ, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Awkward Array: The Swiss Army Knife of Irregular Data (and Still a Little Awkward)."
+    date: 2025-07-14
+    url: https://indi.to/bVPVG
+    meeting: PyHEP.dev 2025
+    meetingurl: https://indico.cern.ch/event/1515852/
+    location: Seattle, WA, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Advancing High Energy Physics Data Analysis with Julia: A Case for JuliaHEP."
+    date: 2025-07-08
+    url: https://github.com/ianna/2025-SciPy-Advancing-High-Energy-Physics-Data-Analysis-with-Julia-A-Case-for-JuliaHEP/blob/main/poster/I.Osborne%20SciPy%202025%20poster.pdf
+    meeting: SciPy 2025
+    meetingurl: https://www.scipy2025.scipy.org/
+    location: Tacoma, WA, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Python for analysis (Scikit-HEP): an introduction to the Scikit-HEP ecosystem of tools, starting with Uproot and Awkward Array."
+    date: 2025-06-20
+    url: https://github.com/ianna/2025-06-20-hsf-iris-hep-uproot-awkward-tutorial
+    meeting: HSF/IRIS-HEP Software Basics Training at CERN (Hybrid)
+    meetingurl: https://indico.cern.ch/event/1516608/timetable/
+    location: CERN and virtual
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Columnar analysis and Awkward Array"
+    date: 2025-05-19
+    url: https://github.com/iris-hep/uscms-idap-training
+    meeting: USCMS/IRIS-HEP Analysis Software Training 2025
+    meetingurl: https://indico.cern.ch/event/1509580/
+    location: RICE University, Houston, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Navigating the Multilingual Landscape of Scientific Computing: Python, Julia, and Awkward Array"
+    date: 2024-10-24
+    url: https://indico.cern.ch/event/1338689/contributions/6010686/
+    meeting: CHEP 2024 - Conference on Computing in High Energy and Nuclear Physics
+    meetingurl: https://indico.cern.ch/event/1338689/
+    location: Kraków, Poland
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Power of Python and Julia for Advanced Data Analysis"
+    date: 2024-09-30
+    url: https://indico.cern.ch/event/1410341/contributions/6135605/
+    meeting: JuliaHEP 2024 workshop
+    meetingurl: https://indico.cern.ch/event/1410341/
+    location: CERN, Switzerland
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Bridging Python and Julia for Enhanced Data Analysis"
+    date: 2024-08-29
+    url: https://indi.to/3TxKJ
+    meeting: PyHEP.dev 2024 - "Python in HEP" Developer's Workshop
+    meetingurl: https://indico.cern.ch/event/1375573
+    location: Aachen, Germany
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Columnar Data Analysis"
+    date: 2024-07-24
+    url: https://github.com/ianna/2024-07-24-codas-hep-columnar-data-analysis
+    meeting: Sixth Computational and Data Science school for HEP (CoDaS-HEP 2024)
+    meetingurl: https://indico.cern.ch/event/1422680/timetable/
+    location: Princeton University
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "AwkwardArrays in Julia for High-Energy Physics Data Analysis"
     date: 2024-07-03
     url: https://indi.to/rMzSy
     meeting: PyHEP 2024 - "Python in HEP" Users Workshop
@@ -20,6 +130,17 @@ presentations:
       - as
     project:
       - awkward
+  - title: "Scientific Python with GPUs"
+    date: 2024-05-24
+    url: https://github.com/hsf-india-may2024/PythonGPU
+    meeting: "HSF-India HEP Software Workshop at the University of Delhi"
+    meetingurl: https://indico.cern.ch/event/1386725/
+    location: Delhi, India
+    focus-area:
+      - as
+    project:
+      - awkward
+      - scikit-hep
   - title: "Bridging Worlds: Achieving Language Interoperability between Julia and Python in Scientific Computing"
     date: 2024-03-11
     url: https://indi.to/7vNMH

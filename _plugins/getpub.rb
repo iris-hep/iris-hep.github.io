@@ -91,9 +91,10 @@ module Publications
       end
     end
 
-    # Setup a publication - adds/fixes focus-area and project
+    # Setup a publication - adds/fixes focus-area, challenge-area and project
     def prepare(pub, name)
       pub['focus-area'] ||= []
+      pub['challenge-area'] ||= []
       pub['project'] ||= []
       pub['filename'] = name
 
@@ -102,12 +103,25 @@ module Publications
       # Looks up focus areas from projects
       prepare_focus_area(pub, name) if pub['focus-area'].empty?
 
+      # Looks up challenge areas from projects
+      prepare_challenge_area(pub, name) if pub['challenge-area'].empty?
+
       # Make sure the focus-area is a list
       force_array(pub, 'focus-area')
+
+      # Make sure the challenge-area is a list
+      force_array(pub, 'challenge-area')
 
       # Make sure there is a focus-area
       msg = "Publication #{name} must contain a focus-area or project"
       raise StandardError, msg if pub['focus-area'].empty?
+
+      # Make sure there is a challenge-area
+      # msg = "Publication #{name} must contain a challenge-area or project"
+      # raise StandardError, msg if pub['challenge-area'].empty?
+      #
+      # Do we want to force every publication to have a challenge-area?
+      # What about puts that existed before the challenges?
     end
 
     # Setup a publication - ensures open-science-cat is valid
@@ -141,6 +155,22 @@ module Publications
 
       # Don't list the same focus area multiple times
       pub['focus-area'].uniq!
+    end
+
+    # Add challenge areas based on projects
+    def prepare_challenge_area(pub, name)
+      pub['project'].each do |p|
+        pg = @site.pages.detect { |page| page.data['shortname'] == p }
+        msg = "Project #{pub['project']} missing! Cannot find challenge-area for #{name}."
+        raise msg unless pg
+
+        new_fas = pg.data['challenge-area']
+        new_fas = [new_fas] if new_fas.is_a? String
+        pub['challenge-area'] += new_fas unless new_fas.nil?
+      end
+
+      # Don't list the same challenge area multiple times
+      pub['challenge-area'].uniq!
     end
 
     # Join the first N names, add et. all. if truncated
@@ -198,7 +228,7 @@ module Publications
       # Build the citation string (non-author part)
       j = data.dig('publication_info', 0) # This may be nil
       journal =
-        if j&.key?('journal_title') && j&.key?('year')
+        if j&.key?('journal_title') && j.key?('year')
           pub['needs-nsf-par'] = true unless pub.key?('needs-nsf-par')
           "#{j['journal_title']} #{j['journal_volume']} #{j['artid']} (#{j['year']})"
         elsif data.key? 'arxiv_eprints'
