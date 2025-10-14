@@ -1,4 +1,4 @@
-active: true
+active: false
 e-mail: tomohiro.yamazaki@cern.ch
 focus-area:
   - ia
@@ -13,6 +13,7 @@ presentations:
     meeting: ACTS Developer Workshop 2023
     url: https://indico.cern.ch/event/1295479/contributions/5635020/
     meetingurl: https://indico.cern.ch/event/1295479/
+    focus-area: ia
     project: acts
     location: CERN
   - title: ACTS GSF with ITk
@@ -20,6 +21,7 @@ presentations:
     meeting: ATLAS Upgrade Tracking Meeting
     url: https://indico.cern.ch/event/1372820/contributions/5779153/
     meetingurl: https://indico.cern.ch/event/1372820/contributions/5779153/
+    focus-area: ia
     project: acts
     location: CERN
   - title: ACTS GSF with ITk
@@ -27,6 +29,7 @@ presentations:
     meeting: ATLAS Upgrade Tracking Meeting
     url: https://indico.cern.ch/event/1380090/contributions/5803392/
     meetingurl: https://indico.cern.ch/event/1380090/
+    focus-area: ia
     project: acts
     location: CERN
   - title: ACTS GSF with ITk
@@ -34,6 +37,7 @@ presentations:
     meeting: ATLAS Upgrade Tracking Meeting
     url: https://indico.cern.ch/event/1401926/contributions/5901574/
     meetingurl: https://indico.cern.ch/event/1401926/
+    focus-area: ia
     project: acts
     location: CERN
   - title: ACTS-ITk Status
@@ -41,5 +45,6 @@ presentations:
     meeting: ATLAS Upgrade Tracking Meeting
     url: https://indico.cern.ch/event/1406571/contributions/5956400/
     meetingurl: https://indico.cern.ch/event/1406571/
+    focus-area: ia
     project: acts
     location: CERN
