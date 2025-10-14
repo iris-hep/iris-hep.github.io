@@ -13,6 +13,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1044816/contributions/4411271/
     meetingurl: https://indico.cern.ch/event/1044816/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Update on pixel clustering with ACTS
@@ -20,6 +21,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1044821/contributions/4452223/
     meetingurl: https://indico.cern.ch/event/1044821/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Machine Learning for Track Reconstruction at the LHC
@@ -27,6 +29,7 @@ presentations:
     meeting: AI4EIC-Exp Workshop
     url: https://indico.bnl.gov/event/10699/contributions/51456/
     meetingurl: https://indico.bnl.gov/event/10699
+    focus-area: ia
     project: acts
     location: BNL
   - title: Update on pixel clustering
@@ -34,6 +37,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1127124/contributions/4770399/
     meetingurl: https://indico.cern.ch/event/1127124/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Updates on ACTS clusterization
@@ -41,6 +45,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1127125/contributions/4794279/
     meetingurl: https://indico.cern.ch/event/1127125/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Update on ITk Pixel Clusterization with ACTS
@@ -48,6 +53,7 @@ presentations:
     meeting: ATLAS Upgrade Tracking meeting
     url: https://indico.cern.ch/event/1198382/contributions/5038393/
     meetingurl: https://indico.cern.ch/event/1198382/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Update on ITk Clusterization with ACTS
@@ -55,6 +61,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1198333/contributions/5038272/
     meetingurl: https://indico.cern.ch/event/1198333/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Update on ITk Strip Clusterization with ACTS
@@ -62,6 +69,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1202448/contributions/5056728/
     meetingurl: https://indico.cern.ch/event/1202448/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Update on ITk Strip Clusterization with ACTS
@@ -69,6 +77,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1212871/contributions/5101649/
     meetingurl: https://indico.cern.ch/event/1212871/
+    focus-area: ia
     project: acts
     location: CERN
   - title: ACTS clusterization and status update
@@ -76,6 +85,7 @@ presentations:
     meeting: ATLAS Inner Tracking CP Plenary
     url: https://indico.cern.ch/event/1212754/contributions/5127254/
     meetingurl: https://indico.cern.ch/event/1212754/
+    focus-area: ia
     project: acts
     location: CERN
   - title: On-the-fly measurement calibration with ACTS
@@ -83,6 +93,7 @@ presentations:
     meeting: Connecting The Dots 2023
     url: https://indico.cern.ch/event/1252748/contributions/5521480/
     meetingurl: https://indico.cern.ch/event/1252748/
+    focus-area: ia
     project: acts
     location: Toulouse, France
   - title: Neural-network measurement calibration
@@ -90,6 +101,7 @@ presentations:
     meeting: ACTS Developer Workshop 2023
     url: https://indico.cern.ch/event/1295479/contributions/5616094/
     meetingurl: https://indico.cern.ch/event/1295479/contributions/
+    focus-area: ia
     project: acts
     location: Orsay, France
   - title: Update on pixel measurement calibration in ACTS-ITk
@@ -97,6 +109,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1354978/contributions/5863583/
     meetingurl: https://indico.cern.ch/event/1354978/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Discussion on calibration
@@ -104,6 +117,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1354990/contributions/5992166/
     meetingurl: https://indico.cern.ch/event/1354990/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Performance Case Study on Charge Clusterization
@@ -111,6 +125,7 @@ presentations:
     meeting: CoDAS-HEP 2024
     url: https://indico.cern.ch/event/1422680/contributions/6029252/
     meetingurl: https://indico.cern.ch/event/1422680/
+    focus-area: ia
     project: acts
     location: Princeton, USA
   - title: "Focus Area Talk: Innovative Algorithms"
@@ -118,6 +133,7 @@ presentations:
     meeting: IRIS-HEP Retreat 2024
     url: https://indico.cern.ch/event/1374962/contributions/5778772/
     meetingurl: https://indico.cern.ch/event/1374962/
+    focus-area: ia
     project: acts
     location: Seattle, USA
   - title: Hybrid ML/KF algorithm(s)
@@ -125,6 +141,7 @@ presentations:
     meeting: IRIS-HEP Retreat 2024
     url: https://docs.google.com/presentation/d/1MYl_zBfGq7kGjmwfvFYa5c3VRFD0VTydTWZFe67zVVE/edit#slide=id.g2fbff64a74d_17_0
     meetingurl: https://indico.cern.ch/event/1374962/
+    focus-area: ia
     project: acts
     location: Seattle, USA
   - title: Cluster splitting
@@ -132,6 +149,7 @@ presentations:
     meeting: ACTS-ITk meeting
     url: https://indico.cern.ch/event/1455682/contributions/6146361/
     meetingurl: https://indico.cern.ch/event/1455682/
+    focus-area: ia
     project: acts
     location: CERN
   - title: Cluster formation, calibration, & splitting
@@ -139,6 +157,7 @@ presentations:
     meeting: ACTS Developers Workshop 2024
     url: https://indico.cern.ch/event/1397634/contributions/6204266/
     meetingurl: https://indico.cern.ch/event/1397634/
+    focus-area: ia
     project: acts
     location: Bogis-Bossey, Switzerland
   - title: Innovative Algorithms Deep Dive
@@ -146,6 +165,7 @@ presentations:
     meeting: NSF / IRIS-HEP Meeting
     url: https://indico.cern.ch/event/1534486/contributions/6456708/
     meetingurl: https://indico.cern.ch/event/1534486/
+    focus-area: ia
     project: acts
     location: Zoom
   - title: The ATLAS Computing Pipeline
