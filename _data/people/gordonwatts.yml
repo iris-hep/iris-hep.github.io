@@ -517,3 +517,21 @@ presentations:
       - servicex
       - awkward
     location: Ljubljana, Slovenia
+  - title: "AMG - Looking Forward"
+    date: 2025-10-14
+    url: https://indico.cern.ch/event/1479317/contributions/6616523/
+    meetingurl: https://indico.cern.ch/event/1479317/
+    meeting: "ATLAS Week"
+    project:
+      - servicex
+      - llm
+      - awkward
+    location: CERN
+  - title: "Vibe Plotting - Using LLM's to make physics analysis plots"
+    date: 2025-10-20
+    url: https://indico.cern.ch/event/1594700/abstracts/197206/
+    meetingurl: https://indico.cern.ch/event/1594700
+    meeting: "AI for Scientific Writing and Coding Assistants"
+    project:
+      - llm
+    location: CERN
