@@ -76,7 +76,7 @@ Please note the following:
 #### [Coordinated Ecosystem for HEP Software and Computing Blueprint Workshop](https://indico.cern.ch/event/1580520/)
   * Location: Washington DC
   * Meeting Dates: 3-5 December, 2025
-  * Business purpose: Participation in Coordinated Ecosystem blueprint workshop
+  * Business purpose: Participation in Coordinated Ecosystem Blueprint Workshop
   * "event-prefix" for pdf file naming: Coordinated-Ecosystem-2025
 
 #### [Connecting the Dots 2025 Workshop](https://indico.cern.ch/event/1499357/)
