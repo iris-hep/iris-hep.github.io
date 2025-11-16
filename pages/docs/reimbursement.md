@@ -73,6 +73,12 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [Coordinated Ecosystem for HEP Software and Computing Blueprint Workshop](https://indico.cern.ch/event/1580520/)
+  * Location: Washington DC
+  * Meeting Dates: 3-5 December, 2025
+  * Business purpose: Participation in Coordinated Ecosystem blueprint workshop
+  * "event-prefix" for pdf file naming: Coordinated-Ecosystem-2025
+
 #### [Connecting the Dots 2025 Workshop](https://indico.cern.ch/event/1499357/)
   * Location: Tokyo, Japan
   * Meeting Dates: 10-14 November, 2025
@@ -85,6 +91,7 @@ Please note the following:
   * Business purpose: Participation in IRIS-HEP 2025 Retreat
   * "event-prefix" for pdf file naming: IRIS-HEP-Retreat
 
+<!--
 #### [JuliaHEP 2025 Workshop](https://indico.cern.ch/event/1488852/)
   * Location: Princeton, NJ
   * Meeting Dates: 28-31 July, 2025
@@ -97,7 +104,6 @@ Please note the following:
   * Business purpose: Participation in CoDaS-HEP 2025 Summer School
   * "event-prefix" for pdf file naming: CoDaS-HEP
 
-<!--
 #### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1496325/)
   * Location: Ann Arbor, MI
   * Meeting Dates: 24-25 July, 2025
