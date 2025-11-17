@@ -9,40 +9,36 @@ shortname: ArturU043
 title: Postdoctoral scholar
 website:
 presentations:
-
-
- - title: "Using ServiceX for ATLAS OpenData"
-    date: 2025-11-13
-    url: https://indico.cern.ch/event/1608413/contributions/6777378/
-    meeting: ATLAS Open Data Meeting
-    meetingurl: https://indico.cern.ch/event/1608413
-    location: CERN, Switzerland
-    focus-area:
-      - doma
-      - as
-    project:
-      - servicex
-
-  - title: "ServiceX: Streamlining Data Delivery and Transformation for HL-LHC Analyses"
-    date: 2025-09-10
-    url: https://indico.cern.ch/event/1488410/contributions/6562839/
-    meeting: ACAT2025 Workshop
-    meetingurl: https://indico.cern.ch/event/1488410/
-    location: Hamburg, Germany
-    focus-area:
-      - doma
-      - as
-    project:
-      - servicex
-
-  - title: "IRIS-HEP ServiceX Tutorial"
-    date: 2025-07-25
-    url: https://github.com/iris-hep/us-atlas-idap-training-2025/blob/main/servicex/servicex_tutorial.ipynb
-    meeting: US ATLAS / IRIS-HEP Analysis Software Training Event 2025
-    meetingurl: https://indico.cern.ch/event/1496325/
-    location: University of Michigan
-    focus-area:
-      - doma
-      - as
-    project:
-      - servicex
+- title: "Using ServiceX for ATLAS OpenData"
+  date: 2025-11-13
+  url: https://indico.cern.ch/event/1608413/contributions/6777378/
+  meeting: ATLAS Open Data Meeting
+  meetingurl: https://indico.cern.ch/event/1608413
+  location: CERN, Switzerland
+  focus-area:
+    - doma
+    - as
+  project:
+    - servicex
+- title: "ServiceX: Streamlining Data Delivery and Transformation for HL-LHC Analyses"
+  date: 2025-09-10
+  url: https://indico.cern.ch/event/1488410/contributions/6562839/
+  meeting: ACAT2025 Workshop
+  meetingurl: https://indico.cern.ch/event/1488410/
+  location: Hamburg, Germany
+  focus-area:
+    - doma
+    - as
+  project:
+    - servicex
+- title: "IRIS-HEP ServiceX Tutorial"
+  date: 2025-07-25
+  url: https://github.com/iris-hep/us-atlas-idap-training-2025/blob/main/servicex/servicex_tutorial.ipynb
+  meeting: US ATLAS / IRIS-HEP Analysis Software Training Event 2025
+  meetingurl: https://indico.cern.ch/event/1496325/
+  location: University of Michigan
+  focus-area:
+    - doma
+    - as
+  project:
+    - servicex
