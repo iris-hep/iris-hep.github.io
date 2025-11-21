@@ -29,7 +29,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - name: Prepare to build site
         uses: ./.github/actions/prepare-build-site
