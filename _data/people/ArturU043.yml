@@ -9,6 +9,17 @@ shortname: ArturU043
 title: Postdoctoral scholar
 website:
 presentations:
+  - title: "Using ServiceX for ATLAS OpenData"
+    date: 2025-11-13
+    url: https://indico.cern.ch/event/1608413/contributions/6777378/
+    meeting: Open Data Meeting, ATLAS Internal
+    meetingurl: https://indico.cern.ch/event/1608413
+    location: CERN, Switzerland
+    focus-area:
+      - doma
+      - as
+    project:
+      - servicex
   - title: "ServiceX: Streamlining Data Delivery and Transformation for HL-LHC Analyses"
     date: 2025-09-10
     url: https://indico.cern.ch/event/1488410/contributions/6562839/
@@ -20,7 +31,6 @@ presentations:
       - as
     project:
       - servicex
-
   - title: "IRIS-HEP ServiceX Tutorial"
     date: 2025-07-25
     url: https://github.com/iris-hep/us-atlas-idap-training-2025/blob/main/servicex/servicex_tutorial.ipynb
