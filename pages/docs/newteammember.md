@@ -44,7 +44,7 @@ presentations:
 #### Communication
 
 * Have an existing team member add your email address to the [IRIS-HEP Slack][] team.
-* Subscribe to the relevant [Google mailing lists][], at the very least "IRIS-HEP Full Team" and "IRIS-HEP Announcements".
+* Subscribe to the relevant [mailing lists][], at the very least "IRIS-HEP Full Team" and "IRIS-HEP Announcements".
 
 #### Presentations
 
@@ -56,5 +56,5 @@ If you don't have any presentations yet, you can leave presentations blank. For 
 [people]:                       https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/people
 [university file]:              https://github.com/iris-hep/iris-hep.github.io/tree/master/_data/universities
 [IRIS-HEP Slack]:               https://iris-hep.slack.com
-[Google mailing lists]:         https://groups.google.com/a/iris-hep.org
+[mailing lists]:                https://iris-hep.org/contact.html
 [presentation]:                 https://iris-hep.org/docs/add_presentation.html
