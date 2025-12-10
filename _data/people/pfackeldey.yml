@@ -51,7 +51,7 @@ presentations:
     project:
       - dask
       - dask-awkward
- - title: "State of the Awkward Ecosystem"
+  - title: "State of the Awkward Ecosystem"
     date: 2025-02-11
     url: https://indico.cern.ch/event/1507431/#3-state-of-the-awkward-ecosyst
     meeting: AS Biweekly Meeting
@@ -61,7 +61,7 @@ presentations:
       - as
     project:
       - awkward
- - title: "evermore: A Detailed Preview"
+  - title: "evermore: A Detailed Preview"
     date: 2025-11-18
     url: https://indico.cern.ch/event/1507451/#1-introduction-presentations
     meeting: AS Biweekly Meeting
@@ -72,7 +72,7 @@ presentations:
     project:
       - evermore
       - JAX
- - title: "Accelerating binned  Likelihood fits in HEP  with JAX"
+  - title: "Accelerating binned Likelihood fits in HEP with JAX"
     date: 2025-07-14
     url: https://indico.cern.ch/event/1515852/contributions/6597236/
     meeting: PyHEP.dev 2025
