@@ -18,3 +18,172 @@ presentations:
       - as
     project:
       - awkward
+  - title: "Dask ecosystem in HEP"
+    date: 2025-10-14
+    url: https://indico.cern.ch/event/1590892/#3-dask-ecosystem-in-hep
+    meeting: US CMS Analysis Facility Meeting
+    meetingurl: https://indico.cern.ch/event/1590892/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - dask
+      - dask-awkward
+  - title: "Dask-Awkward Risk Assessment"
+    date: 2025-07-01
+    url: https://indico.cern.ch/event/1507441/#1-dask-awkward-risk-assessment
+    meeting: AS Biweekly Meeting
+    meetingurl: https://indico.cern.ch/event/1507441/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - dask
+      - dask-awkward
+  - title: "Dask-Awkward"
+    date: 2025-05-06
+    url: https://indico.cern.ch/event/1507437/#3-dask-awkward
+    meeting: AS Biweekly Meeting
+    meetingurl: https://indico.cern.ch/event/1507437/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - dask
+      - dask-awkward
+ - title: "State of the Awkward Ecosystem"
+    date: 2025-02-11
+    url: https://indico.cern.ch/event/1507431/#3-state-of-the-awkward-ecosyst
+    meeting: AS Biweekly Meeting
+    meetingurl: https://indico.cern.ch/event/1507431/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - awkward
+ - title: "evermore: A Detailed Preview"
+    date: 2025-11-18
+    url: https://indico.cern.ch/event/1507451/#1-introduction-presentations
+    meeting: AS Biweekly Meeting
+    meetingurl: https://indico.cern.ch/event/1507451/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - evermore
+      - JAX
+ - title: "Accelerating binned  Likelihood fits in HEP  with JAX"
+    date: 2025-07-14
+    url: https://indico.cern.ch/event/1515852/contributions/6597236/
+    meeting: PyHEP.dev 2025
+    meetingurl: https://indico.cern.ch/event/1515852/
+    location: Seattle
+    focus-area:
+      - as
+    project:
+      - evermore
+      - JAX
+  - title: "evermore: differentiable binned likelihoods in JAX"
+    date: 2025-10-28
+    url: https://indico.cern.ch/event/1566263/timetable/#23-evermore-differentiable-bin
+    meeting: PyHEP 2025 - Python in HEP Users Workshop
+    meetingurl: https://indico.cern.ch/event/1566263/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - evermore
+      - JAX
+  - title: "Recent developments in the Awkward Array world"
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562885/
+    meeting: ACAT 2025
+    meetingurl: https://indico.cern.ch/event/1488410/
+    location: Hamburg
+    focus-area:
+      - as
+    project:
+      - awkward
+      - uproot
+      - coffea
+  - title: "Thinking in Arrays"
+    date: 2025-07-07
+    url: https://www.scipy2025.scipy.org/schedule#tutorials
+    meeting: SciPy 2025
+    meetingurl: https://www.scipy2025.scipy.org
+    location: Tacoma
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Scientific Python"
+    date: 2025-11-27
+    url: https://indico.cern.ch/event/1580062/contributions/6659487/
+    meeting: HSF-India Guwahati 2025
+    meetingurl: https://indico.cern.ch/event/1580062/
+    location: Guwahati
+    focus-area:
+      - as
+    project:
+      - awkward
+      - Numba
+      - JAX
+  - title: "Scientific Python"
+    date: 2025-07-21
+    url: https://indico.cern.ch/event/1568686/contributions/6608230/
+    meeting: Seventh Computational and Data Science school for HEP (CoDaS-HEP 2025)
+    meetingurl: https://indico.cern.ch/event/1568686/
+    location: Princeton
+    focus-area:
+      - as
+    project:
+      - awkward
+      - Numba
+      - JAX
+  - title: "awkward, dask-awkward and analysis between coffea 0.7 and coffea 2025"
+    date: 2025-02-14
+    url: https://indico.cern.ch/event/1487508/#2-awkward-dask-awkward-and-ana
+    meeting: IRIS-HEP / AGC Demo Day 7
+    meetingurl: https://indico.cern.ch/event/1487508/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - awkward
+      - dask-awkward
+      - coffea
+  - title: "Sparse Histograms in Rust"
+    date: 2024-11-01
+    url: https://indico.cern.ch/event/1457904/#3-sparse-histograms-in-rust
+    meeting: IRIS-HEP / AGC Demo Day 6
+    meetingurl: https://indico.cern.ch/event/1457904/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - hist
+      - boost-histogram
+      - Rust
+  - title: "Named axis in awkward-array"
+    date: 2024-11-01
+    url: https://indico.cern.ch/event/1457904/#5-named-axes-in-awkward-array
+    meeting: IRIS-HEP / AGC Demo Day 6
+    meetingurl: https://indico.cern.ch/event/1457904/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Latest developments in uproot, awkward-array and coffea"
+    date: 2024-11-18
+    url: https://indico.cern.ch/event/1445287/contributions/6226034/
+    meeting: 5th CAT Hackathon
+    meetingurl: https://indico.cern.ch/event/1445287/
+    location: DESY (Hamburg)
+    focus-area:
+      - as
+    project:
+      - awkward
+      - uproot
+      - dask-awkward
+      - coffea
