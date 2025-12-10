@@ -24,8 +24,7 @@ For seven years now, the flagship program has promoted the development of advanc
     file="/assets/images/posts/2025-12-09-fellows-program-feature-image2.png"
     alt="IRIS-HEP Fellows Program infographic highlighting key metrics: 167 Fellows from 2019–2025, 173 Mentors supporting software R&D projects, and a global network of 85 partner institutions across three continents—43 in the US & Canada and 42 in Europe & India."
     caption=""
-    img-style="width: 750px"
-    figure-style="width: min-content"
+    img-style="max-width: 100%;height: auto"
     class="center"
 %}
 
