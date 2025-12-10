@@ -27,8 +27,7 @@ presentations:
     focus-area:
       - as
     project:
-      - dask
-      - dask-awkward
+      - awkward-dask
   - title: "Dask-Awkward Risk Assessment"
     date: 2025-07-01
     url: https://indico.cern.ch/event/1507441/#1-dask-awkward-risk-assessment
@@ -38,8 +37,7 @@ presentations:
     focus-area:
       - as
     project:
-      - dask
-      - dask-awkward
+      - awkward-dask
   - title: "Dask-Awkward"
     date: 2025-05-06
     url: https://indico.cern.ch/event/1507437/#3-dask-awkward
@@ -49,8 +47,7 @@ presentations:
     focus-area:
       - as
     project:
-      - dask
-      - dask-awkward
+      - awkward-dask
   - title: "State of the Awkward Ecosystem"
     date: 2025-02-11
     url: https://indico.cern.ch/event/1507431/#3-state-of-the-awkward-ecosyst
@@ -70,8 +67,6 @@ presentations:
     focus-area:
       - as
     project:
-      - evermore
-      - JAX
   - title: "Accelerating binned Likelihood fits in HEP with JAX"
     date: 2025-07-14
     url: https://indico.cern.ch/event/1515852/contributions/6597236/
@@ -81,8 +76,6 @@ presentations:
     focus-area:
       - as
     project:
-      - evermore
-      - JAX
   - title: "evermore: differentiable binned likelihoods in JAX"
     date: 2025-10-28
     url: https://indico.cern.ch/event/1566263/timetable/#23-evermore-differentiable-bin
@@ -92,8 +85,6 @@ presentations:
     focus-area:
       - as
     project:
-      - evermore
-      - JAX
   - title: "Recent developments in the Awkward Array world"
     date: 2025-09-08
     url: https://indico.cern.ch/event/1488410/contributions/6562885/
@@ -105,7 +96,6 @@ presentations:
     project:
       - awkward
       - uproot
-      - coffea
   - title: "Thinking in Arrays"
     date: 2025-07-07
     url: https://www.scipy2025.scipy.org/schedule#tutorials
@@ -126,8 +116,6 @@ presentations:
       - as
     project:
       - awkward
-      - Numba
-      - JAX
   - title: "Scientific Python"
     date: 2025-07-21
     url: https://indico.cern.ch/event/1568686/contributions/6608230/
@@ -138,8 +126,6 @@ presentations:
       - as
     project:
       - awkward
-      - Numba
-      - JAX
   - title: "awkward, dask-awkward and analysis between coffea 0.7 and coffea 2025"
     date: 2025-02-14
     url: https://indico.cern.ch/event/1487508/#2-awkward-dask-awkward-and-ana
@@ -150,8 +136,7 @@ presentations:
       - as
     project:
       - awkward
-      - dask-awkward
-      - coffea
+      - awkward-dask
   - title: "Sparse Histograms in Rust"
     date: 2024-11-01
     url: https://indico.cern.ch/event/1457904/#3-sparse-histograms-in-rust
@@ -161,9 +146,7 @@ presentations:
     focus-area:
       - as
     project:
-      - hist
-      - boost-histogram
-      - Rust
+      - histogram
   - title: "Named axis in awkward-array"
     date: 2024-11-01
     url: https://indico.cern.ch/event/1457904/#5-named-axes-in-awkward-array
@@ -185,5 +168,4 @@ presentations:
     project:
       - awkward
       - uproot
-      - dask-awkward
-      - coffea
+      - awkward-dask
