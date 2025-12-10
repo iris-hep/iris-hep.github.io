@@ -46,8 +46,7 @@ Initially, the program mentors provide candidate students with a problem stateme
     file="/assets/images/posts/2025-12-09-fellows-program-feature-image1.jpg"
     alt="A simple diagram to show what track reconstruction means in general"
     caption="A simple diagram to show what track reconstruction means in general. Credit: ATLAS Experiment"
-    img-style="width: 600px"
-    figure-style="width: min-content"
+    img-style="max-width: 100%;height: auto"
     class="mx-3"
 %}
 
