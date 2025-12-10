@@ -40,7 +40,7 @@ Initially, the program mentors provide candidate students with a problem stateme
 “A key component is workforce development,” says Watts. “We expose undergraduates to a modern research environment and we hope they learn not only how to address research problems, but also how to work with other researchers using modern software practices. We try to bake in best practices from the start, and all of this attempts to systematically guide the students in their training.”
 
 ## Creating a Coterie of Coders
-<div class="d-flex justify-content-center">
+<div class="d-flex flex-column flex-lg-row justify-content-center align-items-center">
 
 {% include figure.html
     file="/assets/images/posts/2025-12-09-fellows-program-feature-image1.jpg"
