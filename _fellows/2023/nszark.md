@@ -35,4 +35,5 @@ current_status: >
 github-username: nszark
 linkedin-profile: https://www.linkedin.com/in/nazarsemkiv/
 funding-source: other
+ukraine: true
 ---

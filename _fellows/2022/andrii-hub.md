@@ -37,4 +37,5 @@ linkedin-profile: https://www.linkedin.com/in/andrii-koval-677347223/
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---

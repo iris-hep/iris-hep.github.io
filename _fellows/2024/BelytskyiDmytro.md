@@ -47,4 +47,5 @@ presentations:
 current_status:
 github-username: Dmitriy-Belitskiy
 funding-source: impress-u
+ukraine: true
 ---

@@ -27,4 +27,5 @@ current_status:
 github-username: pingmar
 linkedin-profile: https://www.linkedin.com/in/petrov-roman/
 funding-source: other
+ukraine: true
 ---

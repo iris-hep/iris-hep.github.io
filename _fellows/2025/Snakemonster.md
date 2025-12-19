@@ -24,4 +24,5 @@ current_status:
 github-username: Snakemonster
 linkedin-profile: https://www.linkedin.com/in/mykyta-platonov-0ab594240/
 funding-source: other
+ukraine: true
 ---

@@ -41,4 +41,5 @@ current_status: # >
 github-username: VladyslavYankovskyi
 # linkedin-profile: <Your LinkedIn Profile url>
 funding-source: impress-u
+ukraine: true
 ---

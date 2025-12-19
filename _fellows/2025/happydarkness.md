@@ -23,4 +23,5 @@ current_status:
 github-username: happydarkness
 linkedin-profile:
 funding-source: other
+ukraine: true
 ---

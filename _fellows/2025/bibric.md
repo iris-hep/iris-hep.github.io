@@ -35,4 +35,5 @@ current_status: >
 github-username: "bibric"
 linkedin-profile:
 funding-source: impress-u
+ukraine: true
 ---

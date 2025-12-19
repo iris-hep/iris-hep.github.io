@@ -65,4 +65,5 @@ presentations:
 current_status: ""
 github-username: "Andreylen"
 funding-source: impress-u
+ukraine: true
 ---

@@ -90,4 +90,5 @@ linkedin-profile: https://www.linkedin.com/in/maxym-naumchyk-3b3bb31aa/
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---
