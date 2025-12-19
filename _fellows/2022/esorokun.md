@@ -67,4 +67,5 @@ github-username: esorokun
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---

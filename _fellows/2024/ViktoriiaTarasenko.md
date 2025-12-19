@@ -27,4 +27,5 @@ current_status:
 github-username: viknsky360
 linkedin-profile: https://www.linkedin.com/in/viktoria-tarasenko-742379277/
 funding-source: other
+ukraine: true
 ---

@@ -28,4 +28,5 @@ github-username: wisstock
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---

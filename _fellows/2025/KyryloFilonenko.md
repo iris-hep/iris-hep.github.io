@@ -33,4 +33,5 @@ current_status: >
 github-username: "KyryloFilonenko"
 linkedin-profile:
 funding-source: impress-u
+ukraine: true
 ---

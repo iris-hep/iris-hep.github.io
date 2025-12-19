@@ -37,4 +37,5 @@ current_status: >
 github-username: Lukka777
 linkedin-profile:
 funding-source: impress-u
+ukraine: true
 ---

@@ -38,4 +38,5 @@ github-username: LeFruite
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---

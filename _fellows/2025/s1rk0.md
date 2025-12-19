@@ -32,4 +32,5 @@ presentations:
 current_status: >
 github-username: "s1rk0"
 linkedin-profile:
+ukraine: true
 ---
