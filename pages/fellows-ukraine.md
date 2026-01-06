@@ -1,7 +1,7 @@
 ---
 permalink: /fellows-ukraine.html
 layout: default
-title: IRIS/HEP Ukrainian Fellows 
+title: IRIS/HEP Ukrainian Fellows
 ---
 
 # IRIS/HEP Ukrainian Fellows (IMPRESS-U and/or other funding)
