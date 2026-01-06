@@ -1,11 +1,12 @@
 ---
+hidden: True
 layout: fellow
 pagetype: fellow
 shortname: santiago-ampudia
 permalink: /fellows/santiago-ampudia.html
 fellow-name: "Santiago Ampudia Castelazo"
 title: "Santiago Ampudia Castelazo - IRIS-HEP Fellow"
-active: True
+active: False
 dates:
   start: 2025-06-23
   end: 2025-09-12
