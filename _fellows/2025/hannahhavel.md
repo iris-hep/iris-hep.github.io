@@ -5,7 +5,7 @@ shortname: hannahhavel
 permalink: /fellows/hannahhavel.html
 fellow-name: Hannah Havel
 title: Hannah Havel - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-06-23
   end: 2025-09-15

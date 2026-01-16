@@ -5,7 +5,7 @@ shortname: Avtawker
 permalink: "/fellows/Avtawker.html"
 fellow-name: Arvind Tawker
 title: "Arvind Tawker- IRIS-HEP Fellow"
-active: True
+active: False
 dates:
   start: 2025-07-03
   end: 2025-09-25
