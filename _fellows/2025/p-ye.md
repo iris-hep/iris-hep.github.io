@@ -5,7 +5,7 @@ shortname: p-ye
 permalink: /fellows/p-ye.html
 fellow-name: Peilin Ye
 title: Peilin Ye - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-05-12
   end: 2025-08-03

@@ -5,7 +5,7 @@ shortname: happydarkness
 permalink: /fellows/happydarkness.html
 fellow-name: Andrii Anataichuk
 title: Andrii Anataichuk - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-06-02
   end: 2025-08-24

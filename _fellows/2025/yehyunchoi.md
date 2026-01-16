@@ -5,7 +5,7 @@ shortname: dbizdfvy
 permalink: /fellows/dbizdfvy.html
 fellow-name: Yehyun Choi
 title: Yehyun Choi - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-06-01
   end: 2025-08-23

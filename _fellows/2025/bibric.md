@@ -5,7 +5,7 @@ shortname: bibric
 permalink: "/fellows/bibric.html"
 fellow-name: "Danylo Kulakov"
 title: "Danylo Kulakov- IRIS-HEP Fellow"
-active: True
+active: False
 dates:
   start: 2025-07-01
   end: 2025-09-23
