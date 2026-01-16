@@ -5,7 +5,7 @@ shortname: YuriiPerets
 permalink: /fellows/YuriiPerets.html
 fellow-name: "Yurii Perets"
 title: "Yurii Perets - IRIS-HEP Fellow"
-active: true
+active: False
 
 dates:
   - start: 2024-07-01

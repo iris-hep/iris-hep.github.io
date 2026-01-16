@@ -5,7 +5,7 @@ shortname: Dmitriy-Belitskiy
 permalink: /fellows/Dmitriy-Belitskiy.html
 fellow-name: Dmytro Belytskyi
 title: Dmytro Belytskyi - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   - start: 2024-06-03
     end: 2024-08-21

@@ -5,7 +5,7 @@ shortname: ivanandriievskyi
 permalink: "/fellows/ivanandriievskyi.html"
 fellow-name: "Ivan Andriievskyi"
 title: "Ivan Andriievskyi - IRIS-HEP Fellow"
-active: True
+active: False
 dates:
   start: 2025-07-01
   end: 2025-09-23

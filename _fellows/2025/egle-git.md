@@ -5,7 +5,7 @@ shortname: 181456498
 permalink: /fellows/181456498.html
 fellow-name: Eglė Lenkaitytė
 title: Eglė Lenkaitytė - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-07-01
   end: 2025-09-19

@@ -5,7 +5,7 @@ shortname: dbontr
 permalink: /fellows/dbontr.html
 fellow-name: Devon Bontrager
 title: Devon Bontrager - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-05-19
   end: 2025-08-25

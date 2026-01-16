@@ -5,7 +5,7 @@ shortname: dlai211
 permalink: "/fellows/dlai211.html"
 fellow-name: "Jianan (David) Lai"
 title: "Jianan (David) Lai - IRIS-HEP Fellow"
-active: True
+active: False
 dates:
   start: 2025-06-09
   end: 2025-08-16

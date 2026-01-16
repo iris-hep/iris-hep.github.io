@@ -5,7 +5,7 @@ shortname: VladyslavYankovskyi
 permalink: /fellows/VladyslavYankovskyi.html
 fellow-name: Vladyslav Yankovskyi
 title: Vladyslav Yankovskyi - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   - start: 2024-07-01
     end: 2024-09-23

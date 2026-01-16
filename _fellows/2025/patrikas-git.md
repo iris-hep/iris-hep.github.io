@@ -5,7 +5,7 @@ shortname: 219868151
 permalink: /fellows/219868151.html
 fellow-name: Patrikas Styra
 title: Patrikas Styra - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-07-01
   end: 2025-09-19
