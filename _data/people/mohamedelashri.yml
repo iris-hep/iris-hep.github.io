@@ -9,6 +9,17 @@ title:
 website: https://melashri.net/
 presentations:
   - title: Challenges Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb GPU-Resident HLT1
+    date: 2025-11-11
+    url: https://indico.cern.ch/event/1499357/contributions/6622084/attachments/3171051/5637501/PVFinder_CTD_Tokyo_2025_poster.pdf
+    meeting: Connecting The Dots 2025
+    meetingurl: https://indico.cern.ch/event/1499357
+    location: tokyo
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+
+  - title: Challenges Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb GPU-Resident HLT1
     date: 2025-05-22
     url: https://indico.cern.ch/event/1502120/contributions/6505987/attachments/3073274/5437821/IML_2025_workshop_PVFinder_MElashri.pdf
     meeting: 7th Inter-Experimental LHC Machine Learning Workshop
