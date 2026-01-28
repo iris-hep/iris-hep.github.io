@@ -26,6 +26,10 @@ module Publications
     def generate(site)
       @net = Net::HTTP.new('inspirehep.net', 443)
       @net.use_ssl = true
+      # Use a cert store without CRL checking (CRL checks can fail due to network/firewall issues)
+      store = OpenSSL::X509::Store.new
+      store.set_default_paths
+      @net.cert_store = store
 
       @site = site
 
