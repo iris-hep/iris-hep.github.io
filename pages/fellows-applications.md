@@ -32,7 +32,7 @@ source research software projects? Then the IRIS-HEP Fellows program could be fo
 During the Fellowship, you will work with your mentor and likely other collaborators using Slack, Zoom, GitHub and other similar tools. You will also make a short
 presentation about your project to other Fellows and Mentors as you start your Fellowship, another midway through the project to show your progress and a final presentation about your results at the very end. You will also have an opportunity to attend [training activities](https://hepsoftwarefoundation.org/training/curriculum.html) to help you improve specific software skills.
 
-**Fellows projects:** A number of possible projects (and mentors) for summer 2025 are listed on the [Fellows Projects](http://research-software-collaborations.org/projects_irishep) webpage. You can mention particular projects/mentors which interest you in your application. We also create new projects or adapt existing ones based on the interests of Fellow applicants. These can come from any of the R&D areas of interest to IRIS-HEP.
+**Fellows projects:** A number of possible projects (and mentors) for summer 2026 are listed on the [Fellows Projects](http://research-software-collaborations.org/projects_irishep) webpage. You can mention particular projects/mentors which interest you in your application. We also create new projects or adapt existing ones based on the interests of Fellow applicants. These can come from any of the R&D areas of interest to IRIS-HEP.
 
 **Which R&D areas are relevant for IRIS-HEP?** - We are particularly interested in software R&D areas where IRIS-HEP personnel are active, but may also consider proposals for other software R&D topics of larger relevance to the HEP community. The IRIS-HEP activities include:
 
@@ -82,7 +82,7 @@ If you have a idea for a project which excites you, but do not find similar exam
   * Monday 22 March, 2026 - deadline for priority consideration of applications (applications will be reviewed on a rolling basis as they arrive)
   * Monday 30 March, 2026 - final deadline for consideration of applications
   * 2 March - 13 April, 2026 - Selected potential Fellows with be matched with potential mentors to develop a project proposal - this may involve a short interview and other follow-up. Final selection as a Fellow will require submission and approval of a project proposal.
-  * April, 2026 - Offers, Acceptances and Onboarding of Summer 2025 Fellows
+  * April, 2026 - Offers, Acceptances and Onboarding of Summer 2026 Fellows
   * May-Sep, 2026 - Fellows work on projects (exact dates may depend on specific academic year constraints)
 
 **Funding:** The funding support for IRIS-HEP Fellows associated with U.S. academic institutions is provided by the National Science Foundation through Cooperative Agreement PHY-2323298 (including an [IMPRESS-U](https://www.nsf.gov/pubs/2023/nsf23135/nsf23135.jsp) supplemental funding award) as well as private foundation support. Funding for Lithuanian Fellows has be provided through programs in Lithuania. Funding for Fellows associated with other international academic institutions has been provided by a combination of university, industry and private foundation support.
