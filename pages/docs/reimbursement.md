@@ -73,12 +73,25 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [Open (And Closed) Data in the Age of AI Workshop (FAIROS-HEP)](https://indico.cern.ch/event/1659498/overview)
+  * Location: Chicago, IL
+  * Meeting Dates: 23-24 April, 2026
+  * Business purpose: Participation in Open (and Closed) Data in the Age of AI Workshop
+  * "event-prefix" for pdf file naming: AI-Open-Closed-Data-2026
+
+#### [AI Community Vision Planning Workshop](https://indico.cern.ch/event/1580520/)
+  * Location: New York City, NY
+  * Meeting Dates: 22-23 January, 2026
+  * Business purpose: Participation in AI Community Vision Workshop
+  * "event-prefix" for pdf file naming: AI-Community-Vision-2026
+
 #### [Coordinated Ecosystem for HEP Software and Computing Blueprint Workshop](https://indico.cern.ch/event/1580520/)
   * Location: Washington DC
   * Meeting Dates: 3-5 December, 2025
   * Business purpose: Participation in Coordinated Ecosystem Blueprint Workshop
   * "event-prefix" for pdf file naming: Coordinated-Ecosystem-2025
 
+<!--
 #### [Connecting the Dots 2025 Workshop](https://indico.cern.ch/event/1499357/)
   * Location: Tokyo, Japan
   * Meeting Dates: 10-14 November, 2025
@@ -91,7 +104,6 @@ Please note the following:
   * Business purpose: Participation in IRIS-HEP 2025 Retreat
   * "event-prefix" for pdf file naming: IRIS-HEP-Retreat
 
-<!--
 #### [JuliaHEP 2025 Workshop](https://indico.cern.ch/event/1488852/)
   * Location: Princeton, NJ
   * Meeting Dates: 28-31 July, 2025
