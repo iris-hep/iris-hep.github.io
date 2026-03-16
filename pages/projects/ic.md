@@ -23,7 +23,7 @@ team:
  - ArturU043
 ---
 
-The upcoming High-Luminosity Large Hadron Collider (HL-LHC) at CERN will deliver an unprecedented volume of data for High Energy Physics (HEP). This wealth of information offers significant opportunities for scientific discovery, but its scale challenges traditional analysis workflows. In this project, we are focusing on development of CMS and ATLAS analysis pipeline to meet HL-LHC demands. These pipelines build on the broader scientific Python ecosystem, complemented by solutions specifically designed for HEP.
+The upcoming High-Luminosity Large Hadron Collider (HL-LHC) at CERN will deliver an unprecedented volume of data for High Energy Physics (HEP). This wealth of information offers significant opportunities for scientific discovery, but its scale challenges traditional analysis workflows. In this project we are focusing on the development of CMS and ATLAS analysis pipelines to meet HL-LHC demands. These pipelines build on the broader scientific Python ecosystem, complemented by solutions specifically designed for HEP.
 
 A central focus of this project is the Integration Challenge, an IRIS-HEP led effort aimed at assessing the readiness of developed software stack to be used in real world physics analysis and improving the readiness of analysis facilities for the HL-LHC era. The Integration Challenge acts as an end-to-end integration test: by implementing a complete physics analysis pipeline, it evaluates tool interoperability and the overall user experience for analysts. The current pipeline includes columnar data processing, machine learning, statistical inference, and visualization tasks covering a variety of CMS and ATLAS analysis scenarios.
 
