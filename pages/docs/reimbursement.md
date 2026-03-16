@@ -79,7 +79,7 @@ Please note the following:
   * Business purpose: Participation in Open (and Closed) Data in the Age of AI Workshop
   * "event-prefix" for pdf file naming: AI-Open-Closed-Data-2026
 
-#### [AI Community Vision Planning Workshop](https://indico.cern.ch/event/1580520/)
+#### [AI Community Vision Planning Workshop](https://indico.flatironinstitute.org/event/4112/)
   * Location: New York City, NY
   * Meeting Dates: 22-23 January, 2026
   * Business purpose: Participation in AI Community Vision Workshop
@@ -145,7 +145,6 @@ Please note the following:
   * Meeting Dates: 19-20 May, 2025
   * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
   * "event-prefix" for pdf file naming: USCMS
-
 
 #### [MODE Differentiable Programming Workshop 2024](https://indico.cern.ch/event/1380163/)
   * Location: Valencia, Spain
