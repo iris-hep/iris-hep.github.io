@@ -21,8 +21,8 @@ presentations:
       - as
     project:
       - servicex
-      - integration challenge 
-      
+      - integration challenge
+
   - title: "Using ServiceX for ATLAS OpenData"
     date: 2025-11-13
     url: https://indico.cern.ch/event/1608413/contributions/6777378/
@@ -34,7 +34,7 @@ presentations:
       - as
     project:
       - servicex
-      
+
   - title: "ATLAS integration challenge."
     date: 2025-10-09
     url: https://indico.cern.ch/event/1576135/timetable/?view=standard
@@ -47,7 +47,6 @@ presentations:
     project:
       - servicex
 
-      
   - title: "ServiceX: Streamlining Data Delivery and Transformation for HL-LHC Analyses"
     date: 2025-09-10
     url: https://indico.cern.ch/event/1488410/contributions/6562839/
