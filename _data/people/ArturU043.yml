@@ -21,8 +21,7 @@ presentations:
       - as
     project:
       - servicex
-      - integration challenge
-
+      - ic
   - title: "Using ServiceX for ATLAS OpenData"
     date: 2025-11-13
     url: https://indico.cern.ch/event/1608413/contributions/6777378/
