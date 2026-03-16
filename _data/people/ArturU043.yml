@@ -8,7 +8,20 @@ photo: "/assets/images/team/Artur-Cordeiro.jpg"
 shortname: ArturU043
 title: Postdoctoral scholar
 website:
+
 presentations:
+  - title: "ServiceX for the ALTAS integration challenge pipeline - ML framework."
+    date: 2026-02-23
+    url: https://indico.cern.ch/event/1621101/#4-servicex-for-atlas-pipeline
+    meeting: Integration Challenge workshop
+    meetingurl: https://indico.cern.ch/event/1621101/
+    location: CERN, Switzerland
+    focus-area:
+      - doma
+      - as
+    project:
+      - servicex
+      - ic
   - title: "Using ServiceX for ATLAS OpenData"
     date: 2025-11-13
     url: https://indico.cern.ch/event/1608413/contributions/6777378/
@@ -20,6 +33,19 @@ presentations:
       - as
     project:
       - servicex
+
+  - title: "ATLAS integration challenge."
+    date: 2025-10-09
+    url: https://indico.cern.ch/event/1576135/timetable/?view=standard
+    meeting: IRIS-HEP institute retreat
+    meetingurl: https://indico.cern.ch/event/1576135/
+    location: Saint Gervais, France
+    focus-area:
+      - doma
+      - as
+    project:
+      - servicex
+
   - title: "ServiceX: Streamlining Data Delivery and Transformation for HL-LHC Analyses"
     date: 2025-09-10
     url: https://indico.cern.ch/event/1488410/contributions/6562839/
