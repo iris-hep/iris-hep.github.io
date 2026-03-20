@@ -1,12 +1,12 @@
 ---
 layout: blueprint
-visible: true
+visible: false
 topic: Integration of Data Management & Analysis Services (Coffea-Casa, ServiceX, Skyhook, etc)
 meetingurl:
 meetingdate:
 focus-areas:
     - doma
-status: proposed
+status: planned
 location:
 documents:
 ---

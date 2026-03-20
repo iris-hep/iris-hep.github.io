@@ -5,7 +5,7 @@ shortname: ohrechykha
 permalink: /fellows/ohrechykha.html
 fellow-name: Oleksii Hrechykha
 title: Oleksii Hrechykha - IRIS-HEP Fellow
-active: True
+active: False
 
 dates:
 - start: 2024-07-01
@@ -44,4 +44,5 @@ current_status:
 github-username: ohrechykha
 linkedin-profile:
 funding-source: impress-u
+ukraine: true
 ---

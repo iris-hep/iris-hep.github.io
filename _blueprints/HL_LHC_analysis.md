@@ -2,13 +2,13 @@
 layout: blueprint
 visible: true
 topic: Physics analysis at the HL-LHC
-meetingurl:
-meetingdate: Spring 2025
+meetingurl: https://indico.cern.ch/event/1515493/
+meetingdate: 2025-05-15
 focus-areas:
     - as
     - doma
     - ssl
-status: proposed
+status: complete
 location: Virtual
 documents:
 ---

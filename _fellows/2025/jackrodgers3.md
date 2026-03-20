@@ -5,7 +5,7 @@ shortname: jackrodgers3
 permalink: /fellows/jackrodgers3.html
 fellow-name: Jack P. Rodgers
 title: Jack P. Rodgers - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-05-12
   end: 2025-07-28

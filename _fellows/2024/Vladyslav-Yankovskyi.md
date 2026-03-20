@@ -25,4 +25,5 @@ current_status:
 github-username: VladyslavYankovskyi
 focus-area:
 funding-source: impress-u
+ukraine: true
 ---

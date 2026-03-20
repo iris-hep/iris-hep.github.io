@@ -5,7 +5,7 @@ shortname: knottedtree123
 permalink: /fellows/knottedtree123.html
 fellow-name: Cody Tanner
 title: Cody Tanner - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-07-01
   end: 2025-09-26

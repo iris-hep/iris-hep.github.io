@@ -1,0 +1,9 @@
+name: "US ATLAS / IRIS-HEP Analysis Software Training Event 2026"
+startdate: 2026-07-30
+enddate: 2026-07-31
+location: University of Arizona
+meetingurl: https://indico.cern.ch/event/1633749/
+image:
+description: Training workshop on IRIS-HEP analysis software at the US ATLAS annual meeting
+labels:
+  - training

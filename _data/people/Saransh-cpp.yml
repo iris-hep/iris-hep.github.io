@@ -2,12 +2,13 @@ active: false
 e-mail: saransh0701@gmail.com
 focus-area:
   - as
-institution: Advanced Research Computing Centre, University College London
-past_institution: { institution: Princeton University, end_date: 2024-08-15 }
+institution: École Polytechnique Fédérale de Lausanne (EPFL)
+past_institution:
+  { institution: University College London, end_date: 2025-08-31 }
 name: Saransh Chopra
 photo: "/assets/images/team/Saransh-Chopra.jpeg"
 shortname: Saransh-cpp
-title: Research Software Engineer
+title: "Master's (Computational Science) student"
 website: https://saransh-cpp.github.io
 presentations:
   - title: Differentiable Computation with Awkward Array and JAX

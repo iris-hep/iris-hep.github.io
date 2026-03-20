@@ -69,4 +69,5 @@ linkedin-profile: https://www.linkedin.com/in/kyrylo-meliushko
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---

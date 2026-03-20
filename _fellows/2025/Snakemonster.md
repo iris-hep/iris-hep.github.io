@@ -5,7 +5,7 @@ shortname: Makuta
 permalink: /fellows/Snakemonster.html
 fellow-name: Mykyta Platonov
 title: Mykyta Platonov - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-05-19
   end: 2025-08-11
@@ -24,4 +24,5 @@ current_status:
 github-username: Snakemonster
 linkedin-profile: https://www.linkedin.com/in/mykyta-platonov-0ab594240/
 funding-source: other
+ukraine: true
 ---

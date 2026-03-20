@@ -36,4 +36,5 @@ current_status:
 github-username: ItyTell
 linkedin-profile: https://www.linkedin.com/in/mycola-kolomiiets-5350961b0
 funding-source: other
+ukraine: true
 ---

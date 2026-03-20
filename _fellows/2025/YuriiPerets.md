@@ -5,7 +5,7 @@ shortname: YuriiPerets
 permalink: /fellows/YuriiPerets.html
 fellow-name: "Yurii Perets"
 title: "Yurii Perets - IRIS-HEP Fellow"
-active: true
+active: False
 
 dates:
   - start: 2024-07-01
@@ -39,5 +39,6 @@ current_status: ""
 github-username: YuriiPerets
 linkedin-profile: https://www.linkedin.com/in/%D1%8E%D1%80%D1%96%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D1%86-4977bb229/
 funding-source: impress-u
+ukraine: true
 ---
 
