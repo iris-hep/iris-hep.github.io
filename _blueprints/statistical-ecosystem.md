@@ -1,11 +1,11 @@
 ---
 layout: blueprint
-visible: false
+visible: true
 topic: Statistical Ecosystem
 meetingurl: https://indico.cern.ch/event/1600676/
 meetingdate: 2026-02-24
 focus-areas: as
-status: planned
+status: complete
 location: CERN
 documents:
 ---

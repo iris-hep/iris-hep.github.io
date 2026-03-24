@@ -9,4 +9,6 @@ focus-areas:
 status: complete
 location: Virtual
 documents:
+    - type: report
+      url: http://inspirehep.net/record/2703030
 ---
