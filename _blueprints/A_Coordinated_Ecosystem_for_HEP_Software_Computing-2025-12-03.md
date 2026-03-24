@@ -7,7 +7,7 @@ meetingdate: 2025-12-03
 focus-areas:
 status: complete
 location: Washington, DC
-documents: 
+documents:
     - type: whitepaper
       url: https://arxiv.org/abs/2602.17582
 ---

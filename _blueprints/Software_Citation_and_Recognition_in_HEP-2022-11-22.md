@@ -10,5 +10,5 @@ status: complete
 location: Virtual
 documents:
     - type: report
-      url: http://inspirehep.net/record/2703030 
+      url: http://inspirehep.net/record/2703030
 ---
