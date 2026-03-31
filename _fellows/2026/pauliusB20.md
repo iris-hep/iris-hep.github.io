@@ -13,7 +13,7 @@ photo: /assets/images/team/fellows-2026/<My Image>
 institution: Vilnius University Faculty of Mathematics and Informatics
 e-mail: paulius.balciunas@mif.stud.vu.lt
 focus-area: Data compression and reconstruction with minimal information loss
-challenge-area: 
+challenge-area:
 project_title: Lossy Data Compression for Simulated CMS Pile-up Pixel Subdetector Datasets
 project_goal: >
     CMS datasets pose significant challenges for data storage and processing due to their large size and complexity. 
