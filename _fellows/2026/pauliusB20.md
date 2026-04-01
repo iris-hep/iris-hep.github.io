@@ -15,9 +15,9 @@ focus-area: Data compression and reconstruction with minimal information loss
 challenge-area:
 project_title: Lossy Data Compression for Simulated CMS Pile-up Pixel Subdetector Datasets
 project_goal: >
-    CMS datasets pose significant challenges for data storage and processing due to their large size and complexity. 
-    The primary goal of this project is to investigate the possibilities of applying Vector Quantization Variational Autoencoder (VQ-VAE) model 
-    for CMS pileup dataset lossy compression. VQ-VAE model aims to encode the data into a compact latent representation, 
+    CMS datasets pose significant challenges for data storage and processing due to their large size and complexity.
+    The primary goal of this project is to investigate the possibilities of applying Vector Quantization Variational Autoencoder (VQ-VAE) model
+    for CMS pileup dataset lossy compression. VQ-VAE model aims to encode the data into a compact latent representation,
     which can later be reconstructed using VQ-VAE learned codebooks with minimal information loss
 
 mentors:
