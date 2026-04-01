@@ -2,14 +2,13 @@
 layout: fellow
 pagetype: fellow
 shortname: pbalciunas
-permalink: /fellows/<My Image>
 fellow-name: Paulius Balčiūnas
 title: Paulius Balčiūnas - IRIS-HEP Fellow
 active: True
 dates:
   start: 2026-02-02
   end: 2026-04-18
-photo: /assets/images/team/fellows-2026/<My Image>
+photo: /assets/images/team/fellows-2026/Paulius-Balciunas.jpg
 institution: Vilnius University Faculty of Mathematics and Informatics
 e-mail: paulius.balciunas@mif.stud.vu.lt
 focus-area: Data compression and reconstruction with minimal information loss
