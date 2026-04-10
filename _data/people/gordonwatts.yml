@@ -535,3 +535,19 @@ presentations:
     project:
       - llm
     location: CERN
+  - title: "Beyond Code Generation: Building an LLM Ecosystem for Physics Analysis"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6969164/
+    meetingurl: https://indico.cern.ch/event/1471803
+    meeting: "CHEP 2026"
+    project:
+      - llm
+    location: CERN
+  - title: "From Query to Plot: Implementing a Tool-Based LLM Framework for ATLAS Analysis"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6968226/
+    meetingurl: https://indico.cern.ch/event/1471803
+    meeting: "CHEP 2026"
+    project:
+      - llm
+    location: CERN
