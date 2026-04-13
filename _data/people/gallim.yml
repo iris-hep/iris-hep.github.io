@@ -8,3 +8,83 @@ shortname: gallim
 title: Postdoctoral Research Associate
 website: https://github.com/maxgalli
 presentations:
+  - title: "Status and Prospects of the HEP Statistical Inference Ecosystem"
+    date: 2026-05-28
+    url: https://indi.to/JcyNx
+    meeting: "CHEP 2026 - Conference on Computing in High Energy and Nuclear Physics"
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area:
+      - as
+  - title: "Hands-on: Statistical routines in Combine"
+    date: 2026-02-19
+    url: https://indi.to/xRdB2
+    meeting: "7th CAT Hackathon"
+    focus-area:
+      - as
+  - title: "Recent Combine developments"
+    date: 2025-12-03
+    url: https://indico.cern.ch/event/1590553/#2-recent-combine-developments
+    meeting: "CAT General Meeting"
+    focus-area:
+      - as
+  - title: "Common Combination Framework: H Differentials Perspective"
+    date: 2025-11-12
+    url: https://indico.cern.ch/event/1583965/#60-common-combination-framewor
+    meeting: "CMS Higgs Combination, Properties and EFT Weekly Meeting"
+    focus-area:
+      - as
+  - title: "Recent benchmarks in the Analysis Grand Challenge and integration with Combine (and HS3) (poster)"
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562893/
+    meeting: "ACAT 2025"
+    focus-area:
+      - as
+  - title: "Combine and HS3"
+    date: 2025-07-23
+    url: https://indico.cern.ch/event/1566952/#3-combine-and-hs3
+    meeting: "HS3 meeting"
+    focus-area:
+      - as
+  - title: "Columnar Data Analysis"
+    date: 2025-07-23
+    url: https://indico.cern.ch/event/1568686/contributions/6608191/
+    meeting: "Codas HEP 2025"
+    focus-area:
+      - as
+  - title: "Short Exercise: Statistics and Combine"
+    date: 2025-06-24
+    url: https://indi.to/BBv5r
+    meeting: "CMS Data Analysis School 2025 at IIT Hyderabad"
+    focus-area:
+      - as
+  - title: "Long Exercise: Higgs to Diphoton"
+    date: 2025-06-25
+    url: https://indi.to/DnkbG
+    meeting: "CMS Data Analysis School 2025 at IIT Hyderabad"
+    focus-area:
+      - as
+  - title: "Statistics and HEP Statistics Tools"
+    date: 2025-06-19
+    url: https://indi.to/SZSFk
+    meeting: "HSF-India Scientific Computing Workshop at IISC - Bangalore"
+    focus-area:
+      - as
+  - title: "Scientific Python"
+    date: 2025-06-18
+    url: https://indi.to/R3Fjd
+    meeting: "HSF-India Scientific Computing Workshop at IISC - Bangalore"
+    focus-area:
+      - as
+  - title: "SBI Example with Normalizing Flows"
+    date: 2025-04-04
+    url: https://indico.cern.ch/event/1517100/#10-sbi-example-with-normalizin
+    meeting: "AGC Demo Day #8"
+    focus-area:
+      - as
+  - title: "AGC Migration to Coffea 2025"
+    date: 2025-02-14
+    url: https://indico.cern.ch/event/1487508/#4-agc-migration-to-coffea-2025
+    meeting: "AGC Demo Day #7"
+    focus-area:
+      - as
