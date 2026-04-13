@@ -1,0 +1,43 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bar-dark { fill: #3F78A8; }
+    .bar-light { fill: #A7C4DD; }
+    .bracket { fill: #4682B4; }
+    .curve { stroke: #5F8FB8; stroke-width: 2.5; fill: none; stroke-linecap: round; }
+    .text { font-family: system-ui, -apple-system, sans-serif; fill: #5F8FB8; }
+  </style>
+
+  <!-- Vertical offset group (centers 112px content into 128px canvas) -->
+  <g transform="translate(0,8)">
+
+    <!-- Left bracket -->
+    <rect x="0" y="0" width="6" height="112" class="bracket"/>
+    <rect x="0" y="0" width="22" height="6" class="bracket"/>
+    <rect x="0" y="106" width="22" height="6" class="bracket"/>
+
+    <!-- Right bracket -->
+    <rect x="122" y="0" width="6" height="112" class="bracket"/>
+    <rect x="104" y="0" width="22" height="6" class="bracket"/>
+    <rect x="104" y="106" width="22" height="6" class="bracket"/>
+
+    <!-- Wordmark -->
+    <text x="64" y="26" text-anchor="middle" font-size="22" class="text">
+      pyhs<tspan dy="-8" font-size="14">3</tspan>
+    </text>
+
+    <!-- Histogram bars -->
+    <rect x="40" y="64" width="12" height="40" class="bar-dark"/>
+    <rect x="58" y="40" width="12" height="64" class="bar-light"/>
+    <rect x="76" y="52" width="12" height="52" class="bar-dark"/>
+
+    <!-- Gaussian-like curve -->
+    <path d="
+      M 34 90
+      C 40 88, 46 70, 52 56
+      C 57 46, 61 44, 64 44
+      C 67 44, 71 46, 76 56
+      C 82 70, 88 88, 94 90
+    " class="curve"/>
+
+  </g>
+</svg>
