@@ -27,7 +27,7 @@ presentations:
     challenge-area:
       - agc
 
-  - title: Lessons learned running Integration Challenge at CMS Coffea-Casa facility 
+  - title: Lessons learned running Integration Challenge at CMS Coffea-Casa facility
     date: 2026-05-26
     url: https://indico.cern.ch/event/1471803/contributions/6968297/
     meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
@@ -44,9 +44,9 @@ presentations:
 
   - title: CMS Coffea-casa Facility Integration Challenge - I
     date: 2026-03-10
-    url:  https://indico.cern.ch/event/1557624/
+    url: https://indico.cern.ch/event/1557624/
     meeting: US CMS Analysis Facility Meeting
-    meetingurl:  https://indico.cern.ch/event/1557624/
+    meetingurl: https://indico.cern.ch/event/1557624/
     location: Virtual
     focus-area:
       - as
@@ -59,9 +59,9 @@ presentations:
 
   - title: CMS Coffea-casa Facility Integration Challenge Setup
     date: 2025-12-16
-    url:  https://indico.cern.ch/event/1615627/
+    url: https://indico.cern.ch/event/1615627/
     meeting: US CMS Analysis Facility Meeting
-    meetingurl:  https://indico.cern.ch/event/1615627/
+    meetingurl: https://indico.cern.ch/event/1615627/
     location: Virtual
     focus-area:
       - as
