@@ -35,18 +35,23 @@ presentations:
     url: https://indico.cern.ch/event/1566952/#3-combine-and-hs3
   - title: "Columnar Data Analysis"
     date: 2025-07-23
+    url: https://indico.cern.ch/event/1568686/contributions/6608191/
     meeting: "Codas HEP 2025"
   - title: "Short Exercise: Statistics and Combine"
     date: 2025-06-24
+    url: https://indi.to/BBv5r
     meeting: "CMS Data Analysis School 2025 at IIT Hyderabad"
   - title: "Long Exercise: Higgs to Diphoton"
     date: 2025-06-25
+    url: https://indi.to/DnkbG
     meeting: "CMS Data Analysis School 2025 at IIT Hyderabad"
   - title: "Statistics and HEP Statistics Tools"
     date: 2025-06-19
+    url: https://indi.to/SZSFk
     meeting: "HSF-India Scientific Computing Workshop at IISC - Bangalore"
   - title: "Scientific Python"
     date: 2025-06-18
+    url: https://indi.to/R3Fjd
     meeting: "HSF-India Scientific Computing Workshop at IISC - Bangalore"
   - title: "SBI Example with Normalizing Flows"
     date: 2025-04-04
