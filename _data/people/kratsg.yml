@@ -26,7 +26,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1471803/
     location: Bangkok, Thailand
     focus-area: as
-    project: inference-as-a-service
+    project:
 
   - title: "ServiceX in the ATLAS Integration Challenge: Data Delivery for HL-LHC Analyses"
     date: 2026-05-27
@@ -57,4 +57,4 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1471803/
     location: Bangkok, Thailand
     focus-area: as
-    project: "hep-spin"
+    project:
