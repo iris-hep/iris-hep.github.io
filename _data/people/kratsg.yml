@@ -34,7 +34,8 @@ presentations:
     meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
     meetingurl: https://indico.cern.ch/event/1471803/
     location: Bangkok, Thailand
-    focus-area: agc
+    challenge-area: agc
+    focus-area: as
     project:
       - servicex
       - agc
@@ -45,7 +46,8 @@ presentations:
     meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
     meetingurl: https://indico.cern.ch/event/1471803/
     location: Bangkok, Thailand
-    focus-area: agc
+    challenge-area: agc
+    focus-area: as
     project: agc
 
   - title: "HEP Packaging Coordination: Distributing the HEP software ecosystem on conda-forge"
