@@ -10,3 +10,12 @@ shortname: TaiSakuma
 title:
 website:
 presentations:
+  - title: "Hypothesis-awkward: Property-Based Testing Strategies for Awkward Array"
+    date: 2026-05-25
+    url: https://indico.cern.ch/event/1471803/contributions/6966814/
+    meeting: "CHEP 2026 - Conference on Computing in High Energy and Nuclear Physics"
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area: as
+    project:
+      - awkward
