@@ -9,3 +9,12 @@ shortname: dynamic-entropy
 title: Research Cyberinfrastructure Specialist
 website: https://github.com/dynamic-entropy
 presentations:
+  - title: Enhancing Redirection in the CMS Data Federation
+    date: 2026-05-26
+    url: https://indico.cern.ch/event/1471803/contributions/6966994/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Chulalongkorn University, Bangkok, Thailand
+    focus-area:
+      - doma
+      - osglhc
