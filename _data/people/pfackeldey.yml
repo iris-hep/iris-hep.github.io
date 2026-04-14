@@ -8,6 +8,44 @@ shortname: pfackeldey
 title: Postdoctoral Research Associate
 website: https://github.com/pfackeldey
 presentations:
+  - title: "Histogramming as a Service"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6968225/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area:
+      - as
+    project:
+      - histogram
+  - title: "histserv Presentation"
+    date: 2026-04-07
+    url: https://indico.cern.ch/event/1642326/#1-histserv-presentation
+    meeting: AS Biweekly Meeting
+    meetingurl: https://indico.cern.ch/event/1642326/
+    location: online
+    focus-area:
+      - as
+    project:
+      - histogram
+  - title: "Differentiable Statistical Ecosystem with JAX"
+    date: 2026-03-06
+    url: https://indico.cern.ch/event/1633539/timetable/#14-differentiable-statistical
+    meeting: Differentiable Analysis Blueprint
+    meetingurl: https://indico.cern.ch/event/1633539/timetable/
+    location: CERN
+    focus-area:
+      - as
+    project:
+  - title: "Nascent JAX ecosystem"
+    date: 2026-02-25
+    url: https://indico.cern.ch/event/1600676/contributions/6899046/
+    meeting: Statistical Ecosystem Blueprint
+    meetingurl: https://indico.cern.ch/event/1600676
+    location: CERN
+    focus-area:
+      - as
+    project:
   - title: "Awkward Array: manipulating nested, variable-sized data with NumPy-like idioms"
     date: 2025-06-06
     url: https://events.berkeley.edu/BIDS/event/299829-bids-seminar-with-peter-fackeldey
