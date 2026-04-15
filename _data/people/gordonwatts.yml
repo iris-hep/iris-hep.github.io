@@ -551,3 +551,11 @@ presentations:
     project:
       - llm
     location: CERN
+  - title: "Using LLMs for research"
+    date: 2026-05-05
+    url: https://indico.cern.ch/event/1666236/
+    meetingurl: https://indico.cern.ch/event/1666236/
+    meeting: "ATLAS Lecture Series (internal)"
+    project:
+      - llm
+    location: CERN
