@@ -35,7 +35,7 @@ presentations:
     focus-area: as
     project:
 
-   - title: "HistFactory v2: Systematics Modeling with Gaussian Processes"
+  - title: "HistFactory v2: Systematics Modeling with Gaussian Processes"
     date: 2026-02-26
     url: https://indico.cern.ch/event/1600677/timetable/?view=standard#8-histfactory-v2-systematics-m 
     meeting: Simulation-Based Inference Blueprint
