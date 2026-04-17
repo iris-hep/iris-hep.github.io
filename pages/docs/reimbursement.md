@@ -37,14 +37,15 @@ eligible for reimbursement from the IRIS-HEP project.
 
   **Please ignore this section for now. It will be discussed on the last day of the school/workshop itself.**
 
-There are two relevant forms for travel reimbursement:
+There are three relevant forms for travel reimbursement:
 
   * [Guest Reimbursement Request](https://finance.princeton.edu/forms/guest-reimbursement-request) - Everyone requesting travel reimbursement must fill out this form
   * [Supplier Onboarding Form](https://finance.princeton.edu/forms/supplierpayee-management) - Only people requesting reimbursement via wire transfer need to fill out this form. If you would like to receive a check, this form is not needed.
+  * [Foreign Payee Form](https://finance.princeton.edu/forms/foreign-individual-payeesubstitute-w-8ben) - This form should be completed for all new foreign individuals/payees
 
 Please note the following:
 
-  * The form can be filled out electronically (e.g. in Acrobat Reader). This is the preferred method in order to guarantee legibility.
+  * These forms can be filled out electronically (e.g. in Acrobat Reader). This is the preferred method in order to guarantee legibility.
   * You can either sign the pdf electronically (e.g. in Acrobat Reader) or fill it out electronically, print the result, sign it and scan the result.
   * If you cannot fill the form out electronically, print the form and fill it out using clear block letters. Sign it and make a clear scan of the completed form.
   * On the form:
@@ -60,6 +61,7 @@ Please note the following:
   * Combine the forms and scanned receipt images into a **single pdf** in the following order:
     * Guest Reimbursement Request Form
     * Supplier Onboarding Form (if relevant)
+    * Foreign Payee Form (if relevant)
     * Scans of relevant receipts
   * Please name the file using this convention:
     * shorteventname-YYYYMMDD-yourfirstname-yourlastname.pdf
@@ -70,6 +72,43 @@ Please note the following:
 
 
 ### Notes for specific events and workshops (reverse chronological order)
+
+#### [Open (And Closed) Data in the Age of AI Workshop (FAIROS-HEP)](https://indico.cern.ch/event/1659498/overview)
+  * Location: Chicago, IL
+  * Meeting Dates: 23-24 April, 2026
+  * Business purpose: Participation in Open (and Closed) Data in the Age of AI Workshop
+  * "event-prefix" for pdf file naming: AI-Open-Closed-Data-2026
+
+#### [AI Community Vision Planning Workshop](https://indico.flatironinstitute.org/event/4112/)
+  * Location: New York City, NY
+  * Meeting Dates: 22-23 January, 2026
+  * Business purpose: Participation in AI Community Vision Workshop
+  * "event-prefix" for pdf file naming: AI-Community-Vision-2026
+
+#### [Coordinated Ecosystem for HEP Software and Computing Blueprint Workshop](https://indico.cern.ch/event/1580520/)
+  * Location: Washington DC
+  * Meeting Dates: 3-5 December, 2025
+  * Business purpose: Participation in Coordinated Ecosystem Blueprint Workshop
+  * "event-prefix" for pdf file naming: Coordinated-Ecosystem-2025
+
+<!--
+#### [Connecting the Dots 2025 Workshop](https://indico.cern.ch/event/1499357/)
+  * Location: Tokyo, Japan
+  * Meeting Dates: 10-14 November, 2025
+  * Business purpose: Participation in CTD 2025 Workshop
+  * "event-prefix" for pdf file naming: CTD2025
+
+#### [IRIS-HEP 2025 Retreat](https://indico.cern.ch/event/1576135/)
+  * Location: NEAR CERN
+  * Meeting Dates: 8-10 October, 2025
+  * Business purpose: Participation in IRIS-HEP 2025 Retreat
+  * "event-prefix" for pdf file naming: IRIS-HEP-Retreat
+
+#### [JuliaHEP 2025 Workshop](https://indico.cern.ch/event/1488852/)
+  * Location: Princeton, NJ
+  * Meeting Dates: 28-31 July, 2025
+  * Business purpose: Participation in JuliaHEP 2025 Workshop
+  * "event-prefix" for pdf file naming: JuliaHEP
 
 #### [CoDaS-HEP 2025 Summer School](https://codas-hep.org)
   * Location: Princeton, NJ
@@ -83,13 +122,30 @@ Please note the following:
   * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
   * "event-prefix" for pdf file naming: USATLAS
 
+#### [PyHEP.dev 2025 "Python in HEP" Workshop](https://indico.cern.ch/event/1515852/)
+  * Location: Seattle, WA
+  * Meeting Dates: 14-17 July, 2025
+  * Business purpose: Participation in PyHEP.dev 2025 Workshop
+  * "event-prefix" for pdf file naming: PyHEP.dev
+
+#### [SciPy 2025 Workshop](https://www.scipy2025.scipy.org/)
+  * Location: Tacoma, WA
+  * Meeting Dates: 7-13 July, 2025
+  * Business purpose: Participation in SciPy 2025 Workshop
+  * "event-prefix" for pdf file naming: SciPy
+
+#### [MODE Workshop on Differential Programming 2025](https://indico.cern.ch/event/1481852/overview)
+  * Location: Kolymbari, Crete, Greece
+  * Meeting Dates: 8-13 June, 2025
+  * Business purpose: Participation in MODE 2025 Workshop
+  * "event-prefix" for pdf file naming: MODE
+
 #### [USCMS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1509580/)
   * Location: Houston, TX
   * Meeting Dates: 19-20 May, 2025
   * Business purpose: Participation in USCMS/IRIS-HEP Analysis Software Training event
   * "event-prefix" for pdf file naming: USCMS
 
-<!--
 #### [MODE Differentiable Programming Workshop 2024](https://indico.cern.ch/event/1380163/)
   * Location: Valencia, Spain
   * Meeting Dates: 23-25 September, 2024

@@ -512,3 +512,21 @@ presentations:
     location: Virtual
     focus-area: as
     project:
+
+  - title: "The HEP Software Ecosystem"
+    date: 2026-03-18
+    url: https://matthewfeickert-talks.github.io/talk-aps-global-physics-summit-2026/
+    meeting: "APS Global Physics Summit 2026"
+    meetingurl: https://summit.aps.org/events/APR-P88/2
+    location: Denver, U.S.A.
+    focus-area: as
+    project:
+
+  - title: "HEP Packaging Coordination: Distributing the HEP software ecosystem on conda-forge"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6966833/
+    meeting: "CHEP 2026 - Conference on Computing in High Energy and Nuclear Physics"
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area: as
+    project:

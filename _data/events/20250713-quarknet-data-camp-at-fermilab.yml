@@ -1,0 +1,10 @@
+name: 2025 Quarknet Data Camp at Fermilab
+startdate: 2025-07-13
+enddate: 2025-07-18
+location: Fermilab
+meetingurl: https://indico.cern.ch/event/1572183/
+image:
+description: One week Data Camp for high school teachers, Data Analysis, Top Quark, Python Notebooks, check indico for lots of details
+labels:
+  - training
+  - outreach

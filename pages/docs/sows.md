@@ -25,14 +25,14 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
   This combined multi-step process is what is meant by the "annual budget and SOW process".
 
-### Dates for IRIS-HEP annual budget and SOW process for Year 7 (2024 - 2025), covering the period from 1 September, 2024, through 31 August, 2025.
+### Dates for IRIS-HEP annual budget and SOW process for Year 8 (2025 - 2026), covering the period from 1 September, 2025, through 31 August, 2026.
 
 ---
 
 | Date |||| Goal |
 | ---- |||| ---- |
-| Wednesday, 31 July, 2024 (COB) |||| Subaward grant admins send draft Y7 budgets and justifications to Maureen, Floe and Peter |
-| Wednesday, 7 August, 2024 |||| Goal: Final budgets ready for Y7 SOWs |
+| Wednesday, 6 August, 2025 (COB) |||| Subaward grant admins send draft Y8 budgets and justifications to Maureen, Floe and Peter |
+| Wednesday, 27 August, 2025 |||| Goal: Final budgets ready for Y8 SOWs |
 
 ---
 
@@ -52,8 +52,8 @@ budget is required.
 In addition you should write a budget justification which contains the
 information normally expected from [an NSF proposal budget justification](https://www.nsf.gov/pubs/policydocs/pappg22_1/pappg_2.jsp#IIC2g). The budget described should however be limited to
 funds required for a _single_ year and the defined time period, which should
-be noted explicitly in the justification. For example, "IRIS-HEP Year 7:
-1 September, 2024 - 31 August, 2025" or similar should appear near the top
+be noted explicitly in the justification. For example, "IRIS-HEP Year 8:
+1 September, 2025 - 31 August, 2026" or similar should appear near the top
 of the document.
 
   In addition to the standard budget justification information, additional

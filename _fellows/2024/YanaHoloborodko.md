@@ -28,4 +28,5 @@ github-username: hooloobooroodkoo
 linkedin-profile: www.linkedin.com/in/yana-holoborodko-6999111a1/
 focus-area:
 funding-source: other
+ukraine: true
 ---

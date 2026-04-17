@@ -1,0 +1,9 @@
+name: HSF/IRIS-HEP Analysis Reproducibility (Virtual)
+startdate: 2025-03-24
+enddate: 2025-03-28
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1508102/
+image:
+description: Podman, Apptainer, GitHub and GitLab CI/CD, REANA
+labels:
+  - training

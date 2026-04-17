@@ -1,6 +1,6 @@
 ---
 layout: blueprint
-visible: true
+visible: false
 topic: Strengthening Theory & Experiment Connections
 meetingurl:
 meetingdate:

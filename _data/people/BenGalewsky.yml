@@ -1,4 +1,5 @@
 active: true
+e-mail: bengal1@illinois.edu
 focus-area:
   - ssl
   - doma
@@ -8,7 +9,7 @@ institution: National Center for Supercomputing Applications
 name: Ben Galewsky
 photo: "/assets/images/team/Ben-Galewsky.jpg"
 shortname: BenGalewsky
-title:
+title: Sr. Research Software Engineer
 website: https://github.com/BenGalewsky
 presentations:
   - title: Data Engineering at the Large Hadron Collider
@@ -79,3 +80,38 @@ presentations:
     location: DESY Hamburg
     focus-area: doma
     project: servicex
+  - title: Applying Transaction Processing Techniques to Large Scale Analysis
+    date: 2025-09-08
+    url: https://indico.cern.ch/event/1488410/contributions/6562905/
+    meeting: ACAT 2025
+    meetingurl: https://indico.cern.ch/event/1488410/
+    location: Hamburg University
+    challenge-area: agc
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+      - awkward
+  - title: Teaching Machine Learning Techniques Using Agentic Coding
+    date: 2026-01-20
+    url: https://doi.org/10.5281/zenodo.18405571
+    meeting: ESIP January Meeting 2026
+    meetingurl: https://2026januaryesipmeeting.sched.com/event/2CXOV/teaching-machine-learning-techniques-using-agentic-coding
+    location: Online
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
+  - title: Distributing Community MCP Servers
+    date: 2026-01-22
+    url: https://doi.org/10.5281/zenodo.18405463
+    meeting: ESIP January Meeting 2026
+    meetingurl: https://2026januaryesipmeeting.sched.com/event/2CXPN/making-sense-of-open-environmental-data-via-model-context-protocol
+    location: Online
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex

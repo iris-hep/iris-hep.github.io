@@ -5,7 +5,7 @@ shortname: 70752300
 permalink: /fellows/70752300.html
 fellow-name: Maxym Naumchyk
 title: Maxym Naumchyk - IRIS-HEP Fellow
-active: true
+active: False
 dates:
 - start: 2022-07-01
   end: 2022-08-31
@@ -19,13 +19,6 @@ photo: /assets/images/team/fellows-2022/Maxym-Naumchyk.jpg
 institution: Igor Sikorsky Kyiv Polytechnic Institute
 e-mail: maxymnaumchyk@gmail.com
 projects:
-- project_title: Improving and simplifying the Coffea library
-  project_goal: >
-    The goal of this project is to make coffea library more compatible with other libraries, such as Awkward, Uproot, Dask-awkward.
-    This project will also make it easier to propagate changes in these libraries to coffea.
-  mentors:
-  - Ianna Osborne (Princeton University)
-  - Peter Fackeldey (Princeton University)
 - project_title: Integrating ML algorithms for LHC data compression into the ESCAPE
     Virtual Research Environment
   project_goal: >
@@ -54,6 +47,14 @@ projects:
   - Ianna Osborne (Princeton University)
   - Jim Pivarski (Princeton University)
   proposal: /assets/pdf/fellows-2024/UKR018-proposal-Maxym-Naumchyk.pdf
+- project_title: Improving and simplifying the Coffea library
+  project_goal: >
+    The goal of this project is to make coffea library more compatible with other libraries, such as Awkward, Uproot, Dask-awkward.
+    This project will also make it easier to propagate changes in these libraries to coffea.
+  mentors:
+  - Ianna Osborne (Princeton University)
+  - Peter Fackeldey (Princeton University)
+  proposal: /assets/pdf/fellows-2025/proposal-Maxym-Naumchyk.pdf
 presentations:
 - title: Integrating ML algorithms for LHC data compression into the ESCAPE Virtual
     Research Environment
@@ -66,8 +67,22 @@ presentations:
 - title: Machine Learning on Network Data for Problem Identification
   date: 2023-10-16
   url: https://indico.cern.ch/event/1329064/contributions/5593920/attachments/2734213/4755835/Project%20presentation%20Maxym%20Naumchyk.pdf
+  meeting: IRIS-HEP Fellows Presentations 2023
   meetingurl: https://indico.cern.ch/event/1329064/
   recordingurl: https://youtu.be/as645t4T9jc
+  focus-area:
+- title: Adding new features to the Awkward-Array library
+  date: 2024-10-30
+  url: https://indico.cern.ch/event/1469560/contributions/6187143/attachments/2957713/5201278/Final_presentation_Maksym_Naumchyk.pdf
+  meeting: IRIS-HEP Fellows Final Presentations
+  meetingurl: https://indico.cern.ch/event/1469560/
+  recordingurl: https://youtu.be/GeWZ5JSo3ss
+  focus-area:
+- title: Coffea Schemas Developments
+  date: 2025-08-04
+  url: https://indico.cern.ch/event/1569796/contributions/6612637/attachments/3113860/5528846/Zipper_project_presentation.pdf
+  meeting: IRIS-HEP Student Talks
+  meetingurl: https://indico.cern.ch/event/1569796/
   focus-area:
 current_status: ''
 github-username: maxymnaumchyk
@@ -75,4 +90,5 @@ linkedin-profile: https://www.linkedin.com/in/maxym-naumchyk-3b3bb31aa/
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---

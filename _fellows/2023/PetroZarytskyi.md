@@ -34,4 +34,5 @@ presentations:
 current_status:
 github-username: PetroZarytskyi
 funding-source: other
+ukraine: true
 ---

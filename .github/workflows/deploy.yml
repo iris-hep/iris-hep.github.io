@@ -27,9 +27,9 @@ jobs:
     steps:
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Prepare to build site
         uses: ./.github/actions/prepare-build-site
@@ -47,7 +47,7 @@ jobs:
         run: bundle exec rake checkonly || true
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
@@ -57,4 +57,4 @@ jobs:
           && github.ref == 'refs/heads/master'
           && github.repository == 'iris-hep/iris-hep.github.io'
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

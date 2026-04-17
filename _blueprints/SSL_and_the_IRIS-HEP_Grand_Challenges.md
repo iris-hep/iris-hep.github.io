@@ -1,6 +1,6 @@
 ---
 layout: blueprint
-visible: true
+visible: false
 topic: SSL and the IRIS-HEP Grand Challenges
 meetingurl:
 meetingdate:

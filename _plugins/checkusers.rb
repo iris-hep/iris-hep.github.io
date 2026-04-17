@@ -25,6 +25,7 @@ module Checks
         person.key 'institution', :nonempty
         person.key 'photo', :optional
         person.key 'focus-area', :optional
+        person.key 'challenge-area', :optional
 
         person.print_warnings
 
