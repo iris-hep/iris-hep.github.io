@@ -8,29 +8,48 @@ shortname: JaySandesara
 title: Postdoctoral Research Associate
 website:
 presentations:
-  - title: "ATLAS data analysis using a parallelized workflow on distributed cloud-based services with GPUs"
-    date: 2023-05-08
-    url: https://indico.jlab.org/event/459/contributions/11480/
-    meeting: CHEP 2023
-    meetingurl: https://indico.jlab.org/event/459/
-    location: Norfolk, Virginia
+
+  - title: "Neural Simulation-Based Inference at the LHC"
+    date: 2028-05-26
+    url: https://indico.cern.ch/event/1471803/contributions/6968234/ 
+    meeting: CHEP 2026
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
     focus-area: as
     project:
 
-  - title: "Practical SBI for Measurements at the LHC"
-    date: 2024-05-16
-    url: https://indico.cern.ch/event/1355601/contributions/5913432/
-    meeting: PHYSTAT-SBI 2024
-    meetingurl: https://indico.cern.ch/event/1355601/
-    location: Munich
+  - title: "Scalable HTC-based Neural Network Training Workflow for Neural Simulation-Based Inference"
+    date: 2026-05-26
+    url: https://indico.cern.ch/event/1471803/contributions/6968296/
+    meeting: CHEP 2026
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
     focus-area: as
     project:
 
-  - title: "Simulation-Based Inference at the LHC"
-    date: 2024-12-17
-    url: https://agenda.infn.it/event/43386/contributions/251169/
-    meeting: Digital Twins for Nuclear and Particle physics - NPTwins 2024
-    meetingurl: https://agenda.infn.it/event/43386/overview
-    location: Munich
+  - title: "Toolkit for Simulation-Based Inference"
+    date: 2026-02-27
+    url: https://indico.cern.ch/event/1600677/timetable/?view=standard#24-toolkit-for-simulation-base 
+    meeting: Simulation-Based Inference Blueprint
+    meetingurl: https://indico.cern.ch/event/1600677/
+    location: CERN, Geneva, Switzerland
+    focus-area: as
+    project:
+
+   - title: "HistFactory v2: Systematics Modeling with Gaussian Processes"
+    date: 2026-02-26
+    url: https://indico.cern.ch/event/1600677/timetable/?view=standard#8-histfactory-v2-systematics-m 
+    meeting: Simulation-Based Inference Blueprint
+    meetingurl: https://indico.cern.ch/event/1600677/
+    location: CERN, Geneva, Switzerland
+    focus-area: as
+    project:
+
+  - title: "Practical Neural Simulation-Based Inference at the LHC"
+    date: 2025-09-11
+    url: https://indico.cern.ch/event/1488410/contributions/6561390/  
+    meeting: ACAT 2025
+    meetingurl: https://indico.cern.ch/event/1488410/
+    location: Hamburg, Germany
     focus-area: as
     project:
