@@ -54,12 +54,6 @@ exclude:
 
 sass:
   sass_dir: _sass
-  silence_deprecations:
-    - import
-    - global-builtin
-    - color-functions
-    - mixed-decls
-    - slash-div
 
 indico:
   url: https://indico.cern.ch
