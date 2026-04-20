@@ -73,6 +73,12 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [USCMS/IRIS-HEP 2026 Analysis Software Training](https://indico.cern.ch/event/1633748/)
+  * Location: University of Maryland, College Park, MD
+  * Meeting Dates: 1-2 June, 2026
+  * Business purpose: Participation in USCMS/IRIS-HEP 2026 Analysis Software Training event
+  * "event-prefix" for pdf file naming: USCMS
+
 #### [Open (And Closed) Data in the Age of AI Workshop (FAIROS-HEP)](https://indico.cern.ch/event/1659498/overview)
   * Location: Chicago, IL
   * Meeting Dates: 23-24 April, 2026
