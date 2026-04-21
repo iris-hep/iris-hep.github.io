@@ -9,4 +9,52 @@ photo: "/assets/images/team/Giordon-Stark.jpg"
 shortname: kratsg
 title: Project Scientist
 website: https://www.giordonstark.com
-presentations: []
+presentations:
+  - title: "Efficient Statistical Modeling for Particle Physics Using Computational Graphs in Python"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6968280/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area: as
+    project: pyhs3
+
+  - title: "Leveraging Inference as a Service technology for executing ML models by the Derived AOD production applications of the ATLAS experiment"
+    date: 2026-05-28
+    url: https://indico.cern.ch/event/1471803/contributions/6967260/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area: as
+    project:
+
+  - title: "ServiceX in the ATLAS Integration Challenge: Data Delivery for HL-LHC Analyses"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6968246/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    challenge-area: agc
+    focus-area: as
+    project:
+      - servicex
+      - agc
+
+  - title: "The ATLAS Integration Challenge: studying physics analyses towards the HL-LHC"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6968228/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    challenge-area: agc
+    focus-area: as
+    project: agc
+
+  - title: "HEP Packaging Coordination: Distributing the HEP software ecosystem on conda-forge"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6966833/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area: as
+    project:
