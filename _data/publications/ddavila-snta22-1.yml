@@ -1,7 +1,6 @@
 title: "Studying Scientific Data Lifecycle in On-demand Distributed Storage Caches"
-link: https://arxiv.org/abs/2205.05598
+link: https://dl.acm.org/doi/10.1145/3526064.3534111
 date: 2022-05-11
 citation: "Julian Bellavita, Alex Sim, Kesheng Wu, Inder Monga, Chin Guok, Frank Würthwein, Diego Davila. 2022"
-submitted-to: SNTA 2022
 focus-area: doma
 project: caching
