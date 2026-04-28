@@ -64,15 +64,16 @@ module Checks
     def key_missing(key, optional)
       return if @data.key? key
 
-      @missing << key if optional
+      @missing << key unless optional
       msg = "must contain '#{key}'"
       raise_err msg unless optional
     end
 
     def key_nonempty(key, optional)
-      @empty << key if optional
+      data_check = @data[key] || optional
+      @empty << key unless data_check
       msg = "contains '#{key}' which must not be empty"
-      raise_err msg unless @data[key]
+      raise_err msg unless data_check
     end
 
     def key_date(key)
