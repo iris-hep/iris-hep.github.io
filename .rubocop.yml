@@ -12,6 +12,12 @@ Metrics/PerceivedComplexity:
   Max: 12
 Metrics/CyclomaticComplexity:
   Max: 12
+# Jekyll plugins legitimately define multiple modules/classes in one file
+Style/OneClassPerFile:
+  Enabled: false
+# load_from_cache returns bool as success/failure indicator but also has side effects
+Naming/PredicateMethod:
+  Enabled: false
 AllCops:
   NewCops: enable
   TargetRubyVersion: 3.1
