@@ -707,3 +707,77 @@ presentations:
     challenge-area: agc
     project:
       - agc
+
+  - title: "ATLAS Integration Challenge and basket sizes"
+    date: 2026-01-23
+    url: https://indico.cern.ch/event/1637767/#3-atlas-integration-challenge
+    meeting: ATLAS Analysis Model Group
+    meetingurl: https://indico.cern.ch/event/1637767/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - ic
+
+  - title: "Unknown unknowns in ML for Physics"
+    date: 2026-02-16
+    url: https://indico.cern.ch/event/1617006/contributions/6877651/
+    meeting: Second PHYSTAT VERaIPHY workshop
+    meetingurl: https://indico.cern.ch/event/1617006/
+    location: "Amsterdam, Netherlands"
+    focus-area:
+      - as
+    project:
+
+  - title: "ATLAS Integration Challenge"
+    date: 2026-02-23
+    url: https://indico.cern.ch/event/1621101/#7-atlas-pipeline-at-uchicago
+    meeting: IRIS-HEP Integration Challenge workshop
+    meetingurl: https://indico.cern.ch/event/1621101/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - ic
+
+  - title: "HistFactory Introduction"
+    date: 2026-02-26
+    url: https://indico.cern.ch/event/1600677/contributions/6933563/
+    meeting: Simulation-Based Inference Blueprint
+    meetingurl: https://indico.cern.ch/event/1600677/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+      - pyhf
+
+  - title: "Differentiable Analysis Blueprint"
+    date: 2026-03-05
+    url: https://indico.cern.ch/event/1633539/timetable/#7-adoption-of-automatic-differ
+    meeting: Simulation-Based Inference Blueprint
+    meetingurl: https://indico.cern.ch/event/1633539/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+
+  - title: "The ATLAS Integration Challenge: studying physics analyses towards the HL-LHC"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6968228/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: "Bangkok, Thailand"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - ic
