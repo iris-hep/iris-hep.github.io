@@ -758,10 +758,10 @@ presentations:
       - cabinetry
       - pyhf
 
-  - title: "Differentiable Analysis Blueprint"
+  - title: "Adoption of Automatic Differentiation in HEP"
     date: 2026-03-05
     url: https://indico.cern.ch/event/1633539/timetable/#7-adoption-of-automatic-differ
-    meeting: Simulation-Based Inference Blueprint
+    meeting: Differentiable Analysis Blueprint
     meetingurl: https://indico.cern.ch/event/1633539/
     location: "CERN"
     focus-area:
