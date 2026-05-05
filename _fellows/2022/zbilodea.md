@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2022-05-16
   end: 2022-08-05
-photo: "/assets/images/team/fellows-2022/Zo\xEB-Bilodeau.jpg"
+photo: "/assets/images/team/Zoe-Bilodeau.jpg"
 institution: Skidmore College
 e-mail: zbilodea@skidmore.edu
 project_title: Fast Integration of Poisson Distributions for Dead Sensor Marginalization
