@@ -63,3 +63,7 @@ gem 'webrick'
 
 # Required on Ruby 2.6 (polyfill)
 gem 'ruby-next'
+
+# no longer part of the default gems in Ruby v3.4.0+
+gem 'base64' # required by safe_yaml
+gem 'csv' # required by Jekyll
