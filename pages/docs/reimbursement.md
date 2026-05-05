@@ -79,12 +79,19 @@ Please note the following:
   * Business purpose: Participation in USCMS/IRIS-HEP 2026 Analysis Software Training event
   * "event-prefix" for pdf file naming: USCMS
 
+#### [Blueprint Workshop: Towards a National-Scale AI Collaboration in HEP](https://indico.flatironinstitute.org/event/4120/)
+  * Location: Washington DC
+  * Meeting Dates: 18-19 May, 2026
+  * Business purpose: Participation in AI Collaboration 2026 Blueprint Workshop
+  * "event-prefix" for pdf file naming: AICollab
+
 #### [Open (And Closed) Data in the Age of AI Workshop (FAIROS-HEP)](https://indico.cern.ch/event/1659498/overview)
   * Location: Chicago, IL
   * Meeting Dates: 23-24 April, 2026
   * Business purpose: Participation in Open (and Closed) Data in the Age of AI Workshop
   * "event-prefix" for pdf file naming: AI-Open-Closed-Data-2026
 
+<!--
 #### [AI Community Vision Planning Workshop](https://indico.flatironinstitute.org/event/4112/)
   * Location: New York City, NY
   * Meeting Dates: 22-23 January, 2026
@@ -97,7 +104,7 @@ Please note the following:
   * Business purpose: Participation in Coordinated Ecosystem Blueprint Workshop
   * "event-prefix" for pdf file naming: Coordinated-Ecosystem-2025
 
-<!--
+
 #### [Connecting the Dots 2025 Workshop](https://indico.cern.ch/event/1499357/)
   * Location: Tokyo, Japan
   * Meeting Dates: 10-14 November, 2025
