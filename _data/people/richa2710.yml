@@ -7,3 +7,11 @@ photo: /assets/images/team/Richa-Sharma.png
 shortname: richa2710
 title: Postdoctoral Research Associate
 website: https://richa2710.github.io/
+presentations:
+  - title: "HEP Software Training with IRIS-HEP/HSF"
+    date: 2026-05-28
+    url: https://indico.cern.ch/event/1471803/contributions/6968288/
+    meeting: CHEP 2026
+    meetingurl: https://indico.cern.ch/event/1471803/
+    focus-area: ssc
+    location: "Chulalongkorn University, Bangkok, Thailand"

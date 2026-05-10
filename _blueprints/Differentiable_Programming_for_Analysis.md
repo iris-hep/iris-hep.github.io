@@ -1,12 +1,12 @@
 ---
 layout: blueprint
 visible: true
-topic: Differentiable Programming for Analysis
-meetingurl:
-meetingdate:
+topic: Differentiable Analysis Blueprint
+meetingurl: https://indico.cern.ch/event/1633539/
+meetingdate: 2026-03-05
 focus-areas:
     - AS
-status: planned
-location:
+status: complete
+location: CERN
 documents:
 ---

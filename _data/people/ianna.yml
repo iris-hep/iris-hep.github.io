@@ -10,6 +10,16 @@ shortname: ianna
 title: Research Software Engineer
 website: https://github.com/ianna
 presentations:
+  - title: "Awkward Arrays and JAX."
+    date: 2026-03-05
+    url: https://indico.cern.ch/event/1633539/contributions/6915476/attachments/3232549/5762552/Awkward%20Array%20and%20JAX.pdf
+    meeting: Differentiable Analysis Blueprint
+    meetingurl: https://indico.cern.ch/event/1633539/timetable/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Advancing Awkward Arrays for High-Performance CPU and GPU Processing."
     date: 2025-09-08
     url: https://indico.cern.ch/event/1488410/contributions/6562844/attachments/3130285/5553216/ACAT2025%20Advancing%20Awkward%20Arrays%20for%20High-Performance%20GPU%20and%20CPU%20Processing.pdf

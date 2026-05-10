@@ -1,11 +1,11 @@
 ---
 layout: blueprint
-visible: false
+visible: true
 topic: Simulation Based Inference (SBI)
 meetingurl: https://indico.cern.ch/event/1600677/
 meetingdate: 2026-02-26
 focus-areas: as
-status: planned
+status: complete
 location: CERN
 documents:
 ---

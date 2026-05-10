@@ -27,7 +27,7 @@ eligible for reimbursement from the IRIS-HEP project.
   * For long distance ground travel, mass transportation (train, bus) is preferred to long distance taxi. Short distance travel by taxi is allowed. For example, if necessary, a taxi (uber, lyft) can be used from Princeton Junction to Princeton for late arrivals in place of the Dinky (train station on campus). When reasonably convenient public transportation is not available, a taxi may be used from the airport in a given city to a hotel in that same city. Long distance taxis (e.g. EWR to Princeton) should not be used, except in special cases like arrival during the night.
   * Car rentals will not be reimbursed unless specifically authorized by the IRIS-HEP Principal Investigator (Peter Elmer).
   * For many IRIS-HEP events, some number of meals and coffee breaks will be provided for you. The specifics will be described in an email from an IRIS-HEP representative about the event. Additional meals costs will not be reimbursed.
-  * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University (or analog with respect to other event locations) may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the standard IRS rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
+  * Non-Princeton participants coming from locations within reasonable driving distance of Princeton University (or within driving distance of other event locations, when the event is not at Princeton) may choose to drive their personal automobile. Reimbursement will be provided based on mileage using the standard IRS rates. An itinerary map (e.g. from Google Maps) should be provided in lieu of a receipt.
   * Receipts should be provided in electronic form (scanned or clear photos), preferably grouped together into a single pdf file.
   * The form(s) for reimbursement are linked below. This should in general be filled out by one week after the end of the event itself and submitted along with the electronic copy of the receipts described above.
 
@@ -73,12 +73,25 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [USCMS/IRIS-HEP 2026 Analysis Software Training](https://indico.cern.ch/event/1633748/)
+  * Location: University of Maryland, College Park, MD
+  * Meeting Dates: 1-2 June, 2026
+  * Business purpose: Participation in USCMS/IRIS-HEP 2026 Analysis Software Training event
+  * "event-prefix" for pdf file naming: USCMS
+
+#### [Blueprint Workshop: Towards a National-Scale AI Collaboration in HEP](https://indico.flatironinstitute.org/event/4120/)
+  * Location: Washington DC
+  * Meeting Dates: 18-19 May, 2026
+  * Business purpose: Participation in AI Collaboration 2026 Blueprint Workshop
+  * "event-prefix" for pdf file naming: AICollab
+
 #### [Open (And Closed) Data in the Age of AI Workshop (FAIROS-HEP)](https://indico.cern.ch/event/1659498/overview)
   * Location: Chicago, IL
   * Meeting Dates: 23-24 April, 2026
   * Business purpose: Participation in Open (and Closed) Data in the Age of AI Workshop
   * "event-prefix" for pdf file naming: AI-Open-Closed-Data-2026
 
+<!--
 #### [AI Community Vision Planning Workshop](https://indico.flatironinstitute.org/event/4112/)
   * Location: New York City, NY
   * Meeting Dates: 22-23 January, 2026
@@ -91,7 +104,7 @@ Please note the following:
   * Business purpose: Participation in Coordinated Ecosystem Blueprint Workshop
   * "event-prefix" for pdf file naming: Coordinated-Ecosystem-2025
 
-<!--
+
 #### [Connecting the Dots 2025 Workshop](https://indico.cern.ch/event/1499357/)
   * Location: Tokyo, Japan
   * Meeting Dates: 10-14 November, 2025
