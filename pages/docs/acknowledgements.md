@@ -10,18 +10,25 @@ pagetype: doc
 
 It is important that funding support from IRIS-HEP is acknowledged in all
 publications and conference proceedings which result from that funding.
-The following text should be used:
+The following text should be used for projects involving both the first and second IRIS-HEP grant:
 
 ---
 
 *This work was supported by the National Science Foundation under Cooperative Agreements OAC-1836650 and PHY-2323298.*
 
 ---
+Newer projects started in 2024 and beyond can just reference the newer award:
+
+---
+
+*This work was supported by the National Science Foundation under Cooperative Agreement PHY-2323298.*
+
+---
+
 
 Suitable variations to also acknowledge other sources of support are of
 course acceptable, but the specific award numbers (OAC-1836650 and/or PHY-2323298)
-for IRIS-HEP must be included. Most activities may have contributions (in 2024 and
-2025) from both awards, but as we go along newer activities (start in 2024 and beyond) may have been funded of course by PHY-2323298 alone and thus you can drop OAC-1836650.
+for IRIS-HEP must be included. 
 
 ## Referencing IRIS-HEP in Publications
 
