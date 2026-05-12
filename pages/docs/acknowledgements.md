@@ -28,7 +28,7 @@ Newer projects started in 2024 and beyond can just reference the newer award:
 
 Suitable variations to also acknowledge other sources of support are of
 course acceptable, but the specific award numbers (OAC-1836650 and/or PHY-2323298)
-for IRIS-HEP must be included. 
+for IRIS-HEP must be included.
 
 ## Referencing IRIS-HEP in Publications
 
