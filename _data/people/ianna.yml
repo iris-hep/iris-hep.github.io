@@ -20,6 +20,26 @@ presentations:
       - as
     project:
       - awkward
+  - title: "Python All the Way Down: Speed-of-Light CUDA Without Leaving Python."
+    date: 2026-03-19
+    url: https://www.nvidia.com/en-us/on-demand/session/gtc26-s81531/
+    meeting: NVIDIA GTC, San Jose
+    meetingurl: https://www.nvidia.com/gtc/
+    location: San Jose, CA, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Accelerate Open Science: Incorporating CUDA Into the SciPy Ecosystem."
+    date: 2026-03-17
+    url: https://www.nvidia.com/en-us/on-demand/session/gtc26-s82113/
+    meeting: NVIDIA GTC, San Jose
+    meetingurl: https://www.nvidia.com/gtc/
+    location: San Jose, CA, USA
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Advancing Awkward Arrays for High-Performance CPU and GPU Processing."
     date: 2025-09-08
     url: https://indico.cern.ch/event/1488410/contributions/6562844/attachments/3130285/5553216/ACAT2025%20Advancing%20Awkward%20Arrays%20for%20High-Performance%20GPU%20and%20CPU%20Processing.pdf
