@@ -1,0 +1,9 @@
+name: HSF/IRIS-HEP Software Basics Training at BNL
+startdate: 2026-06-04
+enddate: 2026-06-05
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1683420/
+image:
+description: open-source projects, HEP computing, Training Resources provided by HSF and IRIS-HEP for BNL 2026 summer interns
+labels:
+  - training
