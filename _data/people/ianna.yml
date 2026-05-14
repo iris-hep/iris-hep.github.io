@@ -21,7 +21,7 @@ presentations:
     project:
       - awkward
   - title: "Python All the Way Down: Speed-of-Light CUDA Without Leaving Python."
-    date: 2026-19-03
+    date: 2026-03-19
     url: https://www.nvidia.com/en-us/on-demand/session/gtc26-s81531/
     meeting: NVIDIA GTC, San Jose
     meetingurl: https://www.nvidia.com/gtc/
