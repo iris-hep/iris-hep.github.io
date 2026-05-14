@@ -31,7 +31,7 @@ presentations:
     project:
       - awkward
   - title: "Accelerate Open Science: Incorporating CUDA Into the SciPy Ecosystem."
-    date: 2026-17-03
+    date: 2026-03-17
     url: https://www.nvidia.com/en-us/on-demand/session/gtc26-s82113/
     meeting: NVIDIA GTC, San Jose
     meetingurl: https://www.nvidia.com/gtc/
