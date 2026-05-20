@@ -19,3 +19,15 @@ presentations:
     meeting: "KNIT 8: A FABRIC Community Workshop"
     meetingurl: https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/
     focus-area: ssl
+  - title: "Advancing Server-Side Data Delivery with FABRIC at CERN: Updates Since KNIT9"
+    date: 2025-03-12
+    url: https://drive.google.com/drive/folders/1Ki3RHiTp7X1UhYeQ-qr48io5exiclNp6
+    meeting: "KNIT 10: A FABRIC Community Workshop"
+    meetingurl: https://knit.fabric-testbed.net/#/past-knits/knit10
+    focus-area: ssl
+  - title: "A Hosted BinderHub Service as a Scalable Training Platform for HEP"
+    date: 2026-05-28
+    url: https://indico.cern.ch/event/1471803/contributions/6968311/
+    meeting: "CHEP 2026"
+    meetingurl: https://indico.cern.ch/event/1471803/
+    focus-area: ssl
