@@ -9,6 +9,62 @@ shortname: ddavila0
 title: Scientific Software Developer and Researcher
 website:
 presentations:
+  - title: "Results from US Mini-Challenges"
+    date: 2026-02-25
+    url: https://indico.cern.ch/event/1652743/contributions/6954332/attachments/3226796/5751333/Results%20from%20US%20MIni-Challenges.pdff
+    meeting: "WLCG DOMA General Meeting"
+    meetingurl: https://indico.cern.ch/event/1652743/
+    focus-area: doma
+    project: scaling
+  - title: "SENSE, does it make SENSE for AF?"
+    date: 2026-02-10
+    url: https://indico.cern.ch/event/1640947/contributions/6902775/attachments/3226262/5749786/SENSE,%20does%20it%20make%20SENSE%20for%20AF%3F.pdf
+    meeting: "US CMS Analysis Facility Meeting"
+    meetingurl: https://indico.cern.ch/event/1640947/
+    focus-area: doma
+    project: scaling
+  - title: "Rucio/SENSE Road Towards Production"
+    date: 2025-11-05
+    url: https://indico.cern.ch/event/1545309/contributions/6733882/attachments/3167533/5631029/Rucio_SENSE%20Road%20Towards%20Production%20-%20Rucio%208th%20Workshop-1.pdf
+    meeting: "8th Rucio Workshop"
+    meetingurl: https://indico.cern.ch/event/1545309/
+    focus-area: doma
+    project: scaling
+  - title: "Mini-Data Challenge Program of work"
+    date: 2025-10-09
+    url: https://indico.cern.ch/event/1576135/contributions/6720420/attachments/3151752/5596907/Mini-Data%20Challenge%20Program%20of%20Work.pdf
+    meeting: "IRIS-HEP Institute Retreat 2025"
+    meetingurl: https://indico.cern.ch/event/1576135/
+    focus-area: doma
+    project: scaling
+  - title: "About the latest mini-DC"
+    date: 2025-09-16
+    url: https://indico.cern.ch/event/1401072/contributions/6701868/attachments/3136820/5566184/About%20latest%20mini-DC.pdf
+    meeting: "USCMS Tier-2 Facilities Meeting"
+    meetingurl: https://indico.cern.ch/event/1401072/
+    focus-area: doma
+    project: scaling
+  - title: "Capability Challenge: SENSE"
+    date: 2025-06-05
+    url: https://agenda.hep.wisc.edu/event/2297/contributions/34309/attachments/10375/13341/SENSE_Rucio%20-%20HTC25.pdf
+    meeting: "Throughput Computing 2025"
+    meetingurl: https://agenda.hep.wisc.edu/event/2297
+    focus-area: doma
+    project: scaling
+  - title: "USCMS 1st Capabilities mini-challenge"
+    date: 2025-02-04
+    url: https://indico.cern.ch/event/1401064/contributions/5889530/attachments/3008747/5304199/Mini%20Challenges.pdf
+    meeting: "Tier-2 Facilities Meeting"
+    meetingurl: https://indico.cern.ch/event/1401064/
+    focus-area: doma
+    project: scaling
+  - title: "Rucio/SENSE integration project"
+    date: 2024-11-11
+    url: https://docs.google.com/presentation/d/10FGdEvhVPQhsXHKJygKXKlrK_qnxm0WgtUfq26sBPNQ/edit?usp=sharing
+    meeting: "USCMS DMWM Workshop at the LPC"
+    meetingurl: https://indico.cern.ch/event/1461665/
+    focus-area: doma
+    project: scaling
   - title: "Integration between Rucio and SENSE"
     date: 2024-10-02
     url: https://indico.cern.ch/event/1343110/contributions/6119458/attachments/2939437/5163693/Integration%20between%20Rucio%20and%20SENSE.pdf
