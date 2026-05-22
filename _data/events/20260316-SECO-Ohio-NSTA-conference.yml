@@ -1,0 +1,10 @@
+name: SECO (Ohio NSTA conference)
+startdate: 2026-03-16
+enddate: 2026-03-17
+location: Lewis Center, OH 43035
+meetingurl: https://indico.cern.ch/event/1690173/
+image:
+description: Bringing Particle Physics to the Classroom: Quarknet’s Data Activities Portfolio and World Wide Data Day
+labels:
+  - training
+  - outreach
