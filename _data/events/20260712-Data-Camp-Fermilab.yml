@@ -1,0 +1,10 @@
+name: Data Camp at Fermilab
+startdate: 2026-07-12
+enddate: 2026-07-17
+location: Fermilab
+meetingurl: https://indico.cern.ch/event/1690178/
+image:
+description: Data Camp is designed to be an introductory workshop for both new and veteran teachers of physics and physical science. 
+labels:
+  - training
+  - outreach
