@@ -1,0 +1,10 @@
+name: Coding Camp 1 - Virtual
+startdate: 2026-06-29
+enddate: 2026-07-03
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1690177/
+image:
+description: QuarkNet Coding Camp 1 is a one-week remote workshop for teachers where you'll learn to code in Python, analyze particle physics data, and practice integrating that into your own curriculum with reformed pedagogy.
+labels:
+  - training
+  - outreach
