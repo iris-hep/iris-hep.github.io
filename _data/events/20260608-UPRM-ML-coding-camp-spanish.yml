@@ -1,0 +1,10 @@
+name: UPRM ML coding camp
+startdate: 2026-06-08
+enddate: 2026-06-10
+location: University of Puerto Rico Mayaguez
+meetingurl: https://indico.cern.ch/event/1690176/
+image:
+description: A practical workshop for high school teachers to learn the fundamental concepts of Machine Learning and how to teach them in the classroom through simple and reproducible projects.
+labels:
+  - training
+  - outreach
