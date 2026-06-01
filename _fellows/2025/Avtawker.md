@@ -21,14 +21,14 @@ mentors:
   - Dr. Liv Vage (Princeton University)
 proposal: "/assets/pdf/fellows-2025/USA013-proposal-Arvind-Tawker.pdf"
 presentations:
-  - title:
-    date:
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
-current_status:
+  - title: Development of Modular ML Pipeline Templates for High Energy Physics Applications
+    date: August 6, 2025
+    url: https://indico.cern.ch/event/1569879/
+    meeting: IRIS-HEP Fellowship Lightning Talks
+    meetingurl: https://indico.cern.ch/event/1569879/
+    recordingurl: https://www.youtube.com/watch?v=eD6jXGcyRDY
+    focus-area: Developing modular Machine Learning pipeline templates for High-Energy Physics (HEP) applications to streamline ML-pipelining and reproducibility.
+current_status: Physics PhD student at Johns Hopkins University
 github-username: Avtawker
 linkedin-profile: "https://www.linkedin.com/in/arvind-tawker-381809224/"
 funding-source: nsf
