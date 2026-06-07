@@ -43,4 +43,5 @@ linkedin-profile: https://www.linkedin.com/in/denys-klekots-319482230
 focus-area:
 challenge-area: agc
 funding-source: impress-u
+ukraine: true
 ---

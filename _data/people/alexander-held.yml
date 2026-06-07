@@ -474,6 +474,18 @@ presentations:
       - coffea-casa
       - agc
 
+  - title: "Dask scaling for cabinetry"
+    date: 2023-12-01
+    url: https://indico.cern.ch/event/1340271/#11-dask-scaling-for-cabinetry
+    meeting: IRIS-HEP / AGC Demo Day 3
+    meetingurl: https://indico.cern.ch/event/1340271/
+    location: "CERN"
+    focus-area:
+      - as
+    challenge-area: agc
+    project:
+      - agc
+
   - title: "Constructing and steering pyhf models with cabinetry"
     date: 2023-12-04
     url: https://indico.cern.ch/event/1294577/contributions/5689564/
@@ -543,6 +555,18 @@ presentations:
       - as
     project:
       - madminer
+
+  - title: "Benchmarking tools for IDAP 200 Gbps exercise"
+    date: 2024-05-24
+    url: https://indico.cern.ch/event/1394151/#5-benchmarking-tools-for-idap
+    meeting: IRIS-HEP / AGC Demo Day 5
+    meetingurl: https://indico.cern.ch/event/1394151/
+    location: "CERN"
+    focus-area:
+      - as
+    challenge-area: agc
+    project:
+      - agc
 
   - title: "Statistical tools: pyhf and cabinetry"
     date: 2024-07-19
@@ -627,3 +651,133 @@ presentations:
     challenge-area: agc
     project:
       - agc
+
+  - title: "Understanding the scale of HL-LHC physics analyses"
+    date: 2025-05-06
+    url: https://indico.cern.ch/event/1484669/contributions/6462310/
+    meeting: WLCG/HSF Workshop 2025
+    meetingurl: https://indico.cern.ch/event/1484669/
+    location: "Orsay, France"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - agc
+
+  - title: "Understanding the scale of HL-LHC physics analyses: ATLAS survey results"
+    date: 2025-05-16
+    url: https://indico.cern.ch/event/1515493/contributions/6522216/
+    meeting: Physics analysis at the HL-LHC blueprint meeting
+    meetingurl: https://indico.cern.ch/event/1515493/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - agc
+
+  - title: "Outcome from the IRIS-HEP Blueprint Workshop: Physics analysis at the HL-LHC"
+    date: 2025-05-23
+    url: https://indico.cern.ch/event/1551303/#30-outcome-from-the-iris-hep-b
+    meeting: ATLAS Analysis Model Group (internal)
+    meetingurl: https://indico.cern.ch/event/1551303/
+    location: "(Virtual)"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - agc
+
+  - title: "Analysis Facilities: recent activities & questions"
+    date: 2025-07-09
+    url: https://indico.cern.ch/event/1509063/timetable/#26-analysis-facilities
+    meeting: ATLAS Software & Computing Week
+    meetingurl: https://indico.cern.ch/event/1509063/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - agc
+
+  - title: "ATLAS Integration Challenge and basket sizes"
+    date: 2026-01-23
+    url: https://indico.cern.ch/event/1637767/#3-atlas-integration-challenge
+    meeting: ATLAS Analysis Model Group
+    meetingurl: https://indico.cern.ch/event/1637767/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - ic
+
+  - title: "Unknown unknowns in ML for Physics"
+    date: 2026-02-16
+    url: https://indico.cern.ch/event/1617006/contributions/6877651/
+    meeting: Second PHYSTAT VERaIPHY workshop
+    meetingurl: https://indico.cern.ch/event/1617006/
+    location: "Amsterdam, Netherlands"
+    focus-area:
+      - as
+    project:
+
+  - title: "ATLAS Integration Challenge"
+    date: 2026-02-23
+    url: https://indico.cern.ch/event/1621101/#7-atlas-pipeline-at-uchicago
+    meeting: IRIS-HEP Integration Challenge workshop
+    meetingurl: https://indico.cern.ch/event/1621101/
+    location: "CERN"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - ic
+
+  - title: "HistFactory Introduction"
+    date: 2026-02-26
+    url: https://indico.cern.ch/event/1600677/contributions/6933563/
+    meeting: Simulation-Based Inference Blueprint
+    meetingurl: https://indico.cern.ch/event/1600677/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+      - cabinetry
+      - pyhf
+
+  - title: "Adoption of Automatic Differentiation in HEP"
+    date: 2026-03-05
+    url: https://indico.cern.ch/event/1633539/timetable/#7-adoption-of-automatic-differ
+    meeting: Differentiable Analysis Blueprint
+    meetingurl: https://indico.cern.ch/event/1633539/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+
+  - title: "The ATLAS Integration Challenge: studying physics analyses towards the HL-LHC"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6968228/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: "Bangkok, Thailand"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - ic

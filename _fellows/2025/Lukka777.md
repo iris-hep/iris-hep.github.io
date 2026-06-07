@@ -5,7 +5,7 @@ shortname: Lukka777
 permalink: /fellows/Lukka777.html
 fellow-name: Luka Gavrysh
 title: Luka Gavrysh - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-07-01
   end: 2025-09-23
@@ -36,4 +36,6 @@ current_status: >
   A placeholder for status updates
 github-username: Lukka777
 linkedin-profile:
+funding-source: impress-u
+ukraine: true
 ---

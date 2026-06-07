@@ -35,4 +35,5 @@ linkedin-profile: https://www.linkedin.com/in/dmytro-horyslavets
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---

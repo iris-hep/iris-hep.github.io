@@ -1,4 +1,4 @@
-active: true
+active: false
 e-mail: beomki.yeo@berkeley.edu
 focus-area:
   - ia
@@ -227,6 +227,7 @@ presentations:
     meetingurl: https://indico.cern.ch/event/1338689
     meeting: "CHEP 2024 - Conference on Computing in High Energy Physics"
     focus-area: ia
+    project: acts
     location: Krakow, Poland
   - title: Kalman Smoothing with a Two-Filter Method
     date: 2024-12-13

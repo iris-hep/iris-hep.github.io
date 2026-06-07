@@ -1,0 +1,9 @@
+name: "Computational HEP Traineeship Summer School 2026"
+startdate: 2026-08-10
+enddate: 2026-08-14
+location: Brookhaven National Laboratory
+meetingurl: https://indico.cern.ch/event/1672591/
+image:
+description: Summer school for graduate students in the DOE Traineeship in Computational HEP programs TAC-HEP, WATCHEP and C2-THE-P2 and LGT4HEP.
+labels:
+  - training

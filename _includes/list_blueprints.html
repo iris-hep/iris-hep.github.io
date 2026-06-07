@@ -46,9 +46,7 @@
   {% case status %}
   {% when "complete" %}
   <span class="badge badge-pill badge-success">{{ status | capitalize }}</span>
-  {% when "scheduled" %}
-  <span class="badge badge-pill badge-primary">{{ status | capitalize }}</span>
-  {% when "proposed" %}
+  {% when "planned" %}
   <span class="badge badge-pill badge-warning">{{ status | capitalize }}</span>
   {% else %}
   <span class="badge badge-pill badge-info">{{ "Unknown" | capitalize }}</span>

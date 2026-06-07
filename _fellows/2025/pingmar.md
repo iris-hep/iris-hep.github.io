@@ -5,7 +5,7 @@ shortname: roman-petrov
 permalink: /fellows/roman-petrov.html
 fellow-name: Roman Petrov
 title: Roman Petrov - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2025-06-23
   end: 2025-09-15
@@ -26,4 +26,6 @@ presentations:
 current_status:
 github-username: pingmar
 linkedin-profile: https://www.linkedin.com/in/petrov-roman/
+funding-source: other
+ukraine: true
 ---

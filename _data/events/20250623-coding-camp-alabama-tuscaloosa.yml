@@ -1,0 +1,10 @@
+name: Coding Camp at University of Alabama (Tuscaloosa)
+startdate: 2025-06-23
+enddate: 2025-06-26
+location: University of Alabama (Tuscaloosa)
+meetingurl: https://indico.cern.ch/event/1572098/
+image:
+description: University of Alabama Teacher Coding Workshop for high school teachers, computer programming in Python, analyze large datasets
+labels:
+  - training
+  - outreach

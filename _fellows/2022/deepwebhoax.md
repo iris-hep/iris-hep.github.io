@@ -43,4 +43,5 @@ linkedin-profile: https://www.linkedin.com/in/bohdan-tyshchenko
 focus-area:
 challenge-area:
 funding-source: other
+ukraine: true
 ---
