@@ -13,7 +13,7 @@ photo: /assets/images/team/fellows-2026/Daryna-Shevchuk.jpg
 institution: Ukrainian Catholic University
 e-mail: d.shevchuk.pn@ucu.edu.ua
 focus-area: as
-challenge-area: 
+challenge-area:
 project_title: Benchmarking and Optimizing PyHS3
 project_goal: >
   Develop a comprehensive benchmarking and optimization infrastructure for
