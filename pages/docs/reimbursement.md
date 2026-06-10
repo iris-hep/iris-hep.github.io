@@ -91,6 +91,12 @@ Please note the following:
   * Business purpose: Participation in Open (and Closed) Data in the Age of AI Workshop
   * "event-prefix" for pdf file naming: AI-Open-Closed-Data-2026
 
+#### [APS Global Summit](https://summit.aps.org)
+  * Location: Denver, CO
+  * Meeting Dates: 15-20 March, 2026
+  * Business purpose: Participation in APS Global Summit (HEP Software Panel)
+  * "event-prefix" for pdf file naming: APS-Global-Summit-2026
+
 <!--
 #### [AI Community Vision Planning Workshop](https://indico.flatironinstitute.org/event/4112/)
   * Location: New York City, NY
