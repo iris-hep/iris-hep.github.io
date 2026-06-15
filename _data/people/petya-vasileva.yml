@@ -38,7 +38,7 @@ presentations:
     focus-area: osglhc
     project: osg-networking
     location: Beijing, China
-  - title: Enhancing Network Analytics  through Machine Learning
+  - title: Enhancing Network Analytics through Machine Learning
     date: 2024-10-23
     url: https://docs.google.com/presentation/d/1U0HN_U4RRd0kH1sgdh7gv_OoHKlaOguOiKzZZPbWhnI/edit?usp=sharing
     meeting: "CHEP 2024"
@@ -46,3 +46,27 @@ presentations:
     focus-area: osglhc
     project: osg-networking
     location: Krakov, Poland
+  - title: "Investigating Routing Anomalies and Performance Degradation in WLCG Networks: Case Studies Toward HL-LHC Operations"
+    date: 2026-05-27
+    url: https://docs.google.com/presentation/d/1JgQxvfDWRhtb07yzKtupXWftexOFA78icdm8paWK6uY/edit?usp=sharing
+    meeting: "CHEP 2026"
+    meetingurl: https://indico.cern.ch/event/1471803/contributions/6966480/
+    focus-area: osglhc
+    project: osg-networking
+    location: Bangkok, Thailand
+  - title: "Making WLCG Networks Visible: An Alarm and Visualization Platform"
+    date: 2026-05-27
+    url: https://canva.link/cciivuxomo0kwp5
+    meeting: "CHEP 2026"
+    meetingurl: https://indico.cern.ch/event/1471803/contributions/6966844/
+    focus-area: osglhc
+    project: osg-networking
+    location: Bangkok, Thailand
+  - title: Explainable Routing-Aware Incident Triage from Active Measurements
+    date: 2026-07-20
+    url: https://docs.google.com/presentation/d/1YzED3VcTL-UoyfCiHsJplIbxQ0-I5icMVRG37P0Yh-k/edit?usp=sharing
+    meeting: "Applied Networking Research Workshop 2026 (ANRW’26)"
+    meetingurl: https://www.irtf.org/anrw/2026/
+    focus-area: osglhc
+    project: osg-networking
+    location: Vienna, Austria
