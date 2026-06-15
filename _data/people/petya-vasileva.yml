@@ -46,6 +46,22 @@ presentations:
     focus-area: osglhc
     project: osg-networking
     location: Krakov, Poland
+  - title: perfSONAR Network Analytics - Status & Plans
+    date: 2025-02-05
+    url: https://docs.google.com/presentation/d/1IxRKs8MZIxHPZiO96PPluMT9Rhybbd5uptDeHbjAWLA/edit
+    meeting: "ATLAS Software & Computing Week"
+    meetingurl: https://indico.cern.ch/event/1485818/
+    focus-area: osglhc
+    project: osg-networking
+    location: CERN, Geneva, Switzerland
+  - title: Investigating Routing Anomalies and Performance Degradation in WLCG Networks (Case Studies)
+    date: 2025-11-05
+    url: https://indico.cern.ch/event/1536836/contributions/6754963/attachments/3167515/5629846/HEPiX.pdf
+    meeting: "HEPiX Fall 2025 Workshop"
+    meetingurl: https://indico.cern.ch/event/1536836/
+    focus-area: osglhc
+    project: osg-networking
+    location: Lanzhou, China
   - title: "Investigating Routing Anomalies and Performance Degradation in WLCG Networks: Case Studies Toward HL-LHC Operations"
     date: 2026-05-27
     url: https://docs.google.com/presentation/d/1JgQxvfDWRhtb07yzKtupXWftexOFA78icdm8paWK6uY/edit?usp=sharing
