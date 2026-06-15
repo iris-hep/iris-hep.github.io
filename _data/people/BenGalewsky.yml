@@ -115,3 +115,14 @@ presentations:
       - doma
     project:
       - servicex
+  - title: "ServiceX Update"
+    date: 2026-05-27
+    url: https://indico.cern.ch/event/1471803/contributions/6968303/
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area:
+      - as
+      - doma
+    project:
+      - servicex
