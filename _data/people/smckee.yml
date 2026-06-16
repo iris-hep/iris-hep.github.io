@@ -760,8 +760,6 @@ presentations:
     date: 2025-09-15
     focus-area: doma
     project: osg-networking
-<<<<<<< HEAD
-=======
   - title: Results of Removal of IPv4 Peering on LHCOPN in the U.S.
     meeting: "HEPiX IPv6 Working Group"
     url: https://indico.cern.ch/event/1572880/contributions/6626783/attachments/3142032/5576855/Results%20of%20Removal%20of%20IPv4%20Peering%20on%20US%20LHCOPN.pdf
@@ -818,4 +816,3 @@ presentations:
     date: 2026-05-06
     focus-area: osglhc
     project: osg-networking
->>>>>>> 3f08d355 (Adding updates for Shawn McKee publications and presentations)
