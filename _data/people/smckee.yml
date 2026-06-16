@@ -760,3 +760,62 @@ presentations:
     date: 2025-09-15
     focus-area: doma
     project: osg-networking
+<<<<<<< HEAD
+=======
+  - title: Results of Removal of IPv4 Peering on LHCOPN in the U.S.
+    meeting: "HEPiX IPv6 Working Group"
+    url: https://indico.cern.ch/event/1572880/contributions/6626783/attachments/3142032/5576855/Results%20of%20Removal%20of%20IPv4%20Peering%20on%20US%20LHCOPN.pdf
+    location: CERN, Geneva, Switzerland
+    meetingurl: https://indico.cern.ch/event/1572880/
+    date: 2025-09-24
+    focus-area: osglhc
+    project: osg-networking
+  - title: Evolution of OSG Networking
+    meeting: "IRIS-HEP Fall 2026 Retreat"
+    url: https://indico.cern.ch/event/1576135/contributions/6738087/attachments/3151562/5597422/IRIS-HEP_OSG-LHC%20Networking%20Vision%20for%202028.pdf
+    location: Saint Gervais, Switzerland
+    meetingurl: https://indico.cern.ch/event/1576135
+    date: 2025-10-09
+    focus-area: osglhc
+    project: osg-networking
+  - title: Updates from perfSONAR, SciTags and the RNTWG
+    meeting: "HEPiX IPv6 Working Group"
+    url: https://indico.cern.ch/event/1608816/contributions/6779130/attachments/3209072/5715383/Updates%20from%20perfSONAR,%20SciTags%20and%20the%20RNTWG.pdf
+    location: Manchester, UK
+    meetingurl: https://indico.cern.ch/event/1608816/
+    date: 2026-01-28
+    focus-area: osglhc
+    project: osg-networking
+  - title: WLCG Technical Roadmap Networking Chapter
+    meeting: "LHCOPN/LHCONE Meeting #56"
+    url: https://docs.google.com/presentation/d/1EswhmufjHS81pGIcxNJYV3RxOsoXDVZJDNNbXwQlod4/edit?usp=sharing
+    location: Montreal, Canada
+    meetingurl: https://indico.cern.ch/event/1602404
+    date: 2026-04-16
+    focus-area: osglhc
+    project: osg-networking
+  - title: USCMS and USATLAS Mini-Challenges
+    meeting: "LHCOPN/LHCONE Meeting #56"
+    url: https://indico.cern.ch/event/1602404/contributions/6923765/attachments/3257325/5814626/USCMS%20and%20USATLAS%20Mini-Challenges.pdf
+    location: Montreal, Canada
+    meetingurl: https://indico.cern.ch/event/1602404
+    date: 2026-04-16
+    focus-area: osglhc
+    project: osg-networking
+  - title: Network Monitoring Update
+    meeting: "LHCOPN/LHCONE Meeting #56"
+    url: https://indico.cern.ch/event/1602404/contributions/6923772/attachments/3256843/5813669/Network%20Monitoring%20Update.pdf
+    location: Montreal, Canada
+    meetingurl: https://indico.cern.ch/event/1602404
+    date: 2026-04-15
+    focus-area: osglhc
+    project: osg-networking
+  - title: "SciTags / Firefly: Goals, the current state and results"
+    meeting: "20th International dCache Workshop 2026"
+    url: https://indico.nikhef.nl/event/7562/contributions/30025/attachments/10996/16976/SciTags%20_%20Firefly_%20Goals,%20the%20current%20state%20and%20results.pdf
+    location: Amsterdam, Netherlands
+    meetingurl: https://indico.nikhef.nl/event/7562/
+    date: 2026-05-06
+    focus-area: osglhc
+    project: osg-networking
+>>>>>>> 3f08d355 (Adding updates for Shawn McKee publications and presentations)
