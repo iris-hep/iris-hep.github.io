@@ -48,7 +48,7 @@ presentations:
     labels:
       - conference
 
-  - title: Up your ML game: an overview of Python ML tools relevant to HEP
+  - title: Up your ML game - an overview of Python ML tools relevant to HEP
     date: 2025-10-28
     url: https://indico.cern.ch/event/1566263/contributions/6733145/
     meeting: PyHEP 2025
@@ -92,7 +92,7 @@ presentations:
     labels:
       - conference
 
-  - title: Track 8: Analysis Infrastructure Conference Summary
+  - title: Track 8 - Analysis Infrastructure Conference Summary
     date: 2025-05-29
     url: https://indico.cern.ch/event/1471803/contributions/7089339/
     meeting: CHEP 2026
