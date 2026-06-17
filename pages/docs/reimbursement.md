@@ -73,6 +73,12 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [IRIS-HEP Software Basics Training at BNL](https://indico.cern.ch/event/1683420/)
+  * Location: Brookhaven National Laboratory, Upton, NY
+  * Meeting Dates: 3-5 June, 2026
+  * Business purpose: Participation in IRIS-HEP Software Basics Training Training event
+  * "event-prefix" for pdf file naming: BNL-SW-Training
+
 #### [USCMS/IRIS-HEP 2026 Analysis Software Training](https://indico.cern.ch/event/1633748/)
   * Location: University of Maryland, College Park, MD
   * Meeting Dates: 1-2 June, 2026
