@@ -23,6 +23,7 @@ team:
 - Santam Roy Choudhury
 - ncsmith
 - ManasviGoyal
+- TaiSakuma
 ---
 
 [Awkward Array](https://github.com/scikit-hep/awkward) is a library for nested, variable-sized data, including arbitrary-length lists, records, mixed types, and missing data, using NumPy-like idioms.
