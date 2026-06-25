@@ -47,3 +47,58 @@ presentations:
     project:
     labels:
       - conference
+
+  - title: Up your ML game - an overview of Python ML tools relevant to HEP
+    date: 2025-10-28
+    url: https://indico.cern.ch/event/1566263/contributions/6733145/
+    meeting: PyHEP 2025
+    meetingurl: https://indico.cern.ch/event/1566263/
+    location: CERN
+    focus-area: ia
+    project:
+    labels:
+      - conference
+
+  - title: Rapid ML inference using logic gate neural nets
+    date: 2025-11-10
+    url: https://indico.cern.ch/event/1499357/contributions/6747483/
+    meeting: Connecting the dots 2025
+    meetingurl: https://indico.cern.ch/event/1499357/
+    location: University of Tokyo
+    focus-area: ia
+    project:
+    labels:
+      - conference
+
+  - title: Exploring the potential of cooperative track building
+    date: 2025-11-12
+    url: https://indico.cern.ch/event/1499357/contributions/6621967/
+    meeting: Connecting the dots 2025
+    meetingurl: https://indico.cern.ch/event/1499357/
+    location: University of Tokyo
+    focus-area: ia
+    project:
+    labels:
+      - conference
+
+  - title: Open-Source Tools for Effective Machine Learning Education in HEP
+    date: 2025-05-26
+    url: https://indico.cern.ch/event/1471803/contributions/6968283/
+    meeting: CHEP 2026
+    meetingurl: https://indico.cern.ch/event/1499357/
+    location: Chulalongkorn University
+    focus-area: ia
+    project:
+    labels:
+      - conference
+
+  - title: Track 8 - Analysis Infrastructure Conference Summary
+    date: 2025-05-29
+    url: https://indico.cern.ch/event/1471803/contributions/7089339/
+    meeting: CHEP 2026
+    meetingurl: https://indico.cern.ch/event/1499357/
+    location: Chulalongkorn University
+    focus-area: ia
+    project:
+    labels:
+      - conference
