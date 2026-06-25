@@ -1,5 +1,6 @@
 active: true
-focus-area: ia
+focus-area: 
+  - ia
 institution: University of Cincinnati
 name: Micol Olocco
 photo: /assets/images/team/Micol_Olocco.jpg
