@@ -25,13 +25,6 @@ mentors:
   - David Lange (Princeton University)
 proposal: /assets/pdf/fellows-2026/LIT008-proposal-Deimante-Jukneviciute.pdf
 presentations:
-  - title: ""
-    date: ""
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
 current_status: >
 github-username: deimantejukneviciute
 linkedin-profile: https://www.linkedin.com/in/deimantė-juknevičiūtė-421849340/
