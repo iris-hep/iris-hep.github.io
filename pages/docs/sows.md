@@ -25,7 +25,7 @@ Some iteration between steps 1 and 2 will likely be required based on available 
 
   This combined multi-step process is what is meant by the "annual budget and SOW process".
 
-### Dates for IRIS-HEP annual budget and SOW process for Year 8 (2027 - 2027), covering the period from 1 September, 2026, through 31 August, 2027.
+### Dates for IRIS-HEP annual budget and SOW process for Year 9 (2026 - 2027), covering the period from 1 September, 2026, through 31 August, 2027.
 
 ---
 
