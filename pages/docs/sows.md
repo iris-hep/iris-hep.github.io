@@ -15,13 +15,18 @@ which will define institutional budgets, tasks and deliverables for the
 specific (upcoming) one year time period. For example Year 1 of the IRIS-HEP
 project is from 1 September, 2018 through 31 August, 2019.
 
-  This annual process requires several steps and documents:
+This annual process requires several steps and documents. In the period before a project year will start, you should submit:
 
 1. A budget proposal and justification: this is produced by the subaward PI (and grant admin) and will be iterated between the subaward PI and the overall project PI.
-2. A description of task and deliverables - this is produced by the IRIS-HEP executive board and will be discussed (and iterated) between the subaward PI, the IRIS-HEP executive board and the IRIS-HEP team.
-3. A Statement of Work (SOW) - this will be produced by Princeton. It specifies the final tasks and deliverables, as well as the budget, for the specified year. Only when this is completed and signed by the subaward PI and the Princeton PI will funds be released.
+2. A short (less than 1 page) description of proposed activities and deliverables for the coming project year, this will be discussed (and iterated) between the subaward PI, the overall project PI and/or the IRIS-HEP executive board. Guidance from the project may be given for this in advance to ease convergence.
 
-Some iteration between steps 1 and 2 will likely be required based on available funds, the discussions described above, as well as interactions with the project Steering Board and Advisory Board.
+Some iteration will likely be required based on available funds, the discussions described above, as well as interactions with the project Steering Board and Advisory Board regarding the overall Institute work plan.
+
+After those items are discussed and we have converged, Princeton will generate:
+
+1. A Statement of Work (SOW) - this will be produced by Princeton. It specifies the final tasks and deliverables, as well as the budget, for the specified year. Only when this is completed and signed by the subaward PI and the Princeton PI will funds be released.
+
+
 
   This combined multi-step process is what is meant by the "annual budget and SOW process".
 
