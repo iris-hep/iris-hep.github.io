@@ -25,7 +25,7 @@ mentors:
   - Oleksandr Zenaiev (Hamburg University)
 proposal: /assets/pdf/fellows-2026/UKR003-proposal-Spitsyn-Mykyta.pdf
 presentations:
-current_status: 
+current_status:
 github-username: raven1423
 linkedin-profile: https://www.linkedin.com/in/mykyta-spitsyn-b8a163389/
 ---
