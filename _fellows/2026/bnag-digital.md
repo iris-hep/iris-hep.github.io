@@ -21,7 +21,7 @@ mentors:
   - Liv Våge (Princeton University)
 proposal: /assets/pdf/fellows-2026/USA006-proposal-Bornik-Nag.pdf
 presentations:
-current_status: 
+current_status:
 github-username: bnag-digital
 linkedin-profile: https://www.linkedin.com/in/bornik-nag/
 ---
