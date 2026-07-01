@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2026-06-08
   end: 2026-08-15
-photo: /assets/images/team/fellows-2026/ava-faubus.jpg
+photo: /assets/images/team/fellows-2026/Ava-Faubus.jpg
 institution: Wellesley College
 e-mail: af214@wellesley.edu
 focus-area: ia
