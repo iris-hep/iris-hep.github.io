@@ -10,7 +10,7 @@ dates:
   start: 2026-06-08
   end:  2026-08-30
 photo: /assets/images/team/fellows-2026/Danylo-Yehorov.jpg
-institution: National Technical University of Ukraine "Kyiv Polytechnic Institute" 
+institution: National Technical University of Ukraine "Kyiv Polytechnic Institute"
 e-mail: user4326@protonmail.com
 focus-area:
 challenge-area:
