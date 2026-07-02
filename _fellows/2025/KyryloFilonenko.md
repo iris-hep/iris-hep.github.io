@@ -7,10 +7,10 @@ fellow-name: "Kyrylo Filonenko"
 title: "Kyrylo Filonenko - IRIS-HEP Fellow"
 active: True
 dates:
-  start: 2025-07-01
-  end: 2025-09-23
-  start: 2026-07-06
-  end: 2026-09-28
+  - start: 2025-07-01
+    end: 2025-09-23
+  - start: 2026-07-06
+    end: 2026-09-28
 photo: "/assets/images/team/fellows-2025/Kyrylo-Filonenko.jpg"
 institution: "Taras Shevchenko National University of Kyiv"
 e-mail: "ababagalamagat1@gmail.com"
