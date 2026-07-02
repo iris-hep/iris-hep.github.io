@@ -4,7 +4,7 @@ pagetype: fellow
 shortname: pbalciunas
 fellow-name: Paulius Balčiūnas
 title: Paulius Balčiūnas - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2026-02-02
   end: 2026-04-18
