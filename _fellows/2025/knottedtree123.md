@@ -7,10 +7,10 @@ fellow-name: Cody Tanner
 title: Cody Tanner - IRIS-HEP Fellow
 active: True
 dates:
-  start: 2025-07-01
-  end: 2025-09-26
-  start: 2026-06-15
-  end: 2026-09-07
+  - start: 2025-07-01
+    end: 2025-09-26
+  - start: 2026-06-15
+    end: 2026-09-07
 photo: /assets/images/team/fellows-2025/Cody-Tanner.jpg
 institution: University of Washington
 e-mail: cjt05@uw.edu
