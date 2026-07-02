@@ -33,6 +33,6 @@ proposal: /assets/pdf/fellows-2026/UKR005-proposal-Bohdan-Wynnyckyj.pdf
 presentations:
 current_status:
 github-username: bwynnyck
-linkedin-profile: 
+linkedin-profile:
 ---
 ```
