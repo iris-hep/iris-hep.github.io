@@ -25,12 +25,12 @@ projects:
     proposal: "/assets/pdf/fellows-2025/UKR014-proposal-Kyrylo-Filonenko.pdf"
   - project_title: "Snakemake workflow engine for HEP analyses"
     project_goal: >
-      Port existing enginge-based analysis workflows to Snakemake, compare the resulting user experience between the engines, and validate distributed execution through Snakemake’s Slurm and HTCondor executor plugins. 
+      Port existing enginge-based analysis workflows to Snakemake, compare the resulting user experience between the engines, and validate distributed execution through Snakemake’s Slurm and HTCondor executor plugins.
     mentors:
       - Clemens Lange
     proposal: "/assets/pdf/fellows-2026/UKR007-proposal-Kyrylo-Filonenko.pdf"
 presentations:
-current_status: 
+current_status:
 github-username: "KyryloFilonenko"
 linkedin-profile:
 funding-source: impress-u
