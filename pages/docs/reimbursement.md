@@ -73,6 +73,18 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1633749/)
+  * Location: Tucson, AZ
+  * Meeting Dates: 30-31 July, 2026
+  * Business purpose: Participation in USATLAS/IRIS-HEP Analysis Software Training event
+  * "event-prefix" for pdf file naming: USATLAS
+
+#### [CoDaS-HEP 2026 Summer School](https://codas-hep.org)
+  * Location: Princeton, NJ
+  * Meeting Dates: 13-17 July, 2026
+  * Business purpose: Participation in CoDaS-HEP 2026 Summer School
+  * "event-prefix" for pdf file naming: CoDaS-HEP
+
 #### [IRIS-HEP Software Basics Training at BNL](https://indico.cern.ch/event/1683420/)
   * Location: Brookhaven National Laboratory, Upton, NY
   * Meeting Dates: 3-5 June, 2026
@@ -85,6 +97,7 @@ Please note the following:
   * Business purpose: Participation in USCMS/IRIS-HEP 2026 Analysis Software Training event
   * "event-prefix" for pdf file naming: USCMS
 
+<!--
 #### [Blueprint Workshop: Towards a National-Scale AI Collaboration in HEP](https://indico.flatironinstitute.org/event/4120/)
   * Location: Washington DC
   * Meeting Dates: 18-19 May, 2026
@@ -103,7 +116,6 @@ Please note the following:
   * Business purpose: Participation in APS Global Summit (HEP Software Panel)
   * "event-prefix" for pdf file naming: APS-Global-Summit-2026
 
-<!--
 #### [AI Community Vision Planning Workshop](https://indico.flatironinstitute.org/event/4112/)
   * Location: New York City, NY
   * Meeting Dates: 22-23 January, 2026
@@ -115,7 +127,6 @@ Please note the following:
   * Meeting Dates: 3-5 December, 2025
   * Business purpose: Participation in Coordinated Ecosystem Blueprint Workshop
   * "event-prefix" for pdf file naming: Coordinated-Ecosystem-2025
-
 
 #### [Connecting the Dots 2025 Workshop](https://indico.cern.ch/event/1499357/)
   * Location: Tokyo, Japan
