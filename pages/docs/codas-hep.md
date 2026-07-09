@@ -54,7 +54,7 @@ TO-EDIT
 TO-EDIT
 ```
 
-As part of this you can also specify logos for projects or experiments
+**Logos:** As part of this you can also specify logos for projects or experiments
 you are involved with. (Change the CMS and IRIS-HEP examples above to
 those that make sense for you!) An initial set of possible logos
 can be found in [the CoDaS-HEP logo area](https://github.com/iris-hep/iris-hep.github.io/tree/master/assets/images/codas-hep/logos). Please link to those if appropriate ones already exist for your affiliations. If you need to add a new one, please keep the filesize under 150kb.
