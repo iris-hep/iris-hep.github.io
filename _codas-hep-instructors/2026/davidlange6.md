@@ -6,7 +6,7 @@ name: David Lange
 photo: "/assets/images/team/David-Lange.png"
 github-username: davidlange6
 linkedin-profile:
-title: 
+title:
 website: https://dlange.web.cern.ch
 logos:
     - /assets/images/codas-hep/logos/Princeton_logo.png
