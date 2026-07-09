@@ -5,7 +5,7 @@ institution: University of California, Berkeley
 name: Isabella Deutsch
 photo: "/assets/images/codas-hep/2026/Isabella-Deutsch.png"
 github-username: izdeutsch
-linkedin-profile: https://www.linkedin.com/in/isabella-deutsch-1451b11b8/ 
+linkedin-profile: https://www.linkedin.com/in/isabella-deutsch-1451b11b8/
 orcid:
 title:
 website:
