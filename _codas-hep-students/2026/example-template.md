@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: YOUR-EMAIL
 institution: YOUR-UNIVERSITY
 name: Example Name
-photo: "/assets/images/codas-hep/2023/crow-t-robot.jpg"
+photo: "/assets/images/codas-hep/2024/crow-t-robot.jpg"
 github-username: YOUR-GITHUB-USERNAME
 linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid:
