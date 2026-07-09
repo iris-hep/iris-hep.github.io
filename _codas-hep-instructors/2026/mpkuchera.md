@@ -5,7 +5,7 @@ name: Michelle Kuchera
 institution: Davidson College
 e-mail: mikuchera@davidson.edu
 github-username: mpkuchera
-photo: "assets/images/codas-hep/2026/Michelle-Kuchera.jpg"
+photo: "/assets/images/codas-hep/2026/Michelle-Kuchera.jpg"
 shortname: mpkuchera
 title:
 website: https://www.davidson.edu/people/michelle-kuchera
