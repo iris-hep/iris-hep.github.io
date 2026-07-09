@@ -1,5 +1,5 @@
 ---
-layout: collaborator
+layout: codas-hep-participant
 active: true
 name: Michelle Kuchera
 institution: Davidson College
@@ -9,9 +9,8 @@ photo: "assets/images/codas-hep/2026/Michelle-Kuchera.jpg"
 shortname: mpkuchera
 title:
 website: https://www.davidson.edu/people/michelle-kuchera
-networks:
-  - cms
-presentations:
+logos:
+    - /assets/images/codas-hep/logos/Davidson_College_Primary_Logo.png
 ---
 
 ### My research:
