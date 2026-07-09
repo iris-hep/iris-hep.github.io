@@ -15,17 +15,17 @@ logos:
 ---
 
 ## My research:
-Effective field theory studies of Higgs VBF; data encoding and developing spiking neural networks. 
+Effective field theory studies of Higgs VBF; data encoding and developing spiking neural networks.
 
 ## My expertise is:
 Scattered and in development.
 
 ## A problem I'm grappling with:
-Lacking both the intuition and the ML-specific vocabulary to understand the for architecture and time-sensitive nature of the SNNs that I am currently building. 
+Lacking both the intuition and the ML-specific vocabulary to understand the for architecture and time-sensitive nature of the SNNs that I am currently building.
 
 ## I've got my eyes on:
 The prize.
 
 ## I want to know more about:
-The fundamentals of writing efficient code with hardware constraints in mind. 
+The fundamentals of writing efficient code with hardware constraints in mind.
 
