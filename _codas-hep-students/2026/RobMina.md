@@ -19,7 +19,7 @@ Light dark matter search at the NOvA experiment, Cosmic Ray Veto (CRV) for the M
 Integrating dark matter signal event generation with detector simulation
 
 ## A problem I'm grappling with:
-Classifying electron showers from neutrino-on-electron scattering and LDM-on-electron showering in the NOvA Near Detector 
+Classifying electron showers from neutrino-on-electron scattering and LDM-on-electron showering in the NOvA Near Detector
 
 ## I've got my eyes on:
 Integrating LLM-based tools into HEP experiment analysis and operations
