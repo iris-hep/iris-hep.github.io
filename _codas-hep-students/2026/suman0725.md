@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: codas-hep-participant
 e-mail: sumasshresth@gmail.com
@@ -13,7 +12,7 @@ website:
 logos:
     - /assets/images/codas-hep/logos/CLAS_logo.png
     - /assets/images/codas-hep/logos/CLAS12_spectrometer.png
-    - /assets/images/codas-hep/logos/JeffersonLab-logo.jpeg
+    - /assets/images/codas-hep/logos/JeffersonLab_logo.jpeg
 ---
 
 ## My research:
@@ -35,4 +34,3 @@ Improving precision measurements of nuclear structure with CLAS12 while developi
 ## I want to know more about:
 
 Research software engineering, high-performance computing, collaborative open-source software development, workflow automation, and modern data analysis techniques for particle and nuclear physics.
-```
