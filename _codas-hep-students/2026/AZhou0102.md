@@ -11,7 +11,7 @@ title: Incoming PhD Student
 website: azhou0102.github.io/
 logos:
     - /assets/images/codas-hep/logos/UPenn_logo.png
-    - /assets/images/codas-hep/logos/ATLAS-logo.jpg
+    - /assets/images/codas-hep/logos/ATLAS-logo.png
 ---
 
 ## My research:
