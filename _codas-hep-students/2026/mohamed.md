@@ -7,7 +7,7 @@ photo: "/assets/images/codas-hep/2026/mohamed_ismail.jpg"
 github-username: M7medS3d
 linkedin-profile: https://www.linkedin.com/in/mohamed-saad-ismail/
 orcid: 0009-0000-9234-7965
-title: PhD Candidate 
+title: PhD Candidate
 website:
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
