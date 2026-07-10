@@ -3,9 +3,8 @@ layout: codas-hep-participant
 e-mail: acevedolopez.1@osu.edu
 institution: The Ohio State University
 name: Ariam J. Acevedo Lopez
-photo: "/assets/images/codas-hep/2026/Ariam.jpg"
+photo: "/assets/images/codas-hep/2026/Ariam-Acevedo.jpg"
 github-username: Ariam-Acevedo
-linkedin-profile: URL-TO-LINKEDIN-PROFILE-IF-AVAILABLE
 orcid: https://orcid.org/0000-0002-3843-3595
 title: PhD Student
 logos:
