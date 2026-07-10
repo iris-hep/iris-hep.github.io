@@ -8,3 +8,13 @@ shortname: RogerJanusiak
 title: PhD Student
 website:
 presentations:
+  - title: Using ServiceX to Streamline Data Access and Simplify ATLAS Analysis Workflows
+    date: 2026-08-20
+    url: https://indico.fnal.gov/event/72820/contributions/341329/
+    meeting: Division of Particles and Fields 2026
+    meetingurl: https://indico.fnal.gov/event/72820/
+    location: FermiLab
+    focus-area:
+      - ssl
+      - doma
+      - as
