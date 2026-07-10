@@ -11,16 +11,16 @@ logos:
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
 
-## My research: 
-Neutrino Oscillation and Heavy Neutral Leptons Searches at Deep Underground Neutrino Experiment (DUNE) and ProtoDUNE 
+## My research:
+Neutrino Oscillation and Heavy Neutral Leptons Searches at Deep Underground Neutrino Experiment (DUNE) and ProtoDUNE
 
-## My Expertise is: 
+## My Expertise is:
 LArTPC trigger systems and trigger efficiency study, and Charge Readout Plane (CRP) hardware for LArTPCs
 
-## A problem I'm grappling with: 
+## A problem I'm grappling with:
 Writing cleaner, faster analysis code and building pipelines that scale past one-off scripts
 
-## I've got my eye on: 
+## I've got my eye on:
 Neutrino oscillation physics and dark matter
 
 ## I want to know more about:
