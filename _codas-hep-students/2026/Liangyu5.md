@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: liangyu5@stanford.edu
 institution: Stanford University & SLAC National Accelerator Laboratory
 name: Liangyu Wu
-photo: "/assets/images/codas-hep/2026/Liangyu-Wu.png‎"
+photo: "/assets/images/codas-hep/2026/Liangyu-Wu.png"
 github-username: Liangyu5wu
 linkedin-profile: https://www.linkedin.com/in/liangyu-wu-aa84b6327/
 orcid: 0009-0003-2402-0735
