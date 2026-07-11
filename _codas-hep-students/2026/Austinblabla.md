@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: austinwang0328@gmail.com
 institution: Rutgers University
 name: Austin Wang
-photo: "/assets/images/codas-hep/2026/austinwang.jpg"
+photo: "/assets/images/codas-hep/2026/Austin-Wang.jpg"
 github-username: Austinblabla
 linkedin-profile: https://www.linkedin.com/in/austin-wang-4880b0236/
 orcid: 0009-0004-7724-3040
