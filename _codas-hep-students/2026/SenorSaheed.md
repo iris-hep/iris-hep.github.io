@@ -7,7 +7,7 @@ github-username: SenorSaheed
 linkedin-profile: www.linkedin.com/in/saheed-oyeniran-92b0263bb
 orcid: https://orcid.org/0000-0001-8793-6896
 title: Graduate student
-website: 
+website:
 logos:
     - /assets/images/codas-hep/logos/University-of-New-Mexico-logo.png
     - /assets/images/codas-hep/logos/ATLAS-logo.png
