@@ -20,7 +20,7 @@ I am in my final year of my Ph.D. in experimental nuclear physics at Florida Int
 Hadron spectroscopy analysis, Monte Carlo simulation, and C++/ROOT.
 
 ## A problem I'm grappling with:
-Applying radiative corrections (that are currently in an old Fortran code) into a C++ event generator I built for my reaction channel. 
+Applying radiative corrections (that are currently in an old Fortran code) into a C++ event generator I built for my reaction channel.
 
 ## I've got my eyes on:
 Implementing ML techniques into my workflow
