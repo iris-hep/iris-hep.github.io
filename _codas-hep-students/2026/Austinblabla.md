@@ -15,16 +15,16 @@ logos:
 ---
 
 ## My research:
-I study jet quenching in heavy-ion collision - how jets produced in heavy-ion collision lose and redistribute energy in quark-gluon plasma. 
+I study jet quenching in heavy-ion collision - how jets produced in heavy-ion collision lose and redistribute energy in quark-gluon plasma.
 
 ## My expertise is:
-Python-based HEP analysis workflows. 
+Python-based HEP analysis workflows.
 
 ## A problem I'm grappling with:
-Getting familiar with git/GitHub and computational tools like parallel programming. 
+Getting familiar with git/GitHub and computational tools like parallel programming.
 
 ## I've got my eyes on:
-Learning JETSCAPE as a way of modeling full jet-quenching events. 
+Learning JETSCAPE as a way of modeling full jet-quenching events.
 
 ## I want to know more about:
-ML applications in HEP. 
+ML applications in HEP.
