@@ -7,9 +7,9 @@ photo: "/assets/images/codas-hep/2026/Marco-Zaccheddu.png"
 github-username: zaccheddu
 linkedin-profile: www.linkedin.com/in/marco-zaccheddu-2853572a0
 orcid: https://orcid.org/0000-0002-3672-8111
-title: Postdoctoral Researcher  
+title: Postdoctoral Researcher
 website:
-logos: 
+logos:
     - /assets/images/codas-hep/logos/JLab_logo.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
