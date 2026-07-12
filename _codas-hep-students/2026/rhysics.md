@@ -5,8 +5,8 @@ name: Rhys Taus
 photo: "/assets/images/codas-hep/2026/rhys-tays.png"
 github-username: rhysics
 linkedin-profile: https://www.linkedin.com/in/rhys-taus/
-orcid:
-title:
+orcid: 0000-0002-5168-2932
+title: Physicist
 website: rhysics.github.io
 logos:
     - /assets/images/codas-hep/logos/CMS.jpg
