@@ -15,7 +15,7 @@ logos:
     - /assets/images/codas-hep/logos/ODU-logo.png
 ---
 ## My research:
-My research focus is on J/ψ photo and electroproduction near threshold, using the CLAS12 detector at Jefferson Lab. 
+My research focus is on J/ψ photo and electroproduction near threshold, using the CLAS12 detector at Jefferson Lab.
 
 ## My expertise is:
 Experimental nuclear physics, with a focus on cross-section extraction, ROOT/C++ and Python analysis, machine learning for particle identification, and Monte Carlo production.
