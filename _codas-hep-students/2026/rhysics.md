@@ -1,3 +1,4 @@
+---
 layout: codas-hep-participant
 e-mail: rhys.taus@cern.ch
 institution: University of Rochester
