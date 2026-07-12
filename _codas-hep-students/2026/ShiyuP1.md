@@ -7,8 +7,8 @@ photo: /assets/images/codas-hep/2026/Shiyu-Peng.jpg
 github-username: ShiyuP1
 linkedin-profile: https://www.linkedin.com/in/shiyu-peng-a60a64230/
 orcid: 0009-0006-1539-8500
-title: 
-website: 
+title:
+website:
 logos:
     - /assets/images/codas-hep/logos/Brown_Logo.png
 ---
