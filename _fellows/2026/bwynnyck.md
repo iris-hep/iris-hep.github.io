@@ -14,8 +14,7 @@ institution: Taras Shevchenko National University of Kyiv
 e-mail: bohdan.wynnyckyj@proton.me
 focus-area: IA
 challenge-area: AGC
-project_title: "ATLAS-event-generation: Modernising Event"
-Generation in ATLAS Athena
+project_title: "ATLAS-event-generation: Modernising Event Generation in ATLAS Athena"
 project_goal: >
     This project will focus on improving event generation workflows within the ATLAS Athena
 software framework. The project aims to make configuration and metadata handling more
