@@ -1,4 +1,3 @@
-```
 ---
 layout: fellow
 pagetype: fellow
@@ -15,18 +14,9 @@ institution: Taras Shevchenko National University of Kyiv
 e-mail: bohdan.wynnyckyj@proton.me
 focus-area: IA
 challenge-area: AGC
-project_title: ATLAS-event-generation: Modernising Event
-Generation in ATLAS Athena
+project_title: "ATLAS-event-generation: Modernising Event Generation in ATLAS Athena"
 project_goal: >
-    This project will focus on improving event generation workflows within the ATLAS Athena
-software framework. The project aims to make configuration and metadata handling more
-robust and less error-prone, reduce reliance on user-specific settings, and align event
-generation with modern configuration patterns used elsewhere in Athena. The student will also
-explore updates that improve compatibility with multi-threaded execution and provide clean,
-well-documented example configurations. The project offers hands-on experience with
-large-scale HEP software, production workflows, and collaborative development in a flagship
-LHC experiment, while delivering practical improvements with direct impact on simulation and
-analysis.
+  This project will focus on improving event generation workflows within the ATLAS Athenasoftware framework. The project aims to make configuration and metadata handling morerobust and less error-prone, reduce reliance on user-specific settings, and align eventgeneration with modern configuration patterns used elsewhere in Athena. The student will alsoexplore updates that improve compatibility with multi-threaded execution and provide clean,well-documented example configurations. The project offers hands-on experience withlarge-scale HEP software, production workflows, and collaborative development in a flagshipLHC experiment, while delivering practical improvements with direct impact on simulation andanalysis
 mentors:
   - Brij Kishor Jashal (Rutherford Appleton Laboratory, Oxford)
 proposal: /assets/pdf/fellows-2026/UKR005-proposal-Bohdan-Wynnyckyj.pdf
@@ -35,4 +25,3 @@ current_status:
 github-username: bwynnyck
 linkedin-profile:
 ---
-```
