@@ -27,4 +27,4 @@ Developing an interface class between different ntuple formats to preserve old a
 Combination of the weak mixing angle measurement across LHC experiments and testing the standard model to its limits in Run 3.
 
 ## I want to know more about:
-Best practices for maintaining reproducable analysis frameworks.
+Best practices for maintaining reproducible analysis frameworks.
