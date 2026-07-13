@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: tanmay.pani.rutgers@gmail.com
 institution: Rutgers University
 name: Tanmay Pani
-photo: "/assets/images/codas-hep/2026/Tanmay-Pani.jpeg"
+photo: "/assets/images/codas-hep/2026/Tanmay-Pani.png"
 github-username: TanmayPani
 linkedin-profile: https://www.linkedin.com/in/tanmaypani/
 orcid:
