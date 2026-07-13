@@ -3,8 +3,8 @@ layout: codas-hep-participant
 e-mail: rohit.raut@yale.edu
 institution: Yale University
 name: Rohit Raut
-photo: "/assets/images/codas-hep/2026/Rohit-Raut.jpg"
-github-username: https://github.com/Rohit-Raut
+photo: "/assets/images/codas-hep/2026/Rohit_Raut.png"
+github-username: Rohit-Raut
 linkedin-profile: https://www.linkedin.com/in/rohit-r-905077178/
 orcid: https://orcid.org/my-orcid?orcid=0009-0009-4121-0649
 logos:
