@@ -5,10 +5,10 @@ institution: Stanford University & SLAC National Accelerator Laboratory
 name: Xiangchen Li
 photo: "/assets/images/codas-hep/2026/Xiangchen-Li.png"
 github-username: X-Li11
-linkedin-profile: 
+linkedin-profile:
 orcid: 0009-0001-3042-6200
 title: Physics PhD Student
-website: 
+website:
 logos:
     - /assets/images/codas-hep/logos/Stanford_logo.png
     - /assets/images/codas-hep/logos/ATLAS-logo.png
@@ -16,7 +16,7 @@ logos:
 ---
 
 ## My research:
-HL-LHC ATLAS ITk integration test with data acquisition system testing and development of production database for inner system. 
+HL-LHC ATLAS ITk integration test with data acquisition system testing and development of production database for inner system.
 
 ## My expertise is:
 Silicon sensor module testing and data acquisition system for ATLAS
