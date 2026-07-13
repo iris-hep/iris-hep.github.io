@@ -10,7 +10,7 @@ orcid: 0009-0001-7438-0013
 title: Incoming PhD Student
 website: https://github.com/hadronic-arvind
 logos:
-    - /assets/images/codas-hep/logos/JHU.logo_vertical.white.png
+    - /assets/images/codas-hep/logos/JHU.logo_vertical.black.png
     - /assets/images/codas-hep/logos/CMS.jpg
 ---
 
