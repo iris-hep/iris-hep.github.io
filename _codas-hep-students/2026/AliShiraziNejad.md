@@ -10,6 +10,7 @@ orcid: https://orcid.org/0009-0004-0849-6028
 title:
 website:
 logos:
+    - /assets/logos/ATLAS.png
     - /assets/images/codas-hep/logos/ATLAS.png
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
 ---
