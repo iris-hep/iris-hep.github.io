@@ -9,7 +9,7 @@ active: True
 dates:
   start: 2026-06-22
   end: 2026-09-13
-photo: /assets/images/team/fellows-2026/Bohdan-Wynnyckyj.jpg
+photo: /assets/images/team/fellows-2026/Bohdan-Wynnyckyj.png
 institution: Taras Shevchenko National University of Kyiv
 e-mail: bohdan.wynnyckyj@proton.me
 focus-area: IA
