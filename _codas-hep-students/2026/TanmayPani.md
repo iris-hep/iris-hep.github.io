@@ -1,6 +1,6 @@
 ---
 layout: codas-hep-participant
-e-mail: tanmay.pani.rutgers@gmail.com 
+e-mail: tanmay.pani.rutgers@gmail.com
 institution: Rutgers University
 name: Tanmay Pani
 photo: "/assets/images/codas-hep/2026/Tanmay-Pani.jpeg"
@@ -36,4 +36,4 @@ Defending in the next 2 months
 ## I want to know more about:
 
 
-Bare-metal programming, CUDA, other things in similar vein 
+Bare-metal programming, CUDA, other things in similar vein
