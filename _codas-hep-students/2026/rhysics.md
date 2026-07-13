@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: rhys.taus@cern.ch
 institution: University of Rochester
 name: Rhys Taus
-photo: "/assets/images/codas-hep/2026/rhys-tays.JPG"
+photo: "/assets/images/codas-hep/2026/rhys-taus.JPG"
 github-username: rhysics
 linkedin-profile: https://www.linkedin.com/in/rhys-taus/
 orcid: 0000-0002-5168-2932
