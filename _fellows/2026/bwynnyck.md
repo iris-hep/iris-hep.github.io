@@ -1,4 +1,3 @@
-```
 ---
 layout: fellow
 pagetype: fellow
@@ -35,4 +34,3 @@ current_status:
 github-username: bwynnyck
 linkedin-profile:
 ---
-```
