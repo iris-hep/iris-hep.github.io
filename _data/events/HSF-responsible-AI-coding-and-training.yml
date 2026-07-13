@@ -1,0 +1,8 @@
+name: HSF Responsible AI-assisted coding and common training aspects
+startdate: 2026-07-29
+enddate: 2026-07-29
+location: CERN
+meetingurl: https://indico.cern.ch/event/1705480/
+image:
+description: This meeting will first gather community experiences and practices on responsible AI-assisted coding in HEP software, aiming to shape a loose set of suggested guidelines through short topic presentations and discussion. It will then cover HSF training plans informed by a community survey, followed by a discussion of conclusions, next steps, and future directions.
+labels:
