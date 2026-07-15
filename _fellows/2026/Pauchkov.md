@@ -9,7 +9,7 @@ dates:
   start: 2026-06-22
   end: 2026-09-13
 photo: /assets/images/team/fellows-2026/Andrii-Pauchkov.jpg
-institution: Taras Shevchenko Kyiv National University
+institution: Taras Shevchenko National University of Kyiv
 e-mail: andrii.pauchkov@cern.ch
 focus-area:
 challenge-area:
@@ -31,9 +31,9 @@ presentations:
   - title:
     date:
     url:
-    meeting:
+    meeting: 
     meetingurl:
-    recordingurl:
+    recordingurl: 
     focus-area:
-current_status:
+current_status: 
 github-username: Pauchkov
