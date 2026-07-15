@@ -29,13 +29,6 @@ mentors:
   - Simone Pagan Griso, (Lawrence Berkeley National Laboratory)
 proposal: /assets/pdf/fellows-2026/UKR002-proposal-Andrii-Pauchkov.pdf
 presentations:
-  - title:
-    date:
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
-    focus-area:
 current_status:
 github-username: Pauchkov
 ---
