@@ -9,7 +9,7 @@ active: false
 dates:
   start: 2024-06-03
   end: 2024-08-24
-photo: /assets/images/team/fellows-2024/Con-Muangkod.png
+photo: /assets/images/team/fellows-2024/Con-Muangkod.jpg
 institution: University of Colorado Boulder
 e-mail: namu7292@colorado.edu
 focus-area: Analysis Grand Challenge, Machine Learning (Graph Neural Network)
