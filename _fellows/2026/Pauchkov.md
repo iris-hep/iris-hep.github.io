@@ -31,9 +31,9 @@ presentations:
   - title:
     date:
     url:
-    meeting: 
+    meeting:
     meetingurl:
-    recordingurl: 
+    recordingurl:
     focus-area:
-current_status: 
+current_status:
 github-username: Pauchkov
