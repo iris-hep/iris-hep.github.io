@@ -16,7 +16,7 @@ focus-area:
 challenge-area:
 project_title: Software for Detector Design for Future Wakefield-Based Colliders
 project_goal: >
-    This project focuses on extending the existing software pipeline
+  This project focuses on extending the existing software pipeline
   for detector-design studies of future wakefield-based colliders within the
   Key4hep software stack. The current pipeline already supports physics
   event generation and detector simulation, but presently includes only a
