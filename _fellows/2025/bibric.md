@@ -44,6 +44,6 @@ current_status: >
   Ongoing.
 github-username: "bibric"
 linkedin-profile:
-funding-source: impress-u
+funding-source: other
 ukraine: true
 ---

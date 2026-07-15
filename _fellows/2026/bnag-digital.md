@@ -24,4 +24,5 @@ presentations:
 current_status:
 github-username: bnag-digital
 linkedin-profile: https://www.linkedin.com/in/bornik-nag/
+funding-source: nsf
 ---

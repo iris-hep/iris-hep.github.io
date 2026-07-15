@@ -37,4 +37,6 @@ presentations:
 current_status:
 github-username: dasha-pn
 linkedin-profile: https://www.linkedin.com/in/daryna-shevchuk-dsh/
+funding-source: other
+ukraine: True
 ---

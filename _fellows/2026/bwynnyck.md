@@ -24,4 +24,6 @@ presentations:
 current_status:
 github-username: bwynnyck
 linkedin-profile:
+funding-source: other
+ukraine: True
 ---

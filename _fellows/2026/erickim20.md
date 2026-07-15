@@ -25,4 +25,5 @@ presentations:
 current_status:
 github-username: erickim20
 linkedin-profile: https://www.linkedin.com/in/erickim20
+funding-source: nsf
 ---

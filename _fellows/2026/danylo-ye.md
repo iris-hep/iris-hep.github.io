@@ -24,4 +24,6 @@ presentations:
 current_status:
 github-username: danylo-ye
 linkedin-profile:
+funding-source: other
+ukraine: true
 ---

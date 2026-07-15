@@ -33,4 +33,5 @@ presentations:
 current_status:
 github-username: knottedtree123
 linkedin-profile: https://www.linkedin.com/in/cody-tanner-12940421b
+funding: nsf
 ---

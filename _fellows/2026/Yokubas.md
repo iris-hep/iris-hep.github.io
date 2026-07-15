@@ -29,4 +29,5 @@ presentations:
 current_status:
 github-username: Yokubas
 linkedin-profile: https://www.linkedin.com/in/jok%C5%ABbas-ma%C4%8Diulis-ba688a400
+funding-source: other
 ---

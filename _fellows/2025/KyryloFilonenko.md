@@ -33,6 +33,6 @@ presentations:
 current_status:
 github-username: "KyryloFilonenko"
 linkedin-profile:
-funding-source: impress-u
+funding-source: other
 ukraine: true
 ---

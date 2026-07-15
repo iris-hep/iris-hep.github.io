@@ -28,4 +28,5 @@ presentations:
 current_status: >
 github-username: deimantejukneviciute
 linkedin-profile: https://www.linkedin.com/in/deimantė-juknevičiūtė-421849340/
+funding-source: other
 ---

@@ -31,4 +31,6 @@ proposal: /assets/pdf/fellows-2026/UKR002-proposal-Andrii-Pauchkov.pdf
 presentations:
 current_status:
 github-username: Pauchkov
+funding-source: other
+ukraine: True
 ---

@@ -35,4 +35,5 @@ current_status: >
   A placeholder for status updates
 github-username: pauliusb20
 linkedin-profile: https://www.linkedin.com/in/paulius-bal%C4%8Di%C5%ABnas-43159622b/
+funding-source: other
 ---

@@ -28,4 +28,6 @@ presentations:
 current_status:
 github-username: raven1423
 linkedin-profile: https://www.linkedin.com/in/mykyta-spitsyn-b8a163389/
+funding-source: other
+ukraine: True
 ---

@@ -29,4 +29,5 @@ presentations:
 current_status:
 github-username: both-sides
 linkedin-profile: https://www.linkedin.com/in/john-michael-noamesi
+funding-source: nsf
 ---

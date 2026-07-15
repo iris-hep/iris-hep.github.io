@@ -23,4 +23,5 @@ proposal: /assets/pdf/fellows-2026/LIT003-proposal-Ernesta-Idzelyte.pdf
 presentations:
 current_status: >
 github-username: ernesta57
+funding-source: other
 ---
