@@ -17,13 +17,13 @@ challenge-area:
 project_title: Software for Detector Design for Future Wakefield-Based Colliders
 project_goal: >
     This project focuses on extending the existing software pipeline
-for detector-design studies of future wakefield-based colliders within the
-Key4hep software stack. The current pipeline already supports physics
-event generation and detector simulation, but presently includes only a
-simplified smearing-based detector front-end (FE) response. The main
-goal of the project is to implement and validate more realistic detector
-FE response emulation and physics object reconstruction using native
-Gaudi algorithms.
+  for detector-design studies of future wakefield-based colliders within the
+  Key4hep software stack. The current pipeline already supports physics
+  event generation and detector simulation, but presently includes only a
+  simplified smearing-based detector front-end (FE) response. The main
+  goal of the project is to implement and validate more realistic detector
+  FE response emulation and physics object reconstruction using native
+  Gaudi algorithms.
 mentors:
   - Angira Rastogi, (Lawrence Berkeley National Laboratory)
   - Simone Pagan Griso, (Lawrence Berkeley National Laboratory)
