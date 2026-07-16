@@ -24,7 +24,7 @@ Machine learning for medical imaging :D
 Figuring out my focus for grad school
 
 ## I've got my eyes on:
-The MARCHESE project! 
+The MARCHESE project!
 
 ## I want to know more about:
 How to write more efficient gpu programing
