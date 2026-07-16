@@ -24,7 +24,7 @@ Long-lived particle searches, displaced-vertex reconstruction, silicon detectors
 Keeping analysis software compatible with evolving computing environments and data formats
 
 ## I've got my eyes on:
-HL-LHC, future colliders, trigger-level analysis, timing detectors/4D tracking, future file format R&D
+HL-LHC, future colliders, trigger-level analysis, timing detectors/4D tracking, monolithic active pixel sensors, future file format R&D
 
 ## I want to know more about:
 Sustainable computing and heterogeneous software, analysis reinterpretation techniques, anomaly detection
