@@ -21,7 +21,7 @@ I’m an incoming physics PhD student at New York University (NYU). My research 
 Long-lived particle searches, displaced-vertex reconstruction, silicon detectors, ATLAS Inner Tracker (ITk), YARR readout software, key4hep
 
 ## A problem I'm grappling with:
-Keeping analysis software compatible with evolving computing environments and data formats 
+Keeping analysis software compatible with evolving computing environments and data formats
 
 ## I've got my eyes on:
 HL-LHC, future colliders, trigger-level analysis, timing detectors/4D tracking, future file format R&D
