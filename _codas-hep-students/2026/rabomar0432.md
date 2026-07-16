@@ -20,7 +20,7 @@ I am working on search for Vector-like Quarks in the 2HDM framework. I am part o
 I have worked on the gFEX offline monitoring framework that is used to assess data quality at L1Calo trigger system level during the active running of the ATLAS experiment. Additionally I work with MC generation and analysis framework development
 
 ## A problem I'm grappling with:
-The final state for the analysis is a 6 b-jet. b-jets can be difficult to identify and we use b-taggers to identify them. However, these do not have a perfet efficiency. Reconstructing VLQs and heavy higgs from the jets is a complicated and time consuming. Currrently, I am wotrking with SPANet to perform reconstruction
+The final state for the analysis is a 6 b-jet. b-jets can be difficult to identify and we use b-taggers to identify them. However, these do not have a perfet efficiency. Reconstructing VLQs and heavy higgs from the jets is a complicated and time consuming. Currently, I am wotrking with SPANet to perform reconstruction
 
 
 
