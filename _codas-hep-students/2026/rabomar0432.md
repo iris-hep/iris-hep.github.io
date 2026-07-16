@@ -5,7 +5,7 @@ institution: Indiana University Bloomington
 name: Rabia Omar
 photo: "/assets/images/codas-hep/2026/rabia-omar.jpg"
 github-username: rabomar0432
-linkedin-profile: 
+linkedin-profile:
 orcid:
 title:
 website:
