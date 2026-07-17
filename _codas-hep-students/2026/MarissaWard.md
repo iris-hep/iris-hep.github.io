@@ -27,4 +27,4 @@ Figuring out my focus for grad school
 The MARCHESE project!
 
 ## I want to know more about:
-How to write more efficient gpu programing
+How to write more efficient gpu programming
