@@ -10,7 +10,7 @@ orcid:
 title: Ph.D. Student in Physics
 website:
 logos:
-    - /assets/images/codas-hep/logos/DUNE.png
+    - /assets/images/codas-hep/logos/DUNElogo_color.jpg
     - /assets/images/codas-hep/logos/UIowa.png
 ---
 
