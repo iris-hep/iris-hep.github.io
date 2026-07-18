@@ -3,7 +3,7 @@ layout: codas-hep-participant
 e-mail: halit-bagdu@uiowa.edu
 institution: University of Iowa
 name: Halit Bagdu
-photo: "/assets/images/codas-hep/2026/Halit-Bagdu.jpg"
+photo: "/assets/images/codas-hep/2026/Halit-Bagdu.png"
 github-username: hbagdu
 linkedin-profile: https://www.linkedin.com/in/halit-ramazan-bagdu/
 orcid:
