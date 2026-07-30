@@ -21,7 +21,7 @@ mentors:
   - Rocky Bala Garg (Stanford University)
   - Lauren Tompkins (Stanford University)
   - Mike Sokoloff (University of Cincinnati)
-proposal:
+proposal: /‎assets/pdf/fellows-2026/USA009-proposal-Trey-Warner.pdf‎
 presentations:
 current_status:
 github-username: treywarner72
