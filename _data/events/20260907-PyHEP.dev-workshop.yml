@@ -1,0 +1,8 @@
+name: PyHEP.dev 2026 - "Python in HEP" Developer's Workshop
+startdate: 2026-09-07
+enddate: 2026-09-09
+location: Nikhef, Amsterdam, Netherlands
+meetingurl: https://indico.nikhef.nl/event/7873/
+image:
+description: >
+  PyHEP.dev is an in-person, informal workshop for developers of Python software in HEP to plan a coherent roadmap and make priorities for the upcoming year. It complements the PyHEP Users online workshop, which is intended for both developers and physicists.
