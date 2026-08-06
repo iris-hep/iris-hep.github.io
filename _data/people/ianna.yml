@@ -10,6 +10,46 @@ shortname: ianna
 title: Research Software Engineer
 website: https://github.com/ianna
 presentations:
+  - title: "GPU-Accelerated Awkward Arrays with CUDA Python"
+    date: 2026-07-15
+    url: https://www.scipy2026.scipy.org/schedule
+    meeting: SciPy 2026
+    meetingurl: https://www.scipy2026.scipy.org/
+    location: Minneapolis, MN, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "The Scientific Python Ecosystem"
+    date: 2026-07-15
+    url: https://indico.cern.ch/event/1704372/timetable/#55-the-scientific-python-ecosy
+    meeting: Eighth Computational and Data Science school for HEP (CoDaS-HEP 2026)
+    meetingurl: https://indico.cern.ch/event/1704372/
+    location: Princeton, NJ, USA
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: Awkward & Uproot 12-Month Roadmap"
+    date: 2026-06-16
+    url: https://indico.cern.ch/event/1642331/contributions/6907709/attachments/3296256/5900617/Awkward%20&%20Uproot_%2012-Month%20Roadmap.pptx.pdf
+    meeting: AS Fortnightly Meeting
+    meetingurl: https://indico.cern.ch/event/1642331/
+    location: CERN
+    focus-area:
+      - as
+    project:
+      - awkward
+  - title: "Bridging the Vendor Gap: Enabling AMD GPU Support for Awkward Array via ROCm/HIP for the HL-LHC Era"
+    date: 2026-05-25
+    url: https://indi.to/Kt7Jp
+    meeting: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    location: Bangkok, Thailand
+    focus-area:
+      - as
+    project:
+      - awkward
   - title: "Awkward Arrays and JAX."
     date: 2026-03-05
     url: https://indico.cern.ch/event/1633539/contributions/6915476/attachments/3232549/5762552/Awkward%20Array%20and%20JAX.pdf
