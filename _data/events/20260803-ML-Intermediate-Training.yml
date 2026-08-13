@@ -1,0 +1,9 @@
+name: "HSF/IRIS-HEP Machine Learning Training - Intermediate Level"
+startdate: 2026-08-03
+enddate: 2026-08-04
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1706524/
+image:
+description: introduce basics of Machine learning with examples, develop a sense of statistics/data science algorithms, terminology of machine learning, introduce Python frameworks to start building first Machine, familiarize with basic ML models, ability to self-learn afterwards
+labels:
+  - training
