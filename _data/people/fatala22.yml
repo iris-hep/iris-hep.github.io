@@ -8,6 +8,20 @@ shortname: fatala22
 title: Training, Education and Outreach Coordinator
 website: http://charma.uprm.edu/~malik/
 presentations:
+  - title: "Expanding Participation in HEP and STEM Through IRIS-HEP Training, Education, and Outreach"
+    date: 2026-07-21
+    url: https://indico.fnal.gov/event/72820/contributions/340997/
+    meeting: Division of Particles and Fields 2026
+    meetingurl: https://indico.fnal.gov/event/72820/
+    focus-area: ssc
+    location: "Fermilab"
+  - title: "Introduction to Computing and HEP at CERN"
+    date: 2026-05-25
+    url: https://indico.cern.ch/event/1671347/timetable/?view=standard#4-introduction-to-the-hsfgsoc
+    meeting: HSF/GSoC Training Orientation 2026
+    meetingurl: https://indico.cern.ch/event/1671347/
+    focus-area: ssc
+    location: "CERN(Virtual)"
   - title: "Panel discussion: Snowmass recommendations on community"
     date: 2024-05-17
     url: https://indico.cern.ch/event/1358339/contributions/5814160/
