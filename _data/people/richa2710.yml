@@ -8,6 +8,13 @@ shortname: richa2710
 title: Postdoctoral Research Associate
 website: https://richa2710.github.io/
 presentations:
+  - title: "Activities of the HSF Training Group"
+    date: 2026-06-03
+    url: https://indico.cern.ch/event/1684734/#3-activities-of-the-hsf-traini
+    meeting: 8th Open Science Practitioners Forum: Training and Onboarding
+    meetingurl: https://indico.cern.ch/event/1684734/
+    focus-area: ssc
+    location: "CERN (Virtual)"
   - title: "HEP Software Training with IRIS-HEP/HSF"
     date: 2026-05-28
     url: https://indico.cern.ch/event/1471803/contributions/6968288/
