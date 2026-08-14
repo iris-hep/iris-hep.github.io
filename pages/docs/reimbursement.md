@@ -73,6 +73,12 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [Computational HEP Traineeship Summer School 2026](https://indico.cern.ch/event/1672591/overview)
+  * Location: BNL
+  * Meeting Dates: 10-14 August, 2026
+  * Business purpose: Participation in Computational HEP Traineeship Summer School 2026 event
+  * "event-prefix" for pdf file naming: CompHEP-2026
+
 #### [USATLAS/IRIS-HEP Analysis Software Training](https://indico.cern.ch/event/1633749/)
   * Location: Tucson, AZ
   * Meeting Dates: 30-31 July, 2026
