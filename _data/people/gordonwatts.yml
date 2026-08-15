@@ -567,3 +567,11 @@ presentations:
     project:
       - llm
     location: Virtual
+  - title: "Running Headlong the Vortex: The Intersection of Experimental Particle Physics, LLMs, Agentic Workflows, and Collaborations"
+    date: 2026-08-13
+    url: https://iaifi.org/summer-workshop.html
+    meeting: "2026 IAIFI Summer Workshop"
+    meetingurl: https://iaifi.org/summer-workshop.html
+    project:
+      - llm
+    location: "MIT Schwarzman College of Computing, Cambridge, MA"
