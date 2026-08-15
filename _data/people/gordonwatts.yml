@@ -559,3 +559,11 @@ presentations:
     project:
       - llm
     location: CERN
+  - title: "Agents and the future of HEP Analysis"
+    date: 2026-06-22
+    url: https://indico.cern.ch/event/1696598/contributions/7151771
+    meeting: "Bunches of Agents: Mini talk series (part 1)"
+    meetingurl: https://indico.cern.ch/event/1696598/
+    project:
+      - llm
+    location: Virtual
