@@ -6,12 +6,13 @@ pagetype: doc
 ---
 
   This page documents the guidelines for reimbursement of participant travel
-expenses which are being covered by the IRIS-HEP project. Please read
-carefully the entire document, including both the general guidelines and
-any event- or workshop-specific instructions described at the end of this
-page. Additional instructions or limitations for reimbursement may also have
-been included in any email you received informing you that your travel is
-eligible for reimbursement from the IRIS-HEP project.
+expenses which are being covered by the IRIS-HEP project (or other similar
+projects at Princeton which support event participation costs). Please read carefully
+the entire document, including both the general guidelines and any event- or workshop-specific
+instructions described at the end of this page. Additional instructions or limitations
+for reimbursement may also have been included in any email you received informing you
+that your travel is eligible for reimbursement from the IRIS-HEP project (or other
+similar projects at Princeton).
 
 ### General Guidelines for Reimbursement of Travel Expenses
 
@@ -72,6 +73,12 @@ Please note the following:
 
 
 ### Notes for specific events and workshops (reverse chronological order)
+
+#### [CLARIPHY - AI Collaboration Meeting (Sep 2026)](https://indico.global/event/18639/overview)
+  * Location: Madison, WI
+  * Meeting Dates: 14-16 September, 2026
+  * Business purpose: Participation in the CLARIPHY AI Collaboration Meeting September 2026 event
+  * "event-prefix" for pdf file naming: CLARIPHY-Sep2026
 
 #### [Computational HEP Traineeship Summer School 2026](https://indico.cern.ch/event/1672591/overview)
   * Location: BNL
