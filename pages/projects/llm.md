@@ -7,7 +7,7 @@ pagetype: project
 image: logos/particle-llm.png
 logowidth: 30%
 blurb: Umbrella project gathering institute efforts using LLMs as assistants.
-maturity: Development
+maturity: Exploratory
 maturity-note:
 focus-area: as
 start-date: 2025-01-01
