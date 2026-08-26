@@ -79,7 +79,7 @@ Please note the following:
   * Meeting Dates: 14-16 September, 2026
   * Business purpose: Participation in the CLARIPHY AI Collaboration Meeting September 2026 event
   * "event-prefix" for pdf file naming: CLARIPHY-Sep2026
-    
+
 #### [Computational HEP Traineeship Summer School 2026](https://indico.cern.ch/event/1672591/overview)
   * Location: BNL
   * Meeting Dates: 10-14 August, 2026
