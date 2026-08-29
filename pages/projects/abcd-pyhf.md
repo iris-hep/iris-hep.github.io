@@ -6,7 +6,7 @@ shortname: abcd-pyhf
 pagetype: project
 image: logos/Iris-hep-5-just-graphic.png
 blurb: Likelihood-based ABCD method with pyhf
-maturity: Development
+maturity: Deployed
 maturity-note:
 github: https://github.com/masonproffitt/abcd-pyhf
 start-date: 2021-11-23
