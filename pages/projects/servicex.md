@@ -7,7 +7,7 @@ pagetype: project
 image: logos/ServiceX-Color-Transparent.png
 logowidth: 10%
 blurb: Delivering columnar data on demand
-maturity: Testing
+maturity: Deployed
 maturity-note:
 github: https://github.com/ssl-hep/ServiceX
 start-date: 2019-04-17

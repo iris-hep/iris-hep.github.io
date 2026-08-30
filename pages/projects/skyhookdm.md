@@ -7,9 +7,10 @@ pagetype: project
 image: logos/skyhookdmLogoJeff.png
 logowidth: 20%
 blurb: Programmable Storage for Databases and Datasets
-maturity: Development
+maturity: Archived
 maturity-note:
 start-date: 2021-02-01
+end-date: 2023-01-01
 focus-area: doma
 team:
 - jlefevre
