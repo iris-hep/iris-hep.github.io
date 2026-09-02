@@ -1,8 +1,8 @@
 ---
 layout: fellow
 pagetype: fellow
-shortname: deimantejukneviciute
-permalink: /fellows/deimantejukneviciute.html
+shortname: deimantae
+permalink: /fellows/deimantae.html
 fellow-name: Deimantė Juknevičiūtė
 title: Deimantė Juknevičiūtė - IRIS-HEP Fellow
 active: True
@@ -26,7 +26,7 @@ mentors:
 proposal: /assets/pdf/fellows-2026/LIT008-proposal-Deimante-Jukneviciute.pdf
 presentations:
 current_status: >
-github-username: deimantejukneviciute
+github-username: deimantae
 linkedin-profile: https://www.linkedin.com/in/deimantė-juknevičiūtė-421849340/
 funding-source: other
 ---
