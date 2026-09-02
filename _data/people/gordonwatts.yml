@@ -575,3 +575,12 @@ presentations:
     project:
       - llm
     location: "MIT Schwarzman College of Computing, Cambridge, MA"
+  - title: "AI Agents and the future of HEP Analysis"
+    date: 2026-09-02
+    url: https://indico.cern.ch/event/1655754/contributions/7222252/
+    meeting: "Sixth MODE Workshop on Differentiable Programming for Experiment Design"
+    meetingurl: https://indico.cern.ch/event/1655754/
+    focus-area: as
+    project:
+      - llm
+    location: "OAC conference center, Kolymbari, Crete, Greece."
