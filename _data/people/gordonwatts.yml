@@ -584,3 +584,11 @@ presentations:
     project:
       - llm
     location: "OAC conference center, Kolymbari, Crete, Greece."
+  - title: "Tutorial: how to use LLMs via API"
+    date: 2026-09-05
+    url: https://indico.cern.ch/event/1655754/contributions/7255932/
+    meeting: "Sixth MODE Workshop on Differentiable Programming for Experiment Design"
+    meetingurl: https://indico.cern.ch/event/1655754/
+    project:
+      - llm
+    location: "OAC conference center, Kolymbari, Crete, Greece."
