@@ -1,10 +1,19 @@
-active: false
+active: true
 focus-area:
-  - ia
+  - high energy experimental particle physics
+  - pv-finder
 institution: University of Cincinnati
 name: Michael Peters
 photo: /assets/images/team/Michael-Peters.jpg
 shortname: michael24peters
-title:
-website: https://www.linkedin.com/in/michael-peters-m24p/
+title: 
+website: petersmj.com
 presentations:
+  - title: Optimizing PV-Finder for Allen
+    date: 2026-09-09
+    url: https://indico.cern.ch/event/1698548/overview
+    meeting: IRIS-HEP Institute Retreat 2026
+    meetingurl: https://cern.zoom.us/j/67178067186?pwd=FKqpMYviBZbbG5q0w2S6ZyRXg876bV.1
+    project: pv-finder
+    focus-area: as
+    location: in-person
