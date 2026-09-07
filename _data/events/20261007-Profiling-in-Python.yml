@@ -1,0 +1,9 @@
+name: "HSF/IRIS-HEP Profiling in Python Training"
+startdate: 2026-10-07
+enddate: 2026-10-07
+location: Virtual
+meetingurl: https://indico.cern.ch/event/1723179/
+image:
+description: Python is widely used at CERN to orchestrate high-performance C++ libraries (like ROOT and PyROOT), code profiling training focuses heavily on locating bottlenecks, optimizing memory usage, and working within High-Performance Computing (HPC) environments.
+labels:
+  - training
