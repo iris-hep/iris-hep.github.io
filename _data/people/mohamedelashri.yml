@@ -8,6 +8,35 @@ shortname: mohamedelashri
 title:
 website: https://melashri.net/
 presentations:
+  - title: Invited talk, PV finding with CNN
+    date: 2026-09-08
+    url: https://indico.cern.ch/event/1700279/contributions/7251443/attachments/3338970/5983629/pvfinder_rta_france_melashri_08092026.pdf
+    meeting: RTA-France Meeting 2026
+    meetingurl: https://indico.cern.ch/event/1700279/
+    location: CPPM
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+
+  - title: "Building the HEP Agent Stack, MCP Servers, CLI Tools, and Skill-Based Workflows for Scientific Analysis"
+    date: 2026-04-29
+    url: https://indico.cern.ch/event/1676374/contributions/7047128/attachments/3265922/5832872/IRIS_HEP_agnetic_ai_topical_meeting_melashri.pdf
+    meeting: "LLM/AI tool use in particle physics"
+    meetingurl: https://indico.cern.ch/event/1676374/
+    location:
+    project:
+      - llm
+
+  - title: "ROOT-MCP: LLM Powered HEP Analysis"
+    date: 2026-02-26
+    url: https://indico.cern.ch/event/1654454/contributions/6954825/attachments/3227707/5752728/root_mcp_ROOT_Team_Meeting_26Feb2026.pdf
+    meeting: "193rd ROOT Parallelism, Performance and Programming Model Meeting"
+    meetingurl: https://indico.cern.ch/event/1654454/
+    location: CERN
+    project:
+      - llm
+
   - title: Challenges Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb GPU-Resident HLT1
     date: 2025-11-11
     url: https://indico.cern.ch/event/1499357/contributions/6622084/attachments/3171051/5637501/PVFinder_CTD_Tokyo_2025_poster.pdf
@@ -19,6 +48,15 @@ presentations:
     project:
       - pv-finder
 
+  - title: "HEPilot: Integrating Embeddings, Vector Search, and RAG for Physics Use Case"
+    date: 2025-07-01
+    url: https://indico.cern.ch/event/1557398/contributions/6579623/attachments/3095654/5484032/IML_HEPilot_July_1st_2025.pdf
+    meeting: "IML Machine Learning Working Group: Chatbots at CERN"
+    meetingurl: https://indico.cern.ch/event/1557398/
+    location: CERN
+    project:
+      - llm
+
   - title: Challenges Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb GPU-Resident HLT1
     date: 2025-05-22
     url: https://indico.cern.ch/event/1502120/contributions/6505987/attachments/3073274/5437821/IML_2025_workshop_PVFinder_MElashri.pdf
@@ -29,6 +67,16 @@ presentations:
       - ia
     project:
       - pv-finder
+
+  - title: "LHCbFinder - Advancing Knowledge Discovery at LHCb with Semantic Search and LLMs"
+    date: 2025-05-20
+    url: https://indico.cern.ch/event/1502120/contributions/6506028/attachments/3073392/5437863/LHCbFinder_Poster.pdf
+    meeting: "7th Inter-Experimental LHC Machine Learning Workshop"
+    meetingurl: https://indico.cern.ch/event/1502120/
+    location: CERN
+    project:
+      - llm
+
   - title: Experiences Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb’s GPU-Resident HLT1
     date: 2025-09-05
     url: https://indico.cern.ch/event/1496673/contributions/6637932/attachments/3129379/5551299/pvfinder_fastml_2025.pdf
