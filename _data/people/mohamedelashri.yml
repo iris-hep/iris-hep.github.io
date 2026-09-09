@@ -8,6 +8,17 @@ shortname: mohamedelashri
 title:
 website: https://melashri.net/
 presentations:
+  - title:  Invited talk, PV finding with CNN 
+    date: 2026-09-08
+    url: https://indico.cern.ch/event/1700279/contributions/7251443/attachments/3338970/5983629/pvfinder_rta_france_melashri_08092026.pdf
+    meeting: RTA-France Meeting 2026
+    meetingurl: https://indico.cern.ch/event/1700279/
+    location: CPPM
+    focus-area:
+      - ia
+    project:
+      - pv-finder
+
   - title: Challenges Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb GPU-Resident HLT1
     date: 2025-11-11
     url: https://indico.cern.ch/event/1499357/contributions/6622084/attachments/3171051/5637501/PVFinder_CTD_Tokyo_2025_poster.pdf
