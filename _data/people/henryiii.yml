@@ -435,3 +435,48 @@ presentations:
     location: Princeton, NJ
     focus-area: ssc
     project:
+
+  - title: Level up your python
+    date: 2026-08-10
+    url: https://indico.cern.ch/event/1672591/contributions/7130123/
+    meeting: Computational HEP Traineeship Summer School 2026
+    meetingurl: https://indico.cern.ch/event/1672591/
+    location: Brookhaven National Laboratory
+    focus-area: ssc
+    project:
+
+  - title: Tools to write better code
+    date: 2026-08-11
+    url: https://indico.cern.ch/event/1672591/contributions/7130153/
+    meeting: Computational HEP Traineeship Summer School 2026
+    meetingurl: https://indico.cern.ch/event/1672591/
+    location: Brookhaven National Laboratory
+    focus-area: ssc
+    project:
+
+  - title: Agentic AI
+    date: 2026-08-11
+    url: https://indico.cern.ch/event/1672591/contributions/7130154/
+    meeting: Computational HEP Traineeship Summer School 2026
+    meetingurl: https://indico.cern.ch/event/1672591/
+    location: Brookhaven National Laboratory
+    focus-area: ssc
+    project:
+
+  - title: Agentic Software Engineering
+    date: 2026-09-07
+    url: https://indico.nikhef.nl/event/7873/contributions/31514/
+    meeting: PyHEP.dev 2026 - "Python in HEP" Developer's Workshop
+    meetingurl: https://indico.nikhef.nl/event/7873/
+    location: Nikhef, Amsterdam, Netherlands
+    focus-area:
+    project:
+
+  - title: Histogramming Updates
+    date: 2026-09-09
+    url: https://indico.nikhef.nl/event/7873/contributions/31516/
+    meeting: PyHEP.dev 2026 - "Python in HEP" Developer's Workshop
+    meetingurl: https://indico.nikhef.nl/event/7873/
+    location: Nikhef, Amsterdam, Netherlands
+    focus-area: as
+    project: histogram
