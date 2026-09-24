@@ -17,7 +17,7 @@ The following text should be used for projects involving both the first and seco
 *This work was supported by the National Science Foundation under Cooperative Agreements OAC-1836650 and PHY-2323298.*
 
 ---
-Newer projects started in 2024 and beyond can just reference the newer award (and also include the "IRIS-HEP" name explicitly:
+Newer projects started in 2024 and beyond can just reference the newer award (and also include the "IRIS-HEP" name explicitly):
 
 ---
 
