@@ -781,3 +781,41 @@ presentations:
     challenge-area: agc
     project:
       - ic
+
+  - title: "LLM-based Q&A experiments"
+    date: 2026-07-17
+    url: https://indico.cern.ch/event/1697398/#5-llm-based-qa-experiments
+    meeting: IRIS-HEP / AGC Demo Day 13
+    meetingurl: https://indico.cern.ch/event/1697398/
+    location: "CERN"
+    focus-area:
+      - as
+    project:
+
+  - title: "A python-based analysis pipeline for the ATLAS Integration Challenge"
+    date: 2021-09-07
+    url: https://indico.nikhef.nl/event/7873/contributions/31400/
+    meeting: PyHEP.dev 2026 - "Python in HEP" Developer's Workshop
+    meetingurl: https://indico.nikhef.nl/event/7873/
+    location: "Amsterdam, Netherlands"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - ic
+
+  - title: "Analysis Grand Challenge / Integration Challenge status"
+    date: 2021-09-09
+    url: https://indico.cern.ch/event/1698548/timetable/#15-analysis-grand-challenge
+    meeting: IRIS-HEP Institute Retreat 2026
+    meetingurl: https://indico.cern.ch/event/1698548/
+    location: "Amsterdam, Netherlands"
+    focus-area:
+      - as
+      - doma
+      - ssl
+    challenge-area: agc
+    project:
+      - ic
