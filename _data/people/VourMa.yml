@@ -8,6 +8,17 @@ shortname: VourMa
 title:
 website: https://github.com/VourMa
 presentations:
+  - title: "A heterogeneous and vectorized sequence for the HL-LHC full tracking reconstruction of the CMS experiment"
+    meeting: Computing in High Energy and Nuclear Physics (CHEP2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    url: https://indico.cern.ch/event/1471803/contributions/6966937/
+    date: 2026-05-27
+    focus-area: ia
+    project:
+      - lst
+      - mkfit
+    labels:
+      - conference
   - title: "LST in Phase 2 HLT: Conﬁgurations with (Single Iteration) Patatrack"
     meeting: HLT Upgrade (CMS restricted)
     meetingurl: https://indico.cern.ch/event/1482695/
