@@ -8,6 +8,15 @@ shortname: leonardogiannini
 title:
 website: https://github.com/leonardogiannini
 presentations:
+  - title: "mkFit for track fitting with the CMS Phase-2 detector"
+    meeting: Computing in High Energy and Nuclear Physics (CHEP2026)
+    meetingurl: https://indico.cern.ch/event/1471803/
+    url: https://indico.cern.ch/event/1471803/contributions/6967171/
+    date: 2026-05-26
+    focus-area: ia
+    project: mkfit
+    labels:
+      - conference
   - title: "CMS Tracking: mkfit"
     meeting: IRIS-HEP Institute Retreat
     meetingurl: https://indico.cern.ch/event/1374962/
