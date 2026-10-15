@@ -816,3 +816,51 @@ presentations:
     date: 2026-05-06
     focus-area: osglhc
     project: osg-networking
+  - title: DC27 and (Mini) Data Challenge Planning
+    meeting: "USATLAS Face-to-Face Meeting at Throughput Computing 2026 (HTC26)"
+    url: https://agenda.hep.wisc.edu/event/2432/contributions/38165/attachments/11364/15122/DC27%20and%20(Mini)%20Data%20Challenge%20Planning.pdf
+    location: Madison, WI, US
+    meetingurl: https://agenda.hep.wisc.edu/event/2432/
+    date: 2026-06-10
+    focus-area: osglhc
+    project: osg-networking
+  - title: OSG Networking Area Update
+    meeting: "OSG-PATh Staff Meeting"
+    url: https://docs.google.com/presentation/d/1IvJR8wk2_gxTRIpS_7QbelYAQ366OjBEQIQ0pqJIFFs/edit?usp=sharing
+    location: Virtual
+    meetingurl: https://osg-htc.org
+    date: 2026-07-29
+    focus-area: osglhc
+    project: osg-networking
+  - title: LHCONE Monitoring Update
+    meeting: "LHCOPN/LHCONE Meeting #57"
+    url: https://indico.cern.ch/event/1677691/contributions/7229898/attachments/3353684/6013925/LHCONE%20Monitoring%20Update%20Fall%202026.pdf
+    location: Naples, Italy
+    meetingurl: https://indico.cern.ch/event/1677691/
+    date: 2026-10-01
+    focus-area: osglhc
+    project: osg-networking
+  - title: Host Tuning Progress
+    meeting: "LHCOPN/LHCONE Meeting #57"
+    url: https://docs.google.com/presentation/d/12Urug0bZuLEgtsfIpQznFVly3TA9I98g/edit?usp=sharing
+    location: Naples, Italy
+    meetingurl: https://indico.cern.ch/event/1677691/
+    date: 2026-10-01
+    focus-area: osglhc
+    project: osg-networking
+  - title: Perimeter Security Update
+    meeting: "LHCOPN/LHCONE Meeting #57"
+    url: https://indico.cern.ch/event/1677691/contributions/7277077/attachments/3353849/6014464/Perimeter%20Security%20LHCONE%2057.pdf
+    location: Naples, Italy
+    meetingurl: https://indico.cern.ch/event/1677691/
+    date: 2026-10-01
+    focus-area: osglhc
+    project: osg-networking
+  - title: "RNTWG Update: SciTags"
+    meeting: "LHCOPN/LHCONE Meeting #57"
+    url: https://indico.cern.ch/event/1677691/contributions/7301890/attachments/3354769/6016401/Scitags%20LHCOPN_ONE%20Naples%20(1).pdf
+    location: Naples, Italy
+    meetingurl: https://indico.cern.ch/event/1677691/
+    date: 2026-10-02
+    focus-area: osglhc
+    project: osg-networking
