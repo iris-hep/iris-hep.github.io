@@ -848,14 +848,6 @@ presentations:
     date: 2026-10-01
     focus-area: osglhc
     project: osg-networking
-  - title: Perimeter Security Update
-    meeting: "LHCOPN/LHCONE Meeting #57"
-    url: https://indico.cern.ch/event/1677691/contributions/7277077/attachments/3353849/6014464/Perimeter%20Security%20LHCONE%2057.pdf
-    location: Naples, Italy
-    meetingurl: https://indico.cern.ch/event/1677691/
-    date: 2026-10-01
-    focus-area: osglhc
-    project: osg-networking
   - title: "RNTWG Update: SciTags"
     meeting: "LHCOPN/LHCONE Meeting #57"
     url: https://indico.cern.ch/event/1677691/contributions/7301890/attachments/3354769/6016401/Scitags%20LHCOPN_ONE%20Naples%20(1).pdf
