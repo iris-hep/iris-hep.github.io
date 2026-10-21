@@ -104,6 +104,7 @@ presentations:
       - doma
     project:
       - servicex
+      - llm
   - title: Distributing Community MCP Servers
     date: 2026-01-22
     url: https://doi.org/10.5281/zenodo.18405463
@@ -126,3 +127,15 @@ presentations:
       - doma
     project:
       - servicex
+
+  - title: "MLFlow for Developing Agentic Applications"
+    date: 2026-10-20
+    url: https://indico.cern.ch/event/1716863/contributions/7317465/
+    meeting: Knowledge Bases and Agents CERN
+    meetingurl: https://indico.cern.ch/event/1716863/
+    location: CERN
+    focus-area:
+      - as
+      - doma
+    project:
+      - llm
