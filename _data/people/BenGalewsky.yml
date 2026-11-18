@@ -139,3 +139,14 @@ presentations:
       - doma
     project:
       - llm
+
+  - title: "Can Open Weight Models Reduce Our Dependency On Commercial AI?"
+    date: 2026-11-05
+    url: https://indico.cern.ch/event/1655190/contributions/7312746/
+    meeting: WLCG/HSF Workshop 2026
+    meetingurl: https://indico.cern.ch/event/1655190
+    location: Bologna
+    focus-area:
+      - as
+    project:
+      - llm
